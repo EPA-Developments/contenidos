@@ -1,0 +1,142 @@
+<?php include "include/header.php" ?>
+        <!-- Start Page Banner Area -->
+        <div class="page-banner-area">
+  <div class="container">
+    <div class="page-banner-content">
+      <ul data-aos="fade-right" data-aos-delay="70" data-aos-duration="700">
+        <li><a href="/">Home</a></li>
+        <li>Contact Us</li>
+      </ul>
+    </div>
+  </div>
+</div>
+        <!-- End Page Banner Area -->
+        <!-- Start Contact Area -->
+        <div class="contact-area ptb-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="contact-form-wrap">
+                            <h3>Send Us a Message</h3>
+                            <form action="" class="row" onsubmit="submitForm(); return false;" method="post" autocomplete="off" id="dateForm">
+                                <div class="form-group col-lg-6">
+                                    <label>Your Name</label>
+                                    <input type="text" name="name" class="form-control" pattern="[a-zA-Z\s]*" maxlength="20" title="only characters are allowed" placeholder="Enter your Name" oninput="checkRepeatingCharacters(this)"/>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+
+                                <div class="form-group col-lg-6">
+                                    <label>Your Email</label>
+                                    <input type="email" name="mail_Id" class="form-control" required data-error="Please enter your email" placeholder="Enter your email">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+
+                                <div class="form-group col-lg-6">
+                                    <label>Phone Number</label>
+                                    <input type="tel" class="form-control" maxlength="10" pattern="[6789][0-9]{9}" name="phone" id="phone" required placeholder="Phone Number*" title="only numbers are allowed">  
+                                    <div class="help-block with-errors"></div>
+                                </div>
+
+                                <div class="form-group col-lg-6">
+                                    <label>Location</label>
+                                    <input type="text" name="branch" class="form-control" placeholder="Enter your location" required="" />
+                                    <input type="hidden" id="department" name="department" value="Cardiology" />
+                                    <input type="hidden" id="source" name="source" value="website" />
+                                    <input type="hidden" id="campaignid" name="campaignid" value="OTHERWEBS" />
+                                    <input type="hidden" id="sourceUrl" name="url">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+
+                                <div class="form-group col-12">
+                                    <label>Your Message</label>
+                                    <textarea name="message" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Type your message"></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                                <div class="form-group col-12 mb-0 pt-3">
+                                    <button type="submit" class="default-btn">Send Message</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Contact Area -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Ensure the input element exists before setting its value
+  const sourceUrlInput = document.getElementById("sourceUrl");
+  if (sourceUrlInput) {
+    sourceUrlInput.value = window.location.href; // Capture current page URL
+  } else {
+    console.error("sourceUrl input not found in the DOM.");
+  }
+});
+
+
+  // Function to validate name input for consecutive repeating characters
+  function checkRepeatingCharacters(input) {
+    const value = input.value.toLowerCase(); // Case-insensitive
+    const consecutiveRepeatsRegex = /([a-z])\1{2,}/; // Matches three or more consecutive letters
+    if (consecutiveRepeatsRegex.test(value)) {
+      alert("Please enter a name without consecutive repeating characters.");
+      input.value = "";
+    }
+  }
+
+  // Function to handle phone validation on blur
+  $(function () {
+    $("#phone").on("blur", function () {
+      const phone = $(this).val();
+      if (/^(\d)\1{9}$/.test(phone)) {
+        alert("Enter a valid phone number with different digits.");
+        $(this).val("").focus();
+      }
+    });
+  });
+
+// Function to handle form submission via fetch
+function submitForm() {
+    var formData = new FormData(document.getElementById('dateForm'));
+    fetch('https://emr.epa-bienestar.com.ar/apis/default/fhir', {
+        method: 'POST',
+        body: new URLSearchParams(formData),
+        redirect: 'follow'
+    })
+    .then(response => {
+        console.log('Fetch response status:', response.status);
+        return response.json();
+    })
+    .then(data => {
+        console.log('Response data:', data);
+        if (data.success) {
+            alert("You have been successfully submitted.");
+            window.top.location.href = 'thank-you.php'; 
+        } else {
+            if (data.error) {
+                alert(data.message);
+            } else {
+                console.error('Database insertion error:', data.message);
+                alert('An error occurred. Please try againnn.');
+            }
+        }
+    })
+    .catch(error => {
+       
+            // Clear all form input values
+    const form = document.getElementById("dateForm");
+    form.querySelectorAll("input").forEach(input => input.value = "");
+
+    // Show success message (even if there's an error, based on your code)
+    //alert("You have been successfully submitted.");
+
+    // Redirect to the thank-you page
+    window.top.location.href = 'thank-you.php';
+    });
+}
+
+
+</script>
+
+<?php include "include/footer.php" ?>
