@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the early signs of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early signs of angina include chest pain, pressure, tightness, and discomfort. It may also cause pain in the arms, neck, jaw, shoulders, or back.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can chest pain be a symptom of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain can be a symptom of angina when the heart muscle doesn't get enough blood and oxygen. It's a warning sign to seek medical attention promptly.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the warning signs of a heart attack that can be confused with angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Warning signs of a heart attack that can be confused with angina include chest pain, shortness of breath, nausea, sweating, and pain in other areas like the arms or jaw.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does angina pain differ from other types of chest pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pain is typically triggered by physical exertion or stress, while other chest pain can occur at rest. Angina may also be relieved by rest or medication.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What triggers angina symptoms and how can they be identified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina symptoms can be triggered by physical exertion, stress, cold weather, or heavy meals. They can be identified by chest pain or discomfort, shortness of breath, and fatigue.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the early signs of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early signs of angina include chest pain, pressure, tightness, and discomfort. It may also cause pain in the arms, neck, jaw, shoulders, or back.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help identify angina symptoms early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover offers comprehensive health screenings and tests to detect early signs of angina, such as ECGs and stress tests, helping to identify symptoms before they worsen.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can chest pain be a symptom of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain can be a symptom of angina when the heart muscle doesn't get enough blood and oxygen. It's a warning sign to seek medical attention promptly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do shortness of breath and fatigue relate to angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shortness of breath and fatigue are common symptoms of angina due to reduced blood flow to the heart. Early identification is crucial for prompt treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the warning signs of a heart attack that can be confused with angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warning signs of a heart attack that can be confused with angina include chest pain, shortness of breath, nausea, sweating, and pain in other areas like the arms or jaw.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the key differences between stable and unstable angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina symptoms occur predictably with exertion, while unstable angina symptoms are unpredictable and can happen at rest.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does angina pain differ from other types of chest pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pain is typically triggered by physical exertion or stress, while other chest pain can occur at rest. Angina may also be relieved by rest or medication.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do risk factors such as high cholesterol affect early detection of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High cholesterol increases the risk of developing angina by causing plaque buildup in the arteries, making it harder to detect symptoms early on.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What triggers angina symptoms and how can they be identified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina symptoms can be triggered by physical exertion, stress, cold weather, or heavy meals. They can be identified by chest pain or discomfort, shortness of breath, and fatigue.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can you prevent angina symptoms from worsening by recognizing them early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recognizing angina symptoms early allows for prompt treatment, preventing worsening. Be aware of chest pain, shortness of breath, and fatigue to take action quickly.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do shortness of breath and fatigue relate to angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shortness of breath and fatigue are common symptoms of angina due to reduced blood flow to the heart. Early identification is crucial for prompt treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key differences between stable and unstable angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina symptoms occur predictably with exertion, while unstable angina symptoms are unpredictable and can happen at rest.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do risk factors such as high cholesterol affect early detection of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High cholesterol increases the risk of developing angina by causing plaque buildup in the arteries, making it harder to detect symptoms early on.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you prevent angina symptoms from worsening by recognizing them early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recognizing angina symptoms early allows for prompt treatment, preventing worsening. Be aware of chest pain, shortness of breath, and fatigue to take action quickly.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -440,8 +412,6 @@
 
 
 
-        <h3>How can Medicover help identify angina symptoms early?</h3>
-        <p>Medicover offers comprehensive health screenings and tests to detect early signs of angina, such as ECGs and stress tests, helping to identify symptoms before they worsen.</p>
 
 
 

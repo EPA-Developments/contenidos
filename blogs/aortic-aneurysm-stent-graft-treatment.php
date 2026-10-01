@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is a stent graft and how does it treat an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stent graft is a tube-like device used to reinforce weak aortic walls, preventing rupture in aneurysms. It is inserted through a small incision in a minimally invasive procedure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a stent graft inserted into the aorta?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stent graft is inserted into the aorta through a small incision in the groin using a catheter, guided to the aneurysm site, expanding to reinforce the weakened artery wall.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the benefits of using a stent graft for aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stent graft for aortic aneurysms is minimally invasive, reduces risk of complications, promotes faster recovery, and provides long-term durability.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a stent graft prevent an aortic aneurysm from rupturing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stent graft reinforces the weakened wall of the aortic aneurysm, preventing it from expanding further and reducing the risk of rupture.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover perform stent graft procedures?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover performs stent graft procedures by inserting a tube-like device into the aorta to reinforce weakened areas and prevent further expansion of the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is a stent graft and how does it treat an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stent graft is a tube-like device used to reinforce weak aortic walls, preventing rupture in aneurysms. It is inserted through a small incision in a minimally invasive procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the recovery process like after receiving a stent graft?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The recovery process after receiving a stent graft for treating aortic aneurysms involves rest, monitoring, and follow-up appointments to ensure proper healing and the success of the procedure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a stent graft inserted into the aorta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stent graft is inserted into the aorta through a small incision in the groin using a catheter, guided to the aneurysm site, expanding to reinforce the weakened artery wall.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there risks involved with using a stent graft for aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there are risks involved with using a stent graft for aortic aneurysms, such as infection, bleeding, or migration of the device.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the benefits of using a stent graft for aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stent graft for aortic aneurysms is minimally invasive, reduces risk of complications, promotes faster recovery, and provides long-term durability.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is a stent graft in treating aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stent graft is highly effective in treating aortic aneurysms by reinforcing the weakened artery wall, preventing rupture, and promoting blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a stent graft prevent an aortic aneurysm from rupturing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stent graft reinforces the weakened wall of the aortic aneurysm, preventing it from expanding further and reducing the risk of rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can a stent graft repair an aneurysm in other parts of the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, a stent graft can repair aneurysms in other parts of the body, not just the aorta. It provides a minimally invasive option for treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the recovery process like after receiving a stent graft?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The recovery process after receiving a stent graft for treating aortic aneurysms involves rest, monitoring, and follow-up appointments to ensure proper healing and the success of the procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm results of having a stent graft for an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term results of a stent graft for an aortic aneurysm include reduced risk of rupture, improved blood flow, and overall better quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there risks involved with using a stent graft for aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are risks involved with using a stent graft for aortic aneurysms, such as infection, bleeding, or migration of the device.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective is a stent graft in treating aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stent graft is highly effective in treating aortic aneurysms by reinforcing the weakened artery wall, preventing rupture, and promoting blood flow.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a stent graft repair an aneurysm in other parts of the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a stent graft can repair aneurysms in other parts of the body, not just the aorta. It provides a minimally invasive option for treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm results of having a stent graft for an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term results of a stent graft for an aortic aneurysm include reduced risk of rupture, improved blood flow, and overall better quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -420,8 +392,6 @@
 
 
 
-        <h3>How does Medicover perform stent graft procedures?</h3>
-        <p>Medicover performs stent graft procedures by inserting a tube-like device into the aorta to reinforce weakened areas and prevent further expansion of the aneurysm.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What foods can help prevent blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Foods like leafy greens, fatty fish, berries, nuts, and garlic can help prevent blood clots due to their anti-inflammatory and anticoagulant properties.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does diet play a role in blood clot prevention?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A diet rich in fruits, vegetables, whole grains, and lean proteins can help prevent blood clots by maintaining healthy blood flow and reducing inflammation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Which vitamins are important for preventing blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vitamins E and K are important for preventing blood clots as they help regulate blood clotting factors. Include foods rich in these vitamins in your diet for better heart health.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there specific foods that reduce the risk of blood clotting?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, foods like leafy greens, fatty fish, berries, nuts, and garlic contain nutrients that can help reduce the risk of blood clotting.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can regular consumption of certain foods lower the risk of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular consumption of foods like leafy greens, fatty fish, berries, and nuts can lower blood clot risk due to their anti-inflammatory and anti-coagulant properties.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What foods can help prevent blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foods like leafy greens, fatty fish, berries, nuts, and garlic can help prevent blood clots due to their anti-inflammatory and anticoagulant properties.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in educating patients about food and blood clot prevention?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover educates patients on food choices that can help prevent blood clots, promoting overall health and well-being.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does diet play a role in blood clot prevention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A diet rich in fruits, vegetables, whole grains, and lean proteins can help prevent blood clots by maintaining healthy blood flow and reducing inflammation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there foods that may increase the risk of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, foods high in saturated fats, sodium, and added sugars can increase the risk of blood clots. It's important to focus on a balanced diet to prevent clotting.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Which vitamins are important for preventing blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vitamins E and K are important for preventing blood clots as they help regulate blood clotting factors. Include foods rich in these vitamins in your diet for better heart health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the best dietary practices for individuals prone to blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals prone to blood clots should focus on a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats like omega-3s to help prevent clotting.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there specific foods that reduce the risk of blood clotting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, foods like leafy greens, fatty fish, berries, nuts, and garlic contain nutrients that can help reduce the risk of blood clotting.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can consuming omega3 fatty acids help prevent blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, consuming omega-3 fatty acids can help prevent blood clots by reducing inflammation and improving blood flow. Include sources like fish, flaxseeds, and walnuts in your diet.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can regular consumption of certain foods lower the risk of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular consumption of foods like leafy greens, fatty fish, berries, and nuts can lower blood clot risk due to their anti-inflammatory and anti-coagulant properties.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can one create a balanced diet to reduce blood clot risks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To reduce blood clot risks, create a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats like omega-3s.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there foods that may increase the risk of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, foods high in saturated fats, sodium, and added sugars can increase the risk of blood clots. It's important to focus on a balanced diet to prevent clotting.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best dietary practices for individuals prone to blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals prone to blood clots should focus on a diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats like omega-3s to help prevent clotting.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can consuming omega3 fatty acids help prevent blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, consuming omega-3 fatty acids can help prevent blood clots by reducing inflammation and improving blood flow. Include sources like fish, flaxseeds, and walnuts in your diet.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can one create a balanced diet to reduce blood clot risks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To reduce blood clot risks, create a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats like omega-3s.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -407,8 +379,6 @@
 
 
 
-        <h3>What role does Medicover play in educating patients about food and blood clot prevention?</h3>
-        <p>Medicover educates patients on food choices that can help prevent blood clots, promoting overall health and well-being.</p>
 
 
 

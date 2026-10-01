@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots to form on the skin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots on the skin form due to injury, inflammation, or underlying health conditions that affect blood flow. Treatment options vary based on the cause.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can one identify a blood clot on the skin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A blood clot on the skin can be identified by its red, swollen, and warm appearance. It may also feel tender to the touch and not go away with time.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a blood clot on the skin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a blood clot on the skin include redness, warmth, tenderness, and swelling in the affected area. Seek medical attention if you suspect a blood clot.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots on the skin diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots on the skin are diagnosed through physical examination and medical history. Additional tests like ultrasound or blood tests may be done for confirmation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can skin blood clots be treated at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Skin blood clots can be treated at home with rest, elevation, and applying a cold compress. Seek medical attention if the clot is painful or persists.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots to form on the skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots on the skin form due to injury, inflammation, or underlying health conditions that affect blood flow. Treatment options vary based on the cause.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should one seek medical attention for a skin blood clot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Seek medical attention for a skin blood clot if it is painful, warm to the touch, rapidly growing, or accompanied by signs of infection like redness or pus.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can one identify a blood clot on the skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A blood clot on the skin can be identified by its red, swollen, and warm appearance. It may also feel tender to the touch and not go away with time.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the treatment of blood clots on the skin differ from other types?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment of blood clots on the skin involves applying ice and elevating the affected area, while other types may require medication or surgical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a blood clot on the skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a blood clot on the skin include redness, warmth, tenderness, and swelling in the affected area. Seek medical attention if you suspect a blood clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive measures can reduce the risk of skin blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To reduce the risk of skin blood clots, stay active, maintain a healthy weight, avoid prolonged sitting, and stay hydrated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots on the skin diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots on the skin are diagnosed through physical examination and medical history. Additional tests like ultrasound or blood tests may be done for confirmation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help with the treatment of skin blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides advanced treatments such as anticoagulant therapy to help dissolve skin blood clots and prevent new ones from forming.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can skin blood clots be treated at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Skin blood clots can be treated at home with rest, elevation, and applying a cold compress. Seek medical attention if the clot is painful or persists.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of untreated blood clots on the skin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated blood clots on the skin can lead to chronic swelling, discoloration, and potentially even skin ulcers. It's important to seek medical attention for proper treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "When should one seek medical attention for a skin blood clot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical attention for a skin blood clot if it is painful, warm to the touch, rapidly growing, or accompanied by signs of infection like redness or pus.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the treatment of blood clots on the skin differ from other types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment of blood clots on the skin involves applying ice and elevating the affected area, while other types may require medication or surgical intervention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive measures can reduce the risk of skin blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To reduce the risk of skin blood clots, stay active, maintain a healthy weight, avoid prolonged sitting, and stay hydrated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of untreated blood clots on the skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated blood clots on the skin can lead to chronic swelling, discoloration, and potentially even skin ulcers. It's important to seek medical attention for proper treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -437,8 +409,6 @@
 
 
 
-        <h3>How does Medicover help with the treatment of skin blood clots?</h3>
-        <p>Medicover provides advanced treatments such as anticoagulant therapy to help dissolve skin blood clots and prevent new ones from forming.</p>
 
 
 

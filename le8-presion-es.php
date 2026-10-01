@@ -1550,5 +1550,12 @@
   </div>
 </div>
 </div>
+<div class="container pb-100">
+  <div class="row justify-content-center">
+    <div class="col-lg-8 col-md-12">
+      <?php include_once __DIR__ . '/include/som-turnos.php'; echo som_cta_turno(); ?>
+    </div>
+  </div>
+</div>
 <?php include('include/footer.php') ?>
 </html>

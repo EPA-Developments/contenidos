@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of mild aortic regurgitation may include fatigue, shortness of breath, palpitations, and chest pain. Regular check-ups are important for monitoring.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is mild aortic regurgitation diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mild aortic regurgitation is diagnosed through a physical exam, echocardiogram, and possibly other imaging tests to assess the severity and monitor any changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can mild aortic regurgitation progress to severe stages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, mild aortic regurgitation can potentially progress to severe stages over time. Regular monitoring and follow-ups with a healthcare provider are crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is mild aortic regurgitation treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mild aortic regurgitation is typically monitored regularly by a doctor to ensure it does not worsen. In some cases, medications may be prescribed to manage symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle changes can help manage mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular exercise, a heart-healthy diet low in sodium, and avoiding tobacco can help manage mild aortic regurgitation. Consult a doctor for personalized advice.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of mild aortic regurgitation may include fatigue, shortness of breath, palpitations, and chest pain. Regular check-ups are important for monitoring.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover monitor patients with mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover monitors patients with mild aortic regurgitation through regular check-ups, echocardiograms, and lifestyle recommendations to manage symptoms and prevent progression.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is mild aortic regurgitation diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mild aortic regurgitation is diagnosed through a physical exam, echocardiogram, and possibly other imaging tests to assess the severity and monitor any changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are medications effective in managing mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications are not typically needed for managing mild aortic regurgitation. Regular monitoring by a healthcare provider is usually sufficient.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can mild aortic regurgitation progress to severe stages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, mild aortic regurgitation can potentially progress to severe stages over time. Regular monitoring and follow-ups with a healthcare provider are crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should surgery be considered for mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for mild aortic regurgitation is typically not necessary unless symptoms worsen or there is evidence of heart damage. Regular monitoring is key.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is mild aortic regurgitation treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mild aortic regurgitation is typically monitored regularly by a doctor to ensure it does not worsen. In some cases, medications may be prescribed to manage symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How often should patients with mild aortic regurgitation be monitored?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with mild aortic regurgitation should be monitored annually to assess any progression of the condition and to manage symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular exercise, a heart-healthy diet low in sodium, and avoiding tobacco can help manage mild aortic regurgitation. Consult a doctor for personalized advice.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can mild aortic regurgitation be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mild aortic regurgitation cannot always be prevented, but managing blood pressure, avoiding smoking, and maintaining a healthy lifestyle can help reduce the risk.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are medications effective in managing mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications are not typically needed for managing mild aortic regurgitation. Regular monitoring by a healthcare provider is usually sufficient.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should surgery be considered for mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for mild aortic regurgitation is typically not necessary unless symptoms worsen or there is evidence of heart damage. Regular monitoring is key.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should patients with mild aortic regurgitation be monitored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with mild aortic regurgitation should be monitored annually to assess any progression of the condition and to manage symptoms effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can mild aortic regurgitation be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mild aortic regurgitation cannot always be prevented, but managing blood pressure, avoiding smoking, and maintaining a healthy lifestyle can help reduce the risk.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3>How does Medicover monitor patients with mild aortic regurgitation?</h3>
-        <p>Medicover monitors patients with mild aortic regurgitation through regular check-ups, echocardiograms, and lifestyle recommendations to manage symptoms and prevent progression.</p>
 
 
 

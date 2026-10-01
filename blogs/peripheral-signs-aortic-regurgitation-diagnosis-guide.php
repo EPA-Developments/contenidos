@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are peripheral signs of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs of aortic regurgitation include water-hammer pulse, Quincke's pulse, head bobbing, and pulsatile nail bed capillary refill.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do peripheral signs help in the diagnosis of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs such as water-hammer pulse, head bobbing, and Quincke's pulse can aid in diagnosing aortic regurgitation by indicating the presence of underlying cardiovascular issues.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the most common peripheral signs associated with aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most common peripheral signs associated with aortic regurgitation are bounding pulses, widened pulse pressure, and head bobbing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can a doctor distinguish between peripheral signs and other conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A doctor can distinguish between peripheral signs and other conditions by conducting a thorough physical exam, including checking for specific signs like bounding pulses and nail bed pulsations.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How important are peripheral signs in determining the severity of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs are crucial in assessing the severity of aortic regurgitation as they provide valuable clues about the overall impact of the condition on the body.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are peripheral signs of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs of aortic regurgitation include water-hammer pulse, Quincke's pulse, head bobbing, and pulsatile nail bed capillary refill.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can peripheral signs alone diagnose aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs alone cannot definitively diagnose aortic regurgitation, but they can provide valuable clues. Additional testing like echocardiography is needed for a confirmed diagnosis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do peripheral signs help in the diagnosis of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs such as water-hammer pulse, head bobbing, and Quincke's pulse can aid in diagnosing aortic regurgitation by indicating the presence of underlying cardiovascular issues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover utilize peripheral signs to diagnose aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover utilizes peripheral signs such as a wide pulse pressure, head bobbing, and capillary pulsations to help diagnose aortic regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most common peripheral signs associated with aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common peripheral signs associated with aortic regurgitation are bounding pulses, widened pulse pressure, and head bobbing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are peripheral signs present in all patients with aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs may not be present in all patients with aortic regurgitation, but they can be helpful in diagnosing the condition alongside other clinical findings.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can a doctor distinguish between peripheral signs and other conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A doctor can distinguish between peripheral signs and other conditions by conducting a thorough physical exam, including checking for specific signs like bounding pulses and nail bed pulsations.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do peripheral signs correlate with other symptoms of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral signs in aortic regurgitation, like pulsatile nail bed capillary refill and head bobbing, can provide clues that align with other symptoms such as widened pulse pressure and a diastolic murmur.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How important are peripheral signs in determining the severity of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs are crucial in assessing the severity of aortic regurgitation as they provide valuable clues about the overall impact of the condition on the body.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can early recognition of peripheral signs improve patient outcomes in aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early recognition of peripheral signs like bounding pulses can prompt timely diagnosis and intervention for aortic regurgitation, leading to better patient outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can peripheral signs alone diagnose aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs alone cannot definitively diagnose aortic regurgitation, but they can provide valuable clues. Additional testing like echocardiography is needed for a confirmed diagnosis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are peripheral signs present in all patients with aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs may not be present in all patients with aortic regurgitation, but they can be helpful in diagnosing the condition alongside other clinical findings.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do peripheral signs correlate with other symptoms of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral signs in aortic regurgitation, like pulsatile nail bed capillary refill and head bobbing, can provide clues that align with other symptoms such as widened pulse pressure and a diastolic murmur.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can early recognition of peripheral signs improve patient outcomes in aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early recognition of peripheral signs like bounding pulses can prompt timely diagnosis and intervention for aortic regurgitation, leading to better patient outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -431,8 +403,6 @@
 
 
 
-        <h3>How does Medicover utilize peripheral signs to diagnose aortic regurgitation?</h3>
-        <p>Medicover utilizes peripheral signs such as a wide pulse pressure, head bobbing, and capillary pulsations to help diagnose aortic regurgitation.</p>
 
 
 

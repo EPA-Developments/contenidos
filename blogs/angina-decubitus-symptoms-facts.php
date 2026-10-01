@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is angina decubitus and how is it different from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina decubitus is chest pain that occurs when lying down and is relieved by sitting up. It differs from other types of angina in its positional nature.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of angina decubitus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of angina decubitus include chest pain, shortness of breath, fatigue, and swelling in the legs. It is important to seek medical attention if experiencing these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is angina decubitus diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina decubitus is diagnosed through a physical exam, medical history review, ECG, stress test, blood tests, and imaging tests like angiography.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What triggers angina decubitus episodes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina decubitus episodes are triggered by lying down or reclining, which increases pressure on the heart. This can lead to chest pain and discomfort.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is angina decubitus treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina decubitus is typically treated with medications to manage pain and reduce the risk of heart complications. Lifestyle changes like diet and exercise may also help.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is angina decubitus and how is it different from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina decubitus is chest pain that occurs when lying down and is relieved by sitting up. It differs from other types of angina in its positional nature.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage angina decubitus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, and managing stress can help manage angina decubitus.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of angina decubitus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of angina decubitus include chest pain, shortness of breath, fatigue, and swelling in the legs. It is important to seek medical attention if experiencing these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of angina decubitus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to treating angina decubitus, focusing on relieving symptoms, improving blood flow, and addressing underlying heart conditions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is angina decubitus diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina decubitus is diagnosed through a physical exam, medical history review, ECG, stress test, blood tests, and imaging tests like angiography.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated angina decubitus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina decubitus can lead to skin breakdown, infections, and pressure ulcers. It's important to address symptoms promptly to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What triggers angina decubitus episodes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina decubitus episodes are triggered by lying down or reclining, which increases pressure on the heart. This can lead to chest pain and discomfort.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does angina decubitus affect daily activities and quality of life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina decubitus can limit daily activities due to chest pain while lying down. It can impact quality of life by causing discomfort and affecting sleep.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is angina decubitus treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina decubitus is typically treated with medications to manage pain and reduce the risk of heart complications. Lifestyle changes like diet and exercise may also help.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the longterm outlook for someone with angina decubitus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The long-term outlook for someone with angina decubitus depends on the underlying cause and how well it is managed. Regular monitoring and lifestyle changes can help improve symptoms and quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage angina decubitus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, and managing stress can help manage angina decubitus.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated angina decubitus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina decubitus can lead to skin breakdown, infections, and pressure ulcers. It's important to address symptoms promptly to prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does angina decubitus affect daily activities and quality of life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina decubitus can limit daily activities due to chest pain while lying down. It can impact quality of life by causing discomfort and affecting sleep.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the longterm outlook for someone with angina decubitus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The long-term outlook for someone with angina decubitus depends on the underlying cause and how well it is managed. Regular monitoring and lifestyle changes can help improve symptoms and quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -426,8 +398,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of angina decubitus?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What tests are commonly used to diagnose angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common tests used to diagnose angina include electrocardiogram (ECG), stress test, coronary angiography, and blood tests to measure heart enzymes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a doctor determine the severity of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A doctor determines the severity of angina based on the frequency, duration, and intensity of chest pain symptoms, as well as the impact on daily activities and response to treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do imaging tests play in diagnosing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Imaging tests like stress tests and coronary angiography help diagnose angina by providing detailed images of the heart's blood flow and function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an electrocardiogram (ECG) used in diagnosing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ECG can help diagnose angina by detecting abnormal heart rhythms or signs of reduced blood flow to the heart muscle during episodes of chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the purpose of a stress test in diagnosing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stress test helps diagnose angina by monitoring the heart's response to physical activity, identifying any restricted blood flow that may trigger chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What tests are commonly used to diagnose angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common tests used to diagnose angina include electrocardiogram (ECG), stress test, coronary angiography, and blood tests to measure heart enzymes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach diagnosing angina through various tests?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses tests like ECG, stress tests, blood tests, and imaging scans to diagnose angina accurately and develop a treatment plan tailored to each patient's needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a doctor determine the severity of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A doctor determines the severity of angina based on the frequency, duration, and intensity of chest pain symptoms, as well as the impact on daily activities and response to treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the differences between noninvasive and invasive tests for angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Noninvasive tests for angina don't involve entering the body, while invasive tests do. Noninvasive tests include ECG, stress tests, and imaging scans.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do imaging tests play in diagnosing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Imaging tests like stress tests and coronary angiography help diagnose angina by providing detailed images of the heart's blood flow and function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can angina be diagnosed without a physical exam?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, a physical exam is crucial in diagnosing angina. It helps identify symptoms, assess risk factors, and guide further testing for an accurate diagnosis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an electrocardiogram (ECG) used in diagnosing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ECG can help diagnose angina by detecting abnormal heart rhythms or signs of reduced blood flow to the heart muscle during episodes of chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How accurate are the tests used to diagnose angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The tests used to diagnose angina, such as ECG, stress tests, and angiography, are generally accurate in determining the presence and severity of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the purpose of a stress test in diagnosing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stress test helps diagnose angina by monitoring the heart's response to physical activity, identifying any restricted blood flow that may trigger chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors decide on the best diagnostic approach for each patient?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors decide on the best diagnostic approach for each patient by considering symptoms, medical history, risk factors, and results of tests/procedures.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the differences between noninvasive and invasive tests for angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Noninvasive tests for angina don't involve entering the body, while invasive tests do. Noninvasive tests include ECG, stress tests, and imaging scans.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can angina be diagnosed without a physical exam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, a physical exam is crucial in diagnosing angina. It helps identify symptoms, assess risk factors, and guide further testing for an accurate diagnosis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How accurate are the tests used to diagnose angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The tests used to diagnose angina, such as ECG, stress tests, and angiography, are generally accurate in determining the presence and severity of the condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do doctors decide on the best diagnostic approach for each patient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors decide on the best diagnostic approach for each patient by considering symptoms, medical history, risk factors, and results of tests/procedures.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -437,8 +409,6 @@
 
 
 
-        <h3>How does Medicover approach diagnosing angina through various tests?</h3>
-        <p>Medicover uses tests like ECG, stress tests, blood tests, and imaging scans to diagnose angina accurately and develop a treatment plan tailored to each patient's needs.</p>
 
 
 

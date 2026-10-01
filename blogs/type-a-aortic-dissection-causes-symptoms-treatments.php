@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Type A aortic dissection and how does it differ from other types?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Type A aortic dissection involves the ascending aorta, requiring immediate surgery. Type B dissections are managed with medications and close monitoring.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of Type A aortic dissection include sudden, severe chest or back pain, shortness of breath, and loss of consciousness. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Type A aortic dissection diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Type A aortic dissection is diagnosed using imaging tests like CT scans or MRIs. These help doctors see the tear in the aorta and determine the best treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for Type A aortic dissection include surgery to repair the torn aorta and manage complications. Medications may also be used to lower blood pressure and heart rate.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How urgent is surgery for Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for Type A aortic dissection is extremely urgent as it is a life-threatening condition that requires immediate intervention to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is Type A aortic dissection and how does it differ from other types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type A aortic dissection involves the ascending aorta, requiring immediate surgery. Type B dissections are managed with medications and close monitoring.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated Type A aortic dissection can lead to life-threatening complications like aortic rupture, organ damage, stroke, or even death. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of Type A aortic dissection include sudden, severe chest or back pain, shortness of breath, and loss of consciousness. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How successful is surgery for Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for Type A aortic dissection is highly successful in saving lives and preventing complications, but it carries some risks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is Type A aortic dissection diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type A aortic dissection is diagnosed using imaging tests like CT scans or MRIs. These help doctors see the tear in the aorta and determine the best treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you expect during recovery from Type A aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During recovery from Type A aortic dissection surgery, expect a hospital stay, pain management, monitoring for complications, and a gradual return to normal activities.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for Type A aortic dissection include surgery to repair the torn aorta and manage complications. Medications may also be used to lower blood pressure and heart rate.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage patients with Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages Type A aortic dissection patients with prompt diagnosis, emergency surgery, and close monitoring for complications to ensure optimal outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How urgent is surgery for Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for Type A aortic dissection is extremely urgent as it is a life-threatening condition that requires immediate intervention to prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes reduce the risk of developing Type A aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as quitting smoking, managing high blood pressure, and maintaining a healthy weight can reduce the risk of developing Type A aortic dissection.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risks of untreated Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated Type A aortic dissection can lead to life-threatening complications like aortic rupture, organ damage, stroke, or even death. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How successful is surgery for Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for Type A aortic dissection is highly successful in saving lives and preventing complications, but it carries some risks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should you expect during recovery from Type A aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During recovery from Type A aortic dissection surgery, expect a hospital stay, pain management, monitoring for complications, and a gradual return to normal activities.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes reduce the risk of developing Type A aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as quitting smoking, managing high blood pressure, and maintaining a healthy weight can reduce the risk of developing Type A aortic dissection.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -458,8 +430,6 @@
 
 
 
-        <h3>How does Medicover manage patients with Type A aortic dissection?</h3>
-        <p>Medicover manages Type A aortic dissection patients with prompt diagnosis, emergency surgery, and close monitoring for complications to ensure optimal outcomes.</p>
 
 
 

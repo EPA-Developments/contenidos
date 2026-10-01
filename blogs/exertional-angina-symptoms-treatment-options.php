@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is exertional angina and how does it differ from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Exertional angina is chest pain caused by physical activity or stress. It differs from other types of angina as it is triggered by exertion rather than at rest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of exertional angina include chest pain or discomfort, shortness of breath, fatigue, and a feeling of pressure or squeezing in the chest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is exertional angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Exertional angina is diagnosed through a combination of medical history, physical exams, ECG tests, stress tests, and possibly imaging studies like a coronary angiogram.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for exertional angina include lifestyle changes, medications, and procedures like angioplasty or bypass surgery to improve blood flow to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does exercise affect exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Exercise can trigger exertional angina by increasing the heart's demand for oxygen. It is important to consult with a healthcare provider before starting an exercise program.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is exertional angina and how does it differ from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exertional angina is chest pain caused by physical activity or stress. It differs from other types of angina as it is triggered by exertion rather than at rest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes reduce the frequency of exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, exercising regularly, following a heart-healthy diet, and managing stress can help reduce the frequency of exertional angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of exertional angina include chest pain or discomfort, shortness of breath, fatigue, and a feeling of pressure or squeezing in the chest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches the treatment of exertional angina through a combination of lifestyle changes, medications, and potential interventions like angioplasty or bypass surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is exertional angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exertional angina is diagnosed through a combination of medical history, physical exams, ECG tests, stress tests, and possibly imaging studies like a coronary angiogram.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are medications effective in managing exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications can be effective in managing exertional angina by helping to reduce chest pain and improve blood flow to the heart during physical activity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for exertional angina include lifestyle changes, medications, and procedures like angioplasty or bypass surgery to improve blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of untreated exertional angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated exertional angina can lead to heart damage, increased risk of heart attack, and reduced quality of life due to limited physical activity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does exercise affect exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exercise can trigger exertional angina by increasing the heart's demand for oxygen. It is important to consult with a healthcare provider before starting an exercise program.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can exertional angina be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Exertional angina can be prevented by managing risk factors like high blood pressure, cholesterol, and quitting smoking. Regular exercise and a healthy diet are also key.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes reduce the frequency of exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, exercising regularly, following a heart-healthy diet, and managing stress can help reduce the frequency of exertional angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are medications effective in managing exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications can be effective in managing exertional angina by helping to reduce chest pain and improve blood flow to the heart during physical activity.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of untreated exertional angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated exertional angina can lead to heart damage, increased risk of heart attack, and reduced quality of life due to limited physical activity.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can exertional angina be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exertional angina can be prevented by managing risk factors like high blood pressure, cholesterol, and quitting smoking. Regular exercise and a healthy diet are also key.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -449,8 +421,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of exertional angina?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots to form in the thigh?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the thigh can form due to factors like prolonged immobility, injury, surgery, obesity, or genetic predisposition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a blood clot in the thigh?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a blood clot in the thigh may include swelling, pain, warmth, and redness in the affected leg. Seek medical attention if you experience these signs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in the thigh diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the thigh are diagnosed through ultrasound imaging, D-dimer blood tests, and physical exams. Treatment may involve blood thinners and compression stockings.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are most effective for thigh blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatments for thigh blood clots typically involve blood thinners, compression stockings, and in some cases, surgery to remove the clot.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can thigh blood clots be prevented through lifestyle changes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as staying active, maintaining a healthy weight, and avoiding prolonged sitting can help prevent thigh blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots to form in the thigh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the thigh can form due to factors like prolonged immobility, injury, surgery, obesity, or genetic predisposition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in managing blood clots in the thigh?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in managing blood clots in the thigh by providing expert medical care, diagnostic tests, and treatment options tailored to individual needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a blood clot in the thigh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a blood clot in the thigh may include swelling, pain, warmth, and redness in the affected leg. Seek medical attention if you experience these signs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are thigh blood clots more common in certain age groups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thigh blood clots are more common in older adults due to factors like decreased mobility and chronic conditions. Treatment includes blood thinners and lifestyle changes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in the thigh diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the thigh are diagnosed through ultrasound imaging, D-dimer blood tests, and physical exams. Treatment may involve blood thinners and compression stockings.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can physical activity reduce the risk of thigh blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, physical activity can reduce the risk of thigh blood clots by improving circulation and preventing blood from pooling in the legs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are most effective for thigh blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatments for thigh blood clots typically involve blood thinners, compression stockings, and in some cases, surgery to remove the clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What medications are used for treating blood clots in the thigh?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Anticoagulants like heparin and warfarin are commonly used to treat blood clots in the thigh. They help prevent the clot from getting bigger or breaking off.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can thigh blood clots be prevented through lifestyle changes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as staying active, maintaining a healthy weight, and avoiding prolonged sitting can help prevent thigh blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications can occur if thigh blood clots are left untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated thigh blood clots can lead to serious complications like pulmonary embolism, heart attack, or stroke. Seek medical attention promptly if you suspect a blood clot.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are thigh blood clots more common in certain age groups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thigh blood clots are more common in older adults due to factors like decreased mobility and chronic conditions. Treatment includes blood thinners and lifestyle changes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can physical activity reduce the risk of thigh blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, physical activity can reduce the risk of thigh blood clots by improving circulation and preventing blood from pooling in the legs.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What medications are used for treating blood clots in the thigh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anticoagulants like heparin and warfarin are commonly used to treat blood clots in the thigh. They help prevent the clot from getting bigger or breaking off.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What complications can occur if thigh blood clots are left untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated thigh blood clots can lead to serious complications like pulmonary embolism, heart attack, or stroke. Seek medical attention promptly if you suspect a blood clot.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -436,8 +408,6 @@
 
 
 
-        <h3>How can Medicover assist in managing blood clots in the thigh?</h3>
-        <p>Medicover can assist in managing blood clots in the thigh by providing expert medical care, diagnostic tests, and treatment options tailored to individual needs.</p>
 
 
 

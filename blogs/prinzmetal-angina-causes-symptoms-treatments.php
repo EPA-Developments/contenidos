@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Prinzmetal angina and what causes it?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina is a rare form of chest pain caused by spasms in the coronary arteries, leading to reduced blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Prinzmetal angina affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina causes temporary chest pain due to coronary artery spasms, which reduce blood flow to the heart. It can lead to heart muscle damage if left untreated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of Prinzmetal angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of Prinzmetal angina include chest pain, shortness of breath, and a feeling of tightness or squeezing in the chest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Prinzmetal angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina is diagnosed through tests like ECG, stress tests, coronary angiography to evaluate blood flow, and blood tests to check for heart enzymes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for Prinzmetal angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for Prinzmetal angina include medications like calcium channel blockers and nitrates to help manage symptoms and prevent episodes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is Prinzmetal angina and what causes it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina is a rare form of chest pain caused by spasms in the coronary arteries, leading to reduced blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat Prinzmetal angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats Prinzmetal angina by prescribing medications to relax and widen the arteries, reducing chest pain and preventing future episodes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does Prinzmetal angina affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina causes temporary chest pain due to coronary artery spasms, which reduce blood flow to the heart. It can lead to heart muscle damage if left untreated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Prinzmetal angina be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina cannot be fully prevented, but lifestyle changes like quitting smoking, managing stress, and staying active can help reduce the risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of Prinzmetal angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of Prinzmetal angina include chest pain, shortness of breath, and a feeling of tightness or squeezing in the chest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do lifestyle changes help manage Prinzmetal angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as quitting smoking, managing stress, eating a healthy diet, and staying physically active can help manage Prinzmetal angina and reduce symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is Prinzmetal angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina is diagnosed through tests like ECG, stress tests, coronary angiography to evaluate blood flow, and blood tests to check for heart enzymes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What medications are commonly prescribed for Prinzmetal angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common medications for Prinzmetal angina include calcium channel blockers, nitrates, and sometimes beta-blockers to help manage symptoms and prevent attacks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for Prinzmetal angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for Prinzmetal angina include medications like calcium channel blockers and nitrates to help manage symptoms and prevent episodes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Prinzmetal angina differ from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina is caused by a spasm in the coronary arteries, unlike other types which are typically triggered by physical exertion or stress.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can Prinzmetal angina be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina cannot be fully prevented, but lifestyle changes like quitting smoking, managing stress, and staying active can help reduce the risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do lifestyle changes help manage Prinzmetal angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as quitting smoking, managing stress, eating a healthy diet, and staying physically active can help manage Prinzmetal angina and reduce symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What medications are commonly prescribed for Prinzmetal angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common medications for Prinzmetal angina include calcium channel blockers, nitrates, and sometimes beta-blockers to help manage symptoms and prevent attacks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Prinzmetal angina differ from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina is caused by a spasm in the coronary arteries, unlike other types which are typically triggered by physical exertion or stress.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -437,8 +409,6 @@
 
 
 
-        <h3>How does Medicover treat Prinzmetal angina?</h3>
-        <p>Medicover treats Prinzmetal angina by prescribing medications to relax and widen the arteries, reducing chest pain and preventing future episodes.</p>
 
 
 

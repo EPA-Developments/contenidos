@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the signs of aortic regurgitation that require immediate attention?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of aortic regurgitation needing immediate attention include chest pain, shortness of breath, fatigue, dizziness, and palpitations.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can shortness of breath signal aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shortness of breath in aortic regurgitation is due to the heart working harder to compensate for the backflow of blood, causing fluid buildup in the lungs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you experience fatigue and palpitations?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you experience fatigue and palpitations, it's important to seek medical attention promptly to rule out any underlying issues like aortic regurgitation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can chest pain be related to aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain in aortic regurgitation can be caused by increased pressure on the heart due to blood flowing back into the left ventricle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What other symptoms accompany aortic regurgitation that you should be aware of?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Other symptoms of aortic regurgitation include shortness of breath, chest pain, fatigue, palpitations, and swollen ankles.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs of aortic regurgitation that require immediate attention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of aortic regurgitation needing immediate attention include chest pain, shortness of breath, fatigue, dizziness, and palpitations.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is it to seek medical attention if these signs appear?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is crucial to seek medical attention if signs of aortic regurgitation appear. Prompt diagnosis and treatment are essential for managing this condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can shortness of breath signal aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shortness of breath in aortic regurgitation is due to the heart working harder to compensate for the backflow of blood, causing fluid buildup in the lungs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What diagnostic tests should be conducted after noticing these symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "After noticing symptoms of aortic regurgitation, diagnostic tests like echocardiogram, MRI, and CT scan should be conducted to assess the severity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you experience fatigue and palpitations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience fatigue and palpitations, it's important to seek medical attention promptly to rule out any underlying issues like aortic regurgitation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover address these signs and symptoms in aortic regurgitation cases?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover addresses aortic regurgitation signs with thorough evaluations, imaging tests, medication management, and surgical interventions when necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can chest pain be related to aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain in aortic regurgitation can be caused by increased pressure on the heart due to blood flowing back into the left ventricle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic regurgitation symptoms worsen quickly without treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic regurgitation symptoms can worsen quickly without treatment, leading to serious complications. It is important to seek medical attention promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What other symptoms accompany aortic regurgitation that you should be aware of?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Other symptoms of aortic regurgitation include shortness of breath, chest pain, fatigue, palpitations, and swollen ankles.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options after identifying the signs of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic regurgitation may include medications to manage symptoms, monitoring for progression, and in severe cases, surgical repair or valve replacement.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How important is it to seek medical attention if these signs appear?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is crucial to seek medical attention if signs of aortic regurgitation appear. Prompt diagnosis and treatment are essential for managing this condition effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What diagnostic tests should be conducted after noticing these symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After noticing symptoms of aortic regurgitation, diagnostic tests like echocardiogram, MRI, and CT scan should be conducted to assess the severity.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic regurgitation symptoms worsen quickly without treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic regurgitation symptoms can worsen quickly without treatment, leading to serious complications. It is important to seek medical attention promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options after identifying the signs of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic regurgitation may include medications to manage symptoms, monitoring for progression, and in severe cases, surgical repair or valve replacement.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -445,8 +417,6 @@
 
 
 
-        <h3>How does Medicover address these signs and symptoms in aortic regurgitation cases?</h3>
-        <p>Medicover addresses aortic regurgitation signs with thorough evaluations, imaging tests, medication management, and surgical interventions when necessary.</p>
 
 
 

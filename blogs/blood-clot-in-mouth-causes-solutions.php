@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots to form in the mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the mouth can form due to trauma, dental procedures, or underlying health conditions like clotting disorders or infections.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of blood clots in the mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of blood clots in the mouth may include pain, swelling, redness, and difficulty opening the mouth. If you experience these, seek medical help promptly.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are mouth blood clots a common dental issue?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mouth blood clots are not a common dental issue, but they can occur after dental procedures or trauma. Proper care and monitoring are essential for healing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in the mouth diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the mouth are diagnosed by a healthcare provider through a physical exam, medical history review, and possibly imaging tests like a CT scan or ultrasound.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for blood clots in the mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for blood clots in the mouth include applying pressure, using ice packs, avoiding hot foods, and seeking medical attention if the clot persists.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots to form in the mouth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the mouth can form due to trauma, dental procedures, or underlying health conditions like clotting disorders or infections.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can poor oral hygiene increase the risk of mouth blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, poor oral hygiene can increase the risk of mouth blood clots by causing gum disease or infections, leading to inflammation and potential clot formation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of blood clots in the mouth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of blood clots in the mouth may include pain, swelling, redness, and difficulty opening the mouth. If you experience these, seek medical help promptly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in treating blood clots in the mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in treating blood clots in the mouth through thorough evaluation, proper diagnosis, and appropriate treatment options tailored to individual needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are mouth blood clots a common dental issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mouth blood clots are not a common dental issue, but they can occur after dental procedures or trauma. Proper care and monitoring are essential for healing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots in the mouth linked to gum disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the mouth can be linked to gum disease. Inflammation and infection in the gums can contribute to clot formation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in the mouth diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the mouth are diagnosed by a healthcare provider through a physical exam, medical history review, and possibly imaging tests like a CT scan or ultrasound.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications can arise from untreated mouth blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated mouth blood clots can lead to infection, delayed healing, and potentially more serious complications like a pulmonary embolism.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for blood clots in the mouth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for blood clots in the mouth include applying pressure, using ice packs, avoiding hot foods, and seeking medical attention if the clot persists.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can one prevent blood clots in the mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To prevent blood clots in the mouth, maintain good oral hygiene, avoid biting hard objects, and stay hydrated to keep blood flowing smoothly.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can poor oral hygiene increase the risk of mouth blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, poor oral hygiene can increase the risk of mouth blood clots by causing gum disease or infections, leading to inflammation and potential clot formation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots in the mouth linked to gum disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the mouth can be linked to gum disease. Inflammation and infection in the gums can contribute to clot formation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What complications can arise from untreated mouth blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated mouth blood clots can lead to infection, delayed healing, and potentially more serious complications like a pulmonary embolism.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can one prevent blood clots in the mouth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent blood clots in the mouth, maintain good oral hygiene, avoid biting hard objects, and stay hydrated to keep blood flowing smoothly.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -423,8 +395,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover assist in treating blood clots in the mouth?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic coarctation and how does it affect heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation is a narrowing of the aorta that can lead to high blood pressure and heart strain. It affects heart health by restricting blood flow and increasing workload on the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic coarctation lead to high blood pressure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation narrows the aorta, increasing pressure in the arteries. This forces the heart to work harder, leading to high blood pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the longterm complications of untreated aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, stroke, and aortic aneurysm, impacting long-term heart health.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic coarctation diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation is diagnosed through physical exams, imaging tests like echocardiograms and MRIs, and monitoring blood pressure differences in the arms and legs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic coarctation include surgery to repair the narrowed section of the aorta, balloon angioplasty, or stent placement.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic coarctation and how does it affect heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation is a narrowing of the aorta that can lead to high blood pressure and heart strain. It affects heart health by restricting blood flow and increasing workload on the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aortic coarctation affect the function of the heart over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation can lead to increased workload on the heart, causing high blood pressure and potential complications like heart failure if left untreated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic coarctation lead to high blood pressure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation narrows the aorta, increasing pressure in the arteries. This forces the heart to work harder, leading to high blood pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic coarctation be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation cannot be prevented, but early detection and treatment can help manage the condition and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the longterm complications of untreated aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, stroke, and aortic aneurysm, impacting long-term heart health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is surgery performed for aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for aortic coarctation involves opening the narrowed section of the aorta or repairing it with a patch to improve blood flow and reduce strain on the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic coarctation diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation is diagnosed through physical exams, imaging tests like echocardiograms and MRIs, and monitoring blood pressure differences in the arms and legs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients with aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive care for aortic coarctation patients through specialized treatment plans, regular monitoring, and support services to ensure optimal heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic coarctation include surgery to repair the narrowed section of the aorta, balloon angioplasty, or stent placement.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs that aortic coarctation is becoming more severe?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of worsening aortic coarctation include worsening shortness of breath, chest pain, high blood pressure in arms but low in legs, and leg cramping with exercise.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does aortic coarctation affect the function of the heart over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation can lead to increased workload on the heart, causing high blood pressure and potential complications like heart failure if left untreated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic coarctation be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation cannot be prevented, but early detection and treatment can help manage the condition and prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is surgery performed for aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for aortic coarctation involves opening the narrowed section of the aorta or repairing it with a patch to improve blood flow and reduce strain on the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that aortic coarctation is becoming more severe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of worsening aortic coarctation include worsening shortness of breath, chest pain, high blood pressure in arms but low in legs, and leg cramping with exercise.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -454,8 +426,6 @@
 
 
 
-        <h3>How does Medicover support patients with aortic coarctation?</h3>
-        <p>Medicover provides comprehensive care for aortic coarctation patients through specialized treatment plans, regular monitoring, and support services to ensure optimal heart health.</p>
 
 
 

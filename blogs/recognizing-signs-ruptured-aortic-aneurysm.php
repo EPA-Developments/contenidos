@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the signs of a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of a ruptured aortic aneurysm include sudden severe abdominal or back pain, dizziness, rapid heartbeat, and low blood pressure - seek immediate medical help.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you tell if you have a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of a ruptured aortic aneurysm include sudden, severe abdominal or back pain, rapid heart rate, low blood pressure, and loss of consciousness.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you suspect a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect a ruptured aortic aneurysm, seek immediate medical attention by calling emergency services or going to the nearest emergency room for evaluation and treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How quickly should treatment be administered for a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for a ruptured aortic aneurysm should be administered immediately to prevent further complications and increase chances of survival.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the survival rate for a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The survival rate for a ruptured aortic aneurysm is low, around 20-50%. It is crucial to recognize symptoms early for prompt medical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs of a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of a ruptured aortic aneurysm include sudden severe abdominal or back pain, dizziness, rapid heartbeat, and low blood pressure - seek immediate medical help.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What causes aortic aneurysms to rupture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysms can rupture due to high blood pressure, atherosclerosis, trauma, or genetic factors. This can lead to severe pain and internal bleeding.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you tell if you have a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of a ruptured aortic aneurysm include sudden, severe abdominal or back pain, rapid heart rate, low blood pressure, and loss of consciousness.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can an aortic aneurysm rupture be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular screenings, managing high blood pressure, avoiding smoking, and maintaining a healthy lifestyle can help prevent aortic aneurysm rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you suspect a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect a ruptured aortic aneurysm, seek immediate medical attention by calling emergency services or going to the nearest emergency room for evaluation and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What diagnostic tests are used to detect a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Imaging tests like CT scans, ultrasounds, and MRIs are used to detect a ruptured aortic aneurysm. These tests help doctors make an accurate diagnosis quickly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How quickly should treatment be administered for a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for a ruptured aortic aneurysm should be administered immediately to prevent further complications and increase chances of survival.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover handle the emergency treatment of ruptured aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover handles emergency treatment of ruptured aortic aneurysms with prompt diagnosis, surgical intervention, and post-operative care to ensure the best possible outcome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the survival rate for a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The survival rate for a ruptured aortic aneurysm is low, around 20-50%. It is crucial to recognize symptoms early for prompt medical intervention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What happens during surgery for a ruptured aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During surgery for a ruptured aortic aneurysm, the damaged section of the aorta is repaired or replaced to prevent life-threatening bleeding.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What causes aortic aneurysms to rupture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysms can rupture due to high blood pressure, atherosclerosis, trauma, or genetic factors. This can lead to severe pain and internal bleeding.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can an aortic aneurysm rupture be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular screenings, managing high blood pressure, avoiding smoking, and maintaining a healthy lifestyle can help prevent aortic aneurysm rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What diagnostic tests are used to detect a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Imaging tests like CT scans, ultrasounds, and MRIs are used to detect a ruptured aortic aneurysm. These tests help doctors make an accurate diagnosis quickly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens during surgery for a ruptured aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During surgery for a ruptured aortic aneurysm, the damaged section of the aorta is repaired or replaced to prevent life-threatening bleeding.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -465,8 +437,6 @@
 
 
 
-        <h3>How does Medicover handle the emergency treatment of ruptured aortic aneurysms?</h3>
-        <p>Medicover handles emergency treatment of ruptured aortic aneurysms with prompt diagnosis, surgical intervention, and post-operative care to ensure the best possible outcome.</p>
 
 
 

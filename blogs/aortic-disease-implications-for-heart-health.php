@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic disease and how does it affect overall heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease involves issues with the aorta, the main artery in the body. It can affect heart health by causing blood flow problems and increasing the risk of serious complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common causes of aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of aortic disease include high blood pressure, atherosclerosis, genetic factors, connective tissue disorders, and infections.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do aortic aneurysms and dissections relate to aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysms and dissections are common types of aortic disease, both involving weakening of the aortic wall which can lead to serious complications if left untreated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can aortic disease lead to other cardiovascular conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can lead to other cardiovascular conditions by causing high blood pressure, increasing risk of heart attack, stroke, and aortic aneurysm.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks of aortic disease to longterm heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can lead to complications like aneurysms, dissections, and valve issues, putting longterm heart health at risk. Regular monitoring is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic disease and how does it affect overall heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease involves issues with the aorta, the main artery in the body. It can affect heart health by causing blood flow problems and increasing the risk of serious complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is aortic disease diagnosed and managed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease is diagnosed through imaging tests like echocardiograms and CT scans. Management may include medications, lifestyle changes, or surgery to repair or replace the affected area.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common causes of aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of aortic disease include high blood pressure, atherosclerosis, genetic factors, connective tissue disorders, and infections.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic disease be detected early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic disease can be detected early through regular screenings, such as imaging tests and physical exams, which can help prevent complications and manage the condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do aortic aneurysms and dissections relate to aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysms and dissections are common types of aortic disease, both involving weakening of the aortic wall which can lead to serious complications if left untreated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help monitor heart health in patients with aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced imaging technology and regular check-ups to monitor heart health in patients with aortic disease, ensuring early detection and proper management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can aortic disease lead to other cardiovascular conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can lead to other cardiovascular conditions by causing high blood pressure, increasing risk of heart attack, stroke, and aortic aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the best treatments available for managing aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best treatments for managing aortic disease include medication, lifestyle changes, and in severe cases, surgery or endovascular repair. Consult with a healthcare provider for personalized care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of aortic disease to longterm heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can lead to complications like aneurysms, dissections, and valve issues, putting longterm heart health at risk. Regular monitoring is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can patients reduce their risk of aortic disease progression?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can reduce their risk of aortic disease progression by maintaining a healthy lifestyle, controlling blood pressure, and regularly monitoring their condition with their healthcare provider.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How is aortic disease diagnosed and managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease is diagnosed through imaging tests like echocardiograms and CT scans. Management may include medications, lifestyle changes, or surgery to repair or replace the affected area.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic disease be detected early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic disease can be detected early through regular screenings, such as imaging tests and physical exams, which can help prevent complications and manage the condition effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best treatments available for managing aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best treatments for managing aortic disease include medication, lifestyle changes, and in severe cases, surgery or endovascular repair. Consult with a healthcare provider for personalized care.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can patients reduce their risk of aortic disease progression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can reduce their risk of aortic disease progression by maintaining a healthy lifestyle, controlling blood pressure, and regularly monitoring their condition with their healthcare provider.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -454,8 +426,6 @@
 
 
 
-        <h3>How does Medicover help monitor heart health in patients with aortic disease?</h3>
-        <p>Medicover uses advanced imaging technology and regular check-ups to monitor heart health in patients with aortic disease, ensuring early detection and proper management.</p>
 
 
 

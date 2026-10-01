@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatments for angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatments for angina include medication, lifestyle changes (such as diet and exercise), and in some cases, procedures like angioplasty or bypass surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications like betablockers help in angina management?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Betablockers help manage angina by reducing the heart's workload and oxygen demand, ultimately decreasing chest pain and improving symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do lifestyle changes improve the treatment outcomes for angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, eating a healthy diet, exercising regularly, and managing stress can improve angina treatment outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does angioplasty play in treating angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angioplasty can help treat angina by opening blocked arteries to improve blood flow to the heart muscle, relieving chest pain and reducing the risk of heart attack.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can surgery be necessary for treating severe angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, surgery can be necessary for severe angina if other treatments are not effective. This can include procedures like bypass surgery or angioplasty.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatments for angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatments for angina include medication, lifestyle changes (such as diet and exercise), and in some cases, procedures like angioplasty or bypass surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for unstable angina may include medications like nitroglycerin, aspirin, and beta-blockers, as well as procedures like angioplasty or bypass surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications like betablockers help in angina management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Betablockers help manage angina by reducing the heart's workload and oxygen demand, ultimately decreasing chest pain and improving symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach personalized treatment plans for angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover creates personalized treatment plans for angina by considering each patient's unique medical history, symptoms, and risk factors to provide tailored care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do lifestyle changes improve the treatment outcomes for angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, eating a healthy diet, exercising regularly, and managing stress can improve angina treatment outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does stress management play a role in angina treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stress management helps reduce angina symptoms by lowering blood pressure and heart rate, improving overall heart health, and promoting relaxation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does angioplasty play in treating angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angioplasty can help treat angina by opening blocked arteries to improve blood flow to the heart muscle, relieving chest pain and reducing the risk of heart attack.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the benefits of combining medications with lifestyle changes in angina treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Combining medications with lifestyle changes in angina treatment can help manage symptoms, improve heart health, and reduce the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can surgery be necessary for treating severe angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, surgery can be necessary for severe angina if other treatments are not effective. This can include procedures like bypass surgery or angioplasty.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can the treatment of angina prevent it from progressing to heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treating angina effectively with medications and lifestyle changes can reduce the risk of heart failure by improving blood flow and reducing strain on the heart.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for unstable angina may include medications like nitroglycerin, aspirin, and beta-blockers, as well as procedures like angioplasty or bypass surgery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does stress management play a role in angina treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stress management helps reduce angina symptoms by lowering blood pressure and heart rate, improving overall heart health, and promoting relaxation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of combining medications with lifestyle changes in angina treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Combining medications with lifestyle changes in angina treatment can help manage symptoms, improve heart health, and reduce the risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can the treatment of angina prevent it from progressing to heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treating angina effectively with medications and lifestyle changes can reduce the risk of heart failure by improving blood flow and reducing strain on the heart.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach personalized treatment plans for angina?</p>
 
 
 

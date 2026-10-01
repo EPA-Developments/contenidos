@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of a blood clot in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of a blood clot in the leg include swelling, pain, warmth, and redness in the affected area. Seek medical attention if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a blood clot in the leg diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A blood clot in the leg is diagnosed through a combination of ultrasound imaging and blood tests to check for clotting factors.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risk factors for developing leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for developing leg blood clots include obesity, smoking, prolonged immobility, surgery, pregnancy, and a family history of blood clots.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can prolonged sitting or travel cause blood clots in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, prolonged sitting or travel can increase the risk of blood clots in the leg due to decreased blood flow. It's important to move regularly to prevent this.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle habits help prevent leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Staying active, avoiding prolonged sitting, staying hydrated, and maintaining a healthy weight can help prevent leg blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of a blood clot in the leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of a blood clot in the leg include swelling, pain, warmth, and redness in the affected area. Seek medical attention if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How are blood clots in the leg treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the leg are typically treated with blood thinners to prevent them from getting larger or breaking off. In some cases, surgery may be necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a blood clot in the leg diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A blood clot in the leg is diagnosed through a combination of ultrasound imaging and blood tests to check for clotting factors.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood thinners effective for leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood thinners are effective for treating leg blood clots by preventing the clot from getting bigger and reducing the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risk factors for developing leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for developing leg blood clots include obesity, smoking, prolonged immobility, surgery, pregnancy, and a family history of blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can compression stockings prevent blood clots in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, compression stockings can help prevent blood clots in the leg by improving blood flow and reducing the risk of clot formation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can prolonged sitting or travel cause blood clots in the leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prolonged sitting or travel can increase the risk of blood clots in the leg due to decreased blood flow. It's important to move regularly to prevent this.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in treating blood clots in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help in treating blood clots in the leg through medication, lifestyle changes, and monitoring to prevent complications and ensure recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle habits help prevent leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staying active, avoiding prolonged sitting, staying hydrated, and maintaining a healthy weight can help prevent leg blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications can occur if a blood clot in the leg is untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If left untreated, a blood clot in the leg can lead to serious complications such as pulmonary embolism, deep vein thrombosis, and post-thrombotic syndrome.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How are blood clots in the leg treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the leg are typically treated with blood thinners to prevent them from getting larger or breaking off. In some cases, surgery may be necessary.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood thinners effective for leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood thinners are effective for treating leg blood clots by preventing the clot from getting bigger and reducing the risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can compression stockings prevent blood clots in the leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, compression stockings can help prevent blood clots in the leg by improving blood flow and reducing the risk of clot formation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What complications can occur if a blood clot in the leg is untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If left untreated, a blood clot in the leg can lead to serious complications such as pulmonary embolism, deep vein thrombosis, and post-thrombotic syndrome.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -472,8 +444,6 @@
 
 
 
-        <h3>How can Medicover help in treating blood clots in the leg?</h3>
-        <p>Medicover can help in treating blood clots in the leg through medication, lifestyle changes, and monitoring to prevent complications and ensure recovery.</p>
 
 
 

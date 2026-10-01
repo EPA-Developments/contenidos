@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of stable angina include chest pain or discomfort, shortness of breath, fatigue, and a feeling of pressure or squeezing in the chest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can chest pain be a sign of stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain in stable angina is typically triggered by physical exertion or stress. It's a warning sign that the heart isn't getting enough oxygen-rich blood.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do stable angina symptoms differ from other types of chest pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina symptoms are typically triggered by physical exertion or stress and improve with rest, unlike other chest pain types.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long do stable angina symptoms last?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina symptoms typically last for a few minutes, often triggered by physical exertion or stress, and can be relieved by rest or medication.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What triggers the symptoms of stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of stable angina are usually triggered by physical exertion, stress, extreme temperatures, heavy meals, or smoking. These factors can cause a temporary decrease in blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of stable angina include chest pain or discomfort, shortness of breath, fatigue, and a feeling of pressure or squeezing in the chest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help in diagnosing stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can diagnose stable angina through tests like ECG, stress test, and coronary angiography to determine the extent of blockage in the arteries.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can chest pain be a sign of stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain in stable angina is typically triggered by physical exertion or stress. It's a warning sign that the heart isn't getting enough oxygen-rich blood.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the key signs that stable angina might be getting worse?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key signs that stable angina might be worsening include increased frequency, longer duration, greater intensity of chest pain, pain at rest, and new symptoms like shortness of breath.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do stable angina symptoms differ from other types of chest pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina symptoms are typically triggered by physical exertion or stress and improve with rest, unlike other chest pain types.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can you differentiate stable angina from a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is chest pain triggered by physical exertion or stress, relieved by rest or medication. A heart attack involves sudden, severe chest pain that doesn't go away with rest.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long do stable angina symptoms last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina symptoms typically last for a few minutes, often triggered by physical exertion or stress, and can be relieved by rest or medication.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any warning signs that require immediate medical attention in stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Warning signs in stable angina that require immediate medical attention include sudden onset of severe chest pain, pain that lasts longer than usual, and chest pain that is not relieved by rest or medication.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What triggers the symptoms of stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of stable angina are usually triggered by physical exertion, stress, extreme temperatures, heavy meals, or smoking. These factors can cause a temporary decrease in blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle factors can worsen the symptoms of stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Factors such as smoking, obesity, high stress levels, lack of physical activity, and unhealthy diet choices can worsen symptoms of stable angina.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the key signs that stable angina might be getting worse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key signs that stable angina might be worsening include increased frequency, longer duration, greater intensity of chest pain, pain at rest, and new symptoms like shortness of breath.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you differentiate stable angina from a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is chest pain triggered by physical exertion or stress, relieved by rest or medication. A heart attack involves sudden, severe chest pain that doesn't go away with rest.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any warning signs that require immediate medical attention in stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warning signs in stable angina that require immediate medical attention include sudden onset of severe chest pain, pain that lasts longer than usual, and chest pain that is not relieved by rest or medication.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle factors can worsen the symptoms of stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Factors such as smoking, obesity, high stress levels, lack of physical activity, and unhealthy diet choices can worsen symptoms of stable angina.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -477,8 +449,6 @@
 
 
 
-        <h3>How does Medicover help in diagnosing stable angina?</h3>
-        <p>Medicover can diagnose stable angina through tests like ECG, stress test, and coronary angiography to determine the extent of blockage in the arteries.</p>
 
 
 

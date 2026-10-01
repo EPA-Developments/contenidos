@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the different types of aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The different types of aortic aneurysms include abdominal aortic aneurysms (AAA) and thoracic aortic aneurysms (TAA), each with unique risk factors.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do aortic aneurysms form in the ascending descending and abdominal sections of the aorta?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysms form due to weakened vessel walls, causing ballooning in the ascending, descending, or abdominal sections of the aorta. Risk factors include age, smoking, high blood pressure, and a family history of aneurysms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What risk factors increase the chances of developing an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for developing an aortic aneurysm include smoking, high blood pressure, atherosclerosis, older age, family history, and genetic conditions.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can high blood pressure affect the development of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can weaken the walls of the aorta, increasing the risk of an aortic aneurysm due to the added stress on the artery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does smoking contribute to the formation of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking weakens the walls of the aorta, making it more prone to bulging and forming an aneurysm. It also increases the risk of aneurysm rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The different types of aortic aneurysms include abdominal aortic aneurysms (AAA) and thoracic aortic aneurysms (TAA), each with unique risk factors.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What genetic conditions are associated with aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Genetic conditions linked to aortic aneurysms include Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do aortic aneurysms form in the ascending descending and abdominal sections of the aorta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysms form due to weakened vessel walls, causing ballooning in the ascending, descending, or abdominal sections of the aorta. Risk factors include age, smoking, high blood pressure, and a family history of aneurysms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assess the risk factors for aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover assesses risk factors for aortic aneurysms through imaging tests, family history evaluation, and monitoring of high blood pressure and cholesterol levels.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What risk factors increase the chances of developing an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for developing an aortic aneurysm include smoking, high blood pressure, atherosclerosis, older age, family history, and genetic conditions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes reduce the risk of aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of aortic aneurysms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can high blood pressure affect the development of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can weaken the walls of the aorta, increasing the risk of an aortic aneurysm due to the added stress on the artery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is aortic aneurysm prevention monitored through regular checkups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysm prevention is monitored through regular checkups with imaging tests like ultrasounds or CT scans to detect any changes in the aorta's size.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does smoking contribute to the formation of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking weakens the walls of the aorta, making it more prone to bulging and forming an aneurysm. It also increases the risk of aneurysm rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for individuals diagnosed with an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for individuals with an aortic aneurysm varies depending on the type and size. Regular monitoring and lifestyle changes can help manage the condition effectively.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What genetic conditions are associated with aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genetic conditions linked to aortic aneurysms include Marfan syndrome, Ehlers-Danlos syndrome, and Loeys-Dietz syndrome.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes reduce the risk of aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of aortic aneurysms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is aortic aneurysm prevention monitored through regular checkups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysm prevention is monitored through regular checkups with imaging tests like ultrasounds or CT scans to detect any changes in the aorta's size.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the prognosis for individuals diagnosed with an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for individuals with an aortic aneurysm varies depending on the type and size. Regular monitoring and lifestyle changes can help manage the condition effectively.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -409,8 +381,6 @@
 
 
 
-        <h3>How does Medicover assess the risk factors for aortic aneurysms?</h3>
-        <p>Medicover assesses risk factors for aortic aneurysms through imaging tests, family history evaluation, and monitoring of high blood pressure and cholesterol levels.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why is early intervention crucial for treating truncus arteriosus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention is crucial for treating truncus arteriosus to prevent complications like heart failure and respiratory issues, improving long-term outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does early surgery improve the prognosis of truncus arteriosus patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early surgery improves the prognosis of truncus arteriosus patients by correcting the heart defect before complications arise, leading to better long-term outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks of delaying treatment for truncus arteriosus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Delaying treatment for truncus arteriosus can lead to complications such as heart failure, pulmonary hypertension, and irreversible damage to the heart and lungs. Early intervention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can early intervention reduce complications in truncus arteriosus patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention in truncus arteriosus patients can help identify and address potential complications sooner, leading to better outcomes and improved quality of life.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does early diagnosis play in successful treatment outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early diagnosis is crucial in treating Truncus Arteriosus as it allows for timely intervention, preventing complications and improving long-term outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why is early intervention crucial for treating truncus arteriosus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention is crucial for treating truncus arteriosus to prevent complications like heart failure and respiratory issues, improving long-term outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can delaying treatment for truncus arteriosus affect a childâ€™s growth and development?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, delaying treatment for truncus arteriosus can lead to serious complications that may affect a child's growth and development. Early intervention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does early surgery improve the prognosis of truncus arteriosus patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early surgery improves the prognosis of truncus arteriosus patients by correcting the heart defect before complications arise, leading to better long-term outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover handle early intervention for truncus arteriosus patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides early intervention for truncus arteriosus patients through timely diagnosis, expert medical care, and specialized treatment options to improve outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of delaying treatment for truncus arteriosus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delaying treatment for truncus arteriosus can lead to complications such as heart failure, pulmonary hypertension, and irreversible damage to the heart and lungs. Early intervention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early intervention influence heart health in truncus arteriosus patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention in truncus arteriosus patients can improve heart health by addressing structural defects promptly, reducing complications, and enhancing long-term outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can early intervention reduce complications in truncus arteriosus patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention in truncus arteriosus patients can help identify and address potential complications sooner, leading to better outcomes and improved quality of life.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs that early intervention is needed for truncus arteriosus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs that early intervention is needed for truncus arteriosus include poor feeding, rapid breathing, cyanosis, and failure to thrive. Prompt medical attention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does early diagnosis play in successful treatment outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early diagnosis is crucial in treating Truncus Arteriosus as it allows for timely intervention, preventing complications and improving long-term outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early treatment impact the longterm heart health of truncus arteriosus patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early treatment for truncus arteriosus can improve longterm heart health by preventing complications like heart failure and pulmonary hypertension.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can delaying treatment for truncus arteriosus affect a childâ€™s growth and development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, delaying treatment for truncus arteriosus can lead to serious complications that may affect a child's growth and development. Early intervention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early intervention influence heart health in truncus arteriosus patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention in truncus arteriosus patients can improve heart health by addressing structural defects promptly, reducing complications, and enhancing long-term outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that early intervention is needed for truncus arteriosus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that early intervention is needed for truncus arteriosus include poor feeding, rapid breathing, cyanosis, and failure to thrive. Prompt medical attention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early treatment impact the longterm heart health of truncus arteriosus patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early treatment for truncus arteriosus can improve longterm heart health by preventing complications like heart failure and pulmonary hypertension.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -422,8 +394,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover handle early intervention for truncus arteriosus patients?</p>
 
 
 

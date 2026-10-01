@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of acute decompensated heart failure include shortness of breath, fatigue, swelling in legs/abdomen, rapid weight gain, and increased heart rate.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you recognize when heart failure has worsened?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You can recognize worsening heart failure by symptoms like increased shortness of breath, swelling in the legs or abdomen, sudden weight gain, and extreme fatigue.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What makes the symptoms of acute decompensated heart failure different from other heart conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The symptoms of acute decompensated heart failure are unique due to sudden onset of severe shortness of breath, rapid weight gain, and swelling in legs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you notice symptoms of acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you notice symptoms of acute decompensated heart failure, seek immediate medical attention by calling emergency services or going to the nearest hospital.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does fluid retention indicate worsening heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Fluid retention in heart failure causes swelling in legs, ankles, abdomen, or lungs, indicating worsening heart function and potential need for medical attention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of acute decompensated heart failure include shortness of breath, fatigue, swelling in legs/abdomen, rapid weight gain, and increased heart rate.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does shortness of breath relate to acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shortness of breath is a key symptom of acute decompensated heart failure due to fluid buildup in the lungs, making it difficult to breathe.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you recognize when heart failure has worsened?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can recognize worsening heart failure by symptoms like increased shortness of breath, swelling in the legs or abdomen, sudden weight gain, and extreme fatigue.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in identifying the symptoms of acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover helps by providing medical expertise and diagnostic tests to identify symptoms of acute decompensated heart failure early, allowing for prompt treatment and management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What makes the symptoms of acute decompensated heart failure different from other heart conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The symptoms of acute decompensated heart failure are unique due to sudden onset of severe shortness of breath, rapid weight gain, and swelling in legs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can the symptoms of acute decompensated heart failure be managed at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, symptoms of acute decompensated heart failure should be addressed by a healthcare professional in a medical setting for proper management and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you notice symptoms of acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you notice symptoms of acute decompensated heart failure, seek immediate medical attention by calling emergency services or going to the nearest hospital.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of delaying treatment for acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Delaying treatment for acute decompensated heart failure can lead to worsening symptoms, fluid buildup, organ damage, and even life-threatening complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does fluid retention indicate worsening heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fluid retention in heart failure causes swelling in legs, ankles, abdomen, or lungs, indicating worsening heart function and potential need for medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there specific tests that help detect acute decompensated heart failure symptoms early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood tests, chest X-rays, electrocardiograms (EKG/ECG), echocardiograms, and brain natriuretic peptide (BNP) tests can help detect acute decompensated heart failure early.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does shortness of breath relate to acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shortness of breath is a key symptom of acute decompensated heart failure due to fluid buildup in the lungs, making it difficult to breathe.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the symptoms of acute decompensated heart failure be managed at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, symptoms of acute decompensated heart failure should be addressed by a healthcare professional in a medical setting for proper management and treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of delaying treatment for acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delaying treatment for acute decompensated heart failure can lead to worsening symptoms, fluid buildup, organ damage, and even life-threatening complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific tests that help detect acute decompensated heart failure symptoms early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood tests, chest X-rays, electrocardiograms (EKG/ECG), echocardiograms, and brain natriuretic peptide (BNP) tests can help detect acute decompensated heart failure early.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -424,8 +396,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in identifying the symptoms of acute decompensated heart failure?</p>
 
 
 

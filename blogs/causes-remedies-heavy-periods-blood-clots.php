@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heavy periods with blood clots can be caused by hormonal imbalance, uterine fibroids, endometriosis, or polyps. It's essential to consult a healthcare provider for proper diagnosis and treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are heavy periods with blood clots diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heavy periods with blood clots are diagnosed through a physical exam, medical history review, and possibly tests like ultrasound or blood work.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the potential health issues linked to heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential health issues linked to heavy periods with blood clots include anemia, fatigue, and iron deficiency. It is important to seek medical advice for proper diagnosis and treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for managing heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for heavy periods with blood clots include hormonal medications, nonsteroidal anti-inflammatory drugs, and procedures like endometrial ablation or hysterectomy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can lifestyle changes help reduce heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes like maintaining a healthy diet, regular exercise, managing stress, and staying hydrated can help reduce heavy periods with blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy periods with blood clots can be caused by hormonal imbalance, uterine fibroids, endometriosis, or polyps. It's essential to consult a healthcare provider for proper diagnosis and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in treating heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help by offering diagnostic tests, hormonal therapy, medications, and even surgical options to effectively treat heavy periods with blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are heavy periods with blood clots diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heavy periods with blood clots are diagnosed through a physical exam, medical history review, and possibly tests like ultrasound or blood work.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any natural remedies for managing heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, natural remedies such as iron supplements, herbal teas, and dietary changes can help manage heavy periods with blood clots. Consult with your healthcare provider for personalized advice.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the potential health issues linked to heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential health issues linked to heavy periods with blood clots include anemia, fatigue, and iron deficiency. It is important to seek medical advice for proper diagnosis and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role do hormones play in heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hormones can cause heavy periods with blood clots by affecting the uterine lining thickness and clotting factors, leading to excessive bleeding.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for managing heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for heavy periods with blood clots include hormonal medications, nonsteroidal anti-inflammatory drugs, and procedures like endometrial ablation or hysterectomy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do diet and exercise impact heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A balanced diet and regular exercise can help regulate hormones and improve blood flow, potentially reducing heavy periods and blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can lifestyle changes help reduce heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes like maintaining a healthy diet, regular exercise, managing stress, and staying hydrated can help reduce heavy periods with blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should medical intervention be sought for heavy periods with blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medical intervention should be sought for heavy periods with blood clots if they interfere with daily life, are accompanied by severe pain, or last longer than 7 days.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there any natural remedies for managing heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, natural remedies such as iron supplements, herbal teas, and dietary changes can help manage heavy periods with blood clots. Consult with your healthcare provider for personalized advice.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do hormones play in heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hormones can cause heavy periods with blood clots by affecting the uterine lining thickness and clotting factors, leading to excessive bleeding.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do diet and exercise impact heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A balanced diet and regular exercise can help regulate hormones and improve blood flow, potentially reducing heavy periods and blood clots.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should medical intervention be sought for heavy periods with blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical intervention should be sought for heavy periods with blood clots if they interfere with daily life, are accompanied by severe pain, or last longer than 7 days.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -409,8 +381,6 @@
 
 
 
-        <h3>How can Medicover assist in treating heavy periods with blood clots?</h3>
-        <p>Medicover can help by offering diagnostic tests, hormonal therapy, medications, and even surgical options to effectively treat heavy periods with blood clots.</p>
 
 
 

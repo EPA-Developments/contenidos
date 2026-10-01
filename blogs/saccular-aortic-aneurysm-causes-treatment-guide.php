@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is a saccular aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A saccular aortic aneurysm is a bulge that forms on a specific section of the aorta, a major blood vessel in the body. It can be serious if left untreated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a saccular aortic aneurysm different from other aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A saccular aortic aneurysm is a localized bulge on one side of the aorta, unlike fusiform aneurysms which bulge out on both sides. Treatment varies based on the type.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a saccular aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a saccular aortic aneurysm may include chest or back pain, shortness of breath, hoarseness, coughing, and difficulty swallowing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes a saccular aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A saccular aortic aneurysm is typically caused by weakness in the wall of the aorta, often due to atherosclerosis or high blood pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a saccular aortic aneurysm diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A saccular aortic aneurysm is typically diagnosed through imaging tests such as CT scans, MRIs, or ultrasounds to visualize the bulging in the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is a saccular aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A saccular aortic aneurysm is a bulge that forms on a specific section of the aorta, a major blood vessel in the body. It can be serious if left untreated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for a saccular aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for a saccular aortic aneurysm can include monitoring, medication to lower blood pressure, and surgery to repair or replace the weakened artery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a saccular aortic aneurysm different from other aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A saccular aortic aneurysm is a localized bulge on one side of the aorta, unlike fusiform aneurysms which bulge out on both sides. Treatment varies based on the type.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat saccular aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover typically treats saccular aortic aneurysms with surgery or endovascular repair to prevent rupture and reduce the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a saccular aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a saccular aortic aneurysm may include chest or back pain, shortness of breath, hoarseness, coughing, and difficulty swallowing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are saccular aortic aneurysms more likely to rupture than other types?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, saccular aortic aneurysms are more likely to rupture compared to other types due to their shape and the concentrated stress they put on the vessel wall.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes a saccular aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A saccular aortic aneurysm is typically caused by weakness in the wall of the aorta, often due to atherosclerosis or high blood pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What risks are associated with untreated saccular aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated saccular aortic aneurysms can rupture, leading to life-threatening internal bleeding. It is important to monitor and treat them to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a saccular aortic aneurysm diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A saccular aortic aneurysm is typically diagnosed through imaging tests such as CT scans, MRIs, or ultrasounds to visualize the bulging in the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes reduce the risk of a saccular aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes like quitting smoking, controlling blood pressure, and eating a healthy diet can reduce the risk of a saccular aortic aneurysm.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for a saccular aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for a saccular aortic aneurysm can include monitoring, medication to lower blood pressure, and surgery to repair or replace the weakened artery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are saccular aortic aneurysms more likely to rupture than other types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, saccular aortic aneurysms are more likely to rupture compared to other types due to their shape and the concentrated stress they put on the vessel wall.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What risks are associated with untreated saccular aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated saccular aortic aneurysms can rupture, leading to life-threatening internal bleeding. It is important to monitor and treat them to prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes reduce the risk of a saccular aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes like quitting smoking, controlling blood pressure, and eating a healthy diet can reduce the risk of a saccular aortic aneurysm.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -444,8 +416,6 @@
 
 
 
-        <h3>How does Medicover treat saccular aortic aneurysms?</h3>
-        <p>Medicover typically treats saccular aortic aneurysms with surgery or endovascular repair to prevent rupture and reduce the risk of complications.</p>
 
 
 

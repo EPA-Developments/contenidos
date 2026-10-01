@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the primary symptoms of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The primary symptoms of acute pericarditis include chest pain, which may worsen with deep breathing or lying down, fever, and shortness of breath.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can chest pain indicate acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain in acute pericarditis is often sharp and worsens with deep breaths or lying down. It may also radiate to the neck, shoulder, or back.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any nonobvious symptoms of acute pericarditis that should not be ignored?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nonobvious symptoms of acute pericarditis that should not be ignored include fatigue, shortness of breath, and swelling in the legs or abdomen.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What other conditions might share symptoms with acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Other conditions that might share symptoms with acute pericarditis include myocardial infarction, pleurisy, and pneumonia. It's important to seek medical attention for an accurate diagnosis.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do fever and fatigue relate to acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Fever and fatigue are common symptoms of acute pericarditis, a condition where the lining around the heart becomes inflamed, causing chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary symptoms of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary symptoms of acute pericarditis include chest pain, which may worsen with deep breathing or lying down, fever, and shortness of breath.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in recognizing early signs of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help recognize early signs of acute pericarditis through prompt evaluation and diagnostic testing by experienced healthcare professionals.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can chest pain indicate acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain in acute pericarditis is often sharp and worsens with deep breaths or lying down. It may also radiate to the neck, shoulder, or back.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you do if you suspect acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect acute pericarditis, seek medical attention promptly to diagnose and treat the condition before it worsens.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there any nonobvious symptoms of acute pericarditis that should not be ignored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nonobvious symptoms of acute pericarditis that should not be ignored include fatigue, shortness of breath, and swelling in the legs or abdomen.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is shortness of breath a common symptom of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, shortness of breath is a common symptom of acute pericarditis. It may occur due to inflammation and fluid buildup around the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What other conditions might share symptoms with acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Other conditions that might share symptoms with acute pericarditis include myocardial infarction, pleurisy, and pneumonia. It's important to seek medical attention for an accurate diagnosis.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can acute pericarditis lead to more serious heart complications if untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If left untreated, acute pericarditis can lead to complications such as pericardial effusion, cardiac tamponade, and even heart failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do fever and fatigue relate to acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fever and fatigue are common symptoms of acute pericarditis, a condition where the lining around the heart becomes inflamed, causing chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there specific tests to confirm acute pericarditis symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, specific tests such as electrocardiogram (ECG), echocardiogram, and blood tests can help confirm acute pericarditis symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What should you do if you suspect acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect acute pericarditis, seek medical attention promptly to diagnose and treat the condition before it worsens.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is shortness of breath a common symptom of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, shortness of breath is a common symptom of acute pericarditis. It may occur due to inflammation and fluid buildup around the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can acute pericarditis lead to more serious heart complications if untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If left untreated, acute pericarditis can lead to complications such as pericardial effusion, cardiac tamponade, and even heart failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific tests to confirm acute pericarditis symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, specific tests such as electrocardiogram (ECG), echocardiogram, and blood tests can help confirm acute pericarditis symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -429,8 +401,6 @@
 
 
 
-        <h3>How can Medicover help in recognizing early signs of acute pericarditis?</h3>
-        <p>Medicover can help recognize early signs of acute pericarditis through prompt evaluation and diagnostic testing by experienced healthcare professionals.</p>
 
 
 

@@ -56,7 +56,7 @@
                                     <span>Location: ${doctor.unit || 'Unknown'}</span><br>
                                     <span>${doctor.designation || 'Doctor'}</span><br>
                                     <h3><a href="https://plataforma.epa-bienestar.com.ar/doctors/${doctor.slug || '#'}">${doctor.doctor_name}</a></h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/book-appointment">
+                                    <a href="https://plataforma.epa-bienestar.com.ar/turnos">
                                         <button class="default-btn1">Book An Appointment</button>
                                     </a>
                                 </div>

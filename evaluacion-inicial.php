@@ -14,8 +14,11 @@
 // Medplum Configuration
 define('MEDPLUM_BASE_URL', 'https://api.epa-bienestar.com.ar/fhir/R4');
 define('MEDPLUM_AUTH_URL', 'https://api.epa-bienestar.com.ar/oauth2/token');
-define('MEDPLUM_CLIENT_ID', '188d147c-a397-482e-898e-928fbd445321');
-define('MEDPLUM_CLIENT_SECRET', '9a19158956a155a4ed8d95649d046b4830fa960cbf92258c153989f05266c027');
+// Credenciales: fuera del repositorio (include/config.php: variable de entorno o
+// epa-config.php fuera de la carpeta pública). Nunca escribirlas acá.
+require_once __DIR__ . '/include/config.php';
+define('MEDPLUM_CLIENT_ID', epa_config('MEDPLUM_CLIENT_ID') ?? '');
+define('MEDPLUM_CLIENT_SECRET', epa_config('MEDPLUM_CLIENT_SECRET') ?? '');
 define('MEDPLUM_PROJECT_ID', '79679343-1b6e-47b9-bee7-32929111451d');
 
 // Doctor Configuration
@@ -24,9 +27,10 @@ define('DOCTOR_NAME', 'Dr. Alejandro Sergio D\'Alessandro');
 define('APPOINTMENT_DURATION_MINUTES', 20);
 define('TIMEZONE', 'America/Argentina/Buenos_Aires');
 
-// Error reporting
+// Errores: al log, nunca en pantalla (pueden mostrar rutas, URLs o respuestas del servidor).
 error_reporting(E_ALL);
-ini_set('display_errors', 1);
+ini_set('display_errors', '0');
+ini_set('log_errors', '1');
 date_default_timezone_set(TIMEZONE);
 
 // ============================================================================

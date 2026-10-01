@@ -29,7 +29,8 @@
                                 <li><a href="https://plataforma.epa-bienestar.com.ar">Home</a></li>
                                 <li><a href="https://plataforma.epa-bienestar.com.ar/about">About Us</a></li>
                                 <li><a href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es.php">Life Essential 8</a></li>
-                                <li><a href="https://calendar.app.google/BSEeG7soHGK52RJM8">Book an Appointment</a></li>
+                                <li><a href="https://plataforma.epa-bienestar.com.ar/biblioteca/">Biblioteca CKM-LE8</a></li>
+                                <li><a href="https://plataforma.epa-bienestar.com.ar/turnos">Pedir turno</a></li>
                                 
                             </ul>
                         </div>

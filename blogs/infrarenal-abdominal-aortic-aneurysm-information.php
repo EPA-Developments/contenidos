@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an infrarenal abdominal aortic aneurysm and how is it different from other types of aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal abdominal aortic aneurysm is a bulge in the lower part of the aorta. It differs from other types by its location below the kidneys.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes an infrarenal abdominal aortic aneurysm to form?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal abdominal aortic aneurysm forms due to weakening of the aortic wall, often caused by atherosclerosis, high blood pressure, or genetic factors.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an infrarenal abdominal aortic aneurysm diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal abdominal aortic aneurysm is diagnosed through imaging tests like ultrasound, CT scan, or MRI to assess the size and location of the aneurysm.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an infrarenal abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an infrarenal abdominal aortic aneurysm may include abdominal or back pain, a pulsating feeling in the abdomen, and potentially life-threatening complications if the aneurysm ruptures.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover treat infrarenal abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats infrarenal abdominal aortic aneurysms through minimally invasive endovascular procedures, such as stent grafting, to repair the weakened artery and prevent rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an infrarenal abdominal aortic aneurysm and how is it different from other types of aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal abdominal aortic aneurysm is a bulge in the lower part of the aorta. It differs from other types by its location below the kidneys.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks associated with infrarenal abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks associated with infrarenal abdominal aortic aneurysms include rupture, blood clots, and potential organ damage due to decreased blood flow. Early detection and monitoring are crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes an infrarenal abdominal aortic aneurysm to form?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal abdominal aortic aneurysm forms due to weakening of the aortic wall, often caused by atherosclerosis, high blood pressure, or genetic factors.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does an infrarenal abdominal aortic aneurysm affect the surrounding blood vessels?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal abdominal aortic aneurysm can put pressure on surrounding blood vessels, potentially leading to complications such as reduced blood flow or even rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an infrarenal abdominal aortic aneurysm diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal abdominal aortic aneurysm is diagnosed through imaging tests like ultrasound, CT scan, or MRI to assess the size and location of the aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the treatment plan for an infrarenal abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment plan for an infrarenal abdominal aortic aneurysm typically involves monitoring, lifestyle changes, medication, or surgery depending on the size and risk of rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an infrarenal abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an infrarenal abdominal aortic aneurysm may include abdominal or back pain, a pulsating feeling in the abdomen, and potentially life-threatening complications if the aneurysm ruptures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the recovery process like after surgery for an infrarenal abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery after surgery for an infrarenal abdominal aortic aneurysm involves rest, pain management, monitoring for complications, and gradually increasing activity levels.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with infrarenal abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks associated with infrarenal abdominal aortic aneurysms include rupture, blood clots, and potential organ damage due to decreased blood flow. Early detection and monitoring are crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can an infrarenal abdominal aortic aneurysm impact a patientâ€™s longterm health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal abdominal aortic aneurysm can lead to serious complications such as rupture, which can be life-threatening and require emergency medical intervention.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does an infrarenal abdominal aortic aneurysm affect the surrounding blood vessels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal abdominal aortic aneurysm can put pressure on surrounding blood vessels, potentially leading to complications such as reduced blood flow or even rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the treatment plan for an infrarenal abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment plan for an infrarenal abdominal aortic aneurysm typically involves monitoring, lifestyle changes, medication, or surgery depending on the size and risk of rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the recovery process like after surgery for an infrarenal abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery after surgery for an infrarenal abdominal aortic aneurysm involves rest, pain management, monitoring for complications, and gradually increasing activity levels.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can an infrarenal abdominal aortic aneurysm impact a patientâ€™s longterm health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal abdominal aortic aneurysm can lead to serious complications such as rupture, which can be life-threatening and require emergency medical intervention.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -448,8 +420,6 @@
 
 
 
-        <h3>How does Medicover treat infrarenal abdominal aortic aneurysms?</h3>
-        <p>Medicover treats infrarenal abdominal aortic aneurysms through minimally invasive endovascular procedures, such as stent grafting, to repair the weakened artery and prevent rupture.</p>
 
 
 

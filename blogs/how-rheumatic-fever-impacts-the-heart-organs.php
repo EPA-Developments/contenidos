@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does rheumatic fever cause heart problems?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever causes heart problems by triggering inflammation in the heart's valves, leading to scarring and potential damage that affects its function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is rheumatic heart disease and how is it related to rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic heart disease is a condition where the heart valves are damaged due to rheumatic fever, an inflammatory disease caused by untreated strep throat.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can rheumatic fever damage other organs besides the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever can damage organs like the brain, joints, skin, and lungs by causing inflammation and scarring due to an overactive immune response.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of heart damage from rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of heart damage from rheumatic fever include chest pain, shortness of breath, fatigue, irregular heartbeat, and swelling in the legs or abdomen.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does rheumatic fever lead to longterm heart conditions like valvular heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever causes inflammation in the heart valves, leading to scarring and thickening. Over time, this can result in valvular heart disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does rheumatic fever cause heart problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever causes heart problems by triggering inflammation in the heart's valves, leading to scarring and potential damage that affects its function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What other complications can arise from rheumatic fever affecting organs like the joints or skin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever can also lead to complications like arthritis in the joints and skin rashes, further impacting overall health and quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is rheumatic heart disease and how is it related to rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic heart disease is a condition where the heart valves are damaged due to rheumatic fever, an inflammatory disease caused by untreated strep throat.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat heart issues caused by rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats heart issues caused by rheumatic fever through a combination of medication, monitoring, and lifestyle changes to manage symptoms and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can rheumatic fever damage other organs besides the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever can damage organs like the brain, joints, skin, and lungs by causing inflammation and scarring due to an overactive immune response.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can heart damage from rheumatic fever be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular treatment of strep throat with antibiotics can prevent rheumatic fever, which in turn can prevent heart damage. Vaccinating against strep can also help.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of heart damage from rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of heart damage from rheumatic fever include chest pain, shortness of breath, fatigue, irregular heartbeat, and swelling in the legs or abdomen.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What can be done to repair the heart after it has been damaged by rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for a damaged heart from rheumatic fever includes medications to reduce inflammation, prevent further damage, and sometimes surgery to repair or replace damaged valves.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does rheumatic fever lead to longterm heart conditions like valvular heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever causes inflammation in the heart valves, leading to scarring and thickening. Over time, this can result in valvular heart disease.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does rheumatic fever impact the body's immune system?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever triggers an abnormal immune response that mistakenly attacks healthy tissues, including the heart, joints, and brain, leading to inflammation and damage.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What other complications can arise from rheumatic fever affecting organs like the joints or skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever can also lead to complications like arthritis in the joints and skin rashes, further impacting overall health and quality of life.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can heart damage from rheumatic fever be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular treatment of strep throat with antibiotics can prevent rheumatic fever, which in turn can prevent heart damage. Vaccinating against strep can also help.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can be done to repair the heart after it has been damaged by rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for a damaged heart from rheumatic fever includes medications to reduce inflammation, prevent further damage, and sometimes surgery to repair or replace damaged valves.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does rheumatic fever impact the body's immune system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever triggers an abnormal immune response that mistakenly attacks healthy tissues, including the heart, joints, and brain, leading to inflammation and damage.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -425,8 +397,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover treat heart issues caused by rheumatic fever?</p>
 
 
 

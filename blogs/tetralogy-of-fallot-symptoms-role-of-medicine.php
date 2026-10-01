@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What medications are used to manage symptoms of tetralogy of Fallot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications such as diuretics, beta-blockers, and blood thinners are commonly used to manage symptoms of tetralogy of Fallot and improve heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications help alleviate symptoms like shortness of breath or cyanosis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications can help by reducing the workload on the heart, improving blood flow, and managing symptoms like shortness of breath or cyanosis in Tetralogy of Fallot.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any longterm medications needed for children with tetralogy of Fallot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, some children with tetralogy of Fallot may require longterm medications to manage symptoms and improve heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do diuretics support heart function in tetralogy of Fallot patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diuretics help remove excess fluid from the body, reducing strain on the heart and improving its function in Tetralogy of Fallot patients.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do blood pressure medications play in managing tetralogy of Fallot symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood pressure medications can help manage symptoms of tetralogy of Fallot by reducing strain on the heart and improving overall heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications are used to manage symptoms of tetralogy of Fallot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications such as diuretics, beta-blockers, and blood thinners are commonly used to manage symptoms of tetralogy of Fallot and improve heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do pediatric cardiologists determine which medications are appropriate for tetralogy of Fallot patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Pediatric cardiologists determine appropriate medications for Tetralogy of Fallot based on the patient's specific symptoms, heart function, and overall health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications help alleviate symptoms like shortness of breath or cyanosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications can help by reducing the workload on the heart, improving blood flow, and managing symptoms like shortness of breath or cyanosis in Tetralogy of Fallot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications alone control tetralogy of Fallot symptoms without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications can help manage symptoms of tetralogy of Fallot, but surgery is usually needed to correct the underlying heart defects for long-term improvement.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there any longterm medications needed for children with tetralogy of Fallot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, some children with tetralogy of Fallot may require longterm medications to manage symptoms and improve heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage medications for children with tetralogy of Fallot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover carefully prescribes and monitors medications to help manage symptoms in children with tetralogy of Fallot, ensuring optimal treatment and quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do diuretics support heart function in tetralogy of Fallot patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diuretics help remove excess fluid from the body, reducing strain on the heart and improving its function in Tetralogy of Fallot patients.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of drug interactions for tetralogy of Fallot patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of drug interactions for tetralogy of Fallot patients include potential interference with heart medications, leading to complications or reduced effectiveness.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do blood pressure medications play in managing tetralogy of Fallot symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood pressure medications can help manage symptoms of tetralogy of Fallot by reducing strain on the heart and improving overall heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any new advancements in medication for managing tetralogy of Fallot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there have been advancements in medication for managing symptoms of tetralogy of Fallot, such as beta-blockers and diuretics to help improve heart function and reduce symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do pediatric cardiologists determine which medications are appropriate for tetralogy of Fallot patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pediatric cardiologists determine appropriate medications for Tetralogy of Fallot based on the patient's specific symptoms, heart function, and overall health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can medications alone control tetralogy of Fallot symptoms without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications can help manage symptoms of tetralogy of Fallot, but surgery is usually needed to correct the underlying heart defects for long-term improvement.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of drug interactions for tetralogy of Fallot patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of drug interactions for tetralogy of Fallot patients include potential interference with heart medications, leading to complications or reduced effectiveness.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any new advancements in medication for managing tetralogy of Fallot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there have been advancements in medication for managing symptoms of tetralogy of Fallot, such as beta-blockers and diuretics to help improve heart function and reduce symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -432,8 +404,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover manage medications for children with tetralogy of Fallot?</p>
 
 
 

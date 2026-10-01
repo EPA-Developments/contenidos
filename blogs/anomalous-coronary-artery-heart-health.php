@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an anomalous coronary artery and how does it affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An anomalous coronary artery is a heart condition where the arteries are not in their usual position. It can affect blood flow and increase the risk of heart problems.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes an anomalous coronary artery to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Anomalous coronary arteries are typically caused by genetic factors or developmental abnormalities during fetal growth, leading to irregular placement or branching of the arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an anomalous coronary artery diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Anomalous coronary arteries are diagnosed through imaging tests like a CT scan or cardiac MRI, which can show the exact location and course of the arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an anomalous coronary artery can include chest pain, shortness of breath, palpitations, and fainting, especially during physical activity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can an anomalous coronary artery lead to heart disease or other complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, an anomalous coronary artery can lead to heart disease or complications due to restricted blood flow, potentially increasing the risk of heart attacks or other cardiac issues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an anomalous coronary artery and how does it affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An anomalous coronary artery is a heart condition where the arteries are not in their usual position. It can affect blood flow and increase the risk of heart problems.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is an anomalous coronary artery treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for an anomalous coronary artery depends on symptoms. Options may include medication, lifestyle changes, or surgery to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes an anomalous coronary artery to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anomalous coronary arteries are typically caused by genetic factors or developmental abnormalities during fetal growth, leading to irregular placement or branching of the arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches the treatment of anomalous coronary artery with a comprehensive evaluation and personalized treatment plan to ensure optimal heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an anomalous coronary artery diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anomalous coronary arteries are diagnosed through imaging tests like a CT scan or cardiac MRI, which can show the exact location and course of the arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of living with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Longterm effects of living with an anomalous coronary artery may include an increased risk of heart complications such as chest pain, heart attacks, and sudden cardiac arrest. Regular monitoring and lifestyle modifications are important for managing these risks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an anomalous coronary artery can include chest pain, shortness of breath, palpitations, and fainting, especially during physical activity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any lifestyle changes that can help manage an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy weight, quitting smoking, regular exercise, and a balanced diet can help manage an anomalous coronary artery and support heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can an anomalous coronary artery lead to heart disease or other complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an anomalous coronary artery can lead to heart disease or complications due to restricted blood flow, potentially increasing the risk of heart attacks or other cardiac issues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated anomalous coronary artery can lead to serious complications like heart attack, arrhythmias, or sudden cardiac death. Early detection and management are crucial.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How is an anomalous coronary artery treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for an anomalous coronary artery depends on symptoms. Options may include medication, lifestyle changes, or surgery to improve blood flow to the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of living with an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Longterm effects of living with an anomalous coronary artery may include an increased risk of heart complications such as chest pain, heart attacks, and sudden cardiac arrest. Regular monitoring and lifestyle modifications are important for managing these risks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any lifestyle changes that can help manage an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy weight, quitting smoking, regular exercise, and a balanced diet can help manage an anomalous coronary artery and support heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated anomalous coronary artery can lead to serious complications like heart attack, arrhythmias, or sudden cardiac death. Early detection and management are crucial.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -421,8 +393,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of anomalous coronary artery?</p>
 
 
 

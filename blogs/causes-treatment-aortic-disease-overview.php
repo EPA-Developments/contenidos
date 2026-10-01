@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic disease and what are its causes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease is a condition that affects the aorta, the body's main artery. Causes can include high blood pressure, atherosclerosis, genetic factors, and infections.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic disease affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can impair heart function by causing the aorta to weaken, enlarge, or tear, leading to reduced blood flow and possible heart failure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the different types of aortic diseases?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The different types of aortic diseases include aortic aneurysms, aortic dissections, and aortic valve disease. Each requires specific treatment based on severity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic disease diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease is diagnosed through imaging tests like echocardiograms, CT scans, or MRIs to assess the size, shape, and function of the aorta.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic disease include medications, lifestyle changes, monitoring, and in severe cases, surgical interventions like aortic repair or replacement.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic disease and what are its causes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease is a condition that affects the aorta, the body's main artery. Causes can include high blood pressure, atherosclerosis, genetic factors, and infections.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help manage aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as a heart-healthy diet, regular exercise, quitting smoking, and managing stress can help manage aortic disease by reducing risk factors and improving overall cardiovascular health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic disease affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can impair heart function by causing the aorta to weaken, enlarge, or tear, leading to reduced blood flow and possible heart failure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of surgery in treating aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is often necessary for severe cases of aortic disease to repair or replace the damaged section of the aorta and restore proper blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of aortic diseases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The different types of aortic diseases include aortic aneurysms, aortic dissections, and aortic valve disease. Each requires specific treatment based on severity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the complications associated with untreated aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Complications of untreated aortic disease include aneurysm rupture, dissection, and potential organ damage from decreased blood flow. Early detection is key.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic disease diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease is diagnosed through imaging tests like echocardiograms, CT scans, or MRIs to assess the size, shape, and function of the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover provide care for aortic disease patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive care for aortic disease patients through diagnostic testing, medication management, surgical interventions, and ongoing monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic disease include medications, lifestyle changes, monitoring, and in severe cases, surgical interventions like aortic repair or replacement.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic disease be prevented or delayed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While aortic disease cannot be completely prevented, lifestyle changes such as maintaining a healthy weight, quitting smoking, and managing blood pressure can help delay its progression.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can lifestyle changes help manage aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as a heart-healthy diet, regular exercise, quitting smoking, and managing stress can help manage aortic disease by reducing risk factors and improving overall cardiovascular health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of surgery in treating aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is often necessary for severe cases of aortic disease to repair or replace the damaged section of the aorta and restore proper blood flow.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the complications associated with untreated aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complications of untreated aortic disease include aneurysm rupture, dissection, and potential organ damage from decreased blood flow. Early detection is key.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic disease be prevented or delayed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While aortic disease cannot be completely prevented, lifestyle changes such as maintaining a healthy weight, quitting smoking, and managing blood pressure can help delay its progression.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3>How does Medicover provide care for aortic disease patients?</h3>
-        <p>Medicover provides comprehensive care for aortic disease patients through diagnostic testing, medication management, surgical interventions, and ongoing monitoring.</p>
 
 
 

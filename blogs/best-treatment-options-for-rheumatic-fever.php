@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for managing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for managing rheumatic fever include antibiotics to treat the streptococcal infection, anti-inflammatory medications for inflammation, and sometimes heart medications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does antibiotic treatment help in managing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotic treatment helps by eliminating the bacteria that cause rheumatic fever, preventing further heart damage and reducing the risk of recurrent infections.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of corticosteroids in treating rheumatic fever symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Corticosteroids are used in treating rheumatic fever to reduce inflammation and manage symptoms such as joint pain and swelling effectively.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can overthecounter medications alleviate symptoms of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Over-the-counter medications can help alleviate symptoms of rheumatic fever, but they are not a substitute for prescribed medications from a healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover manage severe cases of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages severe cases of rheumatic fever by providing a combination of antibiotics, anti-inflammatory medications, and supportive care to alleviate symptoms and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for managing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for managing rheumatic fever include antibiotics to treat the streptococcal infection, anti-inflammatory medications for inflammation, and sometimes heart medications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery required in some cases of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, surgery may be necessary in severe cases of rheumatic fever to repair damaged heart valves or to alleviate symptoms that do not respond to other treatments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does antibiotic treatment help in managing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotic treatment helps by eliminating the bacteria that cause rheumatic fever, preventing further heart damage and reducing the risk of recurrent infections.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do longterm medications help manage rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term medications help manage rheumatic fever by reducing inflammation, preventing further heart damage, and controlling symptoms for improved quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of corticosteroids in treating rheumatic fever symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corticosteroids are used in treating rheumatic fever to reduce inflammation and manage symptoms such as joint pain and swelling effectively.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can improve the management of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as maintaining a healthy diet, regular exercise, and avoiding tobacco can improve the management of rheumatic fever.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can overthecounter medications alleviate symptoms of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Over-the-counter medications can help alleviate symptoms of rheumatic fever, but they are not a substitute for prescribed medications from a healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available for heart damage caused by rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for heart damage caused by rheumatic fever includes medications like antibiotics, anti-inflammatory drugs, and sometimes surgery for severe cases.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is surgery required in some cases of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, surgery may be necessary in severe cases of rheumatic fever to repair damaged heart valves or to alleviate symptoms that do not respond to other treatments.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does treatment for rheumatic fever differ in children and adults?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for rheumatic fever in children typically involves longer courses of antibiotics to prevent recurrences, while adults may require lifelong antibiotic prophylaxis.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do longterm medications help manage rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term medications help manage rheumatic fever by reducing inflammation, preventing further heart damage, and controlling symptoms for improved quality of life.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can improve the management of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as maintaining a healthy diet, regular exercise, and avoiding tobacco can improve the management of rheumatic fever.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatments are available for heart damage caused by rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for heart damage caused by rheumatic fever includes medications like antibiotics, anti-inflammatory drugs, and sometimes surgery for severe cases.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does treatment for rheumatic fever differ in children and adults?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for rheumatic fever in children typically involves longer courses of antibiotics to prevent recurrences, while adults may require lifelong antibiotic prophylaxis.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -460,8 +432,6 @@
 
 
 
-        <h3>How does Medicover manage severe cases of rheumatic fever?</h3>
-        <p>Medicover manages severe cases of rheumatic fever by providing a combination of antibiotics, anti-inflammatory medications, and supportive care to alleviate symptoms and prevent complications.</p>
 
 
 

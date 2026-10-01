@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What happens during an aortic aneurysm repair surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During aortic aneurysm repair surgery, the weakened section of the aorta is replaced with a synthetic graft to prevent rupture and restore proper blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does the surgery take to repair an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysm repair surgery typically takes around 2-4 hours, but can vary based on the complexity of the procedure and individual patient factors.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What type of anesthesia is used for aortic aneurysm repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "General anesthesia is typically used for aortic aneurysm repair surgery. This ensures you are unconscious and pain-free throughout the procedure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the different surgical methods for repairing an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical methods for repairing an aortic aneurysm include open surgery, endovascular repair, and hybrid procedures combining both techniques.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover prepare patients for aortic aneurysm repair surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover prepares patients for aortic aneurysm repair surgery by conducting pre-operative tests, explaining the procedure, discussing risks, and providing post-operative care instructions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What happens during an aortic aneurysm repair surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During aortic aneurysm repair surgery, the weakened section of the aorta is replaced with a synthetic graft to prevent rupture and restore proper blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential risks and complications of aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential risks of aortic aneurysm surgery include bleeding, infection, blood clots, heart attack, stroke, and complications with anesthesia.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does the surgery take to repair an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysm repair surgery typically takes around 2-4 hours, but can vary based on the complexity of the procedure and individual patient factors.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does the recovery process take after aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery after aortic aneurysm surgery typically takes 4-8 weeks, depending on the individual's overall health and the type of surgery performed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What type of anesthesia is used for aortic aneurysm repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General anesthesia is typically used for aortic aneurysm repair surgery. This ensures you are unconscious and pain-free throughout the procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What steps are involved in postsurgery care?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Steps in postsurgery care for aortic aneurysm repair include monitoring vital signs, pain management, wound care, physical therapy, and follow-up appointments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different surgical methods for repairing an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical methods for repairing an aortic aneurysm include open surgery, endovascular repair, and hybrid procedures combining both techniques.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can patients expect a full recovery after aortic aneurysm repair surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can typically expect a full recovery after aortic aneurysm repair surgery, but individual outcomes may vary. It's important to follow post-operative instructions for the best results.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the potential risks and complications of aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential risks of aortic aneurysm surgery include bleeding, infection, blood clots, heart attack, stroke, and complications with anesthesia.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should patients do to ensure the best possible recovery after surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients should follow post-op care instructions, attend follow-up appointments, take prescribed medications, avoid strenuous activities, and maintain a healthy lifestyle for optimal recovery.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How long does the recovery process take after aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery after aortic aneurysm surgery typically takes 4-8 weeks, depending on the individual's overall health and the type of surgery performed.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps are involved in postsurgery care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steps in postsurgery care for aortic aneurysm repair include monitoring vital signs, pain management, wound care, physical therapy, and follow-up appointments.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can patients expect a full recovery after aortic aneurysm repair surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can typically expect a full recovery after aortic aneurysm repair surgery, but individual outcomes may vary. It's important to follow post-operative instructions for the best results.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should patients do to ensure the best possible recovery after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients should follow post-op care instructions, attend follow-up appointments, take prescribed medications, avoid strenuous activities, and maintain a healthy lifestyle for optimal recovery.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -468,8 +440,6 @@
 
 
 
-        <h3>How does Medicover prepare patients for aortic aneurysm repair surgery?</h3>
-        <p>Medicover prepares patients for aortic aneurysm repair surgery by conducting pre-operative tests, explaining the procedure, discussing risks, and providing post-operative care instructions.</p>
 
 
 

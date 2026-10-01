@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Vincent angina and how does it affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina is a painful infection of the gums and mouth. It can cause swelling, ulcers, and bad breath. Treatment includes antibiotics and good oral hygiene.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatments for Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatments for Vincent angina typically include antibiotics to target the underlying infection and pain relievers to alleviate discomfort.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Vincent angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina is diagnosed through a physical exam, oral exam, and possibly a biopsy. Treatment includes antibiotics, oral hygiene, and pain relief.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can Vincent angina be treated at home or requires medical intervention?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina should be treated with medical intervention as it requires antibiotics prescribed by a healthcare provider. Home remedies are not sufficient.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What antibiotics are commonly used for treating Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Commonly used antibiotics for treating Vincent angina include penicillin, amoxicillin, and metronidazole. These help to eliminate the bacteria causing the infection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is Vincent angina and how does it affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina is a painful infection of the gums and mouth. It can cause swelling, ulcers, and bad breath. Treatment includes antibiotics and good oral hygiene.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does it take to recover from Vincent angina with proper treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "With proper treatment, recovery from Vincent angina typically takes about 7-10 days. It's important to follow your doctor's advice for a full recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatments for Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatments for Vincent angina typically include antibiotics to target the underlying infection and pain relievers to alleviate discomfort.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach Vincent angina treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses a comprehensive approach for Vincent angina treatment, including antibiotics to address the infection and pain management for symptom relief.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is Vincent angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina is diagnosed through a physical exam, oral exam, and possibly a biopsy. Treatment includes antibiotics, oral hygiene, and pain relief.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Vincent angina lead to more serious conditions if left untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, if left untreated, Vincent angina can lead to more serious conditions such as abscess formation, systemic infections, and even heart complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can Vincent angina be treated at home or requires medical intervention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina should be treated with medical intervention as it requires antibiotics prescribed by a healthcare provider. Home remedies are not sufficient.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is Vincent angina different from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina is unique as it's caused by a bacterial infection, whereas other types are typically due to narrowed arteries. Treatment usually involves antibiotics.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What antibiotics are commonly used for treating Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commonly used antibiotics for treating Vincent angina include penicillin, amoxicillin, and metronidazole. These help to eliminate the bacteria causing the infection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of oral hygiene in preventing Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Good oral hygiene, including regular brushing and flossing, can help prevent Vincent angina by reducing the buildup of bacteria in the mouth that can lead to infection.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How long does it take to recover from Vincent angina with proper treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With proper treatment, recovery from Vincent angina typically takes about 7-10 days. It's important to follow your doctor's advice for a full recovery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Vincent angina lead to more serious conditions if left untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if left untreated, Vincent angina can lead to more serious conditions such as abscess formation, systemic infections, and even heart complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is Vincent angina different from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina is unique as it's caused by a bacterial infection, whereas other types are typically due to narrowed arteries. Treatment usually involves antibiotics.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of oral hygiene in preventing Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Good oral hygiene, including regular brushing and flossing, can help prevent Vincent angina by reducing the buildup of bacteria in the mouth that can lead to infection.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach Vincent angina treatment?</p>
 
 
 

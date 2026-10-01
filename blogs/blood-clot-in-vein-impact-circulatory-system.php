@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the causes of blood clots in the veins?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the veins are caused by factors like sedentary lifestyle, smoking, obesity, and genetic predisposition, impacting circulation negatively.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do blood clots in veins affect the circulatory system?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in veins can block blood flow, leading to swelling, pain, and potentially serious complications like pulmonary embolism.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms should one look for if blood clots are affecting the veins?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Look for symptoms like swelling, pain, warmth, and redness in the affected area. Seek medical help if you suspect a blood clot in the veins.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in veins diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in veins are diagnosed through imaging tests like ultrasounds or CT scans. These tests help identify the location and size of the clot.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can blood clots in veins lead to serious complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in veins can lead to serious complications like deep vein thrombosis (DVT) or pulmonary embolism. It is important to seek medical attention if you suspect a blood clot.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of blood clots in the veins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the veins are caused by factors like sedentary lifestyle, smoking, obesity, and genetic predisposition, impacting circulation negatively.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for blood clots in veins?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for blood clots in veins include blood thinners, clot-busting drugs, and in severe cases, surgery to remove the clot.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do blood clots in veins affect the circulatory system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in veins can block blood flow, leading to swelling, pain, and potentially serious complications like pulmonary embolism.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots in veins more common in certain age groups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in veins are more common in older age groups due to factors like decreased mobility and underlying health conditions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms should one look for if blood clots are affecting the veins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for symptoms like swelling, pain, warmth, and redness in the affected area. Seek medical help if you suspect a blood clot in the veins.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help prevent blood clots in veins?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes such as regular exercise, maintaining a healthy weight, quitting smoking, and staying hydrated can help prevent blood clots in veins.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in veins diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in veins are diagnosed through imaging tests like ultrasounds or CT scans. These tests help identify the location and size of the clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in treating blood clots in veins?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides expert care and treatment for blood clots in veins, helping to prevent complications and improve circulation in the body.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots in veins lead to serious complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in veins can lead to serious complications like deep vein thrombosis (DVT) or pulmonary embolism. It is important to seek medical attention if you suspect a blood clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can blood clots in veins be prevented through regular checkups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular checkups can help detect risk factors for blood clots, such as high blood pressure or cholesterol levels, but they cannot entirely prevent blood clots in veins.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for blood clots in veins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for blood clots in veins include blood thinners, clot-busting drugs, and in severe cases, surgery to remove the clot.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots in veins more common in certain age groups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in veins are more common in older age groups due to factors like decreased mobility and underlying health conditions.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes help prevent blood clots in veins?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes such as regular exercise, maintaining a healthy weight, quitting smoking, and staying hydrated can help prevent blood clots in veins.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can blood clots in veins be prevented through regular checkups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular checkups can help detect risk factors for blood clots, such as high blood pressure or cholesterol levels, but they cannot entirely prevent blood clots in veins.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -448,8 +420,6 @@
 
 
 
-        <h3>What role does Medicover play in treating blood clots in veins?</h3>
-        <p>Medicover provides expert care and treatment for blood clots in veins, helping to prevent complications and improve circulation in the body.</p>
 
 
 

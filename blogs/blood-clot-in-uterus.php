@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common causes of blood clots in the uterus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of blood clots in the uterus include menstruation, fibroids, endometrial polyps, and hormonal imbalances. It's important to consult with a healthcare provider for proper diagnosis and treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can uterine blood clots affect menstrual health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Uterine blood clots can cause heavy and painful periods, leading to discomfort, fatigue, and potential complications. It's important to seek medical advice if experiencing this issue.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms indicate a blood clot in the uterus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a blood clot in the uterus may include heavy bleeding, severe cramping, passing large clots, and pelvic pain. Seek medical help if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are uterine blood clots diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Uterine blood clots are diagnosed through imaging tests like ultrasound or MRI, which can detect abnormal growths or masses in the uterus.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for blood clots in the uterus?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for blood clots in the uterus may include medication to help dissolve the clot, dilation and curettage (D&C) procedure, or hormone therapy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common causes of blood clots in the uterus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of blood clots in the uterus include menstruation, fibroids, endometrial polyps, and hormonal imbalances. It's important to consult with a healthcare provider for proper diagnosis and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are uterine blood clots linked to pregnancy complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, uterine blood clots can be linked to pregnancy complications such as miscarriage, preterm labor, and placental abruption. It is important to seek medical attention if you experience this.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can uterine blood clots affect menstrual health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uterine blood clots can cause heavy and painful periods, leading to discomfort, fatigue, and potential complications. It's important to seek medical advice if experiencing this issue.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Medicover provide care for uterine blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Medicover can provide care for uterine blood clots. Contact a healthcare provider for evaluation and treatment options.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms indicate a blood clot in the uterus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a blood clot in the uterus may include heavy bleeding, severe cramping, passing large clots, and pelvic pain. Seek medical help if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive measures help avoid uterine blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Staying active, maintaining a healthy weight, staying hydrated, and avoiding smoking can help prevent uterine blood clots. Consult your healthcare provider for more advice.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are uterine blood clots diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uterine blood clots are diagnosed through imaging tests like ultrasound or MRI, which can detect abnormal growths or masses in the uterus.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does hormone therapy play in treating uterine blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hormone therapy can help regulate menstrual cycles and reduce the risk of uterine blood clots by balancing hormone levels.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for blood clots in the uterus?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for blood clots in the uterus may include medication to help dissolve the clot, dilation and curettage (D&C) procedure, or hormone therapy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are followup consultations necessary after treating uterine blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, followup consultations are necessary after treating uterine blood clots to ensure proper healing and monitor for any potential complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are uterine blood clots linked to pregnancy complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, uterine blood clots can be linked to pregnancy complications such as miscarriage, preterm labor, and placental abruption. It is important to seek medical attention if you experience this.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive measures help avoid uterine blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Staying active, maintaining a healthy weight, staying hydrated, and avoiding smoking can help prevent uterine blood clots. Consult your healthcare provider for more advice.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does hormone therapy play in treating uterine blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hormone therapy can help regulate menstrual cycles and reduce the risk of uterine blood clots by balancing hormone levels.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are followup consultations necessary after treating uterine blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, followup consultations are necessary after treating uterine blood clots to ensure proper healing and monitor for any potential complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -427,8 +399,6 @@
 
 
 
-        <h3></h3>
-        <p>Can Medicover provide care for uterine blood clots?</p>
 
 
 

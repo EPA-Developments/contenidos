@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is unstable angina and how is it different from stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina is chest pain that occurs at rest or with minimal activity, and is a warning sign of a heart attack. It differs from stable angina which is predictable and occurs with exertion.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes unstable angina to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina develops due to reduced blood flow to the heart caused by a partial blockage in the coronary arteries, leading to chest pain and potential heart attack.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can unstable angina lead to heart attacks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina can lead to heart attacks by causing a sudden blockage in the coronary arteries, cutting off blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of unstable angina include chest pain or discomfort, shortness of breath, nausea, sweating, and fatigue. It can be a sign of a heart attack.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is unstable angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina is diagnosed through a combination of medical history, physical exams, EKG, blood tests, and possibly a stress test or angiogram.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is unstable angina and how is it different from stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina is chest pain that occurs at rest or with minimal activity, and is a warning sign of a heart attack. It differs from stable angina which is predictable and occurs with exertion.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for unstable angina include medications to reduce chest pain and prevent blood clots, lifestyle changes, and possible procedures like angioplasty.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes unstable angina to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina develops due to reduced blood flow to the heart caused by a partial blockage in the coronary arteries, leading to chest pain and potential heart attack.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can unstable angina be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina can be prevented by managing risk factors like high blood pressure, high cholesterol, diabetes, and quitting smoking. Follow a healthy lifestyle and take prescribed medications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can unstable angina lead to heart attacks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina can lead to heart attacks by causing a sudden blockage in the coronary arteries, cutting off blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the risk of complications with unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk of complications with unstable angina includes heart attack, arrhythmias, and even cardiac arrest if not promptly treated. It's crucial to seek medical attention immediately.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of unstable angina include chest pain or discomfort, shortness of breath, nausea, sweating, and fatigue. It can be a sign of a heart attack.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages unstable angina by providing immediate medical attention, lifestyle changes, medication, and potential procedures to reduce the risk of heart attack.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is unstable angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina is diagnosed through a combination of medical history, physical exams, EKG, blood tests, and possibly a stress test or angiogram.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help in preventing unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, eating a healthy diet, exercising regularly, managing stress, and controlling high blood pressure can help prevent unstable angina.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for unstable angina include medications to reduce chest pain and prevent blood clots, lifestyle changes, and possible procedures like angioplasty.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can unstable angina be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina can be prevented by managing risk factors like high blood pressure, high cholesterol, diabetes, and quitting smoking. Follow a healthy lifestyle and take prescribed medications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the risk of complications with unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk of complications with unstable angina includes heart attack, arrhythmias, and even cardiac arrest if not promptly treated. It's crucial to seek medical attention immediately.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help in preventing unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, eating a healthy diet, exercising regularly, managing stress, and controlling high blood pressure can help prevent unstable angina.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -452,8 +424,6 @@
 
 
 
-        <h3>How does Medicover manage unstable angina?</h3>
-        <p>Medicover manages unstable angina by providing immediate medical attention, lifestyle changes, medication, and potential procedures to reduce the risk of heart attack.</p>
 
 
 

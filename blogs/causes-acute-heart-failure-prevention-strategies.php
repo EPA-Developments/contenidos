@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the leading causes of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The leading causes of acute heart failure include heart attacks, infections, severe high blood pressure, and certain medications. Prevent by managing risk factors like hypertension and diabetes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can high blood pressure contribute to acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can strain the heart muscle, leading to thickening of the heart walls and reduced pumping efficiency, increasing the risk of acute heart failure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can a heart attack lead to acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, a heart attack can lead to acute heart failure by causing damage to the heart muscle. To prevent it, manage risk factors like high blood pressure and cholesterol.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does heart valve disease cause acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heart valve disease can lead to acute heart failure by causing the heart to work harder to pump blood, leading to strain and eventual weakening of the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What other medical conditions increase the risk of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Other medical conditions that increase the risk of acute heart failure include high blood pressure, coronary artery disease, diabetes, and obesity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the leading causes of acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The leading causes of acute heart failure include heart attacks, infections, severe high blood pressure, and certain medications. Prevent by managing risk factors like hypertension and diabetes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help prevent acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as maintaining a healthy diet, regular exercise, managing stress, and quitting smoking can help prevent acute heart failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can high blood pressure contribute to acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can strain the heart muscle, leading to thickening of the heart walls and reduced pumping efficiency, increasing the risk of acute heart failure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in the prevention of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in preventing acute heart failure by providing timely screenings, education on lifestyle changes, and access to specialized cardiac care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can a heart attack lead to acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a heart attack can lead to acute heart failure by causing damage to the heart muscle. To prevent it, manage risk factors like high blood pressure and cholesterol.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can early detection prevent acute heart failure from worsening?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early detection allows for prompt treatment, preventing acute heart failure from worsening and causing further damage to the heart muscle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does heart valve disease cause acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heart valve disease can lead to acute heart failure by causing the heart to work harder to pump blood, leading to strain and eventual weakening of the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medication help prevent acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medication can help prevent acute heart failure by managing underlying conditions like high blood pressure and heart disease, reducing strain on the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What other medical conditions increase the risk of acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Other medical conditions that increase the risk of acute heart failure include high blood pressure, coronary artery disease, diabetes, and obesity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does a healthy diet impact the prevention of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A healthy diet can prevent acute heart failure by reducing risk factors like high blood pressure and cholesterol, keeping the heart strong and functioning properly.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can lifestyle changes help prevent acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as maintaining a healthy diet, regular exercise, managing stress, and quitting smoking can help prevent acute heart failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can early detection prevent acute heart failure from worsening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early detection allows for prompt treatment, preventing acute heart failure from worsening and causing further damage to the heart muscle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can medication help prevent acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medication can help prevent acute heart failure by managing underlying conditions like high blood pressure and heart disease, reducing strain on the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a healthy diet impact the prevention of acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A healthy diet can prevent acute heart failure by reducing risk factors like high blood pressure and cholesterol, keeping the heart strong and functioning properly.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -424,8 +396,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in the prevention of acute heart failure?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is a 4 cm aortic aneurysm considered dangerous?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, a 4 cm aortic aneurysm can be considered dangerous as it increases the risk of rupture. Consult a healthcare provider for further evaluation and treatment options.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you have a 4 cm aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you have a 4 cm aortic aneurysm, it's important to monitor it regularly with your healthcare provider and follow their recommendations for treatment and lifestyle changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do doctors decide when to treat a 4 cm aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors decide to treat a 4 cm aortic aneurysm based on factors like the patient's age, overall health, and risk of rupture. Regular monitoring is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for a 4 cm aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for a 4 cm aortic aneurysm may include monitoring, lifestyle changes, medication, or surgery depending on individual factors and risk.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How frequently should a 4 cm aortic aneurysm be monitored?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A 4 cm aortic aneurysm should be monitored every 6-12 months by a healthcare provider to track its growth and determine if surgery is needed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is a 4 cm aortic aneurysm considered dangerous?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a 4 cm aortic aneurysm can be considered dangerous as it increases the risk of rupture. Consult a healthcare provider for further evaluation and treatment options.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the management of 4 cm aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover closely monitors 4 cm aortic aneurysms through regular imaging tests and may recommend surgery if it grows rapidly or poses a high risk of rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you have a 4 cm aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you have a 4 cm aortic aneurysm, it's important to monitor it regularly with your healthcare provider and follow their recommendations for treatment and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can a 4 cm aortic aneurysm be repaired without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A 4 cm aortic aneurysm may require surgery depending on factors like location and rate of growth. Consult a healthcare provider for personalized treatment options.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do doctors decide when to treat a 4 cm aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors decide to treat a 4 cm aortic aneurysm based on factors like the patient's age, overall health, and risk of rupture. Regular monitoring is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the location of an aortic aneurysm impact its risk level?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The location of an aortic aneurysm impacts its risk level by determining potential complications like rupture or dissection, which can be life-threatening.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for a 4 cm aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for a 4 cm aortic aneurysm may include monitoring, lifestyle changes, medication, or surgery depending on individual factors and risk.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help reduce the risk of aortic aneurysm rupture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of aortic aneurysm rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How frequently should a 4 cm aortic aneurysm be monitored?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 4 cm aortic aneurysm should be monitored every 6-12 months by a healthcare provider to track its growth and determine if surgery is needed.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the risk of rupture for a 4 cm aortic aneurysm over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk of rupture for a 4 cm aortic aneurysm increases over time, with a higher likelihood of rupture once it reaches 5 cm. Regular monitoring is crucial.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can a 4 cm aortic aneurysm be repaired without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 4 cm aortic aneurysm may require surgery depending on factors like location and rate of growth. Consult a healthcare provider for personalized treatment options.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the location of an aortic aneurysm impact its risk level?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The location of an aortic aneurysm impacts its risk level by determining potential complications like rupture or dissection, which can be life-threatening.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help reduce the risk of aortic aneurysm rupture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of aortic aneurysm rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the risk of rupture for a 4 cm aortic aneurysm over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk of rupture for a 4 cm aortic aneurysm increases over time, with a higher likelihood of rupture once it reaches 5 cm. Regular monitoring is crucial.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3>How does Medicover approach the management of 4 cm aortic aneurysms?</h3>
-        <p>Medicover closely monitors 4 cm aortic aneurysms through regular imaging tests and may recommend surgery if it grows rapidly or poses a high risk of rupture.</p>
 
 
 

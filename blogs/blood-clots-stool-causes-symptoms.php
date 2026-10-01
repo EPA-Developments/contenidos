@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots to appear in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in stool can be caused by various factors such as hemorrhoids, gastrointestinal bleeding, or infections. It's important to consult a healthcare provider for proper evaluation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can blood clots in stool indicate digestive issues?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in stool can indicate digestive issues like hemorrhoids, inflammatory bowel disease, or gastrointestinal bleeding. It's important to consult a healthcare provider for further evaluation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms that suggest blood clots in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of blood clots in stool include dark or bright red blood, abdominal pain, diarrhea, constipation, and fatigue. It's important to consult a healthcare professional.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is the cause of blood clots in stool diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in stool are diagnosed through a thorough medical history, physical exam, and possibly imaging tests like a colonoscopy or sigmoidoscopy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can blood clots in stool be a sign of hemorrhoids or other conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in stool can be a sign of hemorrhoids, but they can also indicate more serious conditions like colorectal cancer or inflammatory bowel disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots to appear in stool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in stool can be caused by various factors such as hemorrhoids, gastrointestinal bleeding, or infections. It's important to consult a healthcare provider for proper evaluation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available for blood clots in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for blood clots in stool includes medication to prevent further clots or surgery to remove the clot. Consult a healthcare provider for proper diagnosis and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can blood clots in stool indicate digestive issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in stool can indicate digestive issues like hemorrhoids, inflammatory bowel disease, or gastrointestinal bleeding. It's important to consult a healthcare provider for further evaluation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can diet affect the appearance of blood clots in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diet high in red meat, processed foods, or lacking in fiber can contribute to blood clots in stool. Eating a balanced diet can help prevent this.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms that suggest blood clots in stool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of blood clots in stool include dark or bright red blood, abdominal pain, diarrhea, constipation, and fatigue. It's important to consult a healthcare professional.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in diagnosing blood clots in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides diagnostic services to identify the presence of blood clots in stool, helping to determine the underlying cause and guide treatment options.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is the cause of blood clots in stool diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in stool are diagnosed through a thorough medical history, physical exam, and possibly imaging tests like a colonoscopy or sigmoidoscopy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots in stool always a serious condition?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in stool can indicate various conditions, some serious and others not. It is important to consult a healthcare provider for proper evaluation and diagnosis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots in stool be a sign of hemorrhoids or other conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in stool can be a sign of hemorrhoids, but they can also indicate more serious conditions like colorectal cancer or inflammatory bowel disease.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can one prevent blood clots in stool?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To prevent blood clots in stool, stay hydrated, eat a high-fiber diet, exercise regularly, and avoid sitting for long periods. Consult a doctor if concerned.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatments are available for blood clots in stool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for blood clots in stool includes medication to prevent further clots or surgery to remove the clot. Consult a healthcare provider for proper diagnosis and treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can diet affect the appearance of blood clots in stool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diet high in red meat, processed foods, or lacking in fiber can contribute to blood clots in stool. Eating a balanced diet can help prevent this.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots in stool always a serious condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in stool can indicate various conditions, some serious and others not. It is important to consult a healthcare provider for proper evaluation and diagnosis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can one prevent blood clots in stool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent blood clots in stool, stay hydrated, eat a high-fiber diet, exercise regularly, and avoid sitting for long periods. Consult a doctor if concerned.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -429,8 +401,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in diagnosing blood clots in stool?</p>
 
 
 

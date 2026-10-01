@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is peripheral angiopathy and how does it affect the circulatory system?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral angiopathy is a condition that affects blood vessels in the extremities, causing decreased blood flow. It can lead to pain, numbness, and skin changes in the affected areas, impacting circulation in the body. Treatment varies based on the underlying cause.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main causes of peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main causes of peripheral angiopathy include diabetes, smoking, high blood pressure, high cholesterol, and aging. These factors can lead to narrowing of blood vessels.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is peripheral angiopathy diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral angiopathy is diagnosed through physical exams, imaging tests like angiography, and blood tests to assess blood flow and circulation in the limbs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of peripheral angiopathy include pain, numbness, tingling, and weakness in the affected limbs, as well as changes in skin color or temperature.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is peripheral angiopathy treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral angiopathy is treated with lifestyle changes, medications, and possible surgeries to improve blood flow to the affected areas.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is peripheral angiopathy and how does it affect the circulatory system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral angiopathy is a condition that affects blood vessels in the extremities, causing decreased blood flow. It can lead to pain, numbness, and skin changes in the affected areas, impacting circulation in the body. Treatment varies based on the underlying cause.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes like quitting smoking, exercising regularly, maintaining a healthy weight, and managing conditions like diabetes can help manage peripheral angiopathy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of peripheral angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main causes of peripheral angiopathy include diabetes, smoking, high blood pressure, high cholesterol, and aging. These factors can lead to narrowing of blood vessels.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches the treatment of peripheral angiopathy with a comprehensive plan that may include lifestyle changes, medication, and minimally invasive procedures to improve blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is peripheral angiopathy diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral angiopathy is diagnosed through physical exams, imaging tests like angiography, and blood tests to assess blood flow and circulation in the limbs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of untreated peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated peripheral angiopathy can lead to serious complications like tissue damage, nerve problems, infection, and even amputation. Early treatment is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of peripheral angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of peripheral angiopathy include pain, numbness, tingling, and weakness in the affected limbs, as well as changes in skin color or temperature.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risk factors for developing peripheral angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for developing peripheral angiopathy include smoking, high blood pressure, high cholesterol, diabetes, obesity, and a sedentary lifestyle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is peripheral angiopathy treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral angiopathy is treated with lifestyle changes, medications, and possible surgeries to improve blood flow to the affected areas.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does peripheral angiopathy impact daily life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Peripheral angiopathy can cause pain, numbness, and weakness in limbs, making daily activities challenging. Treatment can improve symptoms and quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage peripheral angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes like quitting smoking, exercising regularly, maintaining a healthy weight, and managing conditions like diabetes can help manage peripheral angiopathy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of untreated peripheral angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated peripheral angiopathy can lead to serious complications like tissue damage, nerve problems, infection, and even amputation. Early treatment is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risk factors for developing peripheral angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for developing peripheral angiopathy include smoking, high blood pressure, high cholesterol, diabetes, obesity, and a sedentary lifestyle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does peripheral angiopathy impact daily life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Peripheral angiopathy can cause pain, numbness, and weakness in limbs, making daily activities challenging. Treatment can improve symptoms and quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -455,8 +427,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of peripheral angiopathy?</p>
 
 
 

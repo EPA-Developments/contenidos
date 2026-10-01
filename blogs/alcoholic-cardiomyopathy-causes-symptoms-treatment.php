@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy is a type of heart muscle disease caused by long-term excessive alcohol consumption, leading to weakened heart function. Symptoms include fatigue, swelling, and shortness of breath. Treatment involves abstaining from alcohol and managing heart failure symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does excessive alcohol consumption lead to alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Excessive alcohol consumption damages heart muscle cells, leading to weakened heart function and enlarged heart chambers, known as alcoholic cardiomyopathy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of alcoholic cardiomyopathy include fatigue, swelling in legs and abdomen, shortness of breath, irregular heartbeat, and chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is alcoholic cardiomyopathy diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy is diagnosed through a combination of medical history, physical exams, blood tests, imaging tests like echocardiograms, and heart biopsies.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does Medicover play in diagnosing and treating alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in diagnosing and treating alcoholic cardiomyopathy by providing medical expertise, diagnostic tests, and personalized treatment plans.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy is a type of heart muscle disease caused by long-term excessive alcohol consumption, leading to weakened heart function. Symptoms include fatigue, swelling, and shortness of breath. Treatment involves abstaining from alcohol and managing heart failure symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can alcoholic cardiomyopathy be reversed with treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy can potentially be reversed with treatment, which may include lifestyle changes, medications, and abstaining from alcohol.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does excessive alcohol consumption lead to alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Excessive alcohol consumption damages heart muscle cells, leading to weakened heart function and enlarged heart chambers, known as alcoholic cardiomyopathy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does alcoholic cardiomyopathy impact heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy weakens the heart muscle, leading to decreased pumping ability and impaired blood flow, ultimately causing heart failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of alcoholic cardiomyopathy include fatigue, swelling in legs and abdomen, shortness of breath, irregular heartbeat, and chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for alcoholic cardiomyopathy include quitting alcohol, medications to improve heart function, lifestyle changes, and regular monitoring by a healthcare provider.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is alcoholic cardiomyopathy diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy is diagnosed through a combination of medical history, physical exams, blood tests, imaging tests like echocardiograms, and heart biopsies.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as reducing alcohol intake, eating a healthy diet, exercising regularly, and quitting smoking can help manage alcoholic cardiomyopathy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can alcoholic cardiomyopathy be reversed with treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy can potentially be reversed with treatment, which may include lifestyle changes, medications, and abstaining from alcohol.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for individuals with alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term outcomes for individuals with alcoholic cardiomyopathy may include heart failure, arrhythmias, and increased risk of sudden cardiac death if alcohol consumption continues.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does alcoholic cardiomyopathy impact heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy weakens the heart muscle, leading to decreased pumping ability and impaired blood flow, ultimately causing heart failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for alcoholic cardiomyopathy include quitting alcohol, medications to improve heart function, lifestyle changes, and regular monitoring by a healthcare provider.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as reducing alcohol intake, eating a healthy diet, exercising regularly, and quitting smoking can help manage alcoholic cardiomyopathy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes for individuals with alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term outcomes for individuals with alcoholic cardiomyopathy may include heart failure, arrhythmias, and increased risk of sudden cardiac death if alcohol consumption continues.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -505,8 +477,6 @@
 
 
 
-        <h3>What role does Medicover play in diagnosing and treating alcoholic cardiomyopathy?</h3>
-        <p>Medicover plays a crucial role in diagnosing and treating alcoholic cardiomyopathy by providing medical expertise, diagnostic tests, and personalized treatment plans.</p>
 
 
 

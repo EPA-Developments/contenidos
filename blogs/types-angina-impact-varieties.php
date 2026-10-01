@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the different types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "There are three main types of angina: stable angina, unstable angina, and variant angina. Each type varies in symptoms, triggers, and severity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does stable angina differ from unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is predictable chest pain triggered by physical exertion or stress, while unstable angina occurs unexpectedly at rest and is a sign of a more serious condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the impact of Prinzmetal angina on the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prinzmetal angina causes temporary narrowing of coronary arteries, leading to chest pain and potential heart muscle damage due to reduced blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is variant angina different from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina is caused by coronary artery spasm, while other types are typically due to blockages in the arteries. It can occur at rest and is less predictable.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks associated with chronic stable angina include heart attack, heart failure, and reduced quality of life due to limited physical activity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are three main types of angina: stable angina, unstable angina, and variant angina. Each type varies in symptoms, triggers, and severity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does angina affect daily life and overall wellbeing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina can limit physical activity, cause anxiety, and impact overall quality of life due to chest pain and potential restrictions on daily activities.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does stable angina differ from unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is predictable chest pain triggered by physical exertion or stress, while unstable angina occurs unexpectedly at rest and is a sign of a more serious condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of different types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats different types of angina by carefully evaluating symptoms, conducting tests, and creating personalized treatment plans to manage symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the impact of Prinzmetal angina on the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prinzmetal angina causes temporary narrowing of coronary arteries, leading to chest pain and potential heart muscle damage due to reduced blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the symptoms of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of unstable angina include chest pain or discomfort, shortness of breath, nausea, fatigue, and sweating. It is a serious condition that requires immediate medical attention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is variant angina different from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina is caused by coronary artery spasm, while other types are typically due to blockages in the arteries. It can occur at rest and is less predictable.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the severity of angina impact treatment decisions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The severity of angina determines the type of treatment needed, ranging from lifestyle changes and medications for mild cases to more invasive procedures for severe cases.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks associated with chronic stable angina include heart attack, heart failure, and reduced quality of life due to limited physical activity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can angina affect other organs apart from the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angina can affect other organs such as the brain, kidneys, and digestive system due to decreased blood flow and oxygen delivery from narrowed arteries.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does angina affect daily life and overall wellbeing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina can limit physical activity, cause anxiety, and impact overall quality of life due to chest pain and potential restrictions on daily activities.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of unstable angina include chest pain or discomfort, shortness of breath, nausea, fatigue, and sweating. It is a serious condition that requires immediate medical attention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the severity of angina impact treatment decisions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The severity of angina determines the type of treatment needed, ranging from lifestyle changes and medications for mild cases to more invasive procedures for severe cases.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can angina affect other organs apart from the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angina can affect other organs such as the brain, kidneys, and digestive system due to decreased blood flow and oxygen delivery from narrowed arteries.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -478,8 +450,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of different types of angina?</p>
 
 
 

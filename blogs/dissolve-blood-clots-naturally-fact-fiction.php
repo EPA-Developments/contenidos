@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Can blood clots be dissolved naturally?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots can be dissolved naturally through lifestyle changes like exercise, hydration, and a healthy diet rich in fruits and vegetables.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the natural remedies believed to help dissolve blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Natural remedies like garlic, cayenne pepper, turmeric, and ginger are believed to help dissolve blood clots, but research is limited.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How effective are natural remedies in dissolving blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Natural remedies may have some benefits in preventing blood clots, but they are not proven to effectively dissolve existing blood clots. Consult a healthcare professional for appropriate treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any risks associated with attempting to dissolve blood clots naturally?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, attempting to dissolve blood clots naturally can pose risks such as bleeding or worsening of the clot. Always consult a healthcare professional before trying any natural remedies.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments do medical professionals recommend for blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medical professionals recommend anticoagulant medications, thrombolytic therapy, and in some cases, surgical procedures to dissolve blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots be dissolved naturally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots can be dissolved naturally through lifestyle changes like exercise, hydration, and a healthy diet rich in fruits and vegetables.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach blood clot treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches blood clot treatment through a combination of medication, lifestyle changes, and close monitoring to ensure effective and safe recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the natural remedies believed to help dissolve blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural remedies like garlic, cayenne pepper, turmeric, and ginger are believed to help dissolve blood clots, but research is limited.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of lifestyle changes in managing blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like regular exercise, a healthy diet, and avoiding smoking can help manage blood clots by promoting circulation and reducing risk factors.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How effective are natural remedies in dissolving blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural remedies may have some benefits in preventing blood clots, but they are not proven to effectively dissolve existing blood clots. Consult a healthcare professional for appropriate treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can certain herbs help dissolve blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Some herbs like ginger, turmeric, and garlic may have blood-thinning properties that could potentially help prevent blood clots, but more research is needed to confirm their effectiveness.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there any risks associated with attempting to dissolve blood clots naturally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, attempting to dissolve blood clots naturally can pose risks such as bleeding or worsening of the clot. Always consult a healthcare professional before trying any natural remedies.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do diet and exercise influence the prevention and treatment of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A balanced diet and regular exercise can help prevent blood clots by maintaining healthy circulation and reducing risk factors like obesity and high cholesterol.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments do medical professionals recommend for blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical professionals recommend anticoagulant medications, thrombolytic therapy, and in some cases, surgical procedures to dissolve blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you know before using natural remedies for blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Before using natural remedies for blood clots, know that they may not be as effective as medical treatments. Always consult with a healthcare provider first.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the role of lifestyle changes in managing blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like regular exercise, a healthy diet, and avoiding smoking can help manage blood clots by promoting circulation and reducing risk factors.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can certain herbs help dissolve blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some herbs like ginger, turmeric, and garlic may have blood-thinning properties that could potentially help prevent blood clots, but more research is needed to confirm their effectiveness.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do diet and exercise influence the prevention and treatment of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A balanced diet and regular exercise can help prevent blood clots by maintaining healthy circulation and reducing risk factors like obesity and high cholesterol.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should you know before using natural remedies for blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before using natural remedies for blood clots, know that they may not be as effective as medical treatments. Always consult with a healthcare provider first.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -429,8 +401,6 @@
 
 
 
-        <h3>How does Medicover approach blood clot treatment?</h3>
-        <p>Medicover approaches blood clot treatment through a combination of medication, lifestyle changes, and close monitoring to ensure effective and safe recovery.</p>
 
 
 

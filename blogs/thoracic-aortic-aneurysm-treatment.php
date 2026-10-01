@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A thoracic aortic aneurysm is a bulge in the aorta that can lead to serious complications if left untreated. Treatment may involve medication or surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a thoracic aortic aneurysm affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A thoracic aortic aneurysm can weaken the aorta wall and lead to a life-threatening rupture. Treatment may involve monitoring, medications, or surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a thoracic aortic aneurysm may include chest or back pain, shortness of breath, coughing, hoarseness, or difficulty swallowing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a thoracic aortic aneurysm diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A thoracic aortic aneurysm is diagnosed through imaging tests like CT scans or MRIs. Early detection is key for successful treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for a thoracic aortic aneurysm include monitoring, medication, and surgical intervention to prevent rupture or dissection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thoracic aortic aneurysm is a bulge in the aorta that can lead to serious complications if left untreated. Treatment may involve medication or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat thoracic aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats thoracic aortic aneurysms with surgical repair or endovascular stent grafting to prevent rupture and potential life-threatening complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a thoracic aortic aneurysm affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thoracic aortic aneurysm can weaken the aorta wall and lead to a life-threatening rupture. Treatment may involve monitoring, medications, or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does surgery play in treating a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is often necessary to repair a thoracic aortic aneurysm, especially if it is large or growing rapidly, to prevent potential complications like rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a thoracic aortic aneurysm may include chest or back pain, shortness of breath, coughing, hoarseness, or difficulty swallowing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications help manage a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications can help manage a thoracic aortic aneurysm by controlling blood pressure and reducing the risk of complications. Surgery may also be necessary in some cases.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a thoracic aortic aneurysm diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thoracic aortic aneurysm is diagnosed through imaging tests like CT scans or MRIs. Early detection is key for successful treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does a thoracic aortic aneurysm impact heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A thoracic aortic aneurysm can impact heart health by putting pressure on the heart and potentially leading to serious complications like aortic dissection or rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for a thoracic aortic aneurysm include monitoring, medication, and surgical intervention to prevent rupture or dissection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can a thoracic aortic aneurysm be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A thoracic aortic aneurysm can be prevented by managing high blood pressure, avoiding tobacco use, and maintaining a healthy lifestyle.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What role does surgery play in treating a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is often necessary to repair a thoracic aortic aneurysm, especially if it is large or growing rapidly, to prevent potential complications like rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can medications help manage a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications can help manage a thoracic aortic aneurysm by controlling blood pressure and reducing the risk of complications. Surgery may also be necessary in some cases.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a thoracic aortic aneurysm impact heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thoracic aortic aneurysm can impact heart health by putting pressure on the heart and potentially leading to serious complications like aortic dissection or rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can a thoracic aortic aneurysm be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A thoracic aortic aneurysm can be prevented by managing high blood pressure, avoiding tobacco use, and maintaining a healthy lifestyle.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3>How does Medicover treat thoracic aortic aneurysms?</h3>
-        <p>Medicover treats thoracic aortic aneurysms with surgical repair or endovascular stent grafting to prevent rupture and potential life-threatening complications.</p>
 
 
 

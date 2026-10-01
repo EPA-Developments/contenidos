@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does an anomalous coronary artery affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An anomalous coronary artery can disrupt blood flow to the heart, leading to chest pain, heart attacks, and even sudden cardiac death. Treatment may involve medication or surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms that indicate an anomalous coronary artery is affecting heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of anomalous coronary artery affecting heart health include chest pain, shortness of breath, palpitations, and fainting. Treatment options may include medication or surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is heart function monitored in patients with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heart function in patients with an anomalous coronary artery is monitored through imaging tests like echocardiograms, stress tests, and cardiac MRI to assess blood flow and detect any abnormalities.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for improving heart function in individuals with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for improving heart function in individuals with an anomalous coronary artery may include medication, lifestyle changes, and in some cases, surgery to correct the abnormality.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover approach heart function treatment for anomalous coronary arteries?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover utilizes advanced imaging and surgical techniques to treat anomalous coronary arteries, ensuring optimal heart function and patient well-being.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an anomalous coronary artery affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An anomalous coronary artery can disrupt blood flow to the heart, leading to chest pain, heart attacks, and even sudden cardiac death. Treatment may involve medication or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications help manage heart function issues caused by an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications can help manage heart function issues caused by an anomalous coronary artery. They can improve blood flow and reduce symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms that indicate an anomalous coronary artery is affecting heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of anomalous coronary artery affecting heart health include chest pain, shortness of breath, palpitations, and fainting. Treatment options may include medication or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery necessary for improving heart function in these patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery may be necessary to improve heart function in patients with Anomalous Coronary Artery, depending on the severity and symptoms. Consult a cardiologist for personalized recommendations.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is heart function monitored in patients with an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heart function in patients with an anomalous coronary artery is monitored through imaging tests like echocardiograms, stress tests, and cardiac MRI to assess blood flow and detect any abnormalities.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does recovery take after surgery for an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery after surgery for anomalous coronary artery varies, typically taking a few weeks to a few months. It's crucial to follow doctor's instructions for a smooth recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for improving heart function in individuals with an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for improving heart function in individuals with an anomalous coronary artery may include medication, lifestyle changes, and in some cases, surgery to correct the abnormality.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help improve heart function in patients with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as regular exercise, a heart-healthy diet, stress management, and avoiding smoking can help improve heart function in patients with an anomalous coronary artery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can medications help manage heart function issues caused by an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications can help manage heart function issues caused by an anomalous coronary artery. They can improve blood flow and reduce symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for patients with treated anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term outcomes for patients with treated anomalous coronary artery are generally positive, with most experiencing improved heart function and reduced risk of complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is surgery necessary for improving heart function in these patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery may be necessary to improve heart function in patients with Anomalous Coronary Artery, depending on the severity and symptoms. Consult a cardiologist for personalized recommendations.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does recovery take after surgery for an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery after surgery for anomalous coronary artery varies, typically taking a few weeks to a few months. It's crucial to follow doctor's instructions for a smooth recovery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes help improve heart function in patients with an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as regular exercise, a heart-healthy diet, stress management, and avoiding smoking can help improve heart function in patients with an anomalous coronary artery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes for patients with treated anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term outcomes for patients with treated anomalous coronary artery are generally positive, with most experiencing improved heart function and reduced risk of complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -445,8 +417,6 @@
 
 
 
-        <h3>How does Medicover approach heart function treatment for anomalous coronary arteries?</h3>
-        <p>Medicover utilizes advanced imaging and surgical techniques to treat anomalous coronary arteries, ensuring optimal heart function and patient well-being.</p>
 
 
 

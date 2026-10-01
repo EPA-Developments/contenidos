@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the latest treatment options for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest treatment options for aortic dissection include surgical repair, endovascular stent grafting, and medications to manage blood pressure and reduce heart rate.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does endovascular repair compare to traditional open surgery for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Endovascular repair is less invasive and has lower risk of complications compared to traditional open surgery for aortic dissection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of medication in managing aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication plays a crucial role in managing aortic dissection by controlling blood pressure, reducing heart rate, and preventing complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic dissection treated if surgery is not an option?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection may be treated without surgery using medications to manage blood pressure, pain, and heart rate, along with close monitoring by healthcare providers.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the advantages of minimally invasive techniques in treating aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Minimally invasive techniques in treating aortic dissection offer faster recovery, reduced risk of complications, smaller incisions, and shorter hospital stays.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the latest treatment options for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest treatment options for aortic dissection include surgical repair, endovascular stent grafting, and medications to manage blood pressure and reduce heart rate.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role do stent grafts play in aortic dissection treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stent grafts are used in aortic dissection treatment to reinforce weakened blood vessel walls and redirect blood flow, helping to repair and stabilize the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does endovascular repair compare to traditional open surgery for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Endovascular repair is less invasive and has lower risk of complications compared to traditional open surgery for aortic dissection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover implement modern treatment options for aortic dissection patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover implements modern treatment options for aortic dissection patients through advanced surgical techniques, minimally invasive procedures, and cutting-edge medical technologies.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of medication in managing aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication plays a crucial role in managing aortic dissection by controlling blood pressure, reducing heart rate, and preventing complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any experimental treatments available for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there are experimental treatments being researched for aortic dissection, such as stem cell therapy and gene therapy. These options are still in the early stages of development.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic dissection treated if surgery is not an option?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection may be treated without surgery using medications to manage blood pressure, pain, and heart rate, along with close monitoring by healthcare providers.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not pursuing treatment for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not pursuing treatment for aortic dissection can lead to life-threatening complications such as organ failure, stroke, and even sudden death.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the advantages of minimally invasive techniques in treating aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimally invasive techniques in treating aortic dissection offer faster recovery, reduced risk of complications, smaller incisions, and shorter hospital stays.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is early intervention in improving treatment outcomes for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention is crucial for improving treatment outcomes in aortic dissection. Prompt diagnosis and surgical intervention can help prevent complications and improve patient outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What role do stent grafts play in aortic dissection treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stent grafts are used in aortic dissection treatment to reinforce weakened blood vessel walls and redirect blood flow, helping to repair and stabilize the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any experimental treatments available for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are experimental treatments being researched for aortic dissection, such as stem cell therapy and gene therapy. These options are still in the early stages of development.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of not pursuing treatment for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not pursuing treatment for aortic dissection can lead to life-threatening complications such as organ failure, stroke, and even sudden death.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective is early intervention in improving treatment outcomes for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention is crucial for improving treatment outcomes in aortic dissection. Prompt diagnosis and surgical intervention can help prevent complications and improve patient outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -416,8 +388,6 @@
 
 
 
-        <h3>How does Medicover implement modern treatment options for aortic dissection patients?</h3>
-        <p>Medicover implements modern treatment options for aortic dissection patients through advanced surgical techniques, minimally invasive procedures, and cutting-edge medical technologies.</p>
 
 
 

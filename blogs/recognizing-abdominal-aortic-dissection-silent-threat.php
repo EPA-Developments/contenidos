@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an abdominal aortic dissection and how does it occur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An abdominal aortic dissection is a tear in the wall of the aorta, the main blood vessel supplying the abdomen. It occurs due to high blood pressure or a weakened aortic wall.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of abdominal aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of abdominal aortic dissection include sudden, severe abdominal or back pain, sweating, dizziness, and a weak pulse. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an abdominal aortic dissection diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic dissection is diagnosed through a combination of imaging tests such as CT scans, MRIs, and ultrasounds, along with physical exams and medical history.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for abdominal aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for abdominal aortic dissection include surgery to repair the damaged aorta and medications to lower blood pressure and manage pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can abdominal aortic dissection be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic dissection can be prevented by managing high blood pressure, avoiding tobacco use, maintaining a healthy weight, and staying physically active.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an abdominal aortic dissection and how does it occur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An abdominal aortic dissection is a tear in the wall of the aorta, the main blood vessel supplying the abdomen. It occurs due to high blood pressure or a weakened aortic wall.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does abdominal aortic dissection affect the body's circulatory system?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic dissection can disrupt blood flow in the body's circulatory system, leading to serious complications like organ damage or even rupture of the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of abdominal aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of abdominal aortic dissection include sudden, severe abdominal or back pain, sweating, dizziness, and a weak pulse. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of an untreated abdominal aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated abdominal aortic dissection can lead to life-threatening complications like rupture, organ damage, and even death. Early recognition and treatment are crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an abdominal aortic dissection diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic dissection is diagnosed through a combination of imaging tests such as CT scans, MRIs, and ultrasounds, along with physical exams and medical history.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How quickly must an abdominal aortic dissection be treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An abdominal aortic dissection must be treated immediately to prevent life-threatening complications. Seek medical help urgently if symptoms arise.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for abdominal aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for abdominal aortic dissection include surgery to repair the damaged aorta and medications to lower blood pressure and manage pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach care for abdominal aortic dissection patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to care for abdominal aortic dissection patients, combining advanced diagnostic imaging, expert medical teams, and personalized treatment plans.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can abdominal aortic dissection be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic dissection can be prevented by managing high blood pressure, avoiding tobacco use, maintaining a healthy weight, and staying physically active.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can reduce the risk of abdominal aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Healthy lifestyle changes such as quitting smoking, controlling blood pressure, maintaining a healthy weight, and managing cholesterol levels can reduce the risk of abdominal aortic dissection.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does abdominal aortic dissection affect the body's circulatory system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic dissection can disrupt blood flow in the body's circulatory system, leading to serious complications like organ damage or even rupture of the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of an untreated abdominal aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated abdominal aortic dissection can lead to life-threatening complications like rupture, organ damage, and even death. Early recognition and treatment are crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly must an abdominal aortic dissection be treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An abdominal aortic dissection must be treated immediately to prevent life-threatening complications. Seek medical help urgently if symptoms arise.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can reduce the risk of abdominal aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Healthy lifestyle changes such as quitting smoking, controlling blood pressure, maintaining a healthy weight, and managing cholesterol levels can reduce the risk of abdominal aortic dissection.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -479,8 +451,6 @@
 
 
 
-        <h3>How does Medicover approach care for abdominal aortic dissection patients?</h3>
-        <p>Medicover takes a comprehensive approach to care for abdominal aortic dissection patients, combining advanced diagnostic imaging, expert medical teams, and personalized treatment plans.</p>
 
 
 

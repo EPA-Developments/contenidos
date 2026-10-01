@@ -4,8 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow" />
-<title>Leading Cardiologists in Americas - Schedule a Consultation Today!</title>
-<meta name="description" content="Connect with Americas’s top heart specialists for expert care in managing and treating cardiovascular diseases. From prevention to advanced procedures, our experienced doctors offer personalized treatment plans.">
 <link rel="icon" type="image/x-icon" href="https://plataforma.epa-bienestar.com.ar/favicon.ico" sizes="32x32">
 <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/aos.css">
@@ -107,12 +105,13 @@ foreach ($languages as $hreflang => $path) {
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es.php" class="nav-link">Life Essential 8</a></li>
+                                <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/biblioteca/" class="nav-link">Biblioteca CKM</a></li>
 								<li class="nav-item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhYiPSN56wuZ5OCYR6N3QB6-IFnrRkYzrK365ZR6TqfZ77IQ/viewform?usp=header" class="nav-link" target="_blank">Contact</a></li>
                             </ul>
                             <div class="others-options d-flex align-items-center" style="display: flex; gap: 20px;">  
 							<!-- Book Appointment Button -->
 							<div class="option-item">
-								<a href="https://calendar.app.google/BSEeG7soHGK52RJM8" class="default-btn">Book Appointment</a>
+								<a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
 							</div>
 
 							<!-- GTranslate Wrapper Styled as a Button -->
@@ -148,7 +147,7 @@ foreach ($languages as $hreflang => $path) {
 									<div class="gtranslate_wrapper"></div>
 								</div>
                                 <div class="option-item">
-                                    <a href="https://calendar.app.google/BSEeG7soHGK52RJM8" class="default-btn">Book Appointment</a>
+                                    <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
                                 </div>
                             </div>
                         </div>

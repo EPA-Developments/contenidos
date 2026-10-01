@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva is a bulging or ballooning of the aorta near the heart, which can lead to serious complications if left untreated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva is typically caused by a congenital weakness in the aortic wall, leading to a bulging or ballooning of the blood vessel.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does an aneurysm of the sinus of Valsalva affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva can put pressure on the heart chambers, causing symptoms like chest pain, palpitations, and heart failure. Treatment may involve surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an aneurysm of the sinus of Valsalva may include chest pain, shortness of breath, palpitations, and in severe cases, heart failure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an aneurysm of the sinus of Valsalva diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva is diagnosed through imaging tests like echocardiography, CT scan, or MRI to evaluate the size and location.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva is a bulging or ballooning of the aorta near the heart, which can lead to serious complications if left untreated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for an aneurysm of the sinus of Valsalva may include monitoring, medications, or surgical intervention, depending on the size and symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva is typically caused by a congenital weakness in the aortic wall, leading to a bulging or ballooning of the blood vessel.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in diagnosing and treating an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced imaging techniques like echocardiography and CT scans to diagnose a sinus of Valsalva aneurysm. Treatment options may include surgery to repair the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an aneurysm of the sinus of Valsalva affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva can put pressure on the heart chambers, causing symptoms like chest pain, palpitations, and heart failure. Treatment may involve surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an aneurysm of the sinus of Valsalva lead to lifethreatening complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, an aneurysm of the sinus of Valsalva can lead to life-threatening complications such as heart failure or rupture, requiring immediate medical attention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an aneurysm of the sinus of Valsalva may include chest pain, shortness of breath, palpitations, and in severe cases, heart failure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes should individuals with an aneurysm of the sinus of Valsalva consider?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with an aneurysm of the sinus of Valsalva should consider avoiding strenuous activities, managing blood pressure, and quitting smoking for a healthier lifestyle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an aneurysm of the sinus of Valsalva diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva is diagnosed through imaging tests like echocardiography, CT scan, or MRI to evaluate the size and location.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is surgery in treating an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is highly effective in treating an aneurysm of the sinus of Valsalva, with a good success rate and low risk of complications when performed by a skilled medical team.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for an aneurysm of the sinus of Valsalva may include monitoring, medications, or surgical intervention, depending on the size and symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an aneurysm of the sinus of Valsalva lead to lifethreatening complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an aneurysm of the sinus of Valsalva can lead to life-threatening complications such as heart failure or rupture, requiring immediate medical attention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes should individuals with an aneurysm of the sinus of Valsalva consider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with an aneurysm of the sinus of Valsalva should consider avoiding strenuous activities, managing blood pressure, and quitting smoking for a healthier lifestyle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective is surgery in treating an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is highly effective in treating an aneurysm of the sinus of Valsalva, with a good success rate and low risk of complications when performed by a skilled medical team.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -450,8 +422,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover assist in diagnosing and treating an aneurysm of the sinus of Valsalva?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is acute aortic dissection and how does it occur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute aortic dissection is a serious condition where there is a tear in the inner layer of the aorta. It occurs due to high blood pressure or weakened aortic walls.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the causes of acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute aortic dissection is usually caused by a tear in the inner layer of the aorta, allowing blood to flow between the layers and potentially lead to serious complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can acute aortic dissection be diagnosed quickly?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute aortic dissection can be diagnosed quickly through imaging tests like CT scans or MRIs, along with blood tests to assess for signs of heart damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for acute aortic dissection include surgery to repair the torn aorta, medication to lower blood pressure, and close monitoring in the ICU.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do doctors manage the risks associated with acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors manage risks of acute aortic dissection with medications to lower blood pressure, surgery to repair the damaged aorta, and close monitoring to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is acute aortic dissection and how does it occur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute aortic dissection is a serious condition where there is a tear in the inner layer of the aorta. It occurs due to high blood pressure or weakened aortic walls.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the chances of survival after an acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The chances of survival after an acute aortic dissection depend on various factors, but prompt diagnosis and treatment significantly improve outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of acute aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute aortic dissection is usually caused by a tear in the inner layer of the aorta, allowing blood to flow between the layers and potentially lead to serious complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does an acute aortic dissection affect the heart and blood vessels?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An acute aortic dissection can affect the heart by causing severe chest pain and can lead to complications like aortic rupture, which can be life-threatening.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can acute aortic dissection be diagnosed quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute aortic dissection can be diagnosed quickly through imaging tests like CT scans or MRIs, along with blood tests to assess for signs of heart damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover ensure prompt diagnosis and treatment of acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced imaging techniques and experienced medical staff to quickly diagnose and treat acute aortic dissection, ensuring prompt and effective care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for acute aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for acute aortic dissection include surgery to repair the torn aorta, medication to lower blood pressure, and close monitoring in the ICU.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm implications of an acute aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Longterm implications of an acute aortic dissection can include chronic pain, organ damage, and increased risk of future cardiovascular events. Early treatment is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do doctors manage the risks associated with acute aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors manage risks of acute aortic dissection with medications to lower blood pressure, surgery to repair the damaged aorta, and close monitoring to prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can acute aortic dissection be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prevention of acute aortic dissection involves managing high blood pressure, avoiding strenuous physical activities, and seeking prompt medical attention for any chest pain.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the chances of survival after an acute aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The chances of survival after an acute aortic dissection depend on various factors, but prompt diagnosis and treatment significantly improve outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does an acute aortic dissection affect the heart and blood vessels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An acute aortic dissection can affect the heart by causing severe chest pain and can lead to complications like aortic rupture, which can be life-threatening.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm implications of an acute aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Longterm implications of an acute aortic dissection can include chronic pain, organ damage, and increased risk of future cardiovascular events. Early treatment is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can acute aortic dissection be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevention of acute aortic dissection involves managing high blood pressure, avoiding strenuous physical activities, and seeking prompt medical attention for any chest pain.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3>How does Medicover ensure prompt diagnosis and treatment of acute aortic dissection?</h3>
-        <p>Medicover uses advanced imaging techniques and experienced medical staff to quickly diagnose and treat acute aortic dissection, ensuring prompt and effective care.</p>
 
 
 

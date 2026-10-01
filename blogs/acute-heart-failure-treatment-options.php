@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatments for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatments for acute heart failure include diuretics to reduce fluid buildup, vasodilators to improve blood flow, and inotropes to strengthen the heart's pumping ability.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications help manage acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications for acute heart failure help by reducing fluid buildup, easing strain on the heart, and improving overall heart function for better symptom management.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the surgical options for treating acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options for acute heart failure include coronary artery bypass grafting, heart valve repair, and ventricular assist device implantation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can lifestyle changes improve the outcomes of acute heart failure treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as following a heart-healthy diet, exercising regularly, managing stress, and quitting smoking can improve outcomes for acute heart failure treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do physicians decide on the best treatment for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Physicians determine the best treatment for acute heart failure based on the patient's symptoms, medical history, and overall health, aiming to improve heart function and relieve symptoms quickly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatments for acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatments for acute heart failure include diuretics to reduce fluid buildup, vasodilators to improve blood flow, and inotropes to strengthen the heart's pumping ability.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in providing treatment for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in providing comprehensive and timely treatment for acute heart failure, offering a range of medical services and expertise to address patients' needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications help manage acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications for acute heart failure help by reducing fluid buildup, easing strain on the heart, and improving overall heart function for better symptom management.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there alternative treatments available for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, alternative treatments for acute heart failure may include noninvasive ventilation, intravenous diuretics, and vasodilators to help improve symptoms and heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the surgical options for treating acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options for acute heart failure include coronary artery bypass grafting, heart valve repair, and ventricular assist device implantation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors monitor treatment progress in patients with acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors monitor treatment progress in acute heart failure patients by assessing symptoms, vital signs, fluid balance, and conducting imaging tests like echocardiograms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can lifestyle changes improve the outcomes of acute heart failure treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as following a heart-healthy diet, exercising regularly, managing stress, and quitting smoking can improve outcomes for acute heart failure treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of acute heart failure treatments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential complications of acute heart failure treatments include low blood pressure, electrolyte imbalances, kidney problems, and worsening heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do physicians decide on the best treatment for acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Physicians determine the best treatment for acute heart failure based on the patient's symptoms, medical history, and overall health, aiming to improve heart function and relieve symptoms quickly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does it take to see improvement with acute heart failure treatments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Improvement with acute heart failure treatments can be seen within hours to days, but full recovery may take several weeks depending on the individual's condition.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there alternative treatments available for acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, alternative treatments for acute heart failure may include noninvasive ventilation, intravenous diuretics, and vasodilators to help improve symptoms and heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do doctors monitor treatment progress in patients with acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors monitor treatment progress in acute heart failure patients by assessing symptoms, vital signs, fluid balance, and conducting imaging tests like echocardiograms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential complications of acute heart failure treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential complications of acute heart failure treatments include low blood pressure, electrolyte imbalances, kidney problems, and worsening heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to see improvement with acute heart failure treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Improvement with acute heart failure treatments can be seen within hours to days, but full recovery may take several weeks depending on the individual's condition.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -418,8 +390,6 @@
 
 
 
-        <h3>What role does Medicover play in providing treatment for acute heart failure?</h3>
-        <p>Medicover plays a crucial role in providing comprehensive and timely treatment for acute heart failure, offering a range of medical services and expertise to address patients' needs.</p>
 
 
 

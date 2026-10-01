@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How do angina symptoms differ in men compared to women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina symptoms in men may include chest pain or pressure, while women may experience symptoms like shortness of breath, fatigue, or nausea.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of angina in men?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of angina in men include chest pain or discomfort, pressure, squeezing, shortness of breath, fatigue, nausea, and sweating.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do men typically describe the pain associated with angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Men typically describe the pain of angina as a pressure, tightness, heaviness, or squeezing in the chest. It may also radiate to the arms, neck, or jaw.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are men more likely to develop a specific type of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, men are more likely to develop stable angina compared to women. This type of angina is triggered by physical exertion and typically lasts a short time.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does age affect the presentation of angina symptoms in men?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Age can impact how angina symptoms present in men. Older men may have atypical symptoms like shortness of breath, fatigue, rather than chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do angina symptoms differ in men compared to women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina symptoms in men may include chest pain or pressure, while women may experience symptoms like shortness of breath, fatigue, or nausea.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can angina in men be misdiagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina in men can be misdiagnosed due to atypical symptoms, such as jaw pain or shortness of breath, which may not immediately be associated with heart issues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of angina in men?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of angina in men include chest pain or discomfort, pressure, squeezing, shortness of breath, fatigue, nausea, and sweating.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach diagnosing angina in men?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses a combination of medical history, physical exams, and tests like ECG and stress tests to diagnose angina in men, tailored to their unique symptoms and risk factors.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do men typically describe the pain associated with angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Men typically describe the pain of angina as a pressure, tightness, heaviness, or squeezing in the chest. It may also radiate to the arms, neck, or jaw.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any specific risk factors for men that increase the likelihood of developing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, specific risk factors for men that increase the likelihood of developing angina include smoking, high blood pressure, high cholesterol, and a family history of heart disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are men more likely to develop a specific type of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, men are more likely to develop stable angina compared to women. This type of angina is triggered by physical exertion and typically lasts a short time.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can men prevent or manage angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Men can prevent or manage angina symptoms by quitting smoking, eating a heart-healthy diet, staying active, managing stress, and taking prescribed medications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does age affect the presentation of angina symptoms in men?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Age can impact how angina symptoms present in men. Older men may have atypical symptoms like shortness of breath, fatigue, rather than chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does angina in men affect overall heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina in men signals underlying heart issues, like coronary artery disease. It's crucial to manage symptoms and seek treatment to improve overall heart health.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can angina in men be misdiagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina in men can be misdiagnosed due to atypical symptoms, such as jaw pain or shortness of breath, which may not immediately be associated with heart issues.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any specific risk factors for men that increase the likelihood of developing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, specific risk factors for men that increase the likelihood of developing angina include smoking, high blood pressure, high cholesterol, and a family history of heart disease.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can men prevent or manage angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Men can prevent or manage angina symptoms by quitting smoking, eating a heart-healthy diet, staying active, managing stress, and taking prescribed medications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does angina in men affect overall heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina in men signals underlying heart issues, like coronary artery disease. It's crucial to manage symptoms and seek treatment to improve overall heart health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -417,8 +389,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach diagnosing angina in men?</p>
 
 
 

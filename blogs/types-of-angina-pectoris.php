@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the different types of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The different types of angina pectoris include stable angina, unstable angina, and variant (Prinzmetal's) angina. Each type has unique symptoms and triggers.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does stable angina differ from unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is predictable and typically relieved by rest or medication, while unstable angina is unpredictable and may occur at rest or with minimal exertion.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is variant angina and how is it treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina is caused by a sudden spasm in the coronary artery, leading to chest pain. It's treated with medications like calcium channel blockers to relax blood vessels.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the causes of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina is caused by reduced blood flow to the heart due to a buildup of plaque in the arteries or a blood clot forming, leading to chest pain or discomfort.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is stable angina managed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is managed through lifestyle changes, medication, and potential procedures like angioplasty or bypass surgery to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The different types of angina pectoris include stable angina, unstable angina, and variant (Prinzmetal's) angina. Each type has unique symptoms and triggers.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors determine the type of angina a patient has?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors determine the type of angina a patient has by considering symptoms, medical history, physical exams, ECG, stress tests, and imaging studies like angiography.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does stable angina differ from unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is predictable and typically relieved by rest or medication, while unstable angina is unpredictable and may occur at rest or with minimal exertion.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the severity of angina symptoms vary between the different types?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The severity of angina symptoms varies between types. Stable angina has predictable discomfort, while unstable angina is more severe and unpredictable.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is variant angina and how is it treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina is caused by a sudden spasm in the coronary artery, leading to chest pain. It's treated with medications like calcium channel blockers to relax blood vessels.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in diagnosing and managing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in diagnosing and managing angina pectoris by offering comprehensive diagnostic tests and providing specialized treatment options for patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina is caused by reduced blood flow to the heart due to a buildup of plaque in the arteries or a blood clot forming, leading to chest pain or discomfort.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can different types of angina require different treatments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, different types of angina may require different treatments based on their underlying causes and severity. It's important to consult a healthcare provider for proper evaluation and management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is stable angina managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is managed through lifestyle changes, medication, and potential procedures like angioplasty or bypass surgery to improve blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do lifestyle factors impact the management of various types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle factors like diet, exercise, stress management, and smoking can significantly impact the management of angina by either triggering or alleviating symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do doctors determine the type of angina a patient has?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors determine the type of angina a patient has by considering symptoms, medical history, physical exams, ECG, stress tests, and imaging studies like angiography.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the severity of angina symptoms vary between the different types?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The severity of angina symptoms varies between types. Stable angina has predictable discomfort, while unstable angina is more severe and unpredictable.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can different types of angina require different treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, different types of angina may require different treatments based on their underlying causes and severity. It's important to consult a healthcare provider for proper evaluation and management.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do lifestyle factors impact the management of various types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle factors like diet, exercise, stress management, and smoking can significantly impact the management of angina by either triggering or alleviating symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -481,8 +453,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in diagnosing and managing angina pectoris?</p>
 
 
 

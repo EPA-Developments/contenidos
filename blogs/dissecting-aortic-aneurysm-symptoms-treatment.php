@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A dissecting aortic aneurysm is a serious condition where the layers of the aorta's wall separate, requiring prompt medical attention to prevent life-threatening complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the signs of a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of a dissecting aortic aneurysm include sudden severe chest or back pain, shortness of breath, dizziness, and fainting. Seek emergency medical help if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a dissecting aortic aneurysm diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A dissecting aortic aneurysm is diagnosed through imaging tests like CT scans or MRIs, which can show the location and severity of the condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for a dissecting aortic aneurysm include surgery to repair the damaged aorta, medications to manage blood pressure, and close monitoring by healthcare providers.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover treat a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats a dissecting aortic aneurysm with surgery to repair the damaged section of the aorta and prevent further complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dissecting aortic aneurysm is a serious condition where the layers of the aorta's wall separate, requiring prompt medical attention to prevent life-threatening complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery always required for a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is not always required for a dissecting aortic aneurysm. Treatment depends on the severity of symptoms and the location of the aneurysm. Consult a medical professional for personalized advice.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs of a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of a dissecting aortic aneurysm include sudden severe chest or back pain, shortness of breath, dizziness, and fainting. Seek emergency medical help if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not treating a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not treating a dissecting aortic aneurysm can lead to life-threatening complications like aortic rupture, organ damage, and even death. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a dissecting aortic aneurysm diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dissecting aortic aneurysm is diagnosed through imaging tests like CT scans or MRIs, which can show the location and severity of the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications help manage a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications can help manage a dissecting aortic aneurysm by controlling blood pressure, reducing heart rate, and preventing further complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for a dissecting aortic aneurysm include surgery to repair the damaged aorta, medications to manage blood pressure, and close monitoring by healthcare providers.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors monitor the progress of a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors monitor the progress of a dissecting aortic aneurysm through regular imaging tests like CT scans or MRIs to track changes in the aorta's size and structure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is surgery always required for a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is not always required for a dissecting aortic aneurysm. Treatment depends on the severity of symptoms and the location of the aneurysm. Consult a medical professional for personalized advice.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the survival rate for a dissecting aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The survival rate for a dissecting aortic aneurysm varies depending on various factors, but generally ranges from 20-30% for those who receive prompt medical treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risks of not treating a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not treating a dissecting aortic aneurysm can lead to life-threatening complications like aortic rupture, organ damage, and even death. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can medications help manage a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications can help manage a dissecting aortic aneurysm by controlling blood pressure, reducing heart rate, and preventing further complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do doctors monitor the progress of a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors monitor the progress of a dissecting aortic aneurysm through regular imaging tests like CT scans or MRIs to track changes in the aorta's size and structure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the survival rate for a dissecting aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The survival rate for a dissecting aortic aneurysm varies depending on various factors, but generally ranges from 20-30% for those who receive prompt medical treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -445,8 +417,6 @@
 
 
 
-        <h3>How does Medicover treat a dissecting aortic aneurysm?</h3>
-        <p>Medicover treats a dissecting aortic aneurysm with surgery to repair the damaged section of the aorta and prevent further complications.</p>
 
 
 

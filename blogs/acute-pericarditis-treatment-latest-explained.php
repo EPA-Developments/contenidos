@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the latest treatments available for acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest treatments for acute pericarditis include nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, and corticosteroids to reduce inflammation and pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do antiinflammatory medications help in the treatment of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antiinflammatory medications help reduce inflammation and relieve pain in acute pericarditis, promoting healing and easing symptoms for the patient.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any new surgical interventions for acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "New surgical interventions for acute pericarditis include pericardiectomy, a procedure to remove the inflamed pericardium, but it is typically reserved for severe cases.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does Medicover play in treating acute pericarditis with the latest approaches?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover offers cutting-edge treatments for acute pericarditis, utilizing the latest approaches to provide effective and advanced care for patients.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does the treatment for acute pericarditis typically last?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for acute pericarditis typically lasts around 4-6 weeks, consisting of medications to reduce inflammation and manage pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the latest treatments available for acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest treatments for acute pericarditis include nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, and corticosteroids to reduce inflammation and pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can alternative therapies help in managing acute pericarditis symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alternative therapies like acupuncture and meditation may help manage acute pericarditis symptoms by reducing inflammation and promoting relaxation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do antiinflammatory medications help in the treatment of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antiinflammatory medications help reduce inflammation and relieve pain in acute pericarditis, promoting healing and easing symptoms for the patient.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the effectiveness of corticosteroids in treating acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Corticosteroids are effective in treating acute pericarditis by reducing inflammation and symptoms, but their use is reserved for cases with refractory symptoms or contraindications to NSAIDs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there any new surgical interventions for acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New surgical interventions for acute pericarditis include pericardiectomy, a procedure to remove the inflamed pericardium, but it is typically reserved for severe cases.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do recent advancements in pericarditis treatment improve patient outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recent advancements in pericarditis treatment, such as targeted anti-inflammatory medications and minimally invasive procedures, have led to quicker symptom relief and improved outcomes for patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does the treatment for acute pericarditis typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for acute pericarditis typically lasts around 4-6 weeks, consisting of medications to reduce inflammation and manage pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes contribute to managing acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as reducing stress, avoiding tobacco and alcohol, and maintaining a healthy diet can help manage acute pericarditis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can alternative therapies help in managing acute pericarditis symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternative therapies like acupuncture and meditation may help manage acute pericarditis symptoms by reducing inflammation and promoting relaxation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there preventive treatments to avoid recurring acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, preventive treatments such as colchicine or low-dose aspirin may help reduce the risk of recurring acute pericarditis. Consulting a healthcare provider is recommended.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the effectiveness of corticosteroids in treating acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Corticosteroids are effective in treating acute pericarditis by reducing inflammation and symptoms, but their use is reserved for cases with refractory symptoms or contraindications to NSAIDs.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do recent advancements in pericarditis treatment improve patient outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recent advancements in pericarditis treatment, such as targeted anti-inflammatory medications and minimally invasive procedures, have led to quicker symptom relief and improved outcomes for patients.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes contribute to managing acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as reducing stress, avoiding tobacco and alcohol, and maintaining a healthy diet can help manage acute pericarditis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there preventive treatments to avoid recurring acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, preventive treatments such as colchicine or low-dose aspirin may help reduce the risk of recurring acute pericarditis. Consulting a healthcare provider is recommended.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -419,8 +391,6 @@
 
 
 
-        <h3>What role does Medicover play in treating acute pericarditis with the latest approaches?</h3>
-        <p>Medicover offers cutting-edge treatments for acute pericarditis, utilizing the latest approaches to provide effective and advanced care for patients.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the longterm complications associated with angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term complications of angina pectoris can include heart failure, heart attack, arrhythmias, and even death if left untreated or poorly managed.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can untreated angina pectoris lead to a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina pectoris can lead to a heart attack by causing a blockage in the coronary artery, restricting blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the risk of heart failure for people with chronic angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "People with chronic angina pectoris are at risk of developing heart failure if the condition is not properly managed over time.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can angina pectoris cause arrhythmias?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angina pectoris can cause arrhythmias due to decreased blood flow to the heart muscle, leading to irregular heartbeats.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does angina pectoris affect quality of life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pectoris can limit physical activity, cause anxiety, and affect overall well-being, impacting quality of life for individuals with the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the longterm complications associated with angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term complications of angina pectoris can include heart failure, heart attack, arrhythmias, and even death if left untreated or poorly managed.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can untreated angina pectoris lead to sudden cardiac arrest?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, untreated angina pectoris can lead to sudden cardiac arrest due to decreased blood flow to the heart, increasing the risk of a heart attack.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can untreated angina pectoris lead to a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina pectoris can lead to a heart attack by causing a blockage in the coronary artery, restricting blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in preventing complications from angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides timely medical care and monitoring to help prevent complications like heart attack or heart failure in patients with angina pectoris.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the risk of heart failure for people with chronic angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "People with chronic angina pectoris are at risk of developing heart failure if the condition is not properly managed over time.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does high blood pressure worsen the complications of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can increase the workload on the heart, worsening angina pectoris symptoms and increasing the risk of heart attack or other complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina pectoris cause arrhythmias?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angina pectoris can cause arrhythmias due to decreased blood flow to the heart muscle, leading to irregular heartbeats.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications arise during angina attacks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Complications during angina attacks can include heart attack, arrhythmias, heart failure, and sudden cardiac arrest. It is important to seek medical help if experiencing these symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does angina pectoris affect quality of life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pectoris can limit physical activity, cause anxiety, and affect overall well-being, impacting quality of life for individuals with the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help in preventing complications related to angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes like quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking medications as prescribed can help prevent complications related to angina pectoris.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can untreated angina pectoris lead to sudden cardiac arrest?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, untreated angina pectoris can lead to sudden cardiac arrest due to decreased blood flow to the heart, increasing the risk of a heart attack.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does high blood pressure worsen the complications of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can increase the workload on the heart, worsening angina pectoris symptoms and increasing the risk of heart attack or other complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What complications arise during angina attacks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complications during angina attacks can include heart attack, arrhythmias, heart failure, and sudden cardiac arrest. It is important to seek medical help if experiencing these symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes help in preventing complications related to angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes like quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking medications as prescribed can help prevent complications related to angina pectoris.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -427,8 +399,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in preventing complications from angina pectoris?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the connection between aortic stenosis and aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic stenosis and aortic regurgitation are both heart valve conditions that affect the aortic valve, but they involve opposite problems - stenosis is narrowing, while regurgitation is leakage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can aortic stenosis lead to aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic stenosis can lead to aortic regurgitation as the increased pressure in the heart can cause the aortic valve to weaken and leak.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does having both aortic stenosis and aortic regurgitation affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Having both aortic stenosis and aortic regurgitation can lead to reduced heart function due to the increased workload on the heart and potential disruptions in blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are aortic stenosis and aortic regurgitation diagnosed together?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic stenosis and aortic regurgitation are diagnosed together through a combination of physical exams, imaging tests like echocardiography, and assessing symptoms like chest pain or shortness of breath.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatment options are available for patients with both conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for patients with both aortic stenosis and aortic regurgitation may include medication management, monitoring, lifestyle changes, and potentially surgery to repair or replace the affected valve.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the connection between aortic stenosis and aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic stenosis and aortic regurgitation are both heart valve conditions that affect the aortic valve, but they involve opposite problems - stenosis is narrowing, while regurgitation is leakage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage combined aortic stenosis and aortic regurgitation cases?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages combined aortic stenosis and aortic regurgitation cases through careful evaluation, monitoring symptoms, and considering surgical or transcatheter interventions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can aortic stenosis lead to aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic stenosis can lead to aortic regurgitation as the increased pressure in the heart can cause the aortic valve to weaken and leak.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery required for both conditions simultaneously?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery may be required for both aortic stenosis and aortic regurgitation if the conditions are severe and impacting heart function. Treatment depends on individual cases.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does having both aortic stenosis and aortic regurgitation affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Having both aortic stenosis and aortic regurgitation can lead to reduced heart function due to the increased workload on the heart and potential disruptions in blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle modifications can help manage both aortic stenosis and regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular exercise, a heart-healthy diet low in salt and saturated fats, not smoking, and managing stress can help manage both aortic stenosis and regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are aortic stenosis and aortic regurgitation diagnosed together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic stenosis and aortic regurgitation are diagnosed together through a combination of physical exams, imaging tests like echocardiography, and assessing symptoms like chest pain or shortness of breath.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the presence of both conditions impact life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The presence of both aortic stenosis and aortic regurgitation can worsen heart function and potentially reduce life expectancy if left untreated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatment options are available for patients with both conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for patients with both aortic stenosis and aortic regurgitation may include medication management, monitoring, lifestyle changes, and potentially surgery to repair or replace the affected valve.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not addressing both aortic stenosis and regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of not addressing both aortic stenosis and regurgitation include heart failure, arrhythmias, and increased strain on the heart. It's vital to seek timely medical intervention.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is surgery required for both conditions simultaneously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery may be required for both aortic stenosis and aortic regurgitation if the conditions are severe and impacting heart function. Treatment depends on individual cases.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle modifications can help manage both aortic stenosis and regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular exercise, a heart-healthy diet low in salt and saturated fats, not smoking, and managing stress can help manage both aortic stenosis and regurgitation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the presence of both conditions impact life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The presence of both aortic stenosis and aortic regurgitation can worsen heart function and potentially reduce life expectancy if left untreated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of not addressing both aortic stenosis and regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of not addressing both aortic stenosis and regurgitation include heart failure, arrhythmias, and increased strain on the heart. It's vital to seek timely medical intervention.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3>How does Medicover manage combined aortic stenosis and aortic regurgitation cases?</h3>
-        <p>Medicover manages combined aortic stenosis and aortic regurgitation cases through careful evaluation, monitoring symptoms, and considering surgical or transcatheter interventions.</p>
 
 
 

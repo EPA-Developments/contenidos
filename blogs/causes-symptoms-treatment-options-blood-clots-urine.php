@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots to appear in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in urine can be caused by various factors such as urinary tract infections, kidney stones, or trauma to the urinary tract.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do blood clots in urine affect kidney function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in urine can impair kidney function by blocking the flow of urine, causing pain, and potentially leading to complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms suggest blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of blood clots in urine include visible blood, pain or discomfort during urination, frequent urination, and lower back pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in urine diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in urine are diagnosed through a physical exam, urinalysis, imaging tests like ultrasound, and possibly a cystoscopy to identify the underlying cause.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can urinary tract infections cause blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, urinary tract infections can cause blood clots in urine. Inflammation and irritation in the urinary tract can lead to bleeding, resulting in blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots to appear in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in urine can be caused by various factors such as urinary tract infections, kidney stones, or trauma to the urinary tract.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available for blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for blood clots in urine include antibiotics, pain relievers, and medications to dissolve or prevent further clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do blood clots in urine affect kidney function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in urine can impair kidney function by blocking the flow of urine, causing pain, and potentially leading to complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does lifestyle impact the risk of blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Certain lifestyle factors such as smoking, obesity, and a sedentary lifestyle can increase the risk of blood clots in urine.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms suggest blood clots in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of blood clots in urine include visible blood, pain or discomfort during urination, frequent urination, and lower back pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help with the treatment of blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can provide specialized medical care and treatment options for blood clots in urine, ensuring thorough evaluation and effective management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in urine diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in urine are diagnosed through a physical exam, urinalysis, imaging tests like ultrasound, and possibly a cystoscopy to identify the underlying cause.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots in urine always related to severe conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in urine can be caused by various factors, not always indicating severe conditions. However, it's important to consult a healthcare provider for proper evaluation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can urinary tract infections cause blood clots in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, urinary tract infections can cause blood clots in urine. Inflammation and irritation in the urinary tract can lead to bleeding, resulting in blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the preventive measures for blood clots in urine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventive measures for blood clots in urine include staying hydrated, maintaining a healthy diet, avoiding tobacco use, and regular exercise.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatments are available for blood clots in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for blood clots in urine include antibiotics, pain relievers, and medications to dissolve or prevent further clots.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lifestyle impact the risk of blood clots in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain lifestyle factors such as smoking, obesity, and a sedentary lifestyle can increase the risk of blood clots in urine.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots in urine always related to severe conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in urine can be caused by various factors, not always indicating severe conditions. However, it's important to consult a healthcare provider for proper evaluation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the preventive measures for blood clots in urine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive measures for blood clots in urine include staying hydrated, maintaining a healthy diet, avoiding tobacco use, and regular exercise.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -410,8 +382,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover help with the treatment of blood clots in urine?</p>
 
 
 

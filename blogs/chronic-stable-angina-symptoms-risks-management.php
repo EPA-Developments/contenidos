@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of chronic stable angina include chest pain or discomfort, pressure, tightness, or squeezing that may radiate to the arms, neck, jaw, or back.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is chronic stable angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chronic stable angina is diagnosed through a combination of medical history, physical exam, stress tests, imaging tests, and blood tests to assess heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does chronic stable angina impact a personâ€™s life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chronic stable angina can limit physical activity, cause discomfort, and impact daily life due to chest pain or pressure. Proper management is crucial for quality of life.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risk factors for developing chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for developing chronic stable angina include smoking, high blood pressure, high cholesterol, diabetes, obesity, sedentary lifestyle, and family history of heart disease.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is chronic stable angina treated and managed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chronic stable angina is managed with medications like nitroglycerin, beta-blockers, and calcium channel blockers. Lifestyle changes and stress management are also important.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of chronic stable angina include chest pain or discomfort, pressure, tightness, or squeezing that may radiate to the arms, neck, jaw, or back.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the management of chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages chronic stable angina through a combination of lifestyle changes, medication, and possible procedures like angioplasty to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is chronic stable angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chronic stable angina is diagnosed through a combination of medical history, physical exam, stress tests, imaging tests, and blood tests to assess heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help manage chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Healthy lifestyle changes like regular exercise, a heart-healthy diet, quitting smoking, managing stress, and maintaining a healthy weight can help manage chronic stable angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does chronic stable angina impact a personâ€™s life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chronic stable angina can limit physical activity, cause discomfort, and impact daily life due to chest pain or pressure. Proper management is crucial for quality of life.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can medications help in controlling chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications can help control chronic stable angina by reducing chest pain, improving blood flow to the heart, and lowering blood pressure to reduce strain on the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risk factors for developing chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for developing chronic stable angina include smoking, high blood pressure, high cholesterol, diabetes, obesity, sedentary lifestyle, and family history of heart disease.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the longterm prognosis for people with chronic stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The longterm prognosis for people with chronic stable angina is generally good with proper management, lifestyle changes, and medication compliance.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is chronic stable angina treated and managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chronic stable angina is managed with medications like nitroglycerin, beta-blockers, and calcium channel blockers. Lifestyle changes and stress management are also important.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can chronic stable angina lead to more serious conditions like heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chronic stable angina can progress to heart failure if left untreated, as it indicates underlying heart disease that may lead to weakened heart function.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Healthy lifestyle changes like regular exercise, a heart-healthy diet, quitting smoking, managing stress, and maintaining a healthy weight can help manage chronic stable angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can medications help in controlling chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications can help control chronic stable angina by reducing chest pain, improving blood flow to the heart, and lowering blood pressure to reduce strain on the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the longterm prognosis for people with chronic stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The longterm prognosis for people with chronic stable angina is generally good with proper management, lifestyle changes, and medication compliance.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can chronic stable angina lead to more serious conditions like heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chronic stable angina can progress to heart failure if left untreated, as it indicates underlying heart disease that may lead to weakened heart function.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -444,8 +416,6 @@
 
 
 
-        <h3>How does Medicover approach the management of chronic stable angina?</h3>
-        <p>Medicover manages chronic stable angina through a combination of lifestyle changes, medication, and possible procedures like angioplasty to improve blood flow to the heart.</p>
 
 
 

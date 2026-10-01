@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common tests used to diagnose angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common tests for diagnosing angina pectoris include EKG, stress test, coronary angiography, and blood tests to assess cholesterol levels and cardiac enzymes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does an ECG (electrocardiogram) help in diagnosing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ECG can help diagnose angina by detecting abnormal heart rhythms or patterns, indicating potential blockages in the coronary arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does a stress test play in diagnosing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A stress test helps diagnose angina pectoris by monitoring the heart's response to physical activity, revealing any reduced blood flow that may cause chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a coronary angiogram used to assess angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A coronary angiogram is used to assess angina pectoris by examining blockages or narrowing in the coronary arteries that may be causing the symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do blood tests help in diagnosing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood tests help diagnose angina pectoris by measuring levels of certain enzymes that indicate heart damage, as well as checking for risk factors like cholesterol.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common tests used to diagnose angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common tests for diagnosing angina pectoris include EKG, stress test, coronary angiography, and blood tests to assess cholesterol levels and cardiac enzymes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the significance of an echocardiogram in diagnosing angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An echocardiogram is significant in diagnosing angina as it can show any abnormalities in the heart's structure or function that may be causing chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an ECG (electrocardiogram) help in diagnosing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ECG can help diagnose angina by detecting abnormal heart rhythms or patterns, indicating potential blockages in the coronary arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do Medicover doctors approach the diagnosis of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover doctors diagnose angina pectoris through a combination of medical history, physical examination, ECG tests, stress tests, and possibly imaging studies like angiography.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does a stress test play in diagnosing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A stress test helps diagnose angina pectoris by monitoring the heart's response to physical activity, revealing any reduced blood flow that may cause chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does a CT scan help in identifying coronary artery disease related to angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A CT scan can help identify coronary artery disease related to angina by providing detailed images of the heart's blood vessels for diagnosis and treatment planning.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a coronary angiogram used to assess angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A coronary angiogram is used to assess angina pectoris by examining blockages or narrowing in the coronary arteries that may be causing the symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the benefits of a Holter monitor in diagnosing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A Holter monitor can help diagnose angina pectoris by recording heart activity over 24-48 hours, capturing any irregularities that may indicate the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do blood tests help in diagnosing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood tests help diagnose angina pectoris by measuring levels of certain enzymes that indicate heart damage, as well as checking for risk factors like cholesterol.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the latest diagnostic advancements for detecting angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest advancements in diagnosing angina pectoris include advanced imaging tests like coronary CT angiography and cardiac MRI for more precise evaluation.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the significance of an echocardiogram in diagnosing angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An echocardiogram is significant in diagnosing angina as it can show any abnormalities in the heart's structure or function that may be causing chest pain.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a CT scan help in identifying coronary artery disease related to angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CT scan can help identify coronary artery disease related to angina by providing detailed images of the heart's blood vessels for diagnosis and treatment planning.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of a Holter monitor in diagnosing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Holter monitor can help diagnose angina pectoris by recording heart activity over 24-48 hours, capturing any irregularities that may indicate the condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the latest diagnostic advancements for detecting angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest advancements in diagnosing angina pectoris include advanced imaging tests like coronary CT angiography and cardiac MRI for more precise evaluation.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -464,8 +436,6 @@
 
 
 
-        <h3></h3>
-        <p>How do Medicover doctors approach the diagnosis of angina pectoris?</p>
 
 
 

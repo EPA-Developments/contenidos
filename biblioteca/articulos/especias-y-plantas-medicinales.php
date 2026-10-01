@@ -1,0 +1,127 @@
+<?php
+// Biblioteca CKM-LE8 · Canela, ajo, jengibre, aloe vera y otras plantas: qué dice la evidencia para el corazón
+// Datos del artículo (los muestra biblioteca/_biblioteca.php). Revisión médica: pendiente.
+// Reemplaza, con evidencia, 57 páginas viejas de blogs/ (redirigen acá; ver .htaccess).
+return [
+    'slug' => 'especias-y-plantas-medicinales',
+    'orden' => 54,
+    'tipo' => 'evidencia',
+    'titulo' => 'Canela, ajo, jengibre, aloe vera y otras plantas: qué dice la evidencia para el corazón',
+    'resumen' => 'Especias, hierbas y jugos de plantas que se promocionan para la presión, el colesterol o la glucosa: qué muestran los estudios y qué riesgos tienen.',
+    'le8' => [
+        'dieta',
+        'presion',
+        'colesterol',
+        'glucosa',
+    ],
+    'ckm' => [
+        0,
+        1,
+        2,
+        3,
+        4,
+    ],
+    'claves' => [
+        'Ninguna guía de práctica clínica (AHA/ACC, ADA) recomienda la canela, el ajo, el jengibre, el aloe vera u otras plantas para tratar la presión, el colesterol o la diabetes.',
+        'Los estudios existentes son chicos, cortos y con resultados inconsistentes; ninguno mostró menos infartos o ACV.',
+        'Como condimento son parte de una alimentación saludable y ayudan a usar menos sal; en suplementos o jugos pueden tener efectos adversos e interacciones.',
+        'Nunca dejes ni cambies un medicamento por una planta sin hablarlo con tu médico.',
+    ],
+    'secciones' => [
+        [
+            'titulo' => 'Lo que muestran los estudios',
+            'html' => '<p>La canela, el ajo, el jengibre, la cúrcuma, el aloe vera y otras plantas se estudiaron sobre todo en ensayos chicos y cortos, con productos y dosis muy distintos. Los resultados son inconsistentes y ninguno midió infartos, ACV o complicaciones de la diabetes.</p>
+<p>La American Diabetes Association señala que no hay evidencia suficiente para recomendar suplementos de hierbas o especias, como la canela, para controlar la glucosa.</p>',
+        ],
+        [
+            'titulo' => 'Interacciones y riesgos',
+            'html' => '<ul>
+<li>El ajo, el jengibre y otras hierbas en suplemento pueden aumentar el riesgo de sangrado si tomás anticoagulantes o antiagregantes.</li>
+<li>El jugo y los extractos de hoja entera de aloe vera tienen efecto laxante y pueden hacer perder potasio. La Agencia Internacional para la Investigación del Cáncer (IARC) clasificó el extracto de hoja entera de aloe vera como posible cancerígeno (grupo 2B).</li>
+<li>Los productos de hierbas pueden variar en su contenido y estar contaminados o adulterados.</li>
+</ul>',
+        ],
+        [
+            'titulo' => 'Como condimento, sí',
+            'html' => '<p>Usar hierbas y especias para dar sabor es una buena estrategia para cocinar con menos sal, una de las recomendaciones de la AHA para la presión arterial.</p>',
+        ],
+        [
+            'titulo' => 'Antes de tomar un suplemento de hierbas',
+            'html' => '<p>Contale a tu médico todo lo que tomás, incluidos tés, jugos y suplementos «naturales», sobre todo si tomás medicación para la presión, la diabetes, el colesterol o anticoagulantes.</p>',
+        ],
+    ],
+    'fuentes' => [
+        [
+            'cita' => 'Lichtenstein AH, et al. 2021 Dietary Guidance to Improve Cardiovascular Health: A Scientific Statement From the American Heart Association. Circulation. 2021;144:e472–e487.',
+            'url' => 'https://doi.org/10.1161/CIR.0000000000001031',
+        ],
+        [
+            'cita' => 'American Diabetes Association Professional Practice Committee. 5. Facilitating Positive Health Behaviors and Well-being to Improve Health Outcomes: Standards of Care in Diabetes—2025. Diabetes Care. 2025;48(Supl. 1).',
+            'url' => 'https://diabetesjournals.org/care/issue/48/Supplement_1',
+        ],
+        [
+            'cita' => 'IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Some Drugs and Herbal Products. IARC Monographs, Vol. 108. Lyon: IARC; 2016.',
+            'url' => 'https://publications.iarc.who.int/',
+        ],
+    ],
+    'actualizado' => '2026-10-01',
+    'reemplaza' => [
+        'blogs/aloe-vera-and-antioxidants',
+        'blogs/aloe-vera-and-cholesterol',
+        'blogs/aloe-vera-and-heart-health',
+        'blogs/aloe-vera-and-heart-rate-variability',
+        'blogs/aloe-vera-for-blood-pressure',
+        'blogs/aloe-vera-for-circulation',
+        'blogs/aloe-vera-for-diabetes',
+        'blogs/aloe-vera-for-heart-disease',
+        'blogs/aloe-vera-for-heart-strengthening',
+        'blogs/aloe-vera-for-inflammation',
+        'blogs/aloe-vera-juice-for-arrhythmias',
+        'blogs/aloe-vera-juice-for-blood-clots',
+        'blogs/aloe-vera-juice-for-cholesterol',
+        'blogs/aloe-vera-juice-for-detoxification',
+        'blogs/aloe-vera-juice-for-heart-disease-prevention',
+        'blogs/aloe-vera-juice-for-heart-health',
+        'blogs/aloe-vera-juice-for-hypertension',
+        'blogs/aloe-vera-juice-for-inflammation',
+        'blogs/aloe-vera-juice-for-recovery',
+        'blogs/aloe-vera-juice-for-stress-relief',
+        'blogs/antioxidant-clove-benefits',
+        'blogs/antioxidant-effects-of-saffron',
+        'blogs/antioxidants-and-rosemary',
+        'blogs/cinnamon-and-inflammation',
+        'blogs/cinnamon-and-weight-loss',
+        'blogs/cinnamon-antioxidants',
+        'blogs/cinnamon-for-blood-circulation',
+        'blogs/cinnamon-for-blood-pressure',
+        'blogs/cinnamon-for-cholesterol',
+        'blogs/cinnamon-for-diabetes',
+        'blogs/cinnamon-for-heart-health',
+        'blogs/cinnamon-stroke-prevention',
+        'blogs/coriander-antioxidants',
+        'blogs/fenugreek-antioxidants',
+        'blogs/garlic-and-heart-health',
+        'blogs/garlic-and-inflammation',
+        'blogs/garlic-antioxidants-for-heart-health',
+        'blogs/garlic-for-atherosclerosis',
+        'blogs/garlic-for-blood-pressure',
+        'blogs/garlic-for-blood-sugar-control',
+        'blogs/garlic-for-heart-function',
+        'blogs/garlic-for-lowering-cholesterol',
+        'blogs/garlic-for-metabolic-syndrome',
+        'blogs/garlic-for-stroke-prevention',
+        'blogs/ginger-and-blood-pressure',
+        'blogs/ginger-and-cardiovascular-function',
+        'blogs/ginger-and-cardiovascular-risk-factors',
+        'blogs/ginger-and-cholesterol',
+        'blogs/ginger-and-circulation',
+        'blogs/ginger-and-healthy-arteries',
+        'blogs/ginger-and-inflammation',
+        'blogs/ginger-and-post-surgery-recovery',
+        'blogs/ginger-for-heart-disease',
+        'blogs/heart-health-and-ginger',
+        'blogs/herbal-tea-for-blood-pressure',
+        'blogs/mustard-antioxidants',
+        'blogs/mustard-seeds-for-cholesterol',
+    ],
+];

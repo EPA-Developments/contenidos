@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Ludwig angina and how does it affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ludwig angina is a serious infection in the floor of the mouth that can cause swelling, difficulty breathing, and potential blockage of the airway.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of Ludwig angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of Ludwig angina include swelling in the neck, difficulty swallowing, drooling, fever, and difficulty breathing. Seek medical attention immediately if experiencing these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Ludwig angina affect the throat and mouth?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ludwig angina causes severe swelling in the throat and mouth, leading to difficulty swallowing, breathing, and speaking. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with Ludwig angina if left untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If left untreated, Ludwig angina can lead to airway obstruction, difficulty breathing, and potentially life-threatening complications. Prompt medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Ludwig angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ludwig angina is diagnosed through physical exam, imaging tests like CT scans, and blood tests to check for infection and inflammation markers.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is Ludwig angina and how does it affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ludwig angina is a serious infection in the floor of the mouth that can cause swelling, difficulty breathing, and potential blockage of the airway.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for Ludwig angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for Ludwig angina include antibiotics, drainage of the abscess, and in severe cases, a surgical airway may be necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of Ludwig angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of Ludwig angina include swelling in the neck, difficulty swallowing, drooling, fever, and difficulty breathing. Seek medical attention immediately if experiencing these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Ludwig angina cause breathing difficulties?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Ludwig angina can cause breathing difficulties due to swelling in the neck that can obstruct the airway. It is a serious medical emergency.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does Ludwig angina affect the throat and mouth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ludwig angina causes severe swelling in the throat and mouth, leading to difficulty swallowing, breathing, and speaking. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat and manage Ludwig angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats and manages Ludwig angina with a combination of antibiotics, drainage of abscesses, and airway management to ensure proper breathing.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with Ludwig angina if left untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If left untreated, Ludwig angina can lead to airway obstruction, difficulty breathing, and potentially life-threatening complications. Prompt medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of Ludwig angina if not addressed early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Without early intervention, Ludwig angina can lead to airway obstruction, sepsis, and even death. Seek immediate medical attention if symptoms arise.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is Ludwig angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ludwig angina is diagnosed through physical exam, imaging tests like CT scans, and blood tests to check for infection and inflammation markers.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive measures can be taken to avoid Ludwig angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining good oral hygiene, promptly treating dental infections, and avoiding tobacco use can help prevent Ludwig angina.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for Ludwig angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for Ludwig angina include antibiotics, drainage of the abscess, and in severe cases, a surgical airway may be necessary.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Ludwig angina cause breathing difficulties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Ludwig angina can cause breathing difficulties due to swelling in the neck that can obstruct the airway. It is a serious medical emergency.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential complications of Ludwig angina if not addressed early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without early intervention, Ludwig angina can lead to airway obstruction, sepsis, and even death. Seek immediate medical attention if symptoms arise.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive measures can be taken to avoid Ludwig angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining good oral hygiene, promptly treating dental infections, and avoiding tobacco use can help prevent Ludwig angina.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -427,8 +399,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover treat and manage Ludwig angina?</p>
 
 
 

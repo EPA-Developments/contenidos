@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why is aortic aneurysm surgery crucial for survival?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic aneurysm surgery is crucial for survival as it prevents the risk of rupture, which can lead to life-threatening internal bleeding and sudden death.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks of not undergoing surgery for an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not undergoing surgery for an aortic aneurysm can lead to the aneurysm rupturing, causing life-threatening bleeding and potentially fatal complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does surgery help prevent aortic aneurysm rupture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery can repair weakened artery walls to prevent rupture, reducing risk of life-threatening bleeding. It is critical for survival in aortic aneurysm cases.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the survival rate for aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The survival rate for aortic aneurysm surgery is around 90%, making it critical for saving lives and preventing potentially fatal complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover ensure the success of aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover ensures aortic aneurysm surgery success through skilled surgeons, advanced technology, and personalized care to improve patient outcomes and ensure a successful recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why is aortic aneurysm surgery crucial for survival?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic aneurysm surgery is crucial for survival as it prevents the risk of rupture, which can lead to life-threatening internal bleeding and sudden death.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm benefits of undergoing surgery for an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term benefits of aortic aneurysm surgery include preventing rupture, improving overall health, and increasing life expectancy. It is critical for survival.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of not undergoing surgery for an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not undergoing surgery for an aortic aneurysm can lead to the aneurysm rupturing, causing life-threatening bleeding and potentially fatal complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications can arise if surgery is delayed for an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Delaying surgery for an aortic aneurysm can lead to rupture, internal bleeding, and potentially life-threatening complications. Early intervention is crucial for a successful outcome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does surgery help prevent aortic aneurysm rupture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery can repair weakened artery walls to prevent rupture, reducing risk of life-threatening bleeding. It is critical for survival in aortic aneurysm cases.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does surgery impact the overall prognosis of aortic aneurysm patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for aortic aneurysms can significantly improve the overall prognosis by preventing rupture and potentially fatal complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the survival rate for aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The survival rate for aortic aneurysm surgery is around 90%, making it critical for saving lives and preventing potentially fatal complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should patients know before deciding to undergo surgery for an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients should know that surgery for an aortic aneurysm is critical for survival as it can prevent rupture and potentially life-threatening complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the longterm benefits of undergoing surgery for an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term benefits of aortic aneurysm surgery include preventing rupture, improving overall health, and increasing life expectancy. It is critical for survival.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can surgery improve quality of life for those with an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery can repair an aortic aneurysm, preventing rupture and potentially saving lives, improving overall quality of life and reducing the risk of complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What complications can arise if surgery is delayed for an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delaying surgery for an aortic aneurysm can lead to rupture, internal bleeding, and potentially life-threatening complications. Early intervention is crucial for a successful outcome.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does surgery impact the overall prognosis of aortic aneurysm patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for aortic aneurysms can significantly improve the overall prognosis by preventing rupture and potentially fatal complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should patients know before deciding to undergo surgery for an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients should know that surgery for an aortic aneurysm is critical for survival as it can prevent rupture and potentially life-threatening complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can surgery improve quality of life for those with an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery can repair an aortic aneurysm, preventing rupture and potentially saving lives, improving overall quality of life and reducing the risk of complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -457,8 +429,6 @@
 
 
 
-        <h3>How does Medicover ensure the success of aortic aneurysm surgery?</h3>
-        <p>Medicover ensures aortic aneurysm surgery success through skilled surgeons, advanced technology, and personalized care to improve patient outcomes and ensure a successful recovery.</p>
 
 
 

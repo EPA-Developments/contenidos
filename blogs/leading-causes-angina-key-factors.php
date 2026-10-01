@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the leading causes of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The leading causes of angina are usually related to coronary artery disease, which is caused by a buildup of plaque in the arteries that supply blood to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does atherosclerosis contribute to angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Atherosclerosis causes narrowing of coronary arteries, reducing blood flow to the heart muscle. This lack of oxygen can trigger angina symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does high blood pressure play in the development of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can lead to the narrowing of arteries, reducing blood flow to the heart and causing angina due to lack of oxygen-rich blood reaching the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can diabetes increase the risk of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, diabetes can increase the risk of angina by damaging blood vessels and nerves, leading to reduced blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover diagnose the underlying causes of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses the underlying causes of angina through a combination of medical history review, physical exams, blood tests, imaging tests, and stress tests.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the leading causes of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The leading causes of angina are usually related to coronary artery disease, which is caused by a buildup of plaque in the arteries that supply blood to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does smoking affect the development of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking can increase the risk of developing angina by constricting blood vessels, reducing oxygen supply to the heart, and promoting plaque buildup in arteries.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does atherosclerosis contribute to angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Atherosclerosis causes narrowing of coronary arteries, reducing blood flow to the heart muscle. This lack of oxygen can trigger angina symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does high cholesterol play in angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High cholesterol can lead to plaque buildup in arteries, causing them to narrow and restrict blood flow to the heart, triggering angina symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does high blood pressure play in the development of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can lead to the narrowing of arteries, reducing blood flow to the heart and causing angina due to lack of oxygen-rich blood reaching the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can a family history of heart disease increase the risk of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, a family history of heart disease can increase the risk of developing angina. Genetics play a significant role in the development of this condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can diabetes increase the risk of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, diabetes can increase the risk of angina by damaging blood vessels and nerves, leading to reduced blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does stress contribute to angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stress can increase heart rate and blood pressure, leading to reduced blood flow to the heart and triggering angina symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does smoking affect the development of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking can increase the risk of developing angina by constricting blood vessels, reducing oxygen supply to the heart, and promoting plaque buildup in arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can physical inactivity lead to angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, physical inactivity can lead to angina. Regular exercise helps maintain a healthy heart and reduce the risk of developing angina.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What role does high cholesterol play in angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High cholesterol can lead to plaque buildup in arteries, causing them to narrow and restrict blood flow to the heart, triggering angina symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a family history of heart disease increase the risk of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a family history of heart disease can increase the risk of developing angina. Genetics play a significant role in the development of this condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does stress contribute to angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stress can increase heart rate and blood pressure, leading to reduced blood flow to the heart and triggering angina symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can physical inactivity lead to angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, physical inactivity can lead to angina. Regular exercise helps maintain a healthy heart and reduce the risk of developing angina.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -491,8 +463,6 @@
 
 
 
-        <h3>How does Medicover diagnose the underlying causes of angina?</h3>
-        <p>Medicover diagnoses the underlying causes of angina through a combination of medical history review, physical exams, blood tests, imaging tests, and stress tests.</p>
 
 
 

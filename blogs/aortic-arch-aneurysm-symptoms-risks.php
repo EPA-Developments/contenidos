@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an aortic arch aneurysm and how does it differ from other types of aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic arch aneurysm is a bulge in the main blood vessel in the heart that can be life-threatening if it bursts. It differs from other aneurysms due to its location near the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an aortic arch aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an aortic arch aneurysm may include chest or back pain, shortness of breath, hoarseness, coughing, difficulty swallowing, and a pulsating lump in the neck.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can an aortic arch aneurysm affect overall health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic arch aneurysm can impact overall health by potentially causing chest pain, difficulty breathing, and increasing the risk of serious complications like aortic dissection or rupture.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with an aortic arch aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks associated with an aortic arch aneurysm include potential rupture, blood clots, stroke, and organ damage due to decreased blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an aortic arch aneurysm diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic arch aneurysm is typically diagnosed through imaging tests like CT scans, MRIs, or echocardiograms to visualize the condition of the blood vessels.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an aortic arch aneurysm and how does it differ from other types of aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic arch aneurysm is a bulge in the main blood vessel in the heart that can be life-threatening if it bursts. It differs from other aneurysms due to its location near the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for an aortic arch aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for an aortic arch aneurysm may include surveillance, medications, endovascular stent grafting, or open surgical repair.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an aortic arch aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an aortic arch aneurysm may include chest or back pain, shortness of breath, hoarseness, coughing, difficulty swallowing, and a pulsating lump in the neck.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat patients with an aortic arch aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats aortic arch aneurysms with advanced imaging, monitoring, and surgical intervention to reduce risks and ensure optimal patient care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can an aortic arch aneurysm affect overall health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic arch aneurysm can impact overall health by potentially causing chest pain, difficulty breathing, and increasing the risk of serious complications like aortic dissection or rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for individuals diagnosed with an aortic arch aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for individuals with an aortic arch aneurysm varies depending on size, location, and underlying health conditions. Early detection and proper treatment can improve outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with an aortic arch aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks associated with an aortic arch aneurysm include potential rupture, blood clots, stroke, and organ damage due to decreased blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an aortic arch aneurysm be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular monitoring and management of blood pressure, cholesterol levels, and smoking cessation can help reduce the risk of developing an aortic arch aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an aortic arch aneurysm diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic arch aneurysm is typically diagnosed through imaging tests like CT scans, MRIs, or echocardiograms to visualize the condition of the blood vessels.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early detection of an aortic arch aneurysm improve outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early detection of an aortic arch aneurysm allows for prompt intervention, reducing the risk of complications like dissection or rupture, and improving overall outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for an aortic arch aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for an aortic arch aneurysm may include surveillance, medications, endovascular stent grafting, or open surgical repair.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the prognosis for individuals diagnosed with an aortic arch aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for individuals with an aortic arch aneurysm varies depending on size, location, and underlying health conditions. Early detection and proper treatment can improve outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an aortic arch aneurysm be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular monitoring and management of blood pressure, cholesterol levels, and smoking cessation can help reduce the risk of developing an aortic arch aneurysm.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early detection of an aortic arch aneurysm improve outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early detection of an aortic arch aneurysm allows for prompt intervention, reducing the risk of complications like dissection or rupture, and improving overall outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -452,8 +424,6 @@
 
 
 
-        <h3>How does Medicover treat patients with an aortic arch aneurysm?</h3>
-        <p>Medicover treats aortic arch aneurysms with advanced imaging, monitoring, and surgical intervention to reduce risks and ensure optimal patient care.</p>
 
 
 

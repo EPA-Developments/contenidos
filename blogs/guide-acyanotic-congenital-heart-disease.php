@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is acyanotic congenital heart disease (CHD)?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acyanotic CHD refers to a group of heart defects present at birth that affect blood flow but do not cause a bluish discoloration of the skin due to low oxygen levels.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does acyanotic CHD differ from cyanotic CHD?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acyanotic CHD involves defects that cause oxygen-rich blood to mix with oxygen-poor blood, while cyanotic CHD results in decreased oxygen levels in the blood.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of acyanotic congenital heart disease include fatigue, rapid breathing, poor growth, and frequent respiratory infections. Early diagnosis and treatment are essential.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is acyanotic congenital heart disease diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acyanotic congenital heart disease is diagnosed through physical exams, imaging tests (echocardiogram, MRI), and possibly cardiac catheterization.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the primary causes of acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The primary causes of acyanotic congenital heart disease are septal defects, valve abnormalities, and abnormalities in the blood vessels near the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is acyanotic congenital heart disease (CHD)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acyanotic CHD refers to a group of heart defects present at birth that affect blood flow but do not cause a bluish discoloration of the skin due to low oxygen levels.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does acyanotic CHD affect overall health and development?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acyanotic CHD can impact overall health and development by causing symptoms like fatigue, poor growth, and trouble breathing. Early detection and management are key for optimal outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does acyanotic CHD differ from cyanotic CHD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acyanotic CHD involves defects that cause oxygen-rich blood to mix with oxygen-poor blood, while cyanotic CHD results in decreased oxygen levels in the blood.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of surgery in treating acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery plays a crucial role in treating acyanotic congenital heart disease by repairing structural defects and improving heart function for better long-term outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of acyanotic congenital heart disease include fatigue, rapid breathing, poor growth, and frequent respiratory infections. Early diagnosis and treatment are essential.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can acyanotic congenital heart disease be managed without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, some cases of acyanotic congenital heart disease can be managed without surgery through medication, lifestyle changes, monitoring, and other non-invasive treatments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acyanotic congenital heart disease diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acyanotic congenital heart disease is diagnosed through physical exams, imaging tests (echocardiogram, MRI), and possibly cardiac catheterization.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in the diagnosis and management of acyanotic CHD?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in diagnosing and managing acyanotic CHD through advanced imaging, specialized testing, and personalized treatment plans tailored to each patient's specific needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary causes of acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary causes of acyanotic congenital heart disease are septal defects, valve abnormalities, and abnormalities in the blood vessels near the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle modifications aid in managing acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modifications such as maintaining a healthy diet, regular exercise, and avoiding smoking can help manage acyanotic congenital heart disease and improve overall heart health.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does acyanotic CHD affect overall health and development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acyanotic CHD can impact overall health and development by causing symptoms like fatigue, poor growth, and trouble breathing. Early detection and management are key for optimal outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of surgery in treating acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery plays a crucial role in treating acyanotic congenital heart disease by repairing structural defects and improving heart function for better long-term outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can acyanotic congenital heart disease be managed without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, some cases of acyanotic congenital heart disease can be managed without surgery through medication, lifestyle changes, monitoring, and other non-invasive treatments.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle modifications aid in managing acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modifications such as maintaining a healthy diet, regular exercise, and avoiding smoking can help manage acyanotic congenital heart disease and improve overall heart health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -452,8 +424,6 @@
 
 
 
-        <h3>How can Medicover help in the diagnosis and management of acyanotic CHD?</h3>
-        <p>Medicover can assist in diagnosing and managing acyanotic CHD through advanced imaging, specialized testing, and personalized treatment plans tailored to each patient's specific needs.</p>
 
 
 

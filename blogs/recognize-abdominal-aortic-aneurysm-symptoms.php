@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the early symptoms of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early symptoms of an abdominal aortic aneurysm may include a pulsating sensation in the abdomen, back or side pain, and a deep, constant ache.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you tell if you have an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You can tell if you have an abdominal aortic aneurysm by watching for symptoms like abdominal pain, pulsating sensation in the abdomen, and back pain. Early detection is key.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is abdominal pain a common symptom of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, abdominal pain can be a common symptom of an abdominal aortic aneurysm. It is important to seek medical attention if you experience sudden or severe abdominal pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does back pain relate to abdominal aortic aneurysm symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Back pain can be a symptom of an abdominal aortic aneurysm, especially if it is severe and persistent. Seek medical attention if you experience this.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you experience symptoms of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you experience symptoms of an abdominal aortic aneurysm, seek immediate medical attention to prevent potential complications or rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the early symptoms of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early symptoms of an abdominal aortic aneurysm may include a pulsating sensation in the abdomen, back or side pain, and a deep, constant ache.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose abdominal aortic aneurysms in their early stages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses ultrasound or CT scans to detect abdominal aortic aneurysms early, helping to prevent complications and ensure timely treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you tell if you have an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can tell if you have an abdominal aortic aneurysm by watching for symptoms like abdominal pain, pulsating sensation in the abdomen, and back pain. Early detection is key.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can abdominal aortic aneurysms be detected through routine checkups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic aneurysms can be detected through routine checkups, especially with ultrasound screening for those at higher risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is abdominal pain a common symptom of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, abdominal pain can be a common symptom of an abdominal aortic aneurysm. It is important to seek medical attention if you experience sudden or severe abdominal pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is early detection of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early detection of an abdominal aortic aneurysm is crucial as it can prevent potentially life-threatening complications like rupture. Regular screenings are key for early intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does back pain relate to abdominal aortic aneurysm symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Back pain can be a symptom of an abdominal aortic aneurysm, especially if it is severe and persistent. Seek medical attention if you experience this.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What tests are used to confirm the presence of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests such as ultrasound, CT scan, and MRI are used to confirm the presence of an abdominal aortic aneurysm. Early detection is key for treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you experience symptoms of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience symptoms of an abdominal aortic aneurysm, seek immediate medical attention to prevent potential complications or rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can early recognition of symptoms lead to better treatment outcomes for abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early recognition of symptoms like persistent abdominal or back pain can lead to prompt diagnosis and treatment, preventing potential complications from abdominal aortic aneurysms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can abdominal aortic aneurysms be detected through routine checkups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic aneurysms can be detected through routine checkups, especially with ultrasound screening for those at higher risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is early detection of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early detection of an abdominal aortic aneurysm is crucial as it can prevent potentially life-threatening complications like rupture. Regular screenings are key for early intervention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tests are used to confirm the presence of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests such as ultrasound, CT scan, and MRI are used to confirm the presence of an abdominal aortic aneurysm. Early detection is key for treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can early recognition of symptoms lead to better treatment outcomes for abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early recognition of symptoms like persistent abdominal or back pain can lead to prompt diagnosis and treatment, preventing potential complications from abdominal aortic aneurysms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -428,8 +400,6 @@
 
 
 
-        <h3>How does Medicover diagnose abdominal aortic aneurysms in their early stages?</h3>
-        <p>Medicover uses ultrasound or CT scans to detect abdominal aortic aneurysms early, helping to prevent complications and ensure timely treatment.</p>
 
 
 

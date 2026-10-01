@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an infrarenal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An infrarenal aortic aneurysm is a bulging or weakening in the lower part of the aorta, which can be life-threatening if it ruptures.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why are infrarenal aortic aneurysms considered particularly dangerous?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Infrarenal aortic aneurysms are dangerous because they can grow and potentially rupture, leading to life-threatening internal bleeding.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do infrarenal aortic aneurysms affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Infrarenal aortic aneurysms can lead to serious complications like rupture or blockage of blood flow, which can be life-threatening if left untreated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an infrarenal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an infrarenal aortic aneurysm may include abdominal or back pain, a pulsating sensation in the abdomen, and potentially life-threatening complications if it ruptures.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are infrarenal aortic aneurysms diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Infrarenal aortic aneurysms are diagnosed through imaging tests like ultrasound, CT scans, or MRI to assess the size and location of the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an infrarenal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrarenal aortic aneurysm is a bulging or weakening in the lower part of the aorta, which can be life-threatening if it ruptures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for infrarenal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for infrarenal aortic aneurysms include watchful waiting, medication, endovascular repair, or open surgical repair.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why are infrarenal aortic aneurysms considered particularly dangerous?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Infrarenal aortic aneurysms are dangerous because they can grow and potentially rupture, leading to life-threatening internal bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat infrarenal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats infrarenal aortic aneurysms through minimally invasive endovascular procedures, such as stent graft placement, to repair the weakened artery and prevent rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do infrarenal aortic aneurysms affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Infrarenal aortic aneurysms can lead to serious complications like rupture or blockage of blood flow, which can be life-threatening if left untreated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes reduce the risk of infrarenal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, making lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of infrarenal aortic aneurysms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an infrarenal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an infrarenal aortic aneurysm may include abdominal or back pain, a pulsating sensation in the abdomen, and potentially life-threatening complications if it ruptures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is the risk of rupture with infrarenal aortic aneurysms assessed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk of rupture with infrarenal aortic aneurysms is assessed through imaging studies like ultrasound, CT scans, or MRIs to measure size and monitor growth over time.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are infrarenal aortic aneurysms diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Infrarenal aortic aneurysms are diagnosed through imaging tests like ultrasound, CT scans, or MRI to assess the size and location of the aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How urgent is it to treat an infrarenal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treating an infrarenal aortic aneurysm is urgent because it can lead to life-threatening complications like rupture, which has a high mortality rate.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for infrarenal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for infrarenal aortic aneurysms include watchful waiting, medication, endovascular repair, or open surgical repair.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes reduce the risk of infrarenal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, making lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help reduce the risk of infrarenal aortic aneurysms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the risk of rupture with infrarenal aortic aneurysms assessed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk of rupture with infrarenal aortic aneurysms is assessed through imaging studies like ultrasound, CT scans, or MRIs to measure size and monitor growth over time.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How urgent is it to treat an infrarenal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treating an infrarenal aortic aneurysm is urgent because it can lead to life-threatening complications like rupture, which has a high mortality rate.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -436,8 +408,6 @@
 
 
 
-        <h3>How does Medicover treat infrarenal aortic aneurysms?</h3>
-        <p>Medicover treats infrarenal aortic aneurysms through minimally invasive endovascular procedures, such as stent graft placement, to repair the weakened artery and prevent rupture.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What should you expect during recovery 6 months after aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During recovery 6 months after aortic valve replacement, you can expect improved energy levels, reduced symptoms like chest pain or shortness of breath, and a gradual return to normal activities.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic valve function monitored postsurgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic valve function is monitored through regular follow-up appointments, echocardiograms, and possibly stress tests to ensure the replacement valve is working properly.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle changes should be made after aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "After aortic valve replacement, patients should focus on maintaining a heart-healthy diet, engaging in regular exercise, quitting smoking, and attending follow-up appointments.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there any longterm complications following aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term complications after aortic valve replacement can include valve degeneration, infection, or blood clots. Regular follow-ups are important.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover support patients 6 months after aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides ongoing monitoring, follow-up appointments, and support services to patients 6 months after aortic valve replacement to ensure optimal recovery and long-term health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you expect during recovery 6 months after aortic valve replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During recovery 6 months after aortic valve replacement, you can expect improved energy levels, reduced symptoms like chest pain or shortness of breath, and a gradual return to normal activities.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What activities can be safely resumed 6 months after surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "After 6 months, most patients can safely resume low-impact activities like walking, light jogging, swimming, and gentle weightlifting post aortic valve replacement.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic valve function monitored postsurgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic valve function is monitored through regular follow-up appointments, echocardiograms, and possibly stress tests to ensure the replacement valve is working properly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How often should followup appointments be scheduled after aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Follow-up appointments after aortic valve replacement should typically be scheduled every 6-12 months to ensure proper recovery and monitor heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes should be made after aortic valve replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After aortic valve replacement, patients should focus on maintaining a heart-healthy diet, engaging in regular exercise, quitting smoking, and attending follow-up appointments.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs of complications to watch for after aortic valve replacement?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of complications after aortic valve replacement include chest pain, shortness of breath, fever, swelling, or irregular heartbeat. Contact your healthcare provider if you experience any of these symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there any longterm complications following aortic valve replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term complications after aortic valve replacement can include valve degeneration, infection, or blood clots. Regular follow-ups are important.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does recovery progress after aortic valve replacement surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery post-aortic valve replacement surgery typically sees significant improvement by 6 months, with reduced pain, increased energy, and improved overall heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What activities can be safely resumed 6 months after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After 6 months, most patients can safely resume low-impact activities like walking, light jogging, swimming, and gentle weightlifting post aortic valve replacement.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic valve replacement improve quality of life for patients with severe valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic valve replacement can significantly improve quality of life for patients with severe valve disease by restoring proper heart function and reducing symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How often should followup appointments be scheduled after aortic valve replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow-up appointments after aortic valve replacement should typically be scheduled every 6-12 months to ensure proper recovery and monitor heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs of complications to watch for after aortic valve replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of complications after aortic valve replacement include chest pain, shortness of breath, fever, swelling, or irregular heartbeat. Contact your healthcare provider if you experience any of these symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does recovery progress after aortic valve replacement surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery post-aortic valve replacement surgery typically sees significant improvement by 6 months, with reduced pain, increased energy, and improved overall heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic valve replacement improve quality of life for patients with severe valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic valve replacement can significantly improve quality of life for patients with severe valve disease by restoring proper heart function and reducing symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -419,8 +391,6 @@
 
 
 
-        <h3>How does Medicover support patients 6 months after aortic valve replacement?</h3>
-        <p>Medicover provides ongoing monitoring, follow-up appointments, and support services to patients 6 months after aortic valve replacement to ensure optimal recovery and long-term health.</p>
 
 
 

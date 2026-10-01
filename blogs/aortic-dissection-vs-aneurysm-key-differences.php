@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the difference between an aortic dissection and an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic dissection is a tear in the aorta's inner layer, while an aortic aneurysm is a bulge in the aorta's wall. Both are serious conditions that require medical attention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you tell if you have an aortic dissection or an aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of aortic dissection include sudden, severe chest or back pain, while an aneurysm may present as a pulsating abdominal mass. Seek medical help immediately.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of an aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of an aortic dissection include sudden, severe chest or back pain, shortness of breath, and a difference in blood pressure between arms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the signs of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of an aortic aneurysm include sudden severe chest or back pain, shortness of breath, dizziness, and a pulsating sensation in the abdomen.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an aortic dissection diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic dissection is diagnosed using imaging tests like CT scans or MRIs to visualize the tear in the aortic wall.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the difference between an aortic dissection and an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic dissection is a tear in the aorta's inner layer, while an aortic aneurysm is a bulge in the aorta's wall. Both are serious conditions that require medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does treatment differ for an aortic dissection versus an aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for aortic dissection usually requires emergency surgery, while aneurysms may be monitored and only require surgery if they grow or pose a risk of rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you tell if you have an aortic dissection or an aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of aortic dissection include sudden, severe chest or back pain, while an aneurysm may present as a pulsating abdominal mass. Seek medical help immediately.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an aortic aneurysm lead to a dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, an aortic aneurysm can lead to a dissection if it ruptures or tears the inner layers of the aorta. It's important to monitor and address aneurysms promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of an aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of an aortic dissection include sudden, severe chest or back pain, shortness of breath, and a difference in blood pressure between arms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What risks are associated with aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection carries risks of organ damage, stroke, and death due to sudden rupture. It requires immediate medical attention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of an aortic aneurysm include sudden severe chest or back pain, shortness of breath, dizziness, and a pulsating sensation in the abdomen.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is aortic dissection managed at Medicover?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection at Medicover is managed with prompt diagnosis, medication to control blood pressure, and potentially surgery to repair the damaged aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an aortic dissection diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic dissection is diagnosed using imaging tests like CT scans or MRIs to visualize the tear in the aortic wall.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How urgent is it to seek medical care for an aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Seek immediate medical care for an aortic dissection as it is a life-threatening emergency that requires prompt treatment to prevent serious complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does treatment differ for an aortic dissection versus an aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for aortic dissection usually requires emergency surgery, while aneurysms may be monitored and only require surgery if they grow or pose a risk of rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an aortic aneurysm lead to a dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an aortic aneurysm can lead to a dissection if it ruptures or tears the inner layers of the aorta. It's important to monitor and address aneurysms promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What risks are associated with aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection carries risks of organ damage, stroke, and death due to sudden rupture. It requires immediate medical attention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How urgent is it to seek medical care for an aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek immediate medical care for an aortic dissection as it is a life-threatening emergency that requires prompt treatment to prevent serious complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -459,8 +431,6 @@
 
 
 
-        <h3>How is aortic dissection managed at Medicover?</h3>
-        <p>Aortic dissection at Medicover is managed with prompt diagnosis, medication to control blood pressure, and potentially surgery to repair the damaged aorta.</p>
 
 
 

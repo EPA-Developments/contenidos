@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is angiopathy and how does it affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angiopathy is a disease of blood vessels that can lead to complications like poor circulation, organ damage, and increased risk of heart disease or stroke.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes angiopathy to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angiopathy develops due to damage to blood vessels, often caused by conditions like diabetes, high blood pressure, or inflammation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is angiopathy diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angiopathy is diagnosed through imaging tests like ultrasounds, MRIs, and angiograms, as well as blood tests and physical exams.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of angiopathy may include pain or cramping in the legs, changes in skin color or temperature, slow-healing wounds, and vision changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can angiopathy affect all parts of the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angiopathy can affect all parts of the body. It is a condition that involves damage to blood vessels and can impact various organs and tissues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is angiopathy and how does it affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angiopathy is a disease of blood vessels that can lead to complications like poor circulation, organ damage, and increased risk of heart disease or stroke.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is angiopathy treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angiopathy is treated by managing underlying conditions like diabetes or hypertension, improving lifestyle habits, and in severe cases, surgery or medication may be necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes angiopathy to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angiopathy develops due to damage to blood vessels, often caused by conditions like diabetes, high blood pressure, or inflammation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to treating angiopathy, focusing on managing underlying conditions, improving circulation, and preventing complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is angiopathy diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angiopathy is diagnosed through imaging tests like ultrasounds, MRIs, and angiograms, as well as blood tests and physical exams.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of untreated angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angiopathy can lead to serious complications like heart disease, stroke, kidney failure, and vision problems. Early detection and management are key.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of angiopathy may include pain or cramping in the legs, changes in skin color or temperature, slow-healing wounds, and vision changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any lifestyle changes that can help manage angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy diet, regular exercise, managing blood sugar levels, quitting smoking, and controlling blood pressure can help manage angiopathy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angiopathy affect all parts of the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angiopathy can affect all parts of the body. It is a condition that involves damage to blood vessels and can impact various organs and tissues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the outlook for someone diagnosed with angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The outlook for someone diagnosed with angiopathy varies depending on the underlying cause and individual health factors. Regular monitoring and treatment can help manage symptoms and improve quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How is angiopathy treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angiopathy is treated by managing underlying conditions like diabetes or hypertension, improving lifestyle habits, and in severe cases, surgery or medication may be necessary.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of untreated angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angiopathy can lead to serious complications like heart disease, stroke, kidney failure, and vision problems. Early detection and management are key.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any lifestyle changes that can help manage angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy diet, regular exercise, managing blood sugar levels, quitting smoking, and controlling blood pressure can help manage angiopathy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the outlook for someone diagnosed with angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The outlook for someone diagnosed with angiopathy varies depending on the underlying cause and individual health factors. Regular monitoring and treatment can help manage symptoms and improve quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -442,8 +414,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of angiopathy?</p>
 
 
 

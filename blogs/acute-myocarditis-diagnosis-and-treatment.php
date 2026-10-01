@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How is acute myocarditis diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute myocarditis is diagnosed through a combination of medical history, physical exam, blood tests, imaging tests like MRI or CT scan, and sometimes a heart biopsy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What tests are used to confirm acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests used to confirm acute myocarditis include blood tests, electrocardiogram (ECG), echocardiogram, cardiac MRI, and endomyocardial biopsy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for acute myocarditis may include rest, medications to reduce inflammation, manage symptoms, and treat underlying causes, and in severe cases, advanced therapies like ventricular assist devices or heart transplant.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is medication used in the treatment of acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication for acute myocarditis may include anti-inflammatory drugs, diuretics, and medications to support heart function and reduce strain on the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there surgical interventions for severe cases of acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "In severe cases of acute myocarditis, surgical interventions such as heart transplant may be considered as a treatment option.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acute myocarditis diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute myocarditis is diagnosed through a combination of medical history, physical exam, blood tests, imaging tests like MRI or CT scan, and sometimes a heart biopsy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not treating acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated acute myocarditis can lead to serious complications like heart failure, arrhythmias, and even sudden cardiac death. Treatment is crucial for a positive outcome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What tests are used to confirm acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests used to confirm acute myocarditis include blood tests, electrocardiogram (ECG), echocardiogram, cardiac MRI, and endomyocardial biopsy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help in the diagnosis and treatment of acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover offers advanced diagnostic tests like MRI and blood work to accurately diagnose acute myocarditis. Treatment options may include medications and lifestyle changes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for acute myocarditis may include rest, medications to reduce inflammation, manage symptoms, and treat underlying causes, and in severe cases, advanced therapies like ventricular assist devices or heart transplant.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can acute myocarditis be treated successfully with early intervention?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, acute myocarditis can be treated successfully with early intervention such as medications, rest, and monitoring to prevent complications and promote recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is medication used in the treatment of acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication for acute myocarditis may include anti-inflammatory drugs, diuretics, and medications to support heart function and reduce strain on the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does acute myocarditis impact longterm heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute myocarditis can lead to long-term heart complications like heart failure or arrhythmias if left untreated. Prompt diagnosis and treatment are crucial for preserving heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there surgical interventions for severe cases of acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In severe cases of acute myocarditis, surgical interventions such as heart transplant may be considered as a treatment option.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the chances of recovery from acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery from acute myocarditis varies, but with proper treatment and monitoring, many patients experience full recovery. Early detection is key for better outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risks of not treating acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated acute myocarditis can lead to serious complications like heart failure, arrhythmias, and even sudden cardiac death. Treatment is crucial for a positive outcome.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can acute myocarditis be treated successfully with early intervention?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acute myocarditis can be treated successfully with early intervention such as medications, rest, and monitoring to prevent complications and promote recovery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does acute myocarditis impact longterm heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute myocarditis can lead to long-term heart complications like heart failure or arrhythmias if left untreated. Prompt diagnosis and treatment are crucial for preserving heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the chances of recovery from acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery from acute myocarditis varies, but with proper treatment and monitoring, many patients experience full recovery. Early detection is key for better outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -413,8 +385,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover help in the diagnosis and treatment of acute myocarditis?</p>
 
 
 

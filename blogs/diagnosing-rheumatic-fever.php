@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What tests are used to diagnose rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests used to diagnose rheumatic fever include blood tests for inflammation markers, throat swabs for strep bacteria, and an ECG to check heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a doctor confirm a diagnosis of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A doctor confirms a diagnosis of rheumatic fever by conducting a physical exam, reviewing symptoms, running blood tests, and possibly ordering an echocardiogram.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the major criteria used to diagnose rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The major criteria used to diagnose rheumatic fever include joint pain, fever, heart inflammation, and a history of strep throat infection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a throat culture used in diagnosing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A throat culture is used to identify group A streptococcus bacteria, which can trigger rheumatic fever. If the culture is positive, it may indicate a recent strep infection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of blood tests in diagnosing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood tests play a key role in diagnosing rheumatic fever by detecting elevated levels of inflammation markers and specific antibodies that indicate an immune response to a previous strep infection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What tests are used to diagnose rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests used to diagnose rheumatic fever include blood tests for inflammation markers, throat swabs for strep bacteria, and an ECG to check heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover utilize advanced diagnostic tools for detecting rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced diagnostic tools like blood tests, throat swabs, and echocardiograms to detect rheumatic fever early and accurately.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a doctor confirm a diagnosis of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A doctor confirms a diagnosis of rheumatic fever by conducting a physical exam, reviewing symptoms, running blood tests, and possibly ordering an echocardiogram.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the key signs that a doctor looks for in the physical examination of a rheumatic fever patient?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During a physical exam for rheumatic fever, doctors look for key signs like joint swelling, redness, fever, skin rashes, and heart murmurs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the major criteria used to diagnose rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The major criteria used to diagnose rheumatic fever include joint pain, fever, heart inflammation, and a history of strep throat infection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can rheumatic fever be diagnosed in its early stages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, rheumatic fever can be diagnosed in its early stages through a combination of physical exams, blood tests, and imaging studies to assess heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a throat culture used in diagnosing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A throat culture is used to identify group A streptococcus bacteria, which can trigger rheumatic fever. If the culture is positive, it may indicate a recent strep infection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is it to start treatment immediately after diagnosing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is crucial to start treatment immediately after diagnosing rheumatic fever to prevent complications and reduce the risk of heart damage.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of blood tests in diagnosing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood tests play a key role in diagnosing rheumatic fever by detecting elevated levels of inflammation markers and specific antibodies that indicate an immune response to a previous strep infection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the challenges in diagnosing rheumatic fever and how can they be overcome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Challenges in diagnosing rheumatic fever include its nonspecific symptoms. Overcome by thorough medical history, physical exams, blood tests, and echocardiograms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the key signs that a doctor looks for in the physical examination of a rheumatic fever patient?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a physical exam for rheumatic fever, doctors look for key signs like joint swelling, redness, fever, skin rashes, and heart murmurs.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can rheumatic fever be diagnosed in its early stages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, rheumatic fever can be diagnosed in its early stages through a combination of physical exams, blood tests, and imaging studies to assess heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is it to start treatment immediately after diagnosing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is crucial to start treatment immediately after diagnosing rheumatic fever to prevent complications and reduce the risk of heart damage.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the challenges in diagnosing rheumatic fever and how can they be overcome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenges in diagnosing rheumatic fever include its nonspecific symptoms. Overcome by thorough medical history, physical exams, blood tests, and echocardiograms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -418,8 +390,6 @@
 
 
 
-        <h3>How does Medicover utilize advanced diagnostic tools for detecting rheumatic fever?</h3>
-        <p>Medicover uses advanced diagnostic tools like blood tests, throat swabs, and echocardiograms to detect rheumatic fever early and accurately.</p>
 
 
 

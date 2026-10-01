@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is echocardiography and how is it used in diagnosing aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography is a non-invasive imaging test that uses sound waves to create pictures of the heart. It helps diagnose aortic dissection by visualizing the aorta and detecting abnormalities.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How accurate is echocardiography in detecting aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography is a valuable tool in detecting aortic dissection, with a reported sensitivity of around 80-90% and specificity of 80-95%.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the benefits of echocardiography compared to other diagnostic tools for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography is non-invasive, quick, and reliable for diagnosing aortic dissection, providing real-time images of the heart and aorta, guiding immediate treatment decisions.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can echocardiography detect all types of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography can detect some types of aortic dissection, but other imaging tests like CT or MRI may be needed for a comprehensive diagnosis.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does echocardiography help doctors monitor the progression of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography helps doctors visualize the aorta and assess the size, location, and severity of aortic dissection, allowing for ongoing monitoring of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is echocardiography and how is it used in diagnosing aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography is a non-invasive imaging test that uses sound waves to create pictures of the heart. It helps diagnose aortic dissection by visualizing the aorta and detecting abnormalities.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the limitations of echocardiography in diagnosing aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography may miss small dissections or provide limited views due to patient factors, making it less sensitive than other imaging modalities for aortic dissection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How accurate is echocardiography in detecting aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography is a valuable tool in detecting aortic dissection, with a reported sensitivity of around 80-90% and specificity of 80-95%.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover utilize echocardiography for aortic dissection diagnosis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses echocardiography to visualize the aorta and heart structures, aiding in the diagnosis of aortic dissection by detecting abnormalities.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the benefits of echocardiography compared to other diagnostic tools for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography is non-invasive, quick, and reliable for diagnosing aortic dissection, providing real-time images of the heart and aorta, guiding immediate treatment decisions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can echocardiography guide treatment decisions for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography can help identify the location, extent, and severity of aortic dissection, guiding decisions on medication, surgery, or other interventions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can echocardiography detect all types of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography can detect some types of aortic dissection, but other imaging tests like CT or MRI may be needed for a comprehensive diagnosis.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is echocardiography recommended as a routine screening for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Echocardiography is not routinely recommended for screening aortic dissection. However, it plays a critical role in diagnosing this life-threatening condition promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does echocardiography help doctors monitor the progression of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography helps doctors visualize the aorta and assess the size, location, and severity of aortic dissection, allowing for ongoing monitoring of the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What other diagnostic methods complement echocardiography in diagnosing aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "CT angiography and MRI are additional diagnostic methods that complement echocardiography in diagnosing aortic dissection.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the limitations of echocardiography in diagnosing aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography may miss small dissections or provide limited views due to patient factors, making it less sensitive than other imaging modalities for aortic dissection.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can echocardiography guide treatment decisions for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography can help identify the location, extent, and severity of aortic dissection, guiding decisions on medication, surgery, or other interventions.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is echocardiography recommended as a routine screening for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Echocardiography is not routinely recommended for screening aortic dissection. However, it plays a critical role in diagnosing this life-threatening condition promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What other diagnostic methods complement echocardiography in diagnosing aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CT angiography and MRI are additional diagnostic methods that complement echocardiography in diagnosing aortic dissection.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3>How does Medicover utilize echocardiography for aortic dissection diagnosis?</h3>
-        <p>Medicover uses echocardiography to visualize the aorta and heart structures, aiding in the diagnosis of aortic dissection by detecting abnormalities.</p>
 
 
 

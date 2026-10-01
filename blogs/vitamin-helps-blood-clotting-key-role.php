@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Which vitamin is most important for blood clotting?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vitamin K is the most important vitamin for blood clotting as it helps in the synthesis of clotting factors that are necessary for proper coagulation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does vitamin K contribute to the blood clotting process?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vitamin K helps blood clotting by activating proteins that are essential for forming blood clots. It plays a key role in the clotting process.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the effects of vitamin K deficiency on blood clotting?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vitamin K deficiency impairs blood clotting by reducing the production of clotting factors. This can lead to increased bleeding and longer healing times.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can vitamin supplements help with blood clotting issues?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, vitamin K plays a key role in blood clotting. Ensuring an adequate intake of vitamin K through diet or supplements can help with blood clotting issues.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does diet impact vitamin K levels?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diet influences vitamin K levels, crucial for blood clotting. Leafy greens, broccoli, and oils like soybean and canola are good sources.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Which vitamin is most important for blood clotting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vitamin K is the most important vitamin for blood clotting as it helps in the synthesis of clotting factors that are necessary for proper coagulation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there risks associated with too much vitamin K in the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, excessive vitamin K can lead to blood clotting problems. It is important to maintain a balanced intake to avoid complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does vitamin K contribute to the blood clotting process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vitamin K helps blood clotting by activating proteins that are essential for forming blood clots. It plays a key role in the clotting process.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in managing vitamin Krelated clotting issues?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can offer specialized testing, monitoring, and treatment options for individuals with vitamin K-related clotting issues to help manage their condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the effects of vitamin K deficiency on blood clotting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vitamin K deficiency impairs blood clotting by reducing the production of clotting factors. This can lead to increased bleeding and longer healing times.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the best food sources of vitamin K?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best food sources of vitamin K, which plays a key role in blood clotting, include leafy greens like spinach, kale, and broccoli, as well as foods like eggs, liver, and fish.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can vitamin supplements help with blood clotting issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, vitamin K plays a key role in blood clotting. Ensuring an adequate intake of vitamin K through diet or supplements can help with blood clotting issues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can other vitamins play a role in blood clotting?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, other vitamins like vitamin K, vitamin E, and vitamin C can also play a role in blood clotting, but vitamin K is the key player in this process.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does diet impact vitamin K levels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diet influences vitamin K levels, crucial for blood clotting. Leafy greens, broccoli, and oils like soybean and canola are good sources.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do healthcare providers manage blood clotting disorders linked to vitamin deficiencies?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Healthcare providers manage blood clotting disorders linked to vitamin deficiencies by prescribing vitamin K supplements to support proper blood coagulation.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there risks associated with too much vitamin K in the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, excessive vitamin K can lead to blood clotting problems. It is important to maintain a balanced intake to avoid complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the best food sources of vitamin K?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best food sources of vitamin K, which plays a key role in blood clotting, include leafy greens like spinach, kale, and broccoli, as well as foods like eggs, liver, and fish.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can other vitamins play a role in blood clotting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, other vitamins like vitamin K, vitamin E, and vitamin C can also play a role in blood clotting, but vitamin K is the key player in this process.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do healthcare providers manage blood clotting disorders linked to vitamin deficiencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Healthcare providers manage blood clotting disorders linked to vitamin deficiencies by prescribing vitamin K supplements to support proper blood coagulation.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover help in managing vitamin Krelated clotting issues?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a blood clot in the lung?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a blood clot in the lung include sudden chest pain, shortness of breath, rapid heart rate, and coughing up blood. It's crucial to seek immediate medical attention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can blood clots in the lung affect breathing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the lung can block blood flow, causing shortness of breath, chest pain, and even difficulty breathing, which can be life-threatening.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is at risk of developing blood clots in the lung?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals who smoke, are overweight, have a family history of blood clots, or are inactive are at risk of developing blood clots in the lung.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in the lung diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the lung are diagnosed through tests like CT scans, chest X-rays, and blood tests. Early detection is crucial for effective treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for pulmonary blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for pulmonary blood clots include blood thinners, clot-dissolving medications, and in severe cases, surgery to remove the clot.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a blood clot in the lung?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a blood clot in the lung include sudden chest pain, shortness of breath, rapid heart rate, and coughing up blood. It's crucial to seek immediate medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can blood clots in the lung cause longterm health issues?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the lung can lead to long-term health problems such as chronic pulmonary hypertension, lung damage, and decreased lung function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can blood clots in the lung affect breathing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the lung can block blood flow, causing shortness of breath, chest pain, and even difficulty breathing, which can be life-threatening.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes help prevent lung blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy weight, staying active, avoiding smoking, and managing any underlying health conditions can help prevent lung blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Who is at risk of developing blood clots in the lung?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals who smoke, are overweight, have a family history of blood clots, or are inactive are at risk of developing blood clots in the lung.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in managing pulmonary embolism?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover assists in managing pulmonary embolism through timely diagnosis, treatment, and monitoring to ensure optimal recovery and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in the lung diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the lung are diagnosed through tests like CT scans, chest X-rays, and blood tests. Early detection is crucial for effective treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots in the lung lifethreatening?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the lung can be life-threatening as they can block blood flow and cause serious complications like pulmonary embolism.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for pulmonary blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for pulmonary blood clots include blood thinners, clot-dissolving medications, and in severe cases, surgery to remove the clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What followup care is needed after treatment for blood clots in the lung?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Follow-up care for blood clots in the lung may include regular check-ups, blood thinning medication, lifestyle changes, and monitoring for any signs of recurrence.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can blood clots in the lung cause longterm health issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the lung can lead to long-term health problems such as chronic pulmonary hypertension, lung damage, and decreased lung function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes help prevent lung blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy weight, staying active, avoiding smoking, and managing any underlying health conditions can help prevent lung blood clots.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots in the lung lifethreatening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the lung can be life-threatening as they can block blood flow and cause serious complications like pulmonary embolism.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What followup care is needed after treatment for blood clots in the lung?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow-up care for blood clots in the lung may include regular check-ups, blood thinning medication, lifestyle changes, and monitoring for any signs of recurrence.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -454,8 +426,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover assist in managing pulmonary embolism?</p>
 
 
 

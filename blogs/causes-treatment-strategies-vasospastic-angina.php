@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is vasospastic angina and what causes it?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vasospastic angina is a type of chest pain caused by sudden spasms in the coronary arteries, restricting blood flow to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is vasospastic angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vasospastic angina is diagnosed through a combination of symptoms, ECG changes during an attack, and response to vasodilator medications during testing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The common symptoms of vasospastic angina include chest pain or discomfort, shortness of breath, and fatigue, often occurring at rest or during sleep.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications treat vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications for vasospastic angina help relax blood vessels, prevent spasms, and improve blood flow to the heart, reducing chest pain and other symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can vasospastic angina be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vasospastic angina can be prevented by avoiding triggers like smoking, stress, and cold weather. Medications may also help manage symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is vasospastic angina and what causes it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vasospastic angina is a type of chest pain caused by sudden spasms in the coronary arteries, restricting blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats vasospastic angina by focusing on relieving spasms in the coronary arteries through medications and lifestyle changes for long-term management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is vasospastic angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vasospastic angina is diagnosed through a combination of symptoms, ECG changes during an attack, and response to vasodilator medications during testing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does lifestyle modification play in managing vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modification, such as quitting smoking, reducing stress, and maintaining a healthy diet, is crucial in managing vasospastic angina and preventing further episodes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of vasospastic angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The common symptoms of vasospastic angina include chest pain or discomfort, shortness of breath, and fatigue, often occurring at rest or during sleep.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any dietary changes that can help with vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A low-sodium diet and limiting caffeine and alcohol intake can help manage vasospastic angina by reducing triggers for coronary artery spasms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications treat vasospastic angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications for vasospastic angina help relax blood vessels, prevent spasms, and improve blood flow to the heart, reducing chest pain and other symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does vasospastic angina affect the heart's blood vessels?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vasospastic angina causes the heart's blood vessels to constrict or spasm, reducing blood flow to the heart muscle and causing chest pain or discomfort.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can vasospastic angina be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vasospastic angina can be prevented by avoiding triggers like smoking, stress, and cold weather. Medications may also help manage symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for people with vasospastic angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term outcomes for people with vasospastic angina can vary, but with proper treatment and lifestyle changes, many can experience significant improvement in symptoms and quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What role does lifestyle modification play in managing vasospastic angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modification, such as quitting smoking, reducing stress, and maintaining a healthy diet, is crucial in managing vasospastic angina and preventing further episodes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any dietary changes that can help with vasospastic angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A low-sodium diet and limiting caffeine and alcohol intake can help manage vasospastic angina by reducing triggers for coronary artery spasms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does vasospastic angina affect the heart's blood vessels?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vasospastic angina causes the heart's blood vessels to constrict or spasm, reducing blood flow to the heart muscle and causing chest pain or discomfort.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes for people with vasospastic angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term outcomes for people with vasospastic angina can vary, but with proper treatment and lifestyle changes, many can experience significant improvement in symptoms and quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -472,8 +444,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of vasospastic angina?</h3>
-        <p>Medicover treats vasospastic angina by focusing on relieving spasms in the coronary arteries through medications and lifestyle changes for long-term management.</p>
 
 
 

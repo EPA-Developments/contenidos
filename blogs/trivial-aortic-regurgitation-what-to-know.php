@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is trivial aortic regurgitation and how is it diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Trivial aortic regurgitation is a mild condition where a small amount of blood leaks back into the heart. It is diagnosed through echocardiography or physical exam.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should patients with trivial aortic regurgitation be concerned?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with trivial aortic regurgitation should not be overly concerned as it is typically a benign condition that does not require treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can trivial aortic regurgitation affect overall heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Trivial aortic regurgitation is usually harmless and doesn't significantly impact overall heart health. It's important to monitor it regularly with your healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is it necessary to monitor trivial aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is necessary to monitor trivial aortic regurgitation periodically to ensure it does not worsen over time and cause any complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can trivial aortic regurgitation progress over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Trivial aortic regurgitation can progress over time, but it's usually a slow process. Regular monitoring by a healthcare professional is recommended.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is trivial aortic regurgitation and how is it diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trivial aortic regurgitation is a mild condition where a small amount of blood leaks back into the heart. It is diagnosed through echocardiography or physical exam.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover monitor patients with trivial aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover monitors patients with trivial aortic regurgitation through regular check-ups, echocardiograms, and lifestyle recommendations to ensure optimal heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Should patients with trivial aortic regurgitation be concerned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with trivial aortic regurgitation should not be overly concerned as it is typically a benign condition that does not require treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is treatment necessary for trivial aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment is typically not necessary for trivial aortic regurgitation, as it is often considered a normal finding and does not usually cause symptoms or complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can trivial aortic regurgitation affect overall heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trivial aortic regurgitation is usually harmless and doesn't significantly impact overall heart health. It's important to monitor it regularly with your healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does trivial aortic regurgitation impact life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Trivial aortic regurgitation typically has a minimal impact on life expectancy and usually does not require treatment. Regular monitoring is recommended.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "When is it necessary to monitor trivial aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is necessary to monitor trivial aortic regurgitation periodically to ensure it does not worsen over time and cause any complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the common causes of trivial aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of trivial aortic regurgitation include age-related changes, congenital valve abnormalities, and mild cases of aortic valve disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can trivial aortic regurgitation progress over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trivial aortic regurgitation can progress over time, but it's usually a slow process. Regular monitoring by a healthcare professional is recommended.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes prevent the progression of trivial aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as maintaining a healthy diet, exercising regularly, and avoiding tobacco can help prevent the progression of trivial aortic regurgitation.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is treatment necessary for trivial aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment is typically not necessary for trivial aortic regurgitation, as it is often considered a normal finding and does not usually cause symptoms or complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does trivial aortic regurgitation impact life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trivial aortic regurgitation typically has a minimal impact on life expectancy and usually does not require treatment. Regular monitoring is recommended.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common causes of trivial aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of trivial aortic regurgitation include age-related changes, congenital valve abnormalities, and mild cases of aortic valve disease.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes prevent the progression of trivial aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as maintaining a healthy diet, exercising regularly, and avoiding tobacco can help prevent the progression of trivial aortic regurgitation.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -410,8 +382,6 @@
 
 
 
-        <h3>How does Medicover monitor patients with trivial aortic regurgitation?</h3>
-        <p>Medicover monitors patients with trivial aortic regurgitation through regular check-ups, echocardiograms, and lifestyle recommendations to ensure optimal heart health.</p>
 
 
 

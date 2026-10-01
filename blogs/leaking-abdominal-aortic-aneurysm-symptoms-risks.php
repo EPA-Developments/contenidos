@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a leaking abdominal aortic aneurysm may include sudden, severe abdominal or back pain, dizziness, rapid heart rate, and signs of shock.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can a leaking abdominal aortic aneurysm be detected early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early detection of a leaking abdominal aortic aneurysm can be achieved through regular screenings, imaging tests, and monitoring symptoms like sudden, severe abdominal or back pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A leaking abdominal aortic aneurysm can lead to internal bleeding, shock, and potentially life-threatening complications if not promptly treated.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a leaking abdominal aortic aneurysm treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A leaking abdominal aortic aneurysm is treated through emergency surgery to repair the weakened area and prevent further complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the potential for rupture in a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A leaking abdominal aortic aneurysm has a high potential for rupture, which can lead to life-threatening internal bleeding. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a leaking abdominal aortic aneurysm may include sudden, severe abdominal or back pain, dizziness, rapid heart rate, and signs of shock.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage the treatment of a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages a leaking abdominal aortic aneurysm by performing urgent surgery to repair the weakened artery and prevent further complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can a leaking abdominal aortic aneurysm be detected early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early detection of a leaking abdominal aortic aneurysm can be achieved through regular screenings, imaging tests, and monitoring symptoms like sudden, severe abdominal or back pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the immediate steps to take if you suspect a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect a leaking abdominal aortic aneurysm, seek immediate medical attention by calling emergency services or going to the nearest hospital for evaluation and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A leaking abdominal aortic aneurysm can lead to internal bleeding, shock, and potentially life-threatening complications if not promptly treated.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm risks of a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The long-term risks of a leaking abdominal aortic aneurysm include potential rupture, severe internal bleeding, shock, and even death if not promptly treated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a leaking abdominal aortic aneurysm treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A leaking abdominal aortic aneurysm is treated through emergency surgery to repair the weakened area and prevent further complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the treatment for a leaking abdominal aortic aneurysm differ from other aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for a leaking abdominal aortic aneurysm typically involves emergency surgery due to the high risk of rupture. Other aneurysms may be monitored or repaired depending on size and location.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the potential for rupture in a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A leaking abdominal aortic aneurysm has a high potential for rupture, which can lead to life-threatening internal bleeding. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can early diagnosis and treatment prevent complications from a leaking abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early diagnosis and treatment of a leaking abdominal aortic aneurysm can prevent complications such as rupture, internal bleeding, and potential life-threatening emergencies.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the immediate steps to take if you suspect a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect a leaking abdominal aortic aneurysm, seek immediate medical attention by calling emergency services or going to the nearest hospital for evaluation and treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm risks of a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The long-term risks of a leaking abdominal aortic aneurysm include potential rupture, severe internal bleeding, shock, and even death if not promptly treated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the treatment for a leaking abdominal aortic aneurysm differ from other aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for a leaking abdominal aortic aneurysm typically involves emergency surgery due to the high risk of rupture. Other aneurysms may be monitored or repaired depending on size and location.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can early diagnosis and treatment prevent complications from a leaking abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early diagnosis and treatment of a leaking abdominal aortic aneurysm can prevent complications such as rupture, internal bleeding, and potential life-threatening emergencies.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3>How does Medicover manage the treatment of a leaking abdominal aortic aneurysm?</h3>
-        <p>Medicover manages a leaking abdominal aortic aneurysm by performing urgent surgery to repair the weakened artery and prevent further complications.</p>
 
 
 

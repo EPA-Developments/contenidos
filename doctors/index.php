@@ -57,7 +57,7 @@ if (!empty($doctors) && is_array($doctors)) {
                     <h3><a href="https://plataforma.epa-bienestar.com.ar/doctors/<?= htmlspecialchars($doctor['slug'] ?? '#'); ?>">
                         <?= htmlspecialchars($doctor['doctor_name'] ?? 'Doctor'); ?>
                     </a></h3>
-                    <a href="https://plataforma.epa-bienestar.com.ar/book-appointment">
+                    <a href="https://plataforma.epa-bienestar.com.ar/turnos">
                         <button class="default-btn1">Book An Appointment</button>
                     </a>
                 </div>

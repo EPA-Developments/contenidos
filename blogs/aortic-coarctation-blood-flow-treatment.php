@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does aortic coarctation impact blood flow?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation restricts blood flow from the heart to the rest of the body, leading to high blood pressure and heart strain. Treatment includes surgery or catheter-based interventions.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What happens to the circulatory system when the aorta is narrowed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "When the aorta is narrowed due to aortic coarctation, blood flow is restricted, causing high blood pressure and potential heart strain. Treatment options include surgery or catheter-based procedures.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What complications arise from untreated aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, and an increased risk of aortic aneurysm or rupture. Treatment may involve surgery or catheter-based procedures.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms indicate aortic coarctation is affecting blood flow?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of aortic coarctation affecting blood flow include high blood pressure in arms, low blood pressure in legs, leg cramps, and cold feet.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can blood pressure be affected by aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation can lead to high blood pressure due to narrowed aorta restricting blood flow. Treatment may involve surgery or catheter-based interventions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic coarctation impact blood flow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation restricts blood flow from the heart to the rest of the body, leading to high blood pressure and heart strain. Treatment includes surgery or catheter-based interventions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for restoring normal blood flow in aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic coarctation include balloon angioplasty, stent placement, or surgical repair to restore normal blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What happens to the circulatory system when the aorta is narrowed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When the aorta is narrowed due to aortic coarctation, blood flow is restricted, causing high blood pressure and potential heart strain. Treatment options include surgery or catheter-based procedures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage blood flow restoration for aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages aortic coarctation by performing balloon angioplasty or surgery to restore normal blood flow and relieve the narrowing in the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What complications arise from untreated aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, and an increased risk of aortic aneurysm or rupture. Treatment may involve surgery or catheter-based procedures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can surgery fully repair aortic coarctation and improve blood flow?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, surgery can fully repair aortic coarctation and improve blood flow by widening the narrowed section of the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms indicate aortic coarctation is affecting blood flow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of aortic coarctation affecting blood flow include high blood pressure in arms, low blood pressure in legs, leg cramps, and cold feet.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of aortic coarctation treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term effects of aortic coarctation treatment may include improved blood flow, reduced risk of complications, and overall better heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can blood pressure be affected by aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation can lead to high blood pressure due to narrowed aorta restricting blood flow. Treatment may involve surgery or catheter-based interventions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic coarctation be prevented through early detection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation can be prevented through early detection, allowing for timely treatment and management to improve blood flow and overall health.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for restoring normal blood flow in aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic coarctation include balloon angioplasty, stent placement, or surgical repair to restore normal blood flow.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can surgery fully repair aortic coarctation and improve blood flow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, surgery can fully repair aortic coarctation and improve blood flow by widening the narrowed section of the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of aortic coarctation treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term effects of aortic coarctation treatment may include improved blood flow, reduced risk of complications, and overall better heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic coarctation be prevented through early detection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation can be prevented through early detection, allowing for timely treatment and management to improve blood flow and overall health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -463,8 +435,6 @@
 
 
 
-        <h3>How does Medicover manage blood flow restoration for aortic coarctation?</h3>
-        <p>Medicover manages aortic coarctation by performing balloon angioplasty or surgery to restore normal blood flow and relieve the narrowing in the aorta.</p>
 
 
 

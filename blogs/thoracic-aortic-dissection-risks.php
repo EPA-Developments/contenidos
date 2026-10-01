@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is thoracic aortic dissection and how does it affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection is a serious condition where there is a tear in the inner layer of the aorta, causing blood to flow between the layers. This can lead to decreased blood flow to vital organs and potentially life-threatening complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main causes of thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main causes of thoracic aortic dissection are high blood pressure, genetic conditions, atherosclerosis, and trauma to the chest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does thoracic aortic dissection impact heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection can impact heart function by causing blood to flow abnormally, potentially leading to chest pain, shortness of breath, and even heart failure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of thoracic aortic dissection may include sudden, severe chest or back pain, shortness of breath, sweating, and fainting. Seek immediate medical attention if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is thoracic aortic dissection diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection is diagnosed through imaging tests like CT scans, MRIs, or echocardiograms. These tests help doctors visualize the condition of the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is thoracic aortic dissection and how does it affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection is a serious condition where there is a tear in the inner layer of the aorta, causing blood to flow between the layers. This can lead to decreased blood flow to vital organs and potentially life-threatening complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for thoracic aortic dissection include medication, surgery, or a combination of both to stabilize the aorta and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main causes of thoracic aortic dissection are high blood pressure, genetic conditions, atherosclerosis, and trauma to the chest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks associated with thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risks of thoracic aortic dissection include sudden death, organ damage, stroke, and heart failure. Early recognition and treatment are crucial for a positive outcome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does thoracic aortic dissection impact heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection can impact heart function by causing blood to flow abnormally, potentially leading to chest pain, shortness of breath, and even heart failure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients with thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover supports patients with thoracic aortic dissection by offering timely diagnosis, personalized treatment plans, and ongoing care to manage the condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of thoracic aortic dissection may include sudden, severe chest or back pain, shortness of breath, sweating, and fainting. Seek immediate medical attention if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for patients with thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for patients with thoracic aortic dissection varies depending on the severity and location of the tear, but early diagnosis and treatment can improve outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is thoracic aortic dissection diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection is diagnosed through imaging tests like CT scans, MRIs, or echocardiograms. These tests help doctors visualize the condition of the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help prevent thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Adopting a healthy lifestyle with regular exercise, a balanced diet, and avoiding smoking can lower the risk of thoracic aortic dissection.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for thoracic aortic dissection include medication, surgery, or a combination of both to stabilize the aorta and prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks associated with thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risks of thoracic aortic dissection include sudden death, organ damage, stroke, and heart failure. Early recognition and treatment are crucial for a positive outcome.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the prognosis for patients with thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for patients with thoracic aortic dissection varies depending on the severity and location of the tear, but early diagnosis and treatment can improve outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes help prevent thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adopting a healthy lifestyle with regular exercise, a balanced diet, and avoiding smoking can lower the risk of thoracic aortic dissection.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -431,8 +403,6 @@
 
 
 
-        <h3>How does Medicover support patients with thoracic aortic dissection?</h3>
-        <p>Medicover supports patients with thoracic aortic dissection by offering timely diagnosis, personalized treatment plans, and ongoing care to manage the condition effectively.</p>
 
 
 
