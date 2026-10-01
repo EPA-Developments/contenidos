@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Type B Aortic Dissection: Treatment and Prognosis Explained">
   <meta property="og:description" content="Learn about the treatment options and prognosis for type B aortic dissection. Find out how to manage this serious condition effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/type-b-aortic-dissection-treatment-prognosis">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/type-b-aortic-dissection-treatment-prognosis">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/type-b-aortic-dissection-treatment-prognosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/type-b-aortic-dissection-treatment-prognosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Type B Aortic Dissection: Treatment And Prognosis Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/type-b-aortic-dissection-treatment-prognosis"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/type-b-aortic-dissection-treatment-prognosis"  
       }]
     }
   </script>

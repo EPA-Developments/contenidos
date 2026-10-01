@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blackouts: Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing blackouts? Learn about causes, treatment options, and when to seek help for blackouts related to heart disease, low blood pressure, or dehydration.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/blackouts">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/blackouts">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/blackouts" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/blackouts" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blackouts",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/blackouts"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/blackouts"  
       }]
     }
   </script>
@@ -186,13 +186,13 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Blackouts: Causes, Treatment, and When to Seek Help</h1>
-<p>Blackouts, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a> or fainting, refer to a temporary <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> due to a lack of blood flow to the brain.</p>
-<p>This sudden episode can lead to a person falling or collapsing, often resulting in memory loss or confusion upon waking up. Blackouts can occur for various reasons, such as dehydration, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, heart-related issues, or neurological conditions.</p>
+<p>Blackouts, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a> or fainting, refer to a temporary <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> due to a lack of blood flow to the brain.</p>
+<p>This sudden episode can lead to a person falling or collapsing, often resulting in memory loss or confusion upon waking up. Blackouts can occur for various reasons, such as dehydration, <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, heart-related issues, or neurological conditions.</p>
 <h2 id="forms">What are the Forms of Blackouts?</h2>
 <p>There are different forms of blackouts, each with its specific symptoms and triggers:</p>
 <ul>
 <li>Loss of consciousness: Complete loss of awareness and responsiveness.</li>
-<li>Fainting: Brief loss of consciousness often preceded by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</li>
+<li>Fainting: Brief loss of consciousness often preceded by <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</li>
 <li>Syncope: Medical term for fainting or passing out.</li>
 <li>Memory loss: Inability to recall events leading up to or during the blackout.</li>
 <li>Unconsciousness: State of being unaware and unresponsive to external stimuli.</li>
@@ -208,12 +208,12 @@
 <li>Neurological issues: Seizures, migraines, or strokes impacting brain function.</li>
 <li>Medications: Side effects of certain drugs affecting blood pressure or heart rate.</li>
 <li>Stress or anxiety: Emotional triggers causing a sudden drop in blood pressure.</li>
-<li>Standing up too quickly: <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a> resulting in a brief blackout episode.</li>
+<li>Standing up too quickly: <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a> resulting in a brief blackout episode.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Blackouts?</h2>
 <p>Diagnosing blackouts involves a thorough evaluation of medical history, physical examination, and diagnostic tests, which may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
 <li>Holter monitor: Continuous ECG monitoring over 24-48 hours to capture irregular heart rhythms.</li>
 <li>Tilt table test: Assessing changes in heart rate and blood pressure when shifting positions.</li>
 <li>Blood tests: Checking for electrolyte imbalances, anemia, or underlying medical conditions.</li>
@@ -232,7 +232,7 @@
 <p>It is essential to seek medical attention if you experience:</p>
 <ul>
 <li>Frequent or prolonged blackouts.</li>
-<li>Blackouts with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, palpitations, or shortness of breath.</li>
+<li>Blackouts with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, palpitations, or shortness of breath.</li>
 <li>Blackouts after a head injury or during exercise.</li>
 <li>Blackouts accompanied by seizures or convulsions.</li>
 <li>Blackouts in older adults or individuals with pre-existing medical conditions.</li>

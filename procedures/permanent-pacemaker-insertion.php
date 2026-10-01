@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Permanent Pacemaker Insertion: Cardiac Pacemaker Installation">
   <meta property="og:description" content="Learn about the permanent pacemaker insertion procedure, also known as pacemaker implantation or cardiac pacemaker insertion. Discover how this innovative procedure can help regulate your heart's rhythm.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/permanent-pacemaker-insertion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/permanent-pacemaker-insertion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/permanent-pacemaker-insertion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/permanent-pacemaker-insertion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Permanent Pacemaker Insertion",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/permanent-pacemaker-insertion"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/permanent-pacemaker-insertion"  
       }]
     }
   </script>

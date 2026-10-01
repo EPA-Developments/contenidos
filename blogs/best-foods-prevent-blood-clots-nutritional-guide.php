@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Best Foods That Prevent Blood Clots: Nutritional Guide">
   <meta property="og:description" content="Discover the top foods that prevent blood clots with this comprehensive nutritional guide. Learn how to incorporate them into your diet for better health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/best-foods-prevent-blood-clots-nutritional-guide">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/best-foods-prevent-blood-clots-nutritional-guide">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/best-foods-prevent-blood-clots-nutritional-guide" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/best-foods-prevent-blood-clots-nutritional-guide" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Best Foods That Prevent Blood Clots: Nutritional Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/best-foods-prevent-blood-clots-nutritional-guide"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/best-foods-prevent-blood-clots-nutritional-guide"  
       }]
     }
   </script>

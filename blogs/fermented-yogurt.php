@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Cardiovascular Health with Fermented Yogurt" />
     <meta property="og:description" content="Discover how fermented yogurt can boost heart health and overall well-being. Learn more about the benefits of yogurt fermentation today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fermented-yogurt" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fermented-yogurt" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fermented-yogurt" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fermented-yogurt" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fermented Yogurt",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fermented-yogurt"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fermented-yogurt"
         }
     ]
 }
@@ -148,7 +148,7 @@
 <h2 class="sec-scrl" id="fermented-dairy-benefits">Unveiling the Benefits of Fermented Dairy</h2>
 <p>Not all dairy products are created equal when it comes to heart health. Fermented dairy, such as yogurt, offers unique advantages that can support your cardiovascular well-being:</p>
 <ul>
-<li><strong>Regulated Blood Pressure:</strong> The probiotics in fermented yogurt may help regulate blood pressure, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and related heart issues.</li>
+<li><strong>Regulated Blood Pressure:</strong> The probiotics in fermented yogurt may help regulate blood pressure, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and related heart issues.</li>
 <li><strong>Enhanced Cholesterol Profile:</strong> Regular consumption of fermented dairy products has been linked to improved cholesterol levels, promoting heart health.</li>
 </ul>
 <p>By incorporating fermented dairy into your daily routine, you can harness these benefits to keep your heart in top shape.</p>

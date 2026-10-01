@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Multislice Ct Angiography: Costs and Purpose" property="og:title"/>
 <meta content="Multislice CT angiography provides detailed images of blood vessels. Know more about its purpose, costs, and normal Range for cardiovascular evaluation." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/multislice-ct-angiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/multislice-ct-angiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/multislice-ct-angiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/multislice-ct-angiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Multislice CT Angiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/multislice-ct-angiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/multislice-ct-angiography"  
       }]
     }
   </script>
@@ -188,10 +188,10 @@
 <p>The primary purpose of performing a multislice CT angiography test is to detect and diagnose coronary artery disease and other vascular conditions non-invasively.</p>
 <p>This imaging technique allows healthcare providers to visualize the blood vessels in the heart and identify any blockages or abnormalities that may be causing symptoms or putting the patient at risk for complications.</p>
 <p>Multislice CT angiography plays a crucial role in detecting coronary artery disease by providing detailed images of the coronary arteries and assessing the extent of blockages or narrowing.</p>
-<p>This information is essential for determining the most appropriate treatment approach, whether it involves medication, lifestyle changes, or invasive procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
-<p>In addition to detecting coronary artery disease, multislice CT angiography is also used for pre-surgical vascular assessment in patients who are scheduled to undergo <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> or other procedures that involve the blood vessels.</p>
+<p>This information is essential for determining the most appropriate treatment approach, whether it involves medication, lifestyle changes, or invasive procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
+<p>In addition to detecting coronary artery disease, multislice CT angiography is also used for pre-surgical vascular assessment in patients who are scheduled to undergo <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> or other procedures that involve the blood vessels.</p>
 <p>By identifying any vascular anomalies or blockages before surgery, healthcare providers can better plan the surgical approach and minimize risks during the procedure.</p>
-<p>The benefits of multislice CT angiography extend beyond coronary imaging, as this imaging technique can also be used to diagnose other vascular conditions, such as peripheral artery disease, pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a>.</p>
+<p>The benefits of multislice CT angiography extend beyond coronary imaging, as this imaging technique can also be used to diagnose other vascular conditions, such as peripheral artery disease, pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a>.</p>
 <p>By providing detailed images of the blood vessels throughout the body, multislice CT angiography helps healthcare providers evaluate the overall vascular health of the patient and make informed treatment decisions.</p>
 <h2 id="costs">What are the Costs of Multislice CT Angiography Tests in Americas?</h2>
 <p>The cost of multislice CT angiography tests in Americas can vary depending on several factors, including the location of the healthcare facility, the expertise of the healthcare providers, and the specific imaging protocol used.</p>
@@ -214,15 +214,15 @@
 <h2>What Do High Multislice CT Angiography Levels Indicate?</h2>
 <p>High multislice CT angiography levels may indicate increased blood flow or vascular abnormalities in the body, raising concerns about potential cardiovascular conditions.</p>
 <p>Healthcare providers interpret high multislice CT angiography levels in conjunction with other clinical information to determine the underlying cause and develop an appropriate treatment plan.</p>
-<p>Causes of high multislice CT angiography levels may include conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, arterial stenosis, or vascular inflammation, which can restrict blood flow and increase vascular resistance.</p>
-<p>Patients with high multislice CT angiography levels may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, prompting further evaluation and diagnostic testing.</p>
+<p>Causes of high multislice CT angiography levels may include conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, arterial stenosis, or vascular inflammation, which can restrict blood flow and increase vascular resistance.</p>
+<p>Patients with high multislice CT angiography levels may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, prompting further evaluation and diagnostic testing.</p>
 <ul>
 <li>Causes of high multislice CT angiography levels:</li>
 <li>Atherosclerosis</li>
 <li>Arterial stenosis</li>
 <li>Vascular inflammation</li>
 </ul>
-<p>Risks associated with high multislice CT angiography levels include an increased risk of cardiovascular events, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or stroke, if left untreated.</p>
+<p>Risks associated with high multislice CT angiography levels include an increased risk of cardiovascular events, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or stroke, if left untreated.</p>
 <p>Healthcare providers may recommend lifestyle modifications, medication therapy, or invasive procedures to address the underlying vascular conditions and reduce the risk of complications in patients with high multislice CT angiography levels.</p>
 <p>It is important for patients with high multislice CT angiography levels to follow up with their healthcare providers regularly and adhere to their treatment plans to manage their cardiovascular health effectively.</p>
 <p>By monitoring their multislice CT angiography levels and addressing any underlying issues promptly, patients can reduce the risk of complications and improve their overall well-being.</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bicuspid Aortic Valve Disease: Symptoms, Causes & Treatment">
   <meta property="og:description" content="Bicuspid Aortic Valve Disease affects blood flow, causing heart strain. Know the symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bicuspid-aortic-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bicuspid-aortic-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bicuspid-aortic-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bicuspid-aortic-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bicuspid Aortic Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bicuspid-aortic-valve-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bicuspid-aortic-valve-disease"
       }]
     }
   </script>
@@ -169,28 +169,28 @@
 <p>Bicuspid Aortic Valve Disease is a congenital heart condition characterized by the aortic valve having two cusps instead of the normal three.</p>
 <p>This condition affects the flow of blood from the heart to the aorta, impacting essential functions such as oxygen delivery to the body.</p>
 <p>Bicuspid Aortic Valve Disease is significant due to its prevalence, accounting for the majority of congenital heart valve defects. While some individuals with this condition may remain asymptomatic for years, it can lead to serious health complications if left untreated.</p>
-<p>Short-term risks include heart failure and infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>, while long-term risks encompass aortic stenosis, <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation">aortic regurgitation</a>, and an increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a> and dissection.</p>
+<p>Short-term risks include heart failure and infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>, while long-term risks encompass aortic stenosis, <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation">aortic regurgitation</a>, and an increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a> and dissection.</p>
 <p>Asymptomatic in its early stages, Bicuspid Aortic Valve Disease often goes undetected until complications arise. Therefore, early detection through regular screenings is crucial to prevent severe health consequences.</p>
 <h2 id="causes">Causes of Bicuspid Aortic Valve Disease</h2>
 <p>The primary causes of Bicuspid Aortic Valve Disease can be attributed to genetic factors, developmental abnormalities, connective tissue disorders, and environmental influences.</p>
 <p>- Genetic Factors: Genetic mutations or inheritance play a significant role in the development of Bicuspid Aortic Valve Disease. Variations in certain genes can lead to abnormal valve formation, affecting heart function over time.</p>
 <ul>
 <li>Developmental Abnormalities: During fetal development, errors in the formation of the aortic valve can result in a bicuspid configuration. This structural anomaly impacts blood flow and can predispose individuals to valvular dysfunction.</li>
-<li>Connective Tissue Disorders: Conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, which affect connective tissue integrity, can increase the likelihood of Bicuspid Aortic Valve Disease. These disorders contribute to physiological changes that impact the structure and function of the aortic valve.</li>
+<li>Connective Tissue Disorders: Conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, which affect connective tissue integrity, can increase the likelihood of Bicuspid Aortic Valve Disease. These disorders contribute to physiological changes that impact the structure and function of the aortic valve.</li>
 <li>Environmental Influences: Factors such as exposure to certain medications or toxins during pregnancy can influence the development of Bicuspid Aortic Valve Disease. Environmental influences may interact with genetic predispositions, leading to the manifestation of this condition.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors can also influence the progression of Bicuspid Aortic Valve Disease:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can exacerbate the strain on the aortic valve, contributing to valve degeneration and dysfunction.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can exacerbate the strain on the aortic valve, contributing to valve degeneration and dysfunction.</li>
 <li>Smoking: Tobacco use is a known risk factor for cardiovascular diseases, including Bicuspid Aortic Valve Disease. Smoking can accelerate the progression of valve deterioration.</li>
-<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can promote <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, which may impact the aortic valve and exacerbate existing valve abnormalities.</li>
+<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can promote <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, which may impact the aortic valve and exacerbate existing valve abnormalities.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Bicuspid Aortic Valve Disease</h2>
 <p>Symptoms of Bicuspid Aortic Valve Disease can vary depending on the stage of the condition. Early-stage symptoms may be subtle and easily overlooked, while advanced-stage symptoms indicate significant valve dysfunction and potential complications.</p>
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue: Individuals with Bicuspid Aortic Valve Disease may experience persistent fatigue due to decreased cardiac output and inefficient blood circulation. This fatigue can impact daily activities and energy levels, leading to reduced exercise tolerance and overall stamina.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a>: The presence of a heart murmur, often detected during routine physical examinations, can be an early indicator of valve abnormalities. However, this symptom may be misunderstood or disregarded, delaying the diagnosis and treatment of Bicuspid Aortic Valve Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a>: The presence of a heart murmur, often detected during routine physical examinations, can be an early indicator of valve abnormalities. However, this symptom may be misunderstood or disregarded, delaying the diagnosis and treatment of Bicuspid Aortic Valve Disease.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>

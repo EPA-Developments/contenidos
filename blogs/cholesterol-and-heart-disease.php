@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cholesterol & Heart Disease Connection" />
     <meta property="og:description" content="Explore the vital connection between cholesterol and heart disease. Uncover the impact on your heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-heart-disease"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Connection Between Cholesterol and Heart Disease</h1>
-<p>Are you concerned about the impact of cholesterol on your heart health? How does <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> affect your daily life and activities? Let's delve into the connection between cholesterol and heart disease to gain a better understanding of this crucial relationship.</p>
+<p>Are you concerned about the impact of cholesterol on your heart health? How does <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> affect your daily life and activities? Let's delve into the connection between cholesterol and heart disease to gain a better understanding of this crucial relationship.</p>
 <h2 class="sec-scrl" id="high-cholesterol">High Cholesterol: What You Need to Know</h2>
 <p>Cholesterol is a fatty substance found in your blood that is vital for the body's normal functioning. However, when levels of cholesterol in the blood are too high, it can lead to various health problems, including an increased risk of heart disease. Here are some key points to understand about high cholesterol:</p>
 <ul>
-<li>LDL cholesterol, often referred to as "bad" cholesterol, can build up in the walls of your arteries, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
-<li>Elevated levels of LDL cholesterol can increase your risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke.</li>
+<li>LDL cholesterol, often referred to as "bad" cholesterol, can build up in the walls of your arteries, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Elevated levels of LDL cholesterol can increase your risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke.</li>
 <li>Monitoring your cholesterol levels through blood tests is crucial for early detection and management of high cholesterol.</li>
 </ul>
 <h2 class="sec-scrl" id="LDL-cholesterol">Understanding LDL Cholesterol and Heart Health</h2>
@@ -148,7 +148,7 @@
 <p>What factors contribute to your risk of experiencing a heart attack? Let's explore how cholesterol levels are linked to your heart attack risk:</p>
 <ul>
 <li>Individuals with high cholesterol levels, particularly high LDL cholesterol, are at an increased risk of suffering a heart attack.</li>
-<li>Other factors, such as smoking, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, and diabetes, can further elevate your risk of heart attack when combined with high cholesterol levels.</li>
+<li>Other factors, such as smoking, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, and diabetes, can further elevate your risk of heart attack when combined with high cholesterol levels.</li>
 <li>Managing your cholesterol levels and addressing other risk factors is essential for reducing your chances of a heart attack.</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-levels">Maintaining Healthy Cholesterol Levels</h2>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cabbage Benefits for Vascular Health&quot;" />
     <meta property="og:description" content="Explore how cabbage promotes healthy blood vessels naturally. Learn more about vascular support and arterial health benefits." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-vessel-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-vessel-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-vessel-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-vessel-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cabbage And Blood Vessel Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-vessel-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-vessel-health"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <h2 class="sec-scrl" id="arterial-health">How Does Cabbage Promote Arterial Health?</h2>
 <p>Healthy arteries are crucial for efficient blood circulation and overall cardiovascular wellness. Cabbage contributes to arterial health by:</p>
 <ul>
-<li>Reducing Inflammation: The anti-inflammatory compounds in cabbage help prevent plaque buildup in the arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Reducing Inflammation: The anti-inflammatory compounds in cabbage help prevent plaque buildup in the arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Lowering Blood Pressure: The potassium content in cabbage helps regulate blood pressure, promoting arterial function.</li>
 </ul>
 <h2 class="sec-scrl" id="circulatory-system">How Does Cabbage Support the Circulatory System?</h2>

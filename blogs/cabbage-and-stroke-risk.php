@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cabbage and Stroke Risk: Key Insights&quot;" />
     <meta property="og:description" content="Learn about cabbage's impact on stroke risk, prevention, and vascular health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-stroke-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-stroke-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-stroke-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-stroke-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cabbage And Stroke Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-stroke-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-stroke-risk"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>Cabbage is a nutrient-dense vegetable that offers a range of health benefits, including its potential to support stroke prevention. Here's how cabbage and its compounds play a role in protecting against strokes:</p>
 <ul>
 <li><strong>Antioxidants:</strong> Cabbage is rich in antioxidants that help combat oxidative stress and inflammation, both of which are linked to an increased risk of stroke.</li>
-<li><strong>Hypertension:</strong> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for strokes. Cabbage contains compounds that may help lower blood pressure, thus reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>-related strokes.</li>
+<li><strong>Hypertension:</strong> <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for strokes. Cabbage contains compounds that may help lower blood pressure, thus reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>-related strokes.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure-control">Blood Pressure Control</h2>
 <p>Maintaining healthy blood pressure levels is essential for overall cardiovascular health. Cabbage contains compounds that have been shown to have a positive impact on blood pressure control, making it a valuable addition to a balanced diet.</p>
@@ -148,7 +148,7 @@
 <p>The compounds found in cabbage have been studied for their potential effects on vascular health and stroke prevention. These bioactive substances can help improve blood circulation and protect the blood vessels from damage, reducing the likelihood of strokes.</p>
 <p>Key cabbage compounds that contribute to vascular health include:</p>
 <ul>
-<li>Glucosinolates, which have anti-inflammatory properties and may help reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Glucosinolates, which have anti-inflammatory properties and may help reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Vitamin K, essential for maintaining healthy blood vessels and preventing excessive blood clotting.</li>
 </ul>
 <h2 class="sec-scrl" id="vascular-health">Vascular Health</h2>

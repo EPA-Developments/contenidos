@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Strawberries for Heart Health&quot;" />
     <meta property="og:description" content="Explore how strawberries can boost your heart health with antioxidants, flavonoids, and more in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/strawberries-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/strawberries-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/strawberries-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/strawberries-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Strawberries For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/strawberries-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/strawberries-for-heart"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>Including strawberries in your daily diet can be a simple yet effective way to prevent heart disease. The flavonoids present in strawberries have been linked to a reduced risk of heart attacks and strokes by improving heart health in the following ways:</p>
 <ul>
 <li>Flavonoids help dilate blood vessels, improving blood flow and reducing the strain on the heart.</li>
-<li>These compounds have anti-inflammatory properties that can reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries.</li>
+<li>These compounds have anti-inflammatory properties that can reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries.</li>
 </ul>
 <h2 class="sec-scrl" id="antioxidants">How Do Antioxidants in Strawberries Benefit Your Heart?</h2>
 <p>Antioxidants are essential for neutralizing free radicals in the body, which can cause oxidative stress and damage cells, including those in the heart. By consuming strawberries regularly, you can enjoy the following antioxidant benefits:</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Omega 3 Fatty Acids for Heart Health'" />
     <meta property="og:description" content="Explore how Omega 3 Fatty Acids support heart health. Learn about Fish Oil, Atherosclerosis, Inflammation, and HDL Cholesterol. Optimize your cardiovascular wellness today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 Fatty Acids For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-for-heart-health"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <li>Supporting healthy heart rhythm</li>
 </ul>
 <h2 class="sec-scrl" id="fish-oil">The Role of Fish Oil in Cardiovascular Health</h2>
-<p>Fish oil is a rich source of Omega 3 Fatty Acids, making it a popular supplement for heart health. The EPA and DHA components of fish oil have been extensively studied for their positive effects on cardiovascular wellness. Regular consumption of fish oil can help lower the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
+<p>Fish oil is a rich source of Omega 3 Fatty Acids, making it a popular supplement for heart health. The EPA and DHA components of fish oil have been extensively studied for their positive effects on cardiovascular wellness. Regular consumption of fish oil can help lower the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
 <p>When it comes to heart health, incorporating fish oil into your daily routine can be beneficial in various ways:</p>
 <ul>
 <li>Reducing the risk of developing atherosclerosis</li>

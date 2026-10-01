@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="The Role of ECG Testing in Preventing Heart Disease: ECG Test Guide">
   <meta property="og:description" content="Discover the importance of ECG testing in preventing heart disease. Learn how an ECG test can help detect heart issues early on.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/role-ecg-testing-preventing-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/role-ecg-testing-preventing-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/role-ecg-testing-preventing-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/role-ecg-testing-preventing-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "The Role Of Ecg Testing In Preventing Heart Disease: Ecg Test Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/role-ecg-testing-preventing-heart-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/role-ecg-testing-preventing-heart-disease"  
       }]
     }
   </script>

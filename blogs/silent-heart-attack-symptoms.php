@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Silent Heart Attack Symptoms: Signs to Watch For">
   <meta property="og:description" content="Learn the signs of silent heart attack symptoms and what to watch for. Recognize the warning signs for early detection and prevention.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/silent-heart-attack-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/silent-heart-attack-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/silent-heart-attack-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/silent-heart-attack-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Silent Heart Attack Symptoms: Signs To Watch For",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/silent-heart-attack-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/silent-heart-attack-symptoms"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Claudication: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Claudication can be linked to circulation and heart problems. Learn more about its causes, symptoms, diagnosis, and treatments for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/claudication">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/claudication" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Claudication",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/claudication"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/claudication"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Claudication: Causes, Diagnosis, and Treatment</h1>
-<p>Claudication is a condition characterized by pain, cramping, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the legs, particularly during physical activity like walking or exercising.</p>
+<p>Claudication is a condition characterized by pain, cramping, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the legs, particularly during physical activity like walking or exercising.</p>
 <p>This discomfort is often due to reduced blood flow to the muscles in the legs, leading to inadequate oxygen supply.</p>
 <p>Claudication is a common symptom of peripheral artery disease (PAD), a condition where narrowed arteries restrict blood flow to the limbs.</p>
 <p>The primary symptom of claudication is leg pain that occurs with activity and improves with rest. This pain is typically described as a cramping or aching sensation in the calves, thighs, or buttocks.</p>
@@ -201,16 +201,16 @@
 <li>Leg discomfort with activity: General discomfort or weakness in the legs that worsens with physical activity.</li>
 <li>Intermittent claudication: Pain that comes and goes, typically triggered by exercise and relieved by rest.</li>
 <li>Painful walking: Difficulty walking due to leg pain, limiting mobility and daily activities.</li>
-<li>Reduced circulation pain: Pain or cramping in the legs due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>, often linked to underlying vascular conditions.</li>
+<li>Reduced circulation pain: Pain or cramping in the legs due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>, often linked to underlying vascular conditions.</li>
 </ul>
 <h2 id="causes">What are the Causes of Claudication?</h2>
 <p>Claudication is primarily caused by peripheral artery disease (PAD), a condition where plaque buildup narrows the arteries, reducing blood flow to the legs.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Buildup of fatty deposits in the arteries, leading to narrowing and reduced blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Buildup of fatty deposits in the arteries, leading to narrowing and reduced blood flow.</li>
 <li>Diabetes: High blood sugar levels can damage blood vessels and nerves, increasing the risk of PAD and claudication.</li>
 <li>Smoking: Tobacco use can constrict blood vessels and promote the formation of plaque, worsening circulation.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can contribute to plaque buildup in the arteries, restricting blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and increase the risk of atherosclerosis and PAD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can contribute to plaque buildup in the arteries, restricting blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and increase the risk of atherosclerosis and PAD.</li>
 <li>Obesity: Excess weight puts added pressure on the circulatory system, increasing the risk of vascular issues.</li>
 <li>Sedentary lifestyle: Lack of physical activity can weaken the muscles and reduce circulation, contributing to claudication.</li>
 </ul>
@@ -219,7 +219,7 @@
 <ul>
 <li>Ankle-brachial index (ABI): A non-invasive test that compares blood pressure in the arms and legs to assess circulation.</li>
 <li>Doppler ultrasound: Imaging test that uses sound waves to visualize blood flow in the arteries.</li>
-<li>Magnetic resonance angiography (MRA): <a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/mri-scan">mri scan</a> that provides detailed images of the blood vessels in the legs.</li>
+<li>Magnetic resonance angiography (MRA): <a href="https://contenidos.segundaopinionmedica.org/tests-screenings/mri-scan">mri scan</a> that provides detailed images of the blood vessels in the legs.</li>
 <li>Computed tomography angiography (CTA): CT scan that helps identify blockages or narrowing in the arteries.</li>
 <li>Angiography: Invasive procedure where contrast dye is injected into the arteries to visualize blood flow.</li>
 <li>Treadmill exercise test: Walking on a treadmill to reproduce symptoms and assess the severity of claudication.</li>
@@ -230,7 +230,7 @@
 <li>Lifestyle changes: Quitting smoking, maintaining a healthy weight, and regular exercise can improve circulation and reduce symptoms.</li>
 <li>Medications: Blood thinners, cholesterol-lowering drugs, and medications to improve blood flow may be prescribed.</li>
 <li>Exercise therapy: Supervised exercise programs can help improve walking distance and tolerance in individuals with claudication.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> and stenting: Minimally invasive procedures to open blocked arteries and restore blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> and stenting: Minimally invasive procedures to open blocked arteries and restore blood flow.</li>
 <li>Bypass surgery: Surgical intervention to create new pathways for blood flow bypassing blocked or narrowed arteries.</li>
 <li>Amputation: In severe cases where blood flow cannot be restored, amputation may be necessary to prevent tissue death.</li>
 </ul>

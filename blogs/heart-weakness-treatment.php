@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Weakness Treatment: Medications & More" />
     <meta property="og:description" content="Learn how medications play a crucial role in treating heart weakness effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-weakness-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-weakness-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-weakness-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-weakness-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Weakness Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-weakness-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-weakness-treatment"
         }
     ]
 }
@@ -169,23 +169,23 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Medications in Heart Weakness Treatment</h1>
-<p>Are you struggling with heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> and wondering how it impacts your daily activities? Living with heart weakness can be challenging, affecting your ability to perform even simple tasks. Understanding how medications play a crucial role in the treatment of heart weakness is essential for managing your condition effectively.</p>
+<p>Are you struggling with heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> and wondering how it impacts your daily activities? Living with heart weakness can be challenging, affecting your ability to perform even simple tasks. Understanding how medications play a crucial role in the treatment of heart weakness is essential for managing your condition effectively.</p>
 <h2 class="sec-scrl" id="cardiacmedications">Cardiac Medications</h2>
 <p>Cardiac medications are a cornerstone of heart weakness treatment. These medications help regulate your heart function, manage symptoms, and improve your quality of life. Some common cardiac medications include:</p>
 <ul>
 <li>ACE Inhibitors: These drugs help relax blood vessels, lowering blood pressure and reducing the workload on your heart.</li>
 <li>Diuretics: Diuretics help your body eliminate excess fluid, reducing swelling and making it easier for your heart to pump blood.</li>
-<li>Antiplatelet Agents: These medications prevent blood clots, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke.</li>
+<li>Antiplatelet Agents: These medications prevent blood clots, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="physicalrehabilitation">Physical Rehabilitation</h2>
 <p>Physical rehabilitation, also known as heart rehab, plays a crucial role in improving heart weakness. Through tailored exercise programs and lifestyle modifications, physical rehabilitation can help strengthen your heart and improve your overall cardiovascular health. Some benefits of physical rehabilitation include:</p>
 <ul>
 <li>Increased exercise tolerance and stamina</li>
-<li>Better management of symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Better management of symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Improved quality of life and overall well-being</li>
 </ul>
 <h2 class="sec-scrl" id="heartfailuretherapy">Heart Failure Therapy</h2>
-<p>Heart failure therapy involves a comprehensive approach to managing heart weakness. In addition to medications, therapies such as cardiac resynchronization and implantable cardioverter-<a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillator">defibrillator</a> (ICD) placement may be recommended to improve heart function and prevent complications. These therapies aim to:</p>
+<p>Heart failure therapy involves a comprehensive approach to managing heart weakness. In addition to medications, therapies such as cardiac resynchronization and implantable cardioverter-<a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillator">defibrillator</a> (ICD) placement may be recommended to improve heart function and prevent complications. These therapies aim to:</p>
 <ul>
 <li>Optimize heart function and reduce symptoms</li>
 <li>Prevent sudden cardiac death</li>

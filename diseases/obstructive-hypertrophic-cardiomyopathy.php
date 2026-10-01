@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Obstructive Hypertrophic Cardiomyopathy: Symptoms and Treatment" >
   <meta property="og:description" content="Obstructive Hypertrophic Cardiomyopathy causes thickened heart muscles. Know more about its symptoms, causes, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/obstructive-hypertrophic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/obstructive-hypertrophic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/obstructive-hypertrophic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/obstructive-hypertrophic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Obstructive Hypertrophic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/obstructive-hypertrophic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/obstructive-hypertrophic-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment for Obstructive Hypertrophic Cardiomyopathy</h1>
-<p>Obstructive Hypertrophic Cardiomyopathy (HCM) is a condition where the heart muscle becomes abnormally thick, making it harder for the heart to pump blood effectively. This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. HCM is significant as it can increase the risk of sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. It is a relatively common genetic heart condition, affecting about 1 in 500 people worldwide. Early diagnosis and management are crucial in improving outcomes for individuals with HCM.</p>
+<p>Obstructive Hypertrophic Cardiomyopathy (HCM) is a condition where the heart muscle becomes abnormally thick, making it harder for the heart to pump blood effectively. This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. HCM is significant as it can increase the risk of sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. It is a relatively common genetic heart condition, affecting about 1 in 500 people worldwide. Early diagnosis and management are crucial in improving outcomes for individuals with HCM.</p>
 <h2 id="causes">Causes of Obstructive Hypertrophic Cardiomyopathy</h2>
 <p><ul>
 <li>Genetic mutations passed down in families</li>
@@ -177,9 +177,9 @@
 <li>Chest pain or pressure</li>
 <li>Shortness of breath, especially during exertion</li>
 <li>Fatigue</li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, especially during physical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, especially during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 </ul>
 
 Being vigilant about these symptoms and seeking prompt medical attention can lead to timely interventions that can help manage OHCM effectively and improve the quality of life for individuals affected by this condition.</p>
@@ -187,8 +187,8 @@ Being vigilant about these symptoms and seeking prompt medical attention can lea
 <p>Accurate diagnosis of Obstructive Hypertrophic Cardiomyopathy (OHCM) is crucial for implementing appropriate treatment strategies and reducing the risk of complications. The diagnostic process typically involves a combination of tests to confirm the condition. Key diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
 <li>Cardiac MRI for detailed imaging of the heart.</li>
 <li>Genetic testing to identify specific gene mutations.</li>
 </ul>

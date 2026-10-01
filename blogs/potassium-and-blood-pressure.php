@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Potassium's Impact on Blood Pressure Health&quot;" />
     <meta property="og:description" content="Discover how potassium plays a vital role in maintaining healthy blood pressure and heart function. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-and-blood-pressure"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Supports nerve signaling and conduction</li>
 <li>Helps maintain fluid balance in the body</li>
 </ul>
-<p>Individuals with low potassium levels may experience issues with blood pressure regulation, potentially leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and increasing the risk of heart disease.</p>
+<p>Individuals with low potassium levels may experience issues with blood pressure regulation, potentially leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and increasing the risk of heart disease.</p>
 <h2 class="sec-scrl" id="the-link-between-potassium-and-sodium">The Link Between Potassium and Sodium</h2>
 <p>One of the key mechanisms through which potassium influences blood pressure is its relationship with sodium. While sodium tends to raise blood pressure, potassium works to counteract this effect. Here's how potassium and sodium interact in the body:</p>
 <ul>

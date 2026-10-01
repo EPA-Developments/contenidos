@@ -10,12 +10,12 @@
     <meta property="og:title" content="Peaches for Lowering Cholesterol: A Dietary Solution" />
     <meta property="og:description" content="Discover how peaches can help reduce cholesterol levels naturally. Learn more about the benefits of peaches for your lipid profile." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-lowering-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-lowering-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-lowering-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-lowering-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peaches For Lowering Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-lowering-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peaches-for-lowering-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Peaches on Lowering Cholesterol</h1>
-<p>Are you looking for a natural way to lower your cholesterol levels? Have you considered the impact of peaches on your health? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly affect your daily activities and overall well-being. Let's explore how peaches, a delicious and nutritious fruit, can play a vital role in reducing cholesterol levels.</p>
+<p>Are you looking for a natural way to lower your cholesterol levels? Have you considered the impact of peaches on your health? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly affect your daily activities and overall well-being. Let's explore how peaches, a delicious and nutritious fruit, can play a vital role in reducing cholesterol levels.</p>
 <h2 class="sec-scrl" id="peaches-for-lowering-cholesterol">Why Are Peaches Beneficial for Lowering Cholesterol?</h2>
 <p>Peaches are not only flavorful but also packed with essential nutrients that can help in reducing cholesterol levels. Here's how peaches contribute to improving your lipid profile:</p>
 <ul>

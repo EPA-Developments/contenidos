@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Homozygous Hypercholesterolemia: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Homozygous Hypercholesterolemia leads to high cholesterol. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/homozygous-hypercholesterolemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/homozygous-hypercholesterolemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/homozygous-hypercholesterolemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/homozygous-hypercholesterolemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Homozygous Hypercholesterolemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/homozygous-hypercholesterolemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/homozygous-hypercholesterolemia"
       }]
     }
   </script>
@@ -178,10 +178,10 @@
 <h2 id="causes">Causes of Homozygous Hypercholesterolemia</h2>
 <p>Primary Causes of Homozygous Hypercholesterolemia</p>
 <ul>
-<li>Genetic Mutations in LDL Receptor Gene (LDLR): Mutations in the LDLR gene lead to impaired clearance of LDL cholesterol from the bloodstream, resulting in its accumulation and elevated levels. Over time, this can contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular disease.</li>
+<li>Genetic Mutations in LDL Receptor Gene (LDLR): Mutations in the LDLR gene lead to impaired clearance of LDL cholesterol from the bloodstream, resulting in its accumulation and elevated levels. Over time, this can contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular disease.</li>
 <li>Apolipoprotein B Gene Mutations: Mutations in the apolipoprotein B gene can disrupt the metabolism of LDL particles, leading to increased LDL cholesterol levels and a higher risk of atherosclerosis.</li>
 <li>Protein Convertase Subtilisin/Kexin Type 9 (PCSK9) Gene Mutations: Mutations in the PCSK9 gene can result in increased circulating levels of LDL cholesterol by reducing the clearance of LDL particles from the blood.</li>
-<li>Homozygous Familial Hypercholesterolemia (HoFH): Individuals with homozygous familial hypercholesterolemia inherit two copies of the defective gene responsible for <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, leading to severe elevations in LDL cholesterol.</li>
+<li>Homozygous Familial Hypercholesterolemia (HoFH): Individuals with homozygous familial hypercholesterolemia inherit two copies of the defective gene responsible for <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, leading to severe elevations in LDL cholesterol.</li>
 </ul>
 <p>Secondary Risk Factors and Lifestyle Contributors</p>
 <ul>
@@ -197,7 +197,7 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Coronary Artery Disease: Progression of atherosclerosis in the coronary arteries can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>), <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and eventually, heart attacks in individuals with homozygous hypercholesterolemia.</li>
+<li>Coronary Artery Disease: Progression of atherosclerosis in the coronary arteries can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>), <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and eventually, heart attacks in individuals with homozygous hypercholesterolemia.</li>
 <li>Peripheral Artery Disease: Reduced blood flow to the extremities due to arterial plaque buildup can cause leg pain, numbness, and impaired wound healing, posing significant challenges to mobility and quality of life.</li>
 </ul>
 <h2>Diagnosis of Homozygous Hypercholesterolemia</h2>
@@ -205,8 +205,8 @@
 <ul>
 <li>Genetic Testing: Genetic analysis can identify mutations in genes associated with homozygous hypercholesterolemia, confirming the genetic basis of the condition and guiding treatment decisions.</li>
 <li>Lipid Profile: Blood tests measuring cholesterol levels, including LDL cholesterol, HDL cholesterol, and triglycerides, help assess the lipid profile and determine the severity of hypercholesterolemia.</li>
-<li>Coronary Calcium Scoring: Imaging studies such as coronary calcium scoring can detect early signs of atherosclerosis and assess the extent of <a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-calcification">coronary artery calcification</a>, providing valuable information on cardiovascular risk.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Cardiac imaging techniques like echocardiography can evaluate heart structure and function, identifying any abnormalities or complications associated with homozygous hypercholesterolemia.</li>
+<li>Coronary Calcium Scoring: Imaging studies such as coronary calcium scoring can detect early signs of atherosclerosis and assess the extent of <a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-calcification">coronary artery calcification</a>, providing valuable information on cardiovascular risk.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Cardiac imaging techniques like echocardiography can evaluate heart structure and function, identifying any abnormalities or complications associated with homozygous hypercholesterolemia.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Homozygous Hypercholesterolemia</h2>
 <h3>Major Treatment Options</h3>

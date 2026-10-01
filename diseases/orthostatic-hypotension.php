@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Orthostatic Hypotension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Orthostatic Hypotension causes a sudden drop in blood pressure. Read more about its causes, symptoms, and treatments to prevent dizziness." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Orthostatic Hypotension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Orthostatic Hypotension</h1>
-<p>Orthostatic hypotension, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension">postural hypotension</a>, occurs when your blood pressure drops significantly when you stand up from sitting or lying down. This sudden drop can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, or even fainting. It's essential to recognize this condition as it can lead to falls and other accidents. Orthostatic hypotension is quite common, especially in older adults, but it can affect people of any age. If you experience symptoms, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
+<p>Orthostatic hypotension, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension">postural hypotension</a>, occurs when your blood pressure drops significantly when you stand up from sitting or lying down. This sudden drop can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, or even fainting. It's essential to recognize this condition as it can lead to falls and other accidents. Orthostatic hypotension is quite common, especially in older adults, but it can affect people of any age. If you experience symptoms, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Orthostatic Hypotension</h2>
 <p><h3>Main Factors Contributing to Orthostatic Hypotension</h3>
 <ul>
@@ -176,7 +176,7 @@
 
 <ul>
 <li>Dizziness or lightheadedness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or passing out</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or passing out</li>
 <li>Blurred vision</li>
 <li>Nausea</li>
 <li>Fatigue</li>

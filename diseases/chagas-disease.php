@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chagas Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Chagas Disease is a parasitic infection that affects the heart. Know more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/chagas-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/chagas-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/chagas-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/chagas-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Chagas Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/chagas-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/chagas-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Chagas Disease</h1>
-<p>Chagas Disease, caused by a parasite transmitted through insects, can lead to heart and digestive issues if left untreated. It's a significant health concern in certain parts of Latin Americas where the insect vectors thrive. Around 6 to 7 million people worldwide are affected by Chagas Disease, with most cases going undiagnosed. Early detection is crucial to prevent long-term complications. If you experience symptoms like fever, fatigue, swelling, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> after visiting endemic regions, consult a healthcare provider promptly to rule out Chagas Disease.</p>
+<p>Chagas Disease, caused by a parasite transmitted through insects, can lead to heart and digestive issues if left untreated. It's a significant health concern in certain parts of Latin Americas where the insect vectors thrive. Around 6 to 7 million people worldwide are affected by Chagas Disease, with most cases going undiagnosed. Early detection is crucial to prevent long-term complications. If you experience symptoms like fever, fatigue, swelling, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> after visiting endemic regions, consult a healthcare provider promptly to rule out Chagas Disease.</p>
 <h2 id="causes">Causes of Chagas Disease</h2>
 <p>Chagas Disease, caused by a parasite transmitted by triatomine bugs, has several key factors contributing to its development:
 
@@ -184,7 +184,7 @@
 <li>Nausea or vomiting</li>
 <li>Diarrhea</li>
 <li>Enlargement of the liver or spleen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Difficulty swallowing</li>
 </ul>
 

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Coronary Angioscopy: Purpose, and Normal Range" property="og:title"/>
 <meta content="Coronary angioscopy allows direct visualization of arteries. Read more about its purpose, costs, and normal Range for heart disease assessment." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angioscopy" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angioscopy" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angioscopy" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angioscopy" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Angioscopy",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angioscopy"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angioscopy"  
       }]
     }
   </script>
@@ -165,7 +165,7 @@
 <p>The primary purpose of performing a coronary angioscopy test is to evaluate the condition of the coronary arteries and detect any abnormalities that may be present.</p>
 <p>This test is especially useful in assessing arterial plaque, guiding coronary interventions, detecting vulnerable plaques, determining the severity of coronary artery disease, and evaluating coronary artery morphology.</p>
 <p>Coronary angioscopy plays a crucial role in guiding treatment decisions for patients with coronary artery disease.</p>
-<p>By providing direct visualization of the arteries, this test helps cardiologists determine the most appropriate course of action, whether it be medication, lifestyle changes, or invasive procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or stenting.</p>
+<p>By providing direct visualization of the arteries, this test helps cardiologists determine the most appropriate course of action, whether it be medication, lifestyle changes, or invasive procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or stenting.</p>
 <p>In addition to diagnosing and treating coronary artery disease, coronary angioscopy can also help identify high-risk plaques that are prone to rupture and cause heart attacks.</p>
 <p>By detecting these vulnerable plaques early on, doctors can implement preventive measures to reduce the risk of cardiovascular events in at-risk patients.</p>
 <h2 id="costs">What are the Costs of Coronary Angioscopy Tests in Americas?</h2>

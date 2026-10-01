@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Dates for Blood Pressure: A Natural Solution&quot;" />
     <meta property="og:description" content="Learn how dates can naturally help manage blood pressure. Discover the benefits of dates for hypertension and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-for-blood-pressure"
         }
     ]
 }
@@ -130,7 +130,7 @@
             <div class="article-content">
               <h1>Dates for Blood Pressure: A Natural Solution</h1>
 <p>Are you struggling to manage your blood pressure effectively? Do you find it challenging to incorporate healthy habits into your daily routine to keep your blood pressure in check?</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall quality of life. It is crucial to explore natural remedies that can help regulate blood pressure levels without relying solely on medications.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall quality of life. It is crucial to explore natural remedies that can help regulate blood pressure levels without relying solely on medications.</p>
 <h2 class="sec-scrl" id="hypertension-management-with-dates">Hypertension Management with Dates</h2>
 <p>Dates, the sweet fruit of the date palm tree, have been used for centuries in traditional medicine for their various health benefits, including their potential to help manage hypertension. Here's how dates can contribute to your blood pressure management:</p>
 <ul>

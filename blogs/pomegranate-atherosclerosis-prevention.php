@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pomegranate for Atherosclerosis: Prevention Guide&quot;" />
     <meta property="og:description" content="Discover how pomegranate fights artery plaque and boosts heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-atherosclerosis-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-atherosclerosis-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-atherosclerosis-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-atherosclerosis-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pomegranate Atherosclerosis Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-atherosclerosis-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pomegranate-atherosclerosis-prevention"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Pomegranate in Preventing Atherosclerosis</h1>
-<p>Are you looking to improve your heart health naturally? Have you heard about the potential benefits of pomegranate in preventing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> but wonder if it's just a myth? Living with the fear of heart disease can significantly impact your daily life, making simple activities seem daunting. Understanding how pomegranate may help reduce the risk of atherosclerosis could provide you with a sense of empowerment in taking control of your cardiovascular health.</p>
+<p>Are you looking to improve your heart health naturally? Have you heard about the potential benefits of pomegranate in preventing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> but wonder if it's just a myth? Living with the fear of heart disease can significantly impact your daily life, making simple activities seem daunting. Understanding how pomegranate may help reduce the risk of atherosclerosis could provide you with a sense of empowerment in taking control of your cardiovascular health.</p>
 <h2 class="sec-scrl" id="pomegranate-atherosclerosis-prevention">The Power of Pomegranate Compounds</h2>
 <p>Pomegranate is a rich source of antioxidants, particularly punicalagins and anthocyanins, which play a vital role in maintaining blood vessel health. These compounds help combat oxidative stress and inflammation, two key factors contributing to the development of arterial plaque.</p>
 <ul>
@@ -147,7 +147,7 @@
 <h2 class="sec-scrl" id="pomegranate-for-heart-disease">Pomegranate: A Natural Remedy for Heart Disease</h2>
 <p>Is pomegranate a potential natural remedy for heart disease? Studies indicate that the anti-inflammatory and antioxidant effects of pomegranate can benefit individuals with existing heart conditions.</p>
 <ul>
-<li>Research published in the Journal of Nutritional Biochemistry suggests that pomegranate extract may improve cardiac function and reduce oxidative stress in patients with <a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease">coronary heart disease</a>.</li>
+<li>Research published in the Journal of Nutritional Biochemistry suggests that pomegranate extract may improve cardiac function and reduce oxidative stress in patients with <a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease">coronary heart disease</a>.</li>
 <li>The high levels of polyphenols in pomegranate help protect the heart muscle from damage and support overall cardiovascular health.</li>
 </ul>
 <p>Including pomegranate in your heart-healthy diet may offer protective effects against heart disease and contribute to better outcomes for individuals with cardiac issues.</p>

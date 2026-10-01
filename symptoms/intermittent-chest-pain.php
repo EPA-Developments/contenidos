@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Intermittent Chest Pain: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Intermittent chest pain might point to heart issues. Know more about its causes, symptoms, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/intermittent-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/intermittent-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/intermittent-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/intermittent-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Intermittent Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/intermittent-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/intermittent-chest-pain"  
       }]
     }
   </script>
@@ -186,12 +186,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Intermittent Chest Pain: Causes, Symptoms, and Diagnosis</h1>
-<p>Intermittent chest pain refers to recurring episodes of discomfort or pain in the chest area that come and go. This type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> may vary in intensity, duration, and frequency.</p>
-<p>It is essential to differentiate intermittent chest pain from acute chest pain, which may indicate a more serious medical condition like a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>Intermittent chest pain refers to recurring episodes of discomfort or pain in the chest area that come and go. This type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> may vary in intensity, duration, and frequency.</p>
+<p>It is essential to differentiate intermittent chest pain from acute chest pain, which may indicate a more serious medical condition like a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>Symptoms of intermittent chest pain may include a dull ache, sharp stabbing pain, pressure, tightness, or burning sensation in the chest. The pain may radiate to the neck, jaw, shoulders, arms, or back.</p>
-<p>Some individuals may also experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, sweating, nausea, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> during episodes of chest pain.</p>
+<p>Some individuals may also experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, sweating, nausea, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> during episodes of chest pain.</p>
 <h2 id="forms">What are the Forms of Intermittent chest pain?</h2>
-<p>Forms of intermittent chest pain include occasional chest discomfort, chest pain episodes, intermittent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, on-and-off chest pain, periodic chest pain, variable chest pain, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a> intermittently.</p>
+<p>Forms of intermittent chest pain include occasional chest discomfort, chest pain episodes, intermittent <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, on-and-off chest pain, periodic chest pain, variable chest pain, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a> intermittently.</p>
 <p>Each form may present with similar or distinct symptoms, depending on the underlying cause.</p>
 <ul>
 <li>Occasional chest discomfort may occur sporadically and resolve on its own.</li>
@@ -203,7 +203,7 @@
 <li>Chest pressure intermittently may feel like a heavy weight on the chest.</li>
 </ul>
 <h2 id="causes">What are the Causes of Intermittent chest pain?</h2>
-<p>Various factors can contribute to intermittent chest pain, including gastroesophageal reflux disease (GERD), muscle strain, anxiety, panic attacks, costochondritis, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, or other heart-related issues.</p>
+<p>Various factors can contribute to intermittent chest pain, including gastroesophageal reflux disease (GERD), muscle strain, anxiety, panic attacks, costochondritis, <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, or other heart-related issues.</p>
 <p>Stress, excessive physical activity, poor posture, smoking, obesity, and certain medications may also trigger intermittent chest pain.</p>
 <p>GERD can cause acid reflux into the esophagus, leading to chest discomfort.</p>
 <p>Muscle strain from overexertion or injury can result in chest pain.</p>

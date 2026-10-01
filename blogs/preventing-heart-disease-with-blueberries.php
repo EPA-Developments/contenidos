@@ -10,12 +10,12 @@
     <meta property="og:title" content="Blueberries for Heart Health: A Comprehensive Guide" />
     <meta property="og:description" content="Discover how blueberries can help prevent heart disease naturally. Learn about their powerful impact on heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-blueberries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-blueberries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-blueberries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-blueberries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Preventing Heart Disease With Blueberries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-blueberries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-blueberries"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about your heart health and looking for natural ways to prevent heart disease? Imagine incorporating a delicious and accessible fruit like blueberries into your daily diet to support your heart's well-being. How can blueberries impact your heart health and daily activities?</p>
 <p>Blueberries are not just a tasty snack; they are packed with essential nutrients that have been linked to various health benefits, particularly in preventing heart disease. Let's explore the significant impact of blueberries on heart disease prevention.</p>
 <h2 class="sec-scrl" id="heart-disease-risk-factors">Heart Disease Risk Factors</h2>
-<p>Heart disease risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, plaque buildup in the arteries, inflammation, and poor blood flow can significantly impact your cardiovascular health. Blueberries, rich in antioxidants, can help combat these risk factors and reduce the likelihood of developing heart disease.</p>
+<p>Heart disease risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, plaque buildup in the arteries, inflammation, and poor blood flow can significantly impact your cardiovascular health. Blueberries, rich in antioxidants, can help combat these risk factors and reduce the likelihood of developing heart disease.</p>
 <p>Antioxidants present in blueberries, particularly flavonoids like anthocyanins, have been shown to lower levels of LDL (bad) cholesterol and reduce plaque buildup in the arteries, thus decreasing the risk of heart disease.</p>
 <ul>
 <li>Antioxidants in blueberries fight inflammation, a common factor in heart disease development.</li>
@@ -146,7 +146,7 @@
 <li>Regular intake of blueberries can strengthen the body's defense mechanisms against heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure-regulation">Blood Pressure Regulation</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease, putting strain on the heart and blood vessels. Blueberries have been associated with lowering blood pressure levels, thanks to their vasodilating effects and ability to improve circulation.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease, putting strain on the heart and blood vessels. Blueberries have been associated with lowering blood pressure levels, thanks to their vasodilating effects and ability to improve circulation.</p>
 <p>The natural compounds in blueberries help relax blood vessels, reducing resistance to blood flow and ultimately supporting healthy blood pressure levels.</p>
 <ul>
 <li>Including blueberries in your diet may contribute to better blood pressure control and lower your risk of heart disease.</li>

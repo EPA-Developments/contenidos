@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiotoxicity: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiotoxicity can damage the heart due to medications or toxins. Know more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiotoxicity">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiotoxicity">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiotoxicity" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiotoxicity" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiotoxicity",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiotoxicity"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiotoxicity"
       }]
     }
   </script>
@@ -174,19 +174,19 @@
 <p>Recognizing the symptoms of Cardiotoxicity is crucial as early detection can significantly improve outcomes. Symptoms may vary depending on the cause and severity of cardiotoxicity. It's essential to be vigilant and seek medical attention if you experience any of the following symptoms:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul></p>
 <h2>Diagnosis of Cardiotoxicity</h2>
 <p>Cardiotoxicity, or damage to the heart muscle from medications or treatments, can be challenging to diagnose due to its varied symptoms. Accurate diagnosis is crucial to prevent further heart damage and guide appropriate treatment. Diagnostic methods for cardiotoxicity include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Blood tests to measure cardiac biomarkers</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>
 <li>Endomyocardial biopsy to analyze heart tissue for damage</li>

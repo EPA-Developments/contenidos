@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Distant Heart Sounds: Symptoms, Causes and Treatment" >
   <meta property="og:description" content="Distant heart sounds may indicate underlying heart issues. Know more about what this symptom means, its causes, diagnosis, and possible treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/distant-heart-sounds">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/distant-heart-sounds">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/distant-heart-sounds" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/distant-heart-sounds" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Distant Heart Sounds",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/distant-heart-sounds"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/distant-heart-sounds"  
       }]
     }
   </script>
@@ -191,7 +191,7 @@
 <p>Distant heart sounds are often associated with heart diseases, heart failure, or other cardiovascular conditions. The muted heart sound or remote heartbeat can be a sign of an abnormality in the heart's structure or function.</p>
 <p>Understanding the symptoms and related concepts of distant heart sounds is crucial for timely intervention and management.</p>
 <h2 id="forms">What are the Forms of Distant heart sounds?</h2>
-<p>The different forms of distant heart sounds include faint heartbeats, weak heart sound, low-volume heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> heard faintly, weak heartbeats, muted heart sound, and remote heartbeat.</p>
+<p>The different forms of distant heart sounds include faint heartbeats, weak heart sound, low-volume heartbeats, <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> heard faintly, weak heartbeats, muted heart sound, and remote heartbeat.</p>
 <p>Each form may present slightly different symptoms, but all indicate a decrease in the intensity of the heart sounds.</p>
 <ul>
 <li>Faint heartbeats may be barely audible during a physical examination.</li>
@@ -205,9 +205,9 @@
 <h2 id="causes">What are the Causes of Distant heart sounds?</h2>
 <p>Several factors can lead to the development of distant heart sounds. Understanding the underlying causes is essential for proper diagnosis and treatment.</p>
 <ul>
-<li>Heart diseases such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or valvular heart disease.</li>
+<li>Heart diseases such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or valvular heart disease.</li>
 <li>Heart failure that affects the heart's ability to pump blood effectively.</li>
-<li>Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> that can damage the heart valves.</li>
+<li>Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> that can damage the heart valves.</li>
 <li>Structural abnormalities in the heart, such as congenital defects.</li>
 <li>Medications that may impact heart function or cause irregular heartbeats.</li>
 <li>Stress or anxiety that can affect heart rhythm and sound perception.</li>
@@ -215,7 +215,7 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Distant heart sounds?</h2>
 <p>Diagnosing distant heart sounds involves a thorough evaluation of the patient's medical history, physical examination, and diagnostic tests. Basic and advanced techniques may be used to determine the underlying cause of the condition.</p>
 <p>Basic diagnostic methods include listening to the heart sounds with a stethoscope, checking for irregular rhythms, and assessing the overall heart function.</p>
-<p>Advanced techniques like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, cardiac MRI, or stress tests may be employed to obtain detailed images of the heart and its function.</p>
+<p>Advanced techniques like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, cardiac MRI, or stress tests may be employed to obtain detailed images of the heart and its function.</p>
 <h2 id="treatment">What is the Treatment for Distant heart sounds?</h2>
 <p>Treatment for distant heart sounds depends on the underlying cause and severity of the condition. Medical management, lifestyle changes, and advanced interventions may be recommended to address the issue effectively.</p>
 <ul>

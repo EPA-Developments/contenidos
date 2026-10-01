@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Treatment, and Symptoms of Breathlessness" >
   <meta property="og:description" content="Breathlessness can be a sign of heart issues. Know more about the causes, symptoms, diagnosis, and effective treatments for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Breathlessness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/breathlessness"  
       }]
     }
   </script>
@@ -166,8 +166,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Breathlessness: Treatment, Causes and Symptoms</h1>
-<p>Breathlessness, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a common symptom that many people experience at some point in their lives.</p>
-<p>It is a sensation of not being able to get enough air into the lungs, resulting in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. This can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, heavy breathing, air hunger, or feeling out of breath.</p>
+<p>Breathlessness, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a common symptom that many people experience at some point in their lives.</p>
+<p>It is a sensation of not being able to get enough air into the lungs, resulting in <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. This can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, heavy breathing, air hunger, or feeling out of breath.</p>
 <p>Breathlessness can range from mild to severe, causing respiratory distress and making it hard to breathe.</p>
 <h2 id="forms">What are the Forms of Breathlessness?</h2>
 <p>There are various forms of breathlessness that individuals may experience:</p>
@@ -184,7 +184,7 @@
 <li>Asthma: A chronic respiratory condition characterized by airway inflammation and bronchospasm, resulting in difficulty breathing.</li>
 <li>Heart failure: A condition where the heart cannot pump blood effectively, leading to fluid buildup in the lungs and breathlessness.</li>
 <li>Anemia: Low red blood cell count can reduce oxygen-carrying capacity, causing breathlessness.</li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>: A <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> in the lungs can obstruct blood flow and cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-breathlessness">sudden breathlessness</a>.</li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>: A <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> in the lungs can obstruct blood flow and cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-breathlessness">sudden breathlessness</a>.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Breathlessness?</h2>
 <p>Diagnosing the underlying cause of breathlessness typically involves a combination of physical exams, medical history review, and diagnostic tests.</p>
@@ -192,7 +192,7 @@
 <li>Chest X-ray: To assess the lungs and heart for abnormalities.</li>
 <li>Pulmonary function tests: To measure lung function and capacity.</li>
 <li>Blood tests: To check for anemia, infection, or other underlying conditions.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart function and rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart function and rhythm.</li>
 </ul>
 <p>Advanced diagnostic methods may involve:</p>
 <ul>

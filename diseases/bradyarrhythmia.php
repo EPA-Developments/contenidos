@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bradyarrhythmia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Bradyarrhythmia slows the heartbeat, leading to dizziness or fainting. Read more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bradyarrhythmia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bradyarrhythmia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bradyarrhythmia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bradyarrhythmia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bradyarrhythmia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bradyarrhythmia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bradyarrhythmia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Bradyarrhythmia</h1>
-<p>Bradyarrhythmia is a condition where the heart beats too slowly, potentially causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, or even fainting. It's important because a slow heart rate can lead to decreased blood flow to vital organs, affecting overall health. While common in older adults due to aging or athletes due to their fit hearts, bradyarrhythmia can affect anyone. Getting timely medical evaluation is crucial to manage symptoms and prevent complications. If you experience unexplained fainting or fatigue, consult a healthcare provider promptly.</p>
+<p>Bradyarrhythmia is a condition where the heart beats too slowly, potentially causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, or even fainting. It's important because a slow heart rate can lead to decreased blood flow to vital organs, affecting overall health. While common in older adults due to aging or athletes due to their fit hearts, bradyarrhythmia can affect anyone. Getting timely medical evaluation is crucial to manage symptoms and prevent complications. If you experience unexplained fainting or fatigue, consult a healthcare provider promptly.</p>
 <h2 id="causes">Causes of Bradyarrhythmia</h2>
 <p>Bradyarrhythmia, a condition characterized by a slow heart rate, can be influenced by various factors. These factors include:
 
@@ -170,16 +170,16 @@
 <li>Underlying heart conditions like heart attacks or heart failure</li>
 <li>Medications such as beta-blockers or calcium channel blockers</li>
 <li>Hypothyroidism affecting thyroid hormone levels</li>
-<li>Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> affecting the heart's electrical pathways</li>
+<li>Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> affecting the heart's electrical pathways</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Bradyarrhythmia</h2>
 <p>Bradyarrhythmia is a condition characterized by a slower than normal heart rate, which can lead to symptoms that may indicate underlying heart issues. Recognizing these symptoms early is crucial for prompt diagnosis and treatment, which can significantly improve outcomes and prevent complications. Here are some key symptoms to watch out for:
 
 <ul>
 <li> Fatigue </li>
-<li> Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> </li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> </li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> </li>
+<li> Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> </li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> </li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> </li>
 <li> Fainting or near-fainting episodes </li>
 </ul>
 
@@ -188,10 +188,10 @@ If you experience any of these symptoms, especially if they occur frequently or 
 <p>Bradyarrhythmia, a condition characterized by a slow heart rate, requires accurate diagnosis for appropriate management. To diagnose Bradyarrhythmia, healthcare providers typically employ various diagnostic methods including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
 <li>Holter monitor: A portable ECG device worn for 24-48 hours.</li>
 <li>Event monitor: Records heart rhythm over a few weeks.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
 <li>Tilt table test: Assesses heart rate and blood pressure changes with position changes.</li>
 </ul>
 

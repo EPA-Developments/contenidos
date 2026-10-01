@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Chickpeas: Heart Health Superfood&quot;" />
     <meta property="og:description" content="Discover how chickpeas improve heart health with their fiber and healthy fats. Learn about their role in preventing heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/chickpeas-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/chickpeas-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Chickpeas Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/chickpeas-heart-health"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>The combination of fiber, potassium, and vitamins in chickpeas supports optimal heart function and helps regulate blood pressure.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure Benefits</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. Discover how chickpeas can help maintain healthy blood pressure levels:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. Discover how chickpeas can help maintain healthy blood pressure levels:</p>
 <ul>
 <li>The potassium content in chickpeas helps counter the effects of sodium, lowering blood pressure.</li>
 <li>Chickpeas promote blood vessel dilation, improving blood flow and reducing strain on the heart.</li>
@@ -145,7 +145,7 @@
 <h2 class="sec-scrl" id="fiber-rich">Fiber-Rich Properties</h2>
 <p>One of the key elements in chickpeas that benefit heart health is their high fiber content. Learn how fiber plays a crucial role in heart disease prevention:</p>
 <ul>
-<li>Dietary fiber in chickpeas helps lower LDL cholesterol, known as the "bad" cholesterol, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Dietary fiber in chickpeas helps lower LDL cholesterol, known as the "bad" cholesterol, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Fiber promotes satiety, aiding in weight management and reducing the risk of obesity-related heart issues.</li>
 </ul>
 <h2 class="sec-scrl" id="healthy-fats">Incorporating Healthy Fats</h2>

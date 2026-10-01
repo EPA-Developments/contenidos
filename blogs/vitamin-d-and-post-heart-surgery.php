@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D in Heart Surgery Recovery" />
     <meta property="og:description" content="Learn how Vitamin D impacts post-heart surgery recovery. Discover its benefits for cardiac surgery recovery, healing process, and inflammation reduction." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-post-heart-surgery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-post-heart-surgery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-post-heart-surgery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-post-heart-surgery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Post Heart Surgery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-post-heart-surgery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-post-heart-surgery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Vital Role of Vitamin D After Heart Surgery</h1>
-<p>Are you recovering from <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> and wondering about the role of Vitamin D in your healing process? Daily activities can be challenging after cardiac surgery, and understanding how Vitamin D impacts your recovery can make a significant difference.</p>
+<p>Are you recovering from <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> and wondering about the role of Vitamin D in your healing process? Daily activities can be challenging after cardiac surgery, and understanding how Vitamin D impacts your recovery can make a significant difference.</p>
 <h2 class="sec-scrl" id="cardiac-surgery-recovery">Cardiac Surgery Recovery</h2>
 <p>After undergoing cardiac surgery, your body goes through a complex healing process. Adequate levels of Vitamin D are essential for supporting this recovery journey. Here's how Vitamin D deficiency can impact your healing:</p>
 <ul>

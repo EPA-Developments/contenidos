@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="How Long Can a Person Live After Angioplasty: What to Expect">
   <meta property="og:description" content="Discover how long a person can live after angioplasty and what factors can influence their lifespan. Learn more about post-angioplasty longevity.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-long-person-live-after-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-long-person-live-after-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-long-person-live-after-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-long-person-live-after-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "How Long Can A Person Live After Angioplasty: What To Expect",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-long-person-live-after-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-long-person-live-after-angioplasty"  
       }]
     }
   </script>

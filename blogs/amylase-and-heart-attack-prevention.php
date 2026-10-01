@@ -10,12 +10,12 @@
     <meta property="og:title" content="Amylase for Heart Attack Prevention" />
     <meta property="og:description" content="Learn how amylase can help prevent heart attacks. Explore enzyme regulation, cardiac enzymes, and more to safeguard your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Amylase And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-attack-prevention"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Amylase in Heart Attack Prevention</h1>
-<p>Are you concerned about your heart health and want to reduce your risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? Have you ever wondered about the role of amylase in preventing heart attacks and keeping your heart healthy? Amylase, an essential enzyme in your body, plays a crucial role in maintaining optimal heart function. Let's explore how amylase and its regulation can impact your heart health and what you can do to lower your risk of heart attacks.</p>
+<p>Are you concerned about your heart health and want to reduce your risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? Have you ever wondered about the role of amylase in preventing heart attacks and keeping your heart healthy? Amylase, an essential enzyme in your body, plays a crucial role in maintaining optimal heart function. Let's explore how amylase and its regulation can impact your heart health and what you can do to lower your risk of heart attacks.</p>
 <h2 class="sec-scrl" id="enzyme-regulation">Enzyme Regulation</h2>
 <p>Enzymes like amylase are responsible for regulating various biochemical processes in your body, including those related to heart health. In the case of amylase, this enzyme helps break down carbohydrates into simpler sugars, which are then used as energy sources for your body. Proper regulation of amylase activity is vital for maintaining healthy blood sugar levels and supporting overall heart function.</p>
 <p>Factors such as diet, lifestyle, and underlying health conditions can influence the regulation of enzymes like amylase. Consuming a balanced diet rich in whole grains, fruits, and vegetables can help support optimal enzyme function and reduce the risk of heart complications.</p>
@@ -137,7 +137,7 @@
 <p>In addition to amylase, there are specific enzymes in the heart, known as cardiac enzymes, that play a crucial role in diagnosing and monitoring heart conditions. These enzymes, including creatine kinase and troponin, are released into the bloodstream when the heart muscle is damaged, such as during a heart attack.</p>
 <p>Monitoring levels of cardiac enzymes can help healthcare providers assess the extent of heart muscle damage and guide treatment decisions. Elevated levels of cardiac enzymes may indicate a higher risk of future heart attacks, highlighting the importance of regular monitoring and early intervention.</p>
 <h2 class="sec-scrl" id="heart-attack-risk">Heart Attack Risk</h2>
-<p>Understanding your individual risk factors for heart attacks, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, and a sedentary lifestyle, is essential for taking proactive steps to prevent heart attacks. Elevated levels of certain enzymes, including amylase, may also indicate an increased risk of heart attacks.</p>
+<p>Understanding your individual risk factors for heart attacks, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, and a sedentary lifestyle, is essential for taking proactive steps to prevent heart attacks. Elevated levels of certain enzymes, including amylase, may also indicate an increased risk of heart attacks.</p>
 <ul>
 <li>Maintaining a healthy weight through regular exercise and a balanced diet can help lower your risk of heart attacks and support optimal enzyme activity.</li>
 <li>Quitting smoking and limiting alcohol consumption are additional steps you can take to protect your heart health and reduce the risk of enzyme dysfunction.</li>

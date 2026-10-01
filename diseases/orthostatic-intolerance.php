@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Orthostatic Intolerance: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Orthostatic intolerance affects blood flow when standing, causing dizziness and fainting. Know more about its causes, symptoms, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-intolerance">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-intolerance">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-intolerance" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-intolerance" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Orthostatic Intolerance",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-intolerance"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/orthostatic-intolerance"
       }]
     }
   </script>
@@ -175,10 +175,10 @@
 <p>Recognizing the symptoms of Orthostatic Intolerance early is crucial for improving outcomes. This condition involves difficulty regulating blood flow when changing positions, leading to symptoms that can significantly impact daily life. Some common symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> when standing up</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or actually fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> when standing up</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or actually fainting</li>
 <li>Increased heart rate upon standing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Fatigue</li>
 <li>Nausea</li>
 <li>Difficulty concentrating</li>

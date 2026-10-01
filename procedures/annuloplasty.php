@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Annuloplasty for Heart Valve Repair: Procedure, Benefits, Risks & Recovery">
   <meta property="og:description" content="Learn about the benefits, risks, and recovery process of annuloplasty, a surgical procedure for heart valve repair. Compare annuloplasty to valve replacement for mitral valve disease.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/annuloplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/annuloplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/annuloplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/annuloplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Annuloplasty",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/annuloplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/annuloplasty"  
       }]
     }
   </script>

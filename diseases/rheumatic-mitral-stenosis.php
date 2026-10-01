@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rheumatic Mitral Stenosis: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Rheumatic mitral stenosis affects heart valve function. Know more about its causes, symptoms, and treatment options for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-mitral-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-mitral-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-mitral-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-mitral-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rheumatic Mitral Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-mitral-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/rheumatic-mitral-stenosis"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Rheumatic Mitral Stenosis</h1>
-<p>Rheumatic Mitral Stenosis is a heart valve disorder primarily caused by <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a>, leading to the narrowing of the mitral valve opening. This condition significantly impacts cardiovascular health, affecting blood flow from the left atrium to the left ventricle.</p>
+<p>Rheumatic Mitral Stenosis is a heart valve disorder primarily caused by <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a>, leading to the narrowing of the mitral valve opening. This condition significantly impacts cardiovascular health, affecting blood flow from the left atrium to the left ventricle.</p>
 <p>With a prevalence closely linked to a history of rheumatic fever, Rheumatic Mitral Stenosis poses both short-term and long-term risks to an individual's health, including the potential for heart failure and stroke if left untreated.</p>
 <p>It is crucial to recognize the asymptomatic nature of this condition in its early stages, emphasizing the importance of early detection through regular screenings to prevent severe complications.</p>
 <h2 id="causes">Causes of Rheumatic Mitral Stenosis:</h2>
@@ -184,23 +184,23 @@
 <li>Lack of Physical Activity: Sedentary lifestyle choices can impact overall cardiovascular health, increasing the risk of complications associated with Mitral Stenosis.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Rheumatic Mitral Stenosis:</h2>
-<p>The symptoms of Rheumatic Mitral Stenosis can vary depending on the severity of the condition. Early-stage symptoms may include fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, which can impact daily activities and energy levels.</p>
-<p>In advanced stages, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fainting episodes, and swelling in the extremities, significantly affecting physical well-being and emotional health.</p>
+<p>The symptoms of Rheumatic Mitral Stenosis can vary depending on the severity of the condition. Early-stage symptoms may include fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, which can impact daily activities and energy levels.</p>
+<p>In advanced stages, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fainting episodes, and swelling in the extremities, significantly affecting physical well-being and emotional health.</p>
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue: Persistent tiredness that interferes with daily tasks due to decreased blood flow efficiency.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, leading to reduced activity levels.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, leading to reduced activity levels.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
 <li>Chest Pain: Sharp or dull chest discomfort that may indicate heart strain and reduced oxygen supply.</li>
-<li>Fainting Episodes: Sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> due to inadequate blood flow to the brain, posing a serious risk.</li>
+<li>Fainting Episodes: Sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> due to inadequate blood flow to the brain, posing a serious risk.</li>
 </ul>
 <h2>Diagnosis of Rheumatic Mitral Stenosis:</h2>
 <p>Diagnosing Rheumatic Mitral Stenosis typically involves a series of tests to assess the severity of the condition and its impact on heart function. These tests play a crucial role in determining the most appropriate treatment plan and intervention strategies.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, allowing healthcare providers to assess the mitral valve's narrowing.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: In this procedure, a thin tube is inserted into a blood vessel to measure pressure within the heart chambers, providing valuable information about blood flow dynamics.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, allowing healthcare providers to assess the mitral valve's narrowing.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: In this procedure, a thin tube is inserted into a blood vessel to measure pressure within the heart chambers, providing valuable information about blood flow dynamics.</li>
 <li>Electrocardiogram (ECG): By recording the heart's electrical activity, an ECG can detect abnormal heart rhythms associated with Mitral Stenosis.</li>
 <li>MRI or CT Scans: These imaging techniques offer detailed views of the heart and surrounding structures, aiding in the diagnosis of structural abnormalities.</li>
 </ul>

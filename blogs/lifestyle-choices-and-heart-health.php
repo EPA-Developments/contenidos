@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lifestyle Choices and Heart Health: A Vital Connection&quot;" />
     <meta property="og:description" content="Explore how lifestyle choices influence heart health. Learn the effects of physical activity, smoking, alcohol consumption, and sleep patterns." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lifestyle-choices-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lifestyle-choices-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lifestyle-choices-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lifestyle-choices-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lifestyle Choices And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lifestyle-choices-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lifestyle-choices-and-heart-health"
         }
     ]
 }
@@ -149,7 +149,7 @@
 </ul>
 <p>By quitting smoking, you can dramatically improve your heart health and reduce the risk of cardiovascular problems.</p>
 <h2 class="sec-scrl" id="AlcoholConsumption">Alcohol Consumption</h2>
-<p>While moderate alcohol consumption may have some heart-healthy benefits, excessive drinking can harm your heart and overall health. Consuming too much alcohol can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, irregular heartbeats, and an increased risk of heart disease. If you choose to drink alcohol, do so in moderation. Guidelines for moderate alcohol consumption include:</p>
+<p>While moderate alcohol consumption may have some heart-healthy benefits, excessive drinking can harm your heart and overall health. Consuming too much alcohol can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, irregular heartbeats, and an increased risk of heart disease. If you choose to drink alcohol, do so in moderation. Guidelines for moderate alcohol consumption include:</p>
 <ul>
 <li>Limiting intake to one drink per day for women and up to two drinks per day for men</li>
 <li>Choosing red wine for potential heart-protective antioxidants</li>

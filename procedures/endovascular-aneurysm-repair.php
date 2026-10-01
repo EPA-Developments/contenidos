@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endovascular Aneurysm Repair Surgery: Procedure for Vascular Aneurysms">
   <meta property="og:description" content="Discover the benefits of Endovascular Aneurysm Repair surgery, a minimally invasive procedure for vascular aneurysms. Learn more about this effective aneurysm repair option.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/endovascular-aneurysm-repair">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/endovascular-aneurysm-repair">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/endovascular-aneurysm-repair" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/endovascular-aneurysm-repair" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endovascular aneurysm repair",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/endovascular-aneurysm-repair"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/endovascular-aneurysm-repair"  
       }]
     }
   </script>

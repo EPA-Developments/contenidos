@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Palpitations with Headache: Causes and Treatment" >
   <meta property="og:description" content="Chest palpitations with a headache could indicate heart problems. Read more about symptoms, causes, diagnosis, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-palpitations-with-headache">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-palpitations-with-headache">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-palpitations-with-headache" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-palpitations-with-headache" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Palpitations With Headache",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-palpitations-with-headache"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-palpitations-with-headache"  
       }]
     }
   </script>
@@ -187,15 +187,15 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Palpitations with Headache: Causes, Forms and Treatment</h1>
 <p>Chest palpitations with headache is a condition where individuals experience an irregular or unusually fast heartbeat along with head pain. This combination of symptoms can be alarming and disruptive to daily life.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> refer to the sensation of the <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a>, fluttering, or skipping beats, while headaches can range from mild discomfort to severe migraines.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> refer to the sensation of the <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a>, fluttering, or skipping beats, while headaches can range from mild discomfort to severe migraines.</p>
 <p>When these two symptoms occur together, it can be a sign of an underlying health issue that requires attention.</p>
 <p>Individuals with chest palpitations and headache may feel a throbbing or pulsating sensation in the chest and head. These symptoms can be transient or persistent, depending on the cause.</p>
-<p>It is essential to pay attention to any accompanying signs such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>. Understanding the underlying causes of these symptoms is crucial for proper management and treatment.</p>
+<p>It is essential to pay attention to any accompanying signs such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>. Understanding the underlying causes of these symptoms is crucial for proper management and treatment.</p>
 <h2 id="forms">What are the Forms of Chest palpitations with headache?</h2>
 <p>There are various forms of chest palpitations with headache, each with its unique set of symptoms and related concepts.</p>
 <ul>
 <li>Heart pounding with head pain</li>
-<li>Headache and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Headache and <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Pulsating heart with headache</li>
 <li>Chest throbbing with head pain</li>
 <li>Heart skipping beats and headache</li>
@@ -214,7 +214,7 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Chest palpitations with headache?</h2>
 <p>Diagnosing chest palpitations with headache typically involves a combination of medical history review, physical examination, and diagnostic tests.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Holter monitor for prolonged heart rhythm monitoring</li>
 <li>Blood tests to check for electrolyte imbalances or thyroid function</li>
 <li>Echocardiogram to evaluate heart structure and function</li>

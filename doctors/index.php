@@ -54,10 +54,10 @@ if (!empty($doctors) && is_array($doctors)) {
                     <span>Experience: <?= htmlspecialchars($doctor['total_experience'] ?? 'N/A'); ?> + years</span><br>
                     <span>Location: <?= htmlspecialchars($doctor['unit'] ?? 'Unknown'); ?></span><br>
                     <span><?= htmlspecialchars($doctor['designation'] ?? 'Doctor'); ?></span><br>
-                    <h3><a href="https://plataforma.epa-bienestar.com.ar/doctors/<?= htmlspecialchars($doctor['slug'] ?? '#'); ?>">
+                    <h3><a href="https://contenidos.segundaopinionmedica.org/doctors/<?= htmlspecialchars($doctor['slug'] ?? '#'); ?>">
                         <?= htmlspecialchars($doctor['doctor_name'] ?? 'Doctor'); ?>
                     </a></h3>
-                    <a href="https://plataforma.epa-bienestar.com.ar/turnos">
+                    <a href="https://contenidos.segundaopinionmedica.org/turnos">
                         <button class="default-btn1">Book An Appointment</button>
                     </a>
                 </div>

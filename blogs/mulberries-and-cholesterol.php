@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improving Cholesterol with Mulberries" />
     <meta property="og:description" content="Learn how mulberries enhance your lipid profile naturally, improving HDL and LDL cholesterol levels for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mulberries And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Mulberries for Cholesterol</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and searching for a natural way to manage them effectively? What if there was a delicious fruit that could potentially help you improve your cholesterol profile and support your heart health? Let's explore the benefits of mulberries when it comes to cholesterol management and overall cardiovascular wellness.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and searching for a natural way to manage them effectively? What if there was a delicious fruit that could potentially help you improve your cholesterol profile and support your heart health? Let's explore the benefits of mulberries when it comes to cholesterol management and overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="mulberries-and-cholesterol">Mulberries and Cholesterol</h2>
 <p>Mulberries are small, sweet fruits that come from the Morus alba tree. These berries are not only tasty but also packed with essential nutrients that can positively impact your cholesterol levels. Here's how mulberries can contribute to a healthier lipid profile:</p>
 <ul>

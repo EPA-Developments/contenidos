@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Thoracic Aortic Aneurysm And Aortic Dissection: Symptoms" >
   <meta property="og:description" content="Thoracic Aortic Aneurysm and aortic dissection affect the heart. Read more about their causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-aneurysm-and-aortic-dissection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-aneurysm-and-aortic-dissection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-aneurysm-and-aortic-dissection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-aneurysm-and-aortic-dissection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Thoracic Aortic Aneurysm And Aortic Dissection",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-aneurysm-and-aortic-dissection"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-aneurysm-and-aortic-dissection"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment for Thoracic Aortic Aneurysm And Aortic Dissection</h1>
-<p>A thoracic <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a> is a bulge in the wall of the aorta, the body's main artery, which can lead to a life-threatening condition called <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a> if not treated promptly. This condition is significant because it can cause sudden chest or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and even lead to a rupture, which is often fatal. Thoracic aortic aneurysms and dissections are relatively rare but can occur in certain individuals with risk factors like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or genetic conditions. Early detection and management are crucial for a successful outcome.</p>
+<p>A thoracic <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a> is a bulge in the wall of the aorta, the body's main artery, which can lead to a life-threatening condition called <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a> if not treated promptly. This condition is significant because it can cause sudden chest or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and even lead to a rupture, which is often fatal. Thoracic aortic aneurysms and dissections are relatively rare but can occur in certain individuals with risk factors like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or genetic conditions. Early detection and management are crucial for a successful outcome.</p>
 <h2 id="causes">Causes of Thoracic Aortic Aneurysm And Aortic Dissection</h2>
 <p>There are several key factors that contribute to the development of Thoracic Aortic Aneurysm and Aortic Dissection. These include:
 
 <ul>
-<li>High blood pressure (<a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
-<li>Genetic factors or family history of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-disease">aortic disease</a></li>
+<li>High blood pressure (<a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
+<li>Genetic factors or family history of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-disease">aortic disease</a></li>
 <li>Connective tissue disorders like Marfan syndrome or Ehlers-Danlos syndrome</li>
 <li>Trauma or injury to the chest area</li>
 </ul></p>

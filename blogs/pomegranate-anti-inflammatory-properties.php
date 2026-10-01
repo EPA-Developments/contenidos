@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pomegranate Benefits: Inflammation & Heart Health&quot;" />
     <meta property="og:description" content="Discover how pomegranate fights inflammation and boosts heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-anti-inflammatory-properties" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-anti-inflammatory-properties" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-anti-inflammatory-properties" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-anti-inflammatory-properties" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pomegranate Anti Inflammatory Properties",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-anti-inflammatory-properties"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pomegranate-anti-inflammatory-properties"
         }
     ]
 }
@@ -134,13 +134,13 @@
 <p>Pomegranate is a rich source of antioxidants, particularly punicalagins and anthocyanins, which are known for their anti-inflammatory effects. These compounds help reduce inflammation in the body by neutralizing harmful free radicals that contribute to oxidative stress and inflammation.</p>
 <p>In addition to its antioxidant properties, pomegranate also contains anti-inflammatory compounds that inhibit inflammatory markers, such as cytokines and enzymes, thereby reducing overall inflammation levels in the body.</p>
 <h2 class="sec-scrl" id="inflammation-and-cardiovascular-disease">The Link Between Inflammation and Cardiovascular Disease</h2>
-<p>Chronic inflammation is a key driver of cardiovascular disease, contributing to the development of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and heart failure. By reducing inflammation with pomegranate, you can potentially lower your risk of heart disease and protect your heart health in the long run.</p>
+<p>Chronic inflammation is a key driver of cardiovascular disease, contributing to the development of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and heart failure. By reducing inflammation with pomegranate, you can potentially lower your risk of heart disease and protect your heart health in the long run.</p>
 <ul>
 <li>Pomegranate polyphenols have been shown to improve endothelial function, which is essential for maintaining healthy blood vessels and preventing atherosclerosis.</li>
 <li>The anti-inflammatory effects of pomegranate may help lower blood pressure and reduce the risk of hypertension, a significant risk factor for heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="pomegranate-for-heart-inflammation">Using Pomegranate for Heart Inflammation</h2>
-<p>Research suggests that incorporating pomegranate into your diet or taking pomegranate supplements can help alleviate <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and improve overall cardiovascular health. The polyphenols in pomegranate play a crucial role in reducing inflammation in the heart muscle and surrounding tissues.</p>
+<p>Research suggests that incorporating pomegranate into your diet or taking pomegranate supplements can help alleviate <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and improve overall cardiovascular health. The polyphenols in pomegranate play a crucial role in reducing inflammation in the heart muscle and surrounding tissues.</p>
 <p>Regular consumption of pomegranate may also help decrease levels of inflammatory markers in the bloodstream, such as C-reactive protein (CRP), which are associated with an increased risk of heart disease.</p>
 <h2 class="sec-scrl" id="reducing-inflammation-with-pomegranate">Reducing Inflammation with Pomegranate</h2>
 <p>What is remarkable about pomegranate is its ability to target multiple pathways involved in the inflammatory process, making it a potent natural anti-inflammatory agent. By consuming pomegranate regularly, you can combat inflammation at various levels in the body, promoting overall well-being.</p>

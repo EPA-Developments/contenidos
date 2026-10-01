@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Paradoxical Embolism: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Paradoxical embolism occurs when a clot passes from one side of the heart to another. Know more about its symptoms, causes, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/paradoxical-embolism">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/paradoxical-embolism">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/paradoxical-embolism" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/paradoxical-embolism" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Paradoxical Embolism",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/paradoxical-embolism"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/paradoxical-embolism"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Paradoxical Embolism</h1>
-<p>Paradoxical embolism occurs when a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> from the veins passes through a hole in the heart and travels to the arteries, causing blockages. This condition is significant because it can lead to serious complications like strokes or heart attacks. While not very common, it is essential to diagnose and treat it promptly to prevent harmful outcomes. By understanding the risks and symptoms, individuals with certain heart conditions can take steps to manage this condition effectively and reduce the chances of complications.</p>
+<p>Paradoxical embolism occurs when a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> from the veins passes through a hole in the heart and travels to the arteries, causing blockages. This condition is significant because it can lead to serious complications like strokes or heart attacks. While not very common, it is essential to diagnose and treat it promptly to prevent harmful outcomes. By understanding the risks and symptoms, individuals with certain heart conditions can take steps to manage this condition effectively and reduce the chances of complications.</p>
 <h2 id="causes">Causes of Paradoxical Embolism</h2>
 <p><h3>Main Factors Contributing to Paradoxical Embolism:</h3>
 <ul>
 <li>Atrial septal defect (ASD) or patent foramen ovale (PFO)</li>
 <li>Deep vein thrombosis (DVT) in the lower extremities</li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a> (PE)</li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a> (PE)</li>
 <li>Right-to-left shunting of blood</li>
 <li>Intracardiac tumors or vegetations</li>
 </ul></p>
@@ -176,12 +176,12 @@
 
 <h3> Symptoms of Paradoxical Embolism:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Sudden difficulty speaking or understanding speech</li>
-<li>Confusion or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness, usually on one side of the body</li>
+<li>Confusion or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness, usually on one side of the body</li>
 </ul>
 
 If you experience any of these symptoms, especially if you have a history of conditions like deep vein thrombosis or atrial fibrillation, seek medical attention promptly. Early diagnosis and treatment are critical in managing Paradoxical Embolism effectively.</p>
@@ -189,7 +189,7 @@ If you experience any of these symptoms, especially if you have a history of con
 <p>Paradoxical embolism occurs when a blood clot travels from the body's veins to the arteries through a hole in the heart. Accurate diagnosis is crucial to prevent serious complications like strokes. The diagnostic process typically involves a combination of imaging tests and procedures to identify the presence of a clot passing through the heart defect. Diagnostic methods for paradoxical embolism include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure</li>
 <li>Transesophageal echocardiogram for more detailed imaging</li>
 <li>CT scan to detect blood clots in the lungs or legs</li>
 <li>MRI to assess blood flow and heart function</li>

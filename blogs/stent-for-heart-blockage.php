@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Stent for Heart Blockage: Key Benefits&quot;" />
     <meta property="og:description" content="Discover the advantages of stents for heart blockage treatment and improve heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/stent-for-heart-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/stent-for-heart-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/stent-for-heart-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/stent-for-heart-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Stent For Heart Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/stent-for-heart-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/stent-for-heart-blockage"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Benefits of Heart Stents for Blockage Treatment</h1>
-<p>Are you or a loved one facing the challenges of heart blockage and looking for effective treatment options? The use of stents for heart blockage could be a life-changing solution. Heart blockage can severely impact your daily activities, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, making even simple tasks a struggle.</p>
+<p>Are you or a loved one facing the challenges of heart blockage and looking for effective treatment options? The use of stents for heart blockage could be a life-changing solution. Heart blockage can severely impact your daily activities, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, making even simple tasks a struggle.</p>
 <h2 class="sec-scrl" id="heart stent procedure">Heart Stent Procedure</h2>
 <p>When it comes to heart blockage, a common and effective treatment is the heart stent procedure. During this minimally invasive surgery, a small mesh tube called a stent is placed in the blocked or narrowed artery to help restore proper blood flow to the heart. The coronary stent is typically inserted through a small incision in the groin or wrist and guided to the affected area.</p>
 <ul>
@@ -185,14 +185,14 @@
 <li>Follow-up care and lifestyle changes are important for long-term success post-stent placement.</li>
 </ul>
 <h2 class="sec-scrl" id="coronary artery stenting">Coronary Artery Stenting</h2>
-<p>Coronary artery stenting is a proven method to address blockages that restrict blood flow to the heart muscle. This procedure not only alleviates symptoms but also reduces the need for more invasive treatments like open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>. With advancements in stent technology, the success rates of coronary artery stenting continue to improve, offering patients a safer and more effective option for managing heart blockage.</p>
+<p>Coronary artery stenting is a proven method to address blockages that restrict blood flow to the heart muscle. This procedure not only alleviates symptoms but also reduces the need for more invasive treatments like open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>. With advancements in stent technology, the success rates of coronary artery stenting continue to improve, offering patients a safer and more effective option for managing heart blockage.</p>
 <ul>
 <li>Consult a cardiologist to determine if coronary artery stenting is the right choice for you.</li>
 <li>Learn about the preparation needed before undergoing a coronary stent procedure.</li>
 <li>Follow your doctor's advice on medication and lifestyle modifications post-stent placement.</li>
 </ul>
 <h2 class="sec-scrl" id="heart stent treatment">Heart Stent Treatment</h2>
-<p>Heart stent treatment has transformed the management of heart blockage by providing a reliable and durable solution for improving cardiac function. Whether you have experienced a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or are at risk of one due to blockages, stent placement surgery can help in preventing further damage to the heart muscle and enhancing your quality of life. Understanding the benefits of this treatment option can empower you to make informed decisions about your heart health.</p>
+<p>Heart stent treatment has transformed the management of heart blockage by providing a reliable and durable solution for improving cardiac function. Whether you have experienced a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or are at risk of one due to blockages, stent placement surgery can help in preventing further damage to the heart muscle and enhancing your quality of life. Understanding the benefits of this treatment option can empower you to make informed decisions about your heart health.</p>
 <ul>
 <li>Rehabilitation programs are available to support your recovery after a heart stent procedure.</li>
 <li>Regular follow-up appointments are crucial to monitor the stent's effectiveness and your heart's condition.</li>

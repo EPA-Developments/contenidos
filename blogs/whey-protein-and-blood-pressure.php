@@ -10,12 +10,12 @@
     <meta property="og:title" content="Impact of Whey Protein on Blood Pressure Management" />
     <meta property="og:description" content="Learn how whey protein impacts blood pressure, hypertension, and heart health for natural management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Whey Protein on Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure levels? Have you ever wondered how incorporating whey protein into your diet could potentially impact your blood pressure? The relationship between whey protein and blood pressure is a topic of growing interest for individuals looking to naturally support their cardiovascular health. Let's explore the effects of whey protein on blood pressure and its role in promoting overall circulatory well-being.</p>
 <h2 class="sec-scrl" id="hypertension-control">Hypertension Control</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common health concern that can lead to serious complications if left unmanaged. Studies have suggested that whey protein may have a positive impact on blood pressure levels, particularly in individuals with hypertension. Here are some ways whey protein can contribute to hypertension control:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common health concern that can lead to serious complications if left unmanaged. Studies have suggested that whey protein may have a positive impact on blood pressure levels, particularly in individuals with hypertension. Here are some ways whey protein can contribute to hypertension control:</p>
 <ul>
 <li>Whey protein contains bioactive peptides that may help regulate blood pressure.</li>
 <li>It can promote the production of nitric oxide, which supports vasodilation and helps lower blood pressure.</li>

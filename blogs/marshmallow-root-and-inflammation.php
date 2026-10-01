@@ -10,12 +10,12 @@
     <meta property="og:title" content="Marshmallow Root: Inflammation & Heart Health" />
     <meta property="og:description" content="Explore how Marshmallow Root can reduce inflammation and support heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Marshmallow Root And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-inflammation"
         }
     ]
 }

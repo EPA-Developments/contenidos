@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Carotid Artery Duplex Scan: Costs, Purpose, and Levels" property="og:title"/>
 <meta content="Carotid artery duplex scan detects blockages in the neck arteries. Know more about its purpose, costs, and normal Range for stroke prevention." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/carotid-artery-duplex-scan" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/carotid-artery-duplex-scan" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/carotid-artery-duplex-scan" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/carotid-artery-duplex-scan" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carotid Artery Duplex Scan",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/carotid-artery-duplex-scan"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/carotid-artery-duplex-scan"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
 <p>These arteries supply blood to the brain, and any blockages or narrowing can increase the risk of a stroke.</p>
 <p>Additionally, Carotid Artery Duplex Scan is used to detect arterial plaque, which is a buildup of cholesterol, calcium, and other substances on the artery walls. This plaque can restrict blood flow and increase the risk of cardiovascular events.</p>
 <p>The test also helps in evaluating blood flow in the carotid arteries, identifying any abnormalities or blockages that may affect circulation. By diagnosing carotid artery disease early, healthcare providers can recommend appropriate treatment and lifestyle modifications to prevent complications.</p>
-<p>Carotid Artery Duplex Scan is particularly useful in monitoring vascular health in patients with a history of cardiovascular disease, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or other risk factors.</p>
+<p>Carotid Artery Duplex Scan is particularly useful in monitoring vascular health in patients with a history of cardiovascular disease, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or other risk factors.</p>
 <p>Regular screening with duplex ultrasound can help in early detection and management of vascular issues.</p>
 <h2 id="costs">What are the Costs of Carotid Artery Duplex Scan Tests in Americas?</h2>
 <p>The cost of Carotid Artery Duplex Scan tests in Americas can vary depending on the location, healthcare facility, and specific requirements of the test.</p>
@@ -207,7 +207,7 @@
 <p>Peak systolic velocity (PSV) measures the maximum blood flow speed in the carotid artery, while end-diastolic velocity (EDV) assesses the minimum flow speed. The resistive index (RI) reflects the resistance to blood flow in the arteries.</p>
 <p>In addition to velocity measurements, Carotid Artery Duplex Scan also evaluates the presence of plaque in the arteries. Normal values indicate no significant plaque or minimal buildup that does not obstruct blood flow.</p>
 <h2>What Do High Carotid Artery Duplex Scan Levels Indicate?</h2>
-<p>High Carotid Artery Duplex Scan levels can indicate various underlying conditions, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, carotid artery stenosis, and increased risk of stroke. Elevated peak systolic velocity (PSV) and resistive index (RI) values may suggest narrowing or blockages in the carotid arteries.</p>
+<p>High Carotid Artery Duplex Scan levels can indicate various underlying conditions, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, carotid artery stenosis, and increased risk of stroke. Elevated peak systolic velocity (PSV) and resistive index (RI) values may suggest narrowing or blockages in the carotid arteries.</p>
 <p>Causes of high Carotid Artery Duplex Scan levels include cholesterol plaques, calcifications, and inflammation in the artery walls. These factors can lead to reduced blood flow, increased turbulence, and higher risk of clot formation.</p>
 <p>Risks associated with high Carotid Artery Duplex Scan levels include ischemic stroke, transient ischemic attacks (TIAs), and other cardiovascular events. Healthcare providers may recommend further imaging tests, medication, or lifestyle changes to manage these risks.</p>
 <h2>What Do Low Carotid Artery Duplex Scan Levels Indicate?</h2>

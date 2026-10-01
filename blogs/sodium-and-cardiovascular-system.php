@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sodium's Role in Cardiovascular Health&quot;" />
     <meta property="og:description" content="Explore how sodium affects your heart health. Uncover the truth about its impact on your cardiovascular system." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-cardiovascular-system" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-cardiovascular-system" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-cardiovascular-system" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-cardiovascular-system" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Cardiovascular System",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-cardiovascular-system"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-cardiovascular-system"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <h2 class="sec-scrl" id="heart-health-myths">Heart Health Myths</h2>
 <p>When it comes to heart health, there are several myths surrounding sodium consumption that need to be addressed:</p>
 <ul>
-<li>Myth: Only people with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> need to watch their sodium intake.</li>
+<li>Myth: Only people with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> need to watch their sodium intake.</li>
 <li>Myth: Consuming less sodium will always lead to lower blood pressure.</li>
 <li>Myth: Sodium has no impact on overall heart health.</li>
 </ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Asystole: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Asystole stops the heart's electrical activity, causing emergencies. Know its warning symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/asystole">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/asystole">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/asystole" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/asystole" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Asystole",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/asystole"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/asystole"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Asystole</h1>
-<p>Asystole is a serious condition where the heart stops beating, leading to a lack of blood flow to the body. It is a life-threatening emergency that requires immediate medical attention. Asystole is relatively rare but can occur in people with severe heart disease or during <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. Understanding the significance of recognizing and treating asystole promptly is crucial for improving survival rates. If you suspect someone is in asystole, seek help immediately and begin CPR to help maintain blood flow until medical professionals arrive.</p>
+<p>Asystole is a serious condition where the heart stops beating, leading to a lack of blood flow to the body. It is a life-threatening emergency that requires immediate medical attention. Asystole is relatively rare but can occur in people with severe heart disease or during <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. Understanding the significance of recognizing and treating asystole promptly is crucial for improving survival rates. If you suspect someone is in asystole, seek help immediately and begin CPR to help maintain blood flow until medical professionals arrive.</p>
 <h2 id="causes">Causes of Asystole</h2>
 <p>Certainly! Here are the main factors contributing to the development of asystole:
 
 <ul>
 <li>Severe coronary artery disease</li>
-<li>Untreated ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a></li>
+<li>Untreated ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a></li>
 <li>Electrolyte imbalances, especially potassium</li>
 <li>Drug toxicity, such as from beta-blockers or calcium channel blockers</li>
 <li>Hypoxia or lack of oxygen to the heart</li>
@@ -176,14 +176,14 @@
 <p>Recognizing the symptoms of asystole, a condition characterized by the absence of a heartbeat, is crucial for prompt intervention and improved outcomes. Early detection allows for timely treatment, potentially saving lives. Symptoms of asystole include:
 
 <ul>
-<li> Sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> </li>
+<li> Sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> </li>
 <li> Absence of pulse </li>
 <li> No breathing </li>
 <li> Pallor </li>
 <li> Dilated pupils </li>
 </ul> 
 
-These signs signal a medical emergency, and immediate action, such as cardiopulmonary resuscitation (CPR) and <a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillation">defibrillation</a>, is vital in such cases. Being aware of these symptoms can make a significant difference in responding effectively to asystole.</p>
+These signs signal a medical emergency, and immediate action, such as cardiopulmonary resuscitation (CPR) and <a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillation">defibrillation</a>, is vital in such cases. Being aware of these symptoms can make a significant difference in responding effectively to asystole.</p>
 <h2>Diagnosis of Asystole</h2>
 <p>Asystole, a condition where the heart stops beating, requires prompt and accurate diagnosis as it is a life-threatening emergency. The diagnostic process for asystole involves several key steps to determine the underlying cause and appropriate treatment. Diagnostic methods include:
 
@@ -192,7 +192,7 @@ These signs signal a medical emergency, and immediate action, such as cardiopulm
 <li>Cardiac monitoring to confirm absence of electrical activity</li>
 <li>Review of medical history and medications</li>
 <li>Performing blood tests to check for electrolyte imbalances or toxins</li>
-<li>Consideration of potential underlying conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> or drug overdose</li>
+<li>Consideration of potential underlying conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> or drug overdose</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Asystole</h2>
 <p>In treating asystole, individualized care is crucial for optimal outcomes. Here are the main approaches to treating asystole:

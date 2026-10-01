@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Barley for Blood Pressure: Impact & Benefits&quot;" />
     <meta property="og:description" content="Discover the benefits of barley for managing blood pressure and improving cardiovascular wellness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/barley-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/barley-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/barley-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/barley-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Barley For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/barley-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/barley-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Barley for Blood Pressure</h1>
-<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural way to support healthy blood flow and maintain optimal blood pressure levels? The answer might lie in incorporating barley into your diet. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities, from feeling fatigued and lightheaded to experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during simple tasks. Understanding how barley can positively influence your blood pressure control could be the key to better cardiovascular wellness.</p>
+<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural way to support healthy blood flow and maintain optimal blood pressure levels? The answer might lie in incorporating barley into your diet. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities, from feeling fatigued and lightheaded to experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during simple tasks. Understanding how barley can positively influence your blood pressure control could be the key to better cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="healthy-blood-flow">How Does Barley Support Healthy Blood Flow?</h2>
 <p>Barley is a nutrient-rich whole grain that offers several benefits for cardiovascular health. Here's how barley can help you maintain healthy blood flow and support your blood pressure control:</p>
 <ul>
@@ -138,7 +138,7 @@
 <li>Low glycemic index: Barley has a low glycemic index, which means it can help regulate blood sugar levels and prevent spikes that may affect blood pressure.</li>
 </ul>
 <h2 class="sec-scrl" id="hypertension-solutions">How Can Barley Be Part of Your Hypertension Solutions?</h2>
-<p>Incorporating barley into your daily diet can be a simple yet effective way to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Here are some easy ways to add barley to your meals and reap its blood pressure benefits:</p>
+<p>Incorporating barley into your daily diet can be a simple yet effective way to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Here are some easy ways to add barley to your meals and reap its blood pressure benefits:</p>
 <ul>
 <li>Barley salads: Mix cooked barley with fresh vegetables, herbs, and a light vinaigrette for a nutritious and filling salad.</li>
 <li>Barley soups: Add barley to your favorite soup recipes for a hearty and heart-healthy meal option.</li>

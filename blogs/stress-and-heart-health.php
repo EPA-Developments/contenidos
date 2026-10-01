@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Stress-Dark Chocolate-Heart Connection" />
     <meta property="og:description" content="Explore how stress, dark chocolate, and heart health intertwine in this insightful blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/stress-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/stress-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/stress-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/stress-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Stress And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/stress-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/stress-and-heart-health"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>When we experience stress, our bodies release cortisol, often referred to as the "stress hormone." This hormone plays a crucial role in the body's fight-or-flight response, preparing us to handle stressful situations. However, chronic stress can lead to persistently elevated cortisol levels, which can have detrimental effects on our health.</p>
 <p>High cortisol levels are associated with a range of health issues, including increased blood pressure, weight gain, and impaired immune function. These factors, in turn, can contribute to the development of heart disease, making it essential to manage stress effectively to maintain healthy cortisol levels.</p>
 <h2 class="sec-scrl" id="heartdisease">The Impact of Stress on Heart Disease</h2>
-<p>Chronic stress is a significant risk factor for heart disease, with prolonged exposure to stress hormones potentially damaging the heart and blood vessels over time. Research has shown that individuals with high levels of stress are more likely to develop heart conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, and even heart attacks.</p>
+<p>Chronic stress is a significant risk factor for heart disease, with prolonged exposure to stress hormones potentially damaging the heart and blood vessels over time. Research has shown that individuals with high levels of stress are more likely to develop heart conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, and even heart attacks.</p>
 <p>Moreover, stress can exacerbate existing heart conditions, leading to complications and worsening symptoms. To protect your heart health, it is crucial to find ways to reduce stress and its impact on your body.</p>
 <h2 class="sec-scrl" id="stressrelief">Stress Relief Strategies for a Healthy Heart</h2>
 <ul>

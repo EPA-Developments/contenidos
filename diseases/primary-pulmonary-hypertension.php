@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Primary Pulmonary Hypertension: Symptoms and Treatment" >
   <meta property="og:description" content="Primary pulmonary hypertension is high blood pressure in the lungs. Know more about its causes, symptoms, and treatment for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/primary-pulmonary-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/primary-pulmonary-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/primary-pulmonary-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/primary-pulmonary-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Primary Pulmonary Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/primary-pulmonary-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/primary-pulmonary-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Primary Pulmonary Hypertension</h1>
-<p>Primary Pulmonary Hypertension, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-arterial-hypertension">pulmonary arterial hypertension</a> (PAH), is a rare but serious condition where <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> affects the arteries in the lungs. This can strain the heart and lead to heart failure if not managed properly. While rare, PAH is significant as it can impact quality of life and requires ongoing medical attention. It primarily affects women in their 30s and 40s, but can occur at any age. Early diagnosis and treatment are crucial in managing this condition effectively.</p>
+<p>Primary Pulmonary Hypertension, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-arterial-hypertension">pulmonary arterial hypertension</a> (PAH), is a rare but serious condition where <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> affects the arteries in the lungs. This can strain the heart and lead to heart failure if not managed properly. While rare, PAH is significant as it can impact quality of life and requires ongoing medical attention. It primarily affects women in their 30s and 40s, but can occur at any age. Early diagnosis and treatment are crucial in managing this condition effectively.</p>
 <h2 id="causes">Causes of Primary Pulmonary Hypertension</h2>
 <p>Primary Pulmonary Hypertension, a rare condition, develops due to various factors such as:
 
@@ -176,17 +176,17 @@
 <p>Recognizing the symptoms of Primary Pulmonary Hypertension (PPH) early is crucial as it can lead to better outcomes and management of the condition. Identifying PPH in its early stages allows for prompt intervention and treatment, which can help improve the quality of life for individuals affected. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 <li>Swelling in the ankles, legs, or abdomen</li>
 </ul>
 
 If you experience any of these symptoms, especially if they persist or worsen over time, it is essential to seek medical attention promptly. Early detection of PPH can lead to timely management strategies that may help slow down disease progression and improve overall prognosis.</p>
 <h2>Diagnosis of Primary Pulmonary Hypertension</h2>
-<p>Accurate diagnosis of Primary Pulmonary Hypertension (PPH) is crucial for timely intervention and management. The diagnostic process typically involves a series of tests to confirm the condition and rule out other possible causes of <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>. Some common diagnostic methods include:
+<p>Accurate diagnosis of Primary Pulmonary Hypertension (PPH) is crucial for timely intervention and management. The diagnostic process typically involves a series of tests to confirm the condition and rule out other possible causes of <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>. Some common diagnostic methods include:
 
 <ul>
 <li>Physical examination and medical history review</li>

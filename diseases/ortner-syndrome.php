@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ortner Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Ortner syndrome involves hoarseness due to heart problems. Know more about its causes, symptoms, and treatment methods for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ortner-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ortner-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ortner-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ortner-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Ortner Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ortner-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ortner-syndrome"
       }]
     }
   </script>
@@ -166,17 +166,17 @@
 <p>Ortner Syndrome, also known as cardiovocal syndrome, is a rare condition where the left recurrent laryngeal nerve is compressed by cardiovascular structures. The main factors contributing to its development include:
 
 <ul>
-<li>Enlarged left atrium due to <a href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-disease">mitral valve disease</a></li>
+<li>Enlarged left atrium due to <a href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-disease">mitral valve disease</a></li>
 <li>Aortic arch aneurysm</li>
 <li>Dilated pulmonary artery</li>
-<li>Pulmonary artery <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Pulmonary artery <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Ortner Syndrome</h2>
 <p>Recognizing the symptoms of Ortner Syndrome is crucial as early detection can significantly impact outcomes. This condition, also known as cardiovocal syndrome, occurs when a cardiovascular abnormality compresses the left recurrent laryngeal nerve, leading to vocal cord paralysis. Symptoms to watch out for include:
 
 <ul>
 <li>Hoarseness or changes in voice quality</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
 <li>Coughing or choking sensation</li>
 <li>Unexplained recurrent respiratory infections</li>
 </ul>
@@ -189,7 +189,7 @@ Diagnostic methods for Ortner Syndrome include:
 
 <ul>
 <li>Medical history review and physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
 <li>Chest X-ray to check for any cardiac enlargement</li>
 <li>CT or MRI scans to visualize the heart and surrounding structures</li>
 <li>Laryngoscopy to evaluate vocal cord function</li>

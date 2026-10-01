@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Carrots and Cardio Health: What You Need to Know&quot;" />
     <meta property="og:description" content="Explore how carrot consumption impacts cardiovascular risk factors. Learn about the benefits for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cardiovascular-risk-factors" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cardiovascular-risk-factors" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cardiovascular-risk-factors" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cardiovascular-risk-factors" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots And Cardiovascular Risk Factors",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cardiovascular-risk-factors"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cardiovascular-risk-factors"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about your heart health and looking for natural ways to improve it? Have you ever wondered how adding a simple vegetable like carrots to your diet could potentially impact your cardiovascular risk factors? Let's explore the relationship between carrot consumption and heart health.</p>
 <p>Carrots are not just a crunchy snack; they may hold the key to better heart health. Research suggests that the nutrients found in carrots could play a role in improving blood lipid levels, reducing oxidative stress, and supporting metabolic health. Let's delve into the potential benefits of carrots for your cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="blood-lipid-levels">Impact on Blood Lipid Levels</h2>
-<p>Carrots are rich in soluble fiber, specifically pectin, which has been linked to lower levels of LDL cholesterol. By incorporating carrots into your daily diet, you may be able to help regulate your cholesterol levels and reduce the risk of heart disease. Additionally, the carotenoids present in carrots, such as beta-carotene, lutein, and zeaxanthin, have antioxidant properties that can help prevent the oxidation of LDL cholesterol, a crucial step in the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Carrots are rich in soluble fiber, specifically pectin, which has been linked to lower levels of LDL cholesterol. By incorporating carrots into your daily diet, you may be able to help regulate your cholesterol levels and reduce the risk of heart disease. Additionally, the carotenoids present in carrots, such as beta-carotene, lutein, and zeaxanthin, have antioxidant properties that can help prevent the oxidation of LDL cholesterol, a crucial step in the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>Incorporating carrots into meals can be as simple as adding them to salads, stir-fries, or enjoying them as a standalone snack. By doing so, you not only increase your fiber intake but also benefit from the heart-protective properties of this vibrant vegetable.</p>
 <h2 class="sec-scrl" id="oxidative-stress">Reduction of Oxidative Stress</h2>
 <p>Oxidative stress is a process that occurs when there is an imbalance between free radicals and antioxidants in the body, leading to cellular damage. Carotenoids, the pigments that give carrots their orange hue, are potent antioxidants that help neutralize free radicals and reduce oxidative stress. By combatting oxidative stress, carrots may help protect the heart from damage and lower the risk of developing cardiovascular diseases.</p>
@@ -142,7 +142,7 @@
 <li>Blend carrots into smoothies with fruits like oranges and berries for a refreshing antioxidant boost.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease">Prevention of Heart Disease</h2>
-<p>Heart disease is a leading cause of mortality worldwide, with risk factors including <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and oxidative stress. By including carrots in your diet, you can potentially reduce these risk factors and support overall cardiovascular health. The potassium content in carrots can also help regulate blood pressure, another crucial aspect of heart disease prevention.</p>
+<p>Heart disease is a leading cause of mortality worldwide, with risk factors including <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and oxidative stress. By including carrots in your diet, you can potentially reduce these risk factors and support overall cardiovascular health. The potassium content in carrots can also help regulate blood pressure, another crucial aspect of heart disease prevention.</p>
 <p>Whether roasted, steamed, or raw, carrots are a versatile vegetable that can easily be incorporated into various dishes. Their natural sweetness makes them a favorite among both adults and children, ensuring that you can enjoy their heart-healthy benefits in delicious ways.</p>
 <h2 class="sec-scrl" id="metabolic-health">Support for Metabolic Health</h2>
 <p>In addition to their impact on heart health, carrots can also support metabolic health. The fiber content in carrots aids in digestion and can help regulate blood sugar levels, making them a valuable addition to the diet for individuals with diabetes or insulin resistance. Furthermore, the low glycemic index of carrots means that they are unlikely to cause spikes in blood glucose levels, promoting stable energy throughout the day.</p>

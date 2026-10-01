@@ -10,12 +10,12 @@
     <meta property="og:title" content="Hazelnuts and Blood Pressure: A Healthy Connection" />
     <meta property="og:description" content="Discover how hazelnuts help lower blood pressure naturally. Learn more about their benefits for heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hazelnuts And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Hazelnuts for Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure levels? Do you find it challenging to incorporate foods that can support your heart health into your daily diet? The connection between diet and blood pressure is crucial, and hazelnuts could be the answer you've been looking for. Let's explore how hazelnuts, a delicious and nutritious nut, can play a role in lowering blood pressure and promoting overall cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="hypertensionmanagement">Effective Hypertension Management with Hazelnuts</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a common condition that affects many individuals worldwide. One key factor in managing hypertension is maintaining a healthy diet. Hazelnuts are a potassium-rich food that can help in lowering blood pressure levels. Potassium plays a vital role in regulating blood pressure by counteracting the effects of sodium in the body. By including hazelnuts in your diet, you can support your efforts in managing hypertension effectively.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a common condition that affects many individuals worldwide. One key factor in managing hypertension is maintaining a healthy diet. Hazelnuts are a potassium-rich food that can help in lowering blood pressure levels. Potassium plays a vital role in regulating blood pressure by counteracting the effects of sodium in the body. By including hazelnuts in your diet, you can support your efforts in managing hypertension effectively.</p>
 <p>In addition to potassium, hazelnuts are also packed with heart-healthy nutrients such as fiber and healthy fats. These nutrients can contribute to overall cardiovascular health and further aid in keeping your blood pressure in check.</p>
 <h2 class="sec-scrl" id="potassiuminhazelnuts">The Potassium Power of Hazelnuts</h2>
 <p>Potassium is an essential mineral that plays a crucial role in various bodily functions, including blood pressure regulation. Hazelnuts are a great source of potassium, with a single serving providing a significant portion of your daily potassium needs. Including potassium-rich foods like hazelnuts in your diet can help promote optimal blood pressure levels and support overall heart health.</p>

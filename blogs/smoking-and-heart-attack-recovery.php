@@ -10,12 +10,12 @@
     <meta property="og:title" content="Smoking Impact on Heart Attack Healing" />
     <meta property="og:description" content="Learn how smoking impacts heart attack recovery, post-heart attack care, cardiac rehabilitation, recovery time, and healing." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-attack-recovery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-attack-recovery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-attack-recovery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-attack-recovery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Heart Attack Recovery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-attack-recovery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-attack-recovery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Smoking on Heart Attack Recovery</h1>
-<p>Are you wondering how smoking impacts your recovery journey after a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? The truth is, smoking significantly hinders the healing process post-heart attack and can jeopardize your overall well-being. From daily activities to long-term outcomes, smoking plays a detrimental role in your recovery.</p>
+<p>Are you wondering how smoking impacts your recovery journey after a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? The truth is, smoking significantly hinders the healing process post-heart attack and can jeopardize your overall well-being. From daily activities to long-term outcomes, smoking plays a detrimental role in your recovery.</p>
 <h2 class="sec-scrl" id="Post Heart Attack Care">Post Heart Attack Care</h2>
 <p>After experiencing a heart attack, your post-heart attack care is crucial for a successful recovery. However, if you continue smoking, it can impede the effectiveness of your treatment plan. Smoking not only reduces the efficacy of medications prescribed to you but also hampers the natural healing processes occurring in your body.</p>
 <p>Here are some key aspects of post-heart attack care that are directly impacted by smoking:</p>
@@ -151,7 +151,7 @@
 <p>Factors contributing to extended recovery times in smokers include:</p>
 <ul>
 <li>Decreased oxygen delivery to tissues</li>
-<li>Reduced <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> recovery</li>
+<li>Reduced <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> recovery</li>
 <li>Delayed heart repair mechanisms</li>
 </ul>
 <h2 class="sec-scrl" id="Smoking and Healing">Smoking and Healing</h2>

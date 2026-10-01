@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range and Purpose of Bicycle Ergometer Stress Test" property="og:title"/>
 <meta content="Bicycle ergometer stress test assesses heart function during exercise. Read more about its purpose, costs, and normal Range to analyse heart performance." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/bicycle-ergometer-stress-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/bicycle-ergometer-stress-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/bicycle-ergometer-stress-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/bicycle-ergometer-stress-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bicycle Ergometer Stress Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/bicycle-ergometer-stress-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/bicycle-ergometer-stress-test"  
       }]
     }
   </script>
@@ -157,7 +157,7 @@
 <div class="article-content">
 <h1>Normal Levels and Purpose of Bicycle Ergometer Stress Test</h1>
 <p>A Bicycle Ergometer Stress Test is a diagnostic pathology test that evaluates how well your heart functions under stress.</p>
-<p>During this test, you will be asked to pedal on a stationary bicycle while your heart rate, blood pressure, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) are monitored. This test is commonly used to assess exercise-induced heart abnormalities and to measure your exercise capacity.</p>
+<p>During this test, you will be asked to pedal on a stationary bicycle while your heart rate, blood pressure, and <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) are monitored. This test is commonly used to assess exercise-induced heart abnormalities and to measure your exercise capacity.</p>
 <p>The Bicycle Ergometer Stress Test is a non-invasive procedure that provides valuable information about your heart health.</p>
 <p>By measuring your heart's response to exercise, healthcare providers can detect any underlying heart conditions or abnormalities that may not be apparent at rest.</p>
 <p>This test is especially useful in assessing your heart's ability to handle physical activity and can help in diagnosing conditions such as coronary artery disease.</p>
@@ -168,7 +168,7 @@
 <p>This test helps healthcare providers assess your heart's response to stress and can aid in diagnosing coronary artery disease, arrhythmias, and other heart conditions.</p>
 <p>Benefits of the Bicycle Ergometer Stress Test include its ability to assess exercise capacity, detect abnormalities that may only occur during physical activity, and provide valuable information for preoperative cardiovascular evaluations.</p>
 <p>This test is also useful in determining the effectiveness of treatment for heart conditions and monitoring changes in heart function over time.</p>
-<p>Scenarios where the Bicycle Ergometer Stress Test is useful include evaluating patients with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, as well as assessing individuals at risk for heart disease.</p>
+<p>Scenarios where the Bicycle Ergometer Stress Test is useful include evaluating patients with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, as well as assessing individuals at risk for heart disease.</p>
 <p>This test can help healthcare providers make informed decisions about treatment plans and lifestyle modifications to improve heart health.</p>
 <h2 id="costs">What are the Costs of Bicycle Ergometer Stress Test Tests in Americas?</h2>
 <p>The cost of a Bicycle Ergometer Stress Test in Americas can vary depending on several factors, including the location of the facility, the expertise of the healthcare provider, and any additional services or tests included in the package.</p>

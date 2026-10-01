@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Fenestration for Type B Dissection: Procedure, Benefits, Risks & Recovery">
   <meta property="og:description" content="Learn about the benefits, risks, indications, and recovery process of the surgical procedure 'Aortic Fenestration for Type B Dissection'.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/aortic-fenestration-for-type-b-dissection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/aortic-fenestration-for-type-b-dissection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/aortic-fenestration-for-type-b-dissection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/aortic-fenestration-for-type-b-dissection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Aortic fenestration for type B dissection",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/aortic-fenestration-for-type-b-dissection"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/aortic-fenestration-for-type-b-dissection"  
       }]
     }
   </script>

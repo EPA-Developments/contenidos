@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myopericarditis: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Myopericarditis involves inflammation of both the heart muscle and the surrounding membrane. Read more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myopericarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myopericarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myopericarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myopericarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myopericarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myopericarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myopericarditis"
       }]
     }
   </script>
@@ -169,9 +169,9 @@
 <p>Myopericarditis is a condition characterized by inflammation of both the heart muscle (myocardium) and the thin sac surrounding the heart (pericardium). This dual inflammation can have significant implications for cardiac function, leading to potential complications if left untreated.</p>
 <p>Myopericarditis is a relatively rare condition but can have a profound impact on an individual's health and well-being. It is crucial to understand the essential functions of the heart and how Myopericarditis can affect each of these functions.</p>
 <p>The heart performs the vital function of pumping oxygen-rich blood throughout the body, ensuring that all organs receive the necessary nutrients and oxygen to function optimally.</p>
-<p>When the myocardium and pericardium become inflamed, the heart's ability to effectively pump blood may be compromised, leading to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</p>
-<p>In the short term, untreated Myopericarditis can result in <a href="https://plataforma.epa-bienestar.com.ar/diseases/acute-heart-failure">acute heart failure</a>, arrhythmias, and even sudden cardiac death.</p>
-<p>In the long term, chronic inflammation of the heart muscle and pericardium can lead to structural changes in the heart, increasing the risk of developing conditions such as dilated <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or constrictive <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a>.</p>
+<p>When the myocardium and pericardium become inflamed, the heart's ability to effectively pump blood may be compromised, leading to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</p>
+<p>In the short term, untreated Myopericarditis can result in <a href="https://contenidos.segundaopinionmedica.org/diseases/acute-heart-failure">acute heart failure</a>, arrhythmias, and even sudden cardiac death.</p>
+<p>In the long term, chronic inflammation of the heart muscle and pericardium can lead to structural changes in the heart, increasing the risk of developing conditions such as dilated <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or constrictive <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a>.</p>
 <p>It is essential to note that Myopericarditis can be asymptomatic in its early stages, underscoring the importance of early detection through regular screenings, especially in individuals with known risk factors such as a recent viral infection or autoimmune disease.</p>
 <h2 id="causes">Causes of Myopericarditis</h2>
 <p>Myopericarditis can have various causes, each contributing to the inflammatory process affecting the heart.</p>
@@ -184,13 +184,13 @@
 <h2 id="symptoms">Symptoms of Myopericarditis</h2>
 <p>Early-stage symptoms of Myopericarditis may include mild chest discomfort, fatigue, and low-grade fever. These symptoms can impact daily activities by causing fatigue, reduced exercise tolerance, and overall malaise.</p>
 <p>It is crucial to recognize these early symptoms as they can be subtle and easily misunderstood, leading to delayed diagnosis and treatment.</p>
-<p>Advanced-stage symptoms of Myopericarditis may manifest as severe chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and shortness of breath. These symptoms can significantly impact physical well-being by causing severe discomfort, decreased exercise capacity, and potential complications such as arrhythmias or heart failure.</p>
+<p>Advanced-stage symptoms of Myopericarditis may manifest as severe chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and shortness of breath. These symptoms can significantly impact physical well-being by causing severe discomfort, decreased exercise capacity, and potential complications such as arrhythmias or heart failure.</p>
 <p>Emotionally, advanced-stage symptoms can be distressing and anxiety-provoking, as they signal a more severe progression of the disease.</p>
 <h2>Diagnosis of Myopericarditis</h2>
 <p>The diagnosis of Myopericarditis typically involves a multi-step approach to assess cardiac function and inflammation accurately.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test records the electrical activity of the heart and can detect abnormalities indicative of myocardial inflammation or damage.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create images of the heart and assess its structure and function, helping to identify any abnormalities related to Myopericarditis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test records the electrical activity of the heart and can detect abnormalities indicative of myocardial inflammation or damage.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create images of the heart and assess its structure and function, helping to identify any abnormalities related to Myopericarditis.</li>
 <li>Cardiac MRI: A cardiac MRI provides detailed images of the heart, allowing for a more precise evaluation of myocardial and pericardial inflammation in cases of Myopericarditis.</li>
 <li>Blood Tests: Blood tests can measure markers of inflammation and cardiac damage, helping to confirm the diagnosis of Myopericarditis and monitor disease progression.</li>
 </ul>

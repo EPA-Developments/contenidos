@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pallor Symptoms, Causes and Treatment: Understanding Anemia and Heart Disease">
   <meta property="og:description" content="Experiencing pallor? Learn about causes, symptoms, and treatment options for pallor, including its association with anemia and heart disease. Know when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pallor">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pallor">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pallor" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pallor" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pallor",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pallor"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pallor"  
       }]
     }
   </script>
@@ -187,10 +187,10 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Pallor Symptoms, Causes and Treatment: Understanding Anemia and Heart Disease</h1>
 <p>Pallor refers to an unnatural paleness of the skin that can be a sign of an underlying health issue. It is often characterized by a loss of color in the face, resulting in a pale complexion.</p>
-<p>Pallor is not a condition in itself but rather a symptom of an underlying problem, such as anemia or heart disease. Symptoms of pallor may include pale skin, skin discoloration, and a general feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</p>
+<p>Pallor is not a condition in itself but rather a symptom of an underlying problem, such as anemia or heart disease. Symptoms of pallor may include pale skin, skin discoloration, and a general feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</p>
 <h2 id="forms">What are the Forms of Pallor?</h2>
 <p>There are different forms of pallor, each with specific symptoms and related concepts. Pale skin is a common form of pallor, where the skin loses its natural color and appears lighter than usual.</p>
-<p>Unnatural paleness can also manifest as a result of low blood count, leading to a pale complexion. Anemia symptoms, such as fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, are often associated with pallor.</p>
+<p>Unnatural paleness can also manifest as a result of low blood count, leading to a pale complexion. Anemia symptoms, such as fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, are often associated with pallor.</p>
 <h2 id="causes">What are the Causes of Pallor?</h2>
 <p>Pallor can be caused by various factors, including anemia, which is a condition characterized by a low red blood cell count. Other causes of pallor may include blood loss, nutritional deficiencies, and certain medical conditions like heart disease.</p>
 <p>Additionally, emotional factors such as fear or anxiety can also lead to temporary pallor.</p>
@@ -208,7 +208,7 @@
 <p>Treatment for pallor depends on the underlying cause. In cases of anemia, iron supplements or dietary changes may be recommended to boost red blood cell production. For pallor related to heart disease, treatment may involve managing the underlying cardiovascular condition.</p>
 <p>Lifestyle changes such as improving nutrition and managing stress can also help alleviate symptoms of pallor.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent symptoms of pallor, especially if accompanied by other concerning signs such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or fainting.</p>
+<p>It is essential to seek medical attention if you experience persistent symptoms of pallor, especially if accompanied by other concerning signs such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or fainting.</p>
 <p>If pallor is sudden or severe, it may indicate a more serious underlying condition that requires immediate medical evaluation.</p>
 <h2>Home Remedies for Pallor</h2>
 <p>While medical treatment is crucial for addressing the underlying causes of pallor, some home remedies may help alleviate symptoms and improve overall health. Eating a balanced diet rich in iron and vitamin C can help boost red blood cell production.</p>

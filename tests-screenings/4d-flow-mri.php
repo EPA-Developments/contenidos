@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="4D Flow Mri: Purpose, Normal Range and Costs" property="og:title"/>
 <meta content="4D flow MRI is a technique that uses radio waves and magnets to create images of the heart and blood flow. Know more about its purpose and normal Range." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/4d-flow-mri" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/4d-flow-mri" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/4d-flow-mri" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/4d-flow-mri" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "4D Flow MRI",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/4d-flow-mri"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/4d-flow-mri"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Surgery for Adult Heart Holes" />
     <meta property="og:description" content="Learn about heart surgery for adults with a hole in the heart: VSD closure, medication, monitoring, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/treatment-for-hole-in-heart-adults" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/treatment-for-hole-in-heart-adults" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/treatment-for-hole-in-heart-adults" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/treatment-for-hole-in-heart-adults" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Treatment For Hole In Heart Adults",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/treatment-for-hole-in-heart-adults"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/treatment-for-hole-in-heart-adults"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Heart Surgery for Adult Heart Holes</h1>
-<p>Do you wonder how treatment for a hole in the heart can improve your quality of life as an adult? Living with a heart defect can be challenging, affecting your daily activities and overall well-being. Let's explore the role of <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> in treating these conditions and how it can help you lead a healthier life.</p>
+<p>Do you wonder how treatment for a hole in the heart can improve your quality of life as an adult? Living with a heart defect can be challenging, affecting your daily activities and overall well-being. Let's explore the role of <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> in treating these conditions and how it can help you lead a healthier life.</p>
 <h2 class="sec-scrl" id="VSD closure surgery">VSD Closure Surgery</h2>
 <p>One of the primary treatment options for a hole in the heart, specifically a Ventricular Septal Defect (VSD), is surgical closure. During VSD closure surgery, the cardiac surgeon repairs the hole in the wall that separates the heart's lower chambers. This procedure helps improve the heart's function and reduces complications associated with the hole.</p>
 <ul>
@@ -199,7 +199,7 @@
 <li>Patients should follow up with a cardiologist as recommended to maintain optimal heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="Adult congenital care">Adult Congenital Care</h2>
-<p>Adults living with congenital heart defects require specialized care from healthcare providers familiar with adult <a href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-disease">congenital heart disease</a>. These experts can provide tailored treatment plans and ongoing support.</p>
+<p>Adults living with congenital heart defects require specialized care from healthcare providers familiar with adult <a href="https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-disease">congenital heart disease</a>. These experts can provide tailored treatment plans and ongoing support.</p>
 <ul>
 <li>Adult congenital heart specialists have expertise in managing complex heart conditions and addressing unique challenges faced by adult patients.</li>
 <li>Collaboration with a multidisciplinary team, including cardiologists, surgeons, and other specialists, is essential for comprehensive care.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Viral Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Viral Cardiomyopathy weakens heart muscles due to infection. Know more about its symptoms, causes, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/viral-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/viral-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/viral-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/viral-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Viral Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/viral-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/viral-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Viral Cardiomyopathy</h1>
-<p>Viral cardiomyopathy is a condition where a virus infects the heart muscle, leading to heart muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. This can result in heart failure or irregular heartbeats. It is a significant condition as it can impair the heart's ability to pump blood effectively. Viral cardiomyopathy is not extremely common, but it is not rare either, affecting a notable number of individuals worldwide. Understanding its symptoms and seeking medical attention promptly is crucial for managing the condition effectively.</p>
+<p>Viral cardiomyopathy is a condition where a virus infects the heart muscle, leading to heart muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. This can result in heart failure or irregular heartbeats. It is a significant condition as it can impair the heart's ability to pump blood effectively. Viral cardiomyopathy is not extremely common, but it is not rare either, affecting a notable number of individuals worldwide. Understanding its symptoms and seeking medical attention promptly is crucial for managing the condition effectively.</p>
 <h2 id="causes">Causes of Viral Cardiomyopathy</h2>
 <p>Viral cardiomyopathy can develop due to various factors, including:
 
@@ -176,12 +176,12 @@
 <p>Viral Cardiomyopathy is a condition where a virus attacks the heart muscle, leading to weakened heart function. Recognizing the symptoms early is crucial for prompt intervention and improved outcomes. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Fatigue or weakness</li>
 <li>Swelling in the legs, ankles, or feet</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Persistent cough</li>
 <li>Fluid buildup in the lungs</li>
 </ul>
@@ -193,8 +193,8 @@ If you experience any of these symptoms, especially if they persist or worsen, i
 <ul>
 <li>Physical examination and medical history review</li>
 <li>Blood tests to check for viral infections</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
 <li>Cardiac MRI or CT scans for detailed heart imaging</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Viral Cardiomyopathy</h2>

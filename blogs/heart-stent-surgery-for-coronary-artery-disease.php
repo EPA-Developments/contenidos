@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Stent Surgery for Treating Coronary Artery Disease">
   <meta property="og:description" content="Learn about the role of heart stent surgery in treating coronary artery disease, a minimally invasive procedure that can help improve heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-stent-surgery-for-coronary-artery-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-stent-surgery-for-coronary-artery-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-stent-surgery-for-coronary-artery-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-stent-surgery-for-coronary-artery-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Stent Surgery For Treating Coronary Artery Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-stent-surgery-for-coronary-artery-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-stent-surgery-for-coronary-artery-disease"  
       }]
     }
   </script>

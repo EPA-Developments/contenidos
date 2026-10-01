@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Healthy Raisins: A Nutritious Addition" />
     <meta property="og:description" content="Discover the benefits of heart-healthy raisins in your diet. Boost your heart health with this nutritious addition." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-raisins" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-raisins" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-raisins" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-raisins" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Healthy Raisins",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-raisins"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-raisins"
         }
     ]
 }

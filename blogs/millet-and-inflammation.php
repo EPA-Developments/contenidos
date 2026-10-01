@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Millet's Role in Cardio Inflammation&quot;" />
     <meta property="og:description" content="Explore how Millet impacts cardiovascular inflammation. Discover its benefits for heart health. Learn more about Millet and inflammation today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/millet-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/millet-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Millet And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/millet-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/millet-and-inflammation"
         }
     ]
 }
@@ -158,7 +158,7 @@
 <p>Can incorporating millet into your diet actually help prevent heart disease in the long run? Let's explore how the unique nutritional profile of millet makes it a promising addition to a heart-healthy diet and lifestyle.</p>
 <p>Here are some reasons why millet may be beneficial for heart disease prevention:</p>
 <ul>
-<li>The fiber content in millet supports healthy cholesterol levels, reducing the risk of plaque buildup in the arteries and the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>The fiber content in millet supports healthy cholesterol levels, reducing the risk of plaque buildup in the arteries and the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Millet is a rich source of essential nutrients like folate, which plays a crucial role in maintaining a healthy cardiovascular system and preventing heart disease.</li>
 <li>Incorporating millet into a balanced diet can help diversify nutrient intake, supporting overall heart health and reducing the risk of cardiovascular issues over time.</li>
 </ul>

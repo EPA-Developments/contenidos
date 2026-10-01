@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Epigastric Pain: Causes, Symptoms, and Treatment - Seek Help for Gastric Discomfort">
   <meta property="og:description" content="Experiencing epigastric pain? Learn about causes, symptoms, treatment options, and when to seek help for managing epigastric pain, including potential links to heart disease and gastritis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/epigastric-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/epigastric-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/epigastric-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/epigastric-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Epigastric Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/epigastric-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/epigastric-pain"  
       }]
     }
   </script>
@@ -206,7 +206,7 @@
 <li>Gastritis: Inflammation of the stomach lining that can cause pain and discomfort.</li>
 <li>Gastroesophageal reflux disease (GERD): Acid reflux leading to irritation of the esophagus and upper abdomen.</li>
 <li>Peptic ulcers: Open sores in the stomach or small intestine that can cause pain and bleeding.</li>
-<li>Heart disease: Conditions such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> can cause referred pain to the upper abdomen.</li>
+<li>Heart disease: Conditions such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> can cause referred pain to the upper abdomen.</li>
 <li>Gallbladder disease: Inflammation or stones in the gallbladder can lead to epigastric pain.</li>
 </ul>
 <p>Identifying the specific cause of epigastric pain is crucial for effective treatment and management. Consulting with a healthcare provider is essential to determine the underlying condition and develop a personalized care plan.</p>
@@ -237,7 +237,7 @@
 <li>Difficulty swallowing: Trouble swallowing food or liquids, which may indicate an underlying issue in the esophagus.</li>
 <li>Blood in vomit or stool: Presence of blood in vomit or stool, suggesting bleeding in the digestive tract.</li>
 <li>Unexplained weight loss: Significant weight loss without changes in diet or exercise habits.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort or pressure along with epigastric pain, which may indicate heart-related issues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort or pressure along with epigastric pain, which may indicate heart-related issues.</li>
 </ul>
 <p>If you experience any of these symptoms or concerns, it is essential to consult with a healthcare provider promptly. Early diagnosis and treatment can help prevent complications and improve outcomes for individuals with epigastric pain.</p>
 <h2>Home Remedies for Epigastric pain</h2>

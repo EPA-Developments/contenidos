@@ -10,12 +10,12 @@
     <meta property="og:title" content="Walnuts for Heart Health: Key Benefits" />
     <meta property="og:description" content="Discover how walnuts can help prevent heart disease and protect your arteries. Learn more about the benefits of walnuts today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-in-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/walnuts-in-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-in-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/walnuts-in-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Walnuts In Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/walnuts-in-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/walnuts-in-heart-disease-prevention"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>Walnuts offer a natural way to protect your heart and prevent heart attacks. By including walnuts in your diet, you can improve your artery protection and reduce the buildup of plaque that can lead to heart attacks. These heart-healthy nuts also contain arginine, an amino acid that supports proper artery function and helps maintain healthy blood flow.</p>
 <p>Studies have shown that consuming walnuts regularly can lead to a significant decrease in the risk of heart attacks and other cardiovascular events. Adding a handful of walnuts to your daily meals can be a simple yet effective way to safeguard your heart health.</p>
 <h2 class="sec-scrl" id="artery-protection">How Do Walnuts Protect Arteries?</h2>
-<p>Walnuts play a vital role in protecting your arteries by improving their flexibility and reducing inflammation. The combination of omega-3 fatty acids and antioxidants in walnuts helps prevent the hardening of arteries and promotes better blood flow. This artery protection is essential in reducing the risk of developing cardiovascular diseases such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Walnuts play a vital role in protecting your arteries by improving their flexibility and reducing inflammation. The combination of omega-3 fatty acids and antioxidants in walnuts helps prevent the hardening of arteries and promotes better blood flow. This artery protection is essential in reducing the risk of developing cardiovascular diseases such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <ul>
 <li>The anti-inflammatory properties of walnuts help reduce the risk of plaque buildup in your arteries.</li>
 <li>Walnuts can improve the elasticity of your blood vessels, supporting optimal circulation.</li>

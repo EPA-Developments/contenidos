@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mulberries for Blood Pressure: A Natural Solution" />
     <meta property="og:description" content="Discover how mulberries can help lower blood pressure naturally. Learn about their benefits for cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mulberries And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-blood-pressure"
         }
     ]
 }
@@ -129,8 +129,8 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Mulberries: Natural Blood Pressure Solution</h1>
-<p>Are you struggling to manage your blood pressure levels effectively? Does the constant worry about <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> impact your daily activities and quality of life?</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that affects millions of people worldwide. It is often referred to as the "silent killer" because it can lead to serious health complications without any noticeable symptoms. Fortunately, nature provides us with various remedies that can help regulate blood pressure levels, with mulberries being one of the most effective solutions.</p>
+<p>Are you struggling to manage your blood pressure levels effectively? Does the constant worry about <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> impact your daily activities and quality of life?</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that affects millions of people worldwide. It is often referred to as the "silent killer" because it can lead to serious health complications without any noticeable symptoms. Fortunately, nature provides us with various remedies that can help regulate blood pressure levels, with mulberries being one of the most effective solutions.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Do Mulberries Support Blood Pressure Regulation?</h2>
 <p>Mulberries are packed with nutrients that promote heart health and help in regulating blood pressure. Here's how mulberries contribute to maintaining healthy blood pressure levels:</p>
 <ul>

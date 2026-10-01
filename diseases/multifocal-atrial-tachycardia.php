@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Multifocal Atrial Tachycardia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Multifocal Atrial Tachycardia causes irregular heartbeats. Read more about its symptoms, causes, and treatment for stable heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/multifocal-atrial-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/multifocal-atrial-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/multifocal-atrial-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/multifocal-atrial-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Multifocal Atrial Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/multifocal-atrial-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/multifocal-atrial-tachycardia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Multifocal Atrial Tachycardia</h1>
-<p>Multifocal Atrial Tachycardia (MAT) is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> that originates from multiple locations in the upper chambers of the heart. It's significant because it can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort. MAT is more common in older individuals, especially those with underlying lung diseases. Understanding MAT is crucial as it can impact heart function and quality of life. If you experience symptoms of MAT, seeking medical attention is important for proper diagnosis and management.</p>
+<p>Multifocal Atrial Tachycardia (MAT) is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> that originates from multiple locations in the upper chambers of the heart. It's significant because it can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort. MAT is more common in older individuals, especially those with underlying lung diseases. Understanding MAT is crucial as it can impact heart function and quality of life. If you experience symptoms of MAT, seeking medical attention is important for proper diagnosis and management.</p>
 <h2 id="causes">Causes of Multifocal Atrial Tachycardia</h2>
 <p>Multifocal Atrial Tachycardia (MAT) can develop due to various factors. These include:
 
@@ -178,9 +178,9 @@
 <ul>
 <li>Rapid or irregular heartbeat</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 
 Detecting these signs promptly allows for timely evaluation and management, potentially preventing complications associated with MAT. If you experience any of these symptoms, seeking medical attention promptly is essential for proper diagnosis and treatment.</p>
@@ -189,7 +189,7 @@ Detecting these signs promptly allows for timely evaluation and management, pote
 
 Diagnostic Process for MAT:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
 <li>Echocardiogram: Evaluates heart structure and function.</li>
 <li>Blood Tests: Check for underlying conditions like electrolyte imbalances.</li>
 <li>Holter Monitor: Records heart activity over 24-48 hours.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Bundle Branch Block Life Expectancy: Research Findings">
   <meta property="og:description" content="Discover the latest research on left bundle branch block life expectancy and what it means for your health. Learn more about left bundle branch block life expectancy here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/left-bundle-branch-block-life-expectancy-research">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/left-bundle-branch-block-life-expectancy-research">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/left-bundle-branch-block-life-expectancy-research" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/left-bundle-branch-block-life-expectancy-research" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Left Bundle Branch Block Life Expectancy: Research Findings",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/left-bundle-branch-block-life-expectancy-research"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/left-bundle-branch-block-life-expectancy-research"  
       }]
     }
   </script>

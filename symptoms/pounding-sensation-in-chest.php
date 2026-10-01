@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pounding Sensation in Chest: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="A pounding sensation in the chest may signal heart issues. Get details on symptoms, causes, diagnosis, and treatment options for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pounding-sensation-in-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pounding-sensation-in-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pounding-sensation-in-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pounding-sensation-in-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pounding Sensation In Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pounding-sensation-in-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pounding-sensation-in-chest"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Pounding Sensation in Chest: Causes, Symptoms, and Diagnosis</h1>
 <p>Pounding sensation in the chest refers to a feeling of strong, forceful heartbeats that may be uncomfortable or concerning. This sensation is often described as a thumping, pulsing, or throbbing feeling in the chest area.</p>
 <p>It can be a normal response to physical exertion, stress, or anxiety. However, persistent or severe chest pounding may indicate an underlying medical condition that requires attention.</p>
-<p>Symptoms of pounding sensation in the chest may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</p>
+<p>Symptoms of pounding sensation in the chest may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</p>
 <p>It is essential to pay attention to these symptoms and seek medical advice if the pounding sensation is recurring or accompanied by other concerning signs.</p>
 <h2 id="forms">What are the Forms of Pounding sensation in chest?</h2>
 <p>There are several forms of pounding sensation in the chest, each with its specific symptoms and related concepts.</p>
@@ -199,7 +199,7 @@
 <p>It is essential to consider the specific form of pounding sensation in the chest when seeking medical advice or treatment.</p>
 <h2 id="causes">What are the Causes of Pounding sensation in chest?</h2>
 <p>Pounding sensation in the chest can be caused by various factors, including physical exertion, stress, anxiety, caffeine consumption, dehydration, and certain medications.</p>
-<p>In some cases, underlying medical conditions such as heart disease, arrhythmias, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, thyroid disorders, and anemia may lead to chest pounding.</p>
+<p>In some cases, underlying medical conditions such as heart disease, arrhythmias, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, thyroid disorders, and anemia may lead to chest pounding.</p>
 <p>It is crucial to identify the specific cause of the pounding sensation to determine the appropriate treatment and management plan.</p>
 <ul>
 <li>Physical exertion or strenuous exercise</li>
@@ -214,7 +214,7 @@
 <li>Anemia</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Pounding sensation in chest?</h2>
-<p>The diagnostic method for pounding sensation in the chest typically involves a thorough medical history, physical examination, and additional tests to determine the underlying cause. Basic diagnostic tests may include an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), blood tests, chest X-ray, and echocardiogram.</p>
+<p>The diagnostic method for pounding sensation in the chest typically involves a thorough medical history, physical examination, and additional tests to determine the underlying cause. Basic diagnostic tests may include an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), blood tests, chest X-ray, and echocardiogram.</p>
 <p>Advanced diagnostic techniques such as Holter monitoring, stress tests, and cardiac catheterization may be recommended in certain cases to evaluate the heart's function and rhythm.</p>
 <p>It is essential to consult a healthcare provider for an accurate diagnosis and appropriate treatment plan based on the specific cause of the pounding sensation in the chest.</p>
 <p>Regular monitoring and follow-up may be necessary to ensure optimal management of the condition and prevent potential complications.</p>

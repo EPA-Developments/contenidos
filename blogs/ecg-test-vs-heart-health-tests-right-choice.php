@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="ECG Test vs. Other Heart Health Tests: Which is Right for You?">
   <meta property="og:description" content="Learn the differences between an ECG test and other heart health tests to determine which is best for you. Find out if an ECG test is right for your needs.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/ecg-test-vs-heart-health-tests-right-choice">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/ecg-test-vs-heart-health-tests-right-choice">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/ecg-test-vs-heart-health-tests-right-choice" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/ecg-test-vs-heart-health-tests-right-choice" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ecg Test Vs. Other Heart Health Tests: Which Is Right For You?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/ecg-test-vs-heart-health-tests-right-choice"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/ecg-test-vs-heart-health-tests-right-choice"  
       }]
     }
   </script>

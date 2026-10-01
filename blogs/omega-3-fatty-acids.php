@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Omega 3 Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of Omega 3 Fatty Acids for heart health. Learn about sources, prevention, and regulation for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 Fatty Acids",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids"
         }
     ]
 }
@@ -155,11 +155,11 @@
 </ul>
 <p>Including these Omega 3-rich foods in your diet can significantly boost your heart health and overall well-being.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">Regulating Blood Pressure with Omega 3 Fatty Acids</h2>
-<p>Struggling with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Omega 3 Fatty Acids can be a game-changer by:</p>
+<p>Struggling with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Omega 3 Fatty Acids can be a game-changer by:</p>
 <ul>
 <li>Helping to lower blood pressure levels</li>
 <li>Improving blood vessel function</li>
-<li>Reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 </ul>
 <p>By incorporating Omega 3 Fatty Acids into your daily meals, you can take control of your blood pressure and support your heart health naturally.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

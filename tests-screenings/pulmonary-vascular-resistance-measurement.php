@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Pulmonary Vascular Resistance Measurement: Costs and Purpose" property="og:title"/>
 <meta content="Pulmonary vascular resistance measurement checks blood flow pressure in the lungs. Know more about its purpose, cost, and normal Range for better results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-vascular-resistance-measurement" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-vascular-resistance-measurement" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-vascular-resistance-measurement" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-vascular-resistance-measurement" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Vascular Resistance Measurement",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-vascular-resistance-measurement"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-vascular-resistance-measurement"  
       }]
     }
   </script>
@@ -176,14 +176,14 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs and Purpose of Pulmonary Vascular Resistance Measurement</h1>
-<p>Pulmonary Vascular Resistance Measurement is a diagnostic pathology test that helps in assessing the resistance in the blood vessels of the lungs. This test is crucial in diagnosing conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and lung diseases.</p>
+<p>Pulmonary Vascular Resistance Measurement is a diagnostic pathology test that helps in assessing the resistance in the blood vessels of the lungs. This test is crucial in diagnosing conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and lung diseases.</p>
 <p>By measuring the pressure in the pulmonary circulation, healthcare providers can evaluate the efficiency of the right heart and assess the overall lung blood flow.</p>
 <p>The Role of PVR in assessing lung blood flow is instrumental in understanding how well oxygen is being transported to the body's tissues.</p>
 <p>By measuring the resistance in the pulmonary vessels, doctors can identify any abnormalities in the circulation that may be affecting the lung function.</p>
 <p>Measuring PVR is also beneficial in evaluating the treatment response in patients with pulmonary hypertension. By monitoring the changes in resistance over time, healthcare providers can adjust medications and interventions to improve the patient's condition.</p>
 <h2 id="purpose">What is the Purpose of Performing a Pulmonary Vascular Resistance Measurement Test?</h2>
 <p>The primary purpose of performing a Pulmonary Vascular Resistance Measurement test is to diagnose pulmonary hypertension accurately.</p>
-<p>This condition is characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs, leading to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fatigue.</p>
+<p>This condition is characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs, leading to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fatigue.</p>
 <p>Another essential purpose of PVR measurement is to assess the efficiency of the right heart.</p>
 <p>The right heart pumps blood to the lungs for oxygenation, and any increase in resistance in the pulmonary vessels can strain the heart and lead to heart failure.</p>
 <p>Measuring PVR is also crucial in evaluating lung diseases such as chronic obstructive pulmonary disease (COPD) and interstitial lung disease.</p>
@@ -205,12 +205,12 @@
 <p>This elevated pressure can strain the right heart and affect its ability to pump blood efficiently to the lungs.</p>
 <ul>
 <li>Causes of high PVR levels include:</li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a></li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a></li>
 <li>Chronic lung diseases</li>
 <li>Left heart failure</li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease">vascular disease</a></li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-disease">vascular disease</a></li>
 </ul>
-<p>Risks associated with high PVR levels include worsening symptoms of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, chest pain, and fatigue. If left untreated, pulmonary hypertension can progress and lead to severe complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure">right heart failure</a> and even death.</p>
+<p>Risks associated with high PVR levels include worsening symptoms of <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, chest pain, and fatigue. If left untreated, pulmonary hypertension can progress and lead to severe complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure">right heart failure</a> and even death.</p>
 <p>In such cases, healthcare providers may recommend medications to lower pulmonary vascular resistance, lifestyle modifications, and close monitoring of the patient's condition to prevent further complications.</p>
 <h2>What Do Low Pulmonary Vascular Resistance Measurement Levels Indicate?</h2>
 <p>Low Pulmonary Vascular Resistance Measurement levels indicate decreased resistance in the blood vessels of the lungs, which may be a sign of efficient blood flow and healthy lung function.</p>

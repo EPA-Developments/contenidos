@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Key Congestive Heart Failure Risk Factors: What You Need to Know">
   <meta property="og:description" content="Learn about the key congestive heart failure risk factors you should be aware of to protect your heart health. Stay informed and stay healthy.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/key-congestive-heart-failure-risk-factors">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/key-congestive-heart-failure-risk-factors">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/key-congestive-heart-failure-risk-factors" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/key-congestive-heart-failure-risk-factors" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Key Congestive Heart Failure Risk Factors: What You Need To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/key-congestive-heart-failure-risk-factors"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/key-congestive-heart-failure-risk-factors"  
       }]
     }
   </script>

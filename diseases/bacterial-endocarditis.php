@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bacterial Endocarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Bacterial Endocarditis infects heart valves, leading to complications. Know the symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bacterial-endocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bacterial-endocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bacterial-endocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bacterial-endocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bacterial Endocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bacterial-endocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bacterial-endocarditis"
       }]
     }
   </script>
@@ -178,13 +178,13 @@
 <ul>
 <li>Fever</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Unexplained weight loss</li>
 <li>Night sweats</li>
 <li>Paleness</li>
 <li>Joint pain</li>
-<li>New or changed <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li>New or changed <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 <li>Small, tender, red spots on the skin</li>
 </ul> 
 
@@ -195,7 +195,7 @@ If you experience any of these symptoms, especially if you have underlying heart
 <ul>
 <li>Physical examination to check for signs of infection or heart abnormalities</li>
 <li>Blood cultures to identify the bacteria causing the infection</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart structures and detect any abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart structures and detect any abnormalities</li>
 <li>Other imaging tests like CT scans or MRI for further evaluation</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Bacterial Endocarditis</h2>

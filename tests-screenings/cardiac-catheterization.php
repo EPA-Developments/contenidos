@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Cardiac Catheterization: Costs and Normal Range" property="og:title"/>
 <meta content="Cardiac catheterization helps diagnose heart conditions. Read more about its purpose, costs, and normal Range, as well as its importance." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-catheterization" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-catheterization" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-catheterization" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-catheterization" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Catheterization",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-catheterization"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-catheterization"  
       }]
     }
   </script>
@@ -176,9 +176,9 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Values and Costs for Cardiac Catheterization</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> is a minimally invasive procedure used to diagnose and treat various heart conditions.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> is a minimally invasive procedure used to diagnose and treat various heart conditions.</p>
 <p>During this procedure, a thin, flexible tube called a catheter is inserted into a blood vessel in the arm, groin, or neck and threaded through to the heart.</p>
-<p>Examples of cardiac catheterization procedures include coronary angiography to assess the coronary arteries for blockages, measuring blood pressure within the heart chambers, and performing interventions such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> and stenting to open blocked arteries.</p>
+<p>Examples of cardiac catheterization procedures include coronary angiography to assess the coronary arteries for blockages, measuring blood pressure within the heart chambers, and performing interventions such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> and stenting to open blocked arteries.</p>
 <p>Related concepts to cardiac catheterization include the role of catheterization in diagnosing heart blockages, evaluating heart function, and guiding treatment decisions for patients with heart disease.</p>
 <h2 id="purpose">What is the Purpose of Performing a Cardiac Catheterization Test?</h2>
 <p>The primary purpose of a cardiac catheterization test is to diagnose and evaluate various heart conditions, including coronary artery disease, heart blockages, and heart valve problems.</p>
@@ -199,11 +199,11 @@
 <p>It is essential to interpret these values in the context of the patient's overall health, medical history, and specific heart condition.</p>
 <h2>What Do High Cardiac Catheterization Levels Indicate?</h2>
 <p>High cardiac catheterization levels can indicate various heart conditions, including coronary artery disease, heart failure, and heart valve problems.</p>
-<p>Causes of high cardiac catheterization levels may include <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, and obesity. Risks associated with high levels include an increased risk of heart attacks, strokes, and other cardiovascular events.</p>
+<p>Causes of high cardiac catheterization levels may include <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, and obesity. Risks associated with high levels include an increased risk of heart attacks, strokes, and other cardiovascular events.</p>
 <p>High cardiac catheterization levels may require further testing, lifestyle modifications, medication, or interventions such as angioplasty or bypass surgery to manage the underlying heart condition.</p>
 <h2>What Do Low Cardiac Catheterization Levels Indicate?</h2>
 <p>Low cardiac catheterization levels can indicate conditions such as hypotension, heart failure, or shock.</p>
-<p>Reasons for low cardiac catheterization levels may include dehydration, severe blood loss, heart muscle damage, or certain medications. Associated conditions with low levels include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, and reduced exercise tolerance.</p>
+<p>Reasons for low cardiac catheterization levels may include dehydration, severe blood loss, heart muscle damage, or certain medications. Associated conditions with low levels include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, and reduced exercise tolerance.</p>
 <p>Low cardiac catheterization levels may require immediate medical attention, fluid resuscitation, medication adjustments, or interventions to stabilize the patient's condition and improve heart function.</p>
 <p>In conclusion, cardiac catheterization is a valuable diagnostic tool for evaluating heart conditions, assessing coronary artery disease, and guiding treatment decisions for patients with heart disease.</p>
 <p>By understanding the purpose, costs, normal range, and implications of cardiac catheterization levels, healthcare providers and patients can work together to improve heart health and overall well-being.</p>

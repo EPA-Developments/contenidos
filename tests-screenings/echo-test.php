@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range of values for an echo test and Costs" property="og:title"/>
 <meta content="Echo test uses sound waves to check heart function. Know more about the purpose, costs, and normal Range for heart condition monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/echo-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/echo-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/echo-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/echo-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Echo Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/echo-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/echo-test"  
       }]
     }
   </script>
@@ -156,11 +156,11 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs and Normal Range of values for an Echo Test</h1>
-<p>An echo test, also known as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, is a non-invasive diagnostic test that uses high-frequency sound waves to create images of the heart.</p>
+<p>An echo test, also known as an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, is a non-invasive diagnostic test that uses high-frequency sound waves to create images of the heart.</p>
 <p>These images provide valuable information about the structure and function of the heart, allowing healthcare providers to assess its overall health.</p>
 <p>During an echo test, a transducer is placed on the chest and directed towards the heart. The sound waves produced by the transducer bounce off the heart structures, creating detailed images that can be viewed in real-time on a monitor.</p>
 <p>This test is painless, safe, and does not involve any radiation exposure.</p>
-<p>Echo tests can be performed in different ways, including transthoracic <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> (TTE) and transesophageal echocardiography (TEE). TTE is the most common type of echo test and is performed by placing the transducer on the chest wall.</p>
+<p>Echo tests can be performed in different ways, including transthoracic <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> (TTE) and transesophageal echocardiography (TEE). TTE is the most common type of echo test and is performed by placing the transducer on the chest wall.</p>
 <p>TEE involves inserting the transducer into the esophagus to obtain clearer images of the heart.</p>
 <p>Echo tests are used to diagnose various heart conditions, such as heart valve abnormalities, congenital heart defects, and heart failure. They are an essential tool in assessing heart function and guiding treatment decisions for patients with cardiovascular diseases.</p>
 <h2 id="purpose">What is the Purpose of Performing an Echo Test?</h2>
@@ -170,7 +170,7 @@
 <p>Echo tests also help in evaluating the effectiveness of treatment for heart conditions and monitoring changes over time.</p>
 <p>In addition to diagnosing heart disease, echo tests are used to monitor heart failure and assess the pumping function of the heart.</p>
 <p>By measuring parameters such as ejection fraction and cardiac output, healthcare providers can determine the severity of heart failure and adjust treatment accordingly.</p>
-<p>Echo tests are also valuable in evaluating cardiovascular health in patients with risk factors for heart disease, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a family history of heart problems.</p>
+<p>Echo tests are also valuable in evaluating cardiovascular health in patients with risk factors for heart disease, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a family history of heart problems.</p>
 <p>They can help identify early signs of heart disease and guide preventive measures to reduce the risk of heart attacks or strokes.</p>
 <h2 id="costs">What are the Costs of Echo Test Tests in Americas?</h2>
 <p>The cost of an echo test in Americas can vary depending on various factors, such as the type of echo test performed, the location of the healthcare facility, and any additional services included in the test.</p>

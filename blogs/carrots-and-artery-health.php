@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Carrots: Boosting Artery Health Naturally&quot;" />
     <meta property="og:description" content="Discover how carrots benefit artery health, reduce plaque buildup, and prevent heart disease. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-artery-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-artery-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-artery-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-artery-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots And Artery Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-artery-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-and-artery-health"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <p>How do carrots influence endothelial function? The antioxidants present in carrots, such as beta-carotene, help protect the delicate endothelial cells lining the blood vessels. By reducing inflammation and oxidative stress, carrots support the proper functioning of these cells, which is vital for maintaining healthy blood vessel function.</p>
 <ul>
 <li>Improved endothelial function leads to better regulation of blood pressure and reduced risk of plaque buildup in the arteries.</li>
-<li>Regular consumption of carrots can help prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a common precursor to cardiovascular diseases.</li>
+<li>Regular consumption of carrots can help prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a common precursor to cardiovascular diseases.</li>
 </ul>
 <h2 class="sec-scrl" id="plaque-buildup">Preventing Plaque Buildup</h2>
 <p>How do carrots contribute to preventing plaque buildup in arteries? The antioxidants in carrots not only protect against oxidative damage but also help reduce the accumulation of plaque, which consists of cholesterol, fat, and other substances, in the arterial walls. By reducing plaque buildup, carrots play a crucial role in maintaining clear and healthy arteries.</p>

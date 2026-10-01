@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Fibromuscular Dysplasia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Fibromuscular Dysplasia affects arteries and blood flow. Know more about its causes, symptoms, and treatment to prevent complications." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/fibromuscular-dysplasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/fibromuscular-dysplasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/fibromuscular-dysplasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/fibromuscular-dysplasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Fibromuscular Dysplasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/fibromuscular-dysplasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/fibromuscular-dysplasia"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>Fibromuscular Dysplasia (FMD) is a rare condition that affects the blood vessels, particularly the arteries. Early recognition of FMD symptoms is crucial for timely diagnosis and management, which can lead to better outcomes for patients. Here are some common symptoms of Fibromuscular Dysplasia:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> that is difficult to control</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> that is difficult to control</li>
 <li>Headaches, especially migraines</li>
 <li>Pulsatile tinnitus (hearing your heartbeat in your ears)</li>
 <li>Neck pain or a bruit (abnormal sound) over the carotid arteries</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Blurry vision</li>
 </ul>
 
@@ -195,7 +195,7 @@ Recognizing these symptoms and seeking medical attention promptly can help in di
 <li>Blood tests to rule out other conditions with similar symptoms</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Fibromuscular Dysplasia</h2>
-<p>Fibromuscular Dysplasia (FMD) treatment approaches should be tailored to each individual's specific needs. The main treatment options for FMD include medication management, <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, stenting, and surgical revascularization. 
+<p>Fibromuscular Dysplasia (FMD) treatment approaches should be tailored to each individual's specific needs. The main treatment options for FMD include medication management, <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, stenting, and surgical revascularization. 
 
 <h3>Medication Management</h3>
 <ul>
@@ -223,7 +223,7 @@ Recognizing these symptoms and seeking medical attention promptly can help in di
 <li>Surgical revascularization involves bypassing the narrowed artery with a graft to restore blood flow.</li>
 <li>The rationale is to create a new pathway for blood to bypass the diseased artery.</li>
 <li>The primary objective is to improve blood flow to the affected tissues and organs.</li>
-<li>The procedure may require open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> or other surgical techniques depending on the location of the blockage.</li>
+<li>The procedure may require open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> or other surgical techniques depending on the location of the blockage.</li>
 </ul></p>
 <h2>Prevention and Management of Fibromuscular Dysplasia</h2>
 <p>Making lifestyle changes and taking proactive measures can play a significant role in preventing or managing Fibromuscular Dysplasia (FMD). Here's how you can approach it:

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Kanzaki Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Kanzaki disease affects heart rhythm and function. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/kanzaki-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/kanzaki-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/kanzaki-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/kanzaki-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Kanzaki Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/kanzaki-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/kanzaki-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Kanzaki Disease</h1>
-<p>Kanzaki Disease is a rare condition characterized by the abnormal narrowing of the aorta, the main artery that carries blood from the heart. This narrowing can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and increase the risk of heart problems. While rare, it's essential to diagnose and treat Kanzaki Disease promptly to prevent complications. Although prevalence data is limited, early detection and management are crucial in controlling its progression and ensuring better outcomes for affected individuals. If you suspect any symptoms, consulting a healthcare provider for evaluation is crucial.</p>
+<p>Kanzaki Disease is a rare condition characterized by the abnormal narrowing of the aorta, the main artery that carries blood from the heart. This narrowing can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and increase the risk of heart problems. While rare, it's essential to diagnose and treat Kanzaki Disease promptly to prevent complications. Although prevalence data is limited, early detection and management are crucial in controlling its progression and ensuring better outcomes for affected individuals. If you suspect any symptoms, consulting a healthcare provider for evaluation is crucial.</p>
 <h2 id="causes">Causes of Kanzaki Disease</h2>
 <p>Kanzaki Disease, also known as isolated noncompaction of the ventricular myocardium, develops due to various factors. These include:
 
@@ -175,11 +175,11 @@
 <p>Early recognition of symptoms of Kanzaki Disease is crucial for better outcomes. Recognizing these symptoms promptly can lead to timely intervention and management. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they are persistent or severe, it is essential to seek medical attention promptly. Early detection and management can significantly impact the prognosis of Kanzaki Disease.</p>
@@ -187,8 +187,8 @@ If you experience any of these symptoms, especially if they are persistent or se
 <p>Kanzaki Disease, a rare genetic disorder affecting the heart's electrical system, requires accurate diagnosis for appropriate management. The diagnostic process typically involves a thorough evaluation to differentiate it from other cardiac conditions. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Holter monitor for continuous ECG monitoring</li>
 </ul>

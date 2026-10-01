@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oranges for Lowering Cholesterol: A Deep Dive&quot;" />
     <meta property="og:description" content="Discover how oranges can help lower cholesterol levels naturally. Learn about the benefits of oranges for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oranges-and-cholesterol-reduction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oranges-and-cholesterol-reduction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oranges-and-cholesterol-reduction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oranges-and-cholesterol-reduction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oranges And Cholesterol Reduction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oranges-and-cholesterol-reduction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oranges-and-cholesterol-reduction"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Oranges in Lowering Cholesterol</h1>
-<p>Are you struggling to control your cholesterol levels despite making efforts to eat healthily? Have you considered the potential benefits of incorporating oranges into your diet to help manage your cholesterol? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your daily life, increasing the risk of heart disease and other health complications. Let's delve into how oranges, a simple and delicious fruit, can play a crucial role in reducing cholesterol levels naturally.</p>
+<p>Are you struggling to control your cholesterol levels despite making efforts to eat healthily? Have you considered the potential benefits of incorporating oranges into your diet to help manage your cholesterol? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your daily life, increasing the risk of heart disease and other health complications. Let's delve into how oranges, a simple and delicious fruit, can play a crucial role in reducing cholesterol levels naturally.</p>
 <h2 class="sec-scrl" id="OrangesandCholesterolReduction">Oranges and Cholesterol Reduction</h2>
 <p>Oranges are not only a refreshing and tasty snack, but they also offer several health benefits, including their ability to help lower cholesterol levels. Here's how oranges can contribute to reducing cholesterol:</p>
 <ul>

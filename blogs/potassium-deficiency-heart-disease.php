@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potassium Deficiency Effects on Heart Health" />
     <meta property="og:description" content="Learn about the link between Potassium Deficiency and Heart Disease - symptoms, risks, and prevention strategies." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-deficiency-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-deficiency-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-deficiency-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-deficiency-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium Deficiency Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-deficiency-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-deficiency-heart-disease"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Potassium Deficiency on Heart Health</h1>
 <p>Are you aware of how potassium deficiency can significantly impact heart health? Do you ever wonder how this deficiency could be affecting your daily activities and overall well-being?</p>
 <h2 class="sec-scrl" id="potassium-and-heart-attack-risk">Potassium and Heart Attack Risk</h2>
-<p>Potassium plays a crucial role in maintaining the electrical balance in your heart. When your potassium levels are low, it can lead to irregular heart rhythms, increasing the risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Here are some key points to consider:</p>
+<p>Potassium plays a crucial role in maintaining the electrical balance in your heart. When your potassium levels are low, it can lead to irregular heart rhythms, increasing the risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Here are some key points to consider:</p>
 <ul>
 <li>Low potassium levels can disrupt the normal functioning of the heart muscle, potentially triggering a heart attack.</li>
 <li>Studies have shown a direct link between potassium deficiency and an elevated risk of experiencing a heart attack.</li>
@@ -141,15 +141,15 @@
 <p>How does potassium deficiency contribute to the development of heart failure? Understanding this connection is vital for maintaining heart health:</p>
 <ul>
 <li>Low levels of potassium can weaken the heart muscle over time, leading to heart failure.</li>
-<li>In heart failure, the heart struggles to pump blood effectively, causing symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and swelling.</li>
+<li>In heart failure, the heart struggles to pump blood effectively, causing symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and swelling.</li>
 <li>By ensuring adequate potassium levels, you can support the overall function of your heart and reduce the risk of heart failure.</li>
 </ul>
 <h2 class="sec-scrl" id="potassium-deficiency-symptoms">Potassium Deficiency Symptoms</h2>
 <p>What are the signs that indicate your body may be lacking in potassium? Recognizing these symptoms can help you take proactive steps to address any deficiency:</p>
 <ul>
-<li>Muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> and cramps</li>
+<li>Muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> and cramps</li>
 <li>Fatigue and low energy levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Tingling sensations</li>
 </ul>
 <h2 class="sec-scrl" id="preventing-heart-disease-with-potassium">Preventing Heart Disease with Potassium</h2>

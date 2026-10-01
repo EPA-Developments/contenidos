@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Common Angioplasty Complications: Watch for Post-Procedure Risks">
   <meta property="og:description" content="Learn about common angioplasty complications and how to recognize warning signs. Stay informed to ensure a safe recovery after your procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/common-angioplasty-complications">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/common-angioplasty-complications">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/common-angioplasty-complications" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/common-angioplasty-complications" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Common Angioplasty Complications: Watch For Post-Procedure Risks",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/common-angioplasty-complications"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/common-angioplasty-complications"  
       }]
     }
   </script>

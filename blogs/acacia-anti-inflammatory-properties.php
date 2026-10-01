@@ -10,12 +10,12 @@
     <meta property="og:title" content="Acacia's Natural Anti-Inflammatory Benefits" />
     <meta property="og:description" content="Discover how acacia's anti-inflammatory properties can naturally soothe inflammation and promote heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/acacia-anti-inflammatory-properties" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/acacia-anti-inflammatory-properties" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/acacia-anti-inflammatory-properties" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/acacia-anti-inflammatory-properties" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Acacia Anti Inflammatory Properties",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/acacia-anti-inflammatory-properties"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/acacia-anti-inflammatory-properties"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Regular consumption of Acacia may contribute to reducing chronic inflammation, which is linked to several health issues.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Can Acacia Tea Benefit Heart Inflammation?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> is a serious condition that can have detrimental effects on cardiovascular health. Acacia tea, made from the bark or leaves of the Acacia tree, is believed to possess properties that may help reduce inflammation in the heart and improve overall cardiac function.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> is a serious condition that can have detrimental effects on cardiovascular health. Acacia tea, made from the bark or leaves of the Acacia tree, is believed to possess properties that may help reduce inflammation in the heart and improve overall cardiac function.</p>
 <ul>
 <li>Drinking Acacia tea regularly may support heart health by reducing inflammation in the cardiovascular system.</li>
 <li>The anti-inflammatory compounds in Acacia tea could help lower the risk of heart disease by combating inflammation in the heart tissues.</li>

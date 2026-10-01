@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Milk and Blood Pressure: A Comprehensive Guide&quot;" />
     <meta property="og:description" content="Learn how milk consumption can help control blood pressure effectively. Discover the link between dairy and hypertension management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Milk And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Milk on Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure levels despite various efforts? Have you ever wondered about the role of milk in controlling blood pressure? The relationship between milk consumption and blood pressure is a topic of interest for many individuals looking to improve their heart health and overall well-being. Let's explore how incorporating milk into your diet can potentially help you better manage your blood pressure and lead a healthier life.</p>
 <h2 class="sec-scrl" id="Hypertension management">Hypertension Management</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a common condition that affects a large portion of the population. It is a significant risk factor for heart disease, stroke, and other serious health issues. Managing hypertension is crucial in reducing the risk of these complications. One dietary approach to managing hypertension is through the consumption of milk and dairy products. Here's how milk can play a role in helping you control your blood pressure:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a common condition that affects a large portion of the population. It is a significant risk factor for heart disease, stroke, and other serious health issues. Managing hypertension is crucial in reducing the risk of these complications. One dietary approach to managing hypertension is through the consumption of milk and dairy products. Here's how milk can play a role in helping you control your blood pressure:</p>
 <ul>
 <li>Milk is a good source of calcium, potassium, and magnesium, which are essential minerals for maintaining healthy blood pressure levels.</li>
 <li>Calcium helps regulate blood vessel constriction and relaxation, aiding in blood pressure control.</li>

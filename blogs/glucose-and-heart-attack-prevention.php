@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glucose Control for Heart Attack Prevention&quot;" />
     <meta property="og:description" content="Learn how controlling glucose levels can prevent heart attacks. Discover the link between blood sugar, heart health, and diabetes management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glucose And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-attack-prevention"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Importance of Glucose Control for Heart Attack Prevention</h1>
 <p>Are you concerned about how your blood sugar levels impact your heart health? Managing glucose levels is crucial for preventing heart attacks, but how does it truly affect your daily life and overall well-being?</p>
 <h2 class="sec-scrl" id="glucose-control">The Connection Between Glucose and Heart Attack Prevention</h2>
-<p>Glucose control plays a significant role in preventing heart attacks by reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Atherosclerosis, the buildup of plaque in the arteries, is a major contributor to heart disease. High blood sugar levels in diabetes can accelerate this process, increasing the chances of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. By managing your glucose levels effectively, you can lower your risk of developing atherosclerosis and protect your heart.</p>
+<p>Glucose control plays a significant role in preventing heart attacks by reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Atherosclerosis, the buildup of plaque in the arteries, is a major contributor to heart disease. High blood sugar levels in diabetes can accelerate this process, increasing the chances of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. By managing your glucose levels effectively, you can lower your risk of developing atherosclerosis and protect your heart.</p>
 <p>Here are some key ways in which glucose control impacts heart attack prevention:</p>
 <ul>
 <li>Regulating blood sugar levels reduces inflammation in the arteries, lowering the risk of plaque formation.</li>

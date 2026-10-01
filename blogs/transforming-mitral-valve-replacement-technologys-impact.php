@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transforming Mitral Valve Replacement: Technology's Impact">
   <meta property="og:description" content="Discover how technology is revolutionizing mitral valve replacement procedures, leading to improved outcomes and faster recovery times.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/transforming-mitral-valve-replacement-technologys-impact">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/transforming-mitral-valve-replacement-technologys-impact">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/transforming-mitral-valve-replacement-technologys-impact" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/transforming-mitral-valve-replacement-technologys-impact" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Mitral Valve Replacement",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/transforming-mitral-valve-replacement-technologys-impact"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/transforming-mitral-valve-replacement-technologys-impact"  
       }]
     }
   </script>

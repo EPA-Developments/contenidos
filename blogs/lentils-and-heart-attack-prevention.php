@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lentils for Heart Health: A Guide&quot;" />
     <meta property="og:description" content="Learn how lentils can help prevent heart attacks. Discover their role in cardiovascular protection, antioxidant properties, and heart attack risk reduction." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lentils-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lentils-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lentils-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lentils-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lentils And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lentils-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lentils-and-heart-attack-prevention"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <p>Building a diet around heart-healthy foods like lentils is crucial for overall cardiovascular health. Lentils are a versatile ingredient that can be easily incorporated into various dishes, making it convenient to enjoy their benefits regularly.</p>
 <p>By including lentils in your meals, you can create a balanced diet that supports heart health. Pair lentils with other nutrient-dense foods like vegetables, fruits, whole grains, and lean proteins to maximize the cardiovascular protection and antioxidant benefits for your heart.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
-<p>In conclusion, lentils play a significant role in preventing heart attacks by offering cardiovascular protection, antioxidant properties, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk reduction. By including lentils in your healthy heart diet, you can proactively support your heart health and reduce the risk of cardiovascular diseases. Make lentils a staple in your meals to enjoy the numerous benefits they provide for your heart.</p>
+<p>In conclusion, lentils play a significant role in preventing heart attacks by offering cardiovascular protection, antioxidant properties, and <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk reduction. By including lentils in your healthy heart diet, you can proactively support your heart health and reduce the risk of cardiovascular diseases. Make lentils a staple in your meals to enjoy the numerous benefits they provide for your heart.</p>
             </div>
           </div>
         </div>

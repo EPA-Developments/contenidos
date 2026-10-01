@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Red Face During Exertion: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Experiencing a red face during exertion? Learn about the causes, symptoms, and treatments for red face during exertion, including its connection to heart disease and exercise. Find out when to seek help for managing this symptom.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/red-face-during-exertion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/red-face-during-exertion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/red-face-during-exertion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/red-face-during-exertion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Red Face During Exertion",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/red-face-during-exertion"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/red-face-during-exertion"  
       }]
     }
   </script>
@@ -199,7 +199,7 @@
 <li>Dilated blood vessels in the face</li>
 <li>Heat and humidity during exercise</li>
 <li>Emotional stress or anxiety</li>
-<li>Underlying medical conditions such as rosacea or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Underlying medical conditions such as rosacea or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 </ul>
 <p>Understanding the underlying causes of red face during exertion is essential for effective management and treatment of the condition. In some cases, addressing the root cause can help reduce the frequency and intensity of facial redness during exertion.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Red face during exertion?</h2>
@@ -226,7 +226,7 @@
 <ul>
 <li>Severe facial redness during exertion</li>
 <li>Persistent redness that does not improve with lifestyle changes</li>
-<li>Associated symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Associated symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>A history of underlying medical conditions that may be worsening</li>
 </ul>
 <p>Consulting a healthcare professional can help individuals determine the underlying causes of red face during exertion and receive appropriate treatment to manage the condition effectively.</p>

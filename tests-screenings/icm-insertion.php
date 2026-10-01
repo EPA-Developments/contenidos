@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Icm Insertion: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="ICM insertion monitors heart rhythm over time. Read more to know its purpose, costs, and normal Range for heart health management." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/icm-insertion" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/icm-insertion" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/icm-insertion" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/icm-insertion" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "ICM insertion",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/icm-insertion"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/icm-insertion"  
       }]
     }
   </script>
@@ -156,16 +156,16 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of ICM Insertion</h1>
-<p>ICM Insertion, also known as <a href="https://plataforma.epa-bienestar.com.ar/procedures/implantable-cardiac-monitor-insertion">implantable cardiac monitor insertion</a>, is a medical procedure where a small device is implanted under the skin to monitor heart rhythms continuously.</p>
+<p>ICM Insertion, also known as <a href="https://contenidos.segundaopinionmedica.org/procedures/implantable-cardiac-monitor-insertion">implantable cardiac monitor insertion</a>, is a medical procedure where a small device is implanted under the skin to monitor heart rhythms continuously.</p>
 <p>This device helps in detecting irregular heartbeats, known as arrhythmias, which may not be captured by traditional monitoring methods.</p>
 <p>The ICM insertion procedure involves a small incision made under the skin, usually on the chest area, where the device is placed.</p>
 <p>Once inserted, the ICM continuously records the heart's electrical activity and stores information about any abnormal rhythms that occur.</p>
-<p>ICM insertion is often recommended for patients who experience unexplained fainting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, or other symptoms that may indicate a heart rhythm disorder. This monitoring device helps healthcare providers diagnose and manage arrhythmias more effectively.</p>
-<p>Examples of conditions where ICM insertion may be necessary include atrial fibrillation, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, and other heart rhythm abnormalities.</p>
+<p>ICM insertion is often recommended for patients who experience unexplained fainting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, or other symptoms that may indicate a heart rhythm disorder. This monitoring device helps healthcare providers diagnose and manage arrhythmias more effectively.</p>
+<p>Examples of conditions where ICM insertion may be necessary include atrial fibrillation, <a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, and other heart rhythm abnormalities.</p>
 <p>By monitoring the heart's electrical signals over an extended period, the ICM can provide valuable data for accurate diagnosis and treatment planning.</p>
 <h2 id="purpose">What is the Purpose of Performing an ICM Insertion Test?</h2>
 <p>The primary purpose of performing an ICM insertion test is to monitor heart rhythms continuously and detect any arrhythmias that may occur.</p>
-<p>This monitoring is crucial for patients who experience symptoms such as fainting, palpitations, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, which could be indicative of an underlying heart rhythm disorder.</p>
+<p>This monitoring is crucial for patients who experience symptoms such as fainting, palpitations, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, which could be indicative of an underlying heart rhythm disorder.</p>
 <p>By inserting an Implantable Cardiac Monitor, healthcare providers can gather detailed information about the heart's electrical activity over an extended period, enabling them to make an accurate diagnosis and develop an appropriate treatment plan.</p>
 <p>The Role of ICM in detecting arrhythmias cannot be understated, as it offers a non-invasive way to monitor the heart's electrical signals without the need for continuous external devices.</p>
 <p>This continuous monitoring allows for the early detection of arrhythmias, leading to timely intervention and better outcomes for patients.</p>

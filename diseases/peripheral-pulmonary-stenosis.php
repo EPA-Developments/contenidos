@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Pulmonary Stenosis: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Peripheral pulmonary stenosis is a narrowing of the arteries. Know more about its symptoms, causes, and treatment options for improved circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-pulmonary-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/peripheral-pulmonary-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-pulmonary-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/peripheral-pulmonary-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Pulmonary Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/peripheral-pulmonary-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/peripheral-pulmonary-stenosis"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>While not as commonly discussed as other cardiac conditions, Peripheral Pulmonary Stenosis is significant due to its impact on heart function and overall health.</p>
 <p>The prevalence of this condition varies, with some cases being congenital and others developing later in life due to various factors.</p>
 <p>In the early stages, Peripheral Pulmonary Stenosis may not present noticeable symptoms, making it challenging to detect without proper screening. However, if left untreated, it can lead to severe complications affecting both short-term and long-term health.</p>
-<p>The restricted blood flow can strain the heart and lungs, potentially causing issues such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and decreased oxygen levels in the blood.</p>
+<p>The restricted blood flow can strain the heart and lungs, potentially causing issues such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and decreased oxygen levels in the blood.</p>
 <p>Early detection through regular screenings is crucial for managing Peripheral Pulmonary Stenosis effectively and preventing complications.</p>
 <p>Asymptomatic individuals, especially those with risk factors such as a family history of heart conditions or certain genetic disorders, should undergo routine check-ups to ensure timely diagnosis and intervention.</p>
 <h2 id="causes">Causes of Peripheral Pulmonary Stenosis</h2>
@@ -185,19 +185,19 @@
 <ul>
 <li>Smoking: Tobacco use and exposure to secondhand smoke can exacerbate cardiovascular conditions, including Peripheral Pulmonary Stenosis, by constricting blood vessels and reducing oxygen delivery to the tissues.</li>
 <li>Obesity: Excess weight can strain the cardiovascular system, leading to conditions that contribute to the development or progression of Peripheral Pulmonary Stenosis.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries, potentially affecting the pulmonary arteries and contributing to stenosis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries, potentially affecting the pulmonary arteries and contributing to stenosis.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Peripheral Pulmonary Stenosis</h2>
 <p>Recognizing the symptoms of Peripheral Pulmonary Stenosis is crucial for early detection and intervention. Symptoms can vary depending on the severity of the condition and its impact on heart function.</p>
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Individuals with Peripheral Pulmonary Stenosis may experience fatigue or reduced energy levels due to decreased oxygen supply to the tissues. This can affect daily activities and overall quality of life.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Early on, individuals may notice mild shortness of breath, especially during physical exertion. This symptom may be mistakenly attributed to other factors, delaying diagnosis and treatment.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Early on, individuals may notice mild shortness of breath, especially during physical exertion. This symptom may be mistakenly attributed to other factors, delaying diagnosis and treatment.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>: In advanced cases, cyanosis or bluish discoloration of the skin and mucous membranes may occur due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a> in the blood. This can have significant physical and emotional implications, impacting the individual's well-being and self-image.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> or syncope may occur in severe cases of Peripheral Pulmonary Stenosis, reflecting compromised cardiac function and inadequate blood flow to vital organs.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>: In advanced cases, cyanosis or bluish discoloration of the skin and mucous membranes may occur due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a> in the blood. This can have significant physical and emotional implications, impacting the individual's well-being and self-image.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> or syncope may occur in severe cases of Peripheral Pulmonary Stenosis, reflecting compromised cardiac function and inadequate blood flow to vital organs.</li>
 </ul>
 <h2>Diagnosis of Peripheral Pulmonary Stenosis</h2>
 <p>Diagnosing Peripheral Pulmonary Stenosis involves a series of tests and evaluations to assess the extent of pulmonary artery narrowing and its impact on heart function.</p>

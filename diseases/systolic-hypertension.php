@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Systolic Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Systolic Hypertension causes high blood pressure. Read more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/systolic-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/systolic-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/systolic-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/systolic-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Systolic Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/systolic-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/systolic-hypertension"
       }]
     }
   </script>
@@ -178,10 +178,10 @@
 
 <ul>
 <li>Headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul>
 
 Early identification of these symptoms can lead to timely intervention and better management of Systolic Hypertension, reducing the risk of complications and improving overall health outcomes.</p>
@@ -191,8 +191,8 @@ Early identification of these symptoms can lead to timely intervention and bette
 <ul>
 <li>Physical examination</li>
 <li>Blood tests</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 <li>Ambulatory blood pressure monitoring</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Systolic Hypertension</h2>

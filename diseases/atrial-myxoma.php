@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Myxoma: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Atrial Myxoma is a rare heart tumor affecting blood flow. Know its warning symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrial-myxoma">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrial-myxoma">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrial-myxoma" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrial-myxoma" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Atrial Myxoma",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrial-myxoma"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrial-myxoma"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Atrial Myxoma</h1>
-<p>Atrial myxoma is a non-cancerous tumor that grows in the upper chambers of the heart. It can affect heart function, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. Although rare, atrial myxoma is the most common type of heart tumor. It's significant because it can obstruct blood flow, leading to serious complications like stroke or heart failure. Early detection and treatment are crucial for a good prognosis. If you experience symptoms, it's essential to consult a healthcare provider for evaluation and management.</p>
+<p>Atrial myxoma is a non-cancerous tumor that grows in the upper chambers of the heart. It can affect heart function, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. Although rare, atrial myxoma is the most common type of heart tumor. It's significant because it can obstruct blood flow, leading to serious complications like stroke or heart failure. Early detection and treatment are crucial for a good prognosis. If you experience symptoms, it's essential to consult a healthcare provider for evaluation and management.</p>
 <h2 id="causes">Causes of Atrial Myxoma</h2>
 <p>Sure, here are the main factors contributing to the development of Atrial Myxoma:
 
@@ -177,9 +177,9 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Chest pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 <li>Weight loss</li>
 <li>Swelling in the legs or abdomen</li>
 </ul> 
@@ -189,9 +189,9 @@ If you experience any of these symptoms, especially if they are persistent or se
 <p>Accurate diagnosis of Atrial Myxoma is crucial as it mimics symptoms of other heart conditions and can lead to severe complications if left untreated. The diagnostic process involves a combination of medical history review, physical examination, and various tests. Diagnostic methods for Atrial Myxoma include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the tumor in the heart</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the tumor in the heart</li>
 <li>Cardiac MRI for detailed imaging</li>
-<li>Transesophageal <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> for clearer images</li>
+<li>Transesophageal <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> for clearer images</li>
 <li>CT scans to locate the tumor</li>
 <li>Biopsy for confirmation through tissue analysis</li>
 </ul></p>
@@ -200,7 +200,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 
 <h3>Surgical Removal</h3>
 <ul>
-<li>This treatment involves open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> to remove the tumor.</li>
+<li>This treatment involves open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> to remove the tumor.</li>
 <li>It is the preferred treatment to prevent complications like embolism or heart failure.</li>
 <li>The primary objective is complete excision of the myxoma.</li>
 <li>The steps include pre-operative evaluation, tumor removal, and post-operative care.</li>

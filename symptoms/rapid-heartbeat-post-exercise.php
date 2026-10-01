@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rapid Heartbeat Post-Exercise: Causes and Treatment" >
   <meta property="og:description" content="A rapid heartbeat post-exercise could be normal or concerning. Know the causes, symptoms, diagnosis, and treatment for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat-post-exercise">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat-post-exercise">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat-post-exercise" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat-post-exercise" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rapid Heartbeat Post-Exercise",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat-post-exercise"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat-post-exercise"  
       }]
     }
   </script>
@@ -186,18 +186,18 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Rapid Heartbeat Post-Exercise: Causes and Diagnosis</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> post-exercise, also known as post-workout <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, refers to an increased heart rate after physical activity. It is a common occurrence for many individuals and is usually temporary.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> post-exercise, also known as post-workout <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, refers to an increased heart rate after physical activity. It is a common occurrence for many individuals and is usually temporary.</p>
 <p>After exercising, the heart rate typically returns to normal within a few minutes to an hour. However, in some cases, the heart rate may remain elevated for an extended period, causing discomfort and concern.</p>
-<p>Symptoms of rapid heartbeat post-exercise include a pounding heart, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, a fluttering sensation in the chest, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue. These symptoms can be alarming, especially if they persist or are accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or fainting.</p>
+<p>Symptoms of rapid heartbeat post-exercise include a pounding heart, <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, a fluttering sensation in the chest, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue. These symptoms can be alarming, especially if they persist or are accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or fainting.</p>
 <h2 id="forms">What are the Forms of Rapid heartbeat post-exercise?</h2>
 <p>There are various forms of rapid heartbeat post-exercise, each with specific symptoms and related concepts.</p>
-<p>These forms include increased heart rate after exercise, fast heart rate after running, heart racing post-exercise, heart palpitations after physical activity, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-pulse">rapid pulse</a> after exertion, and accelerated heart rate after a workout.</p>
+<p>These forms include increased heart rate after exercise, fast heart rate after running, heart racing post-exercise, heart palpitations after physical activity, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-pulse">rapid pulse</a> after exertion, and accelerated heart rate after a workout.</p>
 <h2 id="causes">What are the Causes of Rapid heartbeat post-exercise?</h2>
 <p>The causes of rapid heartbeat post-exercise can vary and may include factors such as dehydration, overexertion, caffeine or stimulant intake, stress, anxiety, or underlying heart conditions.</p>
 <p>Dehydration can lead to an imbalance in electrolytes, affecting the heart's ability to function properly. Overexertion can strain the heart, leading to an increased heart rate. Caffeine or stimulants can also stimulate the heart, causing it to beat faster.</p>
 <p>Stress and anxiety can trigger the body's fight-or-flight response, increasing the heart rate. Underlying heart conditions such as arrhythmias or heart disease can also contribute to rapid heartbeat post-exercise.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Rapid heartbeat post-exercise?</h2>
-<p>The diagnostic methods for rapid heartbeat post-exercise may involve a physical examination, medical history review, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), stress test, Holter monitor, echocardiogram, and blood tests.</p>
+<p>The diagnostic methods for rapid heartbeat post-exercise may involve a physical examination, medical history review, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), stress test, Holter monitor, echocardiogram, and blood tests.</p>
 <p>A physical examination can help healthcare providers assess the patient's overall health and identify any risk factors.</p>
 <p>An ECG can record the heart's electrical activity and detect any abnormalities. A stress test may involve exercising on a treadmill or stationary bike while monitoring the heart's response.</p>
 <p>A Holter monitor can record the heart's activity over a 24-hour period, providing valuable information about heart rhythms. An echocardiogram uses sound waves to create images of the heart, helping to evaluate its structure and function.</p>

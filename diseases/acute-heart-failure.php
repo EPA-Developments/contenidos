@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acute Heart Failure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Acute heart failure occurs when the heart can’t pump effectively. Read more to know its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/acute-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/acute-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/acute-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/acute-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Acute Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/acute-heart-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/acute-heart-failure"
       }]
     }
   </script>
@@ -161,15 +161,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Acute Heart Failure</h1>
-<p>Acute Heart Failure is a condition where the heart suddenly cannot pump enough blood to meet the body's needs. It's a serious issue that requires immediate medical attention. This condition is fairly common, affecting millions worldwide each year. Symptoms include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling. Acute Heart Failure can be caused by various factors such as heart attacks, infections, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. It's crucial to seek medical help promptly if you experience any symptoms to prevent complications and improve outcomes.</p>
+<p>Acute Heart Failure is a condition where the heart suddenly cannot pump enough blood to meet the body's needs. It's a serious issue that requires immediate medical attention. This condition is fairly common, affecting millions worldwide each year. Symptoms include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling. Acute Heart Failure can be caused by various factors such as heart attacks, infections, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. It's crucial to seek medical help promptly if you experience any symptoms to prevent complications and improve outcomes.</p>
 <h2 id="causes">Causes of Acute Heart Failure</h2>
 <p><h3>Main Factors Contributing to Acute Heart Failure:</h3>
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 <li>Heart valve disorders</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Arrhythmias</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Acute Heart Failure</h2>
@@ -177,8 +177,8 @@
 
 <ul>
 <li>Shortness of breath</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Fatigue or weakness</li>
 <li>Sudden weight gain</li>
 <li>Swelling in the legs, ankles, or abdomen</li>

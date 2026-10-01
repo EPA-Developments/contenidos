@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, and Normal Range of Peripheral Arterial Doppler" property="og:title"/>
 <meta content="Peripheral arterial Doppler measures blood flow in limbs. Know more about its purpose, costs, and normal Range for vascular health monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/peripheral-arterial-doppler" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/peripheral-arterial-doppler" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/peripheral-arterial-doppler" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/peripheral-arterial-doppler" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Arterial Doppler",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/peripheral-arterial-doppler"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/peripheral-arterial-doppler"  
       }]
     }
   </script>
@@ -161,7 +161,7 @@
 <p>To perform a peripheral arterial Doppler test, a healthcare professional applies a gel to the skin over the arteries being examined and uses a handheld device called a transducer to emit sound waves.</p>
 <p>These sound waves bounce off red blood cells and create images and sounds that can be interpreted to assess blood flow.</p>
 <p>The test is painless, quick, and does not involve any radiation exposure, making it a safe and effective tool for diagnosing vascular conditions.</p>
-<p>Examples of when peripheral arterial Doppler may be used include assessing patients with symptoms of PAD such as leg pain, cramping, or numbness, evaluating wounds that are slow to heal, monitoring the effectiveness of treatments such as medications or lifestyle changes, and screening individuals at risk for <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease">vascular disease</a> due to factors like diabetes, smoking, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>Examples of when peripheral arterial Doppler may be used include assessing patients with symptoms of PAD such as leg pain, cramping, or numbness, evaluating wounds that are slow to heal, monitoring the effectiveness of treatments such as medications or lifestyle changes, and screening individuals at risk for <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-disease">vascular disease</a> due to factors like diabetes, smoking, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <h2 id="purpose">What is the Purpose of Performing a Peripheral Arterial Doppler Test?</h2>
 <p>The primary purpose of a peripheral arterial Doppler test is to diagnose peripheral artery disease (PAD) and assess the severity of blood flow blockages in the arms and legs.</p>
 <p>By detecting narrowing or obstruction in the arteries, healthcare providers can determine the appropriate treatment plan to improve circulation and prevent complications such as tissue damage, ulcers, or even amputation.</p>
@@ -173,7 +173,7 @@
 <li>Monitoring disease progression and response to interventions</li>
 <li>Minimizing the risk of complications associated with advanced PAD</li>
 </ul>
-<p>In scenarios where a patient presents with symptoms of PAD, such as leg pain while walking (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a>), a peripheral arterial Doppler test can provide valuable insights into the underlying vascular health.</p>
+<p>In scenarios where a patient presents with symptoms of PAD, such as leg pain while walking (<a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a>), a peripheral arterial Doppler test can provide valuable insights into the underlying vascular health.</p>
 <p>By visualizing blood flow patterns and identifying areas of reduced circulation, healthcare providers can tailor treatment strategies to improve the patient's quality of life and reduce the risk of further complications.</p>
 <h2 id="costs">What are the Costs of Peripheral Arterial Doppler Tests in Americas?</h2>
 <p>The cost of a peripheral arterial Doppler test in Americas can vary depending on factors such as the location of the healthcare facility, the expertise of the medical staff, and the specific arteries being evaluated.</p>

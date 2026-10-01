@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Potatoes and Arterial Health: A Closer Look&quot;" />
     <meta property="og:description" content="Discover how potatoes impact arterial health, circulation, and blood pressure. Uncover the benefits for healthy arteries and artery function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/arterial-health-and-potatoes" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/arterial-health-and-potatoes" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/arterial-health-and-potatoes" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/arterial-health-and-potatoes" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Arterial Health And Potatoes",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/arterial-health-and-potatoes"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/arterial-health-and-potatoes"
         }
     ]
 }
@@ -132,12 +132,12 @@
 <p>Are you concerned about the health of your arteries and how diet plays a role? Many individuals face challenges when it comes to maintaining healthy arteries. The foods you consume can significantly impact the function of your arteries and overall cardiovascular well-being. Potatoes, a staple in many diets, have been both praised and criticized for their effects on health. So, what is the real impact of potatoes on arterial health, and how does it affect your daily life?</p>
 <h2 class="sec-scrl" id="artery-health">The Role of Potatoes in Maintaining Healthy Arteries</h2>
 <p>Potatoes, often seen as a comfort food, can actually contribute to the health of your arteries when consumed in a balanced manner. These humble tubers are rich in potassium, a mineral that plays a crucial role in regulating blood pressure. By helping to lower blood pressure, potassium supports overall artery function and promotes healthy circulation.</p>
-<p>In addition to potassium, potatoes are a good source of dietary fiber, which is known to have a positive impact on cardiovascular health. Fiber helps to reduce cholesterol levels in the blood, thus lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and supporting artery relaxation.</p>
+<p>In addition to potassium, potatoes are a good source of dietary fiber, which is known to have a positive impact on cardiovascular health. Fiber helps to reduce cholesterol levels in the blood, thus lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and supporting artery relaxation.</p>
 <h2 class="sec-scrl" id="circulation">Enhancing Circulation Through Potato Consumption</h2>
 <p>Healthy circulation is vital for overall well-being, as it ensures that oxygen and nutrients are efficiently delivered to all parts of the body. Potatoes, particularly when prepared in a healthful manner (such as baked or boiled), can support optimal circulation due to their potassium content.</p>
 <p>Potassium helps to regulate the contraction and relaxation of blood vessels, promoting smooth blood flow throughout the body. By including potatoes in your diet, you can potentially improve circulation and reduce the risk of vascular issues associated with poor blood flow.</p>
 <h2 class="sec-scrl" id="blood-pressure-management">Managing Blood Pressure with Potatoes</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common concern that can negatively impact arterial health and overall cardiovascular function. The potassium found in potatoes is beneficial for managing blood pressure levels within a healthy range.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common concern that can negatively impact arterial health and overall cardiovascular function. The potassium found in potatoes is beneficial for managing blood pressure levels within a healthy range.</p>
 <p>By incorporating potassium-rich foods like potatoes into your meals, you can help offset the effects of sodium on blood pressure and support the relaxation of blood vessel walls. This, in turn, contributes to better blood pressure management and reduces the strain on your arteries.</p>
 <h2 class="sec-scrl" id="artery-function">Supporting Optimal Artery Function Through Potatoes</h2>
 <p>Artery function is crucial for maintaining cardiovascular health and preventing conditions such as atherosclerosis. Potatoes, with their combination of potassium, fiber, and other essential nutrients, can play a role in supporting optimal artery function.</p>

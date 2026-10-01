@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Right Ventricular Hypertrophy: Symptoms and Treatment" >
   <meta property="og:description" content="Right ventricular hypertrophy is a condition that affects heart function. Know more about its symptoms, causes, and treatments for better care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/right-ventricular-hypertrophy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/right-ventricular-hypertrophy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/right-ventricular-hypertrophy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/right-ventricular-hypertrophy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Right Ventricular Hypertrophy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/right-ventricular-hypertrophy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/right-ventricular-hypertrophy"
       }]
     }
   </script>
@@ -167,24 +167,24 @@
             <div class="article-content">
 <h1>Symptoms, and Treatment of Right Ventricular Hypertrophy</h1>
 <p>Right ventricular hypertrophy (RVH) is a condition characterized by the enlargement and thickening of the right ventricle of the heart. This cardiac adaptation is often a response to increased pressure or volume overload on the right side of the heart.</p>
-<p>RVH is a significant medical condition due to its impact on cardiac function and overall health. The prevalence of RVH varies depending on the underlying causes, with conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a> and congenital heart defects being common triggers.</p>
+<p>RVH is a significant medical condition due to its impact on cardiac function and overall health. The prevalence of RVH varies depending on the underlying causes, with conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a> and congenital heart defects being common triggers.</p>
 <p>The right ventricle of the heart plays a crucial role in pumping oxygen-depleted blood to the lungs for oxygenation. When the right ventricle becomes hypertrophied, its ability to effectively pump blood may be compromised.</p>
-<p>This can lead to decreased cardiac output and potential complications such as arrhythmias, heart failure, and even sudden cardiac death. In the short term, untreated RVH can result in symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and exercise intolerance.</p>
+<p>This can lead to decreased cardiac output and potential complications such as arrhythmias, heart failure, and even sudden cardiac death. In the short term, untreated RVH can result in symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and exercise intolerance.</p>
 <p>Long-term risks include progressive heart failure, increased risk of cardiac events, and reduced quality of life.</p>
 <p>RVH often starts as an asymptomatic condition, especially in its early stages. This makes early detection through regular screenings essential for timely intervention.</p>
 <p>Routine cardiac evaluations, including electrocardiograms and echocardiograms, can help identify RVH before symptoms manifest, allowing for proactive management and improved outcomes.</p>
 <h2 id="causes">Causes of Right Ventricular Hypertrophy</h2>
 <p>Primary Causes of Right Ventricular Hypertrophy:</p>
 <ul>
-<li>Pulmonary Hypertension: Pulmonary hypertension, characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the pulmonary arteries, forces the right ventricle to work harder to pump blood to the lungs. Over time, this increased workload leads to right ventricular hypertrophy as the heart muscle thickens to cope with the demand.</li>
+<li>Pulmonary Hypertension: Pulmonary hypertension, characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the pulmonary arteries, forces the right ventricle to work harder to pump blood to the lungs. Over time, this increased workload leads to right ventricular hypertrophy as the heart muscle thickens to cope with the demand.</li>
 <li>Congenital Heart Defects: Structural abnormalities present at birth can disrupt normal blood flow patterns, causing the right ventricle to become hypertrophied to compensate for the altered hemodynamics.</li>
 <li>Chronic Lung Diseases: Conditions like chronic obstructive pulmonary disease (COPD) can result in hypoxia and increased pulmonary vascular resistance, leading to right ventricular hypertrophy as the heart adapts to the respiratory challenges.</li>
-<li>Valvular Heart Disease: Malfunctioning heart valves, particularly those on the right side of the heart such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a>, can create pressure overload on the right ventricle, triggering hypertrophic changes.</li>
+<li>Valvular Heart Disease: Malfunctioning heart valves, particularly those on the right side of the heart such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a>, can create pressure overload on the right ventricle, triggering hypertrophic changes.</li>
 </ul>
 <p>Secondary Risk Factors/Lifestyle Contributors:</p>
 <ul>
 <li>Obesity: Excess body weight increases the workload on the heart, potentially contributing to right ventricular hypertrophy over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: Uncontrolled high blood pressure can lead to increased afterload on the right ventricle, promoting hypertrophic changes in the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: Uncontrolled high blood pressure can lead to increased afterload on the right ventricle, promoting hypertrophic changes in the heart muscle.</li>
 <li>Sedentary Lifestyle: Lack of regular physical activity can impact overall cardiovascular health, potentially predisposing individuals to develop right ventricular hypertrophy.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Right Ventricular Hypertrophy</h2>
@@ -196,13 +196,13 @@
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Edema: Swelling in the lower extremities or abdomen can develop as fluid accumulates due to impaired right ventricular function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>: Fainting episodes may occur in advanced RVH as a result of decreased blood flow to the brain during episodes of exertion or stress.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>: Fainting episodes may occur in advanced RVH as a result of decreased blood flow to the brain during episodes of exertion or stress.</li>
 </ul>
 <h2>Diagnosis of Right Ventricular Hypertrophy</h2>
 <p>The diagnostic process for RVH involves a comprehensive evaluation to confirm the presence of cardiac remodeling and assess the severity of the condition.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can detect abnormal electrical patterns in the heart, indicating right ventricular hypertrophy.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test provides detailed information on cardiac structure and function, allowing for the visualization of a hypertrophied right ventricle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can detect abnormal electrical patterns in the heart, indicating right ventricular hypertrophy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test provides detailed information on cardiac structure and function, allowing for the visualization of a hypertrophied right ventricle.</li>
 <li>Cardiac MRI: MRI scans offer high-resolution images of the heart, aiding in the assessment of structural changes associated with RVH.</li>
 <li>Cardiac Catheterization: Invasive procedures like cardiac catheterization can provide precise measurements of pressures within the heart chambers, helping to diagnose RVH accurately.</li>
 </ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Congenital Heart Disease Diagnosis in Babies and Children">
   <meta property="og:description" content="Learn about the process of congenital heart disease diagnosis in babies and children. Discover the tests and procedures involved in diagnosing CHD.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-disease-diagnosis-babies-children">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-disease-diagnosis-babies-children">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-disease-diagnosis-babies-children" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-disease-diagnosis-babies-children" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Congenital Heart Disease Diagnosis In Babies And Children",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-disease-diagnosis-babies-children"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-disease-diagnosis-babies-children"  
       }]
     }
   </script>

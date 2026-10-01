@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Trans Fats and Heart Health: A Critical Look&quot;" />
     <meta property="og:description" content="Explore the detrimental effects of trans fats on heart health and reduce cardiovascular risks effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/trans-fats-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/trans-fats-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/trans-fats-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/trans-fats-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Trans Fats And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/trans-fats-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/trans-fats-and-heart-health"
         }
     ]
 }
@@ -130,7 +130,7 @@
             <div class="article-content">
               <h1>The Dangers of Trans Fats on Heart Health</h1>
 <p>Are you worried about the effects of trans fats on your heart health? How do trans fats impact your daily activities and overall well-being?</p>
-<p>Trans fats are known to be unhealthy fats that can significantly increase your cardiovascular risk. Understanding how these fats affect your artery health and fat intake is crucial in managing your cholesterol levels and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>Trans fats are known to be unhealthy fats that can significantly increase your cardiovascular risk. Understanding how these fats affect your artery health and fat intake is crucial in managing your cholesterol levels and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <h2 class="sec-scrl" id="unhealthy-fats">Unhealthy Fats: What Are Trans Fats?</h2>
 <p>Trans fats are a type of unsaturated fat that can have detrimental effects on your health when consumed in excess. These fats are primarily created through the process of hydrogenation, which turns liquid oils into solid fats.</p>
 <p>Here are some key points to consider about trans fats:</p>
@@ -140,7 +140,7 @@
 <li>Regular intake of trans fats can lead to artery blockages and increase the risk of heart attack.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-risk">Cardiovascular Risk: How Do Trans Fats Impact Your Heart?</h2>
-<p>The consumption of trans fats can have a direct impact on your cardiovascular health. These fats can contribute to the development of plaque in your arteries, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and potentially fatal complications.</p>
+<p>The consumption of trans fats can have a direct impact on your cardiovascular health. These fats can contribute to the development of plaque in your arteries, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and potentially fatal complications.</p>
 <p>Key points to note about the cardiovascular risk associated with trans fats:</p>
 <ul>
 <li>Trans fats can increase inflammation in the body, further exacerbating heart disease risk.</li>

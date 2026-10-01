@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cutting-Edge Methods of Electrocardiologists" />
     <meta property="og:description" content="Explore the cutting-edge methods employed by electro cardiologists for effective heart rhythm management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/electro-cardiologist" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/electro-cardiologist" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/electro-cardiologist" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/electro-cardiologist" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Electro Cardiologist",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/electro-cardiologist"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/electro-cardiologist"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Latest Electrocardiologist Techniques</h1>
-<p>Are you struggling with irregular heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> that disrupt your daily activities? Do you often wonder about the health of your heart's electrical system and how it impacts your overall well-being? If so, you may benefit from the expertise of an electro cardiologist. These specialists play a crucial role in diagnosing and treating various heart rhythm disorders, ensuring that your heart functions optimally to support your daily life.</p>
+<p>Are you struggling with irregular heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> that disrupt your daily activities? Do you often wonder about the health of your heart's electrical system and how it impacts your overall well-being? If so, you may benefit from the expertise of an electro cardiologist. These specialists play a crucial role in diagnosing and treating various heart rhythm disorders, ensuring that your heart functions optimally to support your daily life.</p>
 <h2 class="sec-scrl" id="ECG expert">ECG Expert</h2>
 <p>Electro cardiologists are highly skilled ECG experts who specialize in interpreting electrocardiograms (ECGs) to assess the electrical activity of the heart. By analyzing the patterns and signals captured in an ECG, these specialists can identify abnormalities in the heart's rhythm and diagnose conditions such as arrhythmias.</p>
 <p>Key responsibilities of an ECG expert include:</p>
@@ -184,10 +184,10 @@
 <ul>
 <li>Performing electrophysiology studies to map the heart's electrical pathways</li>
 <li>Implanting pacemakers or defibrillators to regulate abnormal rhythms</li>
-<li>Offering expertise in <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> procedures to correct arrhythmias</li>
+<li>Offering expertise in <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> procedures to correct arrhythmias</li>
 </ul>
 <h2 class="sec-scrl" id="Electrocardiogram analysis">Electrocardiogram Analysis</h2>
-<p>One of the fundamental skills of an electro cardiologist is the ability to perform detailed <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> analysis. By examining the various waves and complexes on an ECG tracing, these specialists can pinpoint irregularities that may indicate underlying heart conditions.</p>
+<p>One of the fundamental skills of an electro cardiologist is the ability to perform detailed <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> analysis. By examining the various waves and complexes on an ECG tracing, these specialists can pinpoint irregularities that may indicate underlying heart conditions.</p>
 <p>When conducting electrocardiogram analysis, an electro cardiologist looks for:</p>
 <ul>
 <li>Changes in the heart's electrical conduction system</li>
@@ -208,7 +208,7 @@
 <ul>
 <li>Exercise stress testing to assess heart function under exertion</li>
 <li>Holter monitoring for continuous ECG recording over 24 to 48 hours</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function in real-time</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function in real-time</li>
 </ul>
 <h2 class="sec-scrl" id="Conclusion">In Conclusion</h2>
 <p>Electro cardiologists, also known as ECG experts or heart rhythm specialists, play a vital role in diagnosing and treating heart rhythm disorders through electrocardiogram analysis and arrhythmia care. By leveraging their expertise in heart electrical diagnosis, these specialists provide comprehensive care to patients with various rhythm disturbances, ensuring optimal heart health and overall well-being.</p>

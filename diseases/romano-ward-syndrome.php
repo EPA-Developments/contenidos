@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Romano-Ward Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Romano-Ward syndrome causes heart rhythm issues. Know more about its symptoms, causes, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/romano-ward-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/romano-ward-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/romano-ward-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/romano-ward-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Romano-Ward Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/romano-ward-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/romano-ward-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Romano-Ward Syndrome</h1>
-<p>Romano-Ward Syndrome is a rare genetic heart condition that affects the heart's electrical activity, potentially leading to dangerous heart rhythms. It holds significance as it can cause fainting, seizures, or even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. While it is uncommon, affecting around 0.1% of the population, early detection and management are crucial. This syndrome can be diagnosed through genetic testing and ECG screenings. Understanding the symptoms and risks associated with Romano-Ward Syndrome is essential for timely intervention and treatment.</p>
+<p>Romano-Ward Syndrome is a rare genetic heart condition that affects the heart's electrical activity, potentially leading to dangerous heart rhythms. It holds significance as it can cause fainting, seizures, or even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. While it is uncommon, affecting around 0.1% of the population, early detection and management are crucial. This syndrome can be diagnosed through genetic testing and ECG screenings. Understanding the symptoms and risks associated with Romano-Ward Syndrome is essential for timely intervention and treatment.</p>
 <h2 id="causes">Causes of Romano-Ward Syndrome</h2>
 <p>Romano-Ward Syndrome, a rare inherited heart condition, is influenced by various factors, such as:
 
@@ -176,9 +176,9 @@
 
 <ul>
 <li>Irregular heartbeats (arrhythmias)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>)</li>
 <li>Family history of sudden cardiac arrest or unexplained deaths</li>
 </ul>
 
@@ -187,7 +187,7 @@ Early identification of these symptoms can lead to timely medical evaluation, ge
 <p>Romano-Ward Syndrome, a genetic condition causing abnormal heart rhythms, requires accurate diagnosis for proper management. Diagnostic tests play a crucial role in identifying the condition early to prevent potentially life-threatening complications. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
 <li>Genetic testing: Identifies specific gene mutations linked to the syndrome.</li>
 <li>Echocardiogram: Evaluates heart structure and function.</li>
 <li>Exercise stress test: Assesses heart function during physical activity.</li>

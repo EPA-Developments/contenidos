@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range and Purpose of Myocardial Viability Imaging" property="og:title"/>
 <meta content="Myocardial viability imaging checks heart muscle function. Know more about its purpose, costs, and normal Range for heart disease diagnosis." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-viability-imaging" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-viability-imaging" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-viability-imaging" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-viability-imaging" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myocardial Viability Imaging",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-viability-imaging"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-viability-imaging"  
       }]
     }
   </script>
@@ -163,7 +163,7 @@
 <h2 id="purpose">What is the Purpose of Performing a Myocardial Viability Imaging Test?</h2>
 <p>The primary purpose of performing a myocardial viability imaging test is to assess the extent of heart muscle damage and evaluate the potential for recovery in patients with heart disease.</p>
 <p>Myocardial viability imaging plays a crucial role in diagnosing heart failure by identifying areas of the heart that are still viable and can benefit from interventions such as revascularization procedures or medical therapies.</p>
-<p>This imaging test also helps in determining the best course of action for patients who have experienced a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, as it can assess post-<a href="https://plataforma.epa-bienestar.com.ar/diseases/infarction">infarction</a> healing and guide decisions regarding surgical interventions or medication management.</p>
+<p>This imaging test also helps in determining the best course of action for patients who have experienced a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, as it can assess post-<a href="https://contenidos.segundaopinionmedica.org/diseases/infarction">infarction</a> healing and guide decisions regarding surgical interventions or medication management.</p>
 <p>By providing valuable information about the functional status of the heart muscle, myocardial viability imaging enables healthcare providers to tailor treatment plans to individual patients, improve outcomes, and enhance the quality of life for individuals with heart disease.</p>
 <h2 id="costs">What are the Costs of Myocardial Viability Imaging Tests in Americas?</h2>
 <p>The costs of myocardial viability imaging tests in Americas can vary depending on several factors, including the type of imaging modality used, the location of the healthcare facility, and any additional services or consultations required.</p>

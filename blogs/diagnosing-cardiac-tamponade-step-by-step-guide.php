@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Diagnosing Cardiac Tamponade: Step-by-Step Guide">
   <meta property="og:description" content="Learn how cardiac tamponade diagnosis is done step by step. Understand the symptoms, tests, and procedures involved in diagnosing this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/diagnosing-cardiac-tamponade-step-by-step-guide">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/diagnosing-cardiac-tamponade-step-by-step-guide">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/diagnosing-cardiac-tamponade-step-by-step-guide" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/diagnosing-cardiac-tamponade-step-by-step-guide" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Diagnosing Cardiac Tamponade: Step-By-Step Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/diagnosing-cardiac-tamponade-step-by-step-guide"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/diagnosing-cardiac-tamponade-step-by-step-guide"  
       }]
     }
   </script>

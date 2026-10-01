@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Valvuloplasty: Life-Changing Heart Procedure">
   <meta property="og:description" content="Discover how Valvuloplasty can transform the lives of heart patients. Learn about this life-changing procedure and its benefits for heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-life-changing-heart-procedure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-life-changing-heart-procedure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-life-changing-heart-procedure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-life-changing-heart-procedure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Valvuloplasty: Life-Changing Heart Procedure",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-life-changing-heart-procedure"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-life-changing-heart-procedure"  
       }]
     }
   </script>

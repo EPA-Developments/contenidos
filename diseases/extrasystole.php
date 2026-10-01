@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Extrasystole: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Extrasystole causes irregular heartbeats that may feel like flutters. Know more about its causes, symptoms, and treatment for a steady rhythm." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/extrasystole">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/extrasystole">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/extrasystole" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/extrasystole" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Extrasystole",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/extrasystole"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/extrasystole"
       }]
     }
   </script>
@@ -166,16 +166,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, and Treatment of Extrasystole</h1>
-<p>Extrasystole, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/premature-ventricular-contractions">premature ventricular contractions</a> (PVCs), is a common cardiac arrhythmia characterized by abnormal heartbeats originating in the ventricles. Despite being often benign, frequent or complex PVCs can have significant implications for cardiovascular health.</p>
+<p>Extrasystole, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/premature-ventricular-contractions">premature ventricular contractions</a> (PVCs), is a common cardiac arrhythmia characterized by abnormal heartbeats originating in the ventricles. Despite being often benign, frequent or complex PVCs can have significant implications for cardiovascular health.</p>
 <p>They are prevalent in the general population, with studies suggesting that up to 50% of individuals may experience PVCs at some point in their lives.</p>
 <p>While occasional PVCs may not pose a significant health risk, persistent or worsening PVCs can lead to various short-term and long-term health complications if left untreated.</p>
-<p>In the early stages, Extrasystole may be asymptomatic or present with mild symptoms that are often overlooked. However, as the condition progresses, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, chest discomfort, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue.</p>
+<p>In the early stages, Extrasystole may be asymptomatic or present with mild symptoms that are often overlooked. However, as the condition progresses, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, chest discomfort, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue.</p>
 <p>Untreated Extrasystole can increase the risk of developing more serious heart conditions such as atrial fibrillation, heart failure, or even sudden cardiac death.</p>
 <p>Therefore, early detection through regular screenings and appropriate management are crucial in preventing potential complications and improving overall cardiovascular health.</p>
 <h2 id="causes">Causes of Extrasystole</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders, can disrupt the electrical pathways, leading to PVCs. Over time, these structural changes can impair the heart's ability to pump blood effectively, increasing the risk of arrhythmias.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders, can disrupt the electrical pathways, leading to PVCs. Over time, these structural changes can impair the heart's ability to pump blood effectively, increasing the risk of arrhythmias.</li>
 <li>Electrolyte Imbalances: Fluctuations in electrolyte levels, particularly potassium, magnesium, and calcium, can affect the heart's electrical conduction system, triggering PVCs. These imbalances disrupt the normal cardiac rhythm, potentially leading to arrhythmias.</li>
 <li>Stress and Anxiety: Psychological factors like stress and anxiety can stimulate the sympathetic nervous system, causing an increase in heart rate and blood pressure. This heightened activation can provoke PVCs by altering the heart's electrical activity.</li>
 <li>Medications and Stimulants: Certain medications, such as stimulants, decongestants, and some asthma medications, can have pro-arrhythmic effects, contributing to the development of PVCs. Understanding the potential side effects of these drugs is essential in managing Extrasystole.</li>
@@ -189,8 +189,8 @@
 <h2 id="symptoms">Symptoms of Extrasystole</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li>Palpitations: Individuals may feel an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, impacting their ability to focus or engage in physical activities.</li>
-<li>Fatigue: Experiencing fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> can be a common early symptom of Extrasystole, affecting daily energy levels and productivity.</li>
+<li>Palpitations: Individuals may feel an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, impacting their ability to focus or engage in physical activities.</li>
+<li>Fatigue: Experiencing fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> can be a common early symptom of Extrasystole, affecting daily energy levels and productivity.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>

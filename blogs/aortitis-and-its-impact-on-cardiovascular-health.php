@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Aortitis and Its Impact on Cardiovascular Health">
   <meta property="og:description" content="Learn about aortitis and its impact on your cardiovascular health in this informative guide. Understand the symptoms, causes, and treatment options for aortitis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aortitis-and-its-impact-on-cardiovascular-health">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aortitis-and-its-impact-on-cardiovascular-health">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aortitis-and-its-impact-on-cardiovascular-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aortitis-and-its-impact-on-cardiovascular-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Aortitis",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/aortitis-and-its-impact-on-cardiovascular-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/aortitis-and-its-impact-on-cardiovascular-health"  
       }]
     }
   </script>

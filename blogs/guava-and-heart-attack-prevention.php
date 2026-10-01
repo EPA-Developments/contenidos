@@ -10,12 +10,12 @@
     <meta property="og:title" content="Guava for Heart Attack Prevention: Benefits & Tips" />
     <meta property="og:description" content="Learn how guava can help prevent heart attacks. Discover the benefits of guava for heart protection, ischemic heart disease, and antioxidants." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-and-heart-attack-prevention"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <li>Potassium in guava helps regulate blood pressure.</li>
 </ul>
 <h2 class="sec-scrl" id="guava-for-ischemic-heart-disease">Guava for Ischemic Heart Disease</h2>
-<p>Ischemic heart disease is a condition characterized by reduced blood flow to the heart, often leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and heart attacks. Guava, with its vasodilator properties, helps in widening blood vessels and improving blood circulation to the heart muscle, reducing the risk of ischemic heart disease.</p>
+<p>Ischemic heart disease is a condition characterized by reduced blood flow to the heart, often leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and heart attacks. Guava, with its vasodilator properties, helps in widening blood vessels and improving blood circulation to the heart muscle, reducing the risk of ischemic heart disease.</p>
 <p>The healthy fats present in guava, such as omega-3 and omega-6 fatty acids, contribute to maintaining optimal cholesterol levels and reducing inflammation in the arteries. This, in turn, supports heart health and minimizes the chances of ischemic heart disease development.</p>
 <ul>
 <li>Guava's vasodilator properties improve blood circulation to the heart.</li>

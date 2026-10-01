@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Spirulina Heart Diet: Boost Heart Health Naturally&quot;" />
     <meta property="og:description" content="Discover how spirulina can boost heart health in your diet for a healthier lifestyle." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-heart-diet" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/spirulina-heart-diet" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-heart-diet" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/spirulina-heart-diet" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Spirulina Heart Diet",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/spirulina-heart-diet"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/spirulina-heart-diet"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Spirulina, a nutrient-dense superfood, offers remarkable benefits for your heart. By incorporating Spirulina into your daily diet, you can enhance your cardiovascular nutrition significantly. Here's how Spirulina can contribute to a healthier heart:</p>
 <ul>
 <li>Rich in antioxidants that combat inflammation and oxidative stress in the body.</li>
-<li>Contains phycocyanin, a potent compound that supports heart wellness by reducing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</li>
+<li>Contains phycocyanin, a potent compound that supports heart wellness by reducing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</li>
 <li>High in protein and essential amino acids, promoting overall heart health and muscle function.</li>
 </ul>
 <p>Adding Spirulina to your meals can be a simple yet powerful way to boost your heart's well-being.</p>

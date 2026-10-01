@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Marshmallow for Hypertension: Herbal Blood Pressure Support&quot;" />
     <meta property="og:description" content="Discover how marshmallow can help manage hypertension naturally. Learn about its benefits in supporting vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Marshmallow For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Marshmallow for Hypertension</h1>
-<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural way to support your vascular health and manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> effectively? The answer might lie in the gentle yet powerful properties of marshmallow. Let's delve into how marshmallow can aid in addressing your hypertension concerns and potentially enhance your daily activities.</p>
+<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural way to support your vascular health and manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> effectively? The answer might lie in the gentle yet powerful properties of marshmallow. Let's delve into how marshmallow can aid in addressing your hypertension concerns and potentially enhance your daily activities.</p>
 <h2 class="sec-scrl" id="marshmallow-for-hypertension">Marshmallow for Hypertension</h2>
 <p>Marshmallow, known scientifically as Althaea officinalis, has been used for centuries in traditional medicine to alleviate various health issues, including hypertension. This herbal remedy is rich in compounds that may offer hypotensive effects, making it a promising option for those looking to manage their blood pressure naturally.</p>
 <p>One of the key ways marshmallow can support hypertension treatment is through its ability to promote blood pressure management. By incorporating marshmallow into your daily routine, you may experience a gentle yet effective approach to maintaining healthy blood pressure levels and supporting overall vascular health.</p>

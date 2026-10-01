@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Upper Abdominal Pain: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Experiencing upper abdominal pain? Learn about causes, symptoms, treatment, and when to seek help. Could it be related to heart attack or digestive issues?">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/upper-abdominal-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/upper-abdominal-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/upper-abdominal-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/upper-abdominal-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Upper Abdominal Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/upper-abdominal-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/upper-abdominal-pain"  
       }]
     }
   </script>
@@ -202,7 +202,7 @@
 <h2 id="causes">What are the Causes of Upper abdominal pain?</h2>
 <p>Upper abdominal pain can have various causes, including:</p>
 <ul>
-<li>Indigestion or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a></li>
+<li>Indigestion or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a></li>
 <li>Gastritis or stomach ulcers</li>
 <li>Gallstones or gallbladder inflammation</li>
 <li>Pancreatitis</li>
@@ -235,8 +235,8 @@
 <ul>
 <li>Fever</li>
 <li>Vomiting or nausea</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Unexplained weight loss</li>
 <li>Bloody stools or black, tarry stools</li>
 </ul>

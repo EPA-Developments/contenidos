@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alcohol Impact on Heart Surgery Recovery" />
     <meta property="og:description" content="Discover the impact of alcohol on heart surgery recovery and enhance your healing process significantly." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-surgery-recovery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-surgery-recovery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-surgery-recovery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-surgery-recovery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Heart Surgery Recovery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-surgery-recovery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-surgery-recovery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Alcohol and Heart Surgery Recovery: What to Know</h1>
-<p>Are you wondering how alcohol consumption can affect your recovery after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>? The effects of alcohol on surgical recovery can be significant, potentially impacting your healing process and overall well-being. From post-surgery alcohol use to recovery time, understanding the influence of alcohol on heart surgery recovery is crucial for a successful outcome. Let's delve into the key aspects of alcohol consumption and its implications on your healing journey.</p>
+<p>Are you wondering how alcohol consumption can affect your recovery after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>? The effects of alcohol on surgical recovery can be significant, potentially impacting your healing process and overall well-being. From post-surgery alcohol use to recovery time, understanding the influence of alcohol on heart surgery recovery is crucial for a successful outcome. Let's delve into the key aspects of alcohol consumption and its implications on your healing journey.</p>
 <h2 class="sec-scrl" id="post-surgery-alcohol-use">Post Surgery Alcohol Use</h2>
 <p>After undergoing heart surgery, it is essential to avoid alcohol consumption during the recovery period. Alcohol can interfere with the medications prescribed post-surgery and hinder the healing process. Here are some reasons why post-surgery alcohol use should be avoided:</p>
 <ul>

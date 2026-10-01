@@ -10,12 +10,12 @@
     <meta property="og:title" content="Relieve Heart Muscle Pain Naturally" />
     <meta property="og:description" content="Discover effective home remedies and lifestyle changes to relieve heart muscle pain naturally. Improve heart health with simple tips." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-pain" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-pain" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-pain" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-pain" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Muscle Pain",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-pain"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-pain"
         }
     ]
 }
@@ -169,9 +169,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Home Remedies for Heart Muscle Pain</h1>
-<p>Are you struggling with heart muscle pain that disrupts your daily activities? The discomfort and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> associated with heart muscle issues can be debilitating, affecting your quality of life and overall well-being. Understanding how to alleviate these symptoms naturally can make a significant difference in managing your condition and improving your heart health.</p>
+<p>Are you struggling with heart muscle pain that disrupts your daily activities? The discomfort and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> associated with heart muscle issues can be debilitating, affecting your quality of life and overall well-being. Understanding how to alleviate these symptoms naturally can make a significant difference in managing your condition and improving your heart health.</p>
 <h2 class="sec-scrl" id="heart-muscle-pain-relief">Heart Muscle Pain Relief</h2>
-<p>Heart muscle pain, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can cause symptoms like chest pain, fatigue, and inflammation. To find relief from these discomforts, consider incorporating natural remedies into your daily routine:</p>
+<p>Heart muscle pain, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can cause symptoms like chest pain, fatigue, and inflammation. To find relief from these discomforts, consider incorporating natural remedies into your daily routine:</p>
 <ul>
 <li>Stay hydrated by drinking plenty of water throughout the day.</li>
 <li>Include anti-inflammatory foods in your diet, such as fatty fish, nuts, and leafy greens.</li>
@@ -197,7 +197,7 @@
 <h2 class="sec-scrl" id="managing-chest-discomfort">Managing Chest Discomfort</h2>
 <p>Dealing with chest discomfort can be challenging, but there are practical ways to manage these symptoms effectively. Here are some strategies to help you cope with heart muscle pain:</p>
 <ul>
-<li>Practice relaxation techniques like progressive muscle relaxation to ease <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>.</li>
+<li>Practice relaxation techniques like progressive muscle relaxation to ease <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>.</li>
 <li>Use heat therapy, such as warm compresses, to alleviate muscle tension in the chest area.</li>
 <li>Ensure proper posture and avoid activities that worsen chest pain to prevent exacerbating the condition.</li>
 </ul>

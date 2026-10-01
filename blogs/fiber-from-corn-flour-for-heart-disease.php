@@ -10,12 +10,12 @@
     <meta property="og:title" content="Corn Flour: Lower Cholesterol for Heart Health" />
     <meta property="og:description" content="Discover how corn flour can help lower cholesterol and promote heart health. Learn more about the benefits of dietary fiber." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fiber-from-corn-flour-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fiber-from-corn-flour-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fiber-from-corn-flour-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fiber-from-corn-flour-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fiber From Corn Flour For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fiber-from-corn-flour-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fiber-from-corn-flour-for-heart-disease"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Aids in weight management, which is beneficial for heart health</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-reduction">Cholesterol Reduction</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease. Fortunately, the fiber content in corn flour can be a valuable ally in lowering cholesterol levels and promoting a healthier heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease. Fortunately, the fiber content in corn flour can be a valuable ally in lowering cholesterol levels and promoting a healthier heart.</p>
 <p>Here's how corn flour can help in reducing cholesterol:</p>
 <ul>
 <li>Dietary fiber binds to cholesterol, preventing its absorption into the bloodstream</li>

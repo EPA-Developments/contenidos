@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Glucose-Heart Connection: Vital Insights" />
     <meta property="og:description" content="Explore how glucose levels affect your heart health. Learn about the link between high blood sugar and cardiac well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glucose And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glucose-and-heart-health"
         }
     ]
 }
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="diabetes-and-heart-disease">The Link Between Diabetes and Heart Disease</h2>
 <p>Individuals with diabetes are at a heightened risk of developing heart disease due to the impact of consistently high blood sugar levels on their cardiovascular system. Diabetes can lead to complications such as coronary artery disease, heart failure, and stroke, emphasizing the importance of blood sugar management in diabetic patients.</p>
-<p>Moreover, diabetes and heart disease share common risk factors such as obesity, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, making it crucial for individuals with diabetes to address these factors to protect their heart health.</p>
+<p>Moreover, diabetes and heart disease share common risk factors such as obesity, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, making it crucial for individuals with diabetes to address these factors to protect their heart health.</p>
 <h2 class="sec-scrl" id="blood-sugar-regulation">Strategies for Effective Blood Sugar Regulation</h2>
 <p>Implementing strategies to regulate your blood sugar levels can have a profound impact on reducing the risk of heart disease associated with high blood sugar. By adopting a holistic approach to managing your blood sugar, you can safeguard your cardiac health and overall well-being.</p>
 <ul>

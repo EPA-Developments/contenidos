@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Multidetector Computed Tomography: Costs, and Normal Range" property="og:title"/>
 <meta content="Multidetector CT scans provide detailed heart images. Know more about its purpose, costs, and normal Range for diagnosing heart conditions." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/multidetector-computed-tomography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/multidetector-computed-tomography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/multidetector-computed-tomography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/multidetector-computed-tomography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Multidetector Computed Tomography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/multidetector-computed-tomography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/multidetector-computed-tomography"  
       }]
     }
   </script>
@@ -164,7 +164,7 @@
 <p>The primary purpose of performing a Multidetector Computed Tomography (MDCT) test in cardiac imaging is to obtain detailed images of the heart and blood vessels to diagnose and monitor heart conditions.</p>
 <p>MDCT is particularly useful in assessing coronary artery disease, evaluating heart function, and detecting blockages in the arteries.</p>
 <p>The benefits of MDCT in cardiac imaging include its non-invasive nature, high resolution images, and ability to capture images quickly. MDCT is also useful in identifying structural abnormalities in the heart and guiding treatment decisions for patients with heart disease.</p>
-<p>Scenarios where MDCT is useful include patients with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or other symptoms of heart disease. MDCT can help healthcare providers quickly and accurately diagnose heart conditions and develop appropriate treatment plans.</p>
+<p>Scenarios where MDCT is useful include patients with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or other symptoms of heart disease. MDCT can help healthcare providers quickly and accurately diagnose heart conditions and develop appropriate treatment plans.</p>
 <h2 id="costs">What are the Costs of Multidetector Computed Tomography Tests in Americas?</h2>
 <p>The costs of Multidetector Computed Tomography (MDCT) tests in Americas can vary depending on the facility, location, and specific type of test being performed.</p>
 <p>Generally, the price ranges for MDCT tests can range from U$S 5,000 to U$S 15,000 or more.</p>

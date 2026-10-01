@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range of High Sensitivity C-reactive Protein Test" property="og:title"/>
 <meta content="High-sensitivity C-reactive protein test checks inflammation. Know more about its purpose, costs, and normal Range for heart health monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/highsensitivity-creactive-protein-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/highsensitivity-creactive-protein-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/highsensitivity-creactive-protein-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/highsensitivity-creactive-protein-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "High-Sensitivity C-Reactive Protein Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/highsensitivity-creactive-protein-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/highsensitivity-creactive-protein-test"  
       }]
     }
   </script>
@@ -183,9 +183,9 @@
 <p>The test involves taking a blood sample from a vein in the arm, which is then sent to a laboratory for analysis. Results are usually available within a few days.</p>
 <h2 id="purpose">What is the Purpose of Performing a High-Sensitivity C-Reactive Protein Test Test?</h2>
 <p>The primary purpose of performing a High-Sensitivity C-Reactive Protein Test is to assess the risk of cardiovascular disease.</p>
-<p>Elevated levels of CRP in the blood indicate inflammation in the body, which can lead to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries) and increase the risk of heart disease.</p>
+<p>Elevated levels of CRP in the blood indicate inflammation in the body, which can lead to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries) and increase the risk of heart disease.</p>
 <p>Additionally, the test can be used to monitor the effectiveness of treatment for inflammatory conditions such as rheumatoid arthritis or lupus. It can help healthcare providers adjust medication dosages or treatment plans as needed.</p>
-<p>High-sensitivity CRP testing is also useful in predicting the risk of future cardiovascular events in individuals who may not have traditional risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>High-sensitivity CRP testing is also useful in predicting the risk of future cardiovascular events in individuals who may not have traditional risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <p>This test can provide valuable information for early intervention and prevention strategies.</p>
 <h2 id="costs">What are the Costs of High-Sensitivity C-Reactive Protein Test Tests in Americas?</h2>
 <p>The cost of a High-Sensitivity C-Reactive Protein Test in Americas can vary depending on the location, the laboratory performing the test, and any additional services included in the test package.</p>

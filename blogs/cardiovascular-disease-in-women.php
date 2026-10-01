@@ -10,12 +10,12 @@
     <meta property="og:title" content="Hormones and Women's Heart Health" />
     <meta property="og:description" content="Explore how hormones influence cardiovascular disease in women. Learn about women heart attack symptoms, hormonal heart risk, pregnancy, and heart health, and cardiovascular risks in menopause." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-in-women" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-in-women" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-in-women" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-in-women" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiovascular Disease In Women",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-in-women"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-in-women"
         }
     ]
 }
@@ -170,14 +170,14 @@
             <div class="article-content">
               <h1>The Hormonal Impact on Women's Cardiovascular Health</h1>
 <p>Are you aware of how cardiovascular disease in women can affect your daily life? How does it impact your ability to perform daily activities and enjoy quality time with your loved ones?</p>
-<p>Cardiovascular disease is a leading cause of death in women worldwide. Understanding the role hormones play in this condition is crucial for effective prevention and management. In this article, we'll explore the impact of hormones on cardiovascular disease in women, including women <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> symptoms, hormonal heart risk, pregnancy's influence on heart health, and cardiovascular risks during menopause.</p>
+<p>Cardiovascular disease is a leading cause of death in women worldwide. Understanding the role hormones play in this condition is crucial for effective prevention and management. In this article, we'll explore the impact of hormones on cardiovascular disease in women, including women <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> symptoms, hormonal heart risk, pregnancy's influence on heart health, and cardiovascular risks during menopause.</p>
 <h2 class="sec-scrl" id="women-heart-attack-symptoms">Women Heart Attack Symptoms</h2>
 <p>Women often experience different symptoms during a heart attack compared to men. Recognizing these signs is essential for timely intervention and improved outcomes. Common symptoms of a heart attack in women may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Pain in the neck, jaw, or back</li>
-<li>Nausea, vomiting, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Nausea, vomiting, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 <p>If you experience any of these symptoms, especially when at rest or during physical exertion, seek medical help immediately. Ignoring the signs of a heart attack can have serious consequences for women's heart health.</p>
 <h2 class="sec-scrl" id="hormonal-heart-risk">Hormonal Heart Risk</h2>

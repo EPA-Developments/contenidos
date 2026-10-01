@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Mushrooms for Heart Health: Preventing Attacks&quot;" />
     <meta property="og:description" content="Learn how mushrooms can help reduce heart attack risk and promote cardiovascular health. Discover the benefits of mushroom supplements today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Preventing Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-attack"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Mushrooms in Heart Health</h1>
-<p>Are you concerned about your <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk and looking for natural ways to lower it without disrupting your daily life? Heart attacks can be life-altering events that affect your ability to perform even simple activities. Finding preventative measures that fit seamlessly into your routine is crucial. Let's explore the role of mushrooms in preventing heart attacks and how they can contribute to better cardiovascular health.</p>
+<p>Are you concerned about your <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk and looking for natural ways to lower it without disrupting your daily life? Heart attacks can be life-altering events that affect your ability to perform even simple activities. Finding preventative measures that fit seamlessly into your routine is crucial. Let's explore the role of mushrooms in preventing heart attacks and how they can contribute to better cardiovascular health.</p>
 <h2 class="sec-scrl" id="heart-attack-risk">Understanding Heart Attack Risk</h2>
-<p>Heart attack risk factors can include <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, smoking, diabetes, and a sedentary lifestyle. By addressing these risk factors, you can significantly reduce the likelihood of experiencing a heart attack. Incorporating heart-healthy foods, such as mushrooms, into your diet can play a key role in reducing the risk of cardiovascular events.</p>
+<p>Heart attack risk factors can include <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, smoking, diabetes, and a sedentary lifestyle. By addressing these risk factors, you can significantly reduce the likelihood of experiencing a heart attack. Incorporating heart-healthy foods, such as mushrooms, into your diet can play a key role in reducing the risk of cardiovascular events.</p>
 <ul>
 <li>Mushrooms are low in calories and fat, making them an excellent choice for maintaining a healthy weight, which is crucial for heart health.</li>
 <li>The high fiber content in mushrooms can help lower cholesterol levels, reducing the risk of plaque buildup in the arteries.</li>
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="mushroom-supplements">The Role of Mushroom Supplements</h2>
 <p>While incorporating fresh mushrooms into your diet is beneficial, mushroom supplements can provide a concentrated dose of specific compounds that promote heart health. These supplements are convenient and can be easily integrated into your daily routine.</p>
 <ul>
-<li>Reishi mushrooms contain compounds that act as natural anticoagulants, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation.</li>
+<li>Reishi mushrooms contain compounds that act as natural anticoagulants, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation.</li>
 <li>Chaga mushrooms are rich in antioxidants that help protect the heart from oxidative stress and inflammation.</li>
 <li>Cordyceps mushrooms have been shown to improve exercise performance, which can contribute to overall cardiovascular health.</li>
 </ul>
@@ -148,7 +148,7 @@
 <p>What specific cardiovascular health benefits can mushrooms offer? Understanding how mushrooms impact heart health can empower you to make informed choices for your well-being.</p>
 <ul>
 <li>Mushrooms are a good source of potassium, a mineral that helps regulate blood pressure and reduce strain on the heart.</li>
-<li>The presence of beta-glucans in mushrooms can help lower cholesterol levels, protecting the heart from <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>The presence of beta-glucans in mushrooms can help lower cholesterol levels, protecting the heart from <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Regular consumption of mushrooms has been associated with a reduced risk of developing cardiovascular diseases, including heart attacks.</li>
 </ul>
 <h2 class="sec-scrl" id="mushroom-compounds">Exploring Mushroom Compounds for Heart Health</h2>

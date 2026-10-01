@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypervolemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hypervolemia, also known as fluid overload, is a condition where the body has too much fluid in the blood. Know more about its causes and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hypervolemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hypervolemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hypervolemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hypervolemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hypervolemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hypervolemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hypervolemia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Hypervolemia</h1>
-<p>Hypervolemia occurs when there is an excessive amount of fluid in the blood vessels. This condition can strain the heart and kidneys, leading to serious health issues. It is prevalent in individuals with heart failure, kidney disease, or liver problems. Hypervolemia can cause symptoms like swelling, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. It is crucial to manage hypervolemia to prevent complications. Keeping a close eye on fluid intake and working with healthcare providers to adjust medications can help control hypervolemia effectively.</p>
+<p>Hypervolemia occurs when there is an excessive amount of fluid in the blood vessels. This condition can strain the heart and kidneys, leading to serious health issues. It is prevalent in individuals with heart failure, kidney disease, or liver problems. Hypervolemia can cause symptoms like swelling, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. It is crucial to manage hypervolemia to prevent complications. Keeping a close eye on fluid intake and working with healthcare providers to adjust medications can help control hypervolemia effectively.</p>
 <h2 id="causes">Causes of Hypervolemia</h2>
 <p>Hypervolemia, an excessive fluid volume in the bloodstream, can be caused by various factors. These include:
 <ul>
@@ -179,8 +179,8 @@
 <li>Swelling in the legs, ankles, or abdomen</li>
 <li>Rapid weight gain</li>
 <li>High blood pressure</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> when lying down</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> when lying down</li>
 <li>Confusion or altered mental status</li>
 </ul>
 
@@ -192,7 +192,7 @@ If you experience any of these symptoms, it's essential to seek medical attentio
 <li>Medical history review</li>
 <li>Physical examination</li>
 <li>Blood tests</li>
-<li>Imaging tests (e.g., chest X-ray, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>)</li>
+<li>Imaging tests (e.g., chest X-ray, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>)</li>
 <li>Blood pressure measurement</li>
 <li>Symptom monitoring</li>
 </ul></p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Key Signs and Symptoms of Congenital Heart Disease: Recognize Early">
   <meta property="og:description" content="Discover the key congenital heart disease signs and symptoms you should be aware of in this informative guide. Don't ignore these warning signs.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Key Signs And Symptoms Of Congenital Heart Disease: Recognize Early",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/key-signs-symptoms-congenital-heart-disease-recognize-early"  
       }]
     }
   </script>

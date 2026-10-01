@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart-Healthy Oils for Lowering Blood Pressure" />
     <meta property="og:description" content="Explore the best oils for reducing blood pressure naturally and promoting heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oils-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oils-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oils-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oils-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oils For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oils-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oils-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Heart-Healthy Oils for Lowering Blood Pressure</h1>
-<p>Are you looking for natural ways to manage your blood pressure and promote heart health? The oils you use in your daily cooking could play a significant role in supporting healthy blood pressure levels. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can impact your daily activities and overall well-being. Fortunately, incorporating specific oils into your diet can help improve your arterial health and support your circulatory system. Let's explore the benefits of using oils for blood pressure regulation.</p>
+<p>Are you looking for natural ways to manage your blood pressure and promote heart health? The oils you use in your daily cooking could play a significant role in supporting healthy blood pressure levels. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can impact your daily activities and overall well-being. Fortunately, incorporating specific oils into your diet can help improve your arterial health and support your circulatory system. Let's explore the benefits of using oils for blood pressure regulation.</p>
 <h2 class="sec-scrl" id="olive-oil">Why is Olive Oil Beneficial for Lowering Blood Pressure?</h2>
 <p>Olive oil is a staple in the Mediterranean diet, known for its heart-healthy properties. Here's how it can help in reducing blood pressure:</p>
 <ul>

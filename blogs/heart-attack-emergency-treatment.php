@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Emergency Heart Attack Treatment Steps&quot;" />
     <meta property="og:description" content="Learn essential steps for heart attack emergency treatment to save lives. Discover how to recognize symptoms, perform CPR, and seek immediate care." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-emergency-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-emergency-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-emergency-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-emergency-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Attack Emergency Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-emergency-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-attack-emergency-treatment"
         }
     ]
 }
@@ -169,12 +169,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Essential Heart Attack Emergency Steps</h1>
-<p>Do you know what to do in a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> emergency? Imagine experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-chest-pain">sudden chest pain</a> or discomfort, struggling to catch your breath, feeling dizzy, and fearing the worst. How would you react? How would it impact your daily life and those around you?</p>
+<p>Do you know what to do in a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> emergency? Imagine experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-chest-pain">sudden chest pain</a> or discomfort, struggling to catch your breath, feeling dizzy, and fearing the worst. How would you react? How would it impact your daily life and those around you?</p>
 <h2 class="sec-scrl" id="heart-attack-symptoms">Recognizing Heart Attack Symptoms</h2>
 <p>Recognizing heart attack symptoms is crucial for prompt treatment. Common signs include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Feeling lightheaded or dizzy</li>
 </ul>
 <p>If you experience these symptoms, seek emergency medical help immediately.</p>
@@ -197,9 +197,9 @@
 <h2 class="sec-scrl" id="heart-attack-diagnosis">Receiving Heart Attack Diagnosis</h2>
 <p>Once at the hospital, healthcare providers will conduct various tests to confirm a heart attack diagnosis:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart activity.</li>
 <li>Blood tests to check for cardiac enzymes.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function.</li>
 </ul>
 <p>These tests help determine the extent of heart muscle damage and guide further treatment.</p>
 <h2 class="sec-scrl" id="heart-attack-prevention">Preventing Future Heart Attacks</h2>

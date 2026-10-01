@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cor Triatriatum: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Cor Triatriatum blocks blood flow in the heart due to an extra membrane. Know more about its causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cor-triatriatum">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cor-triatriatum">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cor-triatriatum" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cor-triatriatum" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cor Triatriatum",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cor-triatriatum"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cor-triatriatum"
       }]
     }
   </script>
@@ -168,8 +168,8 @@
 <h1>Causes, Symptoms and Treatment of Cor Triatriatum</h1>
 <p>Cor Triatriatum is a rare congenital heart defect characterized by the presence of a membrane dividing the left atrium into two chambers. While relatively uncommon, this anomaly can have significant implications for cardiovascular health.</p>
 <p>The prevalence of Cor Triatriatum is estimated to be around 0.1% of all congenital heart defects.</p>
-<p>This condition can impact cardiac function by obstructing blood flow and increasing the risk of complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, atrial arrhythmias, and heart failure.</p>
-<p>In the short term, untreated Cor Triatriatum can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, while long-term risks include the development of more severe cardiovascular issues.</p>
+<p>This condition can impact cardiac function by obstructing blood flow and increasing the risk of complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, atrial arrhythmias, and heart failure.</p>
+<p>In the short term, untreated Cor Triatriatum can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, while long-term risks include the development of more severe cardiovascular issues.</p>
 <p>Notably, Cor Triatriatum is often asymptomatic in its early stages, underscoring the importance of early detection through regular screenings to prevent potential complications and ensure timely intervention.</p>
 <h2 id="causes">Causes of Cor Triatriatum</h2>
 <p>Several factors can contribute to the development of Cor Triatriatum, each impacting heart function differently. The primary causes of Cor Triatriatum include structural abnormalities during fetal development, abnormal embryonic tissue growth, genetic mutations, and certain syndromes associated with cardiac anomalies.</p>
@@ -187,18 +187,18 @@
 </ul>
 <h2 id="symptoms">Symptoms of Cor Triatriatum</h2>
 <p>Symptoms of Cor Triatriatum can vary depending on the stage of the condition, with early-stage symptoms being subtle and easily overlooked. Early symptoms may include mild fatigue, exercise intolerance, and occasional palpitations.</p>
-<p>These symptoms can impact daily activities and energy levels, often leading individuals to attribute them to other causes. In advanced stages, more pronounced symptoms such as worsening shortness of breath, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and recurrent fainting episodes may manifest.</p>
+<p>These symptoms can impact daily activities and energy levels, often leading individuals to attribute them to other causes. In advanced stages, more pronounced symptoms such as worsening shortness of breath, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and recurrent fainting episodes may manifest.</p>
 <p>These advanced symptoms can significantly affect physical well-being and emotional health, leading to decreased quality of life and increased anxiety or stress.</p>
 <h2>Diagnosis of Cor Triatriatum</h2>
 <p>Diagnosing Cor Triatriatum typically involves a series of tests to confirm the presence of the condition and assess its severity.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is often the initial diagnostic tool used to visualize the abnormal membrane in the left atrium and evaluate its impact on blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is often the initial diagnostic tool used to visualize the abnormal membrane in the left atrium and evaluate its impact on blood flow.</li>
 </ul>
 <ul>
 <li>Cardiac MRI or CT scans may provide more detailed images of the heart structures and aid in treatment planning. Electrophysiological studies can assess the heart's electrical activity and identify any arrhythmias associated with Cor Triatriatum.</li>
 </ul>
 <ul>
-<li>Invasive procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> may be performed to obtain precise measurements of pressure gradients and assess the feasibility of surgical intervention.</li>
+<li>Invasive procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> may be performed to obtain precise measurements of pressure gradients and assess the feasibility of surgical intervention.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Cor Triatriatum</h2>
 <p>Treatment for Cor Triatriatum aims to alleviate symptoms, improve cardiac function, and prevent complications. In some cases, medications such as diuretics, beta-blockers, and anticoagulants may be prescribed to manage symptoms and reduce the risk of blood clots or arrhythmias.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hyperhomocysteinemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hyperhomocysteinemia increases the risk of heart problems. Know more about its causes, symptoms, and treatment to protect your health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hyperhomocysteinemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hyperhomocysteinemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hyperhomocysteinemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hyperhomocysteinemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hyperhomocysteinemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hyperhomocysteinemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hyperhomocysteinemia"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 
 <ul>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Numbness or tingling in the extremities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Difficulty concentrating</li>
 <li>Visual disturbances</li>
 </ul> 

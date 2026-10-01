@@ -10,12 +10,12 @@
     <meta property="og:title" content="Almond Oil Benefits for Blood Pressure" />
     <meta property="og:description" content="Discover the effects of almond oil on blood pressure and vascular health. Uncover the benefits of this natural remedy." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/almond-oil-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/almond-oil-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/almond-oil-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/almond-oil-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Almond Oil And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/almond-oil-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/almond-oil-and-blood-pressure"
         }
     ]
 }
@@ -129,10 +129,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Almond Oil for Blood Pressure</h1>
-<p>Are you looking for natural ways to manage your blood pressure effectively? Have you considered the potential benefits of incorporating almond oil into your daily routine? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities and overall quality of life. Understanding the role of almond oil in blood pressure regulation could be a game-changer for your vascular health.</p>
+<p>Are you looking for natural ways to manage your blood pressure effectively? Have you considered the potential benefits of incorporating almond oil into your daily routine? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities and overall quality of life. Understanding the role of almond oil in blood pressure regulation could be a game-changer for your vascular health.</p>
 <h2 class="sec-scrl" id="antihypertensive-effects">Antihypertensive Effects of Almond Oil</h2>
 <p>Almond oil is rich in unsaturated fats, particularly monounsaturated fats, which have been linked to lower blood pressure levels. These healthy fats help reduce inflammation and improve heart function, ultimately contributing to better blood pressure control. Additionally, almond oil contains magnesium, a mineral essential for blood vessel health and relaxation.</p>
-<p>Studies have shown that regular consumption of almond oil may lead to a significant decrease in systolic and diastolic blood pressure readings. The antihypertensive effects of almond oil make it a valuable addition to your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> management plan.</p>
+<p>Studies have shown that regular consumption of almond oil may lead to a significant decrease in systolic and diastolic blood pressure readings. The antihypertensive effects of almond oil make it a valuable addition to your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> management plan.</p>
 <h2 class="sec-scrl" id="potassium-sources">Almond Oil as a Source of Potassium</h2>
 <p>Potassium plays a crucial role in regulating blood pressure by counteracting the effects of sodium in the body. Almond oil is a good source of potassium, with every tablespoon providing a notable amount of this essential mineral. Including potassium-rich foods like almond oil in your diet can help maintain healthy blood pressure levels.</p>
 <ul>

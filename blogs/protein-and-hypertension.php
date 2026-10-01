@@ -10,12 +10,12 @@
     <meta property="og:title" content="Protein's Role in Lowering Blood Pressure" />
     <meta property="og:description" content="Learn how protein can lower blood pressure naturally. Explore the relationship between protein and hypertension for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Protein in Lowering Blood Pressure</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Wondering if protein could be the key to improving your condition and daily life activities? Let's delve into the relationship between protein and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Wondering if protein could be the key to improving your condition and daily life activities? Let's delve into the relationship between protein and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <h2 class="sec-scrl" id="hypertensioncontrol">Hypertension Control</h2>
 <p>High blood pressure, or hypertension, affects millions of people worldwide and is a leading cause of cardiovascular disease. One crucial aspect of managing hypertension is controlling your diet. How does protein intake impact blood pressure regulation?</p>
 <p>Proteins play a vital role in the body's overall health, including maintaining blood vessel health. When consumed as part of a heart-healthy diet, certain proteins can aid in lowering high blood pressure and reducing the risk of related complications.</p>
@@ -141,11 +141,11 @@
 <li>Greek Yogurt: Packed with protein and probiotics, Greek yogurt is a nutritious option that can contribute to overall heart health and gut function.</li>
 </ul>
 <h2 class="sec-scrl" id="bloodpressureregulation">Blood Pressure Regulation</h2>
-<p>How does protein consumption help regulate blood pressure levels? One key mechanism is through its impact on sodium balance in the body. High sodium intake is known to contribute to hypertension by causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and increased blood volume.</p>
+<p>How does protein consumption help regulate blood pressure levels? One key mechanism is through its impact on sodium balance in the body. High sodium intake is known to contribute to hypertension by causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and increased blood volume.</p>
 <p>Proteins can help counteract the effects of sodium by promoting diuresis, or the excretion of excess sodium through the urine. This process helps to reduce blood volume and lower blood pressure levels, thus supporting cardiovascular health.</p>
 <h2 class="sec-scrl" id="arterialhealth">Protein and Arterial Health</h2>
 <p>How does protein contribute to the health of your arteries? Certain amino acids found in protein-rich foods, such as arginine, can help dilate blood vessels and improve blood flow. This vasodilatory effect can lead to lower blood pressure and reduced strain on the heart.</p>
-<p>Incorporating protein into your diet can also help maintain the integrity of the arterial walls, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular diseases. By supporting arterial health, protein plays a vital role in overall blood pressure regulation and heart function.</p>
+<p>Incorporating protein into your diet can also help maintain the integrity of the arterial walls, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular diseases. By supporting arterial health, protein plays a vital role in overall blood pressure regulation and heart function.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, protein intake can indeed play a significant role in helping to lower blood pressure and manage hypertension effectively. By choosing protein-rich foods as part of a balanced diet, you can support your cardiovascular health, regulate blood pressure levels, and reduce the risk of complications associated with high blood pressure.</p>
 <p>Remember to consult with your healthcare provider or a registered dietitian to determine the best dietary approach for your specific needs and health goals. With the right combination of protein sources and a heart-healthy diet, you can take proactive steps towards better blood pressure control and overall well-being.</p>

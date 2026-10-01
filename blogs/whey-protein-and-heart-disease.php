@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Whey Protein for Heart Health&quot;" />
     <meta property="og:description" content="Learn how whey protein can help prevent heart disease. Discover its impact on cardiovascular protection, heart attack prevention, and stroke risk reduction." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-heart-disease"
         }
     ]
 }
@@ -137,10 +137,10 @@
 <li><strong>Vascular Health:</strong> Whey protein promotes the production of nitric oxide, which helps relax blood vessels, improving blood flow and overall vascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="risk-factors">Understanding Heart Disease Risk Factors</h2>
-<p>Before diving into the benefits of whey protein, it's essential to understand the common risk factors associated with heart disease. By addressing these risk factors, you can take proactive steps towards <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention and stroke risk reduction. Here are some key risk factors to be aware of:</p>
+<p>Before diving into the benefits of whey protein, it's essential to understand the common risk factors associated with heart disease. By addressing these risk factors, you can take proactive steps towards <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention and stroke risk reduction. Here are some key risk factors to be aware of:</p>
 <ul>
 <li><strong>High Cholesterol:</strong> Elevated levels of LDL cholesterol can lead to the buildup of plaque in the coronary arteries, increasing the risk of heart disease.</li>
-<li><strong>High Blood Pressure:</strong> <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> puts added strain on the heart and blood vessels, contributing to heart attacks and strokes.</li>
+<li><strong>High Blood Pressure:</strong> <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> puts added strain on the heart and blood vessels, contributing to heart attacks and strokes.</li>
 </ul>
 <h2 class="sec-scrl" id="supplements">Whey Protein as a Heart Health Supplement</h2>
 <p>Adding whey protein to your diet can be a convenient way to support your heart health. Whether in the form of shakes, smoothies, or protein bars, whey protein offers a tasty and versatile option for boosting your cardiovascular protection. Here's why whey protein stands out as a heart-healthy supplement:</p>

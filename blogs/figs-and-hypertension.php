@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Figs for Blood Pressure Control&quot;" />
     <meta property="og:description" content="Discover how figs can naturally help lower high blood pressure with their potassium-rich properties. Boost heart health the delicious way!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/figs-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/figs-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Figs And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/figs-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/figs-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Figs for Hypertension Management</h1>
-<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> while juggling your daily activities? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, can be a daunting condition to deal with, affecting your overall well-being and quality of life.</p>
+<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> while juggling your daily activities? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, can be a daunting condition to deal with, affecting your overall well-being and quality of life.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Do Figs Contribute to Blood Pressure Regulation?</h2>
 <p>Figs are not only delicious but also packed with nutrients that can help regulate blood pressure. Here's how figs play a role in managing hypertension:</p>
 <ul>

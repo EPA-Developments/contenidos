@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Recognizing Early Heart Attack Symptoms&quot;" />
     <meta property="og:description" content="Learn the crucial early signs of heart attack disease to stay vigilant and protect your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Attack Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-attack-disease"
         }
     ]
 }
@@ -169,12 +169,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Recognizing Early Heart Attack Symptoms</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort that seems to come and go? Do you feel unusually fatigued, even after minimal physical exertion? These could be signs of a cardiac event looming. Understanding the early symptoms of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> disease is crucial as it can affect your daily activities and overall quality of life.</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort that seems to come and go? Do you feel unusually fatigued, even after minimal physical exertion? These could be signs of a cardiac event looming. Understanding the early symptoms of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> disease is crucial as it can affect your daily activities and overall quality of life.</p>
 <h2 class="sec-scrl" id="heart-attack-risk-factors">Heart Attack Risk Factors</h2>
 <p>Heart attack risk factors are conditions or habits that make you more likely to develop heart disease. Some common risk factors include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
 <li>Diabetes</li>
 <li>Obesity</li>
@@ -182,7 +182,7 @@
 <p>Understanding these risk factors can help you take proactive steps to prevent heart attacks.</p>
 <h2 class="sec-scrl" id="coronary-artery-disease">Coronary Artery Disease</h2>
 <p>Coronary artery disease occurs when the major blood vessels that supply your heart with blood, oxygen, and nutrients become damaged or diseased. This can lead to artery blockage, restricting blood flow to the heart muscle and increasing the risk of a heart attack.</p>
-<p>Common symptoms of coronary artery disease include chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>.</p>
+<p>Common symptoms of coronary artery disease include chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
 <p>Preventing heart disease involves making healthy lifestyle choices such as:</p>
 <ul>
@@ -202,7 +202,7 @@
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Irregular heartbeat</li>
 </ul>
 <p>Ignoring these symptoms can lead to serious complications, including heart failure.</p>

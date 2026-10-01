@@ -9,15 +9,15 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pedí tu turno | Segunda Opinión Médica">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/turnos">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/turnos" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/turnos">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/turnos" />
   <?php include 'include/header.php' ?>
 
   <div class="page-banner-area">
     <div class="container">
       <div class="page-banner-content">
         <ul>
-          <li><a href="https://plataforma.epa-bienestar.com.ar/">Inicio</a></li>
+          <li><a href="https://contenidos.segundaopinionmedica.org/">Inicio</a></li>
           <li>Pedí tu turno</li>
         </ul>
       </div>

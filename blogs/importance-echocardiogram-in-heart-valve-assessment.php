@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="The Importance of Echocardiogram in Heart Valve Assessment">
   <meta property="og:description" content="Learn why an echocardiogram is crucial for assessing heart valve function. Discover how this non-invasive test provides essential insight into your heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/importance-echocardiogram-in-heart-valve-assessment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/importance-echocardiogram-in-heart-valve-assessment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/importance-echocardiogram-in-heart-valve-assessment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/importance-echocardiogram-in-heart-valve-assessment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Echocardiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/importance-echocardiogram-in-heart-valve-assessment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/importance-echocardiogram-in-heart-valve-assessment"  
       }]
     }
   </script>

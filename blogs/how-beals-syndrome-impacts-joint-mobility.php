@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding How Beals Syndrome Impacts Joint Mobility">
   <meta property="og:description" content="Learn how Beals Syndrome impacts joint mobility and flexibility. Discover the symptoms and treatment options for managing Beals Syndrome effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-beals-syndrome-impacts-joint-mobility">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-beals-syndrome-impacts-joint-mobility">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-beals-syndrome-impacts-joint-mobility" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-beals-syndrome-impacts-joint-mobility" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Beals Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-beals-syndrome-impacts-joint-mobility"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-beals-syndrome-impacts-joint-mobility"  
       }]
     }
   </script>

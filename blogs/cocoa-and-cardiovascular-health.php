@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cocoa's Impact on Heart Health: Separating Myths from Facts&quot;" />
     <meta property="og:description" content="Uncover the truth about cocoa's impact on heart health. Myths debunked, facts revealed." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-cardiovascular-health"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <ul>
 <li>Myth: Cocoa is bad for your heart because of its high sugar content.</li>
 <li>Fact: Pure cocoa, especially dark chocolate with high cocoa content, is rich in flavonoids that can benefit heart health.</li>
-<li>Myth: Consuming cocoa can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</li>
+<li>Myth: Consuming cocoa can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</li>
 <li>Fact: Studies have shown that cocoa, particularly flavonoid-rich cocoa, may help lower blood pressure.</li>
 </ul>
 <h2 class="sec-scrl" id="Heart Health">The Impact of Cocoa on Heart Health</h2>
@@ -149,7 +149,7 @@
 <h2 class="sec-scrl" id="Scientific Findings">Scientific Findings on Cocoa and Blood Pressure</h2>
 <p>Studies exploring the relationship between cocoa and blood pressure have yielded interesting results:</p>
 <ul>
-<li>A meta-analysis published in the "Journal of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>" found that cocoa intake was associated with a small but significant reduction in blood pressure.</li>
+<li>A meta-analysis published in the "Journal of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>" found that cocoa intake was associated with a small but significant reduction in blood pressure.</li>
 <li>Another study in "The Americasn Journal of Clinical Nutrition" suggested that flavonoid-rich cocoa could help dilate blood vessels and improve blood flow.</li>
 </ul>
 <h2 class="sec-scrl" id="Cocoa and Blood Pressure">Cocoa's Effect on Blood Pressure Regulation</h2>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vitamin D and Atherosclerosis: Prevention Insights&quot;" />
     <meta property="og:description" content="Uncover how Vitamin D impacts atherosclerosis prevention for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Vitamin D in Preventing Atherosclerosis</h1>
-<p>Are you aware of the connection between Vitamin D and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? Do you wonder how this relationship impacts your daily life and health? Let's explore the significance of Vitamin D in preventing atherosclerosis and its implications for your well-being.</p>
+<p>Are you aware of the connection between Vitamin D and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? Do you wonder how this relationship impacts your daily life and health? Let's explore the significance of Vitamin D in preventing atherosclerosis and its implications for your well-being.</p>
 <h2 class="sec-scrl" id="plaquebuildup">Plaque Buildup: Understanding the Role of Vitamin D</h2>
 <p>Vitamin D plays a crucial role in regulating calcium levels in the body, influencing various processes that affect arterial health. One key aspect is its impact on plaque buildup within the arteries. When Vitamin D levels are insufficient, calcium can accumulate in the arteries, leading to the formation of cholesterol plaques. These plaques can restrict blood flow and increase the risk of cardiovascular events.</p>
 <p>By maintaining adequate Vitamin D levels, you can help mitigate plaque buildup and reduce the chances of developing atherosclerosis, promoting better arterial health in the process.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Health Benefits of Eggs: A Nutritional Powerhouse" />
     <meta property="og:description" content="Discover the heart health benefits of eggs: lower cholesterol, boost omega 3, increase HDL, and reduce triglycerides naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Health Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits"
         }
     ]
 }

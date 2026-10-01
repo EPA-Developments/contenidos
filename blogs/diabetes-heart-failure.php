@@ -10,12 +10,12 @@
     <meta property="og:title" content="Optimal Diet for Diabetes Heart Failure Patients" />
     <meta property="og:description" content="Discover the optimal diet for managing diabetes heart failure effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/diabetes-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/diabetes-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/diabetes-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/diabetes-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Diabetes Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/diabetes-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/diabetes-heart-failure"
         }
     ]
 }
@@ -191,7 +191,7 @@
 <p>Managing heart failure alongside diabetes requires a comprehensive approach to your health. Consider the following strategies to support your heart health:</p>
 <ul>
 <li>Adhere to your prescribed medications for heart failure and diabetes.</li>
-<li>Follow a low-sodium diet to reduce <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and ease the workload on your heart.</li>
+<li>Follow a low-sodium diet to reduce <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and ease the workload on your heart.</li>
 <li>Incorporate regular physical activity into your routine to strengthen your heart muscle.</li>
 <li>Monitor your weight, blood pressure, and symptoms of heart failure closely.</li>
 </ul>

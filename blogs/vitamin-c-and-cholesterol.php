@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin C Impact on Cholesterol Levels" />
     <meta property="og:description" content="Explore how Vitamin C impacts cholesterol levels and heart health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-cholesterol"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Link Between Vitamin C and Cholesterol</h1>
-<p>Are you concerned about your cholesterol levels and looking for natural ways to manage them? Have you ever wondered about the role of Vitamin C in improving your lipid profile? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can pose significant risks to your cardiovascular health, affecting your daily activities and overall well-being. Let's explore the connection between Vitamin C and cholesterol and how it can impact your heart health.</p>
+<p>Are you concerned about your cholesterol levels and looking for natural ways to manage them? Have you ever wondered about the role of Vitamin C in improving your lipid profile? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can pose significant risks to your cardiovascular health, affecting your daily activities and overall well-being. Let's explore the connection between Vitamin C and cholesterol and how it can impact your heart health.</p>
 <h2 class="sec-scrl" id="vitamin-c-cholesterol">Vitamin C and Cholesterol: An Overview</h2>
-<p>When it comes to cholesterol management, Vitamin C plays a crucial role in maintaining a healthy lipid profile. Research suggests that Vitamin C may help in lowering LDL (bad cholesterol) levels while increasing HDL (good cholesterol) levels, thus reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
+<p>When it comes to cholesterol management, Vitamin C plays a crucial role in maintaining a healthy lipid profile. Research suggests that Vitamin C may help in lowering LDL (bad cholesterol) levels while increasing HDL (good cholesterol) levels, thus reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
 <p>Here are some key ways in which Vitamin C influences cholesterol levels:</p>
 <ul>
 <li>**Lowering LDL:** Vitamin C is thought to prevent the oxidation of LDL cholesterol, which is a crucial step in the development of atherosclerosis.</li>
@@ -141,7 +141,7 @@
 </ul>
 <h2 class="sec-scrl" id="cholesterol-management">The Role of Vitamin C in Cholesterol Management</h2>
 <p>Studies have shown that Vitamin C supplementation can lead to improvements in the lipid profile, especially in individuals with high cholesterol levels. By incorporating Vitamin C-rich foods such as citrus fruits, bell peppers, and kiwis into your diet, you can support your cardiovascular health and reduce the risk of heart disease.</p>
-<p>Additionally, Vitamin C helps maintain the flexibility of blood vessels, promoting healthy blood flow and reducing the strain on the heart. This, in turn, can lower your chances of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
+<p>Additionally, Vitamin C helps maintain the flexibility of blood vessels, promoting healthy blood flow and reducing the strain on the heart. This, in turn, can lower your chances of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
 <h2 class="sec-scrl" id="antioxidant-effects">The Antioxidant Effects of Vitamin C</h2>
 <p>One of the key mechanisms through which Vitamin C benefits cholesterol levels is its antioxidant properties. As an antioxidant, Vitamin C scavenges free radicals in the body, preventing oxidative stress and damage to the arteries. By protecting LDL cholesterol from oxidation, Vitamin C helps maintain vascular health and reduce the risk of atherosclerosis.</p>
 <p>Moreover, Vitamin C works in synergy with other antioxidants, such as Vitamin E, further enhancing their effectiveness in combating cholesterol-related issues. Including a variety of antioxidant-rich foods in your diet can have a cumulative beneficial effect on your cardiovascular system.</p>

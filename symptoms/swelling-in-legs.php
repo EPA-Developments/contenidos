@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Swelling in Legs: Causes, Treatment and Diagnosis" >
   <meta property="og:description" content="Swelling in legs could signal heart issues or poor circulation. Know more about the causes, forms and treatment options for leg swelling." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-legs">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-legs">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-legs" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-legs" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Swelling In Legs",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-legs"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-legs"  
       }]
     }
   </script>
@@ -197,7 +197,7 @@
 <li>Swollen legs: When the legs appear enlarged or puffy due to fluid buildup.</li>
 <li>Lower limb swelling: Refers to swelling in the lower extremities, including the feet, ankles, and calves.</li>
 <li>Fluid retention in legs: When excess fluid accumulates in the tissues of the legs, leading to swelling.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema">peripheral edema</a>: A type of edema that affects the extremities, such as the legs and arms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema">peripheral edema</a>: A type of edema that affects the extremities, such as the legs and arms.</li>
 <li>Swollen extremities: Enlargement or puffiness in the legs, feet, or ankles due to fluid retention.</li>
 <li>Leg puffiness: Mild swelling or puffiness in the legs, often caused by sitting or standing for long periods.</li>
 </ul>
@@ -236,7 +236,7 @@
 <li>Surgical intervention: In severe cases, surgery may be necessary to address underlying vascular issues causing leg swelling.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent or severe swelling in the legs, especially if accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fever.</p>
+<p>It is essential to seek medical attention if you experience persistent or severe swelling in the legs, especially if accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fever.</p>
 <p>Additionally, if you have a history of heart disease, kidney disease, or liver disease, it is crucial to consult a healthcare provider for proper evaluation and management of leg swelling.</p>
 <h2>Home Remedies for Swelling in legs</h2>
 <p>In addition to medical treatment, there are several home remedies that can help manage swelling in the legs:</p>

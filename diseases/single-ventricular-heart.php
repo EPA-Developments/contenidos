@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Single Ventricular Heart: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Single ventricular heart condition causes heart complications. Know more about its causes, symptoms, and treatment for healthier living." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/single-ventricular-heart">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/single-ventricular-heart">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/single-ventricular-heart" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/single-ventricular-heart" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Single Ventricular Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/single-ventricular-heart"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/single-ventricular-heart"
       }]
     }
   </script>
@@ -192,21 +192,21 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue: Individuals with single ventricular heart may experience persistent fatigue due to decreased cardiac efficiency and limited oxygen delivery. This fatigue can impact daily activities and energy levels, leading to reduced exercise tolerance and stamina.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>: Cyanosis, a bluish discoloration of the skin or lips, may occur due to inadequate oxygenation of the blood. This symptom can be subtle in early stages but indicates compromised oxygen delivery.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>: Cyanosis, a bluish discoloration of the skin or lips, may occur due to inadequate oxygenation of the blood. This symptom can be subtle in early stages but indicates compromised oxygen delivery.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: As the heart struggles to pump effectively, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, especially during physical exertion. This symptom can significantly impact quality of life and limit activities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: As the heart struggles to pump effectively, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, especially during physical exertion. This symptom can significantly impact quality of life and limit activities.</li>
 <li>Edema: Fluid retention and swelling, particularly in the legs and abdomen, can develop as heart failure progresses. Edema can be uncomfortable, affect mobility, and indicate worsening cardiac function.</li>
 </ul>
 <h2>Diagnosis of Single Ventricular Heart</h2>
 <p>Diagnosing single ventricular heart involves a comprehensive approach to assess cardiac structure and function accurately. Various diagnostic tests are essential in confirming the presence of this congenital heart defect and guiding treatment decisions.</p>
 <h3>Diagnostic Tests</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Echocardiograms use sound waves to create images of the heart's structure and function, allowing healthcare providers to visualize the single ventricular anatomy and assess cardiac performance.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Echocardiograms use sound waves to create images of the heart's structure and function, allowing healthcare providers to visualize the single ventricular anatomy and assess cardiac performance.</li>
 <li>Cardiac MRI: Cardiac magnetic resonance imaging provides detailed images of the heart's chambers and valves, offering valuable information on cardiac function and potential abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: This invasive procedure involves inserting a thin tube into the heart to measure pressures and oxygen levels, helping to evaluate the severity of the single ventricular defect.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): ECGs record the heart's electrical activity, detecting arrhythmias or abnormal rhythms associated with single ventricular heart, aiding in diagnosis and treatment planning.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: This invasive procedure involves inserting a thin tube into the heart to measure pressures and oxygen levels, helping to evaluate the severity of the single ventricular defect.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): ECGs record the heart's electrical activity, detecting arrhythmias or abnormal rhythms associated with single ventricular heart, aiding in diagnosis and treatment planning.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Single Ventricular Heart</h2>
 <p>Managing single ventricular heart requires a multidisciplinary approach involving medication, lifestyle modifications, and, in some cases, surgical interventions. Each treatment option aims to improve cardiac function, alleviate symptoms, and enhance quality of life for individuals with this congenital heart defect.</p>

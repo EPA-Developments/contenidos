@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Malignant Pericardial Effusion: Causes and Treatment" >
   <meta property="og:description" content="Malignant Pericardial Effusion causes fluid buildup around the heart. Know more about its symptoms, causes, and treatment for timely intervention." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/malignant-pericardial-effusion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/malignant-pericardial-effusion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/malignant-pericardial-effusion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/malignant-pericardial-effusion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Malignant Pericardial Effusion",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/malignant-pericardial-effusion"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/malignant-pericardial-effusion"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Malignant Pericardial Effusion</h1>
-<p>Malignant Pericardial Effusion is when cancer cells spread to the pericardium, the sac around the heart, causing fluid buildup. This can compress the heart and affect its function, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. It is a serious condition that requires prompt medical attention. While it is not very common, it can occur in patients with advanced cancer. Understanding its signs and seeking early treatment is crucial for managing this condition effectively.</p>
+<p>Malignant Pericardial Effusion is when cancer cells spread to the pericardium, the sac around the heart, causing fluid buildup. This can compress the heart and affect its function, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. It is a serious condition that requires prompt medical attention. While it is not very common, it can occur in patients with advanced cancer. Understanding its signs and seeking early treatment is crucial for managing this condition effectively.</p>
 <h2 id="causes">Causes of Malignant Pericardial Effusion</h2>
 <p>Malignant Pericardial Effusion develops due to several key factors:
 
@@ -178,8 +178,8 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Chest pain or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Cough</li>
 </ul>
 
@@ -190,9 +190,9 @@ These symptoms may indicate the presence of Malignant Pericardial Effusion and s
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
 <li>Chest X-ray to look for fluid accumulation around the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the pericardial space</li>
-<li>CT or <a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/mri-scan">mri scan</a> for detailed imaging</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/pericardiocentesis">pericardiocentesis</a> to analyze fluid for cancer cells</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the pericardial space</li>
+<li>CT or <a href="https://contenidos.segundaopinionmedica.org/tests-screenings/mri-scan">mri scan</a> for detailed imaging</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/pericardiocentesis">pericardiocentesis</a> to analyze fluid for cancer cells</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Malignant Pericardial Effusion</h2>
 <p>Malignant pericardial effusion requires individualized care to address the underlying cause and alleviate symptoms effectively. 

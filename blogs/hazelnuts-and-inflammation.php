@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hazelnuts: Inflammation & Heart Health&quot;" />
     <meta property="og:description" content="Discover the power of hazelnuts in reducing inflammation and supporting heart health. Boost your wellness naturally with this superfood." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hazelnuts And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-inflammation"
         }
     ]
 }

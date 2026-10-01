@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Flutter Ablation: Effective Heart Rhythm Treatment">
   <meta property="og:description" content="Looking for effective atrial flutter treatment? Learn about atrial flutter ablation, a cardiac ablation for flutter procedure that can help with heart rhythm issues.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/atrial-flutter-ablation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/atrial-flutter-ablation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/atrial-flutter-ablation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/atrial-flutter-ablation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrial Flutter Ablation",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/atrial-flutter-ablation"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/atrial-flutter-ablation"  
       }]
     }
   </script>

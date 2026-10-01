@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Near Fainting: Causes, Symptoms, and Treatment - When to Seek Help">
   <meta property="og:description" content="Experiencing near fainting? Learn about symptoms, causes, and treatment options for near fainting, including management strategies and when to seek medical help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/near-fainting">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/near-fainting">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/near-fainting" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/near-fainting" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Near Fainting",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/near-fainting"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/near-fainting"  
       }]
     }
   </script>
@@ -186,15 +186,15 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Near Fainting: Causes, Symptoms, and Treatment - When to Seek Help</h1>
-<p>Near fainting, also known as pre-<a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, is a sensation of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or lightheaded without actually losing consciousness.</p>
+<p>Near fainting, also known as pre-<a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, is a sensation of <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or lightheaded without actually losing consciousness.</p>
 <p>It is often a warning sign that the body is not receiving enough blood flow to the brain, leading to a temporary decrease in oxygen levels.</p>
-<p>Near fainting can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, a head rush, or a feeling of faintness. This condition can be alarming but is usually not a cause for serious concern.</p>
+<p>Near fainting can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, a head rush, or a feeling of faintness. This condition can be alarming but is usually not a cause for serious concern.</p>
 <h2 id="forms">What are the Forms of Near fainting?</h2>
-<p>Near fainting can present in various forms, each with its own set of symptoms and triggers. Some common forms include feeling faint, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, dizziness, weakness, head rush, and pre-syncope.</p>
-<p>Feeling faint is characterized by a sudden sensation of impending <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a>, while lightheadedness involves feeling unsteady or woozy. Dizziness may manifest as a spinning sensation, and weakness can lead to feelings of fatigue and instability.</p>
+<p>Near fainting can present in various forms, each with its own set of symptoms and triggers. Some common forms include feeling faint, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, dizziness, weakness, head rush, and pre-syncope.</p>
+<p>Feeling faint is characterized by a sudden sensation of impending <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a>, while lightheadedness involves feeling unsteady or woozy. Dizziness may manifest as a spinning sensation, and weakness can lead to feelings of fatigue and instability.</p>
 <p>Head rushes are sudden, brief feelings of light-headedness, and pre-syncope refers to the sensation just before fainting.</p>
 <h2 id="causes">What are the Causes of Near fainting?</h2>
-<p>Near fainting can be caused by various factors, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, dehydration, vasovagal syncope, medication side effects, anxiety, anemia, or heart conditions.</p>
+<p>Near fainting can be caused by various factors, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, dehydration, vasovagal syncope, medication side effects, anxiety, anemia, or heart conditions.</p>
 <p>Low blood pressure, or hypotension, can result in inadequate blood flow to the brain, leading to near fainting episodes. Dehydration can also reduce blood volume, impacting circulation and potentially causing near fainting.</p>
 <p>Vasovagal syncope is a common cause of near fainting, triggered by emotional stress or pain.</p>
 <ul>
@@ -211,7 +211,7 @@
 <p>Lifestyle changes such as staying hydrated, avoiding triggers like prolonged standing or sudden movements, and managing stress can help prevent near fainting episodes.</p>
 <p>In severe cases, advanced treatments like pacemakers or implantable cardioverter-defibrillators (ICDs) may be necessary to regulate heart function.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is important to seek medical attention if near fainting episodes become frequent, severe, or are accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, shortness of breath, palpitations, or loss of consciousness.</p>
+<p>It is important to seek medical attention if near fainting episodes become frequent, severe, or are accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, shortness of breath, palpitations, or loss of consciousness.</p>
 <p>Additionally, if near fainting occurs suddenly, lasts longer than a few minutes, or is associated with a head injury, it is crucial to see a healthcare provider promptly.</p>
 <p>These symptoms may indicate a more serious underlying condition that requires immediate medical evaluation and treatment.</p>
 <h2>Home Remedies for Near fainting</h2>

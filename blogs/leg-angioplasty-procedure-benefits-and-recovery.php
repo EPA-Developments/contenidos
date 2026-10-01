@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Leg Angioplasty: Procedure, Benefits, and Recovery | Angioplasty in Leg">
   <meta property="og:description" content="Learn about the angioplasty in leg procedure, its benefits, and recovery process. Find out how this treatment can improve circulation and mobility.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/leg-angioplasty-procedure-benefits-and-recovery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/leg-angioplasty-procedure-benefits-and-recovery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/leg-angioplasty-procedure-benefits-and-recovery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/leg-angioplasty-procedure-benefits-and-recovery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Leg Angioplasty: Procedure, Benefits, And Recovery | Angioplasty In Leg",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/leg-angioplasty-procedure-benefits-and-recovery"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/leg-angioplasty-procedure-benefits-and-recovery"  
       }]
     }
   </script>

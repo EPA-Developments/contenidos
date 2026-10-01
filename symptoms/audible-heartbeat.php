@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Symptoms, Causes and Treatment of Audible Heartbeat" >
   <meta property="og:description" content="Hearing your heartbeat loudly in the ears or chest may be linked to heart or blood vessel issues. Know the causes, symptoms, and treatments. Read more." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/audible-heartbeat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/audible-heartbeat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/audible-heartbeat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/audible-heartbeat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Audible Heartbeat",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/audible-heartbeat"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/audible-heartbeat"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Audible Heartbeat: Treatment, Causes and Symptoms</h1>
-<p>Audible heartbeat, also known as hearable heartbeat or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> you can hear, is a condition where an individual can hear their own heartbeat without the aid of a stethoscope.</p>
+<p>Audible heartbeat, also known as hearable heartbeat or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> you can hear, is a condition where an individual can hear their own heartbeat without the aid of a stethoscope.</p>
 <p>This phenomenon can manifest as a sound of heartbeat, thumping heart, heartbeats you can hear, or audible palpitations. It can be alarming and concerning for those experiencing it, potentially leading to anxiety and stress.</p>
 <p>The sound of heartbeat can vary from person to person, with some describing it as a regular, rhythmic thumping, while others may experience irregular or rapid heartbeats.</p>
 <p>Audible heartbeat can occur at rest or during physical activity, and the intensity of the sound may fluctuate.</p>
@@ -207,16 +207,16 @@
 <li>Stress and anxiety: Emotional stress can trigger palpitations and make the heartbeat more audible.</li>
 <li>Caffeine and stimulants: Excessive consumption of caffeine or stimulants can lead to palpitations and heightened awareness of the heartbeat.</li>
 <li>Dehydration: Lack of proper hydration can affect the heart's ability to function optimally, leading to audible heartbeat.</li>
-<li>Heart disease: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, coronary artery disease, or heart valve disorders can cause palpitations and audible heartbeats.</li>
-<li>Arrhythmias: Irregular heart rhythms, such as atrial fibrillation or ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, can result in palpitations and audible heartbeats.</li>
+<li>Heart disease: Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, coronary artery disease, or heart valve disorders can cause palpitations and audible heartbeats.</li>
+<li>Arrhythmias: Irregular heart rhythms, such as atrial fibrillation or ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, can result in palpitations and audible heartbeats.</li>
 </ul>
 <p>Understanding the specific cause of audible heartbeat is crucial in determining the appropriate treatment and management strategies for the individual experiencing this condition.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Audible heartbeat?</h2>
 <p>Diagnosing audible heartbeat typically involves a combination of medical history evaluation, physical examination, and diagnostic tests.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): A non-invasive test that records the electrical activity of the heart to detect any abnormalities in heart rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): A non-invasive test that records the electrical activity of the heart to detect any abnormalities in heart rhythm.</li>
 <li>Holter monitor: A portable device that continuously records the heart's electrical activity over a period of 24-48 hours to capture intermittent palpitations.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An ultrasound of the heart that provides detailed images of the heart's structure and function to assess for any underlying heart conditions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An ultrasound of the heart that provides detailed images of the heart's structure and function to assess for any underlying heart conditions.</li>
 <li>Blood tests: Laboratory tests to check for electrolyte imbalances, thyroid dysfunction, or markers of heart damage that may be contributing to audible heartbeat.</li>
 </ul>
 <p>In some cases, additional tests such as stress tests, cardiac MRI, or electrophysiology studies may be recommended to further evaluate the underlying cause of audible heartbeat and guide treatment decisions.</p>
@@ -225,15 +225,15 @@
 <ul>
 <li>Lifestyle modifications: Managing stress, reducing caffeine intake, staying hydrated, and maintaining a healthy diet and exercise routine can help alleviate palpitations and audible heartbeats.</li>
 <li>Medications: In cases where palpitations are due to arrhythmias or heart conditions, medications like beta-blockers, calcium channel blockers, or anti-arrhythmic drugs may be prescribed to regulate heart rhythm.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a>: A procedure that uses electrical shocks or medications to restore normal heart rhythm in individuals with persistent arrhythmias.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a>: A minimally invasive procedure that targets and destroys abnormal heart tissue causing arrhythmias to restore normal heart rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a>: A procedure that uses electrical shocks or medications to restore normal heart rhythm in individuals with persistent arrhythmias.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a>: A minimally invasive procedure that targets and destroys abnormal heart tissue causing arrhythmias to restore normal heart rhythm.</li>
 </ul>
 <p>It is essential to consult with a healthcare provider to determine the most appropriate treatment plan for audible heartbeat based on the individual's specific condition and medical history.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is important to seek medical attention if you experience any of the following symptoms or stages of audible heartbeat:</p>
 <ul>
 <li>Persistent or recurrent palpitations that interfere with daily activities.</li>
-<li>Audible heartbeats accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, shortness of breath, dizziness, or fainting.</li>
+<li>Audible heartbeats accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, shortness of breath, dizziness, or fainting.</li>
 <li>Audible heartbeats that are associated with a history of heart disease, high blood pressure, or other cardiovascular conditions.</li>
 <li>Audible heartbeats that worsen over time or are accompanied by other concerning symptoms.</li>
 </ul>

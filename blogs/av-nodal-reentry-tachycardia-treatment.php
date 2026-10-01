@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding AV Nodal Reentry Tachycardia Treatment">
   <meta property="og:description" content="Learn about AV nodal reentry tachycardia, a type of heart condition, and discover the treatment options available for managing this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/av-nodal-reentry-tachycardia-treatment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/av-nodal-reentry-tachycardia-treatment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/av-nodal-reentry-tachycardia-treatment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/av-nodal-reentry-tachycardia-treatment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Av Nodal Reentry Tachycardia Treatment",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/av-nodal-reentry-tachycardia-treatment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/av-nodal-reentry-tachycardia-treatment"  
       }]
     }
   </script>

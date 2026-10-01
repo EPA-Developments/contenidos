@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Continuous Wave Doppler Echocardiography: Costs and Purpose" property="og:title"/>
 <meta content="Continuous wave Doppler echocardiography measures blood flow speed. Know more about its purpose, costs, and normal Range for heart assessment." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/continuous-wave-doppler-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/continuous-wave-doppler-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/continuous-wave-doppler-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/continuous-wave-doppler-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Continuous Wave Doppler Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/continuous-wave-doppler-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/continuous-wave-doppler-echocardiography"  
       }]
     }
   </script>
@@ -156,14 +156,14 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range and Costs for Continuous Wave Doppler Echocardiography</h1>
-<p>Continuous Wave Doppler <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive diagnostic test that uses ultrasound technology to assess blood flow velocity within the heart and blood vessels.</p>
+<p>Continuous Wave Doppler <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive diagnostic test that uses ultrasound technology to assess blood flow velocity within the heart and blood vessels.</p>
 <p>It is a valuable tool in cardiology that provides real-time information about the direction and speed of blood flow, helping clinicians evaluate various cardiovascular conditions.</p>
 <p>In Continuous Wave Doppler Echocardiography, sound waves are transmitted into the body, and the echoes produced by the moving blood cells are analyzed to generate detailed images of the heart and blood vessels.</p>
 <p>This technique allows healthcare providers to visualize the structure and function of the heart, as well as detect abnormalities such as valve defects, stenosis, regurgitation, and other conditions affecting blood flow.</p>
 <p>Continuous Wave Doppler Echocardiography is particularly useful for assessing blood flow velocity in different areas of the heart, such as the chambers, valves, and major vessels.</p>
 <p>By measuring the speed and direction of blood flow, healthcare providers can identify abnormalities that may indicate heart disease, congenital defects, or other cardiac conditions.</p>
-<p>Examples of conditions that can be evaluated using Continuous Wave Doppler Echocardiography include aortic stenosis, mitral regurgitation, atrial septal defect, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>.</p>
-<p>These conditions can affect the efficiency of the heart's pumping action and lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
+<p>Examples of conditions that can be evaluated using Continuous Wave Doppler Echocardiography include aortic stenosis, mitral regurgitation, atrial septal defect, and <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>.</p>
+<p>These conditions can affect the efficiency of the heart's pumping action and lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
 <p>Continuous Wave Doppler Echocardiography plays a crucial role in the diagnosis and management of various cardiovascular disorders, providing valuable information that helps healthcare providers make informed decisions about treatment options and patient care.</p>
 <p>It is a safe, accurate, and reliable imaging modality that contributes to the comprehensive evaluation of heart function and blood flow dynamics.</p>
 <h2 id="purpose">What is the Purpose of Performing a Continuous Wave Doppler Echocardiography Test?</h2>
@@ -173,7 +173,7 @@
 <p>By measuring blood flow velocities, healthcare providers can determine the severity of valve abnormalities and their impact on cardiac function.</p>
 <p>Another important purpose of Continuous Wave Doppler Echocardiography is to monitor the progression of cardiovascular conditions, assess the effectiveness of treatment interventions, and guide clinical decision-making.</p>
 <p>By tracking changes in blood flow velocities over time, healthcare providers can evaluate the response to therapy and adjust treatment plans accordingly.</p>
-<p>Continuous Wave Doppler Echocardiography also plays a key role in assessing cardiac <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>, which are abnormal sounds heard during a physical examination.</p>
+<p>Continuous Wave Doppler Echocardiography also plays a key role in assessing cardiac <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>, which are abnormal sounds heard during a physical examination.</p>
 <p>By using Doppler ultrasound technology, healthcare providers can determine the origin, intensity, and characteristics of murmurs, helping to differentiate innocent murmurs from pathological ones that may indicate underlying heart disease.</p>
 <p>Overall, the purpose of performing a Continuous Wave Doppler Echocardiography test is to provide valuable information about blood flow dynamics in the heart and blood vessels, aiding in the diagnosis, management, and monitoring of cardiovascular conditions.</p>
 <p>This non-invasive imaging modality offers insights into the structure and function of the heart, helping healthcare providers deliver personalized and effective care to patients.</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Systolic Heart Failure: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Systolic Heart failure affects heart pumping ability. Know more about the causes, symptoms, and treatments for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/systolic-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/systolic-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/systolic-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/systolic-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Systolic Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/systolic-heart-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/systolic-heart-failure"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Systolic heart failure is a common type of heart failure characterized by the heart's inability to pump blood effectively throughout the body. This condition significantly impacts an individual's health, leading to a range of symptoms and complications.</p>
 <p>It is a prevalent cardiovascular disorder, affecting millions of individuals worldwide. Systolic heart failure can have severe consequences if left untreated, including reduced quality of life, hospitalizations, and even premature death.</p>
 <p>The essential functions of the heart, such as pumping oxygen-rich blood to vital organs and tissues, are compromised in systolic heart failure.</p>
-<p>This dysfunction can lead to a cascade of health issues, including fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fluid retention, and decreased exercise tolerance.</p>
+<p>This dysfunction can lead to a cascade of health issues, including fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fluid retention, and decreased exercise tolerance.</p>
 <p>In the short term, untreated systolic heart failure can result in acute decompensation, leading to hospital admissions and emergency interventions. Long-term risks include progressive decline in heart function, increased risk of arrhythmias, and higher mortality rates.</p>
 <p>Systolic heart failure is often asymptomatic in its early stages, making it crucial for individuals at risk to undergo regular screenings and early detection measures.</p>
 <p>This proactive approach can help initiate appropriate interventions to manage the condition effectively and improve outcomes.</p>
@@ -177,9 +177,9 @@
 <h3>Primary Causes</h3>
 <ul>
 <li>Coronary Artery Disease (CAD): CAD is a leading cause of systolic heart failure. The gradual blockage of coronary arteries restricts blood flow to the heart muscle, leading to myocardial damage and impaired contractility over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: Chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> places strain on the heart, causing <a href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-hypertrophy">left ventricular hypertrophy</a> and eventual systolic dysfunction due to increased afterload.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>): Acute myocardial infarction can result in permanent damage to the heart muscle, reducing its ability to contract effectively and leading to systolic heart failure.</li>
-<li>Cardiomyopathies: Conditions such as dilated <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> can weaken the heart muscle, affecting its pumping capacity and contributing to systolic heart failure.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: Chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> places strain on the heart, causing <a href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-hypertrophy">left ventricular hypertrophy</a> and eventual systolic dysfunction due to increased afterload.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>): Acute myocardial infarction can result in permanent damage to the heart muscle, reducing its ability to contract effectively and leading to systolic heart failure.</li>
+<li>Cardiomyopathies: Conditions such as dilated <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> can weaken the heart muscle, affecting its pumping capacity and contributing to systolic heart failure.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
@@ -191,7 +191,7 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Persistent tiredness that impacts daily activities and exercise tolerance.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, due to fluid buildup in the lungs.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, due to fluid buildup in the lungs.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>

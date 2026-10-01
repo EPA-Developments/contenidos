@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Fibrillation: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Ventricular Fibrillation causes rapid, erratic heartbeats. Know more about its causes, symptoms, and treatment for heart rhythm control." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ventricular Fibrillation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation"
       }]
     }
   </script>
@@ -167,18 +167,18 @@
             <div class="article-content">
 <h1>Symptoms, Treatment of Ventricular Fibrillation</h1>
 <p>Ventricular Fibrillation (VF) is a severe cardiac arrhythmia characterized by rapid, chaotic electrical impulses in the heart's ventricles, leading to ineffective pumping of blood.</p>
-<p>This life-threatening condition is of significant concern globally due to its potential to cause sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, resulting in decreased blood flow to vital organs.</p>
+<p>This life-threatening condition is of significant concern globally due to its potential to cause sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, resulting in decreased blood flow to vital organs.</p>
 <p>VF poses a substantial burden on public health, with a prevalence that increases with age and underlying heart conditions.</p>
 <p>The impact of VF on health is profound, disrupting essential functions such as blood circulation, oxygen delivery to tissues, and overall cardiac output.</p>
-<p>Short-term risks of untreated VF include immediate <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a>, while long-term consequences can result in irreversible brain damage or death.</p>
+<p>Short-term risks of untreated VF include immediate <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a>, while long-term consequences can result in irreversible brain damage or death.</p>
 <p>It is crucial to note that VF can be asymptomatic in its early stages, underscoring the importance of early detection through regular screenings to prevent adverse outcomes.</p>
 <h2 id="causes">Causes of Ventricular Fibrillation</h2>
 <h3>Primary Causes</h3>
 <ul>
-<li>Coronary Artery Disease (CAD): CAD, characterized by <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> in the coronary arteries, can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>), causing scar tissue that disrupts the heart's electrical pathways.</li>
-<li>Structural Heart Abnormalities: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders can alter the heart's structure, creating an arrhythmogenic substrate for VF.</li>
+<li>Coronary Artery Disease (CAD): CAD, characterized by <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> in the coronary arteries, can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>), causing scar tissue that disrupts the heart's electrical pathways.</li>
+<li>Structural Heart Abnormalities: Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders can alter the heart's structure, creating an arrhythmogenic substrate for VF.</li>
 <li>Electrolyte Imbalances: Disturbances in potassium, sodium, or calcium levels can affect the heart's electrical conduction system, triggering VF episodes.</li>
-<li>Inherited Arrhythmia Syndromes: Genetic conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/brugada-syndrome">brugada syndrome</a> can predispose individuals to sudden cardiac events like VF.</li>
+<li>Inherited Arrhythmia Syndromes: Genetic conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/brugada-syndrome">brugada syndrome</a> can predispose individuals to sudden cardiac events like VF.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>

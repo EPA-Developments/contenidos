@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Tomato's Heart Health Boost&quot;" />
     <meta property="og:description" content="Explore the heart-healthy advantages of tomatoes: from antioxidants to blood pressure support. Unlock the power of tomatoes for a healthier heart today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-benefits-of-tomatoes" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-benefits-of-tomatoes" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-benefits-of-tomatoes" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-benefits-of-tomatoes" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiovascular Benefits Of Tomatoes",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-benefits-of-tomatoes"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-benefits-of-tomatoes"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <p>Tomatoes are renowned for their exceptional antioxidant properties, which play a crucial role in maintaining cardiovascular health. Antioxidants help neutralize harmful free radicals in the body, preventing cell damage and reducing the risk of chronic diseases, including heart disease.</p>
 <p>In addition to lycopene, tomatoes contain other antioxidants like beta-carotene and vitamin E, all of which work together to protect the heart and blood vessels from damage. Including a variety of antioxidant-rich foods like tomatoes in your diet can significantly improve your heart health over time.</p>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease, but the potassium content in tomatoes can help regulate blood pressure levels. Potassium is a vasodilator, meaning it relaxes the blood vessels and promotes healthy blood flow, reducing strain on the cardiovascular system.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease, but the potassium content in tomatoes can help regulate blood pressure levels. Potassium is a vasodilator, meaning it relaxes the blood vessels and promotes healthy blood flow, reducing strain on the cardiovascular system.</p>
 <p>Moreover, the combination of potassium and other nutrients in tomatoes supports proper fluid balance in the body, which is essential for maintaining healthy blood pressure. By including tomatoes in your meals regularly, you can take a proactive step towards managing your blood pressure and supporting your heart health.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, the Cardiovascular Benefits of Tomatoes are truly remarkable. From their rich nutrient profile to their antioxidant properties and impact on heart health, tomatoes are a versatile and delicious addition to a heart-healthy diet. Whether you enjoy them fresh in salads, blended into sauces, or roasted in dishes, the benefits of tomatoes for your cardiovascular system are undeniable. Start incorporating more tomatoes into your meals today and experience the positive effects on your heart health.</p>

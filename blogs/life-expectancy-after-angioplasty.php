@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Life Expectancy After Angioplasty: Latest Studies Findings">
   <meta property="og:description" content="Discover what the latest studies reveal about life expectancy after angioplasty. Learn about the potential outcomes and factors that can impact survival rates.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/life-expectancy-after-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/life-expectancy-after-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/life-expectancy-after-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/life-expectancy-after-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Life Expectancy After Angioplasty: Latest Studies Findings",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/life-expectancy-after-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/life-expectancy-after-angioplasty"  
       }]
     }
   </script>

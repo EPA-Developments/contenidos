@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Paroxysmal Tachycardia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Paroxysmal tachycardia causes sudden, fast heartbeats. Know more about its symptoms, causes, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Paroxysmal Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-tachycardia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Paroxysmal Tachycardia</h1>
-<p>Paroxysmal Tachycardia is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> that starts and stops suddenly. It's significant because it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fainting. This condition is prevalent among all age groups but is more common in older individuals. If you experience episodes of fast heart rate lasting for a few seconds to several hours, it's essential to seek medical attention to evaluate and manage this condition effectively.</p>
+<p>Paroxysmal Tachycardia is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> that starts and stops suddenly. It's significant because it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fainting. This condition is prevalent among all age groups but is more common in older individuals. If you experience episodes of fast heart rate lasting for a few seconds to several hours, it's essential to seek medical attention to evaluate and manage this condition effectively.</p>
 <h2 id="causes">Causes of Paroxysmal Tachycardia</h2>
 <p>Paroxysmal Tachycardia can be triggered by various factors. These include:
 
@@ -170,7 +170,7 @@
 <li>Caffeine or nicotine consumption</li>
 <li>Thyroid issues</li>
 <li>Electrolyte imbalances</li>
-<li>Heart conditions like heart failure or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li>Heart conditions like heart failure or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Paroxysmal Tachycardia</h2>
 <p>Paroxysmal Tachycardia is a condition characterized by sudden episodes of rapid heart rate. Recognizing its symptoms early is crucial for prompt intervention and better outcomes. Common symptoms include:
@@ -178,10 +178,10 @@
 <ul>
 <li>Rapid heartbeat</li>
 <li>Pounding or fluttering sensation in the chest</li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Chest pain or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 </ul>
 
 Being aware of these signs can lead to timely medical evaluation and appropriate management, potentially preventing complications associated with Paroxysmal Tachycardia.</p>

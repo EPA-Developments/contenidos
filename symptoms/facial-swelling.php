@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Facial Swelling: Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing facial swelling? Learn about causes, treatment, and when to seek help for facial swelling related to heart disease, kidney problems, or fluid retention.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/facial-swelling">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/facial-swelling">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/facial-swelling" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/facial-swelling" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Facial Swelling",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/facial-swelling"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/facial-swelling"  
       }]
     }
   </script>
@@ -218,7 +218,7 @@
 <p>Lifestyle changes such as maintaining a healthy diet, staying hydrated, avoiding allergens, and practicing good skincare habits can also help reduce facial swelling.</p>
 <p>In some cases, advanced treatments like surgery or procedures to drain excess fluid may be necessary to alleviate severe facial swelling.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is important to seek medical attention if you experience persistent or severe facial swelling, especially if it is accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, swallowing, or speaking.</p>
+<p>It is important to seek medical attention if you experience persistent or severe facial swelling, especially if it is accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, swallowing, or speaking.</p>
 <p>Additionally, if you have a history of heart disease, kidney problems, or thyroid disorders, it is important to consult a healthcare professional for proper evaluation and management of facial swelling.</p>
 <h2>Home Remedies for Facial swelling</h2>
 <p>In addition to medical treatments, there are several home remedies that can help reduce facial swelling:</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Alfalfa Tea: Heart-Boosting Antioxidants&quot;" />
     <meta property="og:description" content="Discover the potent antioxidants in Alfalfa Tea to support a healthier heart naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-tea-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-tea-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-tea-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-tea-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alfalfa Tea Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-tea-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alfalfa-tea-heart-benefits"
         }
     ]
 }
@@ -156,7 +156,7 @@
 </ul>
 <p>Incorporating a variety of herbal teas into your daily routine can provide holistic support for your heart and overall well-being.</p>
 <h2 class="sec-scrl" id="alfalfa-tea-for-cholesterol">Alfalfa Tea for Cholesterol</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease and other cardiovascular issues. Fortunately, Alfalfa Tea can help lower cholesterol naturally:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease and other cardiovascular issues. Fortunately, Alfalfa Tea can help lower cholesterol naturally:</p>
 <ul>
 <li>Reduces LDL Cholesterol: The antioxidants in Alfalfa Tea work to lower LDL (bad) cholesterol levels in the body, reducing the risk of plaque buildup in the arteries.</li>
 <li>Increases HDL Cholesterol: Alfalfa Tea can also raise HDL (good) cholesterol levels, which help remove excess cholesterol from the bloodstream.</li>

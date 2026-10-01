@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Left Bundle Branch Block Causes">
   <meta property="og:description" content="Learn about the primary left bundle branch block causes and what you should know about this heart condition. Find out more here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-left-bundle-branch-block-causes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-left-bundle-branch-block-causes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-left-bundle-branch-block-causes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-left-bundle-branch-block-causes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Left Bundle Branch Block Causes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-left-bundle-branch-block-causes"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-left-bundle-branch-block-causes"  
       }]
     }
   </script>

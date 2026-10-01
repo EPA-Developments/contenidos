@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis, and Treatment of Cold Skin" >
   <meta property="og:description" content="Cold skin can signal serious heart problems.Know more about the symptoms, diagnosis, causes, and treatment for cold skin related to the heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/cold-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/cold-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/cold-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cold Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/cold-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/cold-skin"  
       }]
     }
   </script>
@@ -192,7 +192,7 @@
 <p>There are various forms of cold skin that individuals may experience, each with its own set of symptoms and related concepts.</p>
 <p>These forms include cool skin, chilled skin, hypothermia symptoms, cold extremities, skin temperature drop, frostbite signs, and skin that feels cold to the touch.</p>
 <h2 id="causes">What are the Causes of Cold skin?</h2>
-<p>Cold skin can be caused by a variety of factors, including exposure to cold weather, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>, certain medical conditions, and emotional stress. Other causes may include dehydration, anemia, hypothyroidism, Raynaud's disease, and peripheral artery disease.</p>
+<p>Cold skin can be caused by a variety of factors, including exposure to cold weather, <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>, certain medical conditions, and emotional stress. Other causes may include dehydration, anemia, hypothyroidism, Raynaud's disease, and peripheral artery disease.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Cold skin?</h2>
 <p>The diagnosis of cold skin typically involves a physical examination by a healthcare provider.</p>
 <p>They may also inquire about your medical history, perform blood tests to check for underlying conditions, and conduct imaging tests to assess blood flow and circulation in the affected areas.</p>

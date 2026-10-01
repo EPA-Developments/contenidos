@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ter Haar Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Ter Haar Syndrome, a rare genetic disorder affecting skeletal development, with symptoms like short stature and distinctive facial features.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ter-haar-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ter-haar-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ter-haar-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ter-haar-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Ter Haar Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ter-haar-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ter-haar-syndrome"
       }]
     }
   </script>
@@ -181,7 +181,7 @@
 <li>Hair abnormalities like sparse hair or slow-growing hair</li>
 <li>Joint hypermobility or laxity</li>
 <li>Hearing loss</li>
-<li>Heart defects such as atrial septal defects or <a href="https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a></li>
+<li>Heart defects such as atrial septal defects or <a href="https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a></li>
 </ul></p>
 <h2>Diagnosis of Ter Haar Syndrome</h2>
 <p>Ter Haar Syndrome diagnosis is crucial for appropriate management. A precise diagnosis helps in understanding the condition's severity, prognosis, and treatment options. The diagnostic process involves a thorough clinical evaluation, genetic testing, and imaging studies. Accurate diagnosis is essential to provide tailored medical care and genetic counseling. The diagnostic methods for Ter Haar Syndrome include:

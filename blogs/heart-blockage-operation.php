@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Blockage Surgery: Risks & Benefits" />
     <meta property="og:description" content="Explore the risks and benefits of heart blockage surgery to make an informed decision. Learn about the procedure, recovery, and potential outcomes." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-blockage-operation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-blockage-operation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-blockage-operation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-blockage-operation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Blockage Operation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-blockage-operation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-blockage-operation"
         }
     ]
 }
@@ -171,7 +171,7 @@
               <h1>The Dangers and Advantages of Heart Blockage Operation</h1>
 <p>Are you wondering about the implications of undergoing a heart blockage operation? The thought of surgery can be daunting, especially when it concerns a vital organ like the heart. How will it affect your daily activities? Let's delve into the risks and benefits to help you make an informed decision.</p>
 <h2 class="sec-scrl" id="heart-blockage-operation">Understanding Heart Blockage Operation</h2>
-<p>Heart blockage operation, also known as <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>, is a procedure used to improve blood flow to the heart. During the surgery, a healthy blood vessel is grafted to bypass a blocked coronary artery, allowing blood to reach the heart muscle. This helps restore proper blood flow and can relieve symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</p>
+<p>Heart blockage operation, also known as <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>, is a procedure used to improve blood flow to the heart. During the surgery, a healthy blood vessel is grafted to bypass a blocked coronary artery, allowing blood to reach the heart muscle. This helps restore proper blood flow and can relieve symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</p>
 <p>Here are some key points to consider about heart blockage surgery:</p>
 <ul>
 <li>It is often recommended for individuals with severe coronary artery disease</li>
@@ -183,7 +183,7 @@
 <ul>
 <li>Improved blood flow to the heart muscle</li>
 <li>Relief from chest pain and other symptoms</li>
-<li>Reduced risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and other heart-related complications</li>
+<li>Reduced risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and other heart-related complications</li>
 </ul>
 <p>By addressing blockages in the coronary arteries, this surgery can enhance overall heart function and quality of life for many patients.</p>
 <h2 class="sec-scrl" id="heart-surgery-recovery">Understanding Heart Surgery Recovery</h2>
@@ -204,7 +204,7 @@
 </ul>
 <p>Discussing these risks with your healthcare team and understanding the precautions can help mitigate potential complications.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
-<p>In conclusion, heart blockage surgery, also known as coronary artery bypass surgery, can be a life-saving procedure for individuals with severe coronary artery disease. By understanding the risks and benefits associated with this surgery, you can make an informed decision in consultation with your healthcare provider. Remember, recovery from <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> requires time, dedication, and adherence to medical advice for the best outcomes.</p>
+<p>In conclusion, heart blockage surgery, also known as coronary artery bypass surgery, can be a life-saving procedure for individuals with severe coronary artery disease. By understanding the risks and benefits associated with this surgery, you can make an informed decision in consultation with your healthcare provider. Remember, recovery from <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> requires time, dedication, and adherence to medical advice for the best outcomes.</p>
             </div>
           </div>
         </div>

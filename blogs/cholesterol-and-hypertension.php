@@ -10,12 +10,12 @@
     <meta property="og:title" content="Managing Cholesterol and Hypertension" />
     <meta property="og:description" content="Learn how cholesterol and hypertension form a dangerous duo, impacting your health. Discover key insights to manage these risks effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-hypertension"
         }
     ]
 }
@@ -129,13 +129,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Deadly Duo: Cholesterol and Hypertension</h1>
-<p>Are you worried about how <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> could be silently damaging your body? Picture this: you're going about your day, but in the background, these two silent threats are putting your health at risk. How does this impact your ability to enjoy daily activities without the constant worry of potential health complications?</p>
+<p>Are you worried about how <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> could be silently damaging your body? Picture this: you're going about your day, but in the background, these two silent threats are putting your health at risk. How does this impact your ability to enjoy daily activities without the constant worry of potential health complications?</p>
 <p>Cholesterol and hypertension are two common conditions that often go hand in hand, significantly increasing the risk of heart disease and stroke. Understanding how they interact and affect your body is crucial for taking control of your health and well-being.</p>
 <h2 class="sec-scrl" id="arterial-damage">Arterial Damage</h2>
-<p>High cholesterol levels can lead to the buildup of plaque in your arteries, a condition known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. This buildup narrows the arteries, making it harder for blood to flow through. When hypertension is also present, the increased pressure on the artery walls can further damage them, raising the risk of heart attacks and strokes.</p>
+<p>High cholesterol levels can lead to the buildup of plaque in your arteries, a condition known as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. This buildup narrows the arteries, making it harder for blood to flow through. When hypertension is also present, the increased pressure on the artery walls can further damage them, raising the risk of heart attacks and strokes.</p>
 <p>To manage arterial damage caused by this dangerous duo, it's essential to focus on lifestyle changes such as adopting a heart-healthy diet, engaging in regular physical activity, and avoiding smoking. These habits can help lower cholesterol levels and reduce blood pressure, protecting your arteries from further harm.</p>
 <h2 class="sec-scrl" id="hypertension-management">Hypertension Management</h2>
-<p>Controlling hypertension is key to reducing the risk of complications associated with high cholesterol and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. Monitoring your blood pressure regularly and following your healthcare provider's recommendations for medication and lifestyle modifications are crucial steps in managing hypertension effectively.</p>
+<p>Controlling hypertension is key to reducing the risk of complications associated with high cholesterol and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. Monitoring your blood pressure regularly and following your healthcare provider's recommendations for medication and lifestyle modifications are crucial steps in managing hypertension effectively.</p>
 <ul>
 <li>Avoiding excess salt and processed foods</li>
 <li>Maintaining a healthy weight</li>

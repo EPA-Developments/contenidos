@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blood Clot in Brain Symptoms: Recognizing Signs & Risks">
   <meta property="og:description" content="Learn the signs of a blood clot in brain symptoms for early detection and treatment. Don't ignore potential warning signs - act fast for better outcomes.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-brain-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-brain-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-brain-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-brain-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blood Clot In Brain Symptoms: Recognizing Signs & Risks",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-brain-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-brain-symptoms"  
       }]
     }
   </script>

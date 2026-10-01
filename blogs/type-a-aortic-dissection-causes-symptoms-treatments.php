@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Type A Aortic Dissection: Causes, Symptoms, and Treatments">
   <meta property="og:description" content="Learn about type A aortic dissection and its treatment options. Get valuable insights on managing this serious cardiovascular condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/type-a-aortic-dissection-causes-symptoms-treatments">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/type-a-aortic-dissection-causes-symptoms-treatments">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/type-a-aortic-dissection-causes-symptoms-treatments" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/type-a-aortic-dissection-causes-symptoms-treatments" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Type A Aortic Dissection: Causes, Symptoms, And Treatments",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/type-a-aortic-dissection-causes-symptoms-treatments"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/type-a-aortic-dissection-causes-symptoms-treatments"  
       }]
     }
   </script>

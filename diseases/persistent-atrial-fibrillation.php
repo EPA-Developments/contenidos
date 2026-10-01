@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Persistent Atrial Fibrillation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Persistent atrial fibrillation involves long-lasting irregular heartbeats. Know more about its causes, symptoms, and treatments for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/persistent-atrial-fibrillation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/persistent-atrial-fibrillation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/persistent-atrial-fibrillation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/persistent-atrial-fibrillation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Persistent Atrial Fibrillation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/persistent-atrial-fibrillation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/persistent-atrial-fibrillation"
       }]
     }
   </script>
@@ -161,27 +161,27 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Persistent Atrial Fibrillation</h1>
-<p>Persistent atrial fibrillation is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> that doesn't go away on its own and requires treatment to restore a normal rhythm. It's significant because it can lead to complications like stroke or heart failure if left untreated. Around 20% of people with atrial fibrillation have persistent AF. It's crucial to manage it with medications or procedures to prevent serious health issues. If you have symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or fatigue, consult a healthcare provider for proper evaluation and management.</p>
+<p>Persistent atrial fibrillation is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> that doesn't go away on its own and requires treatment to restore a normal rhythm. It's significant because it can lead to complications like stroke or heart failure if left untreated. Around 20% of people with atrial fibrillation have persistent AF. It's crucial to manage it with medications or procedures to prevent serious health issues. If you have symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or fatigue, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Persistent Atrial Fibrillation</h2>
 <p>Persistent Atrial Fibrillation may develop due to various factors:
 
 <ul>
-<li>Underlying heart conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or heart failure</li>
+<li>Underlying heart conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or heart failure</li>
 <li>Age-related changes in the heart's structure and function</li>
 <li>Obesity and unhealthy lifestyle habits</li>
 <li>Thyroid disorders affecting heart function</li>
 <li>Chronic lung diseases impacting oxygen levels in the blood</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Persistent Atrial Fibrillation</h2>
-<p>Recognizing the symptoms of Persistent Atrial Fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>) is crucial as early detection can significantly improve outcomes. By being aware of the signs, individuals can seek timely medical intervention, leading to better management of the condition and reducing the risk of complications.
+<p>Recognizing the symptoms of Persistent Atrial Fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>) is crucial as early detection can significantly improve outcomes. By being aware of the signs, individuals can seek timely medical intervention, leading to better management of the condition and reducing the risk of complications.
 
 <h3>Symptoms of Persistent Atrial Fibrillation:</h3>
 <ul>
 <li>Irregular heartbeat</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Chest pain or discomfort</li>
 <li>Weakness</li>
 </ul>

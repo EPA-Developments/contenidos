@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Ventricular Assist Device Insertion - LVAD Implantation & Surgery">
   <meta property="og:description" content="Learn about the minimally invasive surgical procedure known as Left Ventricular Assist Device Insertion, also referred to as LVAD implantation or heart pump surgery.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/left-ventricular-assist-device-insertion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/left-ventricular-assist-device-insertion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/left-ventricular-assist-device-insertion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/left-ventricular-assist-device-insertion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Left Ventricular Assist Device Insertion",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/left-ventricular-assist-device-insertion"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/left-ventricular-assist-device-insertion"  
       }]
     }
   </script>

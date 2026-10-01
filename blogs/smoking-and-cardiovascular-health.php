@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Smoking on Heart Health" />
     <meta property="og:description" content="Learn how smoking impacts your heart health and daily life. Understand the effects on arterial health, blood flow, and heart efficiency." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cardiovascular-health"
         }
     ]
 }
@@ -131,9 +131,9 @@
               <h1>The Impact of Smoking on Heart Health</h1>
 <p>Are you aware of the impact smoking has on your heart and blood vessels? Smoking and cardiovascular health are closely linked, affecting your daily activities in ways you might not realize. The habit of smoking can significantly compromise the efficiency of your heart and the overall health of your arteries.</p>
 <h2 class="sec-scrl" id="arterial-health">Why is Arterial Health Impacted by Smoking?</h2>
-<p>Smoking poses a severe threat to the health of your arteries. The chemicals in tobacco smoke can damage the inner lining of your blood vessels, leading to a condition known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>. This dysfunction reduces the ability of your arteries to dilate and constrict effectively, affecting blood flow throughout your body.</p>
+<p>Smoking poses a severe threat to the health of your arteries. The chemicals in tobacco smoke can damage the inner lining of your blood vessels, leading to a condition known as <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>. This dysfunction reduces the ability of your arteries to dilate and constrict effectively, affecting blood flow throughout your body.</p>
 <ul>
-<li>Cigarette smoke accelerates the process of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, leading to the buildup of plaque inside the arteries.</li>
+<li>Cigarette smoke accelerates the process of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, leading to the buildup of plaque inside the arteries.</li>
 <li>Nicotine in cigarettes causes blood vessels to constrict, increasing vascular resistance.</li>
 <li>Carbon monoxide from smoking reduces the amount of oxygen delivered to your tissues and organs.</li>
 </ul>
@@ -142,14 +142,14 @@
 <ul>
 <li>Chemicals in tobacco smoke can damage the smooth muscle cells in blood vessel walls, contributing to increased resistance.</li>
 <li>Elevated vascular resistance makes the heart work harder to maintain adequate blood flow, putting it under constant stress.</li>
-<li>Long-term smoking can lead to chronic <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, further worsening vascular resistance.</li>
+<li>Long-term smoking can lead to chronic <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, further worsening vascular resistance.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-flow">How Does Smoking Affect Blood Flow?</h2>
 <p>Smoking has a direct impact on blood flow throughout the body. The toxins in cigarette smoke can cause blood to become stickier and more prone to clotting, leading to circulation problems and an increased risk of heart attacks and strokes.</p>
 <ul>
 <li>Carbon monoxide from smoking reduces the blood's ability to carry oxygen, affecting the delivery of essential nutrients to tissues.</li>
 <li>Nicotine increases the production of adrenaline, which can further constrict blood vessels and disrupt normal blood flow.</li>
-<li>Smoking-induced clotting can block arteries, causing severe complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> or stroke.</li>
+<li>Smoking-induced clotting can block arteries, causing severe complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> or stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-efficiency">How Does Smoking Impact Heart Efficiency?</h2>
 <p>Smoking can impair the efficiency of your heart, affecting its ability to pump blood effectively and maintain optimal function. The harmful substances in cigarettes can weaken the heart muscle, leading to decreased cardiac output and potential heart failure.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Guava and Cholesterol: Benefits Unveiled" />
     <meta property="og:description" content="Learn how guava can help lower cholesterol levels naturally. Discover the benefits of guava for managing your lipid profile effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-and-cholesterol"
         }
     ]
 }
@@ -134,13 +134,13 @@
 <p>Guava is packed with essential nutrients that can positively impact your cholesterol levels. This fruit is rich in fiber, particularly soluble fiber, which is known for its cholesterol-lowering effects. Soluble fiber helps reduce the absorption of cholesterol into the bloodstream, leading to lower overall cholesterol levels.</p>
 <p>In addition to fiber, guava is a good source of healthy fats, such as omega-3 and omega-6 fatty acids. These healthy fats play a key role in maintaining a healthy lipid profile and reducing the risk of cardiovascular diseases.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">Managing Cholesterol Levels with Guava</h2>
-<p>Guava contains compounds that have been shown to help lower LDL (bad) cholesterol levels while increasing HDL (good) cholesterol levels. By including guava in your diet regularly, you can support your body in maintaining a healthy balance of cholesterol, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
+<p>Guava contains compounds that have been shown to help lower LDL (bad) cholesterol levels while increasing HDL (good) cholesterol levels. By including guava in your diet regularly, you can support your body in maintaining a healthy balance of cholesterol, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
 <ul>
 <li>Guava leaves, when consumed as a tea, have been found to have cholesterol-lowering properties. These leaves contain compounds that inhibit the absorption of cholesterol in the intestines, leading to improved lipid profiles.</li>
 <li>Adding fresh guava to your salads or smoothies can be a tasty way to increase your fruit intake while reaping the cholesterol-lowering benefits of this tropical fruit.</li>
 </ul>
 <h2 class="sec-scrl" id="guava-high-cholesterol">Guava for High Cholesterol: A Natural Remedy</h2>
-<p>If you have been diagnosed with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, incorporating guava into your diet can be a natural and effective way to manage your condition. The antioxidants present in guava help prevent cholesterol oxidation, which can reduce the risk of plaque formation in the arteries.</p>
+<p>If you have been diagnosed with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, incorporating guava into your diet can be a natural and effective way to manage your condition. The antioxidants present in guava help prevent cholesterol oxidation, which can reduce the risk of plaque formation in the arteries.</p>
 <p>Moreover, guava is a low-calorie fruit, making it an excellent choice for individuals looking to maintain a healthy weight while improving their cholesterol levels.</p>
 <h2 class="sec-scrl" id="guava-benefits-lipids">Guava Benefits for Lipids: A Nutrient Powerhouse</h2>
 <p>Aside from its cholesterol-lowering properties, guava is a nutrient-dense fruit that offers a wide range of health benefits. This tropical fruit is a rich source of vitamin C, an antioxidant that can help reduce inflammation in the body and protect against oxidative stress.</p>

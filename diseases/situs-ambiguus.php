@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Situs Ambiguus: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Situs ambiguus affects the heart's structure. Read more about its causes, symptoms, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/situs-ambiguus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/situs-ambiguus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/situs-ambiguus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/situs-ambiguus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Situs Ambiguus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/situs-ambiguus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/situs-ambiguus"
       }]
     }
   </script>
@@ -192,12 +192,12 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Advanced Situs Ambiguus can lead to respiratory difficulties, affecting both physical and emotional well-being.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>: Severe cases of Situs Ambiguus may manifest as heart palpitations, indicating underlying cardiac issues that require prompt attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Advanced Situs Ambiguus can lead to respiratory difficulties, affecting both physical and emotional well-being.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>: Severe cases of Situs Ambiguus may manifest as heart palpitations, indicating underlying cardiac issues that require prompt attention.</li>
 </ul>
 <h2>Diagnosis of Situs Ambiguus</h2>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This test uses sound waves to create images of the heart and can help detect abnormalities in heart structure associated with Situs Ambiguus.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This test uses sound waves to create images of the heart and can help detect abnormalities in heart structure associated with Situs Ambiguus.</li>
 <li>CT Scan: A CT scan provides detailed cross-sectional images of the chest and abdomen, aiding in the diagnosis of Situs Ambiguus by revealing organ positioning.</li>
 <li>MRI: Magnetic resonance imaging can offer high-resolution images that show the exact locations of internal organs, essential for identifying structural Situs Ambiguus.</li>
 <li>Blood Tests: Blood tests may be performed to assess organ function and detect any abnormalities that could indicate Situs Ambiguus.</li>

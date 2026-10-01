@@ -10,12 +10,12 @@
     <meta property="og:title" content="Fish Cholesterol Benefits: Lowering Cholesterol Naturally" />
     <meta property="og:description" content="Discover how fish consumption can help lower cholesterol levels naturally and improve your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fish-cholesterol-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fish-cholesterol-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fish-cholesterol-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fish-cholesterol-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fish Cholesterol Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fish-cholesterol-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fish-cholesterol-benefits"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Fish for Lowering Cholesterol</h1>
-<p>Are you looking for a natural way to improve your cholesterol levels and promote heart health? Fish consumption might be the answer you've been searching for. Let's explore the benefits of incorporating fish into your diet and how it can positively impact your overall well-being. Do you struggle with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels that affect your daily activities? Fish cholesterol benefits could be the key to managing your lipid profile and reducing your risk of cardiovascular issues.</p>
+<p>Are you looking for a natural way to improve your cholesterol levels and promote heart health? Fish consumption might be the answer you've been searching for. Let's explore the benefits of incorporating fish into your diet and how it can positively impact your overall well-being. Do you struggle with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels that affect your daily activities? Fish cholesterol benefits could be the key to managing your lipid profile and reducing your risk of cardiovascular issues.</p>
 <h2 class="sec-scrl" id="omega3">Omega 3: The Essential Fatty Acids</h2>
-<p>One of the key components of fish that makes it a superfood for heart health is its rich content of Omega-3 fatty acids. These essential fats play a crucial role in reducing inflammation, improving blood vessel function, and lowering triglyceride levels in the body. By including Omega-3 in your diet through fish consumption, you can support a healthy cardiovascular system and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>One of the key components of fish that makes it a superfood for heart health is its rich content of Omega-3 fatty acids. These essential fats play a crucial role in reducing inflammation, improving blood vessel function, and lowering triglyceride levels in the body. By including Omega-3 in your diet through fish consumption, you can support a healthy cardiovascular system and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>Some of the best sources of Omega-3 fatty acids include salmon, mackerel, sardines, and trout. Aim to include fatty fish in your meals at least twice a week to reap the benefits of these heart-healthy fats.</p>
 <h2 class="sec-scrl" id="ldlcholesterol">LDL Cholesterol: The Bad Cholesterol Fighter</h2>
 <p>High levels of LDL cholesterol can increase your risk of heart disease and stroke. Fish consumption can help lower LDL cholesterol levels in the blood, reducing the buildup of plaque in the arteries and decreasing the risk of cardiovascular events. The Omega-3 fatty acids in fish play a vital role in improving the lipid profile by lowering LDL cholesterol and promoting overall heart health.</p>

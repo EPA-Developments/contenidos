@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mulberries: Reducing Inflammation for Heart Health" />
     <meta property="og:description" content="Learn how mulberries combat inflammation for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mulberries And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-inflammation"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <p>Heart disease is a leading cause of mortality worldwide, making cardiovascular health a top priority for many. The antioxidant effects of mulberries can benefit your heart by reducing oxidative stress and inflammation, two key factors in the development of heart disease.</p>
 <ul>
 <li>The anthocyanins in mulberries have been linked to improved heart health by supporting blood vessel function.</li>
-<li>Regular consumption of mulberries may help lower cholesterol levels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Regular consumption of mulberries may help lower cholesterol levels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Antioxidants in mulberries scavenge free radicals, protecting the heart from damage and inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="immune-response">Mulberries and Their Impact on the Immune System</h2>

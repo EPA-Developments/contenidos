@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D's Role in Coronary Artery Health" />
     <meta property="og:description" content="Explore how Vitamin D influences blood pressure & coronary artery disease. Learn about its role in heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-coronary-artery-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-coronary-artery-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-coronary-artery-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-coronary-artery-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Coronary Artery Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-coronary-artery-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-coronary-artery-disease"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>One of the key impacts of Vitamin D on coronary artery disease is its role in preventing plaque formation. Plaque, made up of cholesterol, calcium, and other substances, can build up in the arteries, restricting blood flow and increasing the risk of heart attacks.</p>
 <p>By ensuring sufficient Vitamin D intake, you can help inhibit the formation of plaque in your coronary arteries, promoting better arterial health and reducing the chances of developing cardiovascular issues.</p>
 <h2 class="sec-scrl" id="heart-attack-prevention">Heart Attack Prevention</h2>
-<p>Maintaining adequate Vitamin D levels is associated with a lower risk of heart attacks. Vitamin D receptors present in the heart muscle and blood vessels help regulate blood pressure, reduce inflammation, and improve endothelial function, all of which contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention.</p>
+<p>Maintaining adequate Vitamin D levels is associated with a lower risk of heart attacks. Vitamin D receptors present in the heart muscle and blood vessels help regulate blood pressure, reduce inflammation, and improve endothelial function, all of which contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention.</p>
 <ul>
 <li>Studies have shown that individuals with higher Vitamin D levels have a decreased risk of experiencing a heart attack compared to those with Vitamin D deficiency.</li>
 <li>Regular monitoring of Vitamin D levels and incorporating Vitamin D-rich foods or supplements into your diet can be beneficial in protecting your heart health.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus for Heart Palpitations: Natural Relief&quot;" />
     <meta property="og:description" content="Discover how hibiscus can naturally ease heart palpitations for a healthier heart rhythm." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-palpitations" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-palpitations" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-palpitations" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-palpitations" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Heart Palpitations",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-palpitations"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-palpitations"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Hibiscus for Heart Palpitations: Natural Remedy</h1>
-<p>Do you ever feel like your heart is racing or fluttering unexpectedly, causing you to worry about your heart health? The sensation of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> can be unsettling, disrupting your daily activities and leaving you anxious about every heartbeat. If you are seeking a natural way to address these <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> and promote heart health, hibiscus may offer the relief you need.</p>
+<p>Do you ever feel like your heart is racing or fluttering unexpectedly, causing you to worry about your heart health? The sensation of <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> can be unsettling, disrupting your daily activities and leaving you anxious about every heartbeat. If you are seeking a natural way to address these <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> and promote heart health, hibiscus may offer the relief you need.</p>
 <h2 class="sec-scrl" id="irregular-heartbeat">Managing Irregular Heartbeat with Hibiscus</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, also known as arrhythmia, can be a concerning condition that affects the rhythm of your heart. Hibiscus, with its rich antioxidant content, can help in regulating your heart's rhythm and potentially reducing the occurrence of irregular heartbeats. The anti-arrhythmic properties of hibiscus may support a more stable heartbeat, promoting overall heart function.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, also known as arrhythmia, can be a concerning condition that affects the rhythm of your heart. Hibiscus, with its rich antioxidant content, can help in regulating your heart's rhythm and potentially reducing the occurrence of irregular heartbeats. The anti-arrhythmic properties of hibiscus may support a more stable heartbeat, promoting overall heart function.</p>
 <p>Additionally, hibiscus tea or extract can aid in relaxing the blood vessels, easing the workload on the heart and potentially decreasing the likelihood of irregular heartbeats. By incorporating hibiscus into your daily routine, you may experience a calming effect on your heart, leading to fewer instances of arrhythmia.</p>
 <h2 class="sec-scrl" id="heart-rate-regulation">Supporting Heart Rate Regulation Naturally</h2>
 <p>Heart rate regulation is essential for maintaining cardiovascular health and ensuring that your heart functions optimally. Hibiscus contains natural compounds that can help in stabilizing heart rate, preventing sudden spikes or drops that may lead to palpitations. By promoting a more consistent heart rate, hibiscus supports the overall health of your cardiovascular system.</p>

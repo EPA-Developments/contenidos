@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improving Slow Heart Rate with Lifestyle Changes" />
     <meta property="og:description" content="Learn how lifestyle changes can improve a slow heart rate and enhance your heart health. Discover effective bradycardia management strategies today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/slow-heart-rate-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/slow-heart-rate-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/slow-heart-rate-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/slow-heart-rate-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Slow Heart Rate Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/slow-heart-rate-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/slow-heart-rate-treatment"
         }
     ]
 }
@@ -171,7 +171,7 @@
               <h1>Improving Slow Heart Rate with Lifestyle Changes</h1>
 <p>Do you often feel fatigued, dizzy, or short of breath? Could these symptoms be related to your slow heart rate? Living with a slow heart rate can significantly impact your daily activities, leaving you feeling drained and sluggish. But what can you do to improve your condition and enhance your quality of life?</p>
 <h2 class="sec-scrl" id="slow-heart-rate-treatment">Slow Heart Rate Treatment</h2>
-<p>Slow heart rate, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>, can be managed effectively through various treatment options. Lifestyle changes play a crucial role in improving heart rate and overall heart health. Let's explore some key lifestyle modifications that can help address a slow heart rate:</p>
+<p>Slow heart rate, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>, can be managed effectively through various treatment options. Lifestyle changes play a crucial role in improving heart rate and overall heart health. Let's explore some key lifestyle modifications that can help address a slow heart rate:</p>
 <ul>
 <li><strong>Regular Exercise:</strong> Engaging in physical activity can strengthen your heart muscle and improve its efficiency. Aim for at least 150 minutes of moderate-intensity exercise per week.</li>
 <li><strong>Healthy Diet:</strong> Consuming a balanced diet rich in fruits, vegetables, whole grains, and lean proteins can support heart function. Limit your intake of saturated fats, sugar, and sodium.</li>
@@ -205,7 +205,7 @@
 <p>By taking these preventive measures and being mindful of your heart health, you can reduce the likelihood of complications associated with a low heart rate.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, lifestyle changes play a significant role in managing a slow heart rate and improving overall heart health. By incorporating regular exercise, a healthy diet, stress management techniques, and adequate hydration into your daily routine, you can support heart function and potentially enhance your quality of life.</p>
-<p>For more severe cases of bradycardia, medical interventions such as medications, <a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a>, or <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> may be necessary. Additionally, exploring natural therapies like acupuncture, herbal supplements, yoga, or Tai Chi can provide complementary benefits.</p>
+<p>For more severe cases of bradycardia, medical interventions such as medications, <a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a>, or <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> may be necessary. Additionally, exploring natural therapies like acupuncture, herbal supplements, yoga, or Tai Chi can provide complementary benefits.</p>
 <p>Remember to consult with your healthcare provider to develop a personalized treatment plan that addresses your specific needs. By taking proactive steps and prioritizing your heart health, you can effectively manage a slow heart rate and enjoy a healthier life.</p>
             </div>
           </div>

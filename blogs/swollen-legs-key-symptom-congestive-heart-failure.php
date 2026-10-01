@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Swollen Legs: Key Symptom of Congestive Heart Failure">
   <meta property="og:description" content="Discover why swollen legs are a common symptom of congestive heart failure. Learn about the connection between congestive heart failure and leg swelling.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/swollen-legs-key-symptom-congestive-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/swollen-legs-key-symptom-congestive-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/swollen-legs-key-symptom-congestive-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/swollen-legs-key-symptom-congestive-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Swollen Legs: Key Symptom Of Congestive Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/swollen-legs-key-symptom-congestive-heart-failure"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/swollen-legs-key-symptom-congestive-heart-failure"  
       }]
     }
   </script>

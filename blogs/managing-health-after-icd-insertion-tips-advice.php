@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Managing Your Health After ICD Insertion - Key Tips & Advice">
   <meta property="og:description" content="Learn how to manage your health after ICD insertion. Discover what to expect and how to stay healthy with an implanted cardioverter defibrillator.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/managing-health-after-icd-insertion-tips-advice">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/managing-health-after-icd-insertion-tips-advice">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/managing-health-after-icd-insertion-tips-advice" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/managing-health-after-icd-insertion-tips-advice" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Managing Your Health After Icd Insertion - Key Tips & Advice",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/managing-health-after-icd-insertion-tips-advice"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/managing-health-after-icd-insertion-tips-advice"  
       }]
     }
   </script>

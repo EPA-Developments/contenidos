@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose of Pulmonary Capillary Wedge Pressure Measurement" property="og:title"/>
 <meta content="Pulmonary capillary wedge pressure measurement monitors heart function. Know more about the purpose, costs, and normal Range for accurate assessment." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-capillary-wedge-pressure-measurement" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-capillary-wedge-pressure-measurement" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-capillary-wedge-pressure-measurement" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-capillary-wedge-pressure-measurement" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Capillary Wedge Pressure Measurement",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-capillary-wedge-pressure-measurement"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-capillary-wedge-pressure-measurement"  
       }]
     }
   </script>
@@ -167,11 +167,11 @@
 <li>Diagnosing heart failure</li>
 <li>Evaluating pulmonary congestion</li>
 <li>Assessing left ventricular pressure</li>
-<li>Identifying markers of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/pulmonary-edema">pulmonary edema</a></li>
+<li>Identifying markers of <a href="https://contenidos.segundaopinionmedica.org/symptoms/pulmonary-edema">pulmonary edema</a></li>
 </ul>
 <h2 id="purpose">What is the Purpose of Performing a Pulmonary Capillary Wedge Pressure Measurement Test?</h2>
 <p>The primary purpose of performing a Pulmonary Capillary Wedge Pressure Measurement test is to assess the function of the left side of the heart and diagnose conditions such as heart failure.</p>
-<p>By measuring the pressure in the pulmonary capillaries, healthcare providers can determine if the heart is pumping effectively and identify any abnormalities that may be contributing to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or swelling in the legs.</p>
+<p>By measuring the pressure in the pulmonary capillaries, healthcare providers can determine if the heart is pumping effectively and identify any abnormalities that may be contributing to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or swelling in the legs.</p>
 <p>Additionally, measuring PCWP is beneficial in evaluating pulmonary congestion, which can be a sign of fluid buildup in the lungs.</p>
 <p>This information can help healthcare providers determine the best course of treatment for patients experiencing symptoms related to heart failure or other cardiac conditions.</p>
 <h2 id="costs">What are the Costs of Pulmonary Capillary Wedge Pressure Measurement Tests in Americas?</h2>

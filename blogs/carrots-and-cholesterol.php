@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Carrots for Lowering LDL: A Heart-Healthy Choice&quot;" />
     <meta property="og:description" content="Learn how carrots can help lower LDL levels naturally. Discover the benefits of adding carrots to your diet for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Carrots and Cholesterol: Lowering LDL Levels</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and looking for natural ways to manage it? Have you ever considered incorporating carrots into your diet to help combat this issue? High cholesterol can impact your daily life, making simple activities feel more challenging. But fear not, as the humble carrot might just be the solution you're looking for.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and looking for natural ways to manage it? Have you ever considered incorporating carrots into your diet to help combat this issue? High cholesterol can impact your daily life, making simple activities feel more challenging. But fear not, as the humble carrot might just be the solution you're looking for.</p>
 <h2 class="sec-scrl" id="ldl-reduction">Lowering LDL Levels with Carrots</h2>
 <p>Carrots are packed with soluble fiber, which plays a crucial role in reducing LDL cholesterol levels in the body. This fiber binds with cholesterol in the digestive system, preventing it from being absorbed into the bloodstream. By including carrots in your meals, you can actively work towards lowering your LDL cholesterol and protecting your heart health.</p>
 <ul>

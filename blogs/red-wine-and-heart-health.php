@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Red Wine Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of red wine for heart health. Learn about antioxidants, polyphenols, and heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-health"
         }
     ]
 }
@@ -136,7 +136,7 @@
 <ul>
 <li>Antioxidants in red wine help protect the lining of blood vessels in the heart.</li>
 <li>Resveratrol may enhance nitric oxide production, promoting better blood circulation.</li>
-<li>Polyphenols in red wine can potentially reduce LDL cholesterol levels, protecting against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Polyphenols in red wine can potentially reduce LDL cholesterol levels, protecting against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="antioxidants">The Role of Antioxidants</h2>
 <p>Antioxidants in red wine, such as flavonoids and resveratrol, play a crucial role in promoting heart health. These compounds help neutralize free radicals in the body, reducing the risk of oxidative damage to cells and tissues. By incorporating red wine moderately into your diet, you can benefit from these powerful antioxidants and support your cardiovascular system.</p>

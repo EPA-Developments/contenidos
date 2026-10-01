@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cocoa's Impact on Blood Pressure Explained&quot;" />
     <meta property="og:description" content="Discover how cocoa can help manage your blood pressure effectively with this informative blog post. Learn about the benefits of flavonoid-rich cocoa and dark chocolate." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-blood-pressure"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Choose dark chocolate with higher cocoa content for maximum flavonoid benefits.</li>
 </ul>
 <h2 class="sec-scrl" id="hypertension">Managing Hypertension with Cocoa: A Delicious Approach</h2>
-<p>Can dark chocolate really be beneficial for blood pressure management? The answer lies in the potential of cocoa to positively impact <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. By incorporating moderate amounts of dark chocolate into your diet, you can enjoy a tasty way to support your cardiovascular health.</p>
+<p>Can dark chocolate really be beneficial for blood pressure management? The answer lies in the potential of cocoa to positively impact <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. By incorporating moderate amounts of dark chocolate into your diet, you can enjoy a tasty way to support your cardiovascular health.</p>
 <ul>
 <li>The flavonoids in dark chocolate can enhance nitric oxide levels in the blood, promoting vasodilation.</li>
 <li>Regular consumption of dark chocolate may help reduce the risk of developing hypertension.</li>

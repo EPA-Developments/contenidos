@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Congenital Mitral Stenosis: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Congenital Mitral Stenosis, this condition narrows the heart’s mitral valve from birth. Know more about its symptoms, causes, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/congenital-mitral-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/congenital-mitral-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-mitral-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/congenital-mitral-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Congenital Mitral Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/congenital-mitral-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/congenital-mitral-stenosis"
       }]
     }
   </script>
@@ -170,20 +170,20 @@
 <p>This condition is significant due to its impact on heart function and overall health. While the prevalence of Congenital Mitral Stenosis is relatively low compared to other heart conditions, its effects can be severe if left untreated.</p>
 <p>The essential functions of the mitral valve include ensuring proper blood flow and preventing backflow into the lungs.</p>
 <p>Congenital Mitral Stenosis disrupts these functions by narrowing the valve opening, leading to increased pressure in the left atrium and reduced blood flow to the rest of the body.</p>
-<p>In the short term, this can cause symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Over time, untreated Congenital Mitral Stenosis can lead to serious complications such as heart failure, arrhythmias, and even stroke.</p>
+<p>In the short term, this can cause symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Over time, untreated Congenital Mitral Stenosis can lead to serious complications such as heart failure, arrhythmias, and even stroke.</p>
 <p>One challenging aspect of Congenital Mitral Stenosis is its asymptomatic nature in the early stages, making it crucial for early detection through regular screenings.</p>
 <p>By raising awareness about this condition and encouraging proactive health monitoring, individuals at risk can receive timely interventions to prevent long-term health risks associated with Congenital Mitral Stenosis.</p>
 <h2 id="causes">Causes of Congenital Mitral Stenosis:</h2>
 <h3>Primary Causes:</h3>
 <ul>
 <li>Congenital Malformation: This primary cause of Congenital Mitral Stenosis occurs when the mitral valve is abnormally formed during fetal development, leading to a narrowed valve opening. Over time, this can restrict blood flow from the left atrium to the left ventricle, increasing pressure in the heart chambers and compromising cardiac function.</li>
-<li>Rheumatic Heart Disease: <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a>, caused by untreated streptococcal infections, can damage the heart valves, including the mitral valve. The resulting scarring and thickening of the valve leaflets can contribute to the development of Mitral Stenosis.</li>
+<li>Rheumatic Heart Disease: <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a>, caused by untreated streptococcal infections, can damage the heart valves, including the mitral valve. The resulting scarring and thickening of the valve leaflets can contribute to the development of Mitral Stenosis.</li>
 <li>Genetic Factors: Certain genetic conditions, such as familial heart defects or chromosomal abnormalities, can predispose individuals to congenital heart defects like Mitral Stenosis. Understanding one's family history and genetic predispositions is crucial in assessing the risk of developing this condition.</li>
 <li>Autoimmune Disorders: In some cases, autoimmune conditions like lupus or rheumatoid arthritis can lead to inflammation and scarring of the heart valves, including the mitral valve, ultimately causing stenosis.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
-<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition that can affect the heart valves and increase the risk of Mitral Stenosis.</li>
+<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition that can affect the heart valves and increase the risk of Mitral Stenosis.</li>
 <li>Smoking: Tobacco use not only damages blood vessels but also increases the likelihood of developing heart conditions like Mitral Stenosis due to its negative impact on cardiovascular health.</li>
 <li>Obesity: Excess body weight can strain the heart and increase the risk of developing heart valve abnormalities, including Mitral Stenosis.</li>
 </ul>
@@ -191,17 +191,17 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Individuals with early-stage Congenital Mitral Stenosis may experience persistent fatigue due to reduced blood flow and oxygen delivery to the body tissues. This can impact daily activities and energy levels, leading to decreased productivity and quality of life.</li>
-<li>Shortness of Breath: As the condition progresses, patients may develop <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> or shortness of breath, especially during physical exertion. This symptom can be misunderstood or overlooked, attributed to other causes like aging or lack of fitness.</li>
+<li>Shortness of Breath: As the condition progresses, patients may develop <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> or shortness of breath, especially during physical exertion. This symptom can be misunderstood or overlooked, attributed to other causes like aging or lack of fitness.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Advanced-stage Congenital Mitral Stenosis can manifest as palpitations or irregular heartbeats. This symptom can cause anxiety and discomfort, affecting both physical well-being and emotional health.</li>
-<li>Chest Pain: Severe cases of Congenital Mitral Stenosis may lead to chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, indicating reduced blood flow to the heart muscle. This symptom can be debilitating and require immediate medical attention to prevent complications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Advanced-stage Congenital Mitral Stenosis can manifest as palpitations or irregular heartbeats. This symptom can cause anxiety and discomfort, affecting both physical well-being and emotional health.</li>
+<li>Chest Pain: Severe cases of Congenital Mitral Stenosis may lead to chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, indicating reduced blood flow to the heart muscle. This symptom can be debilitating and require immediate medical attention to prevent complications.</li>
 </ul>
 <h2>Diagnosis of Congenital Mitral Stenosis:</h2>
 <h3>Diagnostic Tests:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, allowing healthcare providers to assess the severity of Mitral Stenosis and its impact on cardiac performance.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, allowing healthcare providers to assess the severity of Mitral Stenosis and its impact on cardiac performance.</li>
 <li>Cardiac Catheterization: In this procedure, a thin tube is inserted into a blood vessel and guided to the heart to measure pressures within the heart chambers accurately. Cardiac catheterization can provide valuable information about the extent of Mitral Stenosis and help in planning treatment strategies.</li>
 <li>MRI or CT Scan: Advanced imaging techniques like magnetic resonance imaging (MRI) or computed tomography (CT) scans can offer 3D images of the heart, aiding in the visualization of structural abnormalities associated with Congenital Mitral Stenosis.</li>
 <li>Electrocardiogram (ECG): An ECG records the heart's electrical activity, detecting irregular heart rhythms or conduction abnormalities that may be present in individuals with Mitral Stenosis.</li>

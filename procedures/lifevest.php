@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="LifeVest: Benefits, Risks, Usage Guidelines, and Post-Care">
   <meta property="og:description" content="Discover the benefits and risks of the LifeVest wearable defibrillator for arrhythmia management and sudden cardiac arrest prevention. Learn about usage guidelines, post-care, and how it compares to an ICD.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/lifevest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/lifevest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/lifevest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/lifevest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "LifeVest",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/lifevest"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/lifevest"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Nuts: Heart Health Boost&quot;" />
     <meta property="og:description" content="Discover the heart-healthy perks of nuts: from cholesterol management to blood pressure regulation. Learn more!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nuts And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nuts-and-heart-health"
         }
     ]
 }
@@ -155,13 +155,13 @@
 </ul>
 <p>By enjoying a handful of nuts as a snack or adding them to your meals, you can actively manage your cholesterol levels and support your heart's well-being.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Do Nuts Contribute to Blood Pressure Regulation?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the nutrients in nuts can help in regulating blood pressure levels naturally. Including nuts in your diet as part of a balanced eating plan can have a positive impact on your blood pressure.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the nutrients in nuts can help in regulating blood pressure levels naturally. Including nuts in your diet as part of a balanced eating plan can have a positive impact on your blood pressure.</p>
 <ul>
 <li>The potassium content in nuts helps in maintaining healthy blood pressure levels.</li>
 <li>Magnesium in nuts relaxes blood vessels, promoting better blood flow and lower blood pressure.</li>
 <li>Nuts are a low-sodium snack option, ideal for individuals looking to manage their blood pressure.</li>
 </ul>
-<p>By making nuts a part of your daily diet, you can support healthy blood pressure regulation and reduce the risk of heart issues associated with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>By making nuts a part of your daily diet, you can support healthy blood pressure regulation and reduce the risk of heart issues associated with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Nuts are not just tasty snacks; they are power-packed with nutrients that can significantly benefit your heart health. From reducing inflammation to managing cholesterol levels and supporting blood pressure regulation, nuts offer a simple yet effective way to protect your heart. By including a variety of nuts in your diet regularly, you can take proactive steps towards preventing heart disease and promoting overall cardiovascular well-being.</p>
             </div>

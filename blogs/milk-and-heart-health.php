@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Milk's Role in Heart Health: Key Insights&quot;" />
     <meta property="og:description" content="Explore the effects of milk on heart health: cholesterol levels, cardiovascular protection, and more. Learn how dairy can benefit your heart today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Milk And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Heart disease is a leading cause of death worldwide, but did you know that incorporating milk into your diet can play a role in preventing this deadly condition? Milk contains essential nutrients like calcium, potassium, and vitamin D, which are beneficial for heart health. These nutrients help regulate blood pressure, strengthen bones, and support overall cardiovascular function.</p>
 <p>Additionally, the protein found in milk can help lower blood pressure and reduce the risk of heart disease. By including milk in a balanced diet, you can take proactive steps towards preventing heart-related issues.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">Cholesterol Levels</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. The good news is that milk and dairy products can positively impact cholesterol levels. Studies have shown that consuming milk can help lower LDL cholesterol, also known as "bad" cholesterol, while increasing HDL cholesterol, the "good" kind.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. The good news is that milk and dairy products can positively impact cholesterol levels. Studies have shown that consuming milk can help lower LDL cholesterol, also known as "bad" cholesterol, while increasing HDL cholesterol, the "good" kind.</p>
 <p>Furthermore, the combination of nutrients in milk, such as calcium and vitamin D, can support heart health by regulating cholesterol levels. Including low-fat dairy options in your diet can be a simple yet effective way to manage cholesterol and promote a healthy heart.</p>
 <h2 class="sec-scrl" id="dairy-and-heart">Dairy and Heart</h2>
 <p>When it comes to heart health, dairy products like milk can be valuable allies. Dairy is a rich source of nutrients that are essential for cardiovascular protection. The calcium in milk not only supports bone health but also plays a role in muscle function, including the heart muscle.</p>

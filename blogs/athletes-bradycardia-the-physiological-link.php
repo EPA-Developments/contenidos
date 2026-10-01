@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Why Athletes Have Bradycardia: Understanding the Physiological Link">
   <meta property="og:description" content="Discover the reasons why athletes have bradycardia and the physiological connection behind this phenomenon. Learn more about why athletes have bradycardia here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/athletes-bradycardia-the-physiological-link">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/athletes-bradycardia-the-physiological-link">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/athletes-bradycardia-the-physiological-link" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/athletes-bradycardia-the-physiological-link" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Why Athletes Have Bradycardia: Understanding The Physiological Link",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/athletes-bradycardia-the-physiological-link"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/athletes-bradycardia-the-physiological-link"  
       }]
     }
   </script>

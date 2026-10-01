@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Prolonged Qt Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Prolonged QT syndrome can lead to dangerous heart rhythms. Read more about its causes, symptoms, and treatment for heart protection." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/prolonged-qt-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/prolonged-qt-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/prolonged-qt-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/prolonged-qt-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Prolonged Qt Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/prolonged-qt-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/prolonged-qt-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Prolonged Qt Syndrome</h1>
-<p>Prolonged QT syndrome (LQTS) is a heart condition affecting the heart's electrical activity, potentially leading to dangerous irregular heartbeats. It's vital because it can cause fainting, seizures, or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, especially in young individuals. While relatively rare, affecting about 1 in 2,500 people, it's crucial to diagnose and manage LQTS to prevent life-threatening complications. Understanding the signs and seeking medical attention promptly is key to effectively managing this condition and reducing the risk of serious cardiac events.</p>
+<p>Prolonged QT syndrome (LQTS) is a heart condition affecting the heart's electrical activity, potentially leading to dangerous irregular heartbeats. It's vital because it can cause fainting, seizures, or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, especially in young individuals. While relatively rare, affecting about 1 in 2,500 people, it's crucial to diagnose and manage LQTS to prevent life-threatening complications. Understanding the signs and seeking medical attention promptly is key to effectively managing this condition and reducing the risk of serious cardiac events.</p>
 <h2 id="causes">Causes of Prolonged Qt Syndrome</h2>
 <p>Certainly! Here are the key factors contributing to the development of Prolonged QT Syndrome:
 
@@ -169,7 +169,7 @@
 <li>Genetic mutations affecting ion channels</li>
 <li>Electrolyte imbalances such as low potassium or magnesium levels</li>
 <li>Certain medications like antiarrhythmic drugs or antidepressants</li>
-<li>Heart conditions like hypertrophic <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li>Heart conditions like hypertrophic <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Structural heart defects present at birth</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Prolonged Qt Syndrome</h2>
@@ -177,10 +177,10 @@
 
 <ul>
 <li>Unexplained fainting or seizures</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 </ul>
 
 Early detection of Prolonged QT Syndrome allows for timely interventions, such as medication or implantable devices, to prevent sudden cardiac arrest or other serious complications. If you experience any of these symptoms, especially if they occur during physical activity or times of stress, consult a healthcare provider promptly for evaluation and appropriate management.</p>
@@ -188,7 +188,7 @@ Early detection of Prolonged QT Syndrome allows for timely interventions, such a
 <p>In diagnosing Prolonged QT Syndrome (LQTS), accuracy is crucial due to the potential life-threatening arrhythmias it can cause. The diagnostic process typically involves a comprehensive evaluation to confirm the condition and assess the risk of sudden cardiac events. Various methods are used, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect QT interval abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect QT interval abnormalities</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Treadmill stress test to provoke arrhythmias</li>
 <li>Echocardiogram to assess heart structure and function</li>

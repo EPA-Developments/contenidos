@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Trivial Aortic Regurgitation: What You Need to Know">
   <meta property="og:description" content="Learn all about trivial aortic regurgitation and whether you should be concerned. Find out more about this heart condition and its implications.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/trivial-aortic-regurgitation-what-to-know">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/trivial-aortic-regurgitation-what-to-know">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/trivial-aortic-regurgitation-what-to-know" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/trivial-aortic-regurgitation-what-to-know" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Trivial Aortic Regurgitation: What You Need To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/trivial-aortic-regurgitation-what-to-know"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/trivial-aortic-regurgitation-what-to-know"  
       }]
     }
   </script>

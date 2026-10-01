@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Infarction: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Infarction is tissue death due to a lack of blood flow. Know more about its causes, symptoms, and treatments to improve heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/infarction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/infarction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/infarction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/infarction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Infarction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/infarction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/infarction"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Infarction</h1>
-<p>An infarction occurs when a part of the body doesn't get enough blood supply, leading to tissue damage. In the heart, it's known as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Infarctions are significant as they can cause serious health issues. Heart attacks are prevalent worldwide and are a leading cause of death. Understanding the signs and symptoms can help in early detection and prompt treatment, improving outcomes. If you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or other concerning symptoms, seek medical help immediately.</p>
+<p>An infarction occurs when a part of the body doesn't get enough blood supply, leading to tissue damage. In the heart, it's known as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Infarctions are significant as they can cause serious health issues. Heart attacks are prevalent worldwide and are a leading cause of death. Understanding the signs and symptoms can help in early detection and prompt treatment, improving outcomes. If you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or other concerning symptoms, seek medical help immediately.</p>
 <h2 id="causes">Causes of Infarction</h2>
 <p>Several factors contribute to the development of infarction:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Diabetes</li>
 <li>Obesity</li>
 </ul></p>
@@ -178,7 +178,7 @@
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
 <li>Pain in the arms, back, neck, jaw, or stomach</li>
-<li>Nausea, vomiting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Nausea, vomiting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Cold sweats</li>
 <li>Extreme fatigue</li>
 </ul></p>
@@ -186,7 +186,7 @@
 <p>Accurate diagnosis of Infarction is crucial for timely treatment and preventing further complications. The diagnostic process typically involves a combination of medical history review, physical exams, and various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
 <li>Blood tests to measure cardiac enzyme levels</li>
 <li>Echocardiogram to assess heart function and structure</li>
 <li>Coronary angiography to visualize blockages in the arteries</li>

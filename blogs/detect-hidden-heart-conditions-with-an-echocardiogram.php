@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Detect Hidden Heart Conditions with an Echocardiogram">
   <meta property="og:description" content="Learn how an echocardiogram can uncover hidden heart issues. Discover the importance of echocardiograms in detecting heart conditions.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/detect-hidden-heart-conditions-with-an-echocardiogram">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/detect-hidden-heart-conditions-with-an-echocardiogram">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/detect-hidden-heart-conditions-with-an-echocardiogram" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/detect-hidden-heart-conditions-with-an-echocardiogram" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Echocardiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/detect-hidden-heart-conditions-with-an-echocardiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/detect-hidden-heart-conditions-with-an-echocardiogram"  
       }]
     }
   </script>

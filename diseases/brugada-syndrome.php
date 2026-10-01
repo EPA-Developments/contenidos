@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Brugada Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Brugada syndrome affects heart rhythm and may cause sudden cardiac arrest. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/brugada-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/brugada-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/brugada-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/brugada-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Brugada Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/brugada-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/brugada-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Brugada Syndrome</h1>
-<p>Brugada Syndrome is a rare but serious genetic heart condition that affects the heart's electrical system, increasing the risk of sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. It's crucial to identify and manage this condition as it can be life-threatening if left untreated. While it's relatively uncommon, Brugada Syndrome is significant because it can lead to dangerous heart rhythms. Although exact prevalence rates vary globally, it is estimated to affect around 5 in 10,000 individuals. Early detection and appropriate treatment are essential in managing Brugada Syndrome effectively.</p>
+<p>Brugada Syndrome is a rare but serious genetic heart condition that affects the heart's electrical system, increasing the risk of sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. It's crucial to identify and manage this condition as it can be life-threatening if left untreated. While it's relatively uncommon, Brugada Syndrome is significant because it can lead to dangerous heart rhythms. Although exact prevalence rates vary globally, it is estimated to affect around 5 in 10,000 individuals. Early detection and appropriate treatment are essential in managing Brugada Syndrome effectively.</p>
 <h2 id="causes">Causes of Brugada Syndrome</h2>
 <p>Brugada Syndrome, a rare heart condition, can be influenced by various factors. These may include genetic mutations affecting sodium channels in the heart, family history of the syndrome, and certain medications or substances like cocaine that can unmask the condition. Additionally, fever, high-salt diets, and sleep deprivation may trigger symptoms in susceptible individuals. Keep in mind that Brugada Syndrome is complex and multifactorial, so a comprehensive evaluation by a healthcare provider is crucial for accurate diagnosis and management. 
 
@@ -177,11 +177,11 @@
 <p>Recognizing the symptoms of Brugada Syndrome is crucial as early detection can significantly improve outcomes by allowing for timely intervention and management. This inherited cardiac condition can lead to sudden cardiac arrest if left untreated. Symptoms of Brugada Syndrome may include:
 
 <ul>
-<li>Episodes of fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a></li>
-<li>Irregular heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Episodes of fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a></li>
+<li>Irregular heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they occur suddenly or are recurrent, it is essential to seek medical attention promptly. Early diagnosis and appropriate treatment can help prevent potentially life-threatening complications associated with Brugada Syndrome.</p>
@@ -189,7 +189,7 @@ If you experience any of these symptoms, especially if they occur suddenly or ar
 <p>Brugada Syndrome is a potentially life-threatening heart condition that can cause sudden cardiac arrest. Accurate diagnosis is crucial to implement appropriate treatment and prevent complications. The diagnostic process typically involves various tests and evaluations, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to look for specific patterns</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to look for specific patterns</li>
 <li>Genetic testing to identify gene mutations</li>
 <li>Provocative drug testing to unmask the ECG pattern</li>
 <li>Echocardiogram to assess heart structure and function</li>

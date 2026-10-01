@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Coarctation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic coarctation is a narrowing of the aorta. Read more about its symptoms, causes, and how it's treated for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-coarctation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-coarctation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-coarctation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-coarctation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Coarctation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-coarctation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-coarctation"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Aortic Coarctation</h1>
-<p>Aortic coarctation is a narrowing of the aorta, the main artery supplying oxygen-rich blood to the body. This condition can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and heart problems if left untreated. It affects about 4 out of every 10,000 births and is more common in males. Early detection and intervention are crucial to prevent complications and ensure a healthy life. If you notice symptoms like high blood pressure or leg cramps, consult a healthcare provider promptly for evaluation and appropriate management.</p>
+<p>Aortic coarctation is a narrowing of the aorta, the main artery supplying oxygen-rich blood to the body. This condition can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and heart problems if left untreated. It affects about 4 out of every 10,000 births and is more common in males. Early detection and intervention are crucial to prevent complications and ensure a healthy life. If you notice symptoms like high blood pressure or leg cramps, consult a healthcare provider promptly for evaluation and appropriate management.</p>
 <h2 id="causes">Causes of Aortic Coarctation</h2>
 <p>Aortic Coarctation, a narrowing of the aorta, can develop due to various factors. Some main contributors include:
 
@@ -176,7 +176,7 @@
 
 <ul>
 <li>High blood pressure in the arms</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a> in the legs</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a> in the legs</li>
 <li>Chest pain</li>
 <li>Fatigue</li>
 <li>Headaches</li>
@@ -184,12 +184,12 @@
 <li>Nosebleeds</li>
 </ul></p>
 <h2>Diagnosis of Aortic Coarctation</h2>
-<p>Aortic Coarctation requires accurate diagnosis for timely intervention to prevent complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and heart failure. Diagnostic methods include:
+<p>Aortic Coarctation requires accurate diagnosis for timely intervention to prevent complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and heart failure. Diagnostic methods include:
 
 <ul>
 <li>Physical examination to check for differences in blood pressure in the arms and legs</li>
-<li>Imaging tests like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> and MRI to visualize the narrowing in the aorta</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure blood pressure and assess the severity of the coarctation</li>
+<li>Imaging tests like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> and MRI to visualize the narrowing in the aorta</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure blood pressure and assess the severity of the coarctation</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Aortic Coarctation</h2>
 <p>When it comes to treating Aortic Coarctation, individualized care is crucial. Each patient may require a tailored approach to achieve the best outcomes. Here are the main approaches to treating Aortic Coarctation:

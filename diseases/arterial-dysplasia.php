@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arterial Dysplasia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Arterial Dysplasia affects blood vessels, leading to circulation issues. Know its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arterial-dysplasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arterial-dysplasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arterial-dysplasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arterial-dysplasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Arterial Dysplasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arterial-dysplasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arterial-dysplasia"
       }]
     }
   </script>
@@ -163,7 +163,7 @@
 <h1>Causes and Treatment of Arterial Dysplasia</h1>
 <p>Arterial dysplasia is a condition where the arteries develop abnormally, potentially leading to complications like aneurysms or narrowing of blood vessels. While not as common as other cardiovascular issues, it is significant due to the risk it poses to heart health. Although exact prevalence rates are not well-documented, arterial dysplasia can impact people of any age. Understanding this condition is crucial for timely diagnosis and management to prevent serious complications. If you suspect any symptoms related to arterial dysplasia, consulting a healthcare provider is essential for proper evaluation and care.</p>
 <h2 id="causes">Causes of Arterial Dysplasia</h2>
-<p>Arterial dysplasia can develop due to various factors. These include genetic predisposition, lifestyle habits, and certain medical conditions. Smoking, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, and diabetes can also contribute to its development. Additionally, age, gender, and family history can play a role in increasing the risk of arterial dysplasia. Understanding these factors can help individuals make lifestyle changes and seek appropriate medical care to manage and prevent the progression of this condition.
+<p>Arterial dysplasia can develop due to various factors. These include genetic predisposition, lifestyle habits, and certain medical conditions. Smoking, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, and diabetes can also contribute to its development. Additionally, age, gender, and family history can play a role in increasing the risk of arterial dysplasia. Understanding these factors can help individuals make lifestyle changes and seek appropriate medical care to manage and prevent the progression of this condition.
 
 <ul>
 <li>Genetic predisposition</li>
@@ -175,11 +175,11 @@
 <p>Early recognition of arterial dysplasia symptoms is crucial as it can lead to better outcomes. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Leg pain or cramping</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul> 
 
 Detecting these signs promptly can help in timely intervention and management of arterial dysplasia, potentially preventing serious complications. If you experience any of these symptoms, seek medical attention promptly for proper evaluation and care.</p>
@@ -212,7 +212,7 @@ These diagnostic approaches help healthcare providers confirm arterial dysplasia
 </ul>
 <h3>Procedures</h3>
 <ul>
-<li>Procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or surgery may be necessary to improve blood flow in narrowed or blocked arteries.</li>
+<li>Procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or surgery may be necessary to improve blood flow in narrowed or blocked arteries.</li>
 <li>These interventions aim to restore normal blood flow, relieve symptoms, and prevent complications like heart attacks or strokes.</li>
 <li>The primary objective is to address specific arterial issues and improve overall cardiovascular outcomes.</li>
 <li>Patients may require pre-operative assessments, the procedure itself, and post-operative care for optimal results.</li>

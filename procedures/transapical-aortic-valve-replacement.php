@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transapical Aortic Valve Replacement: Procedure, Benefits, Risks & Recovery">
   <meta property="og:description" content="Learn about the benefits, risks, recovery, and indications for the surgical procedure of Transapical Aortic Valve Replacement. Find out all you need to know about this innovative heart procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/transapical-aortic-valve-replacement">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/transapical-aortic-valve-replacement">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/transapical-aortic-valve-replacement" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/transapical-aortic-valve-replacement" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Transapical aortic valve replacement",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/transapical-aortic-valve-replacement"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/transapical-aortic-valve-replacement"  
       }]
     }
   </script>

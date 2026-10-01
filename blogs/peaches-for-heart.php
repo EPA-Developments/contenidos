@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peaches: Heart Health Powerhouse&quot;" />
     <meta property="og:description" content="Discover the heart-healthy perks of peaches for a vibrant cardiovascular system." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peaches For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peaches-for-heart"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Support cardiovascular health</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Maintaining Healthy Blood Pressure with Peaches</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. The good news is that peaches contain nutrients like potassium and magnesium, which are known to help regulate blood pressure levels. Including peaches in your diet can support healthy blood flow and contribute to maintaining optimal blood pressure, reducing the risk of heart-related issues.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. The good news is that peaches contain nutrients like potassium and magnesium, which are known to help regulate blood pressure levels. Including peaches in your diet can support healthy blood flow and contribute to maintaining optimal blood pressure, reducing the risk of heart-related issues.</p>
 <p>Key Points:</p>
 <ul>
 <li>Peaches are rich in potassium and magnesium</li>

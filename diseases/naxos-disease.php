@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Naxos Disease: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Naxos Disease affects the heart and skin. Read more about its symptoms, causes, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/naxos-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/naxos-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/naxos-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/naxos-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Naxos Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/naxos-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/naxos-disease"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, and Treatment of Naxos Disease</h1>
-<p>Naxos Disease is a rare genetic disorder that affects the skin and heart, characterized by the triad of arrhythmogenic right ventricular <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, woolly hair, and palmoplantar keratoderma.</p>
+<p>Naxos Disease is a rare genetic disorder that affects the skin and heart, characterized by the triad of arrhythmogenic right ventricular <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, woolly hair, and palmoplantar keratoderma.</p>
 <p>The significance of Naxos Disease lies in its impact on heart function, leading to potentially life-threatening cardiac arrhythmias and heart failure.</p>
 <p>While the prevalence of Naxos Disease is low globally, it is more commonly reported in certain populations, such as individuals of Greek descent.</p>
 <p>Untreated Naxos Disease can have severe consequences on health, both in the short term, with the risk of sudden cardiac death, and in the long term, with progressive heart failure.</p>
@@ -191,20 +191,20 @@
 <h2 id="symptoms">Symptoms of Naxos Disease</h2>
 <p>The symptoms of Naxos Disease can vary depending on the stage of the condition, with early-stage symptoms often being subtle and easily overlooked, while advanced-stage symptoms may significantly impact daily living.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> may manifest early on, affecting energy levels and causing discomfort during physical activities or periods of stress.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> may manifest early on, affecting energy levels and causing discomfort during physical activities or periods of stress.</li>
 <li>Fatigue or exercise intolerance might be misconstrued as general tiredness, delaying the diagnosis of underlying cardiac abnormalities in individuals with Naxos Disease.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> can significantly limit physical exertion and quality of life, indicating progressive heart failure in advanced stages of Naxos Disease.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a> or fainting episodes may pose serious risks, reflecting severe arrhythmias or compromised cardiac function that require immediate medical attention in individuals with advanced Naxos Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> can significantly limit physical exertion and quality of life, indicating progressive heart failure in advanced stages of Naxos Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a> or fainting episodes may pose serious risks, reflecting severe arrhythmias or compromised cardiac function that require immediate medical attention in individuals with advanced Naxos Disease.</li>
 </ul>
 <h2>Diagnosis of Naxos Disease</h2>
 <p>The diagnosis of Naxos Disease involves a multi-step approach to assess cardiac structure and function accurately, enabling timely intervention and management of the condition.</p>
 <p>Various diagnostic tests play a crucial role in confirming the presence of Naxos Disease and guiding treatment decisions.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiography">electrocardiography</a> (ECG) is instrumental in detecting abnormal heart rhythms and conduction delays, providing valuable insights into the electrical properties of the heart affected by Naxos Disease.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> allows for the visualization of the heart's structure and function, highlighting any abnormalities in chamber size, wall thickness, or contractility associated with Naxos Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiography">electrocardiography</a> (ECG) is instrumental in detecting abnormal heart rhythms and conduction delays, providing valuable insights into the electrical properties of the heart affected by Naxos Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> allows for the visualization of the heart's structure and function, highlighting any abnormalities in chamber size, wall thickness, or contractility associated with Naxos Disease.</li>
 <li>Cardiac magnetic resonance imaging (MRI) offers detailed information on the cardiac tissue composition and helps identify fibrotic changes or scarring indicative of arrhythmogenic cardiomyopathy in individuals with Naxos Disease.</li>
 <li>Genetic testing is essential for confirming the presence of specific mutations associated with Naxos Disease, enabling personalized management strategies and familial screening for at-risk relatives.</li>
 </ul>

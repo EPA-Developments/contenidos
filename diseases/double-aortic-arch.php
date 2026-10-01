@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Double Aortic Arch: Causes, Symptoms and Treatment" >
   <meta property="og:description" content="Double Aortic Arch affects breathing and swallowing. Know more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/double-aortic-arch">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/double-aortic-arch">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/double-aortic-arch" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/double-aortic-arch" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Double Aortic Arch",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/double-aortic-arch"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/double-aortic-arch"
       }]
     }
   </script>
@@ -172,14 +172,14 @@
 <p>The presence of two aortic arches can lead to constriction of the trachea and esophagus, resulting in breathing and swallowing difficulties.</p>
 <p>Additionally, the abnormal positioning of the aortic arches can cause compression of nearby structures, impacting blood flow and potentially leading to heart complications.</p>
 <p>In the short term, untreated Double Aortic Arch can result in respiratory distress, feeding difficulties, and recurrent respiratory infections in infants and young children.</p>
-<p>In the long term, it may lead to cardiovascular issues such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, cardiac arrhythmias, and increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a> or dissection.</p>
+<p>In the long term, it may lead to cardiovascular issues such as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, cardiac arrhythmias, and increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a> or dissection.</p>
 <p>Despite being asymptomatic in the early stages, timely detection through regular screenings and diagnostic tests is crucial to prevent potential complications and ensure appropriate management.</p>
 <h2 id="causes">Causes of Double Aortic Arch</h2>
 <p>Several factors can contribute to the development of Double Aortic Arch, each affecting heart function and vascular anatomy differently.</p>
 <ul>
 <li>Genetic Factors: Genetic mutations or chromosomal abnormalities can disrupt normal heart development, leading to the formation of a Double Aortic Arch. These genetic anomalies can impact the embryonic development of the aorta and its branching pattern, resulting in the atypical configuration seen in Double Aortic Arch.</li>
 <li>Environmental Factors: Exposure to certain teratogenic substances during pregnancy, such as alcohol or certain medications, can interfere with fetal development and predispose the fetus to congenital heart defects, including Double Aortic Arch. Environmental factors can disrupt the intricate processes involved in cardiac morphogenesis, contributing to structural abnormalities.</li>
-<li>Maternal Health: Maternal health conditions like diabetes or hypertension can influence fetal development and increase the risk of congenital anomalies, including Double Aortic Arch. Poorly controlled maternal conditions can impact the vascular development of the fetus, potentially leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-malformations">vascular malformations</a> like a Double Aortic Arch.</li>
+<li>Maternal Health: Maternal health conditions like diabetes or hypertension can influence fetal development and increase the risk of congenital anomalies, including Double Aortic Arch. Poorly controlled maternal conditions can impact the vascular development of the fetus, potentially leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-malformations">vascular malformations</a> like a Double Aortic Arch.</li>
 <li>Unknown Causes: In some cases, the exact cause of Double Aortic Arch may remain unknown, highlighting the complex interplay of genetic and environmental factors in congenital heart defects. Research continues to explore the underlying mechanisms of Double Aortic Arch to enhance diagnostic and therapeutic strategies.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Double Aortic Arch</h2>
@@ -191,16 +191,16 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Cardiovascular Complications: As Double Aortic Arch can disrupt normal blood flow patterns and cardiac function, individuals may develop symptoms of heart failure, such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. These advanced symptoms indicate the progressive nature of the condition and the need for timely intervention.</li>
+<li>Cardiovascular Complications: As Double Aortic Arch can disrupt normal blood flow patterns and cardiac function, individuals may develop symptoms of heart failure, such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. These advanced symptoms indicate the progressive nature of the condition and the need for timely intervention.</li>
 <li>Neurological Deficits: Severe cases of Double Aortic Arch with extensive compression of adjacent structures may result in neurological deficits, including developmental delays, speech difficulties, or motor impairments. The neurological impact of the condition underscores the importance of early diagnosis and management to prevent long-term complications.</li>
 </ul>
 <h2>Diagnosis of Double Aortic Arch</h2>
 <p>Diagnosing Double Aortic Arch typically involves a series of tests and evaluations to assess cardiac anatomy, function, and associated complications.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: A non-invasive imaging technique that uses sound waves to create detailed images of the heart's structure and function. Echocardiography can help visualize the aortic arches, assess blood flow patterns, and identify any abnormalities in the cardiac anatomy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: A non-invasive imaging technique that uses sound waves to create detailed images of the heart's structure and function. Echocardiography can help visualize the aortic arches, assess blood flow patterns, and identify any abnormalities in the cardiac anatomy.</li>
 <li>CT Angiography: A specialized imaging test that provides detailed cross-sectional images of the heart and blood vessels. CT angiography can reveal the precise anatomy of the aortic arches, detect any obstructions or compressions, and guide treatment planning for Double Aortic Arch.</li>
 <li>MRI: Magnetic Resonance Imaging (MRI) offers high-resolution images of the heart and surrounding structures without exposing the patient to radiation. MRI can provide valuable information about the aortic arch configuration, blood flow dynamics, and potential complications associated with Double Aortic Arch.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure that involves inserting a catheter into the heart's blood vessels to assess pressure, blood flow, and oxygen levels. Cardiac catheterization may be used to evaluate the hemodynamic impact of Double Aortic Arch and guide interventional or surgical interventions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure that involves inserting a catheter into the heart's blood vessels to assess pressure, blood flow, and oxygen levels. Cardiac catheterization may be used to evaluate the hemodynamic impact of Double Aortic Arch and guide interventional or surgical interventions.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Double Aortic Arch</h2>
 <p>The management of Double Aortic Arch aims to alleviate symptoms, improve cardiac function, and prevent complications through a combination of medical therapies, lifestyle modifications, and surgical interventions.</p>

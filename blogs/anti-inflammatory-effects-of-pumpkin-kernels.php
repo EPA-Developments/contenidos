@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pumpkin Kernel Benefits for Heart Inflammation&quot;" />
     <meta property="og:description" content="Explore how pumpkin kernels can reduce heart inflammation and promote cardiovascular health. Discover the seed-based anti-inflammatory benefits now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-pumpkin-kernels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-pumpkin-kernels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-pumpkin-kernels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-pumpkin-kernels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anti Inflammatory Effects Of Pumpkin Kernels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-pumpkin-kernels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-pumpkin-kernels"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Pumpkin Kernels on Heart Inflammation</h1>
-<p>Are you looking for a natural way to reduce <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and promote cardiovascular health? The anti-inflammatory effects of pumpkin kernels might be the solution you need. Daily activities can be challenging when heart inflammation affects your well-being. Let's explore how pumpkin kernels can help alleviate this issue.</p>
+<p>Are you looking for a natural way to reduce <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and promote cardiovascular health? The anti-inflammatory effects of pumpkin kernels might be the solution you need. Daily activities can be challenging when heart inflammation affects your well-being. Let's explore how pumpkin kernels can help alleviate this issue.</p>
 <h2 class="sec-scrl" id="inflammation-reduction">Inflammation Reduction</h2>
 <p>Heart inflammation is a common concern that can lead to serious health issues if left unchecked. Pumpkin kernels contain compounds that have been shown to reduce inflammation in the body. Specifically, the seed-based anti-inflammatory properties of pumpkin kernels can help combat the inflammatory response that contributes to heart disease.</p>
 <ul>
@@ -138,10 +138,10 @@
 <li>Including pumpkin kernels in your diet may help regulate the inflammatory markers associated with heart disease prevention.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Heart Inflammation</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can impact the heart's ability to function properly and lead to complications. Understanding how pumpkin kernels can address heart inflammation is crucial for maintaining cardiovascular health.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can impact the heart's ability to function properly and lead to complications. Understanding how pumpkin kernels can address heart inflammation is crucial for maintaining cardiovascular health.</p>
 <p>Research suggests that the plant-based anti-inflammatory properties of pumpkin kernels can help reduce inflammation in the heart muscle, improving overall cardiac function.</p>
 <ul>
-<li>The bioactive compounds in pumpkin kernels may help alleviate symptoms of heart inflammation, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li>The bioactive compounds in pumpkin kernels may help alleviate symptoms of heart inflammation, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 <li>Regular consumption of pumpkin kernels may support the body's natural anti-inflammatory response, protecting the heart from further damage.</li>
 </ul>
 <h2 class="sec-scrl" id="seed-based-anti-inflammatory">Seed-Based Anti-Inflammatory Benefits</h2>

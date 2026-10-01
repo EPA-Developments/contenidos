@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Benefits of Maze Surgery for Atrial Fibrillation Treatment">
   <meta property="og:description" content="Discover the key benefits of Maze surgery for atrial fibrillation treatment. Learn how this procedure can effectively restore heart rhythm.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/benefits-maze-surgery-atrial-fibrillation-treatment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/benefits-maze-surgery-atrial-fibrillation-treatment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/benefits-maze-surgery-atrial-fibrillation-treatment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/benefits-maze-surgery-atrial-fibrillation-treatment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Benefits Of Maze Surgery For Atrial Fibrillation Treatment",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/benefits-maze-surgery-atrial-fibrillation-treatment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/benefits-maze-surgery-atrial-fibrillation-treatment"  
       }]
     }
   </script>

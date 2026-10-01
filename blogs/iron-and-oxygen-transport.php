@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron & Oxygen: Vital for Heart Health&quot;" />
     <meta property="og:description" content="Unlock the power of iron for a healthy heart with optimal oxygen delivery." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-oxygen-transport" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-and-oxygen-transport" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-oxygen-transport" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-and-oxygen-transport" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron And Oxygen Transport",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-and-oxygen-transport"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-and-oxygen-transport"
         }
     ]
 }
@@ -132,16 +132,16 @@
 <p>Are you feeling fatigued and out of breath more often than usual? Do simple tasks leave you feeling exhausted? If so, you may be experiencing the effects of inadequate iron and oxygen transport in your body. Let's explore how iron and oxygen play a crucial role in maintaining your heart health and overall well-being.</p>
 <h2 class="sec-scrl" id="hemoglobin-function">How Does Hemoglobin Function in Oxygen Transport?</h2>
 <p>Hemoglobin, a protein found in red blood cells, is responsible for carrying oxygen from the lungs to the rest of the body. When you inhale, oxygen enters your lungs and binds to hemoglobin in red blood cells. This oxygen-rich blood is then pumped by the heart to deliver oxygen to tissues and organs throughout the body.</p>
-<p>Without adequate hemoglobin function, your cells may not receive enough oxygen, leading to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. Conditions such as anemia, where there is a decreased number of red blood cells or hemoglobin, can significantly impact oxygen transport and overall health.</p>
+<p>Without adequate hemoglobin function, your cells may not receive enough oxygen, leading to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. Conditions such as anemia, where there is a decreased number of red blood cells or hemoglobin, can significantly impact oxygen transport and overall health.</p>
 <h2 class="sec-scrl" id="oxygen-levels">Why Are Optimal Oxygen Levels Essential for Your Body?</h2>
 <p>Optimal oxygen levels are vital for the efficient functioning of your body's cells and tissues. Adequate oxygenation is necessary for energy production, metabolism, and overall cellular health. When oxygen levels are low, your body may struggle to perform essential functions, leading to fatigue and other symptoms.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a> can impact brain function, concentration, and memory.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a> can impact brain function, concentration, and memory.</li>
 <li>Inadequate oxygenation may affect the immune system, making you more susceptible to infections.</li>
 <li>Proper oxygen levels are crucial for maintaining heart performance and cardiovascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-oxygenation">How Does Iron Impact Blood Oxygenation?</h2>
-<p>Iron plays a vital role in blood oxygenation as it is a key component of hemoglobin. Without sufficient iron levels, your body cannot produce an adequate amount of hemoglobin, leading to decreased oxygen-carrying capacity in the blood. This can result in symptoms of anemia, such as weakness, pale skin, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>.</p>
+<p>Iron plays a vital role in blood oxygenation as it is a key component of hemoglobin. Without sufficient iron levels, your body cannot produce an adequate amount of hemoglobin, leading to decreased oxygen-carrying capacity in the blood. This can result in symptoms of anemia, such as weakness, pale skin, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>.</p>
 <p>Ensuring you have enough iron in your diet is essential for maintaining healthy hemoglobin levels and optimal oxygen transport throughout your body. Iron-rich foods like spinach, red meat, and beans can help support healthy blood oxygenation and overall well-being.</p>
 <h2 class="sec-scrl" id="iron-and-heart-health">How Does Iron Affect Heart Health?</h2>
 <p>Iron plays a crucial role in supporting heart health by ensuring adequate oxygen delivery to the heart muscle. The heart requires a constant and sufficient oxygen supply to function optimally. Without enough iron, the heart may not receive the oxygen it needs, leading to potential issues with heart performance and overall cardiovascular health.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cholesterol Impact on Arteries" />
     <meta property="og:description" content="Learn how cholesterol impacts artery health, arterial plaque, heart attack risk, and more in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-arteries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-arteries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-arteries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-arteries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol And Arteries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-and-arteries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-and-arteries"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Cholesterol on Artery Health</h1>
 <p>Do you ever wonder how cholesterol affects your arteries, impacting your daily life without you even realizing it? The way cholesterol interacts with your artery walls can significantly influence your vascular health and overall well-being. Let's explore the intricate relationship between cholesterol and arteries to understand the potential consequences it may have on your heart health and daily activities.</p>
 <h2 class="sec-scrl" id="endothelial-function">The Role of Endothelial Function in Artery Health</h2>
-<p>The endothelium, a thin layer of cells lining the interior surface of blood vessels, plays a crucial role in maintaining artery health. When cholesterol levels are elevated, especially low-density lipoprotein (LDL) cholesterol, it can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>. This condition impairs the ability of blood vessels to dilate properly, affecting blood flow and increasing the risk of developing arterial plaque.</p>
+<p>The endothelium, a thin layer of cells lining the interior surface of blood vessels, plays a crucial role in maintaining artery health. When cholesterol levels are elevated, especially low-density lipoprotein (LDL) cholesterol, it can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>. This condition impairs the ability of blood vessels to dilate properly, affecting blood flow and increasing the risk of developing arterial plaque.</p>
 <p>Key points to consider about endothelial function and cholesterol:</p>
 <ul>
 <li>High LDL cholesterol levels can damage the endothelium, promoting the development of arterial plaque.</li>
@@ -150,12 +150,12 @@
 <p>Arterial plaque, a combination of cholesterol, calcium, and other substances, can accumulate in artery walls over time, posing a significant threat to vascular health. The buildup of plaque can lead to clogged arteries, disrupting blood flow and potentially triggering severe cardiovascular events.</p>
 <p>Key insights into arterial plaque formation and its consequences:</p>
 <ul>
-<li>High levels of LDL cholesterol contribute to the formation of arterial plaque, increasing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>High levels of LDL cholesterol contribute to the formation of arterial plaque, increasing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Reducing cholesterol intake and adopting a heart-healthy diet can help prevent the buildup of plaque in arteries.</li>
 <li>Regular exercise and weight management play a crucial role in minimizing the accumulation of plaque and maintaining optimal vascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-risk">Mitigating Heart Attack Risk Through Cholesterol Management</h2>
-<p>Individuals with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, especially elevated LDL cholesterol, are at an increased risk of experiencing heart attacks due to the impact on artery health. Understanding how cholesterol influences <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk is essential for implementing preventive measures and safeguarding cardiovascular well-being.</p>
+<p>Individuals with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, especially elevated LDL cholesterol, are at an increased risk of experiencing heart attacks due to the impact on artery health. Understanding how cholesterol influences <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk is essential for implementing preventive measures and safeguarding cardiovascular well-being.</p>
 <p>Key strategies for reducing heart attack risk associated with cholesterol:</p>
 <ul>
 <li>Monitoring cholesterol levels regularly and following medical recommendations for management.</li>

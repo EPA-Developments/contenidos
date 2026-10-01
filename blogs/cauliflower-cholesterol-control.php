@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cauliflower for Healthy Cholesterol" />
     <meta property="og:description" content="Learn how cauliflower helps manage cholesterol levels naturally for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-cholesterol-control" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-cholesterol-control" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-cholesterol-control" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-cholesterol-control" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower Cholesterol Control",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-cholesterol-control"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-cholesterol-control"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Importance of Cauliflower for Cholesterol Control</h1>
-<p>Are you looking for a natural way to manage your cholesterol levels effectively? Have you considered the impact of cauliflower on your heart health? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can significantly affect your daily activities, from feeling fatigued to limiting your physical capabilities. Let's explore how incorporating cauliflower into your diet can help you take control of your cholesterol levels and promote heart protection.</p>
+<p>Are you looking for a natural way to manage your cholesterol levels effectively? Have you considered the impact of cauliflower on your heart health? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can significantly affect your daily activities, from feeling fatigued to limiting your physical capabilities. Let's explore how incorporating cauliflower into your diet can help you take control of your cholesterol levels and promote heart protection.</p>
 <h2 class="sec-scrl" id="cauliflower-cholesterol-control">How Cauliflower Supports Cholesterol Control</h2>
 <p>Cauliflower is a versatile vegetable that can play a crucial role in managing your cholesterol levels. Here's how cauliflower can benefit your heart health:</p>
 <ul>

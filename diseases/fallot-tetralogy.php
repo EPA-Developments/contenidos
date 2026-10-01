@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Fallot Tetralogy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Fallot Tetralogy is a congenital heart defect affecting blood flow. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/fallot-tetralogy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/fallot-tetralogy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/fallot-tetralogy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/fallot-tetralogy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Fallot Tetralogy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/fallot-tetralogy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/fallot-tetralogy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Fallot Tetralogy</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot">tetralogy of fallot</a> is a congenital heart defect involving four issues: a hole in the heart, a misplaced aorta, a narrowed pulmonary valve, and a thicker right ventricle. It can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a> in the blood, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a>), <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. It affects about 5 out of every 10,000 babies born. Early detection and treatment are crucial to manage symptoms and improve quality of life. If you suspect any symptoms, consult a healthcare provider for proper evaluation and management.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot">tetralogy of fallot</a> is a congenital heart defect involving four issues: a hole in the heart, a misplaced aorta, a narrowed pulmonary valve, and a thicker right ventricle. It can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a> in the blood, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a>), <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. It affects about 5 out of every 10,000 babies born. Early detection and treatment are crucial to manage symptoms and improve quality of life. If you suspect any symptoms, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Fallot Tetralogy</h2>
 <p>Fallot Tetralogy develops due to a combination of factors such as genetic mutations, environmental influences, and developmental issues during fetal growth. These factors contribute to the following aspects:
 
@@ -177,9 +177,9 @@
 <ul>
 <li>Blue or purple tint to the skin (cyanosis)</li>
 <li>Shortness of breath, especially during feeding or physical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
 <li>Poor weight gain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 <li>Clubbing of fingers and toes</li>
 </ul> 
 
@@ -188,7 +188,7 @@ If you notice any of these symptoms in yourself or a loved one, seeking medical 
 <p>Diagnosing Fallot Tetralogy is crucial for timely treatment and management. A precise diagnosis ensures appropriate interventions are initiated to improve outcomes. Diagnostic methods for Fallot Tetralogy include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
 <li>Cardiac MRI: Provides detailed pictures of the heart's structure and function.</li>
 <li>Cardiac catheterization: Involves inserting a thin tube into a blood vessel to assess heart function and blood flow.</li>
 <li>Chest X-ray: Helps visualize heart size and lung congestion.</li>

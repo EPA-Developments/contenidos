@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Right Heart Failure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Right heart failure occurs when the heart cannot pump effectively. Know more about symptoms, causes, and treatment for a healthier heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Right Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatments of Right Heart Failure</h1>
-<p>Right Heart Failure occurs when the right side of the heart is unable to pump blood effectively to the lungs for oxygenation. This can lead to fluid buildup in the body, causing symptoms like swelling in the legs and abdomen, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. It is a significant condition as it can result from various causes such as left heart failure, lung diseases, or conditions affecting the right side of the heart directly. Right Heart Failure is prevalent and requires prompt diagnosis and management to improve symptoms and quality of life.</p>
+<p>Right Heart Failure occurs when the right side of the heart is unable to pump blood effectively to the lungs for oxygenation. This can lead to fluid buildup in the body, causing symptoms like swelling in the legs and abdomen, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. It is a significant condition as it can result from various causes such as left heart failure, lung diseases, or conditions affecting the right side of the heart directly. Right Heart Failure is prevalent and requires prompt diagnosis and management to improve symptoms and quality of life.</p>
 <h2 id="causes">Causes of Right Heart Failure</h2>
 <p><ul>
 <li>Chronic lung diseases like COPD can strain the right side of the heart.</li>
 <li>Left heart failure can lead to right heart failure due to increased pressure in the lungs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a> causes the right ventricle to work harder.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a> causes the right ventricle to work harder.</li>
 <li>Coronary artery disease can impair the right heart's ability to pump blood effectively.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Right Heart Failure</h2>
@@ -175,16 +175,16 @@
 <ul>
 <li>Swelling in the legs, ankles, or abdomen</li>
 <li>Shortness of breath, especially during physical activity or when lying flat</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li>Irregular or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li>Irregular or <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Unexplained weight gain</li>
 </ul></p>
 <h2>Diagnosis of Right Heart Failure</h2>
 <p>Accurate diagnosis of Right Heart Failure is crucial for effective management. The diagnostic process typically involves a detailed medical history review, physical examination, and various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
-<li>Imaging tests like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures in the heart chambers.</li>
+<li>Imaging tests like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures in the heart chambers.</li>
 <li>Blood tests to check for biomarkers indicating heart failure.</li>
 <li>Pulmonary function tests to evaluate lung function.</li>
 </ul></p>

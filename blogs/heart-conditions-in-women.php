@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Conditions in Women: Gender Disparities" />
     <meta property="og:description" content="Explore common heart conditions impacting women more than men. Learn about pregnancy-related risks, hormonal effects, prevention, and women's heart health awareness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-conditions-in-women" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-conditions-in-women" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-conditions-in-women" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-conditions-in-women" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Conditions In Women",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-conditions-in-women"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-conditions-in-women"
         }
     ]
 }
@@ -173,14 +173,14 @@
 <h2 class="sec-scrl" id="heart-conditions-in-women">Heart Conditions in Women</h2>
 <p>Heart conditions can manifest differently in women compared to men. Women are more likely to experience certain heart issues that may go unrecognized or present symptoms differently. Here are some common heart conditions that affect women more than men:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-microvascular-disease">coronary microvascular disease</a>: A condition that affects the heart's smallest coronary arteries, often leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and discomfort.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome">broken heart syndrome</a>: Also known as stress-induced <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, this condition can be triggered by emotional stress and mimic a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/spontaneous-coronary-artery-dissection">spontaneous coronary artery dissection</a>: A rare condition where a tear occurs in the blood vessels of the heart, predominantly affecting younger women.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-microvascular-disease">coronary microvascular disease</a>: A condition that affects the heart's smallest coronary arteries, often leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and discomfort.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome">broken heart syndrome</a>: Also known as stress-induced <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, this condition can be triggered by emotional stress and mimic a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/spontaneous-coronary-artery-dissection">spontaneous coronary artery dissection</a>: A rare condition where a tear occurs in the blood vessels of the heart, predominantly affecting younger women.</li>
 </ul>
 <h2 class="sec-scrl" id="pregnancy-related-heart-risks">Pregnancy Related Heart Risks</h2>
 <p>During pregnancy, women may face increased risks of developing certain heart conditions due to the physiological changes that occur in the body. These risks may include:</p>
 <ul>
-<li>Gestational <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> that develops during pregnancy and can increase the risk of heart disease later in life.</li>
+<li>Gestational <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> that develops during pregnancy and can increase the risk of heart disease later in life.</li>
 <li>Pre-eclampsia: A condition characterized by high blood pressure and organ damage, which can elevate the risk of heart issues post-pregnancy.</li>
 </ul>
 <p>It is essential for women to be aware of these pregnancy-related heart risks and prioritize heart health before, during, and after pregnancy.</p>

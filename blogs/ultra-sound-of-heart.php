@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Heart Health with Cardiac Ultrasound" />
     <meta property="og:description" content="Learn how heart ultrasound aids in diagnosing conditions effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/ultra-sound-of-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/ultra-sound-of-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/ultra-sound-of-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/ultra-sound-of-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Ultra Sound Of Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/ultra-sound-of-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/ultra-sound-of-heart"
         }
     ]
 }
@@ -169,9 +169,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Using Ultrasound for Heart Condition Diagnosis</h1>
-<p>Have you ever wondered how healthcare providers get a closer look at your heart without invasive procedures? Imagine being able to understand your heart's inner workings without stress or pain. The ultrasound of the heart, also known as a cardiac ultrasound or <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, makes this possible. Let's explore how this non-invasive imaging technique helps diagnose various heart conditions, giving you peace of mind about your heart's health and function.</p>
+<p>Have you ever wondered how healthcare providers get a closer look at your heart without invasive procedures? Imagine being able to understand your heart's inner workings without stress or pain. The ultrasound of the heart, also known as a cardiac ultrasound or <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, makes this possible. Let's explore how this non-invasive imaging technique helps diagnose various heart conditions, giving you peace of mind about your heart's health and function.</p>
 <h2 class="sec-scrl" id="cardiac-ultrasound">Cardiac Ultrasound</h2>
-<p>Cardiac ultrasound, also referred to as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, is a painless procedure that uses high-frequency sound waves to create detailed images of your heart. These images provide valuable information about the size, shape, and overall function of your heart muscle, valves, and chambers.</p>
+<p>Cardiac ultrasound, also referred to as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, is a painless procedure that uses high-frequency sound waves to create detailed images of your heart. These images provide valuable information about the size, shape, and overall function of your heart muscle, valves, and chambers.</p>
 <ul>
 <li>It helps assess the pumping function of the heart.</li>
 <li>Identifies structural abnormalities such as valve defects or congenital heart conditions.</li>

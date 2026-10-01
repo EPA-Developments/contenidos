@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Muscle Disease Effects on Lifestyle" />
     <meta property="og:description" content="Explore how heart muscle disease affects your lifestyle. Learn about dilated cardiomyopathy, hypertrophic muscle thickening, genetic risks, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Muscle Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-muscle-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-muscle-disease"
         }
     ]
 }
@@ -171,7 +171,7 @@
               <h1>How Heart Muscle Disease Affects Your Life</h1>
 <p>Are you struggling with heart muscle disease and wondering how it will affect your daily life? The impact of heart muscle disease can be significant, influencing various aspects of your lifestyle. From physical limitations to emotional challenges, navigating life with heart muscle disease can be daunting. Let's explore the effects of this condition on your everyday activities.</p>
 <h2 class="sec-scrl" id="dilated-cardiomyopathy-issues">Dilated Cardiomyopathy Issues</h2>
-<p>Dilated <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> is a condition where the heart's ability to pump blood is decreased because the heart's main pumping chamber, the left ventricle, is enlarged and weakened. This can lead to symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, swelling in the lower extremities, and an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>. Living with dilated cardiomyopathy can impact your lifestyle in the following ways:</p>
+<p>Dilated <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> is a condition where the heart's ability to pump blood is decreased because the heart's main pumping chamber, the left ventricle, is enlarged and weakened. This can lead to symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, swelling in the lower extremities, and an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>. Living with dilated cardiomyopathy can impact your lifestyle in the following ways:</p>
 <ul>
 <li>Reduced exercise tolerance, making physical activities challenging</li>
 <li>The need to monitor fluid intake and weight regularly</li>
@@ -179,7 +179,7 @@
 </ul>
 <p>Managing dilated cardiomyopathy requires a combination of medication, lifestyle changes, and regular medical monitoring to ensure optimal heart function.</p>
 <h2 class="sec-scrl" id="hypertrophic-muscle-thickening">Hypertrophic Muscle Thickening</h2>
-<p>Hypertrophic cardiomyopathy is characterized by abnormal thickening of the heart muscle, particularly the left ventricle. This condition can lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, shortness of breath, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>. Living with hypertrophic muscle thickening can impact your lifestyle in the following ways:</p>
+<p>Hypertrophic cardiomyopathy is characterized by abnormal thickening of the heart muscle, particularly the left ventricle. This condition can lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, shortness of breath, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>. Living with hypertrophic muscle thickening can impact your lifestyle in the following ways:</p>
 <ul>
 <li>Restrictions on strenuous physical activities to prevent complications</li>
 <li>The need for regular heart monitoring to detect any changes in heart function</li>
@@ -195,7 +195,7 @@
 </ul>
 <p>Managing restrictive cardiomyopathy involves symptom management, lifestyle modifications, and sometimes surgical interventions to improve heart function.</p>
 <h2 class="sec-scrl" id="arrhythmogenic-right-issues">Arrhythmogenic Right Issues</h2>
-<p>Arrhythmogenic right ventricular cardiomyopathy is a genetic condition where the heart muscle in the right ventricle is replaced by fatty or fibrous tissue, leading to abnormal heart rhythms. This can result in symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fainting, and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. Living with arrhythmogenic right issues can impact your lifestyle in the following ways:</p>
+<p>Arrhythmogenic right ventricular cardiomyopathy is a genetic condition where the heart muscle in the right ventricle is replaced by fatty or fibrous tissue, leading to abnormal heart rhythms. This can result in symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fainting, and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. Living with arrhythmogenic right issues can impact your lifestyle in the following ways:</p>
 <ul>
 <li>The need for regular electrocardiograms (ECGs) to monitor heart rhythm</li>
 <li>Avoidance of stimulants like caffeine and certain medications that can trigger arrhythmias</li>

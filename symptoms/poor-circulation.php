@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Symptoms, Causes, and Treatment for Poor Circulation" >
   <meta property="og:description" content="Poor circulation affects blood flow. Check for symptoms, causes, diagnosis, and treatment options. Know more about how it impacts health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Poor Circulation",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation"  
       }]
     }
   </script>
@@ -206,8 +206,8 @@
 <li>Smoking: Tobacco use can constrict blood vessels, reducing blood flow and increasing the risk of circulatory problems.</li>
 <li>Obesity: Excess weight puts strain on the circulatory system, impeding blood flow to vital organs.</li>
 <li>Diabetes: High blood sugar levels can damage blood vessels, affecting circulation to various parts of the body.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can lead to plaque buildup in arteries, restricting blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and hinder proper circulation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Elevated cholesterol levels can lead to plaque buildup in arteries, restricting blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and hinder proper circulation.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Poor circulation?</h2>
 <p>Diagnosing poor circulation typically involves a combination of physical examinations, medical history review, and diagnostic tests to assess blood flow and vascular health.</p>
@@ -219,7 +219,7 @@
 <li>Medications: Blood thinners, vasodilators, or cholesterol-lowering drugs may be prescribed to improve circulation and manage underlying conditions.</li>
 <li>Lifestyle changes: Regular exercise, healthy diet, smoking cessation, and weight management can help improve blood flow and overall vascular health.</li>
 <li>Compression therapy: Using compression stockings or sleeves can help promote circulation in the legs and reduce swelling.</li>
-<li>Surgical interventions: In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, bypass surgery, or vascular stenting may be necessary to restore proper blood flow.</li>
+<li>Surgical interventions: In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, bypass surgery, or vascular stenting may be necessary to restore proper blood flow.</li>
 <li>Physical therapy: Specific exercises and techniques can help improve circulation, strengthen muscles, and reduce symptoms of poor circulation.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
@@ -227,7 +227,7 @@
 <ul>
 <li>Severe numbness or tingling in the extremities.</li>
 <li>Persistent swelling in the legs or feet.</li>
-<li>Chronic fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</li>
+<li>Chronic fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</li>
 <li>Slow healing of wounds or ulcers.</li>
 <li>Changes in skin color or temperature in the extremities.</li>
 </ul>

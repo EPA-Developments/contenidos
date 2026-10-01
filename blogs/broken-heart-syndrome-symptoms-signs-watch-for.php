@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Broken Heart Syndrome Symptoms: Signs to Watch For">
   <meta property="og:description" content="Discover the key broken heart syndrome symptoms to watch for. Learn the signs and symptoms of broken heart syndrome and when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broken-heart-syndrome-symptoms-signs-watch-for">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broken-heart-syndrome-symptoms-signs-watch-for">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broken-heart-syndrome-symptoms-signs-watch-for" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broken-heart-syndrome-symptoms-signs-watch-for" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Broken Heart Syndrome Symptoms: Signs To Watch For",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/broken-heart-syndrome-symptoms-signs-watch-for"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/broken-heart-syndrome-symptoms-signs-watch-for"  
       }]
     }
   </script>

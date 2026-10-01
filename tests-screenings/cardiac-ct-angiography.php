@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Cardiac Ct Angiography: Levels, Purpose, and Costs" property="og:title"/>
 <meta content="CCTA is a diagnostic test that creates detailed 3D images of heart arteries to detect blood flow abnormalities. Know more about its purpose and normal Range." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-ct-angiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-ct-angiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-ct-angiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-ct-angiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac CT Angiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-ct-angiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-ct-angiography"  
       }]
     }
   </script>
@@ -162,20 +162,20 @@
 <p>By providing a detailed view of the heart's blood vessels, cardiac CT angiography can help detect any narrowing or blockages that may be indicative of coronary artery disease.</p>
 <p>In addition to coronary artery imaging, cardiac CT angiography can also be used to assess other heart conditions, such as congenital heart defects, valve abnormalities, and pericardial disease.</p>
 <p>It is a valuable tool for cardiologists and other healthcare providers in diagnosing and monitoring various cardiac conditions.</p>
-<p>Some examples of related concepts to cardiac CT angiography include <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-ct-angiogram">coronary ct angiogram</a>, non-invasive coronary imaging, heart artery scan, and CT scan for heart vessels.</p>
+<p>Some examples of related concepts to cardiac CT angiography include <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-ct-angiogram">coronary ct angiogram</a>, non-invasive coronary imaging, heart artery scan, and CT scan for heart vessels.</p>
 <p>These terms are often used interchangeably to refer to the same imaging procedure that focuses on the heart's blood vessels.</p>
 <h2 id="purpose">What is the Purpose of Performing a Cardiac CT Angiography Test?</h2>
 <p>The primary purpose of performing a cardiac CT angiography test is to evaluate the coronary arteries for any blockages or narrowing that may be indicative of coronary artery disease.</p>
-<p>This condition occurs when plaque buildup restricts blood flow to the heart muscle, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, heart attacks, and other serious complications.</p>
+<p>This condition occurs when plaque buildup restricts blood flow to the heart muscle, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, heart attacks, and other serious complications.</p>
 <p>By detecting and assessing the extent of plaque buildup in the coronary arteries, cardiac CT angiography can help healthcare providers determine the best course of treatment for patients with heart disease.</p>
-<p>This may include lifestyle modifications, medications, or invasive procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
+<p>This may include lifestyle modifications, medications, or invasive procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
 <p>In addition to diagnosing coronary artery disease, cardiac CT angiography can also be used to monitor the progression of heart conditions, evaluate the effectiveness of treatments, and assess the risk of future cardiovascular events.</p>
 <p>It is a valuable tool for guiding patient care and improving outcomes in individuals with heart disease.</p>
 <p>Some specific scenarios where a cardiac CT angiography test may be useful include:</p>
 <ul>
-<li>Patients with symptoms of chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
+<li>Patients with symptoms of chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
 <li>Individuals with a family history of heart disease</li>
-<li>Patients with risk factors for heart disease, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or diabetes</li>
+<li>Patients with risk factors for heart disease, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or diabetes</li>
 <li>Those who have undergone previous cardiac testing with inconclusive results</li>
 </ul>
 <h2 id="costs">What are the Costs of Cardiac CT Angiography Tests in Americas?</h2>

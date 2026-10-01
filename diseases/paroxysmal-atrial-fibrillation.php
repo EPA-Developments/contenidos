@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Paroxysmal Atrial Fibrillation: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Paroxysmal atrial fibrillation is a type of irregular heartbeat. Know more about its symptoms, causes, and treatments for effective control." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-atrial-fibrillation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-atrial-fibrillation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-atrial-fibrillation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-atrial-fibrillation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Paroxysmal Atrial Fibrillation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-atrial-fibrillation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-atrial-fibrillation"
       }]
     }
   </script>
@@ -166,15 +166,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Treatment of Paroxysmal Atrial Fibrillation</h1>
-<p>Paroxysmal Atrial Fibrillation (PAF) is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> that comes and goes intermittently. It is a significant cardiac arrhythmia due to its potential to lead to serious complications if left untreated.</p>
+<p>Paroxysmal Atrial Fibrillation (PAF) is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> that comes and goes intermittently. It is a significant cardiac arrhythmia due to its potential to lead to serious complications if left untreated.</p>
 <p>PAF is characterized by episodes of rapid, irregular heartbeats originating in the atria, which can disrupt the heart's normal rhythm.</p>
 <p>This condition affects millions of individuals worldwide and can have a significant impact on a person's health and quality of life.</p>
 <p>Essential Functions and Impact of Paroxysmal Atrial Fibrillation:</p>
 <p>In a healthy heart, electrical signals coordinate each heartbeat, ensuring blood is pumped efficiently throughout the body. However, in PAF, these signals become chaotic, causing the atria to quiver instead of contracting effectively.</p>
 <p>This can lead to blood pooling in the atria, increasing the risk of blood clots that can travel to the brain and cause a stroke.</p>
-<p>Additionally, the irregular heartbeat can compromise the heart's ability to pump effectively, leading to symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort.</p>
+<p>Additionally, the irregular heartbeat can compromise the heart's ability to pump effectively, leading to symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort.</p>
 <p>Short-term and Long-term Health Risks:</p>
-<p>Untreated PAF poses both short-term and long-term health risks. In the short term, individuals with PAF may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting episodes during atrial fibrillation episodes. These symptoms can significantly impact daily activities and quality of life.</p>
+<p>Untreated PAF poses both short-term and long-term health risks. In the short term, individuals with PAF may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting episodes during atrial fibrillation episodes. These symptoms can significantly impact daily activities and quality of life.</p>
 <p>Long-term risks include an increased risk of stroke, heart failure, and other cardiovascular complications. Moreover, persistent untreated PAF can weaken the heart muscle over time, leading to more severe consequences.</p>
 <p>Asymptomatic Nature and Importance of Early Detection:</p>
 <p>One challenge with PAF is its asymptomatic nature in the early stages. Some individuals may not experience noticeable symptoms during episodes of atrial fibrillation, making early detection crucial.</p>
@@ -182,7 +182,7 @@
 <h3>Causes of Paroxysmal Atrial Fibrillation</h3>
 <p>Primary Causes of Paroxysmal Atrial Fibrillation:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>): Chronic high blood pressure can lead to structural changes in the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/left-atrial-enlargement">left atrial enlargement</a>, increasing the risk of atrial fibrillation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>): Chronic high blood pressure can lead to structural changes in the heart, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/left-atrial-enlargement">left atrial enlargement</a>, increasing the risk of atrial fibrillation.</li>
 <li>Coronary Artery Disease: Narrowed or blocked coronary arteries can disrupt the heart's blood supply, affecting its electrical system and potentially triggering atrial fibrillation.</li>
 <li>Valvular Heart Disease: Malfunctioning heart valves can alter blood flow patterns, contributing to atrial fibrillation development.</li>
 <li>Thyroid Disorders: Thyroid imbalances, particularly hyperthyroidism, can disrupt the heart's electrical activity, increasing the risk of atrial fibrillation.</li>
@@ -190,7 +190,7 @@
 <p>Secondary Risk Factors and Lifestyle Contributors:</p>
 <ul>
 <li>Obesity: Excess weight puts strain on the heart and can contribute to the development of atrial fibrillation.</li>
-<li>Sleep Apnea: Untreated sleep apnea can lead to episodes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a>, increasing the risk of atrial fibrillation.</li>
+<li>Sleep Apnea: Untreated sleep apnea can lead to episodes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a>, increasing the risk of atrial fibrillation.</li>
 <li>Excessive Alcohol Consumption: Alcohol can trigger atrial fibrillation episodes in susceptible individuals, highlighting the importance of moderation.</li>
 </ul>
 <h2 id="causes">Symptoms of Paroxysmal Atrial Fibrillation</h2>

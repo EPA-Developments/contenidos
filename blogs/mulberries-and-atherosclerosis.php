@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mulberries and Atherosclerosis: A Vital Link" />
     <meta property="og:description" content="Explore how mulberries impact atherosclerosis. Improve arterial health naturally. Prevent plaque buildup for better heart protection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mulberries And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Link: Mulberries and Atherosclerosis</h1>
-<p>Have you ever wondered how mulberries could impact <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, affecting your arterial health and potentially playing a role in <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention? Understanding this connection is crucial for maintaining optimal blood flow and overall vascular health. Let's explore the fascinating relationship between mulberries and atherosclerosis and how it influences your well-being on a daily basis.</p>
+<p>Have you ever wondered how mulberries could impact <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, affecting your arterial health and potentially playing a role in <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention? Understanding this connection is crucial for maintaining optimal blood flow and overall vascular health. Let's explore the fascinating relationship between mulberries and atherosclerosis and how it influences your well-being on a daily basis.</p>
 <h2 class="sec-scrl" id="arterial-plaque">Arterial Plaque: How Mulberries Help Prevent Plaque Buildup</h2>
 <p>Arterial plaque, a sticky substance made up of fat, cholesterol, calcium, and other substances found in the blood, can accumulate within your arteries, leading to atherosclerosis. Mulberries, packed with antioxidants like resveratrol and anthocyanins, play a crucial role in preventing plaque buildup by reducing inflammation and oxidative stress in the arteries.</p>
 <p>These powerful antioxidants help combat the free radicals that contribute to the formation of arterial plaque, promoting clearer and healthier arteries. By incorporating mulberries into your diet, you can actively support your arterial health and reduce the risk of developing atherosclerosis.</p>

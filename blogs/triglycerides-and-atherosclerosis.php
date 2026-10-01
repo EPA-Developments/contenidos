@@ -10,12 +10,12 @@
     <meta property="og:title" content="Triglycerides and Atherosclerosis: Understanding the Link" />
     <meta property="og:description" content="Discover how triglycerides impact atherosclerosis progression and heart health. Learn more now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Triglycerides And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Triglycerides and Atherosclerosis: A Critical Connection</h1>
-<p>Do you know how Triglycerides and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> impact your daily life? High levels of triglycerides can be concerning, but understanding their role in atherosclerosis is crucial for managing your health effectively. Let's explore how these fatty molecules contribute to the development of arterial blockages and plaque formation, potentially leading to severe consequences like heart attacks and compromised blood flow.</p>
+<p>Do you know how Triglycerides and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> impact your daily life? High levels of triglycerides can be concerning, but understanding their role in atherosclerosis is crucial for managing your health effectively. Let's explore how these fatty molecules contribute to the development of arterial blockages and plaque formation, potentially leading to severe consequences like heart attacks and compromised blood flow.</p>
 <h2 class="sec-scrl" id="plaque-build-up">How Do Triglycerides Contribute to Plaque Build-Up?</h2>
 <p>Triglycerides are a type of fat in your blood that your body uses for energy. When you have an excess of triglycerides in your bloodstream, they can combine with other substances to form plaque in your arteries. This plaque buildup can narrow the arteries, restricting blood flow and increasing the risk of arterial blockages. Moreover, high levels of triglycerides are often associated with low levels of "good" cholesterol, further exacerbating the formation of plaque in the coronary arteries.</p>
 <p>Here are some key points to consider regarding how triglycerides contribute to plaque formation:</p>

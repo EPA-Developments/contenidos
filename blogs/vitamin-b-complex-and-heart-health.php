@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin B Complex for Heart Health" />
     <meta property="og:description" content="Discover how Vitamin B Complex supports heart health. Learn about Vitamin B6, B12, Folate, and Homocysteine's impact on heart rhythm, nerve function, cholesterol regulation, and metabolic function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-b-complex-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-b-complex-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-b-complex-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-b-complex-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin B Complex And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-b-complex-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-b-complex-and-heart-health"
         }
     ]
 }
@@ -147,7 +147,7 @@
 </ul>
 <h2 class="sec-scrl" id="cholesterol-regulation">How Does Vitamin B Complex Aid in Cholesterol Regulation?</h2>
 <p>Cholesterol regulation is essential for heart health, and Vitamin B Complex can play a significant role in maintaining healthy cholesterol levels. Folate, a key B vitamin, works synergistically with B6 and B12 to metabolize homocysteine, a compound linked to an increased risk of heart disease.</p>
-<p>By reducing homocysteine levels, Vitamin B Complex helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart attacks. Additionally, these vitamins support the conversion of homocysteine into beneficial compounds, promoting cardiovascular health.</p>
+<p>By reducing homocysteine levels, Vitamin B Complex helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart attacks. Additionally, these vitamins support the conversion of homocysteine into beneficial compounds, promoting cardiovascular health.</p>
 <ul>
 <li>Folate aids in the breakdown of homocysteine, protecting the heart from potential damage.</li>
 <li>Vitamin B6 and B12 facilitate the conversion of homocysteine into methionine, an essential amino acid for heart health.</li>

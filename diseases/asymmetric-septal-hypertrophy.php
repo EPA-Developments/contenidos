@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Asymmetric Septal Hypertrophy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Asymmetric Septal Hypertrophy thickens heart walls, affecting function. Know its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/asymmetric-septal-hypertrophy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/asymmetric-septal-hypertrophy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/asymmetric-septal-hypertrophy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/asymmetric-septal-hypertrophy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Asymmetric Septal Hypertrophy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/asymmetric-septal-hypertrophy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/asymmetric-septal-hypertrophy"
       }]
     }
   </script>
@@ -161,17 +161,17 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Asymmetric Septal Hypertrophy</h1>
-<p>Asymmetric septal hypertrophy is a condition where the wall dividing the heart's chambers becomes abnormally thick, impacting blood flow. This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. It's a significant concern as it may increase the risk of heart failure and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. While relatively uncommon, it's a prevalent cause of heart-related issues in young athletes. Regular check-ups and monitoring are crucial for early detection and management to prevent complications.</p>
+<p>Asymmetric septal hypertrophy is a condition where the wall dividing the heart's chambers becomes abnormally thick, impacting blood flow. This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fainting. It's a significant concern as it may increase the risk of heart failure and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. While relatively uncommon, it's a prevalent cause of heart-related issues in young athletes. Regular check-ups and monitoring are crucial for early detection and management to prevent complications.</p>
 <h2 id="causes">Causes of Asymmetric Septal Hypertrophy</h2>
-<p>Asymmetric septal hypertrophy can develop due to various factors. These include genetics, where a family history of the condition increases the risk. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can also play a role in its development. Additionally, conditions like aortic stenosis, thyroid disease, and certain genetic disorders can contribute to the asymmetrical thickening of the heart muscle. Lifestyle factors such as excessive alcohol consumption or certain medications may also be implicated. It's essential to manage these factors to help prevent or control asymmetric septal hypertrophy.</p>
+<p>Asymmetric septal hypertrophy can develop due to various factors. These include genetics, where a family history of the condition increases the risk. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can also play a role in its development. Additionally, conditions like aortic stenosis, thyroid disease, and certain genetic disorders can contribute to the asymmetrical thickening of the heart muscle. Lifestyle factors such as excessive alcohol consumption or certain medications may also be implicated. It's essential to manage these factors to help prevent or control asymmetric septal hypertrophy.</p>
 <h2 id="symptoms">Symptoms of Asymmetric Septal Hypertrophy</h2>
 <p>Recognizing the symptoms of Asymmetric Septal Hypertrophy (ASH) is crucial for early detection and improved outcomes. This condition, characterized by abnormal thickening of the heart muscle, can lead to serious complications if left untreated. Symptoms of ASH may include:
 
 <ul>
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath, especially during exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Fatigue or weakness</li>
 </ul>
 

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Understanding Heart Abnormalities & Symptoms&quot;" />
     <meta property="og:description" content="Learn about common heart abnormalities and their symptoms to stay informed about your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-abnormalities" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-abnormalities" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-abnormalities" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-abnormalities" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Abnormalities",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-abnormalities"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-abnormalities"
         }
     ]
 }
@@ -169,14 +169,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Understanding Heart Abnormalities and Symptoms</h1>
-<p>Have you ever experienced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-chest-pain">sudden chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> that made you pause in your daily activities? These could be warning signs of heart abnormalities that require attention. How do you know if your heart is at risk, and what can you do to protect it?</p>
+<p>Have you ever experienced <a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-chest-pain">sudden chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> that made you pause in your daily activities? These could be warning signs of heart abnormalities that require attention. How do you know if your heart is at risk, and what can you do to protect it?</p>
 <h2 class="sec-scrl" id="heart-abnormalities-symptoms">Heart Abnormalities Symptoms</h2>
 <p>Heart abnormalities can manifest in various ways, often with subtle symptoms that may be easy to overlook. Some common signs to watch out for include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Shortness of breath</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 <p>These symptoms can significantly impact your daily life, making simple tasks like walking up a flight of stairs or even resting comfortably challenging.</p>
 <h2 class="sec-scrl" id="common-heart-conditions">Common Heart Conditions</h2>
@@ -185,13 +185,13 @@
 <li>Cardiac rhythm abnormalities</li>
 <li>Valve issues</li>
 <li>Congenital heart defects</li>
-<li>Heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a></li>
+<li>Heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a></li>
 </ul>
 <p>Each of these conditions presents its unique set of symptoms and complications, requiring specific diagnostic approaches and treatment plans.</p>
 <h2 class="sec-scrl" id="diagnosing-heart-issues">Diagnosing Heart Issues</h2>
 <p>When experiencing symptoms suggestive of heart abnormalities, it is crucial to seek medical evaluation promptly. Healthcare providers may use various diagnostic tests to assess your heart health, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG)</li>
 <li>Echocardiogram</li>
 <li>Cardiac MRI or CT scan</li>
 <li>Stress tests</li>

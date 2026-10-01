@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sodium Impact on Blood Pressure & Heart Health&quot;" />
     <meta property="og:description" content="Discover the impact of sodium on blood pressure and heart health. Learn how sodium levels affect your cardiovascular risk." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Sodium on Blood Pressure &amp; Heart Health</h1>
 <p>Are you concerned about how sodium intake impacts your blood pressure? Does the thought of sodium affecting your heart health worry you, making daily activities seem daunting?</p>
 <h2 class="sec-scrl" id="sodium-and-blood-pressure">Sodium and Blood Pressure</h2>
-<p>Sodium plays a crucial role in regulating blood pressure. When you consume sodium, your body retains water to maintain a proper balance of electrolytes. However, too much sodium can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Sodium plays a crucial role in regulating blood pressure. When you consume sodium, your body retains water to maintain a proper balance of electrolytes. However, too much sodium can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <p>High sodium intake can cause the body to hold onto extra water, putting an added burden on the heart and blood vessels. This increased fluid volume makes your heart work harder to pump blood, leading to elevated blood pressure levels.</p>
 <h2 class="sec-scrl" id="high-sodium">High Sodium and Hypertension</h2>
 <p>Excessive consumption of high-sodium foods, such as processed snacks, canned soups, and fast food, can significantly raise your blood pressure. The recommended daily intake of sodium is around 2,300 milligrams, but most people consume much more than that, increasing their risk of hypertension.</p>

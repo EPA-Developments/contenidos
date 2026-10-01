@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D and Aging Heart Health" />
     <meta property="og:description" content="Explore the heart-healthy advantages of Vitamin D for aging adults. Unlock the secrets to a healthier heart and stronger bones naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-aging-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-aging-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-aging-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-aging-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Aging Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-aging-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-aging-heart"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="geriatric cardiovascular health">Geriatric Cardiovascular Health</h2>
 <p>As we age, our cardiovascular system undergoes changes that can impact our heart health. Vitamin D, often known as the sunshine vitamin, plays a crucial role in supporting geriatric cardiovascular health. Here's how:</p>
 <ul>
-<li>Vitamin D helps regulate blood pressure, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a common issue in the elderly.</li>
+<li>Vitamin D helps regulate blood pressure, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a common issue in the elderly.</li>
 <li>It supports overall heart function by improving cardiac muscle contractility.</li>
 <li>Low levels of Vitamin D have been associated with an increased risk of cardiovascular diseases in aging adults.</li>
 </ul>

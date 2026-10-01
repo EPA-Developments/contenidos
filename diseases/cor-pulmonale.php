@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cor Pulmonale: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cor Pulmonale causes heart failure due to lung disease. Know more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cor-pulmonale">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cor-pulmonale">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cor-pulmonale" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cor-pulmonale" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cor Pulmonale",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cor-pulmonale"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cor-pulmonale"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes, and Treatment of Cor Pulmonale</h1>
-<p>Cor Pulmonale is a condition where the right side of the heart becomes enlarged and strained due to lung disease or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the lungs. It's essential because it can lead to heart failure if not managed. Although less common today due to improved treatments, it still occurs in people with chronic lung conditions like COPD. Early detection and treatment are crucial to prevent complications. If you have any symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or swelling, consult a healthcare provider promptly.</p>
+<p>Cor Pulmonale is a condition where the right side of the heart becomes enlarged and strained due to lung disease or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the lungs. It's essential because it can lead to heart failure if not managed. Although less common today due to improved treatments, it still occurs in people with chronic lung conditions like COPD. Early detection and treatment are crucial to prevent complications. If you have any symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or swelling, consult a healthcare provider promptly.</p>
 <h2 id="causes">Causes of Cor Pulmonale</h2>
 <p>Cor Pulmonale, a condition where the right side of the heart fails due to lung disease, is often caused by several factors. These include:
 
 <ul>
 <li>Chronic obstructive pulmonary disease (COPD)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a></li>
 <li>Cystic fibrosis</li>
 <li>Long-term exposure to high altitudes</li>
 <li>Sleep apnea</li>
@@ -178,11 +178,11 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Swelling in the legs and abdomen</li>
-<li>Bluish discoloration of the skin (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li>Bluish discoloration of the skin (<a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 <li>Decreased exercise tolerance</li>
 </ul>
 
@@ -194,7 +194,7 @@ Prompt recognition of these signs can lead to early diagnosis and appropriate tr
 <li>Medical history review to assess risk factors and symptoms.</li>
 <li>Physical examination to check for signs like cyanosis or edema.</li>
 <li>Chest X-ray to evaluate heart and lung changes.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
 <li>Pulmonary function tests to measure lung capacity.</li>
 <li>Blood tests to evaluate oxygen levels and other markers.</li>
 </ul></p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Guava Benefits for Heart Health: A Complete Guide" />
     <meta property="og:description" content="Discover the cardiovascular benefits of guava for heart health. Learn about its nutrients, antioxidants, and role in preventing heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-for-heart-health"
         }
     ]
 }
@@ -137,13 +137,13 @@
 <p>Can guava help prevent heart disease? The answer lies in its powerful combination of nutrients and antioxidants. Guava's high levels of vitamin C and fiber play a crucial role in reducing the risk factors associated with heart disease. The antioxidants present in guava protect the heart by neutralizing free radicals, preventing damage to the cardiovascular system.</p>
 <p>Regular consumption of guava has been linked to lower blood pressure levels and improved lipid profiles, which are key indicators of heart health. By incorporating guava into your diet, you can take proactive steps towards preventing heart disease and maintaining a healthy heart.</p>
 <h2 class="sec-scrl" id="cardiovascular-benefits">Cardiovascular Benefits</h2>
-<p>What specific benefits does guava offer for your cardiovascular system? Guava's potassium content helps regulate blood pressure, reducing the strain on the heart and lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. The fiber in guava aids in controlling cholesterol levels, especially LDL cholesterol, which can lead to plaque buildup in the arteries.</p>
+<p>What specific benefits does guava offer for your cardiovascular system? Guava's potassium content helps regulate blood pressure, reducing the strain on the heart and lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. The fiber in guava aids in controlling cholesterol levels, especially LDL cholesterol, which can lead to plaque buildup in the arteries.</p>
 <ul>
 <li>Improved heart function</li>
 <li>Reduced inflammation</li>
 <li>Enhanced blood circulation</li>
 </ul>
-<p>Guava also supports the health of blood vessels, promoting optimal blood flow and preventing conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. The combination of nutrients in guava works synergistically to protect your heart and maintain its optimal function.</p>
+<p>Guava also supports the health of blood vessels, promoting optimal blood flow and preventing conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. The combination of nutrients in guava works synergistically to protect your heart and maintain its optimal function.</p>
 <h2 class="sec-scrl" id="guava-antioxidants">Guava Antioxidants</h2>
 <p>How do the antioxidants in guava benefit your heart? Guava is a powerhouse of antioxidants, including vitamin C, carotenoids, and polyphenols. These antioxidants help combat oxidative stress and inflammation in the body, both of which are major contributors to heart disease.</p>
 <p>By neutralizing free radicals, guava antioxidants protect the heart muscles and blood vessels from damage, reducing the risk of cardiovascular issues. Regular consumption of guava can help strengthen your body's defense mechanisms against heart-related conditions and support overall heart health.</p>

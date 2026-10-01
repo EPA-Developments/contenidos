@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fennel Seed for Hypertension Relief&quot;" />
     <meta property="og:description" content="Discover how fennel seed helps manage hypertension naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Fennel Seed for Hypertension: A Natural Solution</h1>
-<p>Are you struggling to keep your blood pressure under control? The constant monitoring, the restrictions on what you can eat, the fear of complications – dealing with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can be overwhelming. How can you effectively manage your blood pressure and still enjoy a good quality of life?</p>
+<p>Are you struggling to keep your blood pressure under control? The constant monitoring, the restrictions on what you can eat, the fear of complications – dealing with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can be overwhelming. How can you effectively manage your blood pressure and still enjoy a good quality of life?</p>
 <p>One potential solution that has been gaining attention for its antihypertensive properties is fennel seed. This humble spice, commonly found in kitchens around the world, may hold the key to helping you regulate your blood pressure naturally. Let's explore the potential benefits of fennel seed in managing hypertension.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Does Fennel Seed Aid in Blood Pressure Regulation?</h2>
 <p>Fennel seed contains bioactive compounds that have been shown to have a positive effect on blood pressure levels. Some of the ways in which fennel seed may help regulate blood pressure include:</p>
@@ -140,7 +140,7 @@
 </ul>
 <p>By incorporating fennel seed into your diet, you may be able to naturally support your body's efforts to maintain healthy blood pressure levels.</p>
 <h2 class="sec-scrl" id="hypertensive-heart-disease">Can Fennel Seed Help Prevent Hypertensive Heart Disease?</h2>
-<p>Hypertensive heart disease is a serious condition that can result from long-term, uncontrolled <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. The heart has to work harder to pump blood against elevated pressure, leading to complications such as heart failure, thickening of the heart muscle, and coronary artery disease.</p>
+<p>Hypertensive heart disease is a serious condition that can result from long-term, uncontrolled <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. The heart has to work harder to pump blood against elevated pressure, leading to complications such as heart failure, thickening of the heart muscle, and coronary artery disease.</p>
 <p>Studies suggest that the antioxidant properties of fennel seed may help protect the heart from the damaging effects of hypertension. By reducing oxidative stress and inflammation, fennel seed could potentially lower the risk of developing hypertensive heart disease.</p>
 <h2 class="sec-scrl" id="antihypertensive">Is Fennel Seed an Effective Antihypertensive Agent?</h2>
 <p>As an antihypertensive agent, fennel seed offers a natural alternative to conventional blood pressure medications. The compounds found in fennel seed have been reported to have blood pressure-lowering effects, making it a promising option for individuals looking to manage hypertension without relying solely on prescription drugs.</p>

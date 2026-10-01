@@ -10,12 +10,12 @@
     <meta property="og:title" content="Synergistic Benefits of Broccoli & Vegetables for Heart Health" />
     <meta property="og:description" content="Discover how broccoli and other vegetables boost heart health synergistically. Learn about their benefits for your cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-other-vegetables" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-other-vegetables" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-other-vegetables" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-other-vegetables" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Other Vegetables",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-other-vegetables"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-other-vegetables"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>Additionally, other green vegetables such as spinach, kale, and Brussels sprouts are rich in vitamins, minerals, and phytochemicals that support overall heart health. These vegetables work synergistically to improve blood circulation, regulate blood pressure, and maintain vascular health, all of which are crucial for reducing cardiovascular risk.</p>
 <ul>
 <li>Broccoli, spinach, kale, and Brussels sprouts are excellent sources of vitamins C and K, which play a key role in supporting heart function.</li>
-<li>The fiber content in these vegetables helps lower cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
+<li>The fiber content in these vegetables helps lower cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
 <li>Antioxidants like lutein and beta-carotene found in green vegetables protect against oxidative damage and inflammation in the cardiovascular system.</li>
 </ul>
 <h2 class="sec-scrl" id="healthy-diet">Healthy Diet</h2>
@@ -147,7 +147,7 @@
 <li>Combine green vegetables with other fiber-rich foods like whole grains, legumes, and nuts to create balanced and satisfying meals that promote cardiovascular wellness.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but incorporating green vegetables into your diet can help manage and reduce blood pressure levels. Vegetables like broccoli, Swiss chard, and collard greens are rich in potassium, magnesium, and dietary nitrates, all of which play a role in regulating blood pressure.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but incorporating green vegetables into your diet can help manage and reduce blood pressure levels. Vegetables like broccoli, Swiss chard, and collard greens are rich in potassium, magnesium, and dietary nitrates, all of which play a role in regulating blood pressure.</p>
 <p>By including these vegetables in your meals regularly, you can support healthy blood pressure levels and reduce the strain on your heart and blood vessels, ultimately lowering your risk of cardiovascular issues.</p>
 <ul>
 <li>Green leafy vegetables are excellent sources of potassium, which helps relax blood vessels and lower blood pressure.</li>

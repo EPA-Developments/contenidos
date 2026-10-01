@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Edema: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Peripheral edema could be a sign of heart issues. Know more about its symptoms, causes, diagnosis, and treatment options for your well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Edema",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema"  
       }]
     }
   </script>
@@ -203,7 +203,7 @@
 <h2 id="causes">What are the Causes of Peripheral edema?</h2>
 <p>Peripheral edema can have various causes, including:</p>
 <ul>
-<li>Heart disease: Conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure">congestive heart failure</a> can lead to fluid retention in the body, resulting in peripheral edema.</li>
+<li>Heart disease: Conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure">congestive heart failure</a> can lead to fluid retention in the body, resulting in peripheral edema.</li>
 <li>Kidney disease: Impaired kidney function can disrupt the body's fluid balance, leading to edema in the extremities.</li>
 <li>Venous insufficiency: When the veins in the legs do not efficiently return blood to the heart, fluid can accumulate in the tissues, causing swelling.</li>
 <li>Liver disease: Liver cirrhosis or other liver conditions can result in fluid retention and peripheral edema.</li>
@@ -216,7 +216,7 @@
 <li>Physical examination: Healthcare providers will assess the extent and location of swelling in the extremities.</li>
 <li>Ultrasound: An ultrasound can help visualize the blood flow in the veins and identify any blockages or abnormalities.</li>
 <li>Blood tests: Blood tests may be conducted to evaluate kidney function, liver function, and electrolyte levels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This test can assess the structure and function of the heart to determine if heart disease is causing the edema.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This test can assess the structure and function of the heart to determine if heart disease is causing the edema.</li>
 </ul>
 <p>In some cases, additional imaging tests, such as CT scans or MRIs, may be recommended to further evaluate the underlying cause of peripheral edema. A comprehensive diagnostic approach is essential to ensure accurate diagnosis and appropriate treatment.</p>
 <h2 id="treatment">What is the Treatment for Peripheral edema?</h2>
@@ -234,7 +234,7 @@
 <ul>
 <li>Sudden or unexplained swelling in the extremities</li>
 <li>Swelling accompanied by pain, redness, or warmth</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Rapid weight gain</li>
 <li>Swelling that does not improve with home remedies or self-care measures</li>
 </ul>

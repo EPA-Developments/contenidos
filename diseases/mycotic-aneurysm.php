@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mycotic Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Mycotic Aneurysm leads to infected blood vessels. Read more about the symptoms, causes, and treatment for healthy blood circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mycotic-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mycotic-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mycotic-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mycotic-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mycotic Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mycotic-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mycotic-aneurysm"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Mycotic Aneurysm</h1>
-<p>Mycotic aneurysm is a weakened, bulging area in a blood vessel caused by an infection. It is a serious condition as the weakened vessel can rupture, leading to life-threatening bleeding. Although rare, mycotic aneurysms are significant due to their potential complications. They are more common in individuals with conditions that weaken the immune system, such as HIV or cancer. If you suspect you have symptoms like severe abdominal or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>, seek immediate medical attention to prevent complications.</p>
+<p>Mycotic aneurysm is a weakened, bulging area in a blood vessel caused by an infection. It is a serious condition as the weakened vessel can rupture, leading to life-threatening bleeding. Although rare, mycotic aneurysms are significant due to their potential complications. They are more common in individuals with conditions that weaken the immune system, such as HIV or cancer. If you suspect you have symptoms like severe abdominal or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>, seek immediate medical attention to prevent complications.</p>
 <h2 id="causes">Causes of Mycotic Aneurysm</h2>
 <p>Mycotic aneurysms develop due to infections that weaken the blood vessel walls, making them susceptible to bulging and potential rupture. Several factors contribute to their development:
 
 <ul>
 <li>Bacterial or fungal infections affecting the arterial wall</li>
-<li>Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> or sepsis that increase infection risk</li>
+<li>Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> or sepsis that increase infection risk</li>
 <li>Immune system deficiencies that make the body vulnerable to infections</li>
 <li>History of vascular surgeries or trauma that can damage blood vessels</li>
 <li>Untreated infections spreading to nearby blood vessels</li>
@@ -178,7 +178,7 @@
 <ul>
 <li>Unexplained fever</li>
 <li>Persistent abdominal or back pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or fatigue</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or fatigue</li>
 <li>Sudden, severe headache</li>
 <li>Nausea or vomiting</li>
 <li>Weight loss</li>
@@ -237,7 +237,7 @@ If you experience any of these symptoms, especially if you have risk factors suc
 <h3>Supportive Care:</h3>
 <ul>
 <li>Follow your healthcare provider's recommendations for managing underlying conditions like infections.</li>
-<li>Take medications as prescribed to control risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>.</li>
+<li>Take medications as prescribed to control risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>.</li>
 <li>Engage in regular physical activity to improve overall cardiovascular health.</li>
 </ul></p>
 <p>If you’ve been having any symptoms or worries about Mycotic Aneurysm, please reach out to our doctors. They will listen to your concerns, answer your questions and guide you through the next steps.</p>

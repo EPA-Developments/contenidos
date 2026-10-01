@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endothelial Dysfunction: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Endothelial Dysfunction affects blood vessel function. Know more about its symptoms, causes, and treatment for improved circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endothelial Dysfunction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction"
       }]
     }
   </script>
@@ -169,15 +169,15 @@
 <p>Endothelial Dysfunction is a condition characterized by impaired functioning of the endothelium, the inner lining of blood vessels. This dysfunction is significant as the endothelium plays a crucial role in regulating vascular tone, blood flow, inflammation, and clotting.</p>
 <p>It is prevalent in various cardiovascular diseases and is associated with a higher risk of heart attacks, strokes, and other vascular issues.</p>
 <p>Endothelial Dysfunction can impact health by reducing the ability of blood vessels to dilate, leading to increased blood pressure and reduced oxygen and nutrient delivery to tissues.</p>
-<p>In the short term, this can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and fatigue, while in the long term, it can lead to serious cardiovascular events if left untreated.</p>
+<p>In the short term, this can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and fatigue, while in the long term, it can lead to serious cardiovascular events if left untreated.</p>
 <p>One challenge with Endothelial Dysfunction is its asymptomatic nature in the early stages, emphasizing the importance of early detection through regular screenings for at-risk individuals.</p>
 <h2 id="causes">Causes of Endothelial Dysfunction</h2>
-<p>Several factors contribute to the development of Endothelial Dysfunction. Primary causes include <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, smoking, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels. Hypertension exerts excessive pressure on blood vessel walls, leading to endothelial damage over time.</p>
+<p>Several factors contribute to the development of Endothelial Dysfunction. Primary causes include <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, smoking, and <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels. Hypertension exerts excessive pressure on blood vessel walls, leading to endothelial damage over time.</p>
 <p>Diabetes increases blood sugar levels, causing inflammation and oxidative stress that harm the endothelium. Smoking introduces harmful chemicals that directly damage endothelial cells, impairing their function.</p>
 <p>High cholesterol contributes to the formation of plaques in arteries, affecting the endothelium's ability to regulate blood flow.</p>
 <p>Secondary risk factors such as obesity, sedentary lifestyle, and stress can also worsen Endothelial Dysfunction by promoting inflammation, oxidative stress, and endothelial damage.</p>
 <h2 id="symptoms">Symptoms of Endothelial Dysfunction</h2>
-<p>Early symptoms of Endothelial Dysfunction may include fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort during physical exertion. These symptoms can impact daily activities and energy levels, often leading individuals to seek medical attention.</p>
+<p>Early symptoms of Endothelial Dysfunction may include fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort during physical exertion. These symptoms can impact daily activities and energy levels, often leading individuals to seek medical attention.</p>
 <p>Advanced symptoms may manifest as persistent chest pain, irregular heartbeats, and swelling in the extremities. These symptoms can significantly affect physical well-being and emotional health, causing anxiety and stress due to the severity of the condition.</p>
 <h2>Diagnosis of Endothelial Dysfunction</h2>
 <p>Diagnosing Endothelial Dysfunction typically involves a multi-step approach to assess vascular health accurately. Tests such as endothelial function assessment, blood pressure monitoring, lipid profile analysis, and imaging studies like ultrasound or angiography are essential for detecting endothelial dysfunction.</p>

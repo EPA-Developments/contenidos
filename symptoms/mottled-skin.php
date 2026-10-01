@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mottled Skin: Causes, Symptoms, and Treatment Guide">
   <meta property="og:description" content="Experiencing mottled skin? Learn about causes, symptoms, and treatment options for mottled skin, including its link to circulatory problems and heart disease. Know when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/mottled-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/mottled-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/mottled-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/mottled-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Mottled Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/mottled-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/mottled-skin"  
       }]
     }
   </script>
@@ -202,7 +202,7 @@
 <h2 id="causes">What are the Causes of Mottled skin?</h2>
 <p>Mottled skin can be caused by various factors, including:</p>
 <ul>
-<li>Circulatory problems: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> can result in uneven blood flow and skin discoloration.</li>
+<li>Circulatory problems: <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> can result in uneven blood flow and skin discoloration.</li>
 <li>Heart disease: Certain heart conditions can lead to mottled skin due to inadequate blood supply.</li>
 <li>Infection: Skin infections can cause inflammation and discoloration.</li>
 <li>Medications: Some drugs may cause changes in skin pigmentation.</li>

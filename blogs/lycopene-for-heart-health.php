@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tomato Lycopene: Heart Health Benefits" />
     <meta property="og:description" content="Discover how tomato lycopene boosts heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lycopene-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lycopene-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lycopene-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lycopene-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lycopene For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lycopene-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lycopene-for-heart-health"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <p>Tomatoes are not just a flavorful addition to your meals; they also contain a potent antioxidant called lycopene. This natural compound has been linked to various health benefits, particularly when it comes to supporting heart health. Understanding how lycopene works and its importance for your heart can empower you to make informed choices for a healthier lifestyle.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">How Does Lycopene Contribute to Heart Disease Prevention?</h2>
 <p>Lycopene is known for its powerful antioxidant properties, which can help protect your heart from the damaging effects of free radicals. These unstable molecules can cause oxidative stress in the body, leading to inflammation and damage to the blood vessels. By neutralizing free radicals, lycopene helps reduce the risk of heart disease and promotes overall cardiovascular health.</p>
-<p>In addition to its antioxidant effects, lycopene has been shown to support circulatory health by promoting proper blood flow and reducing the buildup of plaque in the arteries. This can lower the risk of conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, which can restrict blood flow to the heart and increase the likelihood of heart attacks or strokes.</p>
+<p>In addition to its antioxidant effects, lycopene has been shown to support circulatory health by promoting proper blood flow and reducing the buildup of plaque in the arteries. This can lower the risk of conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, which can restrict blood flow to the heart and increase the likelihood of heart attacks or strokes.</p>
 <h2 class="sec-scrl" id="antioxidants">How Do Antioxidants Like Lycopene Benefit Your Heart?</h2>
 <p>A diet rich in antioxidants, including lycopene, can help protect your heart against various risk factors associated with heart disease. Antioxidants work by counteracting the harmful effects of oxidative stress and inflammation, which are known to contribute to the development of cardiovascular conditions.</p>
 <p>By incorporating lycopene-rich foods like tomatoes into your diet, you can enhance your body's defense mechanisms against heart disease. These antioxidants not only combat free radicals but also help maintain healthy cholesterol levels, reduce blood pressure, and improve overall heart function.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atherosclerosis Diet: Managing the Disease Through Nutrition">
   <meta property="og:description" content="Discover how an atherosclerosis diet plays a crucial role in managing this condition. Learn effective dietary strategies to improve heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/atherosclerosis-diet-managing-disease-through-nutrition">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/atherosclerosis-diet-managing-disease-through-nutrition">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/atherosclerosis-diet-managing-disease-through-nutrition" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/atherosclerosis-diet-managing-disease-through-nutrition" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atherosclerosis Diet Managing Disease Through Nutrition",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/atherosclerosis-diet-managing-disease-through-nutrition"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/atherosclerosis-diet-managing-disease-through-nutrition"  
       }]
     }
   </script>

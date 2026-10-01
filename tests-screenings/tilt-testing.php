@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Tilt Testing: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Tilt testing helps find the cause of dizziness and fainting. Know more about its purpose, cost, and normal Range for accurate results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-testing" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-testing" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-testing" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-testing" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tilt Testing",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-testing"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-testing"  
       }]
     }
   </script>
@@ -176,12 +176,12 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of Tilt Testing</h1>
-<p>Tilt testing is a diagnostic procedure used to evaluate patients experiencing symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, fainting, or a sudden drop in blood pressure upon standing up.</p>
+<p>Tilt testing is a diagnostic procedure used to evaluate patients experiencing symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, fainting, or a sudden drop in blood pressure upon standing up.</p>
 <p>During a tilt test, the patient is strapped to a table that can be tilted to different angles, simulating a change in posture.</p>
 <p>This test helps healthcare providers assess how the body regulates blood flow and heart rate in response to changes in position.</p>
 <p>By monitoring the patient's symptoms, heart rate, and blood pressure during the test, doctors can identify potential causes of the symptoms and develop an appropriate treatment plan.</p>
 <p>Tilt testing is commonly used in cases where traditional diagnostic methods have been inconclusive in determining the underlying cause of symptoms.</p>
-<p>It can provide valuable insights into autonomic nervous system dysfunction, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension">postural hypotension</a>, and other cardiovascular conditions that may be contributing to the patient's symptoms.</p>
+<p>It can provide valuable insights into autonomic nervous system dysfunction, <a href="https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension">postural hypotension</a>, and other cardiovascular conditions that may be contributing to the patient's symptoms.</p>
 <h2 id="purpose">What is the Purpose of Performing a Tilt Testing Test?</h2>
 <p>The primary purpose of performing a tilt testing test is to diagnose and evaluate conditions that are characterized by dizziness, fainting, or changes in blood pressure upon standing.</p>
 <p>By inducing a controlled change in posture during the test, healthcare providers can observe how the patient's body responds and identify any abnormalities in blood flow regulation and heart rate.</p>
@@ -202,7 +202,7 @@
 <p>While some degree of discomfort or lightheadedness may be expected during a tilt test, severe symptoms like fainting or a significant drop in blood pressure may indicate an abnormal response to postural changes.</p>
 <h2>What Do High Tilt Testing Levels Indicate?</h2>
 <p>High tilt testing levels can indicate an exaggerated response of the cardiovascular system to changes in posture, leading to symptoms like dizziness, lightheadedness, or fainting.</p>
-<p>This abnormal response may be caused by conditions like vasovagal <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, or autonomic nervous system dysfunction.</p>
+<p>This abnormal response may be caused by conditions like vasovagal <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, or autonomic nervous system dysfunction.</p>
 <ul>
 <li>Causes of high tilt testing levels:</li>
 <li>Vasovagal syncope</li>
@@ -213,7 +213,7 @@
 <p>It is essential to identify the underlying cause of high tilt testing levels to develop an appropriate treatment plan.</p>
 <h2>What Do Low Tilt Testing Levels Indicate?</h2>
 <p>Low tilt testing levels can indicate a blunted or inadequate response of the cardiovascular system to changes in posture, leading to symptoms like dizziness, lightheadedness, or a drop in blood pressure.</p>
-<p>This abnormal response may be caused by conditions like neurocardiogenic syncope, <a href="https://plataforma.epa-bienestar.com.ar/diseases/postural-orthostatic-tachycardia-syndrome">postural orthostatic tachycardia syndrome</a> (POTS), or dehydration.</p>
+<p>This abnormal response may be caused by conditions like neurocardiogenic syncope, <a href="https://contenidos.segundaopinionmedica.org/diseases/postural-orthostatic-tachycardia-syndrome">postural orthostatic tachycardia syndrome</a> (POTS), or dehydration.</p>
 <ul>
 <li>Reasons for low tilt testing levels:</li>
 <li>Neurocardiogenic syncope</li>

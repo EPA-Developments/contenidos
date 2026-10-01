@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atherosclerosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Atherosclerosis clogs arteries, raising heart risks. Read more about its causes, symptoms, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Atherosclerosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis"
       }]
     }
   </script>
@@ -165,8 +165,8 @@
 <h2 id="causes">Causes of Atherosclerosis</h2>
 <p><h3>Main Factors Contributing to Atherosclerosis:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>)</li>
 <li>Smoking</li>
 <li>Obesity</li>
 <li>Diabetes</li>
@@ -175,10 +175,10 @@
 <p>Recognizing the symptoms of Atherosclerosis is crucial as early detection can significantly improve outcomes. Symptoms may vary depending on the affected arteries and organs. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in limbs</li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in limbs</li>
 <li>Poor wound healing</li>
 <li>Erectile dysfunction</li>
 <li>Cognitive impairment</li>
@@ -192,7 +192,7 @@ If you experience any of these symptoms, it's essential to consult a healthcare 
 <ul>
 <li>Physical examination and medical history</li>
 <li>Blood tests to check cholesterol levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
 <li>Echocardiogram to visualize heart structures</li>
 <li>Stress tests to evaluate heart function under exertion</li>
 <li>Angiography to visualize blockages in the arteries</li>

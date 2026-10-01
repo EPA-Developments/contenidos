@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acute Myocarditis: Symptoms, Causes, and Treatments">
   <meta property="og:description" content="Acute myocarditis is an inflammation of the heart muscle. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/acute-myocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/acute-myocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/acute-myocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/acute-myocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Acute Myocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/acute-myocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/acute-myocarditis"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Acute Myocarditis is a condition characterized by inflammation of the heart muscle, known as the myocardium. This condition can have a significant impact on a person's health, ranging from mild symptoms to severe complications.</p>
 <p>The prevalence of Acute Myocarditis is not well-established, as it can often go undiagnosed due to its asymptomatic nature in the early stages. However, it is estimated to affect a substantial number of individuals globally, with varying degrees of severity.</p>
 <p>The myocardium plays a crucial role in pumping blood throughout the body, and when inflamed, its ability to function optimally is compromised.</p>
-<p>Acute Myocarditis can lead to short-term symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, while untreated cases can result in long-term complications such as heart failure, arrhythmias, or even sudden cardiac death.</p>
+<p>Acute Myocarditis can lead to short-term symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, while untreated cases can result in long-term complications such as heart failure, arrhythmias, or even sudden cardiac death.</p>
 <p>Early detection through regular screenings is essential to prevent serious consequences and manage the condition effectively.</p>
 <h2 id="causes">Causes of Acute Myocarditis</h2>
 <p>The primary causes of Acute Myocarditis can vary, with several factors contributing to its development.</p>
@@ -180,7 +180,7 @@
 <li>Toxins - Exposure to certain toxins, chemicals, or drugs can result in myocardial inflammation. For example, heavy metals, certain medications, or recreational drugs can directly damage the heart muscle, causing Acute Myocarditis in susceptible individuals.</li>
 <li>Radiation Therapy - Cancer treatments like radiation therapy, especially when directed near the chest area, can inadvertently damage the heart muscle, leading to inflammation and subsequent Acute Myocarditis. P: Secondary risk factors or lifestyle contributors can also play a role in predisposing individuals to Acute Myocarditis.</li>
 <li>Smoking - Tobacco use can increase the risk of developing Acute Myocarditis by promoting inflammation and oxidative stress within the heart muscle.</li>
-<li>Poor Diet - Consuming a diet high in saturated fats, sugars, and processed foods can contribute to cardiovascular issues, including Acute Myocarditis, by promoting inflammation and <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>.</li>
+<li>Poor Diet - Consuming a diet high in saturated fats, sugars, and processed foods can contribute to cardiovascular issues, including Acute Myocarditis, by promoting inflammation and <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>.</li>
 <li>Stress - Chronic stress can impact the immune system and cardiovascular health, potentially increasing the susceptibility to Acute Myocarditis through prolonged inflammatory responses.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Acute Myocarditis</h2>
@@ -188,12 +188,12 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Chest Pain - Chest pain or discomfort may be present in the early stages of Acute Myocarditis, affecting daily activities and causing distress. This symptom can sometimes be mistaken for indigestion or muscle strain, delaying proper diagnosis and treatment.</li>
-<li>Fatigue - Experiencing unexplained fatigue or decreased energy levels can be an early sign of Acute Myocarditis. This symptom may impact daily routines and lead to feelings of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">lethargy</a>.</li>
+<li>Fatigue - Experiencing unexplained fatigue or decreased energy levels can be an early sign of Acute Myocarditis. This symptom may impact daily routines and lead to feelings of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">lethargy</a>.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li>Shortness of Breath - As Acute Myocarditis progresses, shortness of breath may become more prominent, affecting physical activities and causing emotional distress. Severe cases can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> even during rest, indicating significant heart involvement.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> - Arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> can develop in advanced Acute Myocarditis, posing serious health risks and potentially requiring immediate medical attention. These irregular heartbeats can disrupt normal heart function and increase the risk of complications.</li>
+<li>Shortness of Breath - As Acute Myocarditis progresses, shortness of breath may become more prominent, affecting physical activities and causing emotional distress. Severe cases can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> even during rest, indicating significant heart involvement.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> - Arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> can develop in advanced Acute Myocarditis, posing serious health risks and potentially requiring immediate medical attention. These irregular heartbeats can disrupt normal heart function and increase the risk of complications.</li>
 </ul>
 <h2>Diagnosis of Acute Myocarditis</h2>
 <p>Diagnosing Acute Myocarditis involves a series of tests to confirm the presence of myocardial inflammation and assess the extent of heart involvement.</p>

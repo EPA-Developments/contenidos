@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lower Cholesterol Naturally: Heart Healthy Foods&quot;" />
     <meta property="og:description" content="Learn how to lower cholesterol naturally with heart-healthy foods. Discover the power of plant sterols, soluble fiber, oats, and avocados." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-lowering-foods" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-lowering-foods" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-lowering-foods" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-lowering-foods" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol Lowering Foods",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-lowering-foods"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-lowering-foods"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Top Heart Healthy Foods for Lowering Cholesterol</h1>
-<p>Are you struggling to lower your cholesterol levels despite making lifestyle changes? Cholesterol Lowering Foods can be a game-changer when it comes to managing your cholesterol levels. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, especially LDL Cholesterol, can significantly increase your risk of heart disease. The impact of elevated cholesterol can hinder your daily activities and quality of life. But fear not, incorporating specific heart-healthy foods into your diet can help you combat high cholesterol levels effectively.</p>
+<p>Are you struggling to lower your cholesterol levels despite making lifestyle changes? Cholesterol Lowering Foods can be a game-changer when it comes to managing your cholesterol levels. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, especially LDL Cholesterol, can significantly increase your risk of heart disease. The impact of elevated cholesterol can hinder your daily activities and quality of life. But fear not, incorporating specific heart-healthy foods into your diet can help you combat high cholesterol levels effectively.</p>
 <h2 class="sec-scrl" id="plant-sterols">Plant Sterols</h2>
 <p>Plant Sterols are natural compounds found in plants that have been shown to reduce LDL Cholesterol levels. They work by blocking the absorption of cholesterol in the intestine, thereby lowering the levels of LDL Cholesterol in the bloodstream. Including foods rich in Plant Sterols, such as nuts, seeds, whole grains, and legumes, can be beneficial for your heart health.</p>
 <ul>

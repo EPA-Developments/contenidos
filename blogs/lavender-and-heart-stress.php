@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lavender for Heart Stress Relief&quot;" />
     <meta property="og:description" content="Explore how lavender aids in reducing heart stress. Learn about the benefits of lavender tea for stress relief and mental clarity." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lavender-and-heart-stress" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lavender-and-heart-stress" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lavender-and-heart-stress" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lavender-and-heart-stress" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lavender And Heart Stress",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lavender-and-heart-stress"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lavender-and-heart-stress"
         }
     ]
 }

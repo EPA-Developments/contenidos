@@ -10,12 +10,12 @@
     <meta property="og:title" content="Top 5 Heart Conditions Detected with 2D Echo" />
     <meta property="og:description" content="Discover the top 5 heart conditions diagnosed with a 2D echo test for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/2d-echo-test-uses" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/2d-echo-test-uses" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/2d-echo-test-uses" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/2d-echo-test-uses" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "2D Echo Test Uses",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/2d-echo-test-uses"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/2d-echo-test-uses"
         }
     ]
 }
@@ -169,16 +169,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Top 5 Heart Conditions Detected by 2D Echo Test</h1>
-<p>Are you experiencing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or fatigue that hinder your daily activities? Have you ever wondered how a 2D echo test can help in diagnosing heart conditions and improving heart health?</p>
+<p>Are you experiencing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or fatigue that hinder your daily activities? Have you ever wondered how a 2D echo test can help in diagnosing heart conditions and improving heart health?</p>
 <p>Let's dive into the world of 2D echo tests to understand how they play a crucial role in detecting various heart issues and enhancing overall cardiac well-being.</p>
 <h2 class="sec-scrl" id="2D echo heart test">2D Echo Heart Test</h2>
-<p>When it comes to assessing the health of your heart, a 2D echo test, also known as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, is a valuable tool. This non-invasive test uses sound waves to create detailed images of your heart's structure, allowing healthcare providers to evaluate its size, shape, and overall function.</p>
+<p>When it comes to assessing the health of your heart, a 2D echo test, also known as an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, is a valuable tool. This non-invasive test uses sound waves to create detailed images of your heart's structure, allowing healthcare providers to evaluate its size, shape, and overall function.</p>
 <p>During a 2D echo heart test, a transducer is placed on your chest, sending high-frequency sound waves (ultrasound) that bounce off your heart. These waves create moving images of your heart chambers, valves, and blood flow patterns, providing valuable insights into your cardiac health.</p>
 <h2 class="sec-scrl" id="Heart conditions diagnosis">Diagnosing Heart Conditions</h2>
 <p>A 2D echo test is instrumental in diagnosing a range of heart conditions, including:</p>
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Heart valve issues</li>
 <li>Pericardial disease</li>
 <li>Congenital heart defects</li>
@@ -186,7 +186,7 @@
 <p>By capturing real-time images of the heart's function, a 2D echo test helps healthcare providers identify abnormalities, assess cardiac performance, and determine the most appropriate treatment plan for patients.</p>
 <h2 class="sec-scrl" id="Echocardiogram benefits">Echocardiogram Benefits</h2>
 <p>What are the benefits of undergoing a 2D echo test for heart health?</p>
-<p>- Non-invasive: Unlike invasive procedures, such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>, an echocardiogram is non-invasive and does not involve any radiation exposure.</p>
+<p>- Non-invasive: Unlike invasive procedures, such as <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>, an echocardiogram is non-invasive and does not involve any radiation exposure.</p>
 <p>- Accurate diagnosis: The detailed images produced during a 2D echo test enable healthcare providers to make accurate diagnoses and tailor treatment plans accordingly.</p>
 <p>- Monitoring: For individuals with known heart conditions, regular 2D echo tests help monitor disease progression, treatment effectiveness, and overall cardiac function over time.</p>
 <h2 class="sec-scrl" id="Heart valve issues detection">Detecting Heart Valve Issues</h2>

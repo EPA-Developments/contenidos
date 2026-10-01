@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Power of Peas in Heart Health" />
     <meta property="og:description" content="Discover how peas can influence heart disease risk factors. Learn about their impact on cardiovascular health, blood sugar regulation, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peas-and-heart-disease-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peas-and-heart-disease-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peas-and-heart-disease-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peas-and-heart-disease-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peas And Heart Disease Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peas-and-heart-disease-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peas-and-heart-disease-risk"
         }
     ]
 }
@@ -147,7 +147,7 @@
 <h2 class="sec-scrl" id="peas-and-metabolic-syndrome">Peas and Metabolic Syndrome</h2>
 <p>Metabolic syndrome is a cluster of conditions that increase the risk of heart disease, stroke, and diabetes. Including peas in your diet can help manage metabolic syndrome by:</p>
 <ul>
-<li><strong>Controlling Blood Pressure:</strong> Peas are a good source of potassium, which can help regulate blood pressure levels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li><strong>Controlling Blood Pressure:</strong> Peas are a good source of potassium, which can help regulate blood pressure levels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li><strong>Improving Lipid Profile:</strong> The fiber and antioxidants in peas can help improve lipid profile by lowering LDL cholesterol levels and increasing HDL cholesterol levels.</li>
 <li><strong>Reducing Inflammation:</strong> Peas contain anti-inflammatory compounds that can help reduce inflammation associated with metabolic syndrome.</li>
 </ul>

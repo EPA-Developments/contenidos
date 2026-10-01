@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cranberries Lower Cholesterol Naturally&quot;" />
     <meta property="og:description" content="Discover how cranberries can naturally lower your cholesterol levels and improve heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cranberries For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-cholesterol"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you looking for a natural way to manage your cholesterol levels effectively? Do you find it challenging to incorporate healthy habits into your daily routine to improve your cholesterol profile?</p>
 <p>Many individuals struggle with maintaining healthy cholesterol levels, which are crucial for overall well-being. However, incorporating cranberries into your diet could be a simple yet powerful solution to help you lower your cholesterol levels naturally. Let's explore the benefits of cranberries for cholesterol and how they can positively impact your health.</p>
 <h2 class="sec-scrl" id="blood-lipids">How Cranberries Influence Blood Lipids</h2>
-<p>Cranberries are packed with antioxidants and phytochemicals that can help lower LDL cholesterol, also known as the "bad" cholesterol. These compounds work by reducing inflammation and preventing the oxidation of LDL cholesterol, which can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Cranberries are packed with antioxidants and phytochemicals that can help lower LDL cholesterol, also known as the "bad" cholesterol. These compounds work by reducing inflammation and preventing the oxidation of LDL cholesterol, which can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>In addition to lowering LDL cholesterol, cranberries can also raise HDL cholesterol levels, often referred to as the "good" cholesterol. By increasing HDL cholesterol, cranberries help remove LDL cholesterol from the arteries, reducing the risk of heart disease.</p>
 <h2 class="sec-scrl" id="fiber">The Role of Fiber in Cholesterol Management</h2>
 <p>One significant benefit of cranberries is their high fiber content. Dietary fiber plays a crucial role in cholesterol management by binding with cholesterol in the digestive system and eliminating it from the body. By including fiber-rich foods like cranberries in your diet, you can effectively lower your cholesterol levels and improve heart health.</p>
@@ -147,7 +147,7 @@
 <li>Including cranberries in your diet can also support healthy blood pressure levels, further reducing the risk of heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-risk">Reducing Heart Disease Risk with Cranberries</h2>
-<p>Heart disease is a leading cause of death worldwide, with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels being a significant risk factor. By incorporating cranberries into your diet, you can lower your cholesterol levels, reduce inflammation, and support overall heart health.</p>
+<p>Heart disease is a leading cause of death worldwide, with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels being a significant risk factor. By incorporating cranberries into your diet, you can lower your cholesterol levels, reduce inflammation, and support overall heart health.</p>
 <p>In addition to their cholesterol-lowering properties, cranberries are rich in vitamins, minerals, and antioxidants that can help protect your heart and reduce the risk of cardiovascular diseases. Including a variety of heart-healthy foods like cranberries in your meals can have a profound impact on your heart health in the long run.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Cranberries offer a natural and effective solution for lowering cholesterol levels and reducing the risk of heart disease. By incorporating cranberries into your diet regularly, you can benefit from their antioxidant properties, fiber content, and healthy fats to support optimal cholesterol management and overall heart health.</p>

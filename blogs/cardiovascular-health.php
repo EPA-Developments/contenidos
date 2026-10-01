@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Top Cardio Health Tips: Boost Your Heart Health&quot;" />
     <meta property="og:description" content="Learn how to improve cardiovascular health with expert tips on heart-friendly diet plans, exercises, blood circulation, disease risks, and regular screenings." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-health"
         }
     ]
 }
@@ -199,8 +199,8 @@
 <h2 class="sec-scrl" id="Cardiovascular disease risks">Understanding Cardiovascular Disease Risks</h2>
 <p>It's essential to be aware of the factors that can increase your risk of cardiovascular diseases. Some common risk factors include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Obesity</li>
 <li>Smoking</li>
 <li>Diabetes</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Walnuts' Impact on Heart Inflammation" />
     <meta property="og:description" content="Discover how walnuts fight heart inflammation & promote heart health with their anti-inflammatory properties & Omega-3 content." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/walnuts-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/walnuts-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Walnuts And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/walnuts-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/walnuts-and-inflammation"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>One of the key reasons walnuts are effective in combating inflammation in the heart is their high omega-3 content. Omega-3 fatty acids are essential nutrients that the body cannot produce on its own, making it crucial to obtain them from dietary sources like walnuts. The omega-3 fatty acids in walnuts help regulate the body's inflammatory response and promote overall cardiovascular health.</p>
 <p>Research has shown that incorporating walnuts into your diet can increase the levels of omega-3 fatty acids in the body, leading to a reduction in inflammation and a lower risk of heart disease. By consuming walnuts regularly, you can harness the anti-inflammatory benefits of omega-3s and protect your heart from inflammation.</p>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Understanding Cardiovascular Inflammation</h2>
-<p>Cardiovascular inflammation is a key driver of heart disease and other cardiovascular conditions. When the blood vessels or heart tissue become inflamed, it can lead to a range of health issues, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and heart attacks. Managing inflammation in the cardiovascular system is crucial for maintaining heart health and preventing cardiovascular diseases.</p>
+<p>Cardiovascular inflammation is a key driver of heart disease and other cardiovascular conditions. When the blood vessels or heart tissue become inflamed, it can lead to a range of health issues, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and heart attacks. Managing inflammation in the cardiovascular system is crucial for maintaining heart health and preventing cardiovascular diseases.</p>
 <p>Walnuts play a significant role in combating cardiovascular inflammation due to their anti-inflammatory properties and omega-3 content. By reducing inflammation in the heart and blood vessels, walnuts help lower the risk of developing chronic cardiovascular conditions and support overall heart health.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">Preventing Heart Disease with Walnuts</h2>
 <p>Heart disease prevention is a top priority for many individuals seeking to improve their cardiovascular health. Incorporating walnuts into your diet can be a simple yet effective way to reduce the risk of heart disease and protect your heart from inflammation. The unique combination of nutrients in walnuts makes them a heart-healthy superfood that can support your overall well-being.</p>

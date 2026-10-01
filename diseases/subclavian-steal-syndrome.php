@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Subclavian Steal Syndrome: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Subclavian Steal Syndrome disrupts blood flow from subclavian artery. Know more about the symptoms, causes, and treatments for a better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/subclavian-steal-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/subclavian-steal-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/subclavian-steal-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/subclavian-steal-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Subclavian Steal Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/subclavian-steal-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/subclavian-steal-syndrome"
       }]
     }
   </script>
@@ -170,14 +170,14 @@
 <p>This syndrome occurs when there is a blockage or narrowing in the subclavian artery, leading to a reversal of blood flow.</p>
 <p>The prevalence of Subclavian Steal Syndrome is relatively low, but its consequences can be severe, affecting essential functions such as blood supply to the brain and upper extremities.</p>
 <p>The subclavian artery plays a crucial role in delivering oxygen-rich blood to the brain and arms. When Subclavian Steal Syndrome occurs, blood flow is redirected, causing decreased blood supply to the brain.</p>
-<p>In the short term, this can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and numbness in the affected arm. Over time, untreated Subclavian Steal Syndrome can lead to more severe complications such as stroke, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or even death.</p>
+<p>In the short term, this can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and numbness in the affected arm. Over time, untreated Subclavian Steal Syndrome can lead to more severe complications such as stroke, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or even death.</p>
 <p>One of the challenges with Subclavian Steal Syndrome is its asymptomatic nature in the early stages. Many individuals may not experience any noticeable symptoms, making early detection through regular screenings essential.</p>
 <p>By identifying the condition early, healthcare providers can implement appropriate interventions to prevent further complications and improve outcomes.</p>
 <h2 id="causes">Causes of Subclavian Steal Syndrome</h2>
 <p>Subclavian Steal Syndrome can have various underlying causes that contribute to the disruption of blood flow in the subclavian artery.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: The buildup of plaque in the arteries can lead to narrowing or blockage, affecting blood flow to the brain and arms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/subclavian-artery-stenosis">subclavian artery stenosis</a>: Narrowing of the subclavian artery due to factors like inflammation or trauma can result in steal phenomenon.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: The buildup of plaque in the arteries can lead to narrowing or blockage, affecting blood flow to the brain and arms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/subclavian-artery-stenosis">subclavian artery stenosis</a>: Narrowing of the subclavian artery due to factors like inflammation or trauma can result in steal phenomenon.</li>
 <li>Arteriovenous Fistula: An abnormal connection between an artery and a vein can divert blood flow, impacting the normal circulation.</li>
 <li>Congenital Anomalies: Structural abnormalities present from birth can predispose individuals to Subclavian Steal Syndrome.</li>
 </ul>
@@ -186,11 +186,11 @@
 <ul>
 <li>Fatigue: Reduced blood flow to the brain can lead to feelings of tiredness and decreased energy levels.</li>
 <li>Arm Weakness: Numbness or weakness in the affected arm may be experienced due to compromised blood supply.</li>
-<li>Dizziness: Lack of adequate blood flow to the brain can result in episodes of dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</li>
+<li>Dizziness: Lack of adequate blood flow to the brain can result in episodes of dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</li>
 </ul>
 <p>In advanced stages, symptoms may progress to more severe manifestations such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Reduced blood flow to the heart can cause chest pain or discomfort, indicating potential cardiovascular complications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Reduced blood flow to the heart can cause chest pain or discomfort, indicating potential cardiovascular complications.</li>
 <li>Cognitive Impairment: Chronic oxygen deprivation to the brain can lead to cognitive decline and memory problems.</li>
 </ul>
 <p>Recognizing these symptoms and their impact on daily life is crucial for early intervention and management of Subclavian Steal Syndrome.</p>
@@ -207,7 +207,7 @@
 <ul>
 <li>Medications: Antiplatelet drugs or medications to lower blood pressure may be prescribed to manage underlying risk factors and improve blood flow.</li>
 <li>Lifestyle Modifications: Adopting a heart-healthy diet, engaging in regular exercise, and quitting smoking can help improve overall vascular health.</li>
-<li>Surgical Interventions: In some cases, procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or stenting may be recommended to restore proper blood flow in the affected artery.</li>
+<li>Surgical Interventions: In some cases, procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or stenting may be recommended to restore proper blood flow in the affected artery.</li>
 </ul>
 <p>By addressing the root causes of Subclavian Steal Syndrome and implementing appropriate treatment strategies, individuals can effectively manage the condition and reduce the risk of complications.</p>
 <p>In conclusion, Subclavian Steal Syndrome is a complex vascular disorder that requires timely diagnosis and intervention to prevent adverse health outcomes.</p>

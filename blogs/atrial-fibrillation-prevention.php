@@ -10,12 +10,12 @@
     <meta property="og:title" content="Genetic Factors in Atrial Fibrillation Prevention" />
     <meta property="og:description" content="Explore how genetic factors impact atrial fibrillation prevention in this informative blog. Learn about irregular heartbeat, blood thinners, and stroke prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/atrial-fibrillation-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/atrial-fibrillation-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/atrial-fibrillation-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/atrial-fibrillation-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Atrial Fibrillation Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/atrial-fibrillation-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/atrial-fibrillation-prevention"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Genetic Factors in Atrial Fibrillation Prevention</h1>
-<p>Are you struggling with the burden of managing atrial fibrillation and its impact on your daily life? The <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> associated with atrial fibrillation can disrupt your activities and leave you feeling fatigued and anxious. Understanding how genetic factors play a role in atrial fibrillation prevention can provide valuable insights into managing this condition more effectively.</p>
+<p>Are you struggling with the burden of managing atrial fibrillation and its impact on your daily life? The <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> associated with atrial fibrillation can disrupt your activities and leave you feeling fatigued and anxious. Understanding how genetic factors play a role in atrial fibrillation prevention can provide valuable insights into managing this condition more effectively.</p>
 <h2 class="sec-scrl" id="heart-rhythm">Heart Rhythm</h2>
-<p>Atrial fibrillation, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>, is a condition characterized by irregular heart rhythms that can lead to serious complications if left untreated. Genetic factors can influence the development and progression of AFib, making it crucial to assess your risk and take preventive measures.</p>
+<p>Atrial fibrillation, commonly known as <a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>, is a condition characterized by irregular heart rhythms that can lead to serious complications if left untreated. Genetic factors can influence the development and progression of AFib, making it crucial to assess your risk and take preventive measures.</p>
 <p>Here are some key points to consider:</p>
 <ul>
 <li>Individuals with a family history of AFib are at a higher risk of developing the condition.</li>
@@ -147,7 +147,7 @@
 <li>Regular monitoring and adjustments may be necessary to ensure the right balance of anticoagulation.</li>
 </ul>
 <h2 class="sec-scrl" id="cardioversion">Cardioversion</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a> is a procedure used to restore normal heart rhythms in individuals with AFib. Genetic factors can influence the success rate of cardioversion and the likelihood of AFib recurrence. Understanding these genetic influences can help healthcare providers customize treatment approaches for better outcomes.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a> is a procedure used to restore normal heart rhythms in individuals with AFib. Genetic factors can influence the success rate of cardioversion and the likelihood of AFib recurrence. Understanding these genetic influences can help healthcare providers customize treatment approaches for better outcomes.</p>
 <p>Here are some important considerations regarding cardioversion and genetic factors:</p>
 <ul>
 <li>Genetic markers may predict the response to cardioversion procedures.</li>

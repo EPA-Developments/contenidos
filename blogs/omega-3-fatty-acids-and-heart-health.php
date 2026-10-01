@@ -10,12 +10,12 @@
     <meta property="og:title" content="Omega 3 Fatty Acids: Heart Health Benefits" />
     <meta property="og:description" content="Discover how Omega 3 fatty acids benefit heart health. Learn about heart disease prevention, fish oil, unsaturated fats, and heart attack prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 Fatty Acids And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-fatty-acids-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-fatty-acids-and-heart-health"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Regular consumption of omega 3-rich foods like salmon, flaxseeds, and walnuts can significantly lower the risk of developing heart conditions.</li>
 </ul>
 <h2 class="sec-scrl" id="inflammation-reduction">Inflammation Reduction</h2>
-<p>Chronic inflammation is a common culprit behind many heart diseases. Omega 3 fatty acids help combat inflammation in the body, preventing the onset of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and reducing the risk of heart attacks.</p>
+<p>Chronic inflammation is a common culprit behind many heart diseases. Omega 3 fatty acids help combat inflammation in the body, preventing the onset of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and reducing the risk of heart attacks.</p>
 <ul>
 <li>Omega 3s have anti-inflammatory properties that can alleviate the strain on your heart and blood vessels.</li>
 <li>By incorporating omega 3-rich foods into your diet, you can help reduce inflammation markers and protect your heart.</li>
@@ -155,7 +155,7 @@
 <li>Consulting with your healthcare provider can help determine the right dosage of fish oil to support your heart health goals.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-prevention">Preventing Heart Attacks</h2>
-<p>One of the significant benefits of omega 3 fatty acids is their role in preventing heart attacks. By incorporating these essential nutrients into your daily routine, you can strengthen your heart, improve blood flow, and reduce the likelihood of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>One of the significant benefits of omega 3 fatty acids is their role in preventing heart attacks. By incorporating these essential nutrients into your daily routine, you can strengthen your heart, improve blood flow, and reduce the likelihood of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <ul>
 <li>Studies have shown that omega 3 fatty acids can help lower triglyceride levels and reduce the risk of heart rhythm abnormalities.</li>
 <li>Regular intake of omega 3-rich foods or supplements can be a proactive step towards preventing heart attacks and maintaining a healthy heart.</li>

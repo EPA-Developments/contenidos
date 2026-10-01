@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Swelling: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing severe swelling? Learn about causes, symptoms, treatment, and when to seek help for severe swelling related to heart disease and edema.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-swelling">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-swelling">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-swelling" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-swelling" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Swelling",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-swelling"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-swelling"  
       }]
     }
   </script>
@@ -202,7 +202,7 @@
 <p>Lifestyle changes such as maintaining a healthy diet, staying active, and avoiding prolonged sitting or standing can also help manage severe swelling. In some cases, advanced therapies like lymphatic drainage massage or surgical procedures may be recommended.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is important to seek medical attention if you experience intense edema, extreme puffiness, or uncontrolled swelling that does not improve with home remedies.</p>
-<p>Other symptoms that warrant a visit to the doctor include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and sudden weight gain.</p>
+<p>Other symptoms that warrant a visit to the doctor include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and sudden weight gain.</p>
 <p>If you have a history of heart disease, kidney problems, or liver disease, it is crucial to consult with a healthcare provider to determine the underlying cause of severe swelling and receive appropriate treatment.</p>
 <h2>Home Remedies for Severe swelling</h2>
 <p>Home remedies can help alleviate symptoms of severe swelling and promote fluid balance in the body.</p>

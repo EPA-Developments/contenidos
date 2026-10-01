@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Prinzmetal Angina: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Prinzmetal angina causes chest pain due to artery spasms. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/prinzmetal-angina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/prinzmetal-angina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/prinzmetal-angina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/prinzmetal-angina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Prinzmetal Angina",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/prinzmetal-angina"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/prinzmetal-angina"
       }]
     }
   </script>
@@ -166,19 +166,19 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, and Treatment of Prinzmetal Angina</h1>
-<p>Prinzmetal Angina, also known as variant <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or vasospastic angina, is a type of angina pectoris characterized by episodes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> caused by transient <a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm">coronary artery spasm</a>.</p>
-<p>This condition is significant as it can lead to serious complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>) if left untreated.</p>
-<p>Prinzmetal Angina is less common than <a href="https://plataforma.epa-bienestar.com.ar/diseases/stable-angina">stable angina</a> but can have a significant impact on an individual's health due to its unpredictable nature.</p>
+<p>Prinzmetal Angina, also known as variant <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or vasospastic angina, is a type of angina pectoris characterized by episodes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> caused by transient <a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm">coronary artery spasm</a>.</p>
+<p>This condition is significant as it can lead to serious complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>) if left untreated.</p>
+<p>Prinzmetal Angina is less common than <a href="https://contenidos.segundaopinionmedica.org/diseases/stable-angina">stable angina</a> but can have a significant impact on an individual's health due to its unpredictable nature.</p>
 <p>It can affect essential functions such as blood flow to the heart, leading to chest pain and potential damage to the heart muscle.</p>
 <p>In terms of prevalence, Prinzmetal Angina accounts for approximately 2-3% of all cases of angina pectoris. It is more common in women than in men and often occurs in individuals under the age of 50.</p>
-<p>The impact on health can be profound, as the spasms of the coronary arteries can disrupt blood flow to the heart, leading to symptoms such as chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and potentially life-threatening arrhythmias.</p>
+<p>The impact on health can be profound, as the spasms of the coronary arteries can disrupt blood flow to the heart, leading to symptoms such as chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and potentially life-threatening arrhythmias.</p>
 <p>The short-term risks of untreated Prinzmetal Angina include angina attacks, which can be debilitating and distressing. In the long term, untreated episodes of coronary artery spasm can lead to myocardial infarction, heart failure, and even sudden cardiac death.</p>
 <p>One challenging aspect of Prinzmetal Angina is its asymptomatic nature in the early stages. Many individuals may not experience any symptoms until they have a significant coronary artery spasm, making early detection crucial.</p>
 <p>Regular screenings and diagnostic tests can help identify the condition before it progresses to more severe stages, allowing for timely intervention and management.</p>
 <h2 id="causes">Causes of Prinzmetal Angina</h2>
 <p>The primary causes of Prinzmetal Angina involve abnormalities in the function and regulation of the coronary arteries. These causes can trigger episodes of vasospasm, leading to chest pain and potential complications.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction refers to impaired function of the cells lining the blood vessels, including the coronary arteries. When the endothelium is damaged or dysfunctional, it can lead to inappropriate vasoconstriction and vasospasm, triggering episodes of Prinzmetal Angina.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction refers to impaired function of the cells lining the blood vessels, including the coronary arteries. When the endothelium is damaged or dysfunctional, it can lead to inappropriate vasoconstriction and vasospasm, triggering episodes of Prinzmetal Angina.</li>
 <li>Smooth Muscle Hyperreactivity: Abnormalities in the smooth muscle cells of the coronary arteries can make them more prone to spasm in response to various stimuli. This hyperreactivity can cause sudden constriction of the arteries, reducing blood flow to the heart and causing angina symptoms.</li>
 <li>Autonomic Nervous System Imbalance: Dysregulation of the autonomic nervous system, which controls involuntary functions such as heart rate and blood vessel tone, can contribute to coronary artery spasm. Imbalances in sympathetic and parasympathetic activity can lead to vasospastic episodes in individuals with Prinzmetal Angina.</li>
 <li>Genetic Predisposition: There is evidence to suggest that genetic factors may play a role in predisposing individuals to Prinzmetal Angina. Specific gene variants or mutations related to vascular function and smooth muscle reactivity could increase the susceptibility to coronary artery spasm.</li>

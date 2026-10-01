@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Balloon Heart Surgery for Coronary Artery Disease: What to Know">
   <meta property="og:description" content="Discover all you need to know about balloon heart surgery for coronary artery disease. Learn about the procedure, benefits, and recovery process.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/balloon-heart-surgery-for-coronary-artery-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/balloon-heart-surgery-for-coronary-artery-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/balloon-heart-surgery-for-coronary-artery-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/balloon-heart-surgery-for-coronary-artery-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Balloon Heart Surgery For Coronary Artery Disease: What To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/balloon-heart-surgery-for-coronary-artery-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/balloon-heart-surgery-for-coronary-artery-disease"  
       }]
     }
   </script>

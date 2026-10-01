@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Unstable Angina Causes: Understanding the Main Factors">
   <meta property="og:description" content="Discover the key factors behind unstable angina causes and understand the triggers for this serious heart condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-causes-main-factors">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-causes-main-factors">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-causes-main-factors" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-causes-main-factors" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Unstable Angina Causes: Understanding The Main Factors",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-causes-main-factors"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-causes-main-factors"  
       }]
     }
   </script>

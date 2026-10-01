@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Chicken: Heart-Healthy Omega 3 Source&quot;" />
     <meta property="og:description" content="Discover the heart-healthy benefits of Omega 3 in chicken for a healthier heart. Boost cardiovascular nutrition with this lean protein source." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-chicken" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-chicken" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-chicken" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-chicken" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 In Chicken",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-chicken"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-chicken"
         }
     ]
 }
@@ -155,7 +155,7 @@
 <li>Supports brain function and overall well-being</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-reduction">Reducing Cholesterol Levels with Chicken</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a significant risk factor for heart disease and other cardiovascular complications. By including chicken in your meals as part of a balanced diet, you can help reduce cholesterol levels and improve your heart health. The Omega 3 fatty acids in chicken play a key role in lowering LDL (bad) cholesterol and promoting the health of your arteries.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a significant risk factor for heart disease and other cardiovascular complications. By including chicken in your meals as part of a balanced diet, you can help reduce cholesterol levels and improve your heart health. The Omega 3 fatty acids in chicken play a key role in lowering LDL (bad) cholesterol and promoting the health of your arteries.</p>
 <p>Ways in which chicken aids in cholesterol reduction:</p>
 <ul>
 <li>Contains Omega 3 fatty acids that help lower LDL cholesterol</li>

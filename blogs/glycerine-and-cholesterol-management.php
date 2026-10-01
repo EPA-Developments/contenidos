@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glycerine and Cholesterol: Heart Health Insights&quot;" />
     <meta property="og:description" content="Explore the impact of glycerine on cholesterol management for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glycerine And Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-cholesterol-management"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Due to its effects on lipid metabolism, glycerine may have a role to play in heart disease prevention. By promoting the clearance of fats from your bloodstream and enhancing the transportation of cholesterol, glycerine can contribute to a healthier lipid profile.</p>
 <ul>
 <li>Improving your HDL cholesterol levels, often referred to as "good" cholesterol, can reduce the risk of plaque buildup in your arteries.</li>
-<li>Regulating LDL cholesterol, known as "bad" cholesterol, is crucial for preventing the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions.</li>
+<li>Regulating LDL cholesterol, known as "bad" cholesterol, is crucial for preventing the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions.</li>
 </ul>
 <p>Including glycerine in your diet or as a supplement might offer a natural way to support your cardiovascular health and reduce the likelihood of heart disease.</p>
 <h2 class="sec-scrl" id="cholesterol-regulation">How Does Glycerine Affect LDL and HDL Cholesterol?</h2>

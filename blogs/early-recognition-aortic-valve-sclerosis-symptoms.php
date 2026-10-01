@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Early Recognition of Aortic Valve Sclerosis Symptoms">
   <meta property="og:description" content="Learn to recognize aortic valve sclerosis symptoms early to seek timely treatment. Find out more about aortic valve sclerosis symptoms here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/early-recognition-aortic-valve-sclerosis-symptoms">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/early-recognition-aortic-valve-sclerosis-symptoms">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/early-recognition-aortic-valve-sclerosis-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/early-recognition-aortic-valve-sclerosis-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Early Recognition Of Aortic Valve Sclerosis Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/early-recognition-aortic-valve-sclerosis-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/early-recognition-aortic-valve-sclerosis-symptoms"  
       }]
     }
   </script>

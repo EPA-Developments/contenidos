@@ -10,12 +10,12 @@
     <meta property="og:title" content="Effective Heart Palpitations Management for Sleep Deprivation" />
     <meta property="og:description" content="Learn effective ways to manage heart palpitations caused by lack of sleep. Get relief and improve your sleep quality today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/managing-heart-palpitations" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/managing-heart-palpitations" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/managing-heart-palpitations" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/managing-heart-palpitations" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Managing Heart Palpitations",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/managing-heart-palpitations"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/managing-heart-palpitations"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Effective Ways to Manage Heart Palpitations from Lack of Sleep</h1>
-<p>Do you find yourself experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> after a sleepless night? Does the combination of insomnia and heart palpitations disrupt your daily activities, leaving you feeling anxious and exhausted?</p>
+<p>Do you find yourself experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> after a sleepless night? Does the combination of insomnia and heart palpitations disrupt your daily activities, leaving you feeling anxious and exhausted?</p>
 <h2 class="sec-scrl" id="lack-of-sleep-causing-palpitations">Lack of Sleep Causing Palpitations</h2>
 <p>When you don't get enough rest, your body can go into overdrive trying to compensate for the lack of sleep. This can lead to increased heart rate and irregular heartbeats, commonly known as heart palpitations. The connection between sleep deprivation and heart palpitations is a significant one, as the body's natural rhythm is disrupted when it doesn't get the rest it needs.</p>
 <p>Here are some ways to manage heart palpitations caused by a lack of sleep:</p>
@@ -179,7 +179,7 @@
 <li>Create a relaxing bedtime routine to signal to your body that it's time to wind down.</li>
 </ul>
 <h2 class="sec-scrl" id="insomnia-and-heart-palpitations">Insomnia and Heart Palpitations</h2>
-<p>Insomnia and heart palpitations often go hand in hand, creating a cycle of sleeplessness and increased heart rate. The stress and anxiety from not being able to fall asleep can trigger <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, making it even more challenging to relax and get the rest you need. Understanding how to break this cycle is crucial in managing heart palpitations effectively.</p>
+<p>Insomnia and heart palpitations often go hand in hand, creating a cycle of sleeplessness and increased heart rate. The stress and anxiety from not being able to fall asleep can trigger <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, making it even more challenging to relax and get the rest you need. Understanding how to break this cycle is crucial in managing heart palpitations effectively.</p>
 <p>Here are some strategies to address insomnia and heart palpitations:</p>
 <ul>
 <li>Practice relaxation techniques such as deep breathing or meditation before bedtime.</li>

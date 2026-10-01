@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Persistent Mild Dyspnea: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Persistent mild dyspnea can cause breathing difficulty. Know the symptoms, causes, diagnosis, and treatments for better health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-mild-dyspnea" >
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/persistent-mild-dyspnea" >
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-mild-dyspnea" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/persistent-mild-dyspnea" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Persistent Mild Dyspnea",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/persistent-mild-dyspnea"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/persistent-mild-dyspnea"  
       }]
     }
   </script>
@@ -186,12 +186,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Persistent Mild Dyspnea: Causes, Symptoms, and Diagnosis</h1>
-<p>Persistent mild dyspnea refers to a condition characterized by ongoing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> or chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. Individuals with this condition may experience constant mild <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, slight but persistent breathlessness, or low-grade breathing difficulty.</p>
+<p>Persistent mild dyspnea refers to a condition characterized by ongoing <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> or chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. Individuals with this condition may experience constant mild <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, slight but persistent breathlessness, or low-grade breathing difficulty.</p>
 <p>It is essential to note that while the symptoms may be mild, they can still significantly impact a person's quality of life, especially when it comes to activities that require physical exertion.</p>
-<p>People with persistent mild dyspnea may also notice ongoing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, where even simple tasks like walking or climbing stairs can leave them feeling out of breath.</p>
+<p>People with persistent mild dyspnea may also notice ongoing <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, where even simple tasks like walking or climbing stairs can leave them feeling out of breath.</p>
 <p>This condition can lead to exercise intolerance, making it challenging for individuals to engage in physical activities without feeling breathless.</p>
 <h2 id="forms">What are the Forms of Persistent mild dyspnea?</h2>
-<p>There are various forms of persistent mild dyspnea, each with its specific symptoms and related concepts. Some forms include ongoing breathlessness, chronic shortness of breath, constant mild difficulty breathing, slight but persistent breathlessness, chronic mild <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, and low-grade breathing difficulty.</p>
+<p>There are various forms of persistent mild dyspnea, each with its specific symptoms and related concepts. Some forms include ongoing breathlessness, chronic shortness of breath, constant mild difficulty breathing, slight but persistent breathlessness, chronic mild <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, and low-grade breathing difficulty.</p>
 <ul>
 <li>Ongoing breathlessness can occur even at rest or with minimal exertion.</li>
 <li>Chronic shortness of breath may be present for an extended period, even without any obvious triggers.</li>
@@ -204,7 +204,7 @@
 <p>Persistent mild dyspnea can be caused by various factors, including underlying health conditions, lifestyle choices, and environmental factors.</p>
 <ul>
 <li>Chronic obstructive pulmonary disease (COPD) or asthma</li>
-<li>Heart conditions such as heart failure or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li>Heart conditions such as heart failure or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Lung diseases like interstitial lung disease or pulmonary fibrosis</li>
 <li>Obesity or being overweight</li>
 <li>Anemia or low red blood cell count</li>
@@ -218,11 +218,11 @@
 <ul>
 <li>Pulmonary function tests to assess lung function and capacity</li>
 <li>Chest X-rays or CT scans to evaluate the structure of the lungs and heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function and detect any abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function and detect any abnormalities</li>
 <li>Blood tests to check for anemia, infection, or other underlying conditions</li>
 <li>Exercise stress testing to evaluate cardiovascular fitness and response to physical exertion</li>
 </ul>
-<p>In some cases, more advanced diagnostic procedures may be necessary, such as bronchoscopy, arterial blood gas analysis, or <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>. These tests can provide valuable insights into the underlying cause of persistent mild dyspnea and help guide treatment decisions.</p>
+<p>In some cases, more advanced diagnostic procedures may be necessary, such as bronchoscopy, arterial blood gas analysis, or <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>. These tests can provide valuable insights into the underlying cause of persistent mild dyspnea and help guide treatment decisions.</p>
 <h2 id="treatment">What is the Treatment for Persistent mild dyspnea?</h2>
 <p>Treatment for persistent mild dyspnea aims to address the underlying cause of the condition while managing symptoms to improve quality of life.</p>
 <ul>

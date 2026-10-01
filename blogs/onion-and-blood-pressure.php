@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onion's Impact on Blood Pressure&quot;" />
     <meta property="og:description" content="Discover how onion helps lower blood pressure naturally. Learn about its role in hypertension management. Unlock the benefits now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Onion for Blood Pressure</h1>
-<p>Are you struggling to keep your blood pressure under control? Do you find it challenging to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> on a daily basis? The solution to your problem might be as simple as including more onions in your diet. Let's explore the fascinating role of onions in supporting cardiovascular health and managing blood pressure effectively.</p>
+<p>Are you struggling to keep your blood pressure under control? Do you find it challenging to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> on a daily basis? The solution to your problem might be as simple as including more onions in your diet. Let's explore the fascinating role of onions in supporting cardiovascular health and managing blood pressure effectively.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">Blood Pressure Control</h2>
 <p>Onions are not just a flavorful addition to your meals; they also offer significant benefits for blood pressure control. The sulfur compounds in onions help relax blood vessels, promoting better circulation and potentially lowering blood pressure levels. By incorporating onions into your diet, you can take a proactive step towards maintaining healthy blood pressure.</p>
 <p>In addition to sulfur compounds, onions are rich in potassium, a vital mineral known for its role in blood pressure regulation. Potassium helps counteract the effects of sodium, a key factor in hypertension management. Including potassium-rich foods like onions can contribute to a more balanced blood pressure profile.</p>
@@ -151,7 +151,7 @@
 <li>Organosulfur compounds: These compounds contribute to the characteristic aroma of onions and offer cardiovascular benefits, including blood pressure regulation.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
-<p>Onions are more than just a flavorful kitchen staple; they are a powerful ally in the fight against <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and cardiovascular diseases. By harnessing the unique compounds and nutrients present in onions, you can take significant steps towards better blood pressure control and overall heart health. Whether raw, cooked, or incorporated into your favorite dishes, onions offer a natural and delicious way to support your cardiovascular system and promote optimal well-being.</p>
+<p>Onions are more than just a flavorful kitchen staple; they are a powerful ally in the fight against <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and cardiovascular diseases. By harnessing the unique compounds and nutrients present in onions, you can take significant steps towards better blood pressure control and overall heart health. Whether raw, cooked, or incorporated into your favorite dishes, onions offer a natural and delicious way to support your cardiovascular system and promote optimal well-being.</p>
             </div>
           </div>
         </div>

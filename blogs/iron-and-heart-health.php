@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron's Impact on Heart Health&quot;" />
     <meta property="og:description" content="Explore how iron impacts heart health & daily life. Learn about iron deficiency, cardiovascular health, hemoglobin levels, & iron-rich foods." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-and-heart-health"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>Factors like low dietary iron intake or poor absorption can result in iron deficiency, affecting your heart's ability to function optimally. Ensuring proper iron absorption is key to maintaining cardiovascular health.</p>
 <h2 class="sec-scrl" id="Anemia treatment">How Can Iron Deficiency Impact Hemoglobin Levels?</h2>
 <p>Iron deficiency directly affects hemoglobin levels in the blood. Hemoglobin is responsible for binding to oxygen molecules and delivering them throughout the body. When iron levels are low, the body struggles to produce an adequate amount of hemoglobin, leading to anemia.</p>
-<p>Anemia can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, all of which can impact your daily activities. By addressing iron deficiency and boosting hemoglobin levels, you can support your heart's overall health.</p>
+<p>Anemia can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, all of which can impact your daily activities. By addressing iron deficiency and boosting hemoglobin levels, you can support your heart's overall health.</p>
 <h2 class="sec-scrl" id="Iron rich foods">What Are the Best Iron-Rich Foods for Cardiovascular Health?</h2>
 <p>Incorporating iron-rich foods into your diet is crucial for maintaining a healthy heart. Foods such as lean meats, spinach, lentils, and fortified cereals are excellent sources of iron. Pairing these foods with sources of vitamin C can enhance iron absorption in the body.</p>
 <ul>

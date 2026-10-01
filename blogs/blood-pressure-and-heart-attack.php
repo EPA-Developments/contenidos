@@ -10,12 +10,12 @@
     <meta property="og:title" content="Blood Pressure and Heart Attack Connection" />
     <meta property="og:description" content="Explore the crucial connection between blood pressure and heart attacks for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-and-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-and-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-and-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-and-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blood Pressure And Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-and-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-and-heart-attack"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Understanding Blood Pressure and Heart Attack Relation</h1>
-<p>Do you ever wonder how your blood pressure can impact your risk of having a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? The connection between blood pressure and heart attack is crucial to understand for anyone concerned about their heart health. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can silently damage your arteries over time, increasing the likelihood of a heart attack. How does this relationship affect your daily activities and overall well-being?</p>
+<p>Do you ever wonder how your blood pressure can impact your risk of having a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? The connection between blood pressure and heart attack is crucial to understand for anyone concerned about their heart health. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can silently damage your arteries over time, increasing the likelihood of a heart attack. How does this relationship affect your daily activities and overall well-being?</p>
 <h2 class="sec-scrl" id="heart-disease-management">Effective Heart Disease Management</h2>
 <p>Managing heart disease involves a comprehensive approach that includes monitoring your blood pressure regularly. By keeping your blood pressure levels in check, you can significantly reduce the risk of heart attacks and other cardiovascular events. Here are some key strategies for effective heart disease management:</p>
 <ul>
@@ -185,7 +185,7 @@
 <li>Prescription medications such as ACE inhibitors, diuretics, or beta-blockers</li>
 <li>Dietary changes to reduce sodium intake and promote heart health</li>
 <li>Regular exercise to improve cardiovascular fitness and lower blood pressure</li>
-<li>Stress management techniques to reduce anxiety and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Stress management techniques to reduce anxiety and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 </ul>
 <p>Working closely with your healthcare team to find the most effective treatment plan for your high blood pressure is essential in preventing heart attacks and maintaining overall heart health.</p>
 <h2 class="sec-scrl" id="heart-attack-prevention">Preventing Heart Attacks</h2>

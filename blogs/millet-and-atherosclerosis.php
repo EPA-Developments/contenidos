@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Millet Benefits for Atherosclerosis Defense&quot;" />
     <meta property="og:description" content="Learn how millet can combat atherosclerosis naturally and improve your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/millet-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/millet-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Millet And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/millet-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/millet-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Millet Against Atherosclerosis</h1>
-<p>Are you worried about your heart health and looking for natural ways to prevent arterial blockages? Do you wonder how diet can impact plaque buildup in your arteries and affect your overall cardiovascular risk? Let's explore how incorporating millet into your daily meals can contribute to reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and promoting heart health.</p>
+<p>Are you worried about your heart health and looking for natural ways to prevent arterial blockages? Do you wonder how diet can impact plaque buildup in your arteries and affect your overall cardiovascular risk? Let's explore how incorporating millet into your daily meals can contribute to reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and promoting heart health.</p>
 <h2 class="sec-scrl" id="arterial-health">How Does Millet Support Arterial Health?</h2>
 <p>Millet, a gluten-free ancient grain packed with essential nutrients, offers numerous benefits for arterial health. Here's how millet helps in maintaining healthy blood flow and reducing the risk of plaque formation:</p>
 <ul>
@@ -156,7 +156,7 @@
 <ul>
 <li><strong>Supports Healthy Cholesterol Levels:</strong> The fiber and phytonutrients in millet can help in lowering LDL (bad) cholesterol levels while maintaining or increasing HDL (good) cholesterol levels, essential for preventing plaque formation.</li>
 <li><strong>Enhances Endothelial Function:</strong> Millet consumption may improve endothelial function, the inner lining of blood vessels, which is vital for maintaining smooth blood flow and preventing atherosclerotic plaque development.</li>
-<li><strong>Reduces Oxidative Stress:</strong> The antioxidants present in millet can combat oxidative stress, a significant contributor to <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> and atherosclerosis progression.</li>
+<li><strong>Reduces Oxidative Stress:</strong> The antioxidants present in millet can combat oxidative stress, a significant contributor to <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> and atherosclerosis progression.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Integrating millet into your diet can be a simple yet effective way to support arterial health, reduce plaque buildup, and lower the risk of heart disease associated with atherosclerosis. By harnessing the nutritional power of millet, you can take proactive steps towards protecting your cardiovascular well-being. Make millet a part of your meals and reap the benefits of this ancient grain for a healthier heart.</p>

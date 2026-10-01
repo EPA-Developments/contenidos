@@ -10,12 +10,12 @@
     <meta property="og:title" content="Guava Benefits for Artery Health" />
     <meta property="og:description" content="Discover how guava promotes healthy arteries naturally. Learn more about guava and artery health benefits." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-artery-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-and-artery-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-artery-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-and-artery-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava And Artery Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-and-artery-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-and-artery-health"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Guava Benefits for Arterial Health</h1>
-<p>Are you looking to improve your arterial health naturally? Wondering how guava can benefit your arteries and enhance your overall well-being? Picture a day without worry about clogged arteries or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>. How would it feel to move freely, knowing your arteries are in good shape, supporting your daily activities effortlessly?</p>
+<p>Are you looking to improve your arterial health naturally? Wondering how guava can benefit your arteries and enhance your overall well-being? Picture a day without worry about clogged arteries or <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>. How would it feel to move freely, knowing your arteries are in good shape, supporting your daily activities effortlessly?</p>
 <h2 class="sec-scrl" id="artery-function">Artery Function</h2>
 <p>Guava, a tropical fruit rich in nutrients and antioxidants, plays a significant role in supporting optimal artery function. Its high vitamin C content helps maintain the elasticity of blood vessels, promoting healthy circulation. Additionally, guava is packed with potassium, which helps regulate blood pressure and reduce strain on the arteries.</p>
 <p>Furthermore, the fiber present in guava aids in lowering cholesterol levels, preventing plaque buildup that can lead to artery blockages. By including guava in your diet, you can enhance your artery function and reduce the risk of cardiovascular issues.</p>

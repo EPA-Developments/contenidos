@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose and Levels of B-type Natriuretic Peptide Test" property="og:title"/>
 <meta content="B-type natriuretic peptide test checks heart stress levels. Know more about its purpose, costs, and normal Range to evaluate heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/btype-natriuretic-peptide-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/btype-natriuretic-peptide-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/btype-natriuretic-peptide-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/btype-natriuretic-peptide-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "B-Type Natriuretic Peptide Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/btype-natriuretic-peptide-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/btype-natriuretic-peptide-test"  
       }]
     }
   </script>
@@ -160,7 +160,7 @@
 <p>BNP is a hormone produced by the heart in response to increased pressure and volume overload, commonly seen in heart failure. The BNP test is crucial in diagnosing heart failure and assessing its severity.</p>
 <p>When the heart is under stress or strain, it releases BNP to help regulate blood pressure and fluid balance. High levels of BNP in the blood indicate heart failure or other cardiac conditions.</p>
 <p>The BNP test is a valuable tool in evaluating heart function and detecting cardiac stress.</p>
-<p>Examples of situations where the BNP test is used include patients presenting with symptoms of heart failure such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and fluid retention.</p>
+<p>Examples of situations where the BNP test is used include patients presenting with symptoms of heart failure such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and fluid retention.</p>
 <p>By measuring BNP levels, healthcare providers can accurately diagnose heart failure, determine the severity of the condition, and monitor the effectiveness of treatment.</p>
 <h2 id="purpose">What is the Purpose of Performing a B-Type Natriuretic Peptide Test Test?</h2>
 <p>The primary purpose of performing a BNP test is to aid in the diagnosis of heart failure. BNP levels in the blood rise in response to heart failure, making it a reliable biomarker for detecting cardiac dysfunction.</p>

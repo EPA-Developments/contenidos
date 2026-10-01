@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peaches: Inflammation and Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover how peaches can naturally combat inflammation and support heart health. Learn more about the benefits of this delicious fruit today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peaches-for-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peaches For Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peaches-for-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peaches-for-inflammation"
         }
     ]
 }
@@ -138,14 +138,14 @@
 <li>Including peaches in your diet may help manage conditions associated with chronic inflammation, such as arthritis and heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="anti-inflammatory-foods">Anti-Inflammatory Foods</h2>
-<p>Incorporating anti-inflammatory foods like peaches into your meals can play a significant role in managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and reducing the risk of chronic diseases. By focusing on a diet rich in fruits and vegetables, you can provide your body with the necessary nutrients to combat inflammation and promote overall health.</p>
+<p>Incorporating anti-inflammatory foods like peaches into your meals can play a significant role in managing <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and reducing the risk of chronic diseases. By focusing on a diet rich in fruits and vegetables, you can provide your body with the necessary nutrients to combat inflammation and promote overall health.</p>
 <ul>
 <li>Other anti-inflammatory foods to consider include berries, leafy greens, nuts, and fatty fish.</li>
 <li>Avoiding processed foods and excessive sugar can help reduce inflammation in the body.</li>
 <li>Opt for whole, nutrient-dense foods like peaches to support your immune system and protect against inflammation-related conditions.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Heart Inflammation</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Studies suggest that incorporating anti-inflammatory foods like peaches into your diet may help reduce the risk of heart inflammation and support heart health. By making simple dietary changes, you can take proactive steps to protect your heart.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Studies suggest that incorporating anti-inflammatory foods like peaches into your diet may help reduce the risk of heart inflammation and support heart health. By making simple dietary changes, you can take proactive steps to protect your heart.</p>
 <ul>
 <li>Chronic inflammation is a key contributor to heart disease and other cardiovascular conditions.</li>
 <li>A diet rich in anti-inflammatory foods can help lower the risk of heart inflammation and improve overall heart function.</li>

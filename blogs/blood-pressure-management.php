@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peaches for Blood Pressure Control&quot;" />
     <meta property="og:description" content="Learn how peaches aid in managing blood pressure naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blood Pressure Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-pressure-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-pressure-management"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Peaches for Blood Pressure Management</h1>
-<p>Are you struggling to keep your blood pressure in check? Does the thought of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> affect your daily activities and overall well-being? Managing blood pressure is crucial for maintaining good health and preventing serious complications.</p>
+<p>Are you struggling to keep your blood pressure in check? Does the thought of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> affect your daily activities and overall well-being? Managing blood pressure is crucial for maintaining good health and preventing serious complications.</p>
 <h2 class="sec-scrl" id="Hypertension">Understanding Hypertension</h2>
-<p>Hypertension, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a silent killer that affects millions of people worldwide. It is a major risk factor for heart disease, stroke, and other cardiovascular issues. One way to combat hypertension is by incorporating potassium-rich foods into your diet.</p>
+<p>Hypertension, commonly known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a silent killer that affects millions of people worldwide. It is a major risk factor for heart disease, stroke, and other cardiovascular issues. One way to combat hypertension is by incorporating potassium-rich foods into your diet.</p>
 <ul>
 <li>Bananas, sweet potatoes, and avocados are excellent sources of potassium.</li>
 <li>Peaches, with their sweet and juicy flavor, are also packed with potassium, making them a great addition to your blood pressure management plan.</li>
@@ -144,7 +144,7 @@
 <li>Include peaches in salads or desserts for a flavorful twist that benefits your heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="Low sodium">The Impact of Low Sodium Intake</h2>
-<p>Reducing your sodium intake is equally important for managing blood pressure. High levels of sodium can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and increased strain on your arteries, raising your risk of hypertension.</p>
+<p>Reducing your sodium intake is equally important for managing blood pressure. High levels of sodium can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and increased strain on your arteries, raising your risk of hypertension.</p>
 <p>By choosing fresh, whole foods like peaches instead of processed snacks and meals high in sodium, you can support your arterial health and promote optimal blood pressure levels.</p>
 <ul>
 <li>Opt for fresh peaches as a low-sodium snack option that satisfies your cravings without harming your heart.</li>

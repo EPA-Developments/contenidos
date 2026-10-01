@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Tightness: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Chest tightness during exercise could be a sign of heart problems. Learn more about its causes, diagnosis, and treatment for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness-during-exercise">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness-during-exercise">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness-during-exercise" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness-during-exercise" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Tightness During Exercise",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness-during-exercise"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness-during-exercise"  
       }]
     }
   </script>
@@ -186,18 +186,18 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Tightness: Symptoms, Causes and Treatment</h1>
-<p>Chest tightness during exercise is a common symptom that many people experience when engaging in physical activities. It is characterized by a feeling of pressure or constriction in the chest area, often accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or discomfort.</p>
+<p>Chest tightness during exercise is a common symptom that many people experience when engaging in physical activities. It is characterized by a feeling of pressure or constriction in the chest area, often accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or discomfort.</p>
 <p>This sensation can range from mild to severe and may be intermittent or persistent during exercise.</p>
 <p>Some individuals describe chest tightness during exercise as a heavy feeling or pressure on their chest that can make breathing difficult.</p>
-<p>This symptom can be alarming and may cause anxiety, especially if it is recurring or accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</p>
+<p>This symptom can be alarming and may cause anxiety, especially if it is recurring or accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</p>
 <p>Understanding the causes, symptoms, and treatment options for chest tightness during exercise is essential for managing this condition effectively.</p>
 <h2 id="forms">What are the Forms of Chest tightness during exercise?</h2>
 <p>Forms of chest tightness during exercise can vary in severity and presentation.</p>
 <ul>
 <li>Tight chest with exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a> with activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a> with activity</li>
 <li>Exertion chest discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> with exercise</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> with exercise</li>
 <li>Feeling of chest constriction</li>
 <li>Chest pressure during physical activity</li>
 <li>Heavy chest during exercise</li>
@@ -210,7 +210,7 @@
 <li>Acid reflux</li>
 <li>Muscle strain</li>
 <li>Anxiety or panic attacks</li>
-<li>Heart conditions such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li>Heart conditions such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 <li>Respiratory conditions like pneumonia or bronchitis</li>
 <li>Costochondritis (inflammation of the cartilage in the chest)</li>
 </ul>
@@ -218,7 +218,7 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Chest tightness during exercise?</h2>
 <p>The diagnostic method for chest tightness during exercise involves a comprehensive evaluation of the individual's medical history, symptoms, and physical examination.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
 <li>Chest X-ray to evaluate lung and heart health</li>
 <li>Pulmonary function tests to assess lung function</li>
 <li>Blood tests to check for inflammation or infection</li>

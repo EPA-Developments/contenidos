@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Myocardial Strain Imaging: Costs, Purpose, and Levels" property="og:title"/>
 <meta content="Myocardial strain imaging evaluates heart muscle health. Read more to know its purpose, costs, and normal Range for a detailed heart assessment." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-strain-imaging" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-strain-imaging" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-strain-imaging" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-strain-imaging" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myocardial Strain Imaging",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-strain-imaging"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-strain-imaging"  
       }]
     }
   </script>
@@ -209,7 +209,7 @@
 <p>By comparing the measured values to the normal range, healthcare providers can assess the function of the heart and identify any abnormalities that may be present.</p>
 <p>It is essential to interpret these values in the context of the individual patient's overall health and medical history.</p>
 <h2>What Do High Myocardial Strain Imaging Levels Indicate?</h2>
-<p>High myocardial strain imaging levels can indicate potential issues with the heart muscle and cardiac function. Elevated strain levels may be associated with conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, or hypertrophic <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
+<p>High myocardial strain imaging levels can indicate potential issues with the heart muscle and cardiac function. Elevated strain levels may be associated with conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, or hypertrophic <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
 <p>Causes of high myocardial strain imaging levels may include:</p>
 <ul>
 <li>Acute coronary syndrome</li>
@@ -219,14 +219,14 @@
 <p>Risks associated with high myocardial strain imaging levels include an increased likelihood of developing heart failure, arrhythmias, or other cardiac complications. Healthcare providers may recommend further testing or interventions to manage these risks effectively.</p>
 <p>It is essential to consult with healthcare providers to understand the implications of high myocardial strain imaging levels and develop a comprehensive treatment plan based on individual needs and medical history.</p>
 <h2>What Do Low Myocardial Strain Imaging Levels Indicate?</h2>
-<p>Low myocardial strain imaging levels can indicate reduced cardiac function and potential heart muscle abnormalities. Decreased strain levels may be associated with conditions such as heart failure, cardiomyopathy, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-ischemia">myocardial ischemia</a>.</p>
+<p>Low myocardial strain imaging levels can indicate reduced cardiac function and potential heart muscle abnormalities. Decreased strain levels may be associated with conditions such as heart failure, cardiomyopathy, or <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-ischemia">myocardial ischemia</a>.</p>
 <p>Reasons for low myocardial strain imaging levels may include:</p>
 <ul>
 <li>Impaired heart muscle function</li>
 <li>Reduced blood flow to the heart</li>
 <li>Chronic heart conditions</li>
 </ul>
-<p>Associated conditions with low myocardial strain imaging levels may include symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Healthcare providers may recommend additional testing or interventions to address these underlying issues effectively.</p>
+<p>Associated conditions with low myocardial strain imaging levels may include symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Healthcare providers may recommend additional testing or interventions to address these underlying issues effectively.</p>
 <p>It is crucial to work closely with healthcare providers to understand the implications of low myocardial strain imaging levels and develop a personalized treatment plan to optimize cardiac function and overall health.</p>
 <p>In conclusion, myocardial strain imaging is a valuable diagnostic test that provides essential information about the function of the heart and helps in the early detection and management of cardiac conditions.</p>
 <p>By measuring the strain of the heart muscle, healthcare providers can assess cardiac function, identify abnormalities, and make informed decisions about treatment options.</p>

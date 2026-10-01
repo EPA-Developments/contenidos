@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment for Unexplained Fatigue: Heart Disease, Sleep Apnea, Chronic Illness">
   <meta property="og:description" content="Experiencing unexplained fatigue? Learn about causes, treatment options, and how to manage symptoms related to heart disease, sleep apnea, and chronic illness.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Unexplained Fatigue",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue"  
       }]
     }
   </script>
@@ -241,7 +241,7 @@
 <li>Fatigue that persists for more than a few weeks despite rest and lifestyle modifications.</li>
 <li>Fatigue accompanied by unexplained weight loss, fever, or night sweats.</li>
 <li>Fatigue that interferes significantly with daily activities, work, or social relationships.</li>
-<li>Fatigue associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</li>
+<li>Fatigue associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</li>
 <li>Fatigue following a recent illness, infection, or significant life event.</li>
 </ul>
 <p>Consulting a healthcare provider promptly can help identify the underlying cause of unexplained fatigue and initiate appropriate treatment to address the issue effectively.</p>

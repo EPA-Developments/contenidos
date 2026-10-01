@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Improve Quality of Life with Mitral Valve Replacement">
   <meta property="og:description" content="Discover how mitral valve replacement can enhance your quality of life. Learn about the benefits and impact on your health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/improve-quality-of-life-with-mitral-valve-replacement">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/improve-quality-of-life-with-mitral-valve-replacement">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/improve-quality-of-life-with-mitral-valve-replacement" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/improve-quality-of-life-with-mitral-valve-replacement" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Mitral Valve Replacement",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/improve-quality-of-life-with-mitral-valve-replacement"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/improve-quality-of-life-with-mitral-valve-replacement"  
       }]
     }
   </script>

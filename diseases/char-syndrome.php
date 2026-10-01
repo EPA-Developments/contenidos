@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Char Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Char Syndrome, a rare condition affecting the heart and face. Discover symptoms, causes, and treatment options. Expert insights provided.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/char-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/char-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/char-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/char-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Char Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/char-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/char-syndrome"
       }]
     }
   </script>
@@ -186,7 +186,7 @@
 
 <ul>
 <li>Physical examination to assess facial features and heart abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function.</li>
 <li>Genetic testing to identify mutations in the TFAP2B gene associated with Char Syndrome.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Char Syndrome</h2>
@@ -201,7 +201,7 @@
 </ul>
 <h3>Surgery</h3>
 <ul>
-<li>Surgical interventions like corrective <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> may be necessary.</li>
+<li>Surgical interventions like corrective <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> may be necessary.</li>
 <li>Surgery aims to repair heart defects or abnormalities.</li>
 <li>The primary objective is to improve heart function and overall cardiovascular health.</li>
 <li>Post-operative care and follow-up are essential for monitoring recovery.</li>

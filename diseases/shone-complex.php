@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Shone Complex: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Shone complex is a rare congenital heart disease that affects the left side of the heart. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/shone-complex">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/shone-complex">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/shone-complex" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/shone-complex" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Shone Complex",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/shone-complex"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/shone-complex"
       }]
     }
   </script>
@@ -163,19 +163,19 @@
 <h1>Symptoms. Causes and Treatment of Shone Complex</h1>
 <p>Shone Complex is a rare congenital heart condition where the left side of the heart doesn't develop properly. It involves multiple abnormalities like aortic valve narrowing and mitral valve issues. While it's rare, it's significant because it affects heart function and can lead to serious health problems. Shone Complex is typically diagnosed in infancy or childhood. Early detection and appropriate management are crucial for better outcomes. If you or a loved one have concerns about heart health, consult a healthcare provider for guidance and support.</p>
 <h2 id="causes">Causes of Shone Complex</h2>
-<p>Shone Complex is influenced by various factors. These include abnormalities in the left side of the heart, such as the mitral valve, aortic valve, subaortic membrane, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/coarctation-of-the-aorta">coarctation of the aorta</a>. These structural defects can lead to restricted blood flow, causing the heart to work harder. The increased workload can result in complications over time. Remember, each of these factors plays a crucial role in the development of Shone Complex.</p>
+<p>Shone Complex is influenced by various factors. These include abnormalities in the left side of the heart, such as the mitral valve, aortic valve, subaortic membrane, and <a href="https://contenidos.segundaopinionmedica.org/diseases/coarctation-of-the-aorta">coarctation of the aorta</a>. These structural defects can lead to restricted blood flow, causing the heart to work harder. The increased workload can result in complications over time. Remember, each of these factors plays a crucial role in the development of Shone Complex.</p>
 <h2 id="symptoms">Symptoms of Shone Complex</h2>
 <p>Shone Complex is a rare congenital heart condition that involves multiple left-sided heart abnormalities. Early recognition of its symptoms is crucial for timely intervention and improved outcomes. Recognizing these symptoms can lead to prompt treatment and better management of the condition. The symptoms of Shone Complex include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
 <li>Poor feeding</li>
 <li>Fatigue</li>
 <li>Failure to thrive</li>
 <li>Irregular heartbeats</li>
 <li>Difficulty gaining weight</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin)</li>
 </ul> 
 
 If you notice any of these symptoms in yourself or a loved one, seeking medical attention promptly is essential for a proper diagnosis and management plan. Early detection of Shone Complex can significantly impact treatment outcomes and overall quality of life.</p>
@@ -183,9 +183,9 @@ If you notice any of these symptoms in yourself or a loved one, seeking medical 
 <p>Accurate diagnosis of Shone Complex is crucial for timely intervention and management. The diagnostic process involves a comprehensive evaluation to identify the specific heart abnormalities present. Diagnostic methods for Shone Complex may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
 <li>Cardiac MRI or CT scans for detailed imaging</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures and obtain additional information</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures and obtain additional information</li>
 </ul> 
 
 Early and precise diagnosis allows healthcare providers to tailor treatment plans effectively, improving outcomes and quality of life for individuals with Shone Complex.</p>
@@ -208,9 +208,9 @@ Early and precise diagnosis allows healthcare providers to tailor treatment plan
 </ul>
 <h3>Interventional Procedures</h3>
 <ul>
-<li>Interventional procedures involve less invasive techniques like balloon <a href="https://plataforma.epa-bienestar.com.ar/procedures/valvuloplasty">valvuloplasty</a> or stent placement to address heart issues.</li>
+<li>Interventional procedures involve less invasive techniques like balloon <a href="https://contenidos.segundaopinionmedica.org/procedures/valvuloplasty">valvuloplasty</a> or stent placement to address heart issues.</li>
 <li>These procedures are aimed at improving blood flow, relieving obstructions, and reducing symptoms.</li>
-<li>The primary objective is to improve heart function and quality of life without the need for open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>.</li>
+<li>The primary objective is to improve heart function and quality of life without the need for open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>.</li>
 <li>Interventional procedures are tailored to the patient's specific anatomical challenges and can offer effective solutions.</li>
 </ul></p>
 <h2>Prevention and Management of Shone Complex</h2>

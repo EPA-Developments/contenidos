@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognizing Early Signs of Heart Attack: Warning Signs">
   <meta property="og:description" content="Learn to recognize the early signs of a heart attack with our comprehensive guide. Don't ignore the warning signs - act fast for better outcomes.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/recognizing-early-signs-of-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/recognizing-early-signs-of-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/recognizing-early-signs-of-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/recognizing-early-signs-of-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Recognizing Early Signs Of Heart Attack: Warning Signs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/recognizing-early-signs-of-heart-attack"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/recognizing-early-signs-of-heart-attack"  
       }]
     }
   </script>

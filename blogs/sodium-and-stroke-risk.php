@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Dietary Tips for Lowering Sodium and Stroke Risk&quot;" />
     <meta property="og:description" content="Learn how to lower stroke risk with dietary changes. Reduce sodium intake for better brain and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-stroke-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-stroke-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-stroke-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-stroke-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Stroke Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-stroke-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-stroke-risk"
         }
     ]
 }
@@ -140,7 +140,7 @@
 </ul>
 <p>By making these simple dietary changes, you can significantly reduce your risk of stroke and improve your overall vascular health.</p>
 <h2 class="sec-scrl" id="sodium-intake">Impact of Sodium Intake on Brain Health</h2>
-<p>Excessive sodium intake not only affects your blood vessels but also has a direct impact on your brain function. High levels of sodium can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, increasing the strain on your blood vessels and potentially causing damage to the delicate tissues in your brain. This damage can contribute to an increased risk of stroke and other neurological disorders.</p>
+<p>Excessive sodium intake not only affects your blood vessels but also has a direct impact on your brain function. High levels of sodium can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, increasing the strain on your blood vessels and potentially causing damage to the delicate tissues in your brain. This damage can contribute to an increased risk of stroke and other neurological disorders.</p>
 <ul>
 <li>Monitor your blood pressure regularly and consult with your healthcare provider to keep it within a healthy range.</li>
 <li>Incorporate potassium-rich foods like bananas and sweet potatoes into your diet to help balance sodium levels.</li>
@@ -148,7 +148,7 @@
 </ul>
 <p>By being mindful of your sodium intake and taking steps to reduce it, you can protect not only your heart but also your brain health.</p>
 <h2 class="sec-scrl" id="brain-health">The Role of Sodium in Ischemic Stroke Development</h2>
-<p>Ischemic strokes account for the majority of stroke cases and are often linked to lifestyle factors such as diet. High sodium intake can contribute to the development of ischemic strokes by promoting conditions like hypertension and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. These conditions narrow the blood vessels leading to the brain, increasing the risk of blockages that cause strokes.</p>
+<p>Ischemic strokes account for the majority of stroke cases and are often linked to lifestyle factors such as diet. High sodium intake can contribute to the development of ischemic strokes by promoting conditions like hypertension and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. These conditions narrow the blood vessels leading to the brain, increasing the risk of blockages that cause strokes.</p>
 <ul>
 <li>Focus on a diet rich in fruits, vegetables, whole grains, and lean proteins to support overall vascular health.</li>
 <li>Avoid excessive consumption of red meats, full-fat dairy, and processed foods that are high in sodium.</li>

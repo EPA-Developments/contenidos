@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Autonomic Ganglia Ablation: Procedure for Cardiac Arrhythmia">
   <meta property="og:description" content="Improve heart rhythm with Autonomic Ganglia Ablation, a minimally invasive procedure targeting autonomic nerves. Learn about ganglia ablation for arrhythmia.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/autonomic-ganglia-ablation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/autonomic-ganglia-ablation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/autonomic-ganglia-ablation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/autonomic-ganglia-ablation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Autonomic ganglia ablation",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/autonomic-ganglia-ablation"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/autonomic-ganglia-ablation"  
       }]
     }
   </script>

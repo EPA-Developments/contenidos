@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Artery Coldness: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Coldness in your extremities? This could indicate peripheral artery disease. Read more about symptoms, causes, diagnosis, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-artery-coldness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-artery-coldness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-artery-coldness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-artery-coldness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Artery Coldness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-artery-coldness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/peripheral-artery-coldness"  
       }]
     }
   </script>
@@ -168,15 +168,15 @@
             <div class="article-content"><h1>Peripheral Artery Coldness: Symptoms, Causes, and Diagnosis</h1>
 <p>Peripheral artery coldness refers to the sensation of coldness in the extremities, such as the hands and feet, due to poor blood circulation in the peripheral arteries. This condition is also known as cold extremities or peripheral hypoperfusion.</p>
 <p>When the blood flow to these areas is restricted or reduced, it can lead to cold limbs, especially in colder environments or during periods of stress.</p>
-<p>The reduced circulation in the peripheral arteries can be attributed to various underlying health issues, including peripheral artery disease (PAD), <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, diabetes, obesity, and smoking.</p>
+<p>The reduced circulation in the peripheral arteries can be attributed to various underlying health issues, including peripheral artery disease (PAD), <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, diabetes, obesity, and smoking.</p>
 <p>These conditions can cause the arteries to become narrowed or blocked, hindering the normal flow of blood to the extremities.</p>
-<p>Symptoms of peripheral artery coldness may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet, numbness or tingling sensations, pale or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color, slow-healing wounds on the extremities, and overall discomfort in the affected areas.</p>
+<p>Symptoms of peripheral artery coldness may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet, numbness or tingling sensations, pale or <a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color, slow-healing wounds on the extremities, and overall discomfort in the affected areas.</p>
 <p>It is essential to address these symptoms promptly to prevent further complications related to reduced blood flow in the extremities.</p>
 <h2 id="forms">What are the Forms of Peripheral artery coldness?</h2>
 <p>Cold extremities are a common form of peripheral artery coldness, characterized by persistent coldness in the hands and feet even in warm environments.</p>
 <p>This form is often associated with poor blood flow to the extremities, leading to discomfort and reduced sensation in the affected areas.</p>
 <p>Another form of peripheral artery coldness is cold limbs, where the arms or legs experience a constant chill due to inadequate circulation in the arteries supplying these areas.</p>
-<p>This condition can be exacerbated by factors like smoking, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, and sedentary lifestyle habits.</p>
+<p>This condition can be exacerbated by factors like smoking, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, and sedentary lifestyle habits.</p>
 <p>Reduced circulation is a form of peripheral artery coldness that affects blood flow to various parts of the body, causing coldness and numbness in the affected areas.</p>
 <p>This condition can be a sign of underlying circulatory problems that need to be addressed to prevent complications.</p>
 <h2 id="causes">What are the Causes of Peripheral artery coldness?</h2>
@@ -192,7 +192,7 @@
 <ul>
 <li>Sedentary lifestyle: Lack of physical activity can impair circulation and lead to cold extremities.</li>
 <li>High cholesterol: Elevated levels of cholesterol can contribute to plaque build-up in the arteries, affecting blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and hinder proper circulation to the extremities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can damage blood vessels and hinder proper circulation to the extremities.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Peripheral artery coldness?</h2>
 <p>The diagnosis of peripheral artery coldness typically involves a combination of physical examination, medical history review, and diagnostic tests to assess blood flow and circulation in the extremities.</p>
@@ -204,7 +204,7 @@
 <li>Angiography: Involves injecting contrast dye into the arteries and taking X-ray images to visualize blood flow and identify any abnormalities.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Peripheral artery coldness?</h2>
-<p>Treatment for peripheral artery coldness aims to improve blood flow and circulation in the extremities to alleviate coldness and discomfort. Medical treatments may include medications to manage underlying conditions like atherosclerosis, diabetes, or hypertension that contribute to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</p>
+<p>Treatment for peripheral artery coldness aims to improve blood flow and circulation in the extremities to alleviate coldness and discomfort. Medical treatments may include medications to manage underlying conditions like atherosclerosis, diabetes, or hypertension that contribute to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</p>
 <p>Lifestyle changes can also help improve peripheral artery coldness, such as:</p>
 <ul>
 <li>Regular exercise: Physical activity can promote blood flow and circulation to the extremities.</li>
@@ -214,7 +214,7 @@
 </ul>
 <p>Advanced treatment approaches for peripheral artery coldness may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>: A procedure to open blocked or narrowed arteries using a balloon-like device.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>: A procedure to open blocked or narrowed arteries using a balloon-like device.</li>
 <li>Vascular surgery: Surgical intervention to bypass or repair damaged arteries and restore proper blood flow.</li>
 <li>Medications: Prescription drugs to improve circulation, manage blood pressure, or reduce cholesterol levels.</li>
 </ul>

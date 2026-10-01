@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment of Breathlessness on Exertion" >
   <meta property="og:description" content="Breathlessness on exertion may indicate heart problems. Know more about its causes, symptoms, Diagnosis, and treatment for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-on-exertion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-on-exertion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-on-exertion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-on-exertion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Breathlessness On Exertion",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-on-exertion"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-on-exertion"  
       }]
     }
   </script>
@@ -186,14 +186,14 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Breathlessness on Exertion: Causes and Treatment</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> on exertion, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> on exertion, is a common condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> during physical activity. It may manifest as a feeling of tightness in the chest, wheezing, or a sense of suffocation.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> on exertion, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> on exertion, is a common condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> during physical activity. It may manifest as a feeling of tightness in the chest, wheezing, or a sense of suffocation.</p>
 <p>This condition can vary in severity, from mild discomfort to severe distress, impacting daily activities and exercise performance.</p>
 <p>Individuals experiencing breathlessness on exertion may find it challenging to engage in physical activities such as walking, climbing stairs, or exercising. This symptom can be a sign of underlying health issues or inadequate fitness levels.</p>
 <p>Understanding the causes and forms of breathlessness on exertion is crucial in managing and addressing this condition effectively.</p>
 <h2 id="forms">What are the Forms of Breathlessness on exertion?</h2>
 <p>Breathlessness on exertion can present in various forms, each with distinct symptoms and triggers:</p>
 <ul>
-<li>Exercise-induced asthma: Individuals with exercise-induced asthma may experience wheezing, coughing, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during or after physical activity.</li>
+<li>Exercise-induced asthma: Individuals with exercise-induced asthma may experience wheezing, coughing, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during or after physical activity.</li>
 <li>Heart disease-related breathlessness: Conditions such as heart failure, coronary artery disease, or arrhythmias can lead to breathlessness on exertion due to reduced heart function.</li>
 <li>Strained breathing in athletes: Athletes may experience exertion-related difficulty breathing during intense workouts or competitions.</li>
 <li>Effort-induced breathlessness: People with poor physical fitness levels may struggle with breathlessness during moderate exercise due to lack of conditioning.</li>
@@ -205,7 +205,7 @@
 <li>Exercise-induced asthma: Individuals with asthma may experience airway constriction and inflammation triggered by exercise, resulting in breathlessness.</li>
 <li>Anemia: Low red blood cell count can reduce oxygen delivery to tissues, causing breathlessness on exertion.</li>
 <li>Obesity: Excess weight can strain the respiratory system, making it harder to breathe during physical exertion.</li>
-<li>Deconditioning: Lack of regular physical activity can lead to poor cardiovascular fitness and muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, contributing to breathlessness during exertion.</li>
+<li>Deconditioning: Lack of regular physical activity can lead to poor cardiovascular fitness and muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, contributing to breathlessness during exertion.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Breathlessness on exertion?</h2>
 <p>Diagnosing the underlying cause of breathlessness on exertion involves a comprehensive evaluation by a healthcare provider.</p>
@@ -223,10 +223,10 @@
 <li>Lifestyle modifications: Adopting a healthy lifestyle, including regular exercise, weight management, and smoking cessation, can improve cardiovascular fitness and reduce breathlessness.</li>
 <li>Pulmonary rehabilitation: This structured program includes exercise training, education, and support to improve lung function and reduce breathlessness.</li>
 <li>Oxygen therapy: In severe cases of breathlessness, supplemental oxygen may be prescribed to improve oxygen delivery to tissues during physical activity.</li>
-<li>Surgical interventions: In some cases, procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> or valve repair may be necessary to address underlying heart conditions causing breathlessness.</li>
+<li>Surgical interventions: In some cases, procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> or valve repair may be necessary to address underlying heart conditions causing breathlessness.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent or worsening breathlessness on exertion, especially if accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fainting.</p>
+<p>It is essential to seek medical attention if you experience persistent or worsening breathlessness on exertion, especially if accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fainting.</p>
 <p>Individuals with a history of heart disease, asthma, or other chronic conditions should consult a healthcare provider for evaluation and management of breathlessness during physical activity.</p>
 <h2>Home Remedies for Breathlessness on exertion</h2>
 <p>In addition to medical treatment, there are several home remedies that may help manage breathlessness on exertion:</p>

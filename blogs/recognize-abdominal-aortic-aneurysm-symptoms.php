@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognize Abdominal Aortic Aneurysm Symptoms Early">
   <meta property="og:description" content="Learn to spot abdominal aortic aneurysm symptoms early to prevent complications. Find out how to recognize these symptoms and seek help promptly.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/recognize-abdominal-aortic-aneurysm-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/recognize-abdominal-aortic-aneurysm-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/recognize-abdominal-aortic-aneurysm-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/recognize-abdominal-aortic-aneurysm-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Recognize Abdominal Aortic Aneurysm Symptoms Early",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/recognize-abdominal-aortic-aneurysm-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/recognize-abdominal-aortic-aneurysm-symptoms"  
       }]
     }
   </script>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Arrest Risk Factors: Understanding the Risks">
   <meta property="og:description" content="Learn about the important cardiac arrest risk factors to protect your heart health. Discover how to reduce your risk and stay healthy.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-risk-factors-understanding-the-risks">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-risk-factors-understanding-the-risks">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-risk-factors-understanding-the-risks" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-risk-factors-understanding-the-risks" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Arrest Risk Factors: Understanding The Risks",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-risk-factors-understanding-the-risks"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-risk-factors-understanding-the-risks"  
       }]
     }
   </script>

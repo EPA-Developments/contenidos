@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Link Between Cardiac Cachexia and Heart Failure">
   <meta property="og:description" content="Learn about the link between cardiac cachexia and heart failure, including symptoms, causes, and treatment options. Find out more here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/link-between-cardiac-cachexia-and-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/link-between-cardiac-cachexia-and-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/link-between-cardiac-cachexia-and-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/link-between-cardiac-cachexia-and-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Cachexia",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/link-between-cardiac-cachexia-and-heart-failure"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/link-between-cardiac-cachexia-and-heart-failure"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Pounding: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Heart pounding can lead to distress and discomfort. Read more on symptoms, causes, diagnosis and treatment for this common heart-related issue." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Pounding",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding"  
       }]
     }
   </script>
@@ -166,10 +166,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Heart Pounding: Causes, Symptoms, and Diagnosis</h1>
-<p>Heart pounding, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, refers to the sensation of feeling your heart beating rapidly, forcefully, or irregularly. It can feel like your heart is racing, fluttering, or pounding in your chest.</p>
-<p>While occasional <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> are common and usually harmless, persistent or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations">severe palpitations</a> may indicate an underlying medical condition that requires attention.</p>
-<p>Symptoms of heart pounding can vary from person to person but may include a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/racing-heartbeat">racing heartbeat</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, fluttering sensation in the chest, a strong or forceful heartbeat, or feelings of cardiac distress.</p>
-<p>In some cases, heart pounding may be accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or fainting.</p>
+<p>Heart pounding, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, refers to the sensation of feeling your heart beating rapidly, forcefully, or irregularly. It can feel like your heart is racing, fluttering, or pounding in your chest.</p>
+<p>While occasional <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> are common and usually harmless, persistent or <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations">severe palpitations</a> may indicate an underlying medical condition that requires attention.</p>
+<p>Symptoms of heart pounding can vary from person to person but may include a <a href="https://contenidos.segundaopinionmedica.org/symptoms/racing-heartbeat">racing heartbeat</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, fluttering sensation in the chest, a strong or forceful heartbeat, or feelings of cardiac distress.</p>
+<p>In some cases, heart pounding may be accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or fainting.</p>
 <h2 id="forms">What are the Forms of Heart pounding?</h2>
 <p>There are various forms of heart pounding, each with its specific symptoms and related concepts.</p>
 <ul>

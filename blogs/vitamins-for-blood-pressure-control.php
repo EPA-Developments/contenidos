@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Optimal Vitamins for Blood Pressure Health&quot;" />
     <meta property="og:description" content="Learn how essential vitamins like C, D, potassium, and magnesium can help you manage your blood pressure effectively. Optimize your health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamins-for-blood-pressure-control" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamins-for-blood-pressure-control" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamins-for-blood-pressure-control" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamins-for-blood-pressure-control" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamins For Blood Pressure Control",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamins-for-blood-pressure-control"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamins-for-blood-pressure-control"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Top Vitamins for Blood Pressure Control</h1>
-<p>Are you struggling to keep your blood pressure in check? Wondering how you can support your vascular function naturally? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can interfere with your daily activities and overall well-being. Finding ways to manage it effectively is crucial for your health.</p>
+<p>Are you struggling to keep your blood pressure in check? Wondering how you can support your vascular function naturally? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can interfere with your daily activities and overall well-being. Finding ways to manage it effectively is crucial for your health.</p>
 <h2 class="sec-scrl" id="vitamin-c">Vitamin C: A Powerful Antioxidant for Blood Vessel Health</h2>
-<p>Vitamin C is not only essential for a strong immune system but also plays a vital role in maintaining healthy blood pressure levels. This potent antioxidant helps improve nitric oxide production, which relaxes blood vessels and supports proper circulation. Including vitamin C-rich foods like oranges, strawberries, and bell peppers in your diet can be beneficial for <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> prevention.</p>
+<p>Vitamin C is not only essential for a strong immune system but also plays a vital role in maintaining healthy blood pressure levels. This potent antioxidant helps improve nitric oxide production, which relaxes blood vessels and supports proper circulation. Including vitamin C-rich foods like oranges, strawberries, and bell peppers in your diet can be beneficial for <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> prevention.</p>
 <ul>
 <li>Oranges</li>
 <li>Strawberries</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Inflammation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart Inflammation causes pain and swelling in the heart. Know more about its causes, symptoms, and treatment to avoid serious heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Inflammation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Heart Inflammation</h1>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, is a condition where the heart muscle becomes inflamed. This inflammation can weaken the heart, affecting its ability to pump blood effectively. Myocarditis is significant as it can lead to serious complications like heart failure or abnormal heart rhythms. While it is not extremely common, myocarditis can occur at any age and may result from infections, autoimmune diseases, or certain medications. Recognizing the symptoms early and seeking prompt medical attention is crucial in managing heart inflammation effectively.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, is a condition where the heart muscle becomes inflamed. This inflammation can weaken the heart, affecting its ability to pump blood effectively. Myocarditis is significant as it can lead to serious complications like heart failure or abnormal heart rhythms. While it is not extremely common, myocarditis can occur at any age and may result from infections, autoimmune diseases, or certain medications. Recognizing the symptoms early and seeking prompt medical attention is crucial in managing heart inflammation effectively.</p>
 <h2 id="causes">Causes of Heart Inflammation</h2>
 <p>Certainly! Heart inflammation, or myocarditis, can develop due to various factors. These include viral infections like {lsi_keywords_str}, bacterial infections, exposure to toxins, certain medications, autoimmune conditions, and allergic reactions. Additionally, it can result from complications following a recent viral illness. Remember, early detection and prompt treatment are crucial in managing heart inflammation effectively. 
 
@@ -177,9 +177,9 @@
 <p>Recognizing the symptoms of Heart Inflammation early is crucial as it can significantly impact outcomes. Early detection allows for prompt intervention and management, potentially preventing complications. Common symptoms of Heart Inflammation include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
 <li>Swelling in the legs</li>
 <li>Fever</li>
@@ -192,8 +192,8 @@ If you experience these symptoms, seeking medical attention promptly is vital fo
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
 <li>Blood tests to check for markers of inflammation</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
 <li>Cardiac MRI or CT scan for detailed imaging of the heart</li>
 <li>Biopsy to examine heart tissue for inflammation</li>
 </ul></p>

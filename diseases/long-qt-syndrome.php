@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long Qt Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Long QT Syndrome causes abnormal heart rhythms, potentially leading to fainting. Know more about its symptoms, causes, and available treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Long Qt Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Long Qt Syndrome</h1>
-<p>Long QT syndrome (LQTS) is a heart condition affecting the heart's electrical activity, potentially leading to dangerous irregular heartbeats. It can cause fainting, seizures, or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. LQTS is more common than previously thought, affecting about 1 in 2,500 people. It can be inherited or acquired, making early detection crucial. Understanding LQTS and its symptoms is vital for timely diagnosis and treatment to prevent life-threatening complications. If you suspect LQTS or have a family history, consult a healthcare provider promptly for evaluation and management.</p>
+<p>Long QT syndrome (LQTS) is a heart condition affecting the heart's electrical activity, potentially leading to dangerous irregular heartbeats. It can cause fainting, seizures, or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. LQTS is more common than previously thought, affecting about 1 in 2,500 people. It can be inherited or acquired, making early detection crucial. Understanding LQTS and its symptoms is vital for timely diagnosis and treatment to prevent life-threatening complications. If you suspect LQTS or have a family history, consult a healthcare provider promptly for evaluation and management.</p>
 <h2 id="causes">Causes of Long Qt Syndrome</h2>
 <p>Long QT Syndrome can be caused by various factors, including:
 
@@ -176,10 +176,10 @@
 
 <ul>
 <li>Irregular heartbeats (arrhythmias)</li>
-<li>Fainting or sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Fainting or sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Seizures, especially during physical activity or stress</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 If you or someone you know experiences any of these symptoms, it's essential to seek medical attention promptly. Early diagnosis and proper management can make a significant difference in managing Long QT Syndrome effectively.</p>
@@ -187,13 +187,13 @@ If you or someone you know experiences any of these symptoms, it's essential to 
 <p>Long QT Syndrome (LQTS) requires accurate diagnosis due to the risk of life-threatening arrhythmias. The diagnostic process typically involves a thorough evaluation of symptoms, family history, and various tests. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects abnormal heart rhythms.</li>
 <li>Genetic testing: Identifies specific gene mutations linked to LQTS.</li>
 <li>Exercise stress test: Evaluates heart function during physical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Provides detailed images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Provides detailed images of the heart's structure and function.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Long Qt Syndrome</h2>
-<p>Long QT Syndrome (LQTS) requires individualized care due to its varying severity and causes. Treatment approaches include medication, lifestyle changes, and in some cases, implantation of a <a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillator">defibrillator</a>.
+<p>Long QT Syndrome (LQTS) requires individualized care due to its varying severity and causes. Treatment approaches include medication, lifestyle changes, and in some cases, implantation of a <a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillator">defibrillator</a>.
 
 <h3>Medication</h3>
 <ul>

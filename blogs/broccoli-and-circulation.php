@@ -10,12 +10,12 @@
     <meta property="og:title" content="Broccoli: Boost Blood Flow Naturally" />
     <meta property="og:description" content="Discover how broccoli boosts blood circulation naturally. Improve vascular health with this superfood." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Broccoli for Circulation</h1>
-<p>Are you looking to improve your blood circulation naturally? Do you often feel fatigued or experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet due to poor blood flow? Broccoli, a humble vegetable found in almost every grocery store, could be the answer to your concerns. The impact of broccoli on blood circulation is more significant than you might think. Let's explore the benefits of incorporating broccoli into your diet and how it can positively affect your daily activities.</p>
+<p>Are you looking to improve your blood circulation naturally? Do you often feel fatigued or experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet due to poor blood flow? Broccoli, a humble vegetable found in almost every grocery store, could be the answer to your concerns. The impact of broccoli on blood circulation is more significant than you might think. Let's explore the benefits of incorporating broccoli into your diet and how it can positively affect your daily activities.</p>
 <h2 class="sec-scrl" id="nitric-oxide">Nitric Oxide: The Key to Healthy Blood Vessels</h2>
 <p>Broccoli contains compounds that promote the production of nitric oxide in the body. Nitric oxide plays a crucial role in dilating blood vessels, allowing for smoother blood flow. By including broccoli in your meals, you are supporting the natural mechanisms that help keep your arteries and veins in good condition.</p>
 <ul>
@@ -155,7 +155,7 @@
 </ul>
 <p>By ensuring proper muscle function and supporting healthy blood pressure levels, broccoli can help you feel more energized and alert, with improved circulation reaching all parts of your body.</p>
 <h2 class="sec-scrl" id="veins">Broccoli's Impact on Vein Health</h2>
-<p>Weak veins can contribute to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> and discomfort, especially in the lower extremities. Broccoli contains bioactive compounds that strengthen vein walls and improve their elasticity, reducing the risk of varicose veins and promoting efficient blood return to the heart.</p>
+<p>Weak veins can contribute to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> and discomfort, especially in the lower extremities. Broccoli contains bioactive compounds that strengthen vein walls and improve their elasticity, reducing the risk of varicose veins and promoting efficient blood return to the heart.</p>
 <ul>
 <li>Support for vein elasticity</li>
 <li>Reduction in vein inflammation</li>

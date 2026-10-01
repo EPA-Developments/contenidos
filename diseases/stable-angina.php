@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Stable Angina: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Stable angina is a type of chest pain that occurs when the heart's blood supply is reduced. Read more about symptoms, causes, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/stable-angina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/stable-angina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/stable-angina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/stable-angina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Stable Angina",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/stable-angina"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/stable-angina"
       }]
     }
   </script>
@@ -161,15 +161,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Stable Angina</h1>
-<p>Stable angina is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort that typically occurs when the heart muscle doesn't get enough oxygen-rich blood. It's a warning sign that your heart isn't getting enough blood flow during periods of increased demand, like exercise or stress. While not usually life-threatening, it can significantly impact your quality of life. Stable angina is quite common, affecting millions of people worldwide. Understanding its symptoms and triggers can help manage the condition effectively and prevent complications. If you experience chest pain, it's crucial to seek medical attention promptly.</p>
+<p>Stable angina is <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort that typically occurs when the heart muscle doesn't get enough oxygen-rich blood. It's a warning sign that your heart isn't getting enough blood flow during periods of increased demand, like exercise or stress. While not usually life-threatening, it can significantly impact your quality of life. Stable angina is quite common, affecting millions of people worldwide. Understanding its symptoms and triggers can help manage the condition effectively and prevent complications. If you experience chest pain, it's crucial to seek medical attention promptly.</p>
 <h2 id="causes">Causes of Stable Angina</h2>
 <p>Certainly! Here are the main factors contributing to the development of Stable Angina:
 
 <ul>
 <li>Coronary artery disease narrowing blood vessels</li>
 <li>Plaque buildup in the arteries</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> increasing the heart's workload</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> leading to artery blockages</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> increasing the heart's workload</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> leading to artery blockages</li>
 <li>Smoking damaging blood vessels</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Stable Angina</h2>
@@ -179,7 +179,7 @@
 <li>Chest pain or discomfort</li>
 <li>Pressure or squeezing in the chest</li>
 <li>Pain that may radiate to the arms, neck, jaw, shoulder, or back</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Nausea</li>
 </ul>
@@ -189,19 +189,19 @@ Being aware of these signs and seeking prompt medical attention can lead to time
 <p>Accurate diagnosis of Stable Angina is crucial for appropriate treatment and management. The diagnostic process typically involves a combination of medical history assessment, physical examination, and various tests to confirm the condition and rule out other possible causes of chest pain. Some common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Helps detect abnormal heart rhythms and patterns.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Helps detect abnormal heart rhythms and patterns.</li>
 <li>Stress testing: Evaluates the heart's response to physical stress.</li>
 <li>Coronary angiography: Provides detailed images of the heart's blood vessels.</li>
 <li>Blood tests: Check for elevated levels of certain enzymes indicating heart damage.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Stable Angina</h2>
-<p>When it comes to treating Stable Angina, individualized care is essential as each patient may respond differently to various treatments. The main approaches include lifestyle changes, medication, and invasive procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>. 
+<p>When it comes to treating Stable Angina, individualized care is essential as each patient may respond differently to various treatments. The main approaches include lifestyle changes, medication, and invasive procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>. 
 
 <h3>Lifestyle Changes</h3>
 <ul>
 <li>This treatment involves modifying diet, exercise, and smoking cessation.</li>
-<li>The rationale is to reduce risk factors like high cholesterol and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
-<li>The primary objective is to improve heart health and reduce <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> symptoms.</li>
+<li>The rationale is to reduce risk factors like high cholesterol and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
+<li>The primary objective is to improve heart health and reduce <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> symptoms.</li>
 <li>The steps may include dietary adjustments, regular exercise, and smoking cessation programs.</li>
 </ul>
 <h3>Medication</h3>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Prevent Heart Attack: Practical Steps for a Healthier Heart">
   <meta property="og:description" content="Learn practical steps on how to prevent heart attack and safeguard your heart health. Follow expert advice in 'How to Prevent a Heart Attack' guide.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/prevent-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/prevent-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/prevent-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/prevent-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Prevent Heart Attack: Practical Steps For A Healthier Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/prevent-heart-attack"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/prevent-heart-attack"  
       }]
     }
   </script>

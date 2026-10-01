@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Giant Cell Myocarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Giant Cell Myocarditis is a rare heart disease-causing inflammation. Know more about its causes, symptoms, and treatment for heart protection." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/giant-cell-myocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/giant-cell-myocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/giant-cell-myocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/giant-cell-myocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Giant Cell Myocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/giant-cell-myocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/giant-cell-myocarditis"
       }]
     }
   </script>
@@ -176,20 +176,20 @@
 
 <h3>Common Symptoms of Giant Cell Myocarditis:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swelling in the legs or abdomen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul></p>
 <h2>Diagnosis of Giant Cell Myocarditis</h2>
 <p>Accurate diagnosis of Giant Cell Myocarditis is crucial due to its rare occurrence and potentially severe outcomes if left untreated. The diagnostic process typically involves a combination of clinical assessments and various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
 <li>Thorough physical examination and medical history review</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Cardiac MRI or CT scan for detailed imaging</li>
 <li>Endomyocardial biopsy to confirm the presence of giant cells in heart tissue</li>
 </ul></p>

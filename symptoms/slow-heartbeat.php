@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Slow Heartbeat: Symptoms, Causes, Diagnosis, and Treatment" >
   <meta property="og:description" content="A Slow Heartbeat can indicate heart block or other heart conditions. Know more about its causes, symptoms, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/slow-heartbeat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/slow-heartbeat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/slow-heartbeat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/slow-heartbeat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Slow Heartbeat",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/slow-heartbeat"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/slow-heartbeat"  
       }]
     }
   </script>
@@ -186,12 +186,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Slow Heartbeat: Symptoms, Causes, Diagnosis, and Forms</h1>
-<p>Slow heartbeat, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>, refers to a heart rate below the normal range, typically fewer than 60 beats per minute.</p>
+<p>Slow heartbeat, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>, refers to a heart rate below the normal range, typically fewer than 60 beats per minute.</p>
 <p>This condition can result in the heart not pumping enough oxygen-rich blood to the body, leading to various symptoms and complications. Slow heartbeat can manifest as a low pulse rate, heart slowing, slow pulse, cardiac arrhythmia, or slow heart rhythm.</p>
-<p>Symptoms of slow heartbeat may include fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fainting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, confusion, and difficulty concentrating.</p>
+<p>Symptoms of slow heartbeat may include fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fainting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, confusion, and difficulty concentrating.</p>
 <p>It is essential to understand the forms of slow heartbeat to recognize the specific symptoms associated with each type and seek appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Slow heartbeat?</h2>
-<p>There are several forms of slow heartbeat, each with its unique characteristics and symptoms. These forms include <a href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-bradycardia">sinus bradycardia</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, heart block, and atrial fibrillation with slow ventricular response.</p>
+<p>There are several forms of slow heartbeat, each with its unique characteristics and symptoms. These forms include <a href="https://contenidos.segundaopinionmedica.org/diseases/sinus-bradycardia">sinus bradycardia</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, heart block, and atrial fibrillation with slow ventricular response.</p>
 <ul>
 <li>Sinus bradycardia: Characterized by a slow heart rate due to the sinus node in the heart sending electrical signals at a slower pace.</li>
 <li>Sick sinus syndrome: Involves a malfunction in the sinus node, causing the heart to alternate between fast and slow heart rates.</li>
@@ -202,7 +202,7 @@
 <p>Several factors can lead to a slow heartbeat, including age, underlying heart conditions, medications, electrolyte imbalances, and hypothyroidism.</p>
 <ul>
 <li>Age: As individuals age, the heart's electrical system may naturally slow down, leading to a slower heartbeat.</li>
-<li>Underlying heart conditions: Conditions such as heart disease, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, congenital heart defects, and inflammation of the heart can cause a slow heartbeat.</li>
+<li>Underlying heart conditions: Conditions such as heart disease, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, congenital heart defects, and inflammation of the heart can cause a slow heartbeat.</li>
 <li>Medications: Certain medications, such as beta-blockers, calcium channel blockers, and digoxin, can slow down the heart rate.</li>
 <li>Electrolyte imbalances: Abnormal levels of potassium, sodium, or calcium in the blood can affect the heart's electrical impulses, leading to a slow heartbeat.</li>
 <li>Hypothyroidism: An underactive thyroid gland can disrupt the body's metabolism, including the heart rate.</li>

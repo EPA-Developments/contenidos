@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Long Term Impact of Glucose on Heart Health&quot;" />
     <meta property="og:description" content="Explore the impact of glucose on long-term heart health: from chronic high blood sugar to heart disease progression and cardiovascular risk factors." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-glucose-on-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-glucose-on-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-glucose-on-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-glucose-on-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Long Term Effects Of Glucose On Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-glucose-on-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-glucose-on-heart"
         }
     ]
 }
@@ -132,18 +132,18 @@
 <p>Are you concerned about how chronic high blood sugar levels can impact your heart in the long run? The effects of glucose on heart health can be significant, affecting your daily activities and overall well-being. Understanding how glucose influences the heart over time is crucial for managing cardiovascular risk factors and promoting long-term wellness.</p>
 <h2 class="sec-scrl" id="chronic-high-blood-sugar">Chronic High Blood Sugar</h2>
 <p>Chronic high blood sugar, also known as hyperglycemia, occurs when the body is unable to effectively regulate glucose levels. Prolonged elevation of blood sugar can lead to insulin resistance, a condition where the cells become less responsive to insulin, the hormone responsible for transporting glucose into cells for energy production.</p>
-<p>Insulin resistance can contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a process where the arteries become narrowed and hardened due to the buildup of plaque. This narrowing restricts blood flow to the heart, increasing the risk of heart disease progression and other cardiovascular complications.</p>
+<p>Insulin resistance can contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a process where the arteries become narrowed and hardened due to the buildup of plaque. This narrowing restricts blood flow to the heart, increasing the risk of heart disease progression and other cardiovascular complications.</p>
 <h2 class="sec-scrl" id="heart-disease-progression">Heart Disease Progression</h2>
 <p>How does chronic high blood sugar impact heart disease progression? Elevated glucose levels can damage the blood vessels and nerves that control the heart's function. Over time, this damage can lead to the development of cardiovascular diseases such as coronary artery disease, heart failure, and stroke.</p>
 <ul>
 <li>Increased inflammation: Chronic high blood sugar triggers inflammation in the body, promoting the formation of plaques in the arteries.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Uncontrolled glucose levels can contribute to high blood pressure, further straining the heart and increasing the risk of heart attacks.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Uncontrolled glucose levels can contribute to high blood pressure, further straining the heart and increasing the risk of heart attacks.</li>
 <li>Impaired heart function: Long-term exposure to elevated glucose can weaken the heart muscle, affecting its ability to pump blood efficiently.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-risk-factors">Cardiovascular Risk Factors</h2>
 <p>What are the cardiovascular risk factors associated with chronic high blood sugar? Managing glucose levels is essential for reducing the following risks:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Elevated blood sugar levels can lead to abnormal lipid profiles, increasing the risk of plaque buildup in the arteries.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Elevated blood sugar levels can lead to abnormal lipid profiles, increasing the risk of plaque buildup in the arteries.</li>
 <li>Obesity: Poorly controlled glucose levels can contribute to weight gain, a significant risk factor for heart disease.</li>
 <li>Smoking: Combined with high blood sugar, smoking further elevates the risk of heart disease and other cardiovascular conditions.</li>
 </ul>

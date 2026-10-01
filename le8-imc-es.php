@@ -8,10 +8,10 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Índice de Masa Corporal (IMC) - Life's Essential 8™">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-imc-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-imc-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-bmi-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-imc-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-imc-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-imc-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-bmi-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-imc-es" />
 
   <?php include 'include/header.php' ?>
 

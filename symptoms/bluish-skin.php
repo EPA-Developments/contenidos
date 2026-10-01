@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Diagnosis,Symptoms, Causes and Treatment for Bluish Skin" >
   <meta property="og:description" content="Bluish skin may signal poor circulation or heart-related issues. Know more about the symptoms, causes, diagnosis and treatments for better results" >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bluish Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Bluish Skin: Treatment, Causes, Symptoms and Diagnosis</h1>
-<p>Bluish skin, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>, is a condition characterized by the skin turning blue due to a lack of oxygen in the blood.</p>
+<p>Bluish skin, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>, is a condition characterized by the skin turning blue due to a lack of oxygen in the blood.</p>
 <p>This lack of oxygen, known as hypoxia, causes a bluish tint to the skin, particularly in areas with less blood flow, such as the fingertips or lips.</p>
 <p>Bluish skin can be a sign of underlying health issues, including heart disease, respiratory problems, or poor blood circulation.</p>
 <h2 id="forms">What are the Forms of Bluish skin?</h2>
@@ -194,7 +194,7 @@
 <ul>
 <li>Cyanosis: The most common form of bluish skin, caused by reduced oxygen levels in the blood.</li>
 <li>Skin turning blue: A visible change in skin color due to poor blood circulation or hypoxia.</li>
-<li>Blue fingertips: Often a sign of poor peripheral blood flow or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a>.</li>
+<li>Blue fingertips: Often a sign of poor peripheral blood flow or <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a>.</li>
 <li>Blue skin tone: An overall bluish tint to the skin, indicating systemic oxygen deficiency.</li>
 </ul>
 <h2 id="causes">What are the Causes of Bluish skin?</h2>
@@ -222,15 +222,15 @@
 <li>Medications: Treat underlying conditions like heart disease or respiratory problems.</li>
 <li>Surgery: In cases of congenital heart defects or vascular issues.</li>
 <li>Lifestyle changes: Quitting smoking, regular exercise, and a healthy diet to improve circulation.</li>
-<li>Advanced procedures: In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> may be necessary.</li>
+<li>Advanced procedures: In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> may be necessary.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience:</p>
 <ul>
 <li>Persistent bluish skin or lips.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or confusion.</li>
-<li>Rapid heart rate or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or confusion.</li>
+<li>Rapid heart rate or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
 <li>Sudden onset of bluish skin without an apparent cause.</li>
 </ul>
 <h2>Home Remedies for Bluish skin</h2>

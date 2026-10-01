@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Valve Disorders' Impact on Circulation" />
     <meta property="og:description" content="Explore the impact of heart valve disorders on circulation and daily life. Learn about symptoms, treatments, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-disorders" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-disorders" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-disorders" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-disorders" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Valve Disorders",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-disorders"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-valve-disorders"
         }
     ]
 }
@@ -169,13 +169,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Heart Valve Disorders Impact on Circulation</h1>
-<p>Do you struggle with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or fatigue during routine activities? These could be signs of heart valve disorders affecting your daily life. How do heart valve disorders influence your ability to perform simple tasks and enjoy life to the fullest?</p>
+<p>Do you struggle with <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or fatigue during routine activities? These could be signs of heart valve disorders affecting your daily life. How do heart valve disorders influence your ability to perform simple tasks and enjoy life to the fullest?</p>
 <h2 class="sec-scrl" id="heart-valve-disease-effects">Effects of Heart Valve Diseases</h2>
 <p>Heart valve diseases can lead to various symptoms and complications that impact your overall well-being. When the heart valves fail to function correctly, the blood flow through the heart is disrupted, causing:</p>
 <ul>
 <li>Shortness of breath, especially during physical exertion</li>
 <li>Chest pain or tightness</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 <p>These effects can significantly limit your ability to engage in everyday activities and may require medical intervention to manage.</p>
 <h2 class="sec-scrl" id="valve-malfunction-impact">Impact of Valve Malfunction</h2>
@@ -185,13 +185,13 @@
 <li>Increased strain on the heart muscle</li>
 <li>Risk of heart failure</li>
 </ul>
-<p>Such malfunctions can severely affect your circulation, causing fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and even <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>.</p>
+<p>Such malfunctions can severely affect your circulation, causing fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and even <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>.</p>
 <h2 class="sec-scrl" id="circulation-problems-from-valve-issues">Circulation Problems from Valve Issues</h2>
 <p>Valve issues can disrupt the smooth flow of blood within the heart and throughout the body, resulting in:</p>
 <ul>
 <li>Pooling of blood in the heart chambers</li>
 <li>Formation of blood clots</li>
-<li>Increased risk of stroke or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li>Increased risk of stroke or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 </ul>
 <p>These circulation problems can have serious consequences if left untreated, emphasizing the importance of timely diagnosis and management.</p>
 <h2 class="sec-scrl" id="blood-flow-obstruction">Understanding Blood Flow Obstruction</h2>
@@ -206,7 +206,7 @@
 <p>Valve disorders can contribute to various cardiovascular complications, including:</p>
 <ul>
 <li>Arrhythmias (irregular heartbeats)</li>
-<li>Heart infections (<a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>)</li>
+<li>Heart infections (<a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>)</li>
 <li>Heart muscle damage</li>
 </ul>
 <p>These complications highlight the systemic impact of valve disorders on overall heart health and underline the need for comprehensive care.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Protein Impact on Heart Inflammation: A Guide" />
     <meta property="og:description" content="Explore how protein impacts cardiovascular inflammation, reducing heart disease risk with anti-inflammatory proteins." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cardiovascular-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-cardiovascular-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cardiovascular-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-cardiovascular-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Cardiovascular Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cardiovascular-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-cardiovascular-inflammation"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">The Role of Anti-Inflammatory Proteins in Preventing Heart Disease Inflammation</h2>
 <p>Including a variety of anti-inflammatory proteins in your diet is essential for preventing heart disease inflammation and maintaining cardiovascular health. These proteins not only reduce inflammation but also support overall heart function and circulation.</p>
 <ul>
-<li>Salmon, rich in omega-3 fatty acids, can help reduce inflammation in the blood vessels, lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
+<li>Salmon, rich in omega-3 fatty acids, can help reduce inflammation in the blood vessels, lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
 <li>Walnuts, almonds, and other nuts are excellent sources of protein that contain anti-inflammatory compounds, benefiting heart health and reducing the risk of cardiovascular inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

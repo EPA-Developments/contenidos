@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Cardiomyopathy Complications: What to Know">
   <meta property="og:description" content="Learn about the most common long-term cardiomyopathy complications to watch out for. Stay informed and take proactive steps for better heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-cardiomyopathy-complications">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-cardiomyopathy-complications">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-cardiomyopathy-complications" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-cardiomyopathy-complications" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Cardiomyopathy Complications: What To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-cardiomyopathy-complications"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-cardiomyopathy-complications"  
       }]
     }
   </script>

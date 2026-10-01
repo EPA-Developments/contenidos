@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mitral Valve Prolapse Syndrome: Symptoms and Treatment" >
   <meta property="og:description" content="Mitral Valve Prolapse Syndrome causes valve issues in the heart. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-prolapse-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-prolapse-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-prolapse-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-prolapse-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mitral Valve Prolapse Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-prolapse-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-prolapse-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Mitral Valve Prolapse Syndrome</h1>
-<p>Mitral Valve Prolapse Syndrome, a common heart valve condition, occurs when the valve between the heart's left upper chamber and left lower chamber doesn't close properly. While often benign, it can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fatigue, and chest discomfort in some cases. This syndrome affects around 2% of the population, more commonly women. Regular follow-ups and healthy lifestyle choices are crucial in managing this condition effectively. If you experience symptoms like irregular heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, consulting a healthcare provider is essential for proper evaluation and care.</p>
+<p>Mitral Valve Prolapse Syndrome, a common heart valve condition, occurs when the valve between the heart's left upper chamber and left lower chamber doesn't close properly. While often benign, it can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fatigue, and chest discomfort in some cases. This syndrome affects around 2% of the population, more commonly women. Regular follow-ups and healthy lifestyle choices are crucial in managing this condition effectively. If you experience symptoms like irregular heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, consulting a healthcare provider is essential for proper evaluation and care.</p>
 <h2 id="causes">Causes of Mitral Valve Prolapse Syndrome</h2>
 <p>Mitral Valve Prolapse Syndrome can develop due to various factors, such as:
 
@@ -176,10 +176,10 @@
 <p>Recognizing the symptoms of Mitral Valve Prolapse Syndrome is crucial as early detection can significantly improve outcomes. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Shortness of breath, especially during physical activity</li>
 </ul>
 
@@ -188,8 +188,8 @@ Being aware of these signs can lead to prompt diagnosis and appropriate manageme
 <p>Diagnosing Mitral Valve Prolapse Syndrome (MVPS) is crucial for proper management and to prevent potential complications. Accuracy in diagnosis helps tailor treatment plans to individual needs, improving patient outcomes and quality of life. The diagnostic process typically involves a combination of physical exams, imaging tests, and sometimes additional procedures. Common diagnostic methods for MVPS include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess the structure and function of the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess the structure and function of the heart</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
 <li>Stress tests to monitor heart function during physical activity</li>
 <li>Cardiac MRI for detailed images of the heart</li>
 </ul></p>

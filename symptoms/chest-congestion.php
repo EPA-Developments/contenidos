@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Congestion: Causes, Symptoms, and Remedies" >
   <meta property="og:description" content="Chest congestion may signal heart concerns. Know more about the causes, symptoms, diagnosis, and treatment options for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-congestion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-congestion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-congestion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-congestion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Congestion",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-congestion"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-congestion"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Congestion : Causes, Symptoms and Forms</h1>
 <p>Chest congestion is a common condition characterized by a buildup of mucus in the respiratory tract, leading to a feeling of heaviness or tightness in the chest. It often accompanies colds, flu, bronchitis, or other respiratory infections.</p>
-<p>Symptoms of chest congestion include a cough that produces phlegm or mucus, wheezing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, and a feeling of pressure in the chest.</p>
+<p>Symptoms of chest congestion include a cough that produces phlegm or mucus, wheezing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, and a feeling of pressure in the chest.</p>
 <p>Congestion and cough often go hand in hand, with the cough being the body's way of trying to clear the mucus from the airways. Chest congestion can be uncomfortable and may lead to difficulty sleeping, decreased appetite, and overall fatigue.</p>
 <p>It is important to address chest congestion promptly to prevent complications such as pneumonia or worsening respiratory conditions.</p>
 <h2 id="forms">What are the Forms of Chest Congestion?</h2>
@@ -242,8 +242,8 @@
 <p>It is essential to seek medical attention for chest congestion if you experience severe symptoms or if the condition persists for more than a few days.</p>
 <ul>
 <li>Persistent cough with chest congestion lasting more than a week.</li>
-<li>Difficulty breathing or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure that radiates to other areas.</li>
+<li>Difficulty breathing or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure that radiates to other areas.</li>
 <li>High fever, chills, or significant fatigue.</li>
 <li>Bluish discoloration of the lips or nails.</li>
 <li>Wheezing or audible crackling sounds when breathing.</li>

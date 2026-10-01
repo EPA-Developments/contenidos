@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Carpal Boss Cancer: Sign of Underlying Health Issues?">
   <meta property="og:description" content="Learn if carpal boss is a sign of underlying health issues, including carpal boss cancer. Discover causes, symptoms, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carpal-boss-cancer-sign-underlying-health-issues">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carpal-boss-cancer-sign-underlying-health-issues">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carpal-boss-cancer-sign-underlying-health-issues" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carpal-boss-cancer-sign-underlying-health-issues" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carpal Boss Cancer: Sign Of Underlying Health Issues?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/carpal-boss-cancer-sign-underlying-health-issues"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/carpal-boss-cancer-sign-underlying-health-issues"  
       }]
     }
   </script>

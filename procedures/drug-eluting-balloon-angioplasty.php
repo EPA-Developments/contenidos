@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Drug-Eluting Balloon Angioplasty: Procedure, Benefits, Risks, Indications, Recovery">
   <meta property="og:description" content="Learn about drug-eluting balloon angioplasty, a minimally invasive procedure with benefits, risks, indications, and recovery details.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/drug-eluting-balloon-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/drug-eluting-balloon-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/drug-eluting-balloon-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/drug-eluting-balloon-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Drug-eluting balloon angioplasty",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/drug-eluting-balloon-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/drug-eluting-balloon-angioplasty"  
       }]
     }
   </script>

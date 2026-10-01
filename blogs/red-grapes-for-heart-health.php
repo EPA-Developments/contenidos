@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cardio Perks of Red & Black Grapes" />
     <meta property="og:description" content="Explore the heart-healthy advantages of red and black grapes, including their impact on cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-grapes-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-grapes-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-grapes-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-grapes-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Grapes For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-grapes-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-grapes-for-heart-health"
         }
     ]
 }
@@ -132,11 +132,11 @@
 <p>Are you looking for a simple yet effective way to boost your heart health naturally? Red grapes could be the answer you've been searching for. Imagine being able to enhance your cardiovascular well-being with a delicious and convenient fruit that you can easily incorporate into your daily routine. How can red grapes benefit your heart, and what makes them so special in the realm of heart health? Let's explore.</p>
 <h2 class="sec-scrl" id="anthocyanins">Anthocyanins</h2>
 <p>Red grapes are rich in anthocyanins, powerful antioxidants responsible for the vibrant red and purple hues of the fruit. These compounds play a crucial role in protecting your heart by reducing inflammation and oxidative stress, two key factors in the development of heart disease. Anthocyanins help improve blood flow and circulation, supporting overall cardiovascular function.</p>
-<p>Additionally, anthocyanins in red grapes may help lower blood pressure, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease. By including red grapes in your diet, you can harness the heart-protective benefits of these potent antioxidants.</p>
+<p>Additionally, anthocyanins in red grapes may help lower blood pressure, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease. By including red grapes in your diet, you can harness the heart-protective benefits of these potent antioxidants.</p>
 <h2 class="sec-scrl" id="red-wine">Red Wine and Heart Health</h2>
-<p>Did you know that red wine, derived from red grapes, has long been associated with heart health benefits? The flavonoids present in red wine, particularly a type called resveratrol, exhibit protective effects on the heart and blood vessels. These compounds help prevent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation and reduce LDL cholesterol levels, further enhancing cardiovascular health.</p>
+<p>Did you know that red wine, derived from red grapes, has long been associated with heart health benefits? The flavonoids present in red wine, particularly a type called resveratrol, exhibit protective effects on the heart and blood vessels. These compounds help prevent <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation and reduce LDL cholesterol levels, further enhancing cardiovascular health.</p>
 <ul>
-<li>Resveratrol in red wine promotes relaxation of blood vessels, improving blood flow and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Resveratrol in red wine promotes relaxation of blood vessels, improving blood flow and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Regular, moderate consumption of red wine has been linked to a lower incidence of heart disease in some studies.</li>
 </ul>
 <h2 class="sec-scrl" id="flavonoids">Flavonoids and Heart Health</h2>

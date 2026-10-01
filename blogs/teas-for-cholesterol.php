@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Top Teas for Healthy Cholesterol Levels&quot;" />
     <meta property="og:description" content="Discover the top teas for managing your cholesterol levels effectively. Boost your heart health naturally with these powerful beverages." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/teas-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/teas-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/teas-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/teas-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Teas For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/teas-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/teas-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Best Teas for Cholesterol: A Guide</h1>
-<p>Are you struggling to manage your cholesterol levels despite lifestyle changes? Do you find it challenging to incorporate medications into your daily routine? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities, making even simple tasks seem daunting. But what if a simple cup of tea could help you in your battle against cholesterol?</p>
+<p>Are you struggling to manage your cholesterol levels despite lifestyle changes? Do you find it challenging to incorporate medications into your daily routine? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities, making even simple tasks seem daunting. But what if a simple cup of tea could help you in your battle against cholesterol?</p>
 <h2 class="sec-scrl" id="teas-for-cholesterol">Teas for Cholesterol</h2>
 <p>Tea has been consumed for centuries for its various health benefits. When it comes to cholesterol management, certain teas stand out for their potential to positively impact your lipid profile. Let's delve into the best teas that can help you control your cholesterol levels naturally.</p>
 <h3>Green Tea: The Ultimate Cholesterol Buster</h3>

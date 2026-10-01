@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sweet Potatoes for Blood Pressure: A Natural Solution" />
     <meta property="og:description" content="Learn how sweet potatoes can naturally help manage blood pressure, improve heart function, and support overall health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sweet-potatoes-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sweet-potatoes-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sweet-potatoes-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sweet-potatoes-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sweet Potatoes For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sweet-potatoes-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sweet-potatoes-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Sweet Potatoes for Blood Pressure Control</h1>
-<p>Are you struggling to manage your blood pressure effectively? Do you often find yourself worrying about the impact of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> on your daily activities? Sweet potatoes might just be the solution you've been searching for.</p>
+<p>Are you struggling to manage your blood pressure effectively? Do you often find yourself worrying about the impact of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> on your daily activities? Sweet potatoes might just be the solution you've been searching for.</p>
 <p>Sweet potatoes are not only delicious but also packed with nutrients that can help in maintaining healthy blood pressure levels. Let's explore how incorporating sweet potatoes into your diet can have a positive effect on your overall well-being.</p>
 <h2 class="sec-scrl" id="Potassium rich foods">Potassium-Rich Foods: A Key Player in Blood Pressure Control</h2>
 <p>One of the essential components of sweet potatoes that make them a great choice for managing blood pressure is their high potassium content. Potassium is known to counteract the effects of sodium in the body, helping to relax blood vessel walls and lower blood pressure.</p>

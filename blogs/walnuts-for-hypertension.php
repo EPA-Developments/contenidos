@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Walnuts for Hypertension: Natural Relief&quot;" />
     <meta property="og:description" content="Discover how walnuts can help lower blood pressure naturally and improve heart health. Learn more about walnuts for hypertension today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/walnuts-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/walnuts-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/walnuts-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Walnuts For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/walnuts-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/walnuts-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Walnuts for Hypertension Relief</h1>
-<p>Are you dealing with the constant worry of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> affecting your daily life? The quest for natural remedies can be overwhelming, but have you considered the power of walnuts in managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? Let's explore the potential benefits of walnuts for high blood pressure and how incorporating them into your diet could make a difference in your overall well-being.</p>
+<p>Are you dealing with the constant worry of <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> affecting your daily life? The quest for natural remedies can be overwhelming, but have you considered the power of walnuts in managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? Let's explore the potential benefits of walnuts for high blood pressure and how incorporating them into your diet could make a difference in your overall well-being.</p>
 <h2 class="sec-scrl" id="heart-health">How Walnuts Support Heart Health</h2>
 <p>Walnuts are packed with nutrients that contribute to overall heart health. Here's how walnuts can benefit your cardiovascular system:</p>
 <ul>

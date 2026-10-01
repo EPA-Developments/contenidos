@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Embolism: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Coronary Embolism blocks arteries due to a blood clot, affecting heart function.Read more about its symptoms, causes, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-embolism">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-embolism">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-embolism" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-embolism" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Embolism",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-embolism"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-embolism"
       }]
     }
   </script>
@@ -167,8 +167,8 @@
             <div class="article-content">
 <h1>Causes, and Treatment of Coronary Embolism</h1>
 <h2 id="causes">Overview of Coronary Embolism</h2>
-<p>Coronary embolism is a condition where a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> or other debris travels through the bloodstream and blocks one or more coronary arteries, leading to restricted blood flow to the heart muscle.</p>
-<p>This can result in <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>) and potentially life-threatening complications. While less common than other causes of heart attacks, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, coronary embolism is significant due to its sudden and unpredictable nature.</p>
+<p>Coronary embolism is a condition where a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> or other debris travels through the bloodstream and blocks one or more coronary arteries, leading to restricted blood flow to the heart muscle.</p>
+<p>This can result in <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>) and potentially life-threatening complications. While less common than other causes of heart attacks, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, coronary embolism is significant due to its sudden and unpredictable nature.</p>
 <p>It can affect individuals of any age, including those without traditional risk factors for heart disease.</p>
 <p>In the short term, untreated coronary embolism can lead to acute myocardial infarction, arrhythmias, heart failure, and even sudden cardiac death.</p>
 <p>In the long term, recurrent embolic events can cause chronic heart damage, increasing the risk of subsequent heart attacks and heart failure.</p>
@@ -178,14 +178,14 @@
 <p>Coronary embolism can be caused by various factors, each posing a unique threat to heart health:</p>
 <ul>
 <li>Atrial Fibrillation (AF): AF is a common heart rhythm disorder that can lead to the formation of blood clots in the atria. When these clots dislodge and travel to the coronary arteries, they can cause embolisms, compromising blood flow to the heart muscle.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>: Endocarditis is an infection of the heart's inner lining, which can lead to the formation of vegetations that can break off and embolize to the coronary arteries, causing blockages.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>: Endocarditis is an infection of the heart's inner lining, which can lead to the formation of vegetations that can break off and embolize to the coronary arteries, causing blockages.</li>
 <li>Thrombus Formation: Spontaneous clot formation within the heart chambers or blood vessels can result from conditions like hypercoagulability disorders, leading to coronary embolism.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>: Certain types of cardiomyopathy, such as dilated cardiomyopathy, can disrupt normal heart function, predisposing individuals to clot formation and subsequent <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>: Certain types of cardiomyopathy, such as dilated cardiomyopathy, can disrupt normal heart function, predisposing individuals to clot formation and subsequent <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</li>
 </ul>
 <h2>Symptoms of Coronary Embolism</h2>
 <p>The symptoms of coronary embolism can vary depending on the extent of blockage and damage to the heart muscle:</p>
 <ul>
-<li>Early signs may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort, shortness of breath, fatigue, and palpitations. These symptoms can impact daily activities and energy levels, often leading to a sense of unease or discomfort.</li>
+<li>Early signs may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort, shortness of breath, fatigue, and palpitations. These symptoms can impact daily activities and energy levels, often leading to a sense of unease or discomfort.</li>
 <li>As the condition progresses, more severe symptoms such as prolonged chest pain, sudden weakness, fainting, and signs of heart failure may manifest. These symptoms can have a significant physical and emotional toll, affecting one's quality of life and well-being.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Coronary Embolism</h2>

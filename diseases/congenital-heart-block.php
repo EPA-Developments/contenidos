@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Congenital Heart Block: Causes, Symptoms, and Treatments">
   <meta property="og:description" content="Congenital Heart Block, this condition affects heartbeat signals from birth. Read more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Congenital Heart Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-block"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Congenital heart block is a rare but potentially serious condition that affects the heart's electrical system, leading to disruptions in the normal heartbeat rhythm. This condition is present from birth and can have significant implications for an individual's health.</p>
 <p>While congenital heart block is not as common as other heart conditions, its impact on health can be severe if left untreated.</p>
 <p>Congenital heart block can vary in its severity, with some individuals experiencing mild symptoms while others may face more critical complications. The condition can affect essential functions such as heart rate regulation, blood flow, and overall cardiac function.</p>
-<p>In the short term, untreated congenital heart block can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. In the long term, it can result in serious complications such as heart failure, arrhythmias, and even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>In the short term, untreated congenital heart block can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. In the long term, it can result in serious complications such as heart failure, arrhythmias, and even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>One of the challenges of congenital heart block is its asymptomatic nature in the early stages, making it difficult to detect without proper screening.</p>
 <p>This highlights the importance of early detection through regular cardiac screenings, especially for individuals with known risk factors. By identifying congenital heart block early on, healthcare providers can implement appropriate interventions to manage the condition effectively and minimize potential complications.</p>
 <h2 id="causes">Causes of Congenital Heart Block</h2>
@@ -190,18 +190,18 @@
 <p>The symptoms of congenital heart block can vary depending on the severity of the condition and the individual's overall health.</p>
 <ul>
 <li>Fatigue: Individuals with congenital heart block may experience persistent fatigue even with minimal physical activity, impacting their daily energy levels and productivity.</li>
-<li>Dizziness: Episodes of dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> can occur due to the heart's inability to regulate blood flow effectively, leading to inadequate oxygen supply to the brain.</li>
+<li>Dizziness: Episodes of dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> can occur due to the heart's inability to regulate blood flow effectively, leading to inadequate oxygen supply to the brain.</li>
 </ul>
 <p>Advanced-stage symptoms of congenital heart block may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>: Severe cases of congenital heart block can result in fainting episodes due to the heart's inability to maintain a regular rhythm, causing a sudden drop in blood flow to the brain.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain may be present in advanced stages of congenital heart block, indicating potential heart muscle damage or strain.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>: Severe cases of congenital heart block can result in fainting episodes due to the heart's inability to maintain a regular rhythm, causing a sudden drop in blood flow to the brain.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain may be present in advanced stages of congenital heart block, indicating potential heart muscle damage or strain.</li>
 </ul>
 <h2>Diagnosis of Congenital Heart Block</h2>
 <p>Diagnosing congenital heart block typically involves a series of tests to assess the heart's electrical activity, structure, and overall function. These tests are crucial in confirming the presence of congenital heart block and determining the appropriate treatment plan.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG is a non-invasive test that records the heart's electrical activity, helping to identify any abnormalities in the heart's rhythm associated with congenital heart block.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create a detailed image of the heart's structure and function, allowing healthcare providers to assess any structural abnormalities that may contribute to congenital heart block.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG is a non-invasive test that records the heart's electrical activity, helping to identify any abnormalities in the heart's rhythm associated with congenital heart block.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create a detailed image of the heart's structure and function, allowing healthcare providers to assess any structural abnormalities that may contribute to congenital heart block.</li>
 <li>Holter Monitor: A Holter monitor is a portable device that continuously records the heart's activity over a period of time, providing valuable information about the heart's rhythm and detecting any irregularities associated with congenital heart block.</li>
 <li>Cardiac MRI: A cardiac MRI can provide detailed images of the heart's structure and function, helping healthcare providers evaluate the extent of damage or abnormalities present in congenital heart block.</li>
 </ul>

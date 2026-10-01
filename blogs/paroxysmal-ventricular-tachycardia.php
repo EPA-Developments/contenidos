@@ -10,12 +10,12 @@
     <meta property="og:title" content="Paroxysmal Ventricular Tachycardia Treatments" />
     <meta property="og:description" content="Explore effective treatments for paroxysmal ventricular tachycardia to manage VT episodes and heart arrhythmia with medications and invasive options." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/paroxysmal-ventricular-tachycardia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/paroxysmal-ventricular-tachycardia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/paroxysmal-ventricular-tachycardia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/paroxysmal-ventricular-tachycardia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Paroxysmal Ventricular Tachycardia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/paroxysmal-ventricular-tachycardia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/paroxysmal-ventricular-tachycardia"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Effective Paroxysmal VT Treatments</h1>
-<p>Are you struggling with the sudden onset of paroxysmal ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a> episodes, disrupting your daily activities and causing concern? Living with this condition can be challenging, but understanding the available treatments can help you manage and alleviate its symptoms effectively.</p>
+<p>Are you struggling with the sudden onset of paroxysmal ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a> episodes, disrupting your daily activities and causing concern? Living with this condition can be challenging, but understanding the available treatments can help you manage and alleviate its symptoms effectively.</p>
 <h2 class="sec-scrl" id="ventricular-tachycardia-treatment">Effective Ventricular Tachycardia Treatment</h2>
 <p>Paroxysmal ventricular tachycardia requires a comprehensive treatment plan to reduce the frequency and severity of episodes. Here are some common approaches:</p>
 <ul>
@@ -209,7 +209,7 @@
 <p>For some patients with paroxysmal VT, invasive procedures may be necessary to effectively manage the condition. Here are some invasive options that your healthcare provider may recommend:</p>
 <ul>
 <li><strong>Ventricular Tachycardia Ablation:</strong> During this procedure, catheters are used to target and cauterize the areas of the heart causing VT, restoring normal rhythm.</li>
-<li><strong>Implantable Cardioverter Defibrillator (ICD) Implantation:</strong> If you are at high risk of life-threatening VT episodes, your doctor may recommend an ICD implant to deliver timely shocks and prevent sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</li>
+<li><strong>Implantable Cardioverter Defibrillator (ICD) Implantation:</strong> If you are at high risk of life-threatening VT episodes, your doctor may recommend an ICD implant to deliver timely shocks and prevent sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">Concluding Thoughts</h2>
 <p>Living with paroxysmal ventricular tachycardia can be challenging, but with the right treatment plan and lifestyle modifications, you can effectively manage the condition and improve your quality of life. By working closely with your healthcare team and staying informed about available therapies, you can take control of your heart health and minimize the impact of VT on your daily life.</p>

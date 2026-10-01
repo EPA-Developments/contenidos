@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Microvascular Angina: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Microvascular Angina causes chest pain due to small blood vessels. Know more about its symptoms, causes, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/microvascular-angina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/microvascular-angina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/microvascular-angina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/microvascular-angina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Microvascular Angina",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/microvascular-angina"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/microvascular-angina"
       }]
     }
   </script>
@@ -161,11 +161,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Microvascular Angina</h1>
-<p>Microvascular angina is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> caused by abnormalities in the smallest coronary blood vessels that supply the heart muscle with oxygen. Despite not showing blockages in larger arteries, these tiny vessels fail to dilate properly, leading to reduced blood flow and chest discomfort. It's a significant condition as it affects quality of life and may lead to heart attacks. Microvascular angina is more prevalent in women than men and often occurs in younger individuals. If you experience persistent chest pain, consulting a healthcare provider is crucial for proper diagnosis and management.</p>
+<p>Microvascular angina is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> caused by abnormalities in the smallest coronary blood vessels that supply the heart muscle with oxygen. Despite not showing blockages in larger arteries, these tiny vessels fail to dilate properly, leading to reduced blood flow and chest discomfort. It's a significant condition as it affects quality of life and may lead to heart attacks. Microvascular angina is more prevalent in women than men and often occurs in younger individuals. If you experience persistent chest pain, consulting a healthcare provider is crucial for proper diagnosis and management.</p>
 <h2 id="causes">Causes of Microvascular Angina</h2>
-<p>Microvascular angina, a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> that affects the heart's smallest blood vessels, can develop due to various factors. Here are the main contributors to its development:
+<p>Microvascular angina, a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> that affects the heart's smallest blood vessels, can develop due to various factors. Here are the main contributors to its development:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> affecting blood vessel linings</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> affecting blood vessel linings</li>
 <li>Coronary microvascular spasm leading to reduced blood flow</li>
 <li>Inflammation within the blood vessels</li>
 <li>Mental stress or anxiety triggering symptoms</li>
@@ -175,9 +175,9 @@
 
 <ul>
 <li>Chest pain or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Nausea</li>
 <li>Sweating</li>
 </ul>
@@ -189,7 +189,7 @@ Early detection allows for prompt management, reducing the risk of complications
 <ul>
 <li>Thorough medical history review and symptom assessment</li>
 <li>Physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to check for abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to check for abnormal heart rhythms</li>
 <li>Stress tests to evaluate heart function under exertion</li>
 <li>Coronary angiography to assess larger arteries</li>
 <li>Coronary microvascular function testing for smaller artery evaluation</li>

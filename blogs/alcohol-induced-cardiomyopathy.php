@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Alcohol Induced Cardiomyopathy" />
     <meta property="og:description" content="Learn about Alcohol Induced Cardiomyopathy, its impact on the heart, symptoms, and more. Find out how alcohol abuse affects your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-induced-cardiomyopathy" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-induced-cardiomyopathy" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-induced-cardiomyopathy" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-induced-cardiomyopathy" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol Induced Cardiomyopathy",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-induced-cardiomyopathy"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-induced-cardiomyopathy"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Understanding Alcohol Induced Cardiomyopathy</h1>
-<p>Are you struggling with the impact of Alcohol Induced <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> on your daily life? The heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> caused by this condition can severely limit your ability to perform even simple activities. Let's explore how Alcohol Induced Cardiomyopathy affects your heart and overall well-being.</p>
+<p>Are you struggling with the impact of Alcohol Induced <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> on your daily life? The heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> caused by this condition can severely limit your ability to perform even simple activities. Let's explore how Alcohol Induced Cardiomyopathy affects your heart and overall well-being.</p>
 <h2 class="sec-scrl" id="heart-muscle-damage">Heart Muscle Damage</h2>
-<p>Alcohol Induced Cardiomyopathy, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/alcoholic-cardiomyopathy">alcoholic cardiomyopathy</a>, is a condition where chronic alcohol abuse leads to heart muscle damage. The excessive consumption of alcohol weakens the heart muscle, affecting its ability to pump blood effectively throughout the body. This can result in symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and swelling in the legs and feet.</p>
+<p>Alcohol Induced Cardiomyopathy, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/alcoholic-cardiomyopathy">alcoholic cardiomyopathy</a>, is a condition where chronic alcohol abuse leads to heart muscle damage. The excessive consumption of alcohol weakens the heart muscle, affecting its ability to pump blood effectively throughout the body. This can result in symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and swelling in the legs and feet.</p>
 <p>Some key points about heart muscle damage in Alcohol Induced Cardiomyopathy include:</p>
 <ul>
 <li>Alcohol abuse directly impairs the heart muscle's ability to contract and relax properly.</li>
@@ -142,7 +142,7 @@
 <p>Chronic alcohol abuse is the primary cause of Alcohol Induced Cardiomyopathy. The toxic effects of alcohol on the heart can gradually weaken the muscle, impacting its function and structure. Understanding the relationship between alcohol abuse and heart health is crucial in preventing and managing this condition.</p>
 <p>Here are some important facts about alcohol abuse and its impact on the heart:</p>
 <ul>
-<li>Excessive alcohol consumption can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, which strains the heart and contributes to cardiomyopathy.</li>
+<li>Excessive alcohol consumption can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, which strains the heart and contributes to cardiomyopathy.</li>
 <li>Alcohol abuse can disrupt the heart's electrical signals, leading to irregular heart rhythms and potential heart failure.</li>
 <li>Reducing or eliminating alcohol intake is essential in halting the progression of Alcohol Induced Cardiomyopathy.</li>
 </ul>
@@ -152,13 +152,13 @@
 <ul>
 <li>Shortness of breath, especially during physical exertion or when lying down.</li>
 <li>Fatigue and weakness, even with minimal activity.</li>
-<li>Swelling in the legs, ankles, or abdomen due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a>.</li>
+<li>Swelling in the legs, ankles, or abdomen due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="alcoholism-and-heart">Alcoholism and Heart</h2>
 <p>Alcoholism not only affects the heart directly through cardiomyopathy but also increases the risk of other cardiovascular conditions. Understanding the broader impact of alcoholism on heart health can help individuals make informed decisions about their drinking habits and overall well-being.</p>
 <p>Here are some key points highlighting the relationship between alcoholism and heart health:</p>
 <ul>
-<li>Excessive alcohol consumption can raise cholesterol levels and contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, increasing the risk of heart attacks and strokes.</li>
+<li>Excessive alcohol consumption can raise cholesterol levels and contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, increasing the risk of heart attacks and strokes.</li>
 <li>Alcohol abuse can weaken the immune system, making individuals more susceptible to infections that can affect the heart muscle.</li>
 <li>Seeking support for alcohol addiction and adopting a healthier lifestyle are essential steps in protecting the heart from further damage.</li>
 </ul>

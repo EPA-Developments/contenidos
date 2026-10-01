@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Quinoa Plant Protein for Heart Health&quot;" />
     <meta property="og:description" content="Discover the heart-healthy benefits of quinoa as a plant-based protein source. Improve cardiovascular nutrition with this versatile grain." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-plant-based-protein" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/quinoa-plant-based-protein" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-plant-based-protein" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/quinoa-plant-based-protein" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Quinoa Plant Based Protein",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/quinoa-plant-based-protein"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/quinoa-plant-based-protein"
         }
     ]
 }

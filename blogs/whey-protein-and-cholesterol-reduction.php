@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Whey Protein for Lower Cholesterol Levels&quot;" />
     <meta property="og:description" content="Discover how Whey Protein helps reduce cholesterol levels naturally for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cholesterol-reduction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cholesterol-reduction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cholesterol-reduction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cholesterol-reduction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Cholesterol Reduction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cholesterol-reduction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cholesterol-reduction"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <p>These improvements in your lipid profile can significantly reduce your risk of heart disease and other cardiovascular complications.</p>
 <h2 class="sec-scrl" id="mechanism">Mechanism of Action</h2>
 <p>How does whey protein help in lowering cholesterol levels? The bioactive peptides present in whey protein have been shown to inhibit the synthesis of cholesterol in the liver. Additionally, whey protein can enhance the excretion of cholesterol through bile, further aiding in its removal from the body. By modulating the activity of enzymes involved in cholesterol metabolism, whey protein promotes a favorable balance of lipoproteins in the blood.</p>
-<p>Moreover, whey protein contains high levels of cysteine, a precursor to glutathione, a powerful antioxidant that protects against oxidative stress and inflammation. By reducing oxidative damage to the blood vessels, whey protein can prevent the formation of plaques that lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Moreover, whey protein contains high levels of cysteine, a precursor to glutathione, a powerful antioxidant that protects against oxidative stress and inflammation. By reducing oxidative damage to the blood vessels, whey protein can prevent the formation of plaques that lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <h2 class="sec-scrl" id="dosage">Optimal Whey Protein Dosage</h2>
 <p>When it comes to reaping the cholesterol-lowering benefits of whey protein, the dosage matters. Studies suggest that consuming around 20-30 grams of whey protein per serving, two to three times a day, can be effective in improving lipid profiles. However, individual protein requirements may vary based on factors such as age, weight, and physical activity level. It is essential to consult with a healthcare provider or a nutritionist to determine the right dosage for your specific needs.</p>
 <h2 class="sec-scrl" id="precautions">Precautions and Considerations</h2>

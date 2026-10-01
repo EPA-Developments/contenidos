@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improving Blood Flow with Fennel Seed" />
     <meta property="og:description" content="Discover the benefits of fennel seed for improved blood flow and vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed For Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Fennel Seed for Circulation</h1>
-<p>If you've ever experienced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fatigue, you may be wondering how to enhance your blood circulation. Have you thought about trying fennel seed? Let's explore how this natural remedy can help you go about your day without the discomfort caused by poor blood flow.</p>
+<p>If you've ever experienced <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fatigue, you may be wondering how to enhance your blood circulation. Have you thought about trying fennel seed? Let's explore how this natural remedy can help you go about your day without the discomfort caused by poor blood flow.</p>
 <h2 class="sec-scrl" id="fennel-seed-benefits">How Does Fennel Seed Benefit Blood Circulation?</h2>
 <p>Fennel seed is a powerhouse of nutrients that can have a positive impact on your circulatory system. Here's how fennel seed works to improve blood flow:</p>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Angioplasty: Key Treatment for Heart Disease">
   <meta property="og:description" content="Learn about the importance of coronary angioplasty in treating heart disease. Find out how this key procedure can help improve heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coronary-angioplasty-treatment-for-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coronary-angioplasty-treatment-for-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coronary-angioplasty-treatment-for-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coronary-angioplasty-treatment-for-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Angioplasty: Key Treatment For Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/coronary-angioplasty-treatment-for-heart-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/coronary-angioplasty-treatment-for-heart-disease"  
       }]
     }
   </script>

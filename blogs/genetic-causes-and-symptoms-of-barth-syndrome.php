@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Genetic Causes and Symptoms of Barth Syndrome">
   <meta property="og:description" content="Learn about Barth Syndrome's genetic causes and symptoms. Discover how this rare genetic disorder impacts the body and potential treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/genetic-causes-and-symptoms-of-barth-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/genetic-causes-and-symptoms-of-barth-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/genetic-causes-and-symptoms-of-barth-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/genetic-causes-and-symptoms-of-barth-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Genetic Causes And Symptoms Of Barth Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/genetic-causes-and-symptoms-of-barth-syndrome"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/genetic-causes-and-symptoms-of-barth-syndrome"  
       }]
     }
   </script>

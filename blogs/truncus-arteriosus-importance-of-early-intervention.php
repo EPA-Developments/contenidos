@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Truncus Arteriosus: Importance of Early Intervention">
   <meta property="og:description" content="Learn about the importance of early intervention for truncus arteriosus. Discover how timely treatment can improve outcomes for this heart condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-importance-of-early-intervention">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-importance-of-early-intervention">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-importance-of-early-intervention" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-importance-of-early-intervention" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Truncus Arteriosus",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-importance-of-early-intervention"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-importance-of-early-intervention"  
       }]
     }
   </script>

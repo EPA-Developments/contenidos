@@ -10,12 +10,12 @@
     <meta property="og:title" content="Beer's Impact on Heart Attack Prevention" />
     <meta property="og:description" content="Explore how beer consumption may play a role in preventing heart attacks. Discover the potential benefits and risks associated with alcohol and heart health. Learn more about the relationship between beer consumption and heart disease risk." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beer-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beer-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beer And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beer-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beer-and-heart-attack-prevention"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Exploring Beer's Heart Attack Prevention</h1>
-<p>Are you concerned about your heart health and looking for ways to lower your risk of heart attacks? Have you ever wondered how beer consumption might play a role in preventing heart issues? Understanding the relationship between beer and <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention can provide valuable insights into maintaining a healthy heart. Let's dive into the potential benefits and risks associated with beer consumption and its impact on heart health.</p>
+<p>Are you concerned about your heart health and looking for ways to lower your risk of heart attacks? Have you ever wondered how beer consumption might play a role in preventing heart issues? Understanding the relationship between beer and <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention can provide valuable insights into maintaining a healthy heart. Let's dive into the potential benefits and risks associated with beer consumption and its impact on heart health.</p>
 <h2 class="sec-scrl" id="beer-and-heart-attack-prevention">Beer and Heart Attack Prevention</h2>
 <p>Beer, a popular alcoholic beverage enjoyed by many, has been a subject of interest when it comes to cardiovascular protection. Research suggests that moderate beer consumption may have a positive impact on heart health and potentially reduce the risk of heart attacks. Here are some ways in which beer could contribute to preventing heart issues:</p>
 <ul>
@@ -140,8 +140,8 @@
 <h2 class="sec-scrl" id="alcohol-and-heart">Alcohol and Heart Health: What You Need to Know</h2>
 <p>While moderate beer consumption may offer potential benefits for heart health, it's essential to understand the broader implications of alcohol on the heart. Here are some key points to consider:</p>
 <ul>
-<li>Excessive alcohol consumption can have detrimental effects on the heart, increasing the risk of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> and arrhythmias.</li>
-<li>Alcohol abuse can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, a major risk factor for heart disease and heart attacks.</li>
+<li>Excessive alcohol consumption can have detrimental effects on the heart, increasing the risk of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> and arrhythmias.</li>
+<li>Alcohol abuse can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, a major risk factor for heart disease and heart attacks.</li>
 <li>Individual responses to alcohol vary, so what may be moderate for one person could be excessive for another.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-risk">Reducing Heart Disease Risk Through Lifestyle Choices</h2>

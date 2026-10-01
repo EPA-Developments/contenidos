@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vodka and Heart Attack: Impact of Alcohol&quot;" />
     <meta property="og:description" content="Discover the impact of alcohol on heart attack development and the importance of understanding the risks associated." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vodka And Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-attack"
         }
     ]
 }
@@ -132,16 +132,16 @@
 <p>Are you aware of the connection between vodka consumption and the development of heart attacks? How does indulging in this popular alcoholic beverage impact your daily life and overall health?</p>
 <p>Alcohol consumption, particularly vodka, can have a significant influence on heart health, potentially leading to serious conditions like heart attacks. Let's explore the relationship between vodka and heart attacks in more detail.</p>
 <h2 class="sec-scrl" id="heart-attack">The Impact of Heart Attack on the Body</h2>
-<p>A <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, also known as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, occurs when the blood flow to a part of the heart is blocked for an extended period, leading to damage or death of the heart muscle. This blockage is often caused by a buildup of plaque in the coronary arteries, restricting blood flow and oxygen supply to the heart.</p>
-<p>Common symptoms of a heart attack include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, nausea, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>. If left untreated, a heart attack can result in severe complications, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> and permanent damage to the heart muscle.</p>
+<p>A <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, also known as a <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, occurs when the blood flow to a part of the heart is blocked for an extended period, leading to damage or death of the heart muscle. This blockage is often caused by a buildup of plaque in the coronary arteries, restricting blood flow and oxygen supply to the heart.</p>
+<p>Common symptoms of a heart attack include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, nausea, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>. If left untreated, a heart attack can result in severe complications, including <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> and permanent damage to the heart muscle.</p>
 <h2 class="sec-scrl" id="alcohol-consumption">The Role of Alcohol Consumption in Heart Health</h2>
 <p>Excessive alcohol consumption, including vodka, can contribute to an increased risk of heart attacks. Regular heavy drinking can elevate blood pressure, triglyceride levels, and contribute to obesity – all risk factors for cardiovascular disease.</p>
 <p>While moderate alcohol consumption may have some cardiovascular benefits, excessive or binge drinking can have detrimental effects on heart health. It's essential to consume alcohol in moderation and be mindful of its impact on overall well-being.</p>
 <h2 class="sec-scrl" id="myocardial-damage">Understanding Myocardial Damage from Alcohol</h2>
-<p>Prolonged and excessive alcohol consumption can lead to myocardial damage, affecting the structure and function of the heart muscle. Alcohol-induced <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> is a condition characterized by weakened heart muscles, leading to decreased heart efficiency and potential heart failure.</p>
+<p>Prolonged and excessive alcohol consumption can lead to myocardial damage, affecting the structure and function of the heart muscle. Alcohol-induced <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> is a condition characterized by weakened heart muscles, leading to decreased heart efficiency and potential heart failure.</p>
 <p>Individuals who consume alcohol excessively over a long period are at a higher risk of developing myocardial damage, which can increase the likelihood of experiencing cardiovascular events like heart attacks.</p>
 <h2 class="sec-scrl" id="emergency-care">Emergency Care for Heart Attack Patients</h2>
-<p>In the event of a heart attack, prompt medical intervention is crucial to minimize damage to the heart and improve outcomes. If you or someone experiences symptoms of a heart attack, such as chest pain, shortness of breath, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, seek emergency medical care immediately.</p>
+<p>In the event of a heart attack, prompt medical intervention is crucial to minimize damage to the heart and improve outcomes. If you or someone experiences symptoms of a heart attack, such as chest pain, shortness of breath, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, seek emergency medical care immediately.</p>
 <p>Emergency care for heart attack patients typically involves diagnostic tests, medication to alleviate symptoms, and procedures like angioplasty to restore blood flow to the heart. Post-heart attack care may include lifestyle changes, medication, and cardiac rehabilitation to prevent future cardiac events.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Alcohol consumption, particularly excessive intake of vodka, can have detrimental effects on heart health, increasing the risk of myocardial damage and heart attacks. It's essential to be mindful of your alcohol consumption and prioritize heart-healthy habits to protect your cardiovascular well-being.</p>

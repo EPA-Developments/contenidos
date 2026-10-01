@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vascular Ring: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Vascular Ring, a rare condition where blood vessels surround and compress the trachea and esophagus, causing breathing and swallowing difficulties.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/vascular-ring">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/vascular-ring">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-ring" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/vascular-ring" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Vascular Ring",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/vascular-ring"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/vascular-ring"
       }]
     }
   </script>

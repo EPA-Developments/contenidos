@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cyanosis: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Cyanosis turns the skin blue due to low oxygen levels in the blood. Read more about its symptoms, causes, and treatment for improved circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cyanosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cyanosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cyanosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cyanosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cyanosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cyanosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cyanosis"
       }]
     }
   </script>
@@ -167,17 +167,17 @@
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Cyanosis</h1>
 <h2 id="causes">Cyanosis Overview:</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> is a medical condition characterized by a bluish discoloration of the skin, mucous membranes, and nail beds due to decreased oxygen levels in the blood.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> is a medical condition characterized by a bluish discoloration of the skin, mucous membranes, and nail beds due to decreased oxygen levels in the blood.</p>
 <p>This bluish tint results from the increased concentration of deoxygenated hemoglobin, giving a blue hue to the skin. While cyanosis can be a sign of underlying health issues, it is essential to understand its significance, prevalence, and impact on health.</p>
 <p>Cyanosis is a critical indicator of compromised oxygen delivery in the body, affecting various vital functions. The skin, lips, and nail beds may show cyanosis as a visible sign, but the impact extends beyond appearance.</p>
-<p>In severe cases, cyanosis can lead to organ damage due to oxygen deprivation. Short-term risks include hypoxia-related symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> and confusion. Long-term complications can include organ failure and tissue damage if left untreated.</p>
+<p>In severe cases, cyanosis can lead to organ damage due to oxygen deprivation. Short-term risks include hypoxia-related symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> and confusion. Long-term complications can include organ failure and tissue damage if left untreated.</p>
 <p>In the early stages, cyanosis may be asymptomatic, making it challenging to detect without proper screening. Early detection through regular health check-ups and screenings is crucial to prevent complications and initiate timely interventions to improve outcomes.</p>
 <h2 id="symptoms">Causes of Cyanosis:</h2>
 <ul>
 <li>Heart Conditions: Heart diseases like congenital heart defects can lead to cyanosis by reducing the oxygen supply to the body over time.</li>
 <li>Respiratory Disorders: Conditions such as chronic obstructive pulmonary disease (COPD) can impair oxygen exchange in the lungs, causing cyanosis.</li>
 <li>Blood Disorders: Anemia or abnormal hemoglobin levels can contribute to cyanosis by affecting oxygen-carrying capacity.</li>
-<li>Circulatory Issues: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> or peripheral vascular diseases can limit oxygen delivery to tissues, resulting in cyanosis.</li>
+<li>Circulatory Issues: <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> or peripheral vascular diseases can limit oxygen delivery to tissues, resulting in cyanosis.</li>
 <li>Secondary Risk Factors:</li>
 <li>Smoking: Tobacco use can worsen cyanosis by further compromising lung function and oxygen exchange.</li>
 <li>Obesity: Excess weight can strain the heart and lungs, exacerbating cyanosis symptoms.</li>
@@ -186,16 +186,16 @@
 <h2>Symptoms of Cyanosis:</h2>
 <ul>
 <li>Fatigue: Cyanosis can lead to fatigue due to reduced oxygen delivery to tissues, impacting energy levels and daily activities.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> may be an early symptom of cyanosis, affecting physical exertion and overall well-being.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> may be an early symptom of cyanosis, affecting physical exertion and overall well-being.</li>
 <li>Advanced Symptoms:</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Severe cyanosis can cause chest pain, affecting both physical and emotional health.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Severe cyanosis can cause chest pain, affecting both physical and emotional health.</li>
 <li>Confusion: Oxygen deprivation in advanced cyanosis can lead to confusion and cognitive impairments, impacting daily life significantly.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Cyanosis:</h2>
 <ul>
 <li>Arterial Blood Gas Analysis: This test measures oxygen and carbon dioxide levels in the blood, helping diagnose cyanosis.</li>
 <li>Pulse Oximetry: This non-invasive test measures oxygen saturation levels in the blood, aiding in cyanosis detection.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An ultrasound of the heart can reveal structural abnormalities contributing to cyanosis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An ultrasound of the heart can reveal structural abnormalities contributing to cyanosis.</li>
 <li>Chest X-ray: This imaging test can provide insights into lung conditions affecting oxygen exchange.</li>
 </ul>
 <h2>Treatment Options for Cyanosis:</h2>

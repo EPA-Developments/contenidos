@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Doppler Ultrasound: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Doppler ultrasound evaluates blood flow and heart conditions. Know more about the purpose, costs, and normal Range for accurate health assessments." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/doppler-ultrasound" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/doppler-ultrasound" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/doppler-ultrasound" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/doppler-ultrasound" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Doppler Ultrasound",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/doppler-ultrasound"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/doppler-ultrasound"  
       }]
     }
   </script>

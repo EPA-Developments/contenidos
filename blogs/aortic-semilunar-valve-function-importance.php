@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Function and Importance of the Aortic Semilunar Valve">
   <meta property="og:description" content="Learn about the aortic semilunar valve, its crucial role in heart function, and why it is essential for maintaining proper blood flow.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aortic-semilunar-valve-function-importance">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aortic-semilunar-valve-function-importance">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aortic-semilunar-valve-function-importance" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aortic-semilunar-valve-function-importance" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Function And Importance Of The Aortic Semilunar Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/aortic-semilunar-valve-function-importance"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/aortic-semilunar-valve-function-importance"  
       }]
     }
   </script>

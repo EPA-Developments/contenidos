@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Alcoholic Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Alcoholic cardiomyopathy weakens the heart muscle. Know more about its causes, symptoms, and treatment treatment for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/alcoholic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/alcoholic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/alcoholic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/alcoholic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Alcoholic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/alcoholic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/alcoholic-cardiomyopathy"
       }]
     }
   </script>
@@ -168,18 +168,18 @@
 <li>Nutritional deficiencies due to poor diet</li>
 <li>Toxic effects of alcohol on heart muscle cells</li>
 <li>Inflammation and oxidative stress in the heart</li>
-<li>Alcohol-related <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiotoxicity">cardiotoxicity</a></li>
+<li>Alcohol-related <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiotoxicity">cardiotoxicity</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Alcoholic Cardiomyopathy</h2>
 <p>Recognizing the symptoms of Alcoholic Cardiomyopathy early on is crucial for improving outcomes and preventing further damage to the heart. By being aware of the signs and seeking medical attention promptly, individuals can receive timely intervention and management to protect their heart health.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity or when lying flat</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity or when lying flat</li>
 <li>Swelling in the legs, ankles, or feet due to fluid retention</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, even with mild exertion</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, even with mild exertion</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul></p>
 <h2>Diagnosis of Alcoholic Cardiomyopathy</h2>
 <p>Alcoholic Cardiomyopathy is a condition where long-term alcohol abuse weakens and damages the heart muscle. Accurate diagnosis is crucial to initiate timely interventions and prevent further complications. The diagnostic process typically involves a combination of tests to assess heart function and the extent of damage. Diagnostic methods include:

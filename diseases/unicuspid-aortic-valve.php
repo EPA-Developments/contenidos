@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Unicuspid Aortic Valve: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Unicuspid Aortic Valve is a rare defect affecting blood flow. Read more about its causes, symptoms, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/unicuspid-aortic-valve">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/unicuspid-aortic-valve">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/unicuspid-aortic-valve" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/unicuspid-aortic-valve" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Unicuspid Aortic Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/unicuspid-aortic-valve"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/unicuspid-aortic-valve"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>The Unicuspid Aortic Valve is a rare congenital heart defect characterized by the aortic valve having only one functional cusp instead of the normal three cusps. This condition significantly impacts heart function, leading to various health implications.</p>
 <p>While its prevalence is low compared to other heart valve abnormalities, Unicuspid Aortic Valve poses serious risks if left untreated.</p>
 <p>The essential functions affected by this condition include proper blood flow regulation, which can lead to complications such as aortic stenosis, regurgitation, and heart failure.</p>
-<p>In the short term, untreated Unicuspid Aortic Valve can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. Long-term risks include increased risk of infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>, arrhythmias, and premature death.</p>
+<p>In the short term, untreated Unicuspid Aortic Valve can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. Long-term risks include increased risk of infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>, arrhythmias, and premature death.</p>
 <p>It's crucial to note that Unicuspid Aortic Valve can be asymptomatic in its early stages, underscoring the importance of early detection through regular screenings to prevent potential complications.</p>
 <h2 id="causes">Causes of Unicuspid Aortic Valve:</h2>
 <p>The primary causes of Unicuspid Aortic Valve are attributed to genetic factors, developmental abnormalities during fetal growth, and certain medical conditions.</p>
@@ -177,19 +177,19 @@
 <p>Over time, this structural anomaly can impair proper valve function, affecting blood flow regulation and increasing the risk of complications.</p>
 <ul>
 <li>Fetal Development Abnormalities: In some cases, abnormal development of the aortic valve during fetal growth can result in a unicuspid valve. This developmental anomaly can impact heart function and predispose individuals to Unicuspid Aortic Valve-related issues.</li>
-<li>Medical Conditions: Certain medical conditions, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or bicuspid aortic valve, can increase the likelihood of developing Unicuspid Aortic Valve. These conditions may affect the structural integrity of the heart valves, leading to abnormalities like a unicuspid valve.</li>
+<li>Medical Conditions: Certain medical conditions, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or bicuspid aortic valve, can increase the likelihood of developing Unicuspid Aortic Valve. These conditions may affect the structural integrity of the heart valves, leading to abnormalities like a unicuspid valve.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors for Unicuspid Aortic Valve may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Chronic <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can impose excessive strain on the heart, potentially contributing to the development of heart valve abnormalities like Unicuspid Aortic Valve.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Chronic <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can impose excessive strain on the heart, potentially contributing to the development of heart valve abnormalities like Unicuspid Aortic Valve.</li>
 <li>Smoking: Tobacco use can damage blood vessels and affect overall heart health, increasing the risk of cardiovascular conditions such as Unicuspid Aortic Valve.</li>
-<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can promote the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, which may indirectly impact heart valve function and contribute to Unicuspid Aortic Valve.</li>
+<li>Poor Diet: Consuming a diet high in saturated fats and cholesterol can promote the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, which may indirectly impact heart valve function and contribute to Unicuspid Aortic Valve.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Unicuspid Aortic Valve:</h2>
 <h3>Early-stage symptoms of Unicuspid Aortic Valve may include:</h3>
 <ul>
 <li>Fatigue: Individuals with Unicuspid Aortic Valve may experience persistent fatigue due to decreased cardiac output and inefficient blood circulation, impacting their energy levels and daily activities.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, can be a common early symptom of Unicuspid Aortic Valve, affecting one's ability to engage in physical activities comfortably.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, can be a common early symptom of Unicuspid Aortic Valve, affecting one's ability to engage in physical activities comfortably.</li>
 </ul>
 <h3>Advanced-stage symptoms of Unicuspid Aortic Valve may include:</h3>
 <ul>

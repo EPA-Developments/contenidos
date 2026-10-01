@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Sarcoidosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac sarcoidosis causes heart inflammation, affecting rhythm. Read about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-sarcoidosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-sarcoidosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-sarcoidosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-sarcoidosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Sarcoidosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-sarcoidosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-sarcoidosis"
       }]
     }
   </script>
@@ -177,19 +177,19 @@
 
 <h3>Symptoms of Cardiac Sarcoidosis include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
 <li>Swelling in the legs</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 </ul>
 Early detection of these symptoms and seeking medical attention promptly can lead to a better prognosis and improved quality of life for individuals with Cardiac Sarcoidosis.</p>
 <h2>Diagnosis of Cardiac Sarcoidosis</h2>
 <p>Diagnosing Cardiac Sarcoidosis is crucial as it can mimic other heart conditions and lead to serious complications if left untreated. The diagnostic process involves various methods to confirm the condition accurately:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) and <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function and rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) and <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function and rhythm.</li>
 <li>Cardiac MRI or PET scan to detect inflammation in the heart tissue.</li>
 <li>Biopsy of heart tissue to confirm the presence of granulomas.</li>
 <li>Blood tests to check for markers of inflammation.</li>

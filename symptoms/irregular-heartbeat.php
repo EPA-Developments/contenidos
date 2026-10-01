@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Irregular Heartbeat: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Irregular heartbeat can be concerning. Know more about its causes, symptoms, diagnosis, and treatment options for your heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Irregular Heartbeat",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat"  
       }]
     }
   </script>
@@ -186,11 +186,11 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Irregular Heartbeat: Symptoms, Causes, and Diagnosis</h1>
-<p>Irregular heartbeat, also known as arrhythmia, is a condition where the heart beats in an abnormal rhythm. This can manifest as an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-pulse">irregular pulse</a>, uneven heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, or any other abnormal rhythm in the heart.</p>
+<p>Irregular heartbeat, also known as arrhythmia, is a condition where the heart beats in an abnormal rhythm. This can manifest as an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-pulse">irregular pulse</a>, uneven heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, or any other abnormal rhythm in the heart.</p>
 <p>It is characterized by heartbeat skips, fluttering heart sensations, or heart rhythm disorders like ectopic beats.</p>
 <h2 id="forms">What are the Forms of Irregular Heartbeat?</h2>
-<p>There are several forms of irregular heartbeat, each with its specific symptoms and characteristics. These include atrial fibrillation, atrial flutter, supraventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, ventricular tachycardia, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
-<p>Symptoms may vary from <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fainting, or fatigue.</p>
+<p>There are several forms of irregular heartbeat, each with its specific symptoms and characteristics. These include atrial fibrillation, atrial flutter, supraventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, ventricular tachycardia, and <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
+<p>Symptoms may vary from <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> to <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fainting, or fatigue.</p>
 <h2 id="causes">What are the Causes of Irregular Heartbeat?</h2>
 <p>Irregular heartbeat can be caused by various factors, including heart conditions, lifestyle choices, and other health issues. Common causes include high blood pressure, coronary artery disease, heart attack, diabetes, smoking, excessive alcohol consumption, stress, thyroid disorders, and certain medications.</p>
 <ul>

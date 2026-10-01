@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heavy Drinking and Stroke Risk: What You Need to Know" />
     <meta property="og:description" content="Learn how heavy drinking affects stroke risk. Understand the connection between alcohol consumption and strokes." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-stroke-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-stroke-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-stroke-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-stroke-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Stroke Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-stroke-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-stroke-risk"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>A cerebral stroke, also known as an ischemic stroke, occurs when a blood vessel supplying blood to the brain is obstructed. Heavy alcohol consumption can lead to the development of cerebral strokes due to its effects on blood pressure and the formation of blood clots. Alcohol abuse can significantly increase the risk of experiencing a cerebral stroke, which can have devastating consequences on your brain health.</p>
 <p>Factors such as binge drinking and prolonged alcohol abuse contribute to the development of cerebral strokes by damaging blood vessels and increasing the likelihood of clot formation. It is essential to recognize the impact of heavy drinking on your risk of cerebral strokes and take proactive measures to reduce your alcohol intake to protect your brain health.</p>
 <h2 class="sec-scrl" id="Ischemic Stroke">Ischemic Stroke</h2>
-<p>An ischemic stroke occurs when a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> blocks a blood vessel supplying blood to the brain. Alcohol consumption, especially in large quantities, can raise your risk of developing ischemic strokes by promoting the formation of blood clots. The effects of alcohol on blood clotting factors can significantly increase the likelihood of experiencing an ischemic stroke.</p>
+<p>An ischemic stroke occurs when a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> blocks a blood vessel supplying blood to the brain. Alcohol consumption, especially in large quantities, can raise your risk of developing ischemic strokes by promoting the formation of blood clots. The effects of alcohol on blood clotting factors can significantly increase the likelihood of experiencing an ischemic stroke.</p>
 <ul>
 <li>Regularly exceeding recommended alcohol limits can lead to changes in blood viscosity, making it easier for clots to form.</li>
 <li>Chronic alcohol consumption can also disrupt the balance of clotting factors in the blood, further increasing the risk of ischemic strokes.</li>
@@ -143,7 +143,7 @@
 <h2 class="sec-scrl" id="Hemorrhagic Stroke">Hemorrhagic Stroke</h2>
 <p>Hemorrhagic strokes occur when a weakened blood vessel ruptures and bleeds into the surrounding brain tissue. Heavy alcohol consumption can elevate your risk of experiencing a hemorrhagic stroke by contributing to the weakening of blood vessel walls and increasing blood pressure levels. Understanding the connection between alcohol intake and hemorrhagic strokes is vital for maintaining your brain health.</p>
 <ul>
-<li>Alcohol-related <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can strain blood vessels, making them more susceptible to rupture and causing hemorrhagic strokes.</li>
+<li>Alcohol-related <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can strain blood vessels, making them more susceptible to rupture and causing hemorrhagic strokes.</li>
 <li>Excessive alcohol consumption can also interfere with the body's ability to regulate blood pressure, further raising the risk of hemorrhagic strokes.</li>
 <li>Limiting alcohol consumption and adopting a healthy lifestyle can help reduce the likelihood of suffering from a hemorrhagic stroke.</li>
 </ul>
@@ -160,7 +160,7 @@
 <li>Limit your alcohol intake to moderate levels as recommended by health guidelines to minimize the risk of stroke occurrence.</li>
 <li>Maintain a balanced diet rich in fruits, vegetables, and whole grains to support cardiovascular health and reduce stroke risk.</li>
 <li>Engage in regular physical activity to manage weight, lower blood pressure, and improve overall vascular function.</li>
-<li>Monitor and control other risk factors for strokes, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, diabetes, and smoking, to further decrease your likelihood of experiencing a stroke.</li>
+<li>Monitor and control other risk factors for strokes, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, diabetes, and smoking, to further decrease your likelihood of experiencing a stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="Conclusion">Conclusion</h2>
 <p>In conclusion, the impact of heavy drinking on stroke risk is significant, with alcohol consumption playing a prominent role in the development of various types of strokes. By understanding the relationship between alcohol intake and stroke occurrence, you can take proactive steps to reduce your risk and safeguard your brain health. Prioritizing moderation in alcohol consumption, adopting a healthy lifestyle, and implementing effective stroke prevention strategies are key to protecting yourself from the potential consequences of alcohol-related strokes. Remember, your choices today can have a lasting impact on your vascular health and overall well-being.</p>

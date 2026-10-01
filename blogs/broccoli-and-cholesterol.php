@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Broccoli's Effects on Cholesterol&quot;" />
     <meta property="og:description" content="Discover how broccoli can positively influence your cholesterol levels and support heart health in this informative article." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-cholesterol"
         }
     ]
 }
@@ -145,12 +145,12 @@
 <h2 class="sec-scrl" id="cardiovascular-system">Maintaining a Healthy Cardiovascular System with Broccoli</h2>
 <p>Broccoli's unique combination of nutrients makes it a valuable asset in maintaining a healthy cardiovascular system. By including broccoli in your diet, you can:</p>
 <ul>
-<li>Lower LDL cholesterol levels and decrease the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Lower LDL cholesterol levels and decrease the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Boost HDL cholesterol, the good cholesterol that helps remove excess LDL from the arteries.</li>
 <li>Reduce triglyceride levels, which are associated with an increased risk of heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
-<p>Broccoli can be a powerful ally in the battle against <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> and its associated risks. By harnessing the benefits of broccoli's fatty acids, dietary fiber, and heart-protective properties, you can take proactive steps to improve your blood lipids and support your cardiovascular health.</p>
+<p>Broccoli can be a powerful ally in the battle against <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> and its associated risks. By harnessing the benefits of broccoli's fatty acids, dietary fiber, and heart-protective properties, you can take proactive steps to improve your blood lipids and support your cardiovascular health.</p>
 <p>Make broccoli a staple in your meals to enjoy a delicious way to lower LDL, raise HDL, and keep your triglycerides in check. Remember, small dietary changes can lead to significant improvements in your overall well-being, so why not start with adding more broccoli to your plate today?</p>
             </div>
           </div>

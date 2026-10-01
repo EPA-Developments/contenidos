@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oats for Heart Health: Benefits and Facts&quot;" />
     <meta property="og:description" content="Explore the impact of oats on heart health - from reducing heart disease risk to enhancing heart function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oats-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oats-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oats-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oats-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oats And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oats-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oats-and-cardiovascular-health"
         }
     ]
 }
@@ -131,11 +131,11 @@
               <h1>The Role of Oats in Heart Health</h1>
 <p>Are you concerned about your heart health and looking for natural ways to improve it? Have you ever wondered how incorporating oats into your diet can benefit your cardiovascular system and overall well-being? Let's dive into the science behind oats and their impact on heart health.</p>
 <h2 class="sec-scrl" id="heart-disease-risk">Managing Heart Disease Risk with Oats</h2>
-<p>Heart disease risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can significantly impact your cardiovascular health. Fortunately, regular oat consumption has been linked to a reduced risk of heart disease. Oats are rich in soluble fiber, which helps lower LDL cholesterol, often referred to as the "bad" cholesterol. By including oats in your daily diet, you can take a proactive step towards protecting your heart.</p>
-<p>Moreover, oats contain antioxidants that combat oxidative stress and inflammation, both of which play a role in the development of heart disease. These powerful compounds help maintain the health of your blood vessels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
+<p>Heart disease risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can significantly impact your cardiovascular health. Fortunately, regular oat consumption has been linked to a reduced risk of heart disease. Oats are rich in soluble fiber, which helps lower LDL cholesterol, often referred to as the "bad" cholesterol. By including oats in your daily diet, you can take a proactive step towards protecting your heart.</p>
+<p>Moreover, oats contain antioxidants that combat oxidative stress and inflammation, both of which play a role in the development of heart disease. These powerful compounds help maintain the health of your blood vessels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
 <h2 class="sec-scrl" id="prevention">Preventing Heart Attacks with Oats</h2>
 <p>Can oat consumption actually help prevent heart attacks? Research suggests that the answer is yes. Oats contain beta-glucans, a type of soluble fiber that not only lowers cholesterol but also improves blood sugar control. Stable blood sugar levels are crucial for reducing the risk of heart attacks, especially in individuals with diabetes or insulin resistance.</p>
-<p>Furthermore, the fiber in oats promotes a feeling of fullness, which can aid in weight management. Maintaining a healthy weight is key to preventing heart disease and reducing the strain on your heart. By incorporating oats into your meals, you can support your heart health and potentially lower your risk of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>Furthermore, the fiber in oats promotes a feeling of fullness, which can aid in weight management. Maintaining a healthy weight is key to preventing heart disease and reducing the strain on your heart. By incorporating oats into your meals, you can support your heart health and potentially lower your risk of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <h2 class="sec-scrl" id="oat-consumption">Maximizing Heart Function with Oats</h2>
 <p>How does oat consumption impact heart function? Oats are not only beneficial for preventing heart disease but also for enhancing the overall function of your heart. The fiber and antioxidants in oats contribute to improved circulation and reduced inflammation, both of which are vital for maintaining a healthy cardiovascular system.</p>
 <ul>

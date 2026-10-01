@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cucumber: Heart Health Hydration&quot;" />
     <meta property="og:description" content="Discover how cucumber's hydration benefits can boost heart health. Maximize electrolytes for optimal cardiovascular function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hydration-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hydration-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hydration-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hydration-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hydration For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hydration-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hydration-for-heart-health"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Cucumber Advantage for Heart Health</h1>
-<p>Are you struggling to maintain proper hydration for heart health? Do you often feel fatigued, dizzy, or experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> during your daily activities? Hydration plays a crucial role in supporting your heart's function and overall well-being. Let's explore how staying hydrated, specifically with the help of cucumbers, can benefit your cardiovascular health.</p>
+<p>Are you struggling to maintain proper hydration for heart health? Do you often feel fatigued, dizzy, or experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> during your daily activities? Hydration plays a crucial role in supporting your heart's function and overall well-being. Let's explore how staying hydrated, specifically with the help of cucumbers, can benefit your cardiovascular health.</p>
 <h2 class="sec-scrl" id="blood-volume">How Does Hydration Affect Blood Volume and Circulation?</h2>
 <p>Proper hydration is essential for maintaining adequate blood volume in your body. When you are dehydrated, your blood becomes thicker, making it harder for your heart to pump blood efficiently. This can lead to increased strain on the heart and may negatively impact your circulation. By staying hydrated, you ensure that your blood maintains the right consistency, allowing it to flow smoothly through your blood vessels and reach all parts of your body.</p>
 <p>Here are some key ways in which hydration affects your blood volume and circulation:</p>
@@ -150,7 +150,7 @@
 <p>Hydration plays a direct role in the health of your circulatory system, which includes your heart, blood vessels, and blood. When you are well-hydrated, your blood flows more easily through your arteries and veins, reducing the risk of blood clots and other cardiovascular complications. Dehydration, on the other hand, can lead to thicker blood and increased strain on your heart.</p>
 <p>Consider these effects of hydration on your circulatory system:</p>
 <ul>
-<li>Proper hydration supports the elasticity of blood vessels, promoting healthy blood flow and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Proper hydration supports the elasticity of blood vessels, promoting healthy blood flow and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Well-hydrated blood is less likely to form clots, lowering the chances of heart attacks and strokes.</li>
 <li>Hydration helps maintain a healthy balance of red blood cells, ensuring optimal oxygen delivery throughout your body.</li>
 </ul>

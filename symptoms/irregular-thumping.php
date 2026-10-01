@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Irregular Thumping: Causes, Symptoms, and Treatment Options" >
   <meta property="og:description" content="Irregular thumping in your chest can signal heart issues. Know more about its symptoms, causes, and available treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-thumping">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/irregular-thumping">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-thumping" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-thumping" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Irregular Thumping",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/irregular-thumping"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/irregular-thumping"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Irregular Thumping: Diagnosis, Symptoms, and Treatment Options</h1>
-<p>Irregular thumping, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, refers to the sensation of your heart beating in an unusual or irregular way.</p>
-<p>This can manifest as uneven heartbeats, a throbbing heart sensation, irregular heart rhythm, thumping heartbeat, erratic heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a>, or an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-pulse">irregular pulse</a>. It is often described as a fluttering, racing, or pounding feeling in the chest.</p>
-<p>Symptoms of irregular thumping may vary from person to person but commonly include a rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, a sensation of your heart skipping beats, chest discomfort or pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue.</p>
-<p>It is essential to note that occasional palpitations are common and usually harmless. However, if you experience frequent or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations">severe palpitations</a>, it may indicate an underlying health issue.</p>
+<p>Irregular thumping, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, refers to the sensation of your heart beating in an unusual or irregular way.</p>
+<p>This can manifest as uneven heartbeats, a throbbing heart sensation, irregular heart rhythm, thumping heartbeat, erratic heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a>, or an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-pulse">irregular pulse</a>. It is often described as a fluttering, racing, or pounding feeling in the chest.</p>
+<p>Symptoms of irregular thumping may vary from person to person but commonly include a rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, a sensation of your heart skipping beats, chest discomfort or pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue.</p>
+<p>It is essential to note that occasional palpitations are common and usually harmless. However, if you experience frequent or <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations">severe palpitations</a>, it may indicate an underlying health issue.</p>
 <h2 id="forms">What are the Forms of Irregular thumping?</h2>
 <p>There are different forms of irregular thumping, each with specific symptoms and related concepts. These forms may include premature contractions, supraventricular tachycardia, ventricular tachycardia, atrial fibrillation, and atrial flutter. Each form presents unique characteristics that require different management approaches.</p>
 <ul>

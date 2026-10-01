@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Non-Ischemic Cardiomyopathy: Causes, Symptoms & Treatments">
   <meta property="og:description" content="Non-Ischemic Cardiomyopathy affects the heart muscle without blockage. Know more about its causes, symptoms, and treatments for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/non-ischemic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/non-ischemic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/non-ischemic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/non-ischemic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Non-Ischemic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/non-ischemic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/non-ischemic-cardiomyopathy"
       }]
     }
   </script>
@@ -166,18 +166,18 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatments of Non-Ischemic Cardiomyopathy</h1>
-<p>Non-<a href="https://plataforma.epa-bienestar.com.ar/diseases/ischemic-cardiomyopathy">ischemic cardiomyopathy</a> is a type of heart muscle disease that affects the heart's ability to pump blood efficiently, leading to potential complications such as heart failure, arrhythmias, and sudden cardiac death.</p>
+<p>Non-<a href="https://contenidos.segundaopinionmedica.org/diseases/ischemic-cardiomyopathy">ischemic cardiomyopathy</a> is a type of heart muscle disease that affects the heart's ability to pump blood efficiently, leading to potential complications such as heart failure, arrhythmias, and sudden cardiac death.</p>
 <p>Unlike ischemic cardiomyopathy, which is primarily caused by coronary artery disease, non-ischemic cardiomyopathy is not related to blood flow blockages in the heart.</p>
 <p>It is a significant condition due to its impact on overall heart function and the potential for serious health consequences if left untreated.</p>
 <p>In terms of prevalence, non-ischemic cardiomyopathy is estimated to account for a significant proportion of heart failure cases globally. It can affect individuals of all ages, although it is more commonly seen in older adults.</p>
 <p>The condition can have a profound impact on health by affecting various essential functions of the heart, including filtration, blood pressure regulation, hormone production, and electrolyte balance.</p>
 <p>Disruption in these functions can lead to fluid retention, abnormal heart rhythms, and decreased cardiac output.</p>
-<p>Short-term risks of untreated non-ischemic cardiomyopathy include worsening heart failure symptoms, increased risk of arrhythmias, and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, the condition can progress to severe heart failure, necessitating advanced treatment options such as heart transplantation.</p>
+<p>Short-term risks of untreated non-ischemic cardiomyopathy include worsening heart failure symptoms, increased risk of arrhythmias, and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, the condition can progress to severe heart failure, necessitating advanced treatment options such as heart transplantation.</p>
 <p>Notably, non-ischemic cardiomyopathy can be asymptomatic in its early stages, highlighting the importance of early detection through regular screenings to prevent disease progression and improve outcomes.</p>
 <h2 id="causes">Causes of Non-Ischemic Cardiomyopathy</h2>
 <p>Non-ischemic cardiomyopathy can have various underlying causes, each contributing to the structural and functional changes in the heart muscle.</p>
 <ul>
-<li><b>Genetic Factors:</b> Certain genetic mutations can predispose individuals to developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, affecting the heart's ability to contract and pump blood effectively over time.</li>
+<li><b>Genetic Factors:</b> Certain genetic mutations can predispose individuals to developing <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, affecting the heart's ability to contract and pump blood effectively over time.</li>
 </ul>
 <ul>
 <li><b>Viral Infections:</b> Viral infections of the heart muscle can lead to inflammation and damage, resulting in cardiomyopathy.</li>
@@ -193,7 +193,7 @@
 <li><b>Obesity:</b> Excess body weight puts additional strain on the heart, increasing the risk of developing cardiomyopathy.</li>
 </ul>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: </b>Uncontrolled <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can lead to heart muscle thickening and stiffness, contributing to cardiomyopathy.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: </b>Uncontrolled <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can lead to heart muscle thickening and stiffness, contributing to cardiomyopathy.</li>
 </ul>
 <ul>
 <li><b>Smoking:</b> Tobacco smoke contains harmful chemicals that can damage the heart muscle and increase the risk of cardiomyopathy.</li>
@@ -204,14 +204,14 @@
 <li><b>Fatigue:</b> Persistent tiredness or lack of energy that can impact daily activities and quality of life.</li>
 </ul>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>:</b> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion or lying flat, indicating reduced heart function.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>:</b> <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion or lying flat, indicating reduced heart function.</li>
 </ul>
 <p>As the condition progresses to advanced stages, more pronounced symptoms may manifest, including:</p>
 <ul>
 <li><b>Swelling:</b> Edema in the legs, ankles, or abdomen due to fluid retention caused by heart failure.</li>
 </ul>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>:</b> Discomfort or pressure in the chest, especially during physical activity or stress.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>:</b> Discomfort or pressure in the chest, especially during physical activity or stress.</li>
 </ul>
 <h2>Diagnosis of Non-Ischemic Cardiomyopathy</h2>
 <p>Diagnosing non-ischemic cardiomyopathy involves a comprehensive evaluation to assess heart function and structure.</p>

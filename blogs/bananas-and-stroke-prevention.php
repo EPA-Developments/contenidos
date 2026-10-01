@@ -10,12 +10,12 @@
     <meta property="og:title" content="Bananas: Reducing Stroke Risk" />
     <meta property="og:description" content="Learn how bananas can help reduce stroke risk and improve vascular health. Discover the benefits of potassium for cardiovascular protection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas And Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-and-stroke-prevention"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cardiovascular Protection</h2>
 <p>How do bananas provide protection to your cardiovascular system, and what role does this play in stroke prevention?</p>
-<p>Consuming bananas regularly can help manage your blood pressure levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a significant risk factor for strokes. The rich potassium content in bananas supports proper heart function, ensuring that your cardiovascular system operates efficiently.</p>
+<p>Consuming bananas regularly can help manage your blood pressure levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a significant risk factor for strokes. The rich potassium content in bananas supports proper heart function, ensuring that your cardiovascular system operates efficiently.</p>
 <ul>
 <li>Bananas aid in managing blood pressure levels</li>
 <li>Potassium in bananas supports optimal heart function</li>

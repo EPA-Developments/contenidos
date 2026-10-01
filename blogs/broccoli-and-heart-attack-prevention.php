@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Broccoli for Heart Health&quot;" />
     <meta property="og:description" content="Discover how broccoli can help lower your risk of heart attacks. Learn about its benefits in preventing heart disease and maintaining cardiac health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-attack-prevention"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Broccoli for Heart Attack Prevention</h1>
-<p>Are you looking to safeguard your heart health and prevent the risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? Wondering how you can incorporate simple dietary changes to promote a healthier heart? Let's explore the potential benefits of broccoli in reducing the risk of heart attacks and how it can positively impact your daily life.</p>
+<p>Are you looking to safeguard your heart health and prevent the risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? Wondering how you can incorporate simple dietary changes to promote a healthier heart? Let's explore the potential benefits of broccoli in reducing the risk of heart attacks and how it can positively impact your daily life.</p>
 <h2 class="sec-scrl" id="risk-factors">Understanding the Risk Factors</h2>
-<p>Heart attacks can be triggered by various risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, obesity, and smoking. By addressing these risk factors, you can significantly reduce the likelihood of experiencing a heart attack. Incorporating broccoli into your diet can help combat these risk factors due to its unique nutritional profile.</p>
+<p>Heart attacks can be triggered by various risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, obesity, and smoking. By addressing these risk factors, you can significantly reduce the likelihood of experiencing a heart attack. Incorporating broccoli into your diet can help combat these risk factors due to its unique nutritional profile.</p>
 <ul>
 <li>Broccoli is rich in antioxidants that help reduce oxidative stress and inflammation in the body, both of which are linked to an increased risk of heart disease.</li>
 <li>The fiber content in broccoli can aid in lowering cholesterol levels, thus reducing the risk of plaque buildup in the arteries that can lead to heart attacks.</li>

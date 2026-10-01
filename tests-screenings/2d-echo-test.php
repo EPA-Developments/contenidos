@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="2D Echo Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="2D echo is a non-invasive test used to analyze the functioning and assess the sections of your heart. Know more about its purpose, Costs and normal Range" property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/2d-echo-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/2d-echo-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/2d-echo-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/2d-echo-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "2d Echo test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/2d-echo-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/2d-echo-test"  
       }]
     }
   </script>
@@ -156,15 +156,15 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range and Purpose of 2D Echo Test</h1>
-<p>A 2D <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, also known as a 2D Echo Test, is a non-invasive diagnostic imaging test that uses ultrasound technology to create detailed images of the heart.</p>
+<p>A 2D <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, also known as a 2D Echo Test, is a non-invasive diagnostic imaging test that uses ultrasound technology to create detailed images of the heart.</p>
 <p>This test allows healthcare providers to assess the structure and function of the heart in real-time.</p>
 <p>During a 2D Echo Test, a transducer is placed on the chest, which emits high-frequency sound waves that bounce off the heart structures and create images on a screen.</p>
 <p>These images provide valuable information about the size of the heart chambers, the thickness of the heart walls, the movement of the heart valves, and the overall function of the heart muscle.</p>
-<p>2D <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a crucial tool in diagnosing various heart conditions, including heart disease, valvular abnormalities, and myocardial dysfunction.</p>
+<p>2D <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a crucial tool in diagnosing various heart conditions, including heart disease, valvular abnormalities, and myocardial dysfunction.</p>
 <p>It is a safe and painless procedure that does not involve any radiation exposure, making it suitable for patients of all ages.</p>
 <p>Examples of situations where a 2D Echo Test may be recommended include:</p>
 <ul>
-<li>Assessing heart function in patients with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Assessing heart function in patients with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Monitoring heart conditions in patients with a history of heart disease</li>
 <li>Evaluating the effectiveness of treatment in patients with heart failure</li>
 </ul>
@@ -177,7 +177,7 @@
 <li>Monitoring the effectiveness of heart treatments</li>
 <li>Evaluating the overall function of the heart muscle</li>
 </ul>
-<p>In scenarios where a patient presents with symptoms such as chest pain, shortness of breath, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, a 2D Echo Test can provide crucial insights into the underlying cause of these symptoms.</p>
+<p>In scenarios where a patient presents with symptoms such as chest pain, shortness of breath, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, a 2D Echo Test can provide crucial insights into the underlying cause of these symptoms.</p>
 <p>By visualizing the heart in real-time, healthcare providers can make informed decisions about the best course of treatment for the patient.</p>
 <h2 id="costs">What are the Costs of 2D Echo Test Tests in Americas?</h2>
 <p>The cost of a 2D Echo Test in Americas can vary depending on various factors such as the location of the healthcare facility, the expertise of the healthcare providers, and the type of equipment used for the test.</p>

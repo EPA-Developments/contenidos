@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Potassium's Impact on Heart Rhythm: A Guide&quot;" />
     <meta property="og:description" content="Learn how potassium influences heart rhythm and arrhythmias. Discover the impact of potassium on irregular heartbeats, atrial fibrillation, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-heart-arrhythmias" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-heart-arrhythmias" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-heart-arrhythmias" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-heart-arrhythmias" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium Heart Arrhythmias",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-heart-arrhythmias"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-heart-arrhythmias"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Low potassium levels (hypokalemia) or high potassium levels (hyperkalemia) can both contribute to abnormal heart rhythms.</li>
 </ul>
 <h2 class="sec-scrl" id="potassium-and-irregular-heartbeat">Potassium and Irregular Heartbeat: Understanding the Connection</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, or arrhythmia, can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, fluttering sensations, or a racing heart. Potassium plays a crucial role in preventing and managing irregular heartbeats. Here's how potassium influences your heart's electrical activity:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, or arrhythmia, can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, fluttering sensations, or a racing heart. Potassium plays a crucial role in preventing and managing irregular heartbeats. Here's how potassium influences your heart's electrical activity:</p>
 <ul>
 <li>Low potassium levels can lead to a condition called atrial fibrillation, characterized by rapid and irregular heartbeats.</li>
 <li>Consuming potassium-rich foods like bananas, oranges, and leafy greens can help maintain optimal potassium levels and support a regular heart rhythm.</li>
@@ -152,7 +152,7 @@
 <li>Combining potassium-rich foods with a balanced diet and regular physical activity can contribute to a healthy heart rhythm.</li>
 </ul>
 <h2 class="sec-scrl" id="potassium-and-heart-palpitations">Potassium and Heart Palpitations: Balancing Electrolytes for Heart Health</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, often described as a sensation of fluttering or pounding in the chest, can be unsettling. Potassium plays a crucial role in maintaining electrolyte balance, which is essential for heart health. Here's how potassium can help manage heart palpitations:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, often described as a sensation of fluttering or pounding in the chest, can be unsettling. Potassium plays a crucial role in maintaining electrolyte balance, which is essential for heart health. Here's how potassium can help manage heart palpitations:</p>
 <ul>
 <li>Ensuring an adequate intake of potassium through diet can help prevent electrolyte imbalances that contribute to heart palpitations.</li>
 <li>Individuals experiencing frequent heart palpitations may benefit from evaluating their potassium levels and making dietary adjustments as needed.</li>

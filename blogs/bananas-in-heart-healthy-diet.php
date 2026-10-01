@@ -10,12 +10,12 @@
     <meta property="og:title" content="Bananas for Heart Health: A Nutrient-Packed Choice" />
     <meta property="og:description" content="Discover the benefits of bananas in a heart-healthy diet: boost heart wellness with this potassium-rich fruit." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-in-heart-healthy-diet" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-in-heart-healthy-diet" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-in-heart-healthy-diet" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-in-heart-healthy-diet" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas In Heart Healthy Diet",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-in-heart-healthy-diet"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-in-heart-healthy-diet"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
 <p>Heart disease is a leading cause of mortality worldwide, emphasizing the importance of preventive measures through lifestyle modifications. Including bananas in your diet can be a simple yet effective way to reduce the risk of heart-related ailments. Here's how bananas support heart health:</p>
 <ul>
-<li>Rich in potassium, bananas help regulate blood pressure, lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease.</li>
+<li>Rich in potassium, bananas help regulate blood pressure, lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease.</li>
 <li>The fiber content in bananas aids in reducing cholesterol levels, promoting a healthier heart by preventing plaque buildup in the arteries.</li>
 </ul>
 <p>By actively incorporating potassium-rich foods like bananas into your diet, you can take a proactive step towards preventing heart disease and maintaining cardiovascular wellness.</p>

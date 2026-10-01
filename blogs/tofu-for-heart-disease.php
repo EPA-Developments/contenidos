@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tofu for Heart Disease: Safety and Benefits" />
     <meta property="og:description" content="Discover if tofu is safe for heart disease patients. Learn about its benefits for heart health and how it fits into a heart-healthy diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tofu-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tofu-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tofu-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tofu-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tofu For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tofu-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tofu-for-heart-disease"
         }
     ]
 }

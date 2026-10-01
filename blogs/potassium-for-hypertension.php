@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potassium for Lowering Blood Pressure" />
     <meta property="og:description" content="Learn how potassium influences hypertension, blood pressure, and heart health. Discover the benefits of potassium-rich foods and supplements." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Potassium and Hypertension: A Crucial Connection</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> effectively? Do you wonder how potassium fits into the equation of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> control? Daily activities can become a challenge when your blood pressure is constantly on your mind. Understanding the role of potassium in regulating blood pressure can be a game-changer in your journey towards better heart health.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> effectively? Do you wonder how potassium fits into the equation of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> control? Daily activities can become a challenge when your blood pressure is constantly on your mind. Understanding the role of potassium in regulating blood pressure can be a game-changer in your journey towards better heart health.</p>
 <h2 class="sec-scrl" id="potassium-and-blood-pressure-regulation">Potassium and Blood Pressure Regulation</h2>
 <p>Potassium plays a crucial role in balancing sodium levels in your body. Sodium, commonly found in table salt, can lead to increased blood pressure when consumed in excess. Potassium helps counteract the effects of sodium by relaxing the walls of blood vessels, making it easier for your heart to pump blood efficiently.</p>
 <p>Here are some key points to consider regarding potassium and blood pressure regulation:</p>

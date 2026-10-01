@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Isolated Systolic Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Isolated systolic hypertension increases heart strain. Know more about its causes, symptoms, and treatment for better blood pressure control." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/isolated-systolic-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/isolated-systolic-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/isolated-systolic-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/isolated-systolic-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Isolated Systolic Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/isolated-systolic-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/isolated-systolic-hypertension"
       }]
     }
   </script>
@@ -176,10 +176,10 @@
 
 <ul>
 <li>Headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Blurred vision</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 </ul>
 
 Early detection through symptom recognition allows for timely intervention and reduces the risk of complications associated with ISH. Regular blood pressure monitoring and seeking medical advice for persistent or concerning symptoms are essential for maintaining heart health.</p>
@@ -189,8 +189,8 @@ Early detection through symptom recognition allows for timely intervention and r
 <ul>
 <li>Physical examination to measure blood pressure</li>
 <li>Blood tests to check for underlying conditions</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Ambulatory blood pressure monitoring for a more comprehensive view</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Isolated Systolic Hypertension</h2>

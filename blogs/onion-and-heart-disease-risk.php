@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onion for Heart Health: Risk Reduction&quot;" />
     <meta property="og:description" content="Learn how onions can help reduce heart disease risk. Discover the link between onions and cardiovascular protection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-heart-disease-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-and-heart-disease-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-heart-disease-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-and-heart-disease-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion And Heart Disease Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-and-heart-disease-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-and-heart-disease-risk"
         }
     ]
 }
@@ -131,10 +131,10 @@
               <h1>The Role of Onion in Heart Health</h1>
 <p>Are you concerned about your heart health? Wondering how onion can help reduce the risk of heart disease and improve your overall well-being? Let's explore the connection between onion consumption and heart health, and how incorporating this flavorful vegetable into your diet can benefit you in your daily activities.</p>
 <h2 class="sec-scrl" id="heart-disease-factors">Heart Disease Factors</h2>
-<p>Heart disease is a leading cause of death worldwide, with various factors contributing to its development. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, elevated cholesterol levels, inflammation, and other risk factors can significantly increase your chances of developing heart disease. However, certain dietary choices, like including onions in your meals, can play a crucial role in reducing these risk factors and promoting cardiovascular health.</p>
+<p>Heart disease is a leading cause of death worldwide, with various factors contributing to its development. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, elevated cholesterol levels, inflammation, and other risk factors can significantly increase your chances of developing heart disease. However, certain dietary choices, like including onions in your meals, can play a crucial role in reducing these risk factors and promoting cardiovascular health.</p>
 <p>Onions are rich in sulfur compounds that have been shown to help lower cholesterol levels and blood pressure, two key factors in heart disease development. By incorporating onions into your diet, you can take a proactive step towards managing these risk factors and protecting your heart.</p>
 <h2 class="sec-scrl" id="risk-factors">Risk Factors</h2>
-<p>In addition to <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> and blood pressure, other risk factors such as obesity, diabetes, and a sedentary lifestyle can also contribute to heart disease. The good news is that onions contain antioxidants and anti-inflammatory properties that can help combat these risk factors.</p>
+<p>In addition to <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> and blood pressure, other risk factors such as obesity, diabetes, and a sedentary lifestyle can also contribute to heart disease. The good news is that onions contain antioxidants and anti-inflammatory properties that can help combat these risk factors.</p>
 <p>Regular consumption of onions can aid in weight management, regulate blood sugar levels, and reduce inflammation in the body. By addressing these risk factors, onions can support your overall cardiovascular health and lower your chances of developing heart disease.</p>
 <h2 class="sec-scrl" id="cholesterol-control">Cholesterol Control</h2>
 <p>One of the key benefits of onions in heart disease risk reduction is their ability to control cholesterol levels. High levels of LDL cholesterol, also known as "bad" cholesterol, can lead to plaque buildup in the arteries, increasing the risk of heart attacks and strokes.</p>

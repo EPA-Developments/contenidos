@@ -10,12 +10,12 @@
     <meta property="og:title" content="The High Cholesterol Heart Risk" />
     <meta property="og:description" content="Learn how high cholesterol affects your heart health. Discover the risks, symptoms, and prevention strategies in our comprehensive guide." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/high-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/high-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/high-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/high-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "High Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/high-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/high-cholesterol"
         }
     ]
 }
@@ -129,17 +129,17 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Effects of High Cholesterol on Heart Health</h1>
-<p>Are you worried about the effects of <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> on your heart health? How does it impact your daily activities and overall well-being?</p>
+<p>Are you worried about the effects of <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> on your heart health? How does it impact your daily activities and overall well-being?</p>
 <p>High Cholesterol is a common health concern that affects millions of people worldwide. It can significantly impact your heart health and increase the risk of developing serious cardiovascular conditions. In this article, we will explore the various aspects of High Cholesterol, from its effects on Cholesterol levels to the risks of plaque buildup and heart disease.</p>
 <h2 class="sec-scrl" id="Cholesterol levels">Managing Cholesterol Levels</h2>
-<p>Cholesterol is a fatty substance that is essential for building healthy cells in the body. However, when Cholesterol levels are too high, it can lead to a condition known as Hypercholesterolemia. This can increase the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a disease where plaque builds up inside your arteries, narrowing them and restricting blood flow.</p>
+<p>Cholesterol is a fatty substance that is essential for building healthy cells in the body. However, when Cholesterol levels are too high, it can lead to a condition known as Hypercholesterolemia. This can increase the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a disease where plaque builds up inside your arteries, narrowing them and restricting blood flow.</p>
 <ul>
 <li>Monitor your Cholesterol levels regularly through blood tests.</li>
 <li>Adopt a healthy diet low in saturated fats and high in fruits, vegetables, and whole grains.</li>
 <li>Engage in regular physical activity to help lower Cholesterol levels.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular risk">Assessing Cardiovascular Risk</h2>
-<p>Having High Cholesterol levels can significantly increase your cardiovascular risk. The excess Cholesterol in your blood can contribute to the formation of plaques in your arteries, which can lead to serious conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke.</p>
+<p>Having High Cholesterol levels can significantly increase your cardiovascular risk. The excess Cholesterol in your blood can contribute to the formation of plaques in your arteries, which can lead to serious conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke.</p>
 <ul>
 <li>Understand your personal risk factors for cardiovascular disease.</li>
 <li>Work with your healthcare provider to develop a personalized risk reduction plan.</li>
@@ -155,7 +155,7 @@
 <h2 class="sec-scrl" id="heart disease">Understanding Heart Disease Risks</h2>
 <p>High Cholesterol is a significant risk factor for heart disease, one of the leading causes of death globally. Elevated Cholesterol levels can contribute to the development of coronary artery disease, heart attacks, and other cardiovascular conditions.</p>
 <ul>
-<li>Learn about the symptoms of heart disease and seek medical attention if you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or other signs.</li>
+<li>Learn about the symptoms of heart disease and seek medical attention if you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or other signs.</li>
 <li>Manage your Cholesterol levels through lifestyle changes and medication as prescribed.</li>
 <li>Work with your healthcare team to develop a plan for preventing heart disease and maintaining heart health.</li>
 </ul>

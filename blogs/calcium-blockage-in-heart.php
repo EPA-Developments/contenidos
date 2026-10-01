@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Calcium Blockage in Heart Health" />
     <meta property="og:description" content="Discover how calcium blockage affects heart function and blood pressure, uncovering its impact on daily activities." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-blockage-in-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-blockage-in-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-blockage-in-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-blockage-in-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium Blockage In Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-blockage-in-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-blockage-in-heart"
         }
     ]
 }
@@ -173,16 +173,16 @@
 <h2 class="sec-scrl" id="heart-blockage-symptoms">Heart Blockage Symptoms</h2>
 <p>When calcium deposits accumulate in the arteries of your heart, it can result in heart blockages that manifest through various symptoms. These symptoms may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
 </ul>
 <p>If you experience any of these symptoms, it's essential to seek medical attention promptly to prevent further complications.</p>
 <h2 class="sec-scrl" id="coronary-artery-issues">Coronary Artery Issues</h2>
 <p>Calcium blockage in the heart can significantly impact the coronary arteries, which are responsible for supplying oxygen-rich blood to the heart muscle. When these arteries become narrowed or blocked due to calcium deposits, it can lead to:</p>
 <ul>
-<li>Increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li>Increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 <li>Reduced blood flow to the heart</li>
 <li>Risk of heart muscle damage</li>
 </ul>

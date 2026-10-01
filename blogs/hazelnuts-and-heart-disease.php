@@ -10,12 +10,12 @@
     <meta property="og:title" content="Hazelnuts: Heart Health Benefits" />
     <meta property="og:description" content="Discover how hazelnuts can help prevent heart disease with their antioxidant-rich properties. Learn more about the impact of hazelnuts on cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hazelnuts And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-heart-disease"
         }
     ]
 }

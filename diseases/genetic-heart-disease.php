@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Genetic Heart Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Genetic Heart Disease affects heart health due to inherited genes. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/genetic-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/genetic-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/genetic-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/genetic-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Genetic Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/genetic-heart-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/genetic-heart-disease"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Genetic Heart Disease</h1>
-<p>Genetic heart disease is a condition caused by changes or mutations in genes responsible for heart function. It can lead to various heart problems, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or arrhythmias. Understanding genetic heart disease is crucial as it can affect individuals of any age, including young and apparently healthy individuals. While specific prevalence rates vary, genetic heart diseases are not uncommon and can have serious implications if left undiagnosed or untreated. Genetic testing and early detection play a vital role in managing these conditions effectively.</p>
+<p>Genetic heart disease is a condition caused by changes or mutations in genes responsible for heart function. It can lead to various heart problems, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or arrhythmias. Understanding genetic heart disease is crucial as it can affect individuals of any age, including young and apparently healthy individuals. While specific prevalence rates vary, genetic heart diseases are not uncommon and can have serious implications if left undiagnosed or untreated. Genetic testing and early detection play a vital role in managing these conditions effectively.</p>
 <h2 id="causes">Causes of Genetic Heart Disease</h2>
 <p>Genetic heart disease can develop due to various factors, including:
 
 <ul>
 <li>Family history of heart conditions</li>
 <li>Inherited genetic mutations affecting heart function</li>
-<li>Presence of certain genetic disorders like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or familial hypercholesterolemia</li>
+<li>Presence of certain genetic disorders like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or familial hypercholesterolemia</li>
 <li>Environmental factors interacting with genetic predispositions</li>
 <li>Lifestyle habits that can exacerbate genetic risks</li>
 </ul></p>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Genetic Heart Disease is crucial as early detection can significantly improve outcomes. Symptoms may vary, so being aware of them can lead to timely intervention and treatment. Here are common symptoms to watch for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Swelling in the legs, abdomen, or other areas</li>
 </ul></p>
 <h2>Diagnosis of Genetic Heart Disease</h2>

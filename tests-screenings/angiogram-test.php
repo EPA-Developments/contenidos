@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Angiogram Test: Normal Range, Costs and Purpose" property="og:title"/>
 <meta content="An angiogram is an X-ray or computer scan that shows blood flow in your arteries, veins, or heart. Know more about its purpose, costs and normal Range" property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/angiogram-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/angiogram-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/angiogram-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/angiogram-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Angiogram Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/angiogram-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/angiogram-test"  
       }]
     }
   </script>
@@ -164,9 +164,9 @@
 <p>By detecting blockages and narrowing of the arteries, angiography helps doctors determine the most appropriate treatment plan for the patient.</p>
 <h2 id="purpose">What is the Purpose of Performing an Angiogram Test?</h2>
 <p>The primary purpose of performing an angiogram test is to evaluate the blood vessels and detect any abnormalities or blockages that may be causing symptoms or complications.</p>
-<p>In the case of coronary artery disease, angiography is used to assess the extent of blockages in the heart arteries and determine the need for interventions such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
+<p>In the case of coronary artery disease, angiography is used to assess the extent of blockages in the heart arteries and determine the need for interventions such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery.</p>
 <p>Angiogram tests are also essential for diagnosing peripheral artery disease, a condition that affects the blood vessels outside the heart and brain.</p>
-<p>By visualizing the blood flow in the legs or arms, angiography helps doctors identify narrowing or blockages that may be causing symptoms like leg pain, numbness, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</p>
+<p>By visualizing the blood flow in the legs or arms, angiography helps doctors identify narrowing or blockages that may be causing symptoms like leg pain, numbness, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</p>
 <p>Additionally, angiography plays a vital role in evaluating vascular blockages in other parts of the body, such as the brain or kidneys.</p>
 <p>By identifying aneurysms or abnormalities in the blood vessels, doctors can recommend appropriate treatments to prevent complications like strokes or organ damage.</p>
 <h2 id="costs">What are the Costs of Angiogram Test Tests in Americas?</h2>

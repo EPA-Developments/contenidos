@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Milk's Role in Healthy Blood Vessels&quot;" />
     <meta property="og:description" content="Discover the advantages of milk for healthy blood vessels - boost vascular health and arterial function with calcium-rich dairy." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-vessel-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-vessel-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-vessel-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-vessel-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Milk And Blood Vessel Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/milk-and-blood-vessel-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/milk-and-blood-vessel-health"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Benefits of Milk for Healthy Blood Vessels</h1>
 <p>Are you struggling with maintaining healthy blood vessels? Do you often wonder how you can support your arterial function for better overall health? The state of your blood vessels plays a crucial role in your daily activities, impacting everything from your energy levels to your risk of developing cardiovascular issues. Understanding the benefits of milk for blood vessel health can provide valuable insights into enhancing your vascular well-being.</p>
 <h2 class="sec-scrl" id="vascular-health">Why is Vascular Health Important?</h2>
-<p>Our blood vessels, including arteries, veins, and capillaries, form an intricate network responsible for circulating blood throughout the body. Optimal vascular health is essential for ensuring that oxygen and nutrients reach all tissues and organs efficiently. When blood vessels are compromised, it can lead to various health issues, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, heart disease, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</p>
+<p>Our blood vessels, including arteries, veins, and capillaries, form an intricate network responsible for circulating blood throughout the body. Optimal vascular health is essential for ensuring that oxygen and nutrients reach all tissues and organs efficiently. When blood vessels are compromised, it can lead to various health issues, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, heart disease, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</p>
 <p>Here are some key factors that can influence vascular health:</p>
 <ul>
 <li>Smoking and tobacco use</li>
@@ -140,7 +140,7 @@
 <li>Genetic predisposition</li>
 </ul>
 <h2 class="sec-scrl" id="arterial-function">How Does Milk Support Arterial Function?</h2>
-<p>Milk is renowned for its rich calcium content, which is not only vital for strong bones but also plays a significant role in supporting arterial function. Calcium helps regulate muscle tone in blood vessels, promoting relaxation and preventing constriction that can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Additionally, milk contains essential nutrients like potassium and magnesium that further contribute to vascular health.</p>
+<p>Milk is renowned for its rich calcium content, which is not only vital for strong bones but also plays a significant role in supporting arterial function. Calcium helps regulate muscle tone in blood vessels, promoting relaxation and preventing constriction that can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Additionally, milk contains essential nutrients like potassium and magnesium that further contribute to vascular health.</p>
 <p>Key benefits of milk for arterial function include:</p>
 <ul>
 <li>Enhanced endothelial function</li>
@@ -148,7 +148,7 @@
 <li>Lowered cholesterol levels</li>
 </ul>
 <h2 class="sec-scrl" id="calcium">The Role of Calcium in Maintaining Healthy Blood Vessels</h2>
-<p>Calcium is a crucial mineral that not only supports bone health but also aids in maintaining the elasticity and integrity of blood vessels. Adequate calcium levels help prevent the hardening of arteries and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arterial walls. Including calcium-rich foods like milk in your diet can contribute to overall vascular wellness.</p>
+<p>Calcium is a crucial mineral that not only supports bone health but also aids in maintaining the elasticity and integrity of blood vessels. Adequate calcium levels help prevent the hardening of arteries and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arterial walls. Including calcium-rich foods like milk in your diet can contribute to overall vascular wellness.</p>
 <p>Other sources of calcium besides milk include:</p>
 <ul>
 <li>Yogurt</li>

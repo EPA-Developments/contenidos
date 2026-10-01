@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Burning Sensation in Chest: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Burning sensation in chest could point to heart conditions. Learn more about its symptoms, diagnosis, causes, and treatments for better heart health" >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/burning-sensation-in-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/burning-sensation-in-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/burning-sensation-in-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/burning-sensation-in-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Burning Sensation In Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/burning-sensation-in-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/burning-sensation-in-chest"  
       }]
     }
   </script>
@@ -187,10 +187,10 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Burning Sensation in Chest: Symptoms, Causes and Forms</h1>
 <p>Burning sensation in the chest is a common symptom that many people experience at some point in their lives. It is often described as a feeling of heat, discomfort, or pain in the chest area.</p>
-<p>This sensation can vary in intensity and may be accompanied by other symptoms such as acid reflux, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a>, or difficulty swallowing.</p>
+<p>This sensation can vary in intensity and may be accompanied by other symptoms such as acid reflux, <a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a>, or difficulty swallowing.</p>
 <p>The most common cause of a burning sensation in the chest is acid reflux, which occurs when stomach acid flows back up into the esophagus.</p>
 <p>This can irritate the lining of the esophagus and cause a burning feeling in the chest. Other causes of chest burning include gastroesophageal reflux disease (GERD), chest irritation, and acid indigestion.</p>
-<p>Symptoms of burning <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> can range from mild to severe and may be triggered by certain foods, stress, or lying down after eating.</p>
+<p>Symptoms of burning <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> can range from mild to severe and may be triggered by certain foods, stress, or lying down after eating.</p>
 <p>It is essential to pay attention to these symptoms and seek medical advice if they persist or worsen over time.</p>
 <h2 id="forms">What are the Forms of Burning sensation in chest?</h2>
 <p>There are several forms of burning sensation in the chest, each with its specific symptoms and related concepts. Some common forms include heartburn, chest reflux, acid indigestion, and GERD symptoms chest burning.</p>
@@ -211,7 +211,7 @@
 <p>Other less common causes of burning chest pain include esophageal spasms, hiatal hernia, and certain medications. It is essential to consult a healthcare provider to determine the underlying cause of the symptoms and receive appropriate treatment.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Burning sensation in chest?</h2>
 <p>Diagnosing the cause of burning sensation in the chest typically involves a combination of medical history, physical examination, and diagnostic tests. Healthcare providers may ask about symptoms, triggers, and medical history to determine the underlying cause of the chest pain.</p>
-<p>Basic diagnostic tests for burning chest pain may include blood tests, chest X-rays, or an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to rule out heart-related issues.</p>
+<p>Basic diagnostic tests for burning chest pain may include blood tests, chest X-rays, or an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to rule out heart-related issues.</p>
 <p>Advanced diagnostic methods such as an upper endoscopy, esophageal pH monitoring, or a barium swallow test may be used to evaluate the esophagus and stomach.</p>
 <p>Upper endoscopy is a procedure that involves inserting a flexible tube with a camera into the esophagus to examine the lining and detect any abnormalities.</p>
 <p>Esophageal pH monitoring measures the amount of acid in the esophagus over a 24-hour period, helping diagnose acid reflux and GERD. A barium swallow test involves swallowing a contrast dye to visualize the esophagus and stomach on X-rays.</p>

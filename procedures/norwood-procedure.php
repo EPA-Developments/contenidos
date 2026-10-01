@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Norwood Procedure: Benefits, Risks, Steps, Recovery & Outcomes">
   <meta property="og:description" content="Learn about the benefits, risks, steps, recovery, and long-term outcomes of the Norwood Procedure for congenital heart defects like hypoplastic left heart syndrome.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/norwood-procedure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/norwood-procedure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/norwood-procedure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/norwood-procedure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Norwood Procedure",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/norwood-procedure"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/norwood-procedure"  
       }]
     }
   </script>

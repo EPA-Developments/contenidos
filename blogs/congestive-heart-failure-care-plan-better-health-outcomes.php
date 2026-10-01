@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Congestive Heart Failure Care Plan for Better Health Outcomes">
   <meta property="og:description" content="Learn how to create an effective congestive heart failure care plan to improve health outcomes. Expert tips and strategies for managing CHF.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/congestive-heart-failure-care-plan-better-health-outcomes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/congestive-heart-failure-care-plan-better-health-outcomes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/congestive-heart-failure-care-plan-better-health-outcomes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/congestive-heart-failure-care-plan-better-health-outcomes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Congestive Heart Failure Care Plan For Better Health Outcomes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/congestive-heart-failure-care-plan-better-health-outcomes"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/congestive-heart-failure-care-plan-better-health-outcomes"  
       }]
     }
   </script>

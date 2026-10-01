@@ -10,12 +10,12 @@
     <meta property="og:title" content="Bananas: Heart Rhythm Support" />
     <meta property="og:description" content="Discover how bananas can help regulate heart rhythms naturally. Learn about the benefits of potassium and electrolytes for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-heart-rhythm" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-heart-rhythm" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-heart-rhythm" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-heart-rhythm" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas And Heart Rhythm",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-heart-rhythm"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-and-heart-rhythm"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Bananas: Heart Rhythms Remedy</h1>
-<p>Do you often experience irregular heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>? Are these heart rhythm disturbances affecting your daily activities and causing concern? The solution might be simpler than you think. Let's explore how bananas, a common fruit found in most households, can play a significant role in regulating heart rhythms and promoting cardiovascular health.</p>
+<p>Do you often experience irregular heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>? Are these heart rhythm disturbances affecting your daily activities and causing concern? The solution might be simpler than you think. Let's explore how bananas, a common fruit found in most households, can play a significant role in regulating heart rhythms and promoting cardiovascular health.</p>
 <h2 class="sec-scrl" id="potassium">Why Are Bananas Rich in Potassium?</h2>
 <p>Bananas are well-known for their high potassium content, with one medium-sized banana containing around 400-450 mg of this essential mineral. Potassium plays a crucial role in maintaining normal heart function and regulating heart rhythms. Here's how potassium in bananas benefits your heart:</p>
 <ul>

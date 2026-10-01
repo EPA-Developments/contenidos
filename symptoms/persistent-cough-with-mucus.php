@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Persistent Cough with Mucus: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Experiencing a persistent cough with mucus? Learn about causes, symptoms, and treatment options for managing this common symptom effectively. Don't ignore signs of persistent cough with mucus, especially if it could be related to heart disease or respiratory infections. Know when to seek help for relief.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough-with-mucus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough-with-mucus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough-with-mucus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough-with-mucus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Persistent Cough With Mucus",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough-with-mucus"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough-with-mucus"  
       }]
     }
   </script>
@@ -189,7 +189,7 @@
 <p>Persistent cough with mucus, also known as a productive cough or wet cough, is a common respiratory symptom characterized by the production of excessive mucus or phlegm from the lungs and airways.</p>
 <p>This condition can be indicative of various underlying health issues, including respiratory infections, allergies, asthma, chronic bronchitis, or even heart disease.</p>
 <p>Individuals experiencing persistent cough with mucus often find it challenging to clear their airways, leading to discomfort and irritation in the chest and throat.</p>
-<p>Symptoms of persistent cough with mucus may include a rattling sound in the chest, wheezing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-congestion">chest congestion</a>, and frequent throat clearing.</p>
+<p>Symptoms of persistent cough with mucus may include a rattling sound in the chest, wheezing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-congestion">chest congestion</a>, and frequent throat clearing.</p>
 <p>The color and consistency of the mucus can also vary, ranging from clear or white to yellow or green, depending on the underlying cause of the cough.</p>
 <p>It is essential to pay attention to these symptoms and seek medical advice if the cough persists for more than a few weeks or is accompanied by other concerning signs.</p>
 <h2 id="forms">What are the Forms of Persistent cough with mucus?</h2>
@@ -212,7 +212,7 @@
 <li>Asthma or chronic obstructive pulmonary disease (COPD)</li>
 <li>Gastroesophageal reflux disease (GERD)</li>
 <li>Smoking or exposure to environmental pollutants</li>
-<li>Heart disease or <a href="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure">congestive heart failure</a></li>
+<li>Heart disease or <a href="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure">congestive heart failure</a></li>
 </ul>
 <p>Each of these causes can trigger inflammation in the airways, leading to the production of excess mucus and persistent coughing. Understanding the underlying cause of the cough is crucial in determining the appropriate treatment and management plan.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Persistent cough with mucus?</h2>
@@ -242,8 +242,8 @@
 <ul>
 <li>Persistent coughing for more than three weeks</li>
 <li>Blood in the mucus or sputum</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or shortness of breath</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or shortness of breath</li>
 <li>Unexplained weight loss or fatigue</li>
 <li>Recurrent respiratory infections or fever</li>
 </ul>

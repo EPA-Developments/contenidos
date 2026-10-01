@@ -10,12 +10,12 @@
     <meta property="og:title" content="Causes of Abnormal Heart Sounds" />
     <meta property="og:description" content="Explore the reasons behind abnormal heart sounds and their impact on cardiovascular health in this informative blog." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-sounds" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-sounds" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-sounds" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-sounds" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Abnormal Heart Sounds",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-sounds"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-sounds"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Exploring Abnormal Heart Sounds: Causes &amp; Symptoms</h1>
-<p>Have you ever felt like your heart is making strange noises, like a whooshing or a clicking sound? Do you wonder what these abnormal <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> mean and how they might affect your daily activities? Abnormal heart sounds, also known as heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>, can be concerning and may signal an underlying issue with your heart's function. Understanding the causes of these sounds is crucial for proper diagnosis and treatment. Let's explore common reasons behind abnormal heart sounds and their impact on your health.</p>
+<p>Have you ever felt like your heart is making strange noises, like a whooshing or a clicking sound? Do you wonder what these abnormal <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> mean and how they might affect your daily activities? Abnormal heart sounds, also known as heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>, can be concerning and may signal an underlying issue with your heart's function. Understanding the causes of these sounds is crucial for proper diagnosis and treatment. Let's explore common reasons behind abnormal heart sounds and their impact on your health.</p>
 <h2 class="sec-scrl" id="murmur-detection">Murmur Detection</h2>
 <p>Heart murmurs are abnormal sounds heard during a heartbeat cycle, often indicating turbulent blood flow within the heart. These sounds can be detected during a physical examination using a stethoscope. Here are some common causes of heart murmurs:</p>
 <ul>
@@ -189,8 +189,8 @@
 <h2 class="sec-scrl" id="cardiovascular-evaluation">Cardiovascular Evaluation</h2>
 <p>When abnormal heart sounds are detected, further cardiovascular evaluation may be necessary to determine the underlying cause. This evaluation may involve:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>
 </ul>
 <p>These tests help healthcare providers accurately diagnose heart conditions and develop an appropriate treatment plan.</p>

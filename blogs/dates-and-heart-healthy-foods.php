@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Dates and Heart Healthy Foods: A Perfect Match&quot;" />
     <meta property="og:description" content="Explore how dates and other heart-healthy foods combine to boost cardiovascular wellness. Discover powerful nutrient-dense combinations for a healthy heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-and-heart-healthy-foods" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-and-heart-healthy-foods" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-and-heart-healthy-foods" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-and-heart-healthy-foods" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates And Heart Healthy Foods",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-and-heart-healthy-foods"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-and-heart-healthy-foods"
         }
     ]
 }

@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Cocoa's Heart Health Benefits'" />
     <meta property="og:description" content="Explore how cocoa can reduce heart disease risk naturally with antioxidants and dark chocolate. Improve cardiovascular health today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa And Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-disease-prevention"
         }
     ]
 }
@@ -135,9 +135,9 @@
 <p>Some of the antioxidants found in cocoa include catechins and procyanidins, which have been linked to lower blood pressure and reduced risk of heart disease. These compounds work by improving blood flow, reducing cholesterol levels, and protecting the heart against damage.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cardiovascular Protection</h2>
 <p>How does cocoa offer protection to your cardiovascular system? Cocoa helps improve endothelial function, which is essential for healthy arteries. The flavonoids in cocoa can relax blood vessels, reduce inflammation, and prevent the formation of blood clots, all of which contribute to better heart health.</p>
-<p>Regular consumption of cocoa has been associated with a lower risk of stroke, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, and other cardiovascular events. By including cocoa in your diet, you can support your heart and reduce your overall risk of developing heart disease.</p>
+<p>Regular consumption of cocoa has been associated with a lower risk of stroke, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, and other cardiovascular events. By including cocoa in your diet, you can support your heart and reduce your overall risk of developing heart disease.</p>
 <h2 class="sec-scrl" id="cocoa-and-arteries">Cocoa and Arteries</h2>
-<p>How does cocoa benefit your arteries? The flavonoids in cocoa can help improve arterial health by increasing the flexibility of blood vessels and promoting better blood flow. This, in turn, can reduce the workload on the heart and lower the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>How does cocoa benefit your arteries? The flavonoids in cocoa can help improve arterial health by increasing the flexibility of blood vessels and promoting better blood flow. This, in turn, can reduce the workload on the heart and lower the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <ul>
 <li>Enhanced blood flow</li>
 <li>Reduced inflammation</li>

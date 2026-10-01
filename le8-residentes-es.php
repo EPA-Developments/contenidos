@@ -8,10 +8,10 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Life's Essential 8™ para Residentes de Cardiología">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-residentes-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-residentes-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-residents-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-residentes-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-residentes-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-residentes-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-residents-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-residentes-es" />
 
   <?php include 'include/header.php' ?>
 

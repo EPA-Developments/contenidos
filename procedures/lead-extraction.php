@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Lead Extraction Surgery: Cardiac Lead Removal & Defibrillator Extraction">
   <meta property="og:description" content="Looking for expert cardiac lead extraction? Our lead extraction surgery safely removes pacemaker and defibrillator leads. Trust our skilled team for lead removal surgery.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/lead-extraction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/lead-extraction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/lead-extraction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/lead-extraction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lead Extraction",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/lead-extraction"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/lead-extraction"  
       }]
     }
   </script>

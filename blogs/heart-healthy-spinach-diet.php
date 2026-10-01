@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Healthy Spinach Diet: Top Tips" />
     <meta property="og:description" content="Discover the benefits of incorporating spinach into your heart-healthy diet plan. Boost your heart health with this nutrient-packed green leafy vegetable!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-spinach-diet" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-spinach-diet" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-spinach-diet" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-spinach-diet" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Healthy Spinach Diet",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-spinach-diet"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-spinach-diet"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>By incorporating spinach into your meals regularly, you can create a well-rounded and heart-healthy eating plan that promotes overall wellness.</p>
 <h2 class="sec-scrl" id="low-sodium-foods">The Role of Low Sodium Foods in Heart Health</h2>
-<p>High sodium intake is linked to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and other cardiovascular issues. Choosing low sodium foods like spinach can help you maintain a healthy blood pressure level. Here's how low sodium foods contribute to heart health:</p>
+<p>High sodium intake is linked to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and other cardiovascular issues. Choosing low sodium foods like spinach can help you maintain a healthy blood pressure level. Here's how low sodium foods contribute to heart health:</p>
 <ul>
 <li>Reducing the risk of hypertension and associated heart conditions</li>
 <li>Supporting optimal fluid balance in the body</li>

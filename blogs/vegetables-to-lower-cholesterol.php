@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Cholesterol-Lowering Vegetables: Top Picks'" />
     <meta property="og:description" content="Discover the top vegetables that naturally lower cholesterol levels and promote heart health with a fiber-rich diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vegetables To Lower Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-cholesterol"
         }
     ]
 }
@@ -137,7 +137,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Top Vegetables for Lowering Cholesterol Levels</h1>
-<p>Are you struggling to find ways to naturally lower your cholesterol levels? Do you want to incorporate simple yet effective changes into your diet to promote heart health? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can impact your daily activities, from feeling sluggish to increasing your risk of heart disease. Fortunately, by including specific vegetables in your meals, you can take a proactive approach to managing your cholesterol levels. Let's explore the top vegetables that can help you lower cholesterol naturally.</p>
+<p>Are you struggling to find ways to naturally lower your cholesterol levels? Do you want to incorporate simple yet effective changes into your diet to promote heart health? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can impact your daily activities, from feeling sluggish to increasing your risk of heart disease. Fortunately, by including specific vegetables in your meals, you can take a proactive approach to managing your cholesterol levels. Let's explore the top vegetables that can help you lower cholesterol naturally.</p>
 <h2 class="sec-scrl" id="fiber-rich-vegetables">Fiber-Rich Vegetables: Your Cholesterol's Best Friend</h2>
 <p>When it comes to lowering cholesterol, fiber-rich vegetables are your allies. Soluble fiber, found abundantly in vegetables like Brussels sprouts, broccoli, and carrots, can help reduce LDL cholesterol levels in your bloodstream. This type of fiber acts like a sponge, soaking up cholesterol and preventing it from being absorbed into your body.</p>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Commotio Cordis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Commotio Cordis is a sudden heart rhythm disruption due to impact. Read more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/commotio-cordis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/commotio-cordis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/commotio-cordis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/commotio-cordis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Commotio Cordis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/commotio-cordis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/commotio-cordis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Commotio Cordis</h1>
-<p>Commotio Cordis is a rare but critical condition where a sudden blow to the chest leads to a disruption in the heart's rhythm, causing sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. This condition is significant because even seemingly minor impacts, like a baseball hitting the chest, can have severe consequences. While rare, Commotio Cordis mainly affects children and young adults engaged in sports. Immediate medical attention and CPR are crucial for survival. Understanding the risks and taking preventive measures during sports activities can help reduce the chances of this life-threatening event.</p>
+<p>Commotio Cordis is a rare but critical condition where a sudden blow to the chest leads to a disruption in the heart's rhythm, causing sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. This condition is significant because even seemingly minor impacts, like a baseball hitting the chest, can have severe consequences. While rare, Commotio Cordis mainly affects children and young adults engaged in sports. Immediate medical attention and CPR are crucial for survival. Understanding the risks and taking preventive measures during sports activities can help reduce the chances of this life-threatening event.</p>
 <h2 id="causes">Causes of Commotio Cordis</h2>
 <p>Commotio Cordis, a rare but serious condition, is usually caused by a sudden blow to the chest. Here are the main factors contributing to its development:
 
@@ -175,10 +175,10 @@
 
 <ul>
 <li>Sudden collapse</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 </ul>
 
 Being able to identify these symptoms promptly can lead to timely intervention, which is key in managing Commotio Cordis effectively and potentially saving lives. If you notice any of these signs, seek medical assistance immediately.</p>
@@ -187,8 +187,8 @@ Being able to identify these symptoms promptly can lead to timely intervention, 
 
 <ul>
 <li>Thorough physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to examine heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to examine heart structure and function</li>
 <li>Blood tests to check cardiac enzymes</li>
 <li>Chest X-ray to evaluate any trauma-related injuries</li>
 </ul> 
@@ -206,7 +206,7 @@ Prompt and precise diagnosis is vital to initiate appropriate treatment promptly
 </ul>
 <h3>Defibrillation</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillation">defibrillation</a> is a procedure that delivers an electric shock to the heart to restore normal rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillation">defibrillation</a> is a procedure that delivers an electric shock to the heart to restore normal rhythm.</li>
 <li>It is used to immediately address life-threatening arrhythmias.</li>
 <li>The primary objective is to reset the heart's electrical system.</li>
 <li>This process may involve multiple shocks depending on the response.</li>

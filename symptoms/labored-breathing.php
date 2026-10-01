@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis, and Treatment of Labored Breathing" >
   <meta property="og:description" content="Labored breathing is often linked to heart conditions. Know about the causes, symptoms, diagnosis, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Labored Breathing",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Symptoms, Diagnosis, and Treatment of Labored Breathing</h1>
-<p>Labored breathing, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. It can manifest as heavy breathing, difficulty inhaling, strained breathing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, chest discomfort, labored respiration, or breathing difficulty.</p>
+<p>Labored breathing, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. It can manifest as heavy breathing, difficulty inhaling, strained breathing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, chest discomfort, labored respiration, or breathing difficulty.</p>
 <p>Individuals with labored breathing may experience a sensation of not getting enough air or feel like they are working harder to breathe than usual. This condition can occur at rest or during physical activities like exercise.</p>
 <h2 id="forms">What are the Forms of Labored breathing?</h2>
 <p>Labored breathing can present in various forms, each with its specific symptoms and related concepts.</p>
@@ -199,7 +199,7 @@
 <h2 id="causes">What are the Causes of Labored breathing?</h2>
 <p>Labored breathing can be caused by various underlying conditions and factors.</p>
 <ul>
-<li>Respiratory conditions such as chronic obstructive pulmonary disease (COPD), pneumonia, or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</li>
+<li>Respiratory conditions such as chronic obstructive pulmonary disease (COPD), pneumonia, or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</li>
 <li>Heart conditions like heart failure, coronary artery disease, or arrhythmias.</li>
 <li>Allergies or asthma that can trigger breathing difficulties.</li>
 <li>Obesity, which can put extra strain on the respiratory system.</li>
@@ -225,8 +225,8 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of labored breathing, especially if accompanied by:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure.</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure.</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
 <li>Bluish tint to the lips or fingertips.</li>
 <li>High fever or coughing up blood.</li>
 <li>Sudden onset of symptoms without an apparent cause.</li>

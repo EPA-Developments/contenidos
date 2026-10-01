@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cayler Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cayler syndrome affects facial muscles and the heart. Know more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cayler-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cayler-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cayler-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cayler-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cayler Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cayler-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cayler-syndrome"
       }]
     }
   </script>
@@ -190,7 +190,7 @@
 
 <h3>Medication</h3>
 <ul>
-<li>Medication involves using drugs to manage symptoms like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Medication involves using drugs to manage symptoms like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Rationale: Medications help control blood pressure and prevent complications.</li>
 <li>Objective: To maintain normal blood pressure levels.</li>
 <li>Steps: Prescribing specific medications based on the patient's needs.</li>

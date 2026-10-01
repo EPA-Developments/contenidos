@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Life After Angioplasty: Expectations and Thriving Guide">
   <meta property="og:description" content="Discover what to expect in life after angioplasty and learn how to thrive post-procedure. Get expert tips and insights on managing your health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/life-after-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/life-after-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/life-after-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/life-after-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Life After Angioplasty: Expectations And Thriving Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/life-after-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/life-after-angioplasty"  
       }]
     }
   </script>

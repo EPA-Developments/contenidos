@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Abdominal Aortic Ectasia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Abdominal aortic ectasia is the abnormal enlargement of the abdominal aorta. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/abdominal-aortic-ectasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/abdominal-aortic-ectasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/abdominal-aortic-ectasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/abdominal-aortic-ectasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Abdominal Aortic Ectasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/abdominal-aortic-ectasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/abdominal-aortic-ectasia"
       }]
     }
   </script>
@@ -167,13 +167,13 @@
 
 <ul>
 <li>Genetic predisposition</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (build-up of plaque in the arteries)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (build-up of plaque in the arteries)</li>
 <li>Smoking</li>
 <li>Age-related changes in the aorta</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Abdominal Aortic Ectasia</h2>
-<p>Recognizing symptoms of Abdominal aortic ectasia early is crucial for better outcomes. Symptoms like abdominal or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>, pulsating abdominal mass, and tenderness can indicate a serious issue. 
+<p>Recognizing symptoms of Abdominal aortic ectasia early is crucial for better outcomes. Symptoms like abdominal or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>, pulsating abdominal mass, and tenderness can indicate a serious issue. 
 <ul>
 <li>Abdominal or back pain</li>
 <li>Pulsating abdominal mass</li>
@@ -196,7 +196,7 @@ Early detection through symptom recognition can lead to prompt medical intervent
 <h3>Medical Management</h3>
 <ul>
 <li>Medical management involves the use of medications to control blood pressure and reduce the risk of complications.</li>
-<li>The rationale behind medical management is to prevent the enlargement of the aorta and decrease the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-rupture">aortic rupture</a>.</li>
+<li>The rationale behind medical management is to prevent the enlargement of the aorta and decrease the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-rupture">aortic rupture</a>.</li>
 <li>The primary objective of medical management is to stabilize the patient's condition and prevent further progression of the disease.</li>
 <li>This treatment typically involves regular monitoring, lifestyle modifications, and medication adherence.</li>
 </ul>
@@ -204,7 +204,7 @@ Early detection through symptom recognition can lead to prompt medical intervent
 <ul>
 <li>Surgical intervention may be necessary in cases where the ectasia is severe or at risk of rupture.</li>
 <li>The rationale behind surgical intervention is to repair or replace the weakened portion of the aorta to prevent complications.</li>
-<li>The primary objective of surgery is to restore normal blood flow and prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a> or rupture.</li>
+<li>The primary objective of surgery is to restore normal blood flow and prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a> or rupture.</li>
 <li>The steps involved in surgical intervention may include a preoperative evaluation, the surgical procedure itself, and postoperative care and monitoring.</li>
 </ul></p>
 <h2>Prevention and Management of Abdominal Aortic Ectasia</h2>

@@ -27,7 +27,7 @@ Este es un **prototipo mínimo viable** para validar la integración con la API 
 
 ### Opción A: Navegador Web
 
-1. Accede a: `https://plataforma.epa-bienestar.com.ar/evaluacion-inicial.php`
+1. Accede a: `https://contenidos.segundaopinionmedica.org/evaluacion-inicial.php`
 
 2. Completa el formulario con datos de prueba:
    ```
@@ -73,7 +73,7 @@ Este es un **prototipo mínimo viable** para validar la integración con la API 
 ### Opción C: Testing con cURL
 
 ```bash
-curl -X POST https://plataforma.epa-bienestar.com.ar/evaluacion-inicial.php \
+curl -X POST https://contenidos.segundaopinionmedica.org/evaluacion-inicial.php \
   -H "Content-Type: application/x-www-form-urlencoded" \
   -H "X-Requested-With: XMLHttpRequest" \
   -d "nombre_completo=Juan Pérez&dni=12345678&sexo=male&telefono=+541112345678&email=juan@test.com&presion_sistolica=120&presion_diastolica=80&hba1c=5.5"

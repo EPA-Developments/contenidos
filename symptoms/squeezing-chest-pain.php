@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Squeezing Chest Pain: Symptoms, Causes, Treatment and Forms" >
   <meta property="og:description" content="Squeezing Chest Pain might signal a heart attack or another serious heart issue. Know more about the causes, diagnosis and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/squeezing-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/squeezing-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/squeezing-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/squeezing-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Squeezing Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/squeezing-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/squeezing-chest-pain"  
       }]
     }
   </script>
@@ -187,8 +187,8 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Squeezing Chest Pain: Symptoms, Causes and Forms</h1>
 <p>Squeezing chest pain is a common symptom that can be alarming and often indicates a potential serious underlying health issue.</p>
-<p>This type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> is typically described as a tight, constricting sensation in the chest area, almost as if someone is squeezing or pressing down on your chest.</p>
-<p>The symptoms of squeezing chest pain can vary from person to person but may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> pain, cardiac discomfort, severe chest pain, breathing difficulties, and other cardiac symptoms.</p>
+<p>This type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> is typically described as a tight, constricting sensation in the chest area, almost as if someone is squeezing or pressing down on your chest.</p>
+<p>The symptoms of squeezing chest pain can vary from person to person but may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> pain, cardiac discomfort, severe chest pain, breathing difficulties, and other cardiac symptoms.</p>
 <p>It is essential to pay attention to any accompanying symptoms and seek prompt medical attention if you experience squeezing chest pain.</p>
 <h2 id="forms">What are the Forms of Squeezing chest pain?</h2>
 <p>There are various forms of squeezing chest pain, each with its specific symptoms and related concepts.</p>
@@ -198,13 +198,13 @@
 <li>Heart attack pain: Chest pain that may indicate a heart attack.</li>
 <li>Cardiac discomfort: Discomfort or pain related to the heart.</li>
 <li>Severe chest pain: Intense and severe chest pain that may radiate to other areas of the body.</li>
-<li>Breathing difficulties: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> accompanied by chest pain.</li>
+<li>Breathing difficulties: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> accompanied by chest pain.</li>
 </ul>
 <p>It is crucial to understand the different forms of squeezing chest pain to identify the underlying cause and seek appropriate treatment.</p>
 <h2 id="causes">What are the Causes of Squeezing chest pain?</h2>
 <p>Squeezing chest pain can have various causes, ranging from benign to life-threatening conditions.</p>
 <ul>
-<li>Heart disease: Conditions such as coronary artery disease, heart attacks, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>.</li>
+<li>Heart disease: Conditions such as coronary artery disease, heart attacks, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>.</li>
 <li>Anxiety and chest pain: Anxiety and stress can manifest as physical symptoms, including chest pain.</li>
 <li>Chest pain and stress: Stress can contribute to muscle tension and chest pain.</li>
 <li>Gastrointestinal issues: Acid reflux, gastritis, or esophageal spasms.</li>
@@ -216,12 +216,12 @@
 <p>Diagnosing squeezing chest pain involves a combination of medical history assessment, physical examination, and diagnostic tests.</p>
 <ul>
 <li>Physical examination: Checking for signs of distress, heart rate, and blood pressure.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect any abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect any abnormalities.</li>
 <li>Blood tests: Checking for cardiac enzymes or markers of inflammation.</li>
 </ul>
 <p>Advanced diagnostic methods may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Using sound waves to create images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Using sound waves to create images of the heart's structure and function.</li>
 <li>Stress tests: Monitoring the heart's response to physical exertion.</li>
 <li>Coronary angiography: Imaging the heart's blood vessels to assess blockages.</li>
 </ul>

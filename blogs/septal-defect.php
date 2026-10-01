@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Critical Septal Defect Symptoms&quot;" />
     <meta property="og:description" content="Learn the crucial signs of a septal defect for your health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/septal-defect" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/septal-defect" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/septal-defect" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/septal-defect" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Septal Defect",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/septal-defect"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/septal-defect"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Signs of Serious Septal Defects</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> that seem to interfere with your daily activities? These could be signs of a septal defect, a condition that affects the walls of your heart, leading to various symptoms that should not be overlooked.</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> that seem to interfere with your daily activities? These could be signs of a septal defect, a condition that affects the walls of your heart, leading to various symptoms that should not be overlooked.</p>
 <h2 class="sec-scrl" id="Heart hole">What is a Septal Defect?</h2>
 <p>A septal defect, commonly known as a "heart hole," refers to a congenital condition where there is an abnormal opening in the septum, the wall that separates the left and right chambers of the heart. This opening can occur in different parts of the heart, such as the atrial septum or the ventricular septum, leading to specific types of septal defects like atrial septal defect and ventricular septal defect.</p>
 <p>When a septal defect is present, it can result in the mixing of oxygen-rich and oxygen-poor blood, affecting the heart's ability to function properly. Understanding the symptoms associated with a septal defect is crucial for timely diagnosis and appropriate management.</p>
@@ -178,14 +178,14 @@
 <ul>
 <li>Shortness of breath, especially during physical activity</li>
 <li>Frequent respiratory infections</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Heart palpitations or irregular heartbeats</li>
 </ul>
-<p>If left untreated, an ASD can lead to complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a> and heart failure. Seeking medical attention is essential if you experience any of these symptoms.</p>
+<p>If left untreated, an ASD can lead to complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a> and heart failure. Seeking medical attention is essential if you experience any of these symptoms.</p>
 <h2 class="sec-scrl" id="Ventricular septal defect">Ventricular Septal Defect: What to Look Out For</h2>
 <p>A ventricular septal defect (VSD) is a condition where there is an abnormal opening in the ventricular septum, the wall that separates the two lower chambers of the heart. Symptoms of a VSD may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a> or shortness of breath</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a> or shortness of breath</li>
 <li>Poor weight gain in infants</li>
 <li>Excessive sweating, especially during feeds</li>
 <li>Fatigue and irritability</li>
@@ -195,7 +195,7 @@
 <p>When there is a hole in the heart wall, whether in the atrial or ventricular septum, it can result in symptoms that impact your daily life. Some common signs to watch out for include:</p>
 <ul>
 <li>Decreased exercise tolerance</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish tint to the skin, lips, or nails)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish tint to the skin, lips, or nails)</li>
 <li>Swelling in the legs, abdomen, or areas around the eyes</li>
 <li>Recurrent respiratory infections</li>
 </ul>
@@ -204,7 +204,7 @@
 <p>When oxygen-rich and oxygen-poor blood mix due to a septal defect, it can lead to decreased oxygen levels in the body, causing symptoms such as:</p>
 <ul>
 <li>Chronic fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or lightheadedness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or lightheadedness</li>
 <li>Cold hands and feet</li>
 <li>Difficulty concentrating</li>
 </ul>

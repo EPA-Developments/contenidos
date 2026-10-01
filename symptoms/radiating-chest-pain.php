@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment for Radiating Chest Pain" >
   <meta property="og:description" content="Radiating chest pain may be a serious sign. Find out its symptoms, causes, diagnosis, and treatments. Know more for better care and tips." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/radiating-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/radiating-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/radiating-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/radiating-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Radiating Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/radiating-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/radiating-chest-pain"  
       }]
     }
   </script>
@@ -191,16 +191,16 @@
 <h2 id="forms">What are the Forms of Radiating Chest Pain?</h2>
 <p>Radiating chest pain can manifest in various forms, each with its own set of symptoms and implications.</p>
 <ul>
-<li>Left arm pain :Pain or discomfort in the left arm that may be accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li>Left arm pain :Pain or discomfort in the left arm that may be accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 <li>Neck pain: Pain in the neck area that radiates from the chest.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>: Pain in the back that extends from the chest region.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>: Pain in the back that extends from the chest region.</li>
 <li>Jaw pain : Discomfort or pain in the jaw that originates from chest pain.</li>
 <li>Chest discomfort :A feeling of pressure, tightness, or discomfort in the chest that spreads to other areas.</li>
 </ul>
 <h2 id="causes">What are the Causes of Radiating Chest Pain?</h2>
 <p>Radiating chest pain can be caused by various factors, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>: A sudden blockage of blood flow to the heart muscle</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>: A sudden blockage of blood flow to the heart muscle</li>
 <li>Heart disease : Conditions such as coronary artery disease can lead to chest pain that radiates to other areas.</li>
 <li>Muscle strain : Overexertion or injury to the chest muscles.</li>
 <li>Acid reflux : Stomach acid backing up into the esophagus can cause chest pain that radiates to other parts of the body.</li>
@@ -220,14 +220,14 @@
 <ul>
 <li>Medications:Pain relievers, anti-inflammatory drugs, or medications to improve heart function.</li>
 <li>Lifestyle changes : Adopting a healthy diet, regular exercise, and stress management techniques.</li>
-<li>Procedures: In severe cases, procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery may be necessary.</li>
+<li>Procedures: In severe cases, procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery may be necessary.</li>
 <li>Rehabilitation: Cardiac rehabilitation programs can help improve heart health and overall well-being.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience any of the following symptoms:</p>
 <ul>
 <li>Sudden or severe chest pain that radiates to other areas.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or nausea.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or nausea.</li>
 <li>Chest pain that worsens with activity or is accompanied by sweating.</li>
 <li>Discomfort in the left arm, neck, jaw, or back along with chest pain.</li>
 </ul>

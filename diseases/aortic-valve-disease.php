@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Valve Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic valve disease affects the heart’s aortic valve. Read more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Aortic Valve Disease</h1>
-<p>Aortic valve disease affects the valve that controls blood flow from the heart to the rest of the body. This condition can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. It's essential to diagnose and manage aortic valve disease promptly as it can worsen over time. Around 1-2% of people over 65 years old have aortic stenosis, a common type of aortic valve disease. Early detection and appropriate treatment are crucial in managing this condition effectively. Regular check-ups can help monitor and address any changes in the valve's function.</p>
+<p>Aortic valve disease affects the valve that controls blood flow from the heart to the rest of the body. This condition can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. It's essential to diagnose and manage aortic valve disease promptly as it can worsen over time. Around 1-2% of people over 65 years old have aortic stenosis, a common type of aortic valve disease. Early detection and appropriate treatment are crucial in managing this condition effectively. Regular check-ups can help monitor and address any changes in the valve's function.</p>
 <h2 id="causes">Causes of Aortic Valve Disease</h2>
 <p><h3>Main Factors Contributing to Aortic Valve Disease:</h3>
 <ul>
@@ -169,7 +169,7 @@
 <li>Calcium buildup on the valve leaflets</li>
 <li>Bacterial infections affecting the valve</li>
 <li>Congenital heart defects present from birth</li>
-<li>Inflammatory conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li>Inflammatory conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Valve Disease</h2>
 <p>Early recognition of symptoms of Aortic valve disease is crucial as it can lead to timely intervention and better outcomes for patients. Detecting these symptoms promptly can help prevent further complications and improve the quality of life for individuals with this condition. Here are some common symptoms to watch out for:
@@ -177,9 +177,9 @@
 <ul>
 <li>Chest pain or tightness</li>
 <li>Shortness of breath, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swollen ankles or feet</li>
 </ul> 
 
@@ -188,7 +188,7 @@ Being aware of these signs and seeking medical attention if you experience any o
 <p>Accurate diagnosis of Aortic valve disease is crucial for timely intervention and management. The diagnostic process typically involves a combination of clinical assessment, imaging studies, and specialized tests. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess valve structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess valve structure and function.</li>
 <li>Electrocardiogram (ECG) to evaluate heart rhythm and detect abnormalities.</li>
 <li>Cardiac MRI or CT scans for detailed imaging of the heart and valves.</li>
 <li>Cardiac catheterization to measure pressure within the heart chambers.</li>

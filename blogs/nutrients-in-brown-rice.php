@@ -10,12 +10,12 @@
     <meta property="og:title" content="Brown Rice Nutrients: Lower Cholesterol Naturally" />
     <meta property="og:description" content="Discover the role of brown rice nutrients in reducing cholesterol levels for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-brown-rice" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-brown-rice" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-brown-rice" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-brown-rice" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nutrients In Brown Rice",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-brown-rice"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-brown-rice"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Brown rice is a nutrient-dense food that offers a range of vitamins, minerals, and antioxidants to support your heart health. Here's how these essential nutrients work together to promote cardiovascular well-being:</p>
 <ul>
 <li><strong>Magnesium:</strong> Brown rice is a rich source of magnesium, a mineral that plays a crucial role in maintaining a healthy heart rhythm and supporting blood vessel function. By including brown rice in your diet, you can ensure you're getting an adequate amount of magnesium to promote cardiovascular health.</li>
-<li><strong>Potassium:</strong> Potassium is another key nutrient found in brown rice that helps regulate blood pressure and protect against heart disease. By balancing sodium levels in the body, potassium supports healthy blood pressure control, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and related cardiovascular issues.</li>
+<li><strong>Potassium:</strong> Potassium is another key nutrient found in brown rice that helps regulate blood pressure and protect against heart disease. By balancing sodium levels in the body, potassium supports healthy blood pressure control, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and related cardiovascular issues.</li>
 <li><strong>B Vitamins:</strong> Brown rice contains various B vitamins, including B6, niacin, and folate, which are essential for metabolizing homocysteine—a compound linked to heart disease when present in high levels. By consuming brown rice regularly, you can ensure your body has an adequate supply of B vitamins to support a healthy metabolism and reduce heart disease risk.</li>
 </ul>
 <h2 class="sec-scrl" id="healthy-metabolism">How Does Brown Rice Support a Healthy Metabolism?</h2>
@@ -150,7 +150,7 @@
 <li>**Antioxidants:** Brown rice contains antioxidants that help protect cells from damage caused by free radicals. These compounds play a crucial role in reducing inflammation and lowering the risk of chronic diseases, including heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure-control">Can Brown Rice Help Control Blood Pressure?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and other cardiovascular conditions. Fortunately, the nutrients in brown rice can help support healthy blood pressure levels and reduce the risk of hypertension. Here's how brown rice contributes to blood pressure control:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and other cardiovascular conditions. Fortunately, the nutrients in brown rice can help support healthy blood pressure levels and reduce the risk of hypertension. Here's how brown rice contributes to blood pressure control:</p>
 <ul>
 <li>**Potassium:** Brown rice is a good source of potassium, a mineral that helps balance sodium levels in the body. By including potassium-rich foods like brown rice in your diet, you can support healthy blood pressure regulation and reduce the risk of hypertension.</li>
 <li>**Fiber:** The fiber content in brown rice helps promote satiety, regulate digestion, and stabilize blood sugar levels. By maintaining a healthy weight and balanced blood sugar, you can reduce the strain on your cardiovascular system and support optimal blood pressure levels.</li>

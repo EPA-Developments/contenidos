@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Importance of Fetal Echocardiography" />
     <meta property="og:description" content="Discover why foetal echocardiography is crucial for your baby's health. Learn about early cardiac defect detection and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/foetal-echocardiography" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/foetal-echocardiography" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/foetal-echocardiography" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/foetal-echocardiography" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Foetal Echocardiography",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/foetal-echocardiography"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/foetal-echocardiography"
         }
     ]
 }
@@ -169,9 +169,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Importance of Fetal Echocardiography</h1>
-<p>Are you concerned about your baby's heart health even before they are born? How can you ensure that your little one's heart is developing properly? These worries can affect every aspect of your daily life, from the moment you wake up until you lay down to rest. Foetal <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> might just be the answer you are looking for.</p>
+<p>Are you concerned about your baby's heart health even before they are born? How can you ensure that your little one's heart is developing properly? These worries can affect every aspect of your daily life, from the moment you wake up until you lay down to rest. Foetal <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> might just be the answer you are looking for.</p>
 <h2 class="sec-scrl" id="prenatal-heart-scan">Prenatal Heart Scan</h2>
-<p>When it comes to monitoring your baby's heart health, a prenatal <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-scan">heart scan</a>, also known as foetal echocardiography, is a vital tool. This specialized ultrasound technique focuses specifically on the structure and function of the baby's heart while still in the womb. Here's why it's crucial:</p>
+<p>When it comes to monitoring your baby's heart health, a prenatal <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-scan">heart scan</a>, also known as foetal echocardiography, is a vital tool. This specialized ultrasound technique focuses specifically on the structure and function of the baby's heart while still in the womb. Here's why it's crucial:</p>
 <ul>
 <li>Provides detailed information about the baby's heart development</li>
 <li>Helps detect any potential abnormalities early on</li>

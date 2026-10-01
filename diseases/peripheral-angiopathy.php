@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Angiopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Peripheral angiopathy refers to blood vessel damage outside the heart. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-angiopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/peripheral-angiopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-angiopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/peripheral-angiopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Peripheral Angiopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/peripheral-angiopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/peripheral-angiopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Peripheral Angiopathy</h1>
-<p>Peripheral angiopathy is a condition that affects blood vessels outside the heart and brain. It can lead to reduced blood flow to the legs, arms, and other extremities. This can cause symptoms like pain, numbness, and wounds that heal slowly. It's significant because untreated, it can lead to serious complications like tissue damage and amputation. Peripheral angiopathy is quite common, especially in older adults and those with conditions like diabetes and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. Early diagnosis and treatment are crucial to managing this condition effectively.</p>
+<p>Peripheral angiopathy is a condition that affects blood vessels outside the heart and brain. It can lead to reduced blood flow to the legs, arms, and other extremities. This can cause symptoms like pain, numbness, and wounds that heal slowly. It's significant because untreated, it can lead to serious complications like tissue damage and amputation. Peripheral angiopathy is quite common, especially in older adults and those with conditions like diabetes and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. Early diagnosis and treatment are crucial to managing this condition effectively.</p>
 <h2 id="causes">Causes of Peripheral Angiopathy</h2>
 <p>Peripheral angiopathy, a condition affecting blood vessels in the extremities, can develop due to various factors. These include:
 
@@ -169,15 +169,15 @@
 <li>Smoking: Damages blood vessels and reduces blood flow.</li>
 <li>Diabetes: High blood sugar levels can damage blood vessels over time.</li>
 <li>High blood pressure: Puts stress on vessel walls, leading to damage.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Deposits can build up in vessels, restricting blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Deposits can build up in vessels, restricting blood flow.</li>
 <li>Obesity: Increases the risk of vascular complications.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Peripheral Angiopathy</h2>
 <p>Recognizing the symptoms of Peripheral Angiopathy is crucial for timely intervention and improved outcomes. Early detection can help prevent complications and ensure appropriate treatment. Symptoms of Peripheral Angiopathy may include:
 
 <ul>
-<li>Pain or cramping in the legs during physical activity (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a>)</li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the legs</li>
+<li>Pain or cramping in the legs during physical activity (<a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a>)</li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the legs</li>
 <li>Skin changes on the legs or feet</li>
 <li>Slower healing of wounds on the legs or feet</li>
 <li>Coldness or discoloration of the legs</li>
@@ -211,7 +211,7 @@
 </ul>
 <h3>Interventional Procedures</h3>
 <ul>
-<li>Interventional procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or stent placement are used to open blocked arteries.</li>
+<li>Interventional procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or stent placement are used to open blocked arteries.</li>
 <li>The rationale is to restore blood flow, relieve symptoms, and prevent complications.</li>
 <li>The primary objective is to improve circulation, reduce pain, and enhance mobility.</li>
 <li>The phases involve diagnostic imaging, the actual procedure, and post-procedural care.</li>
@@ -232,7 +232,7 @@
 <li>Follow the recommended screening guidelines for early detection and intervention.</li>
 <h3>Supportive Care:</h3>
 <ul>
-<li>Manage underlying conditions like diabetes, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or obesity effectively to reduce the impact on blood vessels.</li>
+<li>Manage underlying conditions like diabetes, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or obesity effectively to reduce the impact on blood vessels.</li>
 <li>Work closely with your healthcare team to develop a personalized treatment plan and follow it diligently.</li>
 <li>Seek emotional support or counseling if needed to cope with the challenges of living with Peripheral Angiopathy.</li>
 </ul></ul></p>

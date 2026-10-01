@@ -10,12 +10,12 @@
     <meta property="og:title" content="Impact of Smoking on Cholesterol Levels" />
     <meta property="og:description" content="Learn how smoking impacts cholesterol levels & heart health. Explore the relationship between smoking and your lipid profile." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cholesterol-levels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cholesterol-levels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cholesterol-levels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cholesterol-levels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Cholesterol Levels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-cholesterol-levels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-cholesterol-levels"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Cholesterol is a fatty substance crucial for the body's normal functioning. It travels through the bloodstream in two main forms: high-density lipoprotein (HDL) and low-density lipoprotein (LDL). HDL is often referred to as "good" cholesterol as it helps remove LDL, the "bad" cholesterol, from the arteries. Smoking can adversely affect this balance by lowering your HDL levels while simultaneously increasing LDL levels.</p>
 <p>Here are some key points to consider regarding HDL vs LDL:</p>
 <ul>
-<li>High levels of LDL cholesterol can lead to plaque buildup in the arteries, increasing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>High levels of LDL cholesterol can lead to plaque buildup in the arteries, increasing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>HDL cholesterol plays a protective role by carrying LDL away from the arteries to the liver for processing and removal.</li>
 <li>Smoking can reduce the effectiveness of HDL in clearing LDL from the bloodstream, contributing to a higher risk of heart disease.</li>
 </ul>

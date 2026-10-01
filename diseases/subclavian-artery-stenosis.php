@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Subclavian Artery Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Subclavian Artery Stenosis narrows the artery causing blood flow issues. Read more about symptoms, causes, and treatment options to stay informed." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/subclavian-artery-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/subclavian-artery-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/subclavian-artery-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/subclavian-artery-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Subclavian Artery Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/subclavian-artery-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/subclavian-artery-stenosis"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Subclavian Artery Stenosis</h1>
-<p>Subclavian artery stenosis occurs when the blood vessel supplying blood to your arms is narrowed, usually due to plaque buildup. This can reduce blood flow to your arms, leading to symptoms like arm pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, or even stroke if left untreated. It's more common in older individuals with risk factors like smoking or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. Early detection is crucial to prevent complications and improve quality of life. If you experience arm symptoms, consult a healthcare provider for proper evaluation and management.</p>
+<p>Subclavian artery stenosis occurs when the blood vessel supplying blood to your arms is narrowed, usually due to plaque buildup. This can reduce blood flow to your arms, leading to symptoms like arm pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, or even stroke if left untreated. It's more common in older individuals with risk factors like smoking or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. Early detection is crucial to prevent complications and improve quality of life. If you experience arm symptoms, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Subclavian Artery Stenosis</h2>
 <p>Subclavian artery stenosis can develop due to various factors. These include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries.</li>
 <li>Trauma to the chest or neck area, leading to artery damage.</li>
 <li>Inflammation of the arteries, known as arteritis.</li>
 <li>Abnormalities in the structure of the artery, such as compression from surrounding structures.</li>
@@ -179,13 +179,13 @@
 <li>Arm pain or numbness</li>
 <li>Coolness or color changes in the arm or hand</li>
 <li>Decreased or absent pulse in the affected arm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>High blood pressure</li>
 </ul>
 
 If you experience any of these symptoms, especially when using your arm, it's essential to consult a healthcare provider promptly for evaluation and appropriate management. Early intervention can help prevent complications and improve your quality of life.</p>
 <h2>Diagnosis of Subclavian Artery Stenosis</h2>
-<p>Accurate diagnosis of Subclavian Artery Stenosis is crucial as it can lead to serious complications like stroke or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> if left untreated. The diagnostic process typically involves assessing symptoms, medical history, and performing various tests to confirm the condition. Diagnostic methods include:
+<p>Accurate diagnosis of Subclavian Artery Stenosis is crucial as it can lead to serious complications like stroke or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> if left untreated. The diagnostic process typically involves assessing symptoms, medical history, and performing various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
 <li>Physical examination to check blood pressure imbalances in the arms</li>

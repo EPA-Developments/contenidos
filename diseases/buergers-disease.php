@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Buergers Disease: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Buerger’s disease inflames blood vessels, reducing blood flow to limbs. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/buergers-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/buergers-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/buergers-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/buergers-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Buerger’S Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/buergers-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/buergers-disease"
       }]
     }
   </script>
@@ -186,7 +186,7 @@
 <h2 id="symptoms">Symptoms of Buergers Disease</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li>Intermittent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a>: Pain, cramping, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the arms or legs during physical activity.</li>
+<li>Intermittent <a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a>: Pain, cramping, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the arms or legs during physical activity.</li>
 <li>Cold Sensitivity: Increased sensitivity to cold temperatures in the affected limbs due to impaired circulation.</li>
 </ul>
 <h3>Advanced Symptoms</h3>

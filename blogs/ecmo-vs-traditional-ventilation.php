@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="ECMO vs. Traditional Ventilation: Which is Better for Critical Patients?">
   <meta property="og:description" content="Discover the benefits of ECMO vs. traditional ventilation for critical patients. Learn which method is more effective in this comprehensive comparison.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/ecmo-vs-traditional-ventilation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/ecmo-vs-traditional-ventilation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/ecmo-vs-traditional-ventilation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/ecmo-vs-traditional-ventilation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ecmo",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/ecmo-vs-traditional-ventilation"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/ecmo-vs-traditional-ventilation"  
       }]
     }
   </script>

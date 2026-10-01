@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Preparing for an Echocardiogram: Essential Tips for Success">
   <meta property="og:description" content="Learn essential tips on how to prepare for an echocardiogram to ensure a smooth and successful procedure. Find out all you need to know about echocardiograms.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/preparing-for-an-echocardiogram-essential">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/preparing-for-an-echocardiogram-essential">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/preparing-for-an-echocardiogram-essential" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/preparing-for-an-echocardiogram-essential" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Preparing For An Echocardiogram: Essential Tips For Success",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/preparing-for-an-echocardiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/preparing-for-an-echocardiogram"  
       }]
     }
   </script>

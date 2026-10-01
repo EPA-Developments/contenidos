@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Clammy Skin: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Clammy skin could be a sign of heart issues. Read more about symptoms, causes, diagnosis, and effective treatments for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Clammy Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Clammy Skin: Causes, Diagnosis, and Treatment</h1>
-<p>Clammy skin refers to a condition where the skin feels excessively moist, sticky, or damp to the touch. It can be characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sweaty-skin">sweaty skin</a> that feels cold to the touch, often accompanied by a sense of discomfort or unease.</p>
+<p>Clammy skin refers to a condition where the skin feels excessively moist, sticky, or damp to the touch. It can be characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/sweaty-skin">sweaty skin</a> that feels cold to the touch, often accompanied by a sense of discomfort or unease.</p>
 <p>Clammy skin is a common symptom that can be indicative of various underlying health issues, ranging from mild to severe.</p>
 <p>Symptoms of clammy skin can include cold sweat, unusually sweaty palms, sticky skin, excessive perspiration, and overall skin dampness. These symptoms may occur in isolated instances or persist chronically, depending on the underlying cause.</p>
-<p>Clammy skin can also be associated with other conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a> or heart disease, further complicating its diagnosis and treatment.</p>
+<p>Clammy skin can also be associated with other conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a> or heart disease, further complicating its diagnosis and treatment.</p>
 <h2 id="forms">What are the Forms of Clammy skin?</h2>
 <p>Clammy skin can manifest in different forms depending on the underlying cause.</p>
 <ul>
@@ -205,7 +205,7 @@
 <li>Heat and humidity: Hot weather or intense physical activity can lead to excessive sweating and clamminess.</li>
 <li>Anxiety or stress: Emotional distress can trigger the body's fight-or-flight response, leading to clammy skin.</li>
 <li>Low blood sugar: Hypoglycemia can cause clammy skin as a result of the body's response to low glucose levels.</li>
-<li>Heart disease: Conditions like heart failure or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> can cause clammy skin due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Heart disease: Conditions like heart failure or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> can cause clammy skin due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 <li>Low blood pressure: Hypotension can result in inadequate blood flow to the skin, causing clamminess.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Clammy skin?</h2>
@@ -224,7 +224,7 @@
 <li>Advanced approaches: Such as surgery or medical procedures to address specific conditions like heart disease or hormonal imbalances.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent clammy skin accompanied by other concerning symptoms, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fainting.</p>
+<p>It is essential to seek medical attention if you experience persistent clammy skin accompanied by other concerning symptoms, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fainting.</p>
 <p>Additionally, if clammy skin is a recurring or chronic issue that impacts your daily life, it is advisable to consult a healthcare provider for further evaluation and treatment.</p>
 <h2>Home Remedies for Clammy skin</h2>
 <p>Some home remedies and self-care strategies that may help alleviate clammy skin include:</p>

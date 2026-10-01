@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onions and Atherosclerosis: Arterial Health Benefits&quot;" />
     <meta property="og:description" content="Discover the impact of onions on arterial health and atherosclerosis for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-and-atherosclerosis"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <p>Key ways in which onions can enhance blood vessel health include:</p>
 <ul>
 <li>Improving blood flow by helping to relax and dilate blood vessels.</li>
-<li>Reducing oxidative stress, which can damage blood vessels and contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Reducing oxidative stress, which can damage blood vessels and contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Supporting endothelial function, which is vital for maintaining healthy blood vessels.</li>
 </ul>
 <h2 class="sec-scrl" id="atherosclerosis-prevention">Preventing Atherosclerosis with Onions</h2>

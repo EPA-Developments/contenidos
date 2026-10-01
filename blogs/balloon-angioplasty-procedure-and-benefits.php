@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Balloon Angioplasty: Procedure and Benefits">
   <meta property="og:description" content="Learn how balloon angioplasty works and its benefits in this comprehensive guide. Discover the advantages of balloon angioplasty today.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/balloon-angioplasty-procedure-and-benefits">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/balloon-angioplasty-procedure-and-benefits">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/balloon-angioplasty-procedure-and-benefits" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/balloon-angioplasty-procedure-and-benefits" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Balloon Angioplasty: Procedure And Benefits",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/balloon-angioplasty-procedure-and-benefits"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/balloon-angioplasty-procedure-and-benefits"  
       }]
     }
   </script>

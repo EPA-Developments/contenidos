@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Ectasia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic ectasia is the abnormal enlargement of the aorta. Know more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-ectasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-ectasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-ectasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-ectasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Ectasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-ectasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-ectasia"
       }]
     }
   </script>
@@ -166,18 +166,18 @@
 <p>Aortic ectasia can develop due to various factors. These include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the aorta</li>
-<li>Connective tissue disorders like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> weakening the aortic wall</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the aorta</li>
+<li>Connective tissue disorders like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> weakening the aortic wall</li>
 <li>Aging causing degeneration of the aortic tissue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> leading to plaque buildup in the aorta</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> leading to plaque buildup in the aorta</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Ectasia</h2>
 <p>Recognizing the symptoms of Aortic Ectasia is crucial as early detection plays a significant role in improving outcomes. This condition involves the widening of the aorta, which can lead to serious complications if left untreated. Here are some symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
 <li>Hoarseness</li>
 <li>Coughing</li>
 <li>Difficulty swallowing</li>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 <ul>
 <li>Medical history review</li>
 <li>Physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a></li>
 <li>CT scan</li>
 <li>MRI</li>
 </ul></p>
@@ -208,7 +208,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 <ul>
 <li>Involves surgical repair or replacement of the affected aortic segment.</li>
 <li>Used when the risk of rupture is high or symptoms are severe.</li>
-<li>Primary objective is to prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a> or rupture.</li>
+<li>Primary objective is to prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a> or rupture.</li>
 <li>Pre-operative evaluation, surgery, and post-operative care are essential.</li>
 </ul>
 <h3>Endovascular Therapy</h3>

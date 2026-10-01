@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bifascicular Block: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Bifascicular block affects heart signals, causing slow or irregular beats. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bifascicular-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bifascicular-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bifascicular-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bifascicular-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bifascicular Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bifascicular-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bifascicular-block"
       }]
     }
   </script>
@@ -167,20 +167,20 @@
 
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a></li>
 <li>Valvular heart disease</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Bifascicular Block</h2>
 <p>Bifascicular block is a conduction abnormality in the heart that can lead to serious complications if not recognized and managed promptly. Early detection of symptoms is crucial as it can help prevent potentially life-threatening events and improve outcomes significantly.
 
 <ul>
-<li>Unexplained fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a></li>
+<li>Unexplained fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a></li>
 <li>Feeling dizzy or lightheaded</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or palpitations</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or palpitations</li>
 </ul>
 
 Recognizing these symptoms and seeking prompt medical attention can lead to timely interventions and appropriate management strategies, reducing the risk of complications associated with bifascicular block. Regular follow-up with a healthcare provider is essential for monitoring and optimizing treatment to ensure better heart health outcomes.</p>

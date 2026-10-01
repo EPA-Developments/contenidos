@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Warm Flushes: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Warm flushes can be caused by heart-related conditions. Know more about their forms, causes, diagnosis, and treatments for better care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/warm-flushes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/warm-flushes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/warm-flushes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/warm-flushes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Warm Flushes",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/warm-flushes"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/warm-flushes"  
       }]
     }
   </script>
@@ -207,7 +207,7 @@
 <p>Lifestyle changes such as avoiding triggers like spicy foods, alcohol, and caffeine, maintaining a healthy weight, staying hydrated, and practicing stress-reducing techniques can also help alleviate warm flushes.</p>
 <p>Advanced approaches like acupuncture, cognitive-behavioral therapy, or biofeedback may be considered for severe or persistent warm flushes.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if warm flushes are accompanied by other concerning symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>.</p>
+<p>It is essential to seek medical attention if warm flushes are accompanied by other concerning symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>.</p>
 <p>If warm flushes are disrupting daily activities, impacting sleep quality, or persisting for an extended period, consulting a healthcare provider is recommended.</p>
 <p>Additionally, if warm flushes are occurring in younger women or men, it may indicate an underlying health issue that requires evaluation by a doctor.</p>
 <h2>Home Remedies for Warm flushes</h2>

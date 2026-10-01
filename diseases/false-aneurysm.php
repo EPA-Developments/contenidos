@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="False Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="False Aneurysm involves a rupture in the artery wall, leading to blood leakage. Know more about its symptoms, causes, and treatment to manage heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/false-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/false-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/false-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/false-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "False Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/false-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/false-aneurysm"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms, and Treatment of False Aneurysm</h1>
-<p>False Aneurysm, also known as pseudoaneurysm, is a collection of blood that forms between the two outer layers of an artery after an injury or trauma. It is significant because it can lead to serious complications if left untreated, such as rupture and severe bleeding. While not as common as true aneurysms, false aneurysms can still occur, especially after medical procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>. Understanding the symptoms and seeking prompt medical attention is crucial to prevent complications and ensure proper treatment.</p>
+<p>False Aneurysm, also known as pseudoaneurysm, is a collection of blood that forms between the two outer layers of an artery after an injury or trauma. It is significant because it can lead to serious complications if left untreated, such as rupture and severe bleeding. While not as common as true aneurysms, false aneurysms can still occur, especially after medical procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>. Understanding the symptoms and seeking prompt medical attention is crucial to prevent complications and ensure proper treatment.</p>
 <h2 id="causes">Causes of False Aneurysm</h2>
 <p>False aneurysms can develop due to various factors. Here are the main contributors:
 <ul>
 <li>Complications post-surgery or trauma</li>
 <li>Infection at the site of a previous procedure</li>
 <li>Weakening of the arterial wall</li>
-<li>Persistent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Persistent <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Connective tissue disorders</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of False Aneurysm</h2>

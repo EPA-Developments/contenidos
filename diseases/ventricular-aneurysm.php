@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Aneurysm: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Ventricular Aneurysm weakens heart walls, affecting function. Know more about its symptoms, causes, and treatment for better well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ventricular Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-aneurysm"
       }]
     }
   </script>
@@ -178,14 +178,14 @@
 <h3>Primary Causes:</h3>
 <ul>
 <li>Coronary Artery Disease (CAD): CAD is a leading cause of Ventricular Aneurysm, resulting from the narrowing or blockage of the coronary arteries that supply blood to the heart muscle. This diminished blood flow can lead to tissue damage and the formation of an aneurysm over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>): A heart attack can cause significant damage to the heart muscle, weakening its structure and increasing the risk of an aneurysm. The scar tissue formed after a heart attack may not contract as effectively as healthy tissue, predisposing the heart to aneurysm formation.</li>
-<li>Inflammatory Conditions: Conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> or inflammatory <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> can lead to inflammation of the heart muscle, potentially weakening it and creating an environment conducive to the development of aneurysms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>): A heart attack can cause significant damage to the heart muscle, weakening its structure and increasing the risk of an aneurysm. The scar tissue formed after a heart attack may not contract as effectively as healthy tissue, predisposing the heart to aneurysm formation.</li>
+<li>Inflammatory Conditions: Conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> or inflammatory <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> can lead to inflammation of the heart muscle, potentially weakening it and creating an environment conducive to the development of aneurysms.</li>
 <li>Genetic Predisposition: In some cases, genetic factors can play a role in the development of Ventricular Aneurysm, with certain inherited conditions affecting the structural integrity of the heart muscle.</li>
 </ul>
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can also increase the likelihood of developing Ventricular Aneurysm.</p>
 <h3>Secondary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>): Chronic high blood pressure can strain the heart muscle over time, increasing the risk of aneurysm formation due to the added workload on the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>): Chronic high blood pressure can strain the heart muscle over time, increasing the risk of aneurysm formation due to the added workload on the heart.</li>
 <li>Smoking: Tobacco use is a well-known risk factor for cardiovascular diseases, including Ventricular Aneurysm, as it can damage blood vessels and impair heart function.</li>
 <li>Obesity: Excess body weight can put added stress on the heart, potentially leading to the development of Ventricular Aneurysm through mechanisms such as increased inflammation and insulin resistance.</li>
 </ul>
@@ -193,12 +193,12 @@
 <p>Recognizing the symptoms of Ventricular Aneurysm is crucial for timely diagnosis and intervention. These symptoms can vary in severity and impact on daily life, ranging from subtle early signs to more pronounced indicators of advanced disease.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>: Early stages of Ventricular Aneurysm may manifest as persistent fatigue and weakness, impacting the individual's ability to engage in physical activities and leading to decreased energy levels.</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>: Early stages of Ventricular Aneurysm may manifest as persistent fatigue and weakness, impacting the individual's ability to engage in physical activities and leading to decreased energy levels.</li>
 <li>Chest Discomfort: Some individuals may experience mild chest discomfort or pressure that can be mistaken for indigestion or muscle strain, potentially delaying proper diagnosis and treatment.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: As Ventricular Aneurysm progresses, shortness of breath may become more pronounced, affecting daily activities and causing distress due to the heart's reduced ability to pump blood effectively.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: As Ventricular Aneurysm progresses, shortness of breath may become more pronounced, affecting daily activities and causing distress due to the heart's reduced ability to pump blood effectively.</li>
 <li>Irregular Heartbeat (Arrhythmia): Advanced Ventricular Aneurysm can lead to irregular heart rhythms, causing palpitations, dizziness, and potentially increasing the risk of more serious complications like blood clots or stroke.</li>
 </ul>
 <h2>Diagnosis of Ventricular Aneurysm</h2>

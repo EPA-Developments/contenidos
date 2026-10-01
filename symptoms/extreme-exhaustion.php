@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Extreme Exhaustion: Symptoms, Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing extreme exhaustion? Learn about causes, symptoms, and treatments for extreme exhaustion, including its links to heart disease and anemia. Find out when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/extreme-exhaustion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/extreme-exhaustion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/extreme-exhaustion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/extreme-exhaustion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Extreme Exhaustion",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/extreme-exhaustion"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/extreme-exhaustion"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Extreme Exhaustion: Symptoms, Causes, Treatment, and When to Seek Help</h1>
 <p>Extreme exhaustion, also known as severe fatigue or complete exhaustion, is a debilitating condition characterized by overwhelming tiredness and physical depletion. It goes beyond normal tiredness and can significantly impact a person's daily life and overall well-being.</p>
 <p>Individuals experiencing extreme exhaustion often feel excessively tired, to the point where even simple tasks become challenging.</p>
-<p>Symptoms of extreme exhaustion may include unbearable fatigue, persistent tiredness, lack of energy, difficulty concentrating, irritability, muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and a general feeling of being physically and mentally drained.</p>
+<p>Symptoms of extreme exhaustion may include unbearable fatigue, persistent tiredness, lack of energy, difficulty concentrating, irritability, muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and a general feeling of being physically and mentally drained.</p>
 <p>It can be a result of various underlying health issues or lifestyle factors that contribute to an overwhelming sense of fatigue.</p>
 <p>Extreme exhaustion can manifest in different forms, each with its own set of symptoms and related concepts. Understanding these forms can help in identifying the root cause of the exhaustion and seeking appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Extreme exhaustion?</h2>
@@ -218,7 +218,7 @@
 <p>Advanced therapies like cognitive-behavioral therapy (CBT) for insomnia, acupuncture, massage therapy, or meditation may also be beneficial in managing extreme exhaustion. These complementary treatments can address both physical and emotional aspects of fatigue, promoting overall well-being.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if extreme exhaustion persists despite adequate rest, nutrition, and lifestyle changes. If fatigue is interfering with daily activities, work performance, or relationships, consulting a healthcare provider is recommended.</p>
-<p>Additionally, if extreme exhaustion is accompanied by other concerning symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, unexplained weight loss, or severe weakness, it may indicate a more serious underlying condition that requires prompt medical evaluation.</p>
+<p>Additionally, if extreme exhaustion is accompanied by other concerning symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, unexplained weight loss, or severe weakness, it may indicate a more serious underlying condition that requires prompt medical evaluation.</p>
 <p>Individuals with a history of heart disease, anemia, chronic illnesses, or autoimmune disorders should be particularly vigilant about monitoring their fatigue levels and seeking medical advice if extreme exhaustion worsens or becomes debilitating.</p>
 <h2>Home Remedies for Extreme exhaustion</h2>
 <ul>

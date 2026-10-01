@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Attack: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart Attack occurs when blood flow to the heart is blocked. Know more about its symptoms, causes, and treatment to improve heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Attack",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-attack"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-attack"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Heart Attack</h1>
-<p>A heart attack, also known as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, occurs when blood flow to a part of the heart is blocked for an extended period, leading to damage or death of heart muscle cells. This is a critical condition requiring immediate medical attention. Heart attacks are prevalent worldwide and can happen to anyone, regardless of age or gender. Understanding the symptoms and risk factors is crucial for early detection and prompt treatment to prevent serious complications. If you suspect a heart attack, seek emergency help right away.</p>
+<p>A heart attack, also known as a <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, occurs when blood flow to a part of the heart is blocked for an extended period, leading to damage or death of heart muscle cells. This is a critical condition requiring immediate medical attention. Heart attacks are prevalent worldwide and can happen to anyone, regardless of age or gender. Understanding the symptoms and risk factors is crucial for early detection and prompt treatment to prevent serious complications. If you suspect a heart attack, seek emergency help right away.</p>
 <h2 id="causes">Causes of Heart Attack</h2>
 <p>Certainly! Here are the main factors contributing to the development of a heart attack:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking and tobacco use</li>
 <li>Obesity and lack of physical activity</li>
 <li>Diabetes</li>
@@ -179,12 +179,12 @@
 <p>Recognizing the symptoms of a heart attack is crucial as early detection can significantly improve outcomes by enabling prompt medical intervention. Common symptoms of a heart attack include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Pain or discomfort in the arms, back, neck, jaw, or stomach</li>
 <li>Cold sweats</li>
 <li>Nausea or vomiting</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Extreme fatigue</li>
 </ul> 
 
@@ -193,7 +193,7 @@ If you or someone you know experiences these symptoms, seek immediate medical at
 <p>Accurate diagnosis of a heart attack is crucial for timely treatment and better outcomes. The diagnostic process typically involves:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
 <li>Blood tests: Measure cardiac enzyme levels indicating heart muscle damage.</li>
 <li>Echocardiogram: Uses sound waves to create images of the heart's structure and function.</li>
 <li>Coronary angiography: Involves injecting dye into the coronary arteries to visualize blockages.</li>

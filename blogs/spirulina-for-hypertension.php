@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Spirulina for Hypertension: Natural Remedy&quot;" />
     <meta property="og:description" content="Explore how spirulina can help manage hypertension naturally. Learn about spirulina dosage, its effects on blood pressure, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/spirulina-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/spirulina-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Spirulina For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/spirulina-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/spirulina-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Spirulina for Hypertension Control</h1>
-<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural remedy that can help you manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> effectively? The answer might lie in Spirulina. Let's explore how this superfood supplement can potentially benefit those dealing with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> on a daily basis.</p>
+<p>Are you struggling to keep your blood pressure in check? Wondering if there's a natural remedy that can help you manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> effectively? The answer might lie in Spirulina. Let's explore how this superfood supplement can potentially benefit those dealing with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> on a daily basis.</p>
 <h2 class="sec-scrl" id="blood-pressure">How Does Spirulina Impact Blood Pressure?</h2>
 <p>Spirulina, a type of blue-green algae, has gained popularity for its potential role in promoting heart health and managing blood pressure levels. Studies suggest that Spirulina may help lower blood pressure through various mechanisms:</p>
 <ul>

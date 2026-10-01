@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chronic Tiredness: Causes, Treatment, and Forms" >
   <meta property="og:description" content="Chronic tiredness can be related to heart problems. Read more about symptoms, causes, diagnosis, and treatment options for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chronic-tiredness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chronic-tiredness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chronic-tiredness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chronic-tiredness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chronic Tiredness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chronic-tiredness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chronic-tiredness"  
       }]
     }
   </script>
@@ -186,9 +186,9 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chronic Tiredness: Causes, Symptoms and Forms</h1>
-<p>Chronic tiredness, also known as persistent fatigue or long-term exhaustion, is a condition characterized by ongoing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, low energy levels, and constant tiredness. It goes beyond normal tiredness and can significantly impact daily functioning and quality of life.</p>
+<p>Chronic tiredness, also known as persistent fatigue or long-term exhaustion, is a condition characterized by ongoing <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, low energy levels, and constant tiredness. It goes beyond normal tiredness and can significantly impact daily functioning and quality of life.</p>
 <p>Individuals with chronic tiredness often struggle to complete daily tasks, experience difficulty concentrating, and may feel physically and mentally drained.</p>
-<p>Symptoms of chronic tiredness can vary from person to person but commonly include chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">lethargy</a>, ongoing weakness, and fatigue symptoms that persist for an extended period.</p>
+<p>Symptoms of chronic tiredness can vary from person to person but commonly include chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">lethargy</a>, ongoing weakness, and fatigue symptoms that persist for an extended period.</p>
 <p>This condition can be debilitating and affect various aspects of life, including work, relationships, and overall well-being.</p>
 <p>Chronic tiredness is not just a case of feeling tired; it is a persistent state of low energy that does not improve with rest.</p>
 <p>It can be a sign of an underlying health issue or a symptom of other conditions such as sleep disorders, depression, or chronic fatigue syndrome.</p>

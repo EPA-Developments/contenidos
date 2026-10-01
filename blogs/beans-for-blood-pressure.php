@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beans: Natural Blood Pressure Control&quot;" />
     <meta property="og:description" content="Discover how beans can help lower blood pressure naturally. Learn about the benefits of beans for hypertension control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beans-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beans-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beans-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beans-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beans For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beans-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beans-for-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Beans for Blood Pressure Control</h1>
-<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> on a daily basis? If so, incorporating beans into your diet could be a simple and effective solution. Let's explore how beans, a humble yet powerful food, can play a significant role in helping you regulate your blood pressure levels.</p>
+<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> on a daily basis? If so, incorporating beans into your diet could be a simple and effective solution. Let's explore how beans, a humble yet powerful food, can play a significant role in helping you regulate your blood pressure levels.</p>
 <h2 class="sec-scrl" id="hypertension-control">Hypertension Control</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as hypertension, is a common condition that can have serious consequences if left unmanaged. The good news is that dietary changes, such as adding beans to your meals, can contribute to better blood pressure control. Beans are rich in nutrients that support heart health, making them an excellent choice for individuals looking to manage their hypertension.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as hypertension, is a common condition that can have serious consequences if left unmanaged. The good news is that dietary changes, such as adding beans to your meals, can contribute to better blood pressure control. Beans are rich in nutrients that support heart health, making them an excellent choice for individuals looking to manage their hypertension.</p>
 <p>Here are some key reasons why beans are beneficial for controlling hypertension:</p>
 <ul>
 <li>Beans are high in fiber, which can help lower blood pressure levels.</li>

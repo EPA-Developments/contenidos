@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Blueberries: Heart Inflammation Relief&quot;" />
     <meta property="og:description" content="Discover how blueberries can help reduce heart inflammation and improve cardiovascular health. Learn more about the benefits of blueberries today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/inflammation-and-blueberries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/inflammation-and-blueberries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/inflammation-and-blueberries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/inflammation-and-blueberries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Inflammation And Blueberries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/inflammation-and-blueberries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/inflammation-and-blueberries"
         }
     ]
 }
@@ -133,9 +133,9 @@
 <p>Blueberries are not just tasty fruits; they also possess powerful anti-inflammatory properties that can benefit your heart health. Let's explore how incorporating blueberries into your diet could potentially reduce inflammation in your heart and support overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="heart-inflammation">How Do Blueberries Combat Heart Inflammation?</h2>
 <p>Blueberries contain a high concentration of antioxidants, such as flavonoids, which help neutralize free radicals in the body. Free radicals can lead to oxidative stress, triggering inflammation in the heart tissue. By consuming blueberries regularly, you can reduce oxidative stress and lower the risk of inflammation in your heart.</p>
-<p>In addition to antioxidants, blueberries also contain anti-inflammatory compounds that target specific inflammatory markers, helping to suppress the body's inflammatory response. This dual action of antioxidants and anti-inflammatory properties makes blueberries a potent ally in fighting <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a>.</p>
+<p>In addition to antioxidants, blueberries also contain anti-inflammatory compounds that target specific inflammatory markers, helping to suppress the body's inflammatory response. This dual action of antioxidants and anti-inflammatory properties makes blueberries a potent ally in fighting <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a>.</p>
 <h2 class="sec-scrl" id="cardiovascular-disease">Can Blueberries Help Prevent Cardiovascular Disease?</h2>
-<p>Cardiovascular disease is often linked to chronic inflammation in the heart and blood vessels. By reducing inflammation through the consumption of blueberries, you may lower your risk of developing cardiovascular issues. Studies have shown that a diet rich in blueberries can improve various risk factors associated with heart disease, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels.</p>
+<p>Cardiovascular disease is often linked to chronic inflammation in the heart and blood vessels. By reducing inflammation through the consumption of blueberries, you may lower your risk of developing cardiovascular issues. Studies have shown that a diet rich in blueberries can improve various risk factors associated with heart disease, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels.</p>
 <ul>
 <li>Blueberries promote healthy blood flow, which is essential for maintaining optimal heart function.</li>
 <li>Regular intake of blueberries can help regulate blood sugar levels, reducing the risk of diabetes, a significant risk factor for heart disease.</li>

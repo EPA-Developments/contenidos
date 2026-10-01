@@ -10,12 +10,12 @@
     <meta property="og:title" content="Smoke and Arrhythmia: A Dangerous Connection" />
     <meta property="og:description" content="Explore how smoking impacts heart rhythm in our in-depth guide on Smoking and Arrhythmia. Learn more about the link between smoking and cardiac arrhythmia." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-arrhythmia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-arrhythmia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-arrhythmia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-arrhythmia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Arrhythmia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-arrhythmia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-arrhythmia"
         }
     ]
 }
@@ -131,16 +131,16 @@
               <h1>The Impact of Smoking on Arrhythmia</h1>
 <p>Are you or a loved one struggling with the impact of Smoking and Arrhythmia? The relationship between smoking and heart rhythm disorders can significantly affect your daily life, making even simple activities challenging. Let's explore the crucial connection between smoking and arrhythmia, shedding light on how it influences your heart's health and overall well-being.</p>
 <h2 class="sec-scrl" id="Heart Rhythm Disorders">Heart Rhythm Disorders</h2>
-<p>Heart rhythm disorders, also known as cardiac arrhythmia, are disturbances in the normal electrical activity of the heart. Smoking can exacerbate these disturbances, leading to irregular heartbeats that can range from <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> to more severe conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a> and fibrillation.</p>
+<p>Heart rhythm disorders, also known as cardiac arrhythmia, are disturbances in the normal electrical activity of the heart. Smoking can exacerbate these disturbances, leading to irregular heartbeats that can range from <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> to more severe conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a> and fibrillation.</p>
 <ul>
-<li>Smoking increases the risk of developing atrial fibrillation, a common type of arrhythmia characterized by a rapid and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
+<li>Smoking increases the risk of developing atrial fibrillation, a common type of arrhythmia characterized by a rapid and <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
 <li>Nicotine and other chemicals in tobacco smoke can trigger abnormal heart rhythms by affecting the heart's conduction system.</li>
 </ul>
 <h2 class="sec-scrl" id="Cardiac Arrhythmia">Cardiac Arrhythmia</h2>
 <p>Cardiac arrhythmia refers to any abnormality in the rate, regularity, or sequence of cardiac activation. Smoking contributes to the development and progression of various types of arrhythmias, impacting the heart's ability to pump blood effectively.</p>
 <ul>
 <li>Chronic smoking leads to changes in the heart's structure and function, increasing the likelihood of arrhythmias.</li>
-<li>Individuals who smoke are more likely to experience sudden cardiac death due to arrhythmias like <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</li>
+<li>Individuals who smoke are more likely to experience sudden cardiac death due to arrhythmias like <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="Smoking and the Heart">Smoking and the Heart</h2>
 <p>Smoking has detrimental effects on the cardiovascular system, including the heart. Continuous exposure to tobacco smoke can result in a cascade of events that disrupt the heart's normal function, paving the way for arrhythmias to develop.</p>

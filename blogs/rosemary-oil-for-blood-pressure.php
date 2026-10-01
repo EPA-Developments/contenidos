@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Rosemary Oil for Blood Pressure Control&quot;" />
     <meta property="og:description" content="Explore how Rosemary Oil may help manage high blood pressure naturally. Discover its potential benefits for blood pressure regulation and heart health support." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rosemary Oil For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Rosemary Oil for Blood Pressure</h1>
-<p>Are you looking for natural ways to support your heart health and manage your blood pressure effectively? The use of Rosemary Oil for Blood Pressure may hold the key to addressing your concerns. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, affects millions worldwide and can significantly impact daily activities. Finding a natural solution like Rosemary oil could be a game-changer in your journey to better heart health.</p>
+<p>Are you looking for natural ways to support your heart health and manage your blood pressure effectively? The use of Rosemary Oil for Blood Pressure may hold the key to addressing your concerns. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, affects millions worldwide and can significantly impact daily activities. Finding a natural solution like Rosemary oil could be a game-changer in your journey to better heart health.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Does Rosemary Oil Support Blood Pressure Regulation?</h2>
 <p>Rosemary oil contains compounds that have been shown to have a positive impact on blood pressure levels. One such compound is rosmarinic acid, which may help dilate blood vessels, allowing for better circulation and lower blood pressure. Additionally, the anti-inflammatory properties of Rosemary oil can reduce the strain on the cardiovascular system, further supporting healthy blood pressure levels.</p>
 <p>Here are some ways Rosemary oil contributes to blood pressure regulation:</p>

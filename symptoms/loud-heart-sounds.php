@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms, and Treatment of Loud Heart Sounds" >
   <meta property="og:description" content="Loud heart sounds could signal heart issues. Know more about its causes, symptoms, diagnosis, and treatment for better care" >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/loud-heart-sounds">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/loud-heart-sounds">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/loud-heart-sounds" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/loud-heart-sounds" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Loud Heart Sounds",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/loud-heart-sounds"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/loud-heart-sounds"  
       }]
     }
   </script>
@@ -186,16 +186,16 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes, Symptoms, and Diagnosis of Loud Heart Sounds</h1>
-<p>Loud heart sounds, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/audible-heartbeat">audible heartbeat</a>, thumping heart, or intense heart sound, refer to abnormal sounds that can be heard with or without a stethoscope.</p>
-<p>These sounds may manifest as strong heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> heard during normal breathing, or even pounding heartbeats. While it's normal to hear your heart beating at times, excessively loud or powerful heartbeats can signal an underlying health issue.</p>
-<p>Symptoms of loud heart sounds may include a sensation of your heart racing or pounding in your chest, fluttering in the chest, or a sense of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
-<p>In some cases, you may also experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or fatigue. It's essential to pay attention to these symptoms and seek medical advice if you notice any persistent or concerning signs.</p>
+<p>Loud heart sounds, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/audible-heartbeat">audible heartbeat</a>, thumping heart, or intense heart sound, refer to abnormal sounds that can be heard with or without a stethoscope.</p>
+<p>These sounds may manifest as strong heartbeats, <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> heard during normal breathing, or even pounding heartbeats. While it's normal to hear your heart beating at times, excessively loud or powerful heartbeats can signal an underlying health issue.</p>
+<p>Symptoms of loud heart sounds may include a sensation of your heart racing or pounding in your chest, fluttering in the chest, or a sense of <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
+<p>In some cases, you may also experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or fatigue. It's essential to pay attention to these symptoms and seek medical advice if you notice any persistent or concerning signs.</p>
 <h2 id="forms">What are the Forms of Loud heart sounds?</h2>
 <p>There are various forms of loud heart sounds, each with its specific symptoms and related concepts.</p>
 <ul>
 <li>Systolic heart sounds: These occur during the contraction phase of the heart and may present as a loud whooshing sound.</li>
 <li>Diastolic heart sounds: These occur during the relaxation phase of the heart and may manifest as a sharp clicking sound.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>: These are abnormal sounds caused by turbulent blood flow through the heart valves and chambers.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>: These are abnormal sounds caused by turbulent blood flow through the heart valves and chambers.</li>
 </ul>
 <p>Understanding the different forms of loud heart sounds can help healthcare providers pinpoint the underlying cause and recommend appropriate treatment.</p>
 <h2 id="causes">What are the Causes of Loud heart sounds?</h2>
@@ -203,7 +203,7 @@
 <ul>
 <li>Heart disease: Conditions such as coronary artery disease, heart failure, or arrhythmias can lead to abnormal heart sounds.</li>
 <li>Valve problems: Malfunctioning heart valves can cause turbulent blood flow and produce loud heart sounds.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Hypertension can lead to thickening of the heart muscles, resulting in louder heart sounds.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Hypertension can lead to thickening of the heart muscles, resulting in louder heart sounds.</li>
 </ul>
 <p>Other potential causes include anemia, hyperthyroidism, stress, or excessive caffeine intake. Identifying the root cause of loud heart sounds is crucial for effective treatment.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Loud heart sounds?</h2>

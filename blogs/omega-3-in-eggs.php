@@ -10,12 +10,12 @@
     <meta property="og:title" content="Omega 3 in Eggs: Heart Health Benefits" />
     <meta property="og:description" content="Discover how Omega 3 in Eggs boosts heart health and reduces inflammation. Uncover the benefits for your overall well-being now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-eggs" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-eggs" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-eggs" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-eggs" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 In Eggs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-in-eggs"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-in-eggs"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Omega in Eggs for Heart Health</h1>
 <p>Are you seeking ways to improve your heart health naturally? Have you ever wondered about the benefits of Omega 3 in eggs and how they can impact your daily life? Omega 3 in eggs is a crucial element that can make a significant difference in your overall well-being, from reducing inflammation to supporting brain function. Let's dive into the essential role of Omega 3 in eggs and how it can benefit your heart health.</p>
 <h2 class="sec-scrl" id="eggs-yolk">The Power of Omega 3 in Eggs Yolk</h2>
-<p>Omega 3 fatty acids found in egg yolks are known for their anti-inflammatory properties. These healthy fats play a vital role in reducing inflammation throughout the body, including the heart. By incorporating Omega 3-rich egg yolks into your diet, you can help lower the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and improve overall blood circulation.</p>
+<p>Omega 3 fatty acids found in egg yolks are known for their anti-inflammatory properties. These healthy fats play a vital role in reducing inflammation throughout the body, including the heart. By incorporating Omega 3-rich egg yolks into your diet, you can help lower the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and improve overall blood circulation.</p>
 <p>Additionally, Omega 3 in eggs yolk can also help lower triglyceride levels, which are a type of fat in the blood. High triglyceride levels can increase the risk of heart disease, but consuming foods rich in Omega 3, such as eggs, can help maintain healthy triglyceride levels and reduce the risk of cardiovascular issues.</p>
 <h2 class="sec-scrl" id="blood-circulation">Supporting Healthy Blood Circulation</h2>
 <p>Omega 3 in eggs plays a crucial role in supporting healthy blood circulation, which is vital for overall heart health. These fatty acids help prevent the formation of blood clots, which can lead to heart attacks or strokes. By including Omega 3-rich foods like eggs in your diet, you can promote better blood flow and reduce the risk of cardiovascular events.</p>

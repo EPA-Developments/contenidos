@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hemopericardium: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hemopericardium is a condition where blood accumulates around the heart. Know more about its causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hemopericardium">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hemopericardium">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hemopericardium" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hemopericardium" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hemopericardium",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hemopericardium"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hemopericardium"
       }]
     }
   </script>
@@ -161,16 +161,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Hemopericardium</h1>
-<p>Hemopericardium is when blood accumulates in the sac around the heart, called the pericardium. This condition is significant because it can compress the heart, affecting its ability to pump blood effectively. While rare, hemopericardium can result from trauma, <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>, or certain medical procedures. Prompt diagnosis and treatment are crucial to prevent serious complications. If you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, seek medical help immediately. Hemopericardium requires urgent medical attention to avoid potential life-threatening consequences.</p>
+<p>Hemopericardium is when blood accumulates in the sac around the heart, called the pericardium. This condition is significant because it can compress the heart, affecting its ability to pump blood effectively. While rare, hemopericardium can result from trauma, <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>, or certain medical procedures. Prompt diagnosis and treatment are crucial to prevent serious complications. If you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, seek medical help immediately. Hemopericardium requires urgent medical attention to avoid potential life-threatening consequences.</p>
 <h2 id="causes">Causes of Hemopericardium</h2>
 <p>Hemopericardium, the accumulation of blood in the pericardial sac, can result from various factors. Here are some main contributors to its development:
 
 <ul>
 <li>Trauma to the chest</li>
-<li>Complications from <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a></li>
+<li>Complications from <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a></li>
 <li>Rupture of the aorta</li>
 <li>Use of anticoagulant medications</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a> (inflammation of the pericardium)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a> (inflammation of the pericardium)</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Hemopericardium</h2>
 <p>Hemopericardium, the accumulation of blood in the pericardial sac around the heart, is a critical condition that requires prompt recognition for better outcomes. Early detection of Hemopericardium can lead to timely intervention and potentially save lives. Recognizing the symptoms is crucial. Some key symptoms to watch out for include:
@@ -178,9 +178,9 @@
 <ul>
 <li>Chest pain</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Fainting or lightheadedness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
 </ul></p>
 <h2>Diagnosis of Hemopericardium</h2>
 <p>Hemopericardium is a serious condition where blood accumulates in the pericardial sac surrounding the heart. Timely and accurate diagnosis is crucial to prevent life-threatening complications like cardiac tamponade. 

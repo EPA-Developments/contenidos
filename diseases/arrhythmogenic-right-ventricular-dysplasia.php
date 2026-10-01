@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arrhythmogenic Right Ventricular Dysplasia: Symptoms and Causes" >
   <meta property="og:description" content="Arrhythmogenic Right Ventricular Dysplasia weakens heart muscles, causing rhythm issues. Know its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-right-ventricular-dysplasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-right-ventricular-dysplasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-right-ventricular-dysplasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-right-ventricular-dysplasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Arrhythmogenic Right Ventricular Dysplasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-right-ventricular-dysplasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-right-ventricular-dysplasia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms of Arrhythmogenic Right Ventricular Dysplasia</h1>
-<p>Arrhythmogenic Right Ventricular Dysplasia (ARVD) is a heart condition where the muscle in the right ventricle is replaced by fat and scar tissue. This can lead to abnormal heart rhythms and increase the risk of sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. ARVD is rare, affecting about 1 in 5,000 individuals. It's crucial to diagnose and manage ARVD early to prevent complications. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fainting, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, consult a cardiologist for evaluation and appropriate care.</p>
+<p>Arrhythmogenic Right Ventricular Dysplasia (ARVD) is a heart condition where the muscle in the right ventricle is replaced by fat and scar tissue. This can lead to abnormal heart rhythms and increase the risk of sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. ARVD is rare, affecting about 1 in 5,000 individuals. It's crucial to diagnose and manage ARVD early to prevent complications. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fainting, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, consult a cardiologist for evaluation and appropriate care.</p>
 <h2 id="causes">Causes of Arrhythmogenic Right Ventricular Dysplasia</h2>
 <p>Arrhythmogenic Right Ventricular Dysplasia (ARVD) is influenced by several factors, including:
 
@@ -177,8 +177,8 @@
 
 <ul>
 <li>Irregular heartbeats (arrhythmias)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Shortness of breath</li>
 <li>Palpitations (rapid, fluttering, or pounding heartbeats)</li>
 </ul>
@@ -188,8 +188,8 @@ Detecting these symptoms early can aid in prompt diagnosis and treatment, potent
 <p>Arrhythmogenic Right Ventricular Dysplasia (ARVD) diagnosis is crucial due to its potential to cause life-threatening arrhythmias or sudden cardiac death. The diagnostic process typically involves a combination of tests to accurately identify the condition. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function.</li>
 <li>Cardiac MRI for detailed imaging of the heart muscle.</li>
 <li>Genetic testing to identify specific genetic mutations linked to ARVD.</li>
 <li>Holter monitoring for continuous ECG recording over 24-48 hours.</li>

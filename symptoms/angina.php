@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Angina: Symptoms, Causes, Diagnosis, Treatment, Prevention" >
   <meta property="og:description" content="Angina causes chest pain due to reduced blood flow to the heart. It may signal a heart problem. Know the symptoms, causes, and treatment options. Read more." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/angina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/angina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/angina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/angina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Angina",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/angina"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/angina"  
       }]
     }
   </script>
@@ -186,11 +186,11 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Angina: Treatment, Diagnosis, Causes and Symptoms</h1>
-<p>Angina is a condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort caused by reduced blood flow to the heart muscle. It is often described as a feeling of pressure, squeezing, heaviness, or tightness in the chest.</p>
+<p>Angina is a condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort caused by reduced blood flow to the heart muscle. It is often described as a feeling of pressure, squeezing, heaviness, or tightness in the chest.</p>
 <p>Angina occurs when the heart muscle does not receive enough oxygen-rich blood, usually due to narrowed or blocked arteries. This lack of blood flow can lead to temporary chest pain or discomfort, known as an angina attack.</p>
-<p>Symptoms of angina can vary from person to person but commonly include chest pain, heart pain, cardiac discomfort, severe <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, chest discomfort, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a>, and can sometimes be mistaken for <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> symptoms.</p>
+<p>Symptoms of angina can vary from person to person but commonly include chest pain, heart pain, cardiac discomfort, severe <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, chest discomfort, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a>, and can sometimes be mistaken for <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> symptoms.</p>
 <p>The pain may also radiate to the arms, neck, jaw, shoulder, or back.</p>
-<p>It is essential to differentiate between <a href="https://plataforma.epa-bienestar.com.ar/diseases/stable-angina">stable angina</a>, which occurs with physical exertion or stress and typically subsides with rest, and unstable angina, which can occur at rest and is a sign of a more serious condition.</p>
+<p>It is essential to differentiate between <a href="https://contenidos.segundaopinionmedica.org/diseases/stable-angina">stable angina</a>, which occurs with physical exertion or stress and typically subsides with rest, and unstable angina, which can occur at rest and is a sign of a more serious condition.</p>
 <h2 id="forms">What are the Forms of Angina?</h2>
 <p>There are several forms of angina, each with unique characteristics:</p>
 <ul>
@@ -202,17 +202,17 @@
 <p>The primary cause of angina is coronary artery disease, which occurs when the arteries that supply blood to the heart become narrowed or blocked.</p>
 <p>This can be due to a buildup of plaque, cholesterol, or other substances on the arterial walls, restricting blood flow to the heart muscle.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Smoking</li>
 <li>Diabetes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Lack of physical activity</li>
 <li>Obesity</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Angina?</h2>
 <p>Diagnosing angina usually involves a combination of medical history, physical examination, and diagnostic tests.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG/EKG): This test records the electrical activity of the heart and can detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG/EKG): This test records the electrical activity of the heart and can detect abnormalities.</li>
 <li>Stress test: This test measures how the heart responds to physical stress and can help diagnose angina.</li>
 <li>Coronary angiography: This procedure uses dye and X-rays to visualize the coronary arteries and identify blockages or narrowing.</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sodium's Role in Fluid Balance" />
     <meta property="og:description" content="Discover how sodium impacts fluid balance in your body, ensuring optimal hydration and overall well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-fluid-balance" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-fluid-balance" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-fluid-balance" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-fluid-balance" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Fluid Balance",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-fluid-balance"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-fluid-balance"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Supporting nerve and muscle function</li>
 <li>Maintaining proper pH levels</li>
 </ul>
-<p>When electrolytes are imbalanced, it can lead to dehydration, muscle cramps, and even <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>. Sodium, in particular, plays a critical role in fluid regulation.</p>
+<p>When electrolytes are imbalanced, it can lead to dehydration, muscle cramps, and even <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>. Sodium, in particular, plays a critical role in fluid regulation.</p>
 <h2 class="sec-scrl" id="fluid-regulation">How Does Sodium Impact Fluid Regulation?</h2>
 <p>Sodium helps regulate the balance of fluids inside and outside our cells. Here's how sodium contributes to fluid balance:</p>
 <ul>
@@ -155,7 +155,7 @@
 </ul>
 <p>Ensuring adequate sodium intake is essential for staying hydrated, especially during hot weather or intense physical activity.</p>
 <h2 class="sec-scrl" id="edema-prevention">Can Sodium Help Prevent Edema?</h2>
-<p>Edema, or swelling caused by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a>, can be uncomfortable and sometimes painful. Sodium plays a role in preventing edema by:</p>
+<p>Edema, or swelling caused by <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a>, can be uncomfortable and sometimes painful. Sodium plays a role in preventing edema by:</p>
 <ul>
 <li>Regulating fluid balance in tissues</li>
 <li>Supporting kidney function to eliminate excess fluids</li>

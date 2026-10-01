@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Red Wine Heart Benefits Explained&quot;" />
     <meta property="og:description" content="Explore how red wine can improve heart health with antioxidants and polyphenols. Learn about the benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-heart-benefits"
         }
     ]
 }
@@ -143,11 +143,11 @@
 <li>Cholesterol: Red wine consumption in moderation can potentially raise HDL (good) cholesterol levels and lower LDL (bad) cholesterol levels, promoting a healthier heart.</li>
 </ul>
 <h2 class="sec-scrl" id="polyphenols">The Role of Polyphenols</h2>
-<p>Polyphenols found in red wine have been shown to have various health benefits, including protecting the lining of blood vessels in the heart. These compounds may also help regulate blood pressure and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation, all of which are essential for cardiovascular health.</p>
+<p>Polyphenols found in red wine have been shown to have various health benefits, including protecting the lining of blood vessels in the heart. These compounds may also help regulate blood pressure and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation, all of which are essential for cardiovascular health.</p>
 <h2 class="sec-scrl" id="cardiovascular-health">Red Wine and Cardiovascular Health</h2>
 <p>In addition to its antioxidant properties, red wine can positively impact cardiovascular health in several ways. Regular, moderate consumption of red wine has been linked to a decreased risk of developing heart-related conditions, such as coronary artery disease and heart attacks.</p>
 <ul>
-<li>Blood Pressure: Some studies suggest that the polyphenols in red wine may help lower blood pressure levels, reducing strain on the heart and decreasing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Blood Pressure: Some studies suggest that the polyphenols in red wine may help lower blood pressure levels, reducing strain on the heart and decreasing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Red wine, when consumed in moderation as part of a healthy lifestyle, can offer several benefits for heart health. The antioxidants, polyphenols, and other compounds present in red wine play a significant role in protecting the heart and reducing the risk of cardiovascular disease. However, it's essential to remember that excessive alcohol consumption can have detrimental effects on health, so it's crucial to enjoy red wine responsibly. Incorporating a glass of red wine into your routine may be a tasty way to support your heart health, but always consult with your healthcare provider before making any significant changes to your diet.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Leaky Heart Valve: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Leaky Heart Valve allows blood to flow backward, affecting heart function. Know more about its causes, symptoms, and how it can be treated." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/leaky-heart-valve">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/leaky-heart-valve">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/leaky-heart-valve" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/leaky-heart-valve" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Leaky Heart Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/leaky-heart-valve"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/leaky-heart-valve"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Leaky Heart Valve</h1>
-<p>A Leaky Heart Valve occurs when one of the heart's valves doesn't close properly, causing blood to leak backward. This can make the heart work harder and lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and swelling. It's a common condition, affecting millions of people worldwide. While it can be managed with medication or surgery, early detection is crucial for better outcomes. If you experience symptoms or have risk factors, consult a healthcare provider for evaluation and appropriate management.</p>
+<p>A Leaky Heart Valve occurs when one of the heart's valves doesn't close properly, causing blood to leak backward. This can make the heart work harder and lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and swelling. It's a common condition, affecting millions of people worldwide. While it can be managed with medication or surgery, early detection is crucial for better outcomes. If you experience symptoms or have risk factors, consult a healthcare provider for evaluation and appropriate management.</p>
 <h2 id="causes">Causes of Leaky Heart Valve</h2>
 <p><h3>Main Factors Contributing to the Development of a Leaky Heart Valve:</h3>
 <ul>
 <li>Age-related wear and tear on the heart valve leaflets</li>
-<li>Previous heart conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li>Previous heart conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 <li>Genetic predisposition to valve abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> leading to valve damage</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> leading to valve damage</li>
 <li>Coronary artery disease affecting the heart's blood supply</li>
 <li>Heart attacks causing damage to the heart muscle and valves</li>
 </ul></p>
@@ -177,10 +177,10 @@
 
 <ul>
 <li>Shortness of breath, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Swollen ankles or feet</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or lightheadedness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or lightheadedness</li>
 </ul>
 
 Early identification of these symptoms and prompt medical evaluation can lead to timely interventions and better management of a Leaky Heart Valve, potentially preventing complications and improving quality of life.</p>

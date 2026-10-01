@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="How to Treat Tachycardia: Effective Home Remedies">
   <meta property="og:description" content="Learn effective steps for relief by discovering how to treat tachycardia at home. Find out simple remedies to manage tachycardia symptoms.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/treat-tachycardia-effective-home-remedies">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/treat-tachycardia-effective-home-remedies">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/treat-tachycardia-effective-home-remedies" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/treat-tachycardia-effective-home-remedies" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Treat Tachycardia: Effective Home Remedies",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/treat-tachycardia-effective-home-remedies"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/treat-tachycardia-effective-home-remedies"  
       }]
     }
   </script>

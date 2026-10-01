@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulsation in Ears: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing pulsation in ears? Learn about causes, treatment options, and how it relates to heart disease and tinnitus. Find tips for managing symptoms and when to seek medical help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pulsation-in-ears">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pulsation-in-ears">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pulsation-in-ears" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pulsation-in-ears" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulsation In Ears",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pulsation-in-ears"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pulsation-in-ears"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Pulsation in Ears: Causes, Symptoms, and Treatment Options</h1>
 <p>Pulsation in ears refers to the sensation of rhythmic beating, throbbing, or pulsing sound within the ear. This condition can be distressing and interfere with daily activities, causing discomfort and anxiety.</p>
 <p>Individuals experiencing pulsation in their ears may also notice a feeling of pressure or fullness in the ear, similar to the sensation of having a heartbeat in the ear.</p>
-<p>Pulsation in ears can be intermittent or persistent, and it may be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, hearing loss, or tinnitus (ringing in the ears).</p>
+<p>Pulsation in ears can be intermittent or persistent, and it may be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, hearing loss, or tinnitus (ringing in the ears).</p>
 <h2 id="forms">What are the Forms of Pulsation in ears?</h2>
 <p>There are several forms of pulsation in ears that individuals may experience.</p>
 <ul>
@@ -203,7 +203,7 @@
 <h2 id="causes">What are the Causes of Pulsation in ears?</h2>
 <p>The causes of pulsation in ears can vary and may be related to underlying health conditions or external factors.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure can cause pulsation in the ears due to increased blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure can cause pulsation in the ears due to increased blood flow.</li>
 <li>Stress and anxiety: Emotional stress and anxiety can trigger pulsation in the ears.</li>
 <li>Inner ear disorders: Conditions affecting the inner ear, such as Meniere's disease, can lead to pulsation in the ears.</li>
 <li>Cardiovascular issues: Heart diseases or abnormalities in the blood vessels can result in pulsation in the ears.</li>
@@ -217,7 +217,7 @@
 <h2 id="treatment">What is the Treatment for Pulsation in ears?</h2>
 <p>Treatment for pulsation in ears depends on the underlying cause and severity of symptoms.</p>
 <ul>
-<li>Medical intervention: Medications such as diuretics to reduce fluid retention, antianxiety drugs to manage stress, or blood pressure medications to control <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Medical intervention: Medications such as diuretics to reduce fluid retention, antianxiety drugs to manage stress, or blood pressure medications to control <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Lifestyle modifications: Avoiding loud noises, reducing stress through relaxation techniques, and maintaining a healthy diet and exercise routine.</li>
 <li>Advanced approaches: In severe cases, procedures like ear tube placement, surgery to correct structural abnormalities, or sound therapy to manage tinnitus may be recommended by healthcare providers.</li>
 </ul>
@@ -225,7 +225,7 @@
 <p>It is essential to seek medical attention if you experience pulsation in ears along with the following symptoms:</p>
 <ul>
 <li>Sudden onset of pulsation in the ears.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness">severe dizziness</a> or imbalance.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness">severe dizziness</a> or imbalance.</li>
 <li>Persistent ear pain or pressure.</li>
 <li>Gradual hearing loss or changes in hearing.</li>
 <li>Accompanying symptoms like headaches, nausea, or vomiting.</li>

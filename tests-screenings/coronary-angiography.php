@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Coronary Angiography: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Coronary angiography examines blood flow in heart arteries. Know more about its purpose, costs, and normal Range for heart disease detection." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Angiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-angiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-angiography"  
       }]
     }
   </script>
@@ -181,7 +181,7 @@
 <p>This test is crucial in diagnosing coronary artery disease, which is a common condition that can lead to heart attacks and other serious heart problems.</p>
 <p>The role of coronary angiography in visualizing blockages and stenosis is essential for determining the extent and severity of coronary artery disease.</p>
 <p>By identifying blockages and narrowing of the arteries, doctors can plan appropriate treatment strategies to improve blood flow to the heart muscle.</p>
-<p>Coronary angiography plays a significant role in planning <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, a procedure used to open blocked or narrowed coronary arteries.</p>
+<p>Coronary angiography plays a significant role in planning <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, a procedure used to open blocked or narrowed coronary arteries.</p>
 <p>By visualizing the location and severity of blockages, doctors can precisely guide the placement of stents to restore blood flow to the heart muscle.</p>
 <p>In cases of heart attacks, coronary angiography is used as a diagnostic tool to identify the location and extent of blockages in the coronary arteries.</p>
 <p>This information is crucial for determining the most effective treatment options and improving outcomes for patients.</p>
@@ -190,7 +190,7 @@
 <h2 id="purpose">What is the Purpose of Performing a Coronary Angiography Test?</h2>
 <p>The primary purpose of performing a coronary angiography test is to diagnose coronary artery disease and evaluate the extent of blockages or stenosis in the coronary arteries.</p>
 <p>This information is crucial for determining the most appropriate treatment options and improving outcomes for patients with heart disease.</p>
-<p>Coronary angiography is also used to assess the effectiveness of previous treatments, such as angioplasty or <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>.</p>
+<p>Coronary angiography is also used to assess the effectiveness of previous treatments, such as angioplasty or <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>.</p>
 <p>By visualizing the coronary arteries, doctors can determine if there are any new blockages or complications that may require further intervention.</p>
 <p>Another important purpose of coronary angiography is to evaluate the overall function of the heart and assess the risk of future heart problems.</p>
 <p>By identifying blockages and narrowing in the coronary arteries, doctors can develop personalized treatment plans to reduce the risk of heart attacks and other cardiovascular events.</p>
@@ -220,7 +220,7 @@
 <p>By interpreting these values accurately, doctors can provide personalized care and improve outcomes for patients with cardiovascular conditions.</p>
 <h2>What Do High Coronary Angiography Levels Indicate?</h2>
 <p>High coronary angiography levels indicate significant blockages or stenosis in the coronary arteries, which can restrict blood flow to the heart muscle and increase the risk of heart attacks and other cardiovascular events.</p>
-<p>Causes of high coronary angiography levels include <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, plaque buildup, and inflammation in the arteries.</p>
+<p>Causes of high coronary angiography levels include <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, plaque buildup, and inflammation in the arteries.</p>
 <ul>
 <li>High coronary angiography levels may indicate:</li>
 <li>Severe blockages in the coronary arteries</li>
@@ -244,7 +244,7 @@
 <li>Adequate blood flow to the heart muscle</li>
 <li>Potential for lifestyle modifications to improve heart health</li>
 </ul>
-<p>Associated conditions with low coronary angiography levels include early-stage heart disease, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels.</p>
+<p>Associated conditions with low coronary angiography levels include early-stage heart disease, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels.</p>
 <p>It is essential for patients with low levels of blockages in the coronary arteries to work with their healthcare provider to develop a heart-healthy lifestyle and prevent the progression of heart disease.</p>
 <p>Necessary actions for patients with low coronary angiography levels include regular monitoring of heart health, adopting a healthy diet and exercise routine, and managing risk factors for heart disease.</p>
 <p>By taking proactive steps to improve heart health, patients can reduce the risk of developing more severe blockages in the coronary arteries.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Brown Rice Benefits for Heart Health" />
     <meta property="og:description" content="Discover how brown rice boosts heart health naturally. Learn its benefits for cardiovascular protection. Optimize your diet today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Brown Rice And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-heart-health"
         }
     ]
 }
@@ -140,8 +140,8 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
 <p>Can brown rice really help prevent heart disease? The answer lies in its ability to lower cholesterol levels, regulate blood pressure, and reduce inflammation – all of which are critical in preventing heart conditions. By making brown rice a staple in your diet, you can significantly reduce the risk of developing heart disease and related complications.</p>
 <ul>
-<li>Cholesterol Reduction: The fiber and nutrients in brown rice can help lower LDL (bad) cholesterol levels, keeping your arteries clear and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
-<li>Regulates Blood Pressure: The magnesium content in brown rice plays a role in maintaining healthy blood pressure levels, reducing strain on the heart and lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Cholesterol Reduction: The fiber and nutrients in brown rice can help lower LDL (bad) cholesterol levels, keeping your arteries clear and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Regulates Blood Pressure: The magnesium content in brown rice plays a role in maintaining healthy blood pressure levels, reducing strain on the heart and lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-benefits">Cardiovascular Benefits</h2>
 <p>What specific benefits does brown rice offer for your heart health? By promoting overall cardiovascular wellness, brown rice can help in preventing heart attacks, strokes, and other cardiovascular issues. Its nutrient-rich composition supports a healthy heart and ensures optimal functioning of the cardiovascular system.</p>

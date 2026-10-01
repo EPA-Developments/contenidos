@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Difference Between Cardiomyopathy and Myocarditis: Key Facts">
   <meta property="og:description" content="Learn the key differences between cardiomyopathy and myocarditis to understand the distinction and treatment options. Get clarity on the difference between cardiomyopathy and myocarditis now.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Difference Between Cardiomyopathy And Myocarditis: Key Facts",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/difference-between-cardiomyopathy-and-myocarditis-key-facts"  
       }]
     }
   </script>

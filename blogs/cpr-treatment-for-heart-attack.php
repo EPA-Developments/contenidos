@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Bystanders' Impact in Heart Attack CPR&quot;" />
     <meta property="og:description" content="Learn how bystanders play a crucial role in CPR treatment for heart attacks. Discover life-saving methods and CPR procedures here." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cpr-treatment-for-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cpr-treatment-for-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cpr-treatment-for-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cpr-treatment-for-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cpr Treatment For Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cpr-treatment-for-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cpr-treatment-for-heart-attack"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Vital Role of Bystanders in CPR for Heart Attack</h1>
-<p>Have you ever wondered what you would do if someone near you suddenly suffered a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? The importance of CPR treatment for heart attack cannot be overstated. Knowing how to perform CPR for <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> can make a significant difference in saving a life. Imagine the impact of being able to provide CPR chest compressions in a critical moment. It's a skill that can truly be a lifesaving method, especially when every second counts and emergency services are not immediately available.</p>
+<p>Have you ever wondered what you would do if someone near you suddenly suffered a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? The importance of CPR treatment for heart attack cannot be overstated. Knowing how to perform CPR for <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> can make a significant difference in saving a life. Imagine the impact of being able to provide CPR chest compressions in a critical moment. It's a skill that can truly be a lifesaving method, especially when every second counts and emergency services are not immediately available.</p>
 <h2 class="sec-scrl" id="CPR for cardiac arrest">CPR for Cardiac Arrest</h2>
 <p>When someone experiences a heart attack, their heart can stop beating effectively, leading to cardiac arrest. CPR, which stands for cardiopulmonary resuscitation, is a crucial intervention that helps maintain blood flow to the heart and brain until professional help arrives. Here are the key steps to follow:</p>
 <ul>
@@ -208,7 +208,7 @@
 <h2 class="sec-scrl" id="heart attack CPR steps">Heart Attack CPR Steps</h2>
 <p>Knowing the specific steps to take during a heart attack can help you respond effectively in a high-pressure situation. Here are the key heart attack CPR steps to keep in mind:</p>
 <ul>
-<li>Recognize the signs of a heart attack, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and discomfort in the upper body.</li>
+<li>Recognize the signs of a heart attack, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and discomfort in the upper body.</li>
 <li>Call for help immediately and inform the dispatcher that you suspect a heart attack.</li>
 <li>Initiate CPR by starting chest compressions at the proper rate and depth.</li>
 <li>Continue CPR until emergency medical services take over or the person shows signs of recovery.</li>

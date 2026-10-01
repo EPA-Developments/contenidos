@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cocoa's Impact on Atherosclerosis Risk&quot;" />
     <meta property="og:description" content="Discover how cocoa can help reduce the risk of atherosclerosis and promote heart health with flavonoids." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Cocoa Against Atherosclerosis</h1>
-<p>Are you worried about the health of your heart and blood vessels? Have you ever wondered how cocoa could potentially help in reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the build-up of fatty deposits in your arteries? Atherosclerosis can hinder your daily activities and lead to serious heart issues if left unchecked.</p>
+<p>Are you worried about the health of your heart and blood vessels? Have you ever wondered how cocoa could potentially help in reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the build-up of fatty deposits in your arteries? Atherosclerosis can hinder your daily activities and lead to serious heart issues if left unchecked.</p>
 <h2 class="sec-scrl" id="arterial-plaque">Arterial Plaque</h2>
 <p>Arterial plaque, made up of fat, cholesterol, calcium, and other substances found in the blood, can accumulate in your arteries over time. This build-up can restrict blood flow, increasing the risk of heart attacks and strokes. Cocoa contains compounds that may help prevent the formation of arterial plaque, thus promoting better blood vessel health.</p>
 <p>Here are some ways in which cocoa can contribute to reducing arterial plaque:</p>
@@ -143,7 +143,7 @@
 <p>Key points about how cocoa supports blood vessel health:</p>
 <ul>
 <li>The flavonoids in cocoa can stimulate the production of nitric oxide, a compound that relaxes blood vessels, promoting better circulation.</li>
-<li>Cocoa consumption has been linked to lower rates of <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a condition that impairs blood vessel function and is a precursor to atherosclerosis.</li>
+<li>Cocoa consumption has been linked to lower rates of <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a condition that impairs blood vessel function and is a precursor to atherosclerosis.</li>
 <li>Regular intake of cocoa may help prevent the stiffening of arteries, reducing the risk of developing atherosclerosis.</li>
 </ul>
 <h2 class="sec-scrl" id="flavonoids-for-heart-health">Flavonoids for Heart Health</h2>

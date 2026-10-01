@@ -10,12 +10,12 @@
     <meta property="og:title" content="Red Wine and Blood Pressure: Key Insights" />
     <meta property="og:description" content="Learn how red wine impacts blood pressure & vascular health. Discover the link between red wine, hypertension, and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Red Wine and Blood Pressure: Key Facts</h1>
-<p>Are you concerned about how red wine consumption may be impacting your blood pressure? Does the thought of enjoying a glass of red wine leave you wondering about its effects on your vascular health? Understanding the relationship between red wine and blood pressure is crucial, especially if you are trying to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and maintain optimal circulatory function. Let's delve into the facts to help you make informed decisions.</p>
+<p>Are you concerned about how red wine consumption may be impacting your blood pressure? Does the thought of enjoying a glass of red wine leave you wondering about its effects on your vascular health? Understanding the relationship between red wine and blood pressure is crucial, especially if you are trying to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and maintain optimal circulatory function. Let's delve into the facts to help you make informed decisions.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">Blood Pressure Regulation</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can have serious implications for your overall health. Red wine contains compounds that may help in the regulation of blood pressure levels. One such component is resveratrol, a polyphenol that has been linked to potential benefits for heart health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can have serious implications for your overall health. Red wine contains compounds that may help in the regulation of blood pressure levels. One such component is resveratrol, a polyphenol that has been linked to potential benefits for heart health.</p>
 <p>Research suggests that moderate consumption of red wine, along with a healthy lifestyle, may contribute to better blood pressure management. However, it's essential to consult with your healthcare provider to determine the most suitable approach for your individual needs.</p>
 <h2 class="sec-scrl" id="hypertension">Hypertension</h2>
 <p>Individuals with hypertension need to be cautious about their alcohol intake, including red wine. While small to moderate amounts of red wine may offer certain cardiovascular advantages, excessive consumption can have adverse effects on blood pressure levels.</p>

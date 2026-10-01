@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="How to Avoid Heart Attack: Lifestyle Changes and Tips">
   <meta property="og:description" content="Learn how to avoid heart attack by making simple lifestyle changes and following expert tips. Protect your heart health with our comprehensive guide.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-to-avoid-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-to-avoid-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-to-avoid-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-to-avoid-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "How To Avoid Heart Attack: Lifestyle Changes And Tips",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-to-avoid-heart-attack"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-to-avoid-heart-attack"  
       }]
     }
   </script>

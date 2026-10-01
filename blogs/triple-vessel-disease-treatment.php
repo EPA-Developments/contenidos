@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Triple Vessel Disease Treatment Guide&quot;" />
     <meta property="og:description" content="Learn about triple vessel disease treatment options to reduce heart attack risk and improve cardiac health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-disease-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-disease-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-disease-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-disease-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Triple Vessel Disease Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-disease-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-disease-treatment"
         }
     ]
 }
@@ -169,10 +169,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Heart Attack Risk &amp; Triple Vessel Disease Treatment Guide</h1>
-<p>Are you worried about the implications of triple vessel disease treatment on your daily life? How will it impact your ability to carry out routine activities without fear of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> looming over you?</p>
+<p>Are you worried about the implications of triple vessel disease treatment on your daily life? How will it impact your ability to carry out routine activities without fear of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> looming over you?</p>
 <p>Triple vessel disease is a severe condition that affects the blood flow to your heart. It can significantly increase your risk of heart attack and other complications, making even simple tasks challenging to perform. Seeking the right treatment and care for triple vessel disease is crucial in managing the condition and improving your quality of life.</p>
 <h2 class="sec-scrl" id="heart-surgery">What is Heart Surgery for Triple Vessel Disease Treatment?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>, such as CABG surgery, is often recommended for patients with triple vessel disease to restore proper blood flow to the heart muscle. During the procedure, a surgeon creates new routes for blood to bypass blockages in the arteries, typically using a healthy blood vessel from another part of the body or a synthetic tube.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>, such as CABG surgery, is often recommended for patients with triple vessel disease to restore proper blood flow to the heart muscle. During the procedure, a surgeon creates new routes for blood to bypass blockages in the arteries, typically using a healthy blood vessel from another part of the body or a synthetic tube.</p>
 <p>In addition to relieving symptoms and reducing the risk of heart attack, heart surgery can improve overall heart function and enhance your quality of life. Understanding the process of heart surgery and what to expect during and after the procedure is essential for a successful recovery.</p>
 <h2 class="sec-scrl" id="bypass-graft">How Does Bypass Surgery Recovery Impact Your Daily Life?</h2>
 <p>After undergoing bypass surgery for triple vessel disease, proper recovery and rehabilitation are crucial for a successful outcome. While the recovery process can vary for each individual, it typically involves a combination of medication, lifestyle changes, and cardiac rehabilitation programs.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrioventricular Block: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Atrioventricular Block disrupts heart signals, slowing rhythm. Know the symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Atrioventricular Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-block"
       }]
     }
   </script>
@@ -161,15 +161,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Atrioventricular Block</h1>
-<p>Atrioventricular Block, also known as AV block, is a condition where there is a delay or interruption in the electrical signals between the heart's upper chambers (atria) and lower chambers (ventricles). This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, and fainting. AV block is significant as it can disrupt the heart's rhythm and affect blood flow to the body. While it can occur at any age, it's more common in older adults. If you experience symptoms, it's essential to seek medical attention for proper evaluation and management.</p>
+<p>Atrioventricular Block, also known as AV block, is a condition where there is a delay or interruption in the electrical signals between the heart's upper chambers (atria) and lower chambers (ventricles). This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, and fainting. AV block is significant as it can disrupt the heart's rhythm and affect blood flow to the body. While it can occur at any age, it's more common in older adults. If you experience symptoms, it's essential to seek medical attention for proper evaluation and management.</p>
 <h2 id="causes">Causes of Atrioventricular Block</h2>
 <p>Several factors can contribute to the development of Atrioventricular Block, a condition where the electrical signals between the heart's upper and lower chambers are delayed or blocked. These factors include:
 
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 <li>Infections affecting the heart</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Atrioventricular Block</h2>
@@ -177,10 +177,10 @@
 
 <ul>
 <li> Fatigue</li>
-<li> Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li> Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a></li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li> Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li> Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a></li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li> Palpitations or irregular heartbeat</li>
 <li> Confusion or difficulty concentrating</li>
 </ul> 

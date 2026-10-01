@@ -10,12 +10,12 @@
     <meta property="og:title" content="Magnesium's Heart Health Benefits" />
     <meta property="og:description" content="Discover the vital role of magnesium in supporting heart health and overall well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/magnesium-and-heart-function" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/magnesium-and-heart-function" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/magnesium-and-heart-function" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/magnesium-and-heart-function" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Magnesium And Heart Function",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/magnesium-and-heart-function"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/magnesium-and-heart-function"
         }
     ]
 }
@@ -131,17 +131,17 @@
               <h1>The Power of Magnesium for Heart Health</h1>
 <p>Are you aware of the crucial role magnesium plays in supporting heart function? Many individuals underestimate the significance of this essential mineral when it comes to heart health. How does magnesium impact your daily activities? Let's delve deeper into the connection between magnesium and heart function.</p>
 <h2 class="sec-scrl" id="Heart Rhythm">Heart Rhythm</h2>
-<p>Magnesium is vital for maintaining normal heart rhythm. It acts as a natural calcium blocker, helping the heart muscle relax after contracting. This relaxation phase is essential for the heart to beat effectively and maintain a steady rhythm. A deficiency in magnesium can lead to irregular heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and even more serious cardiac arrhythmias.</p>
+<p>Magnesium is vital for maintaining normal heart rhythm. It acts as a natural calcium blocker, helping the heart muscle relax after contracting. This relaxation phase is essential for the heart to beat effectively and maintain a steady rhythm. A deficiency in magnesium can lead to irregular heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and even more serious cardiac arrhythmias.</p>
 <p>In addition to its role in preventing arrhythmias, magnesium also supports the electrical impulses that regulate the heartbeat. By ensuring proper conduction of these impulses, magnesium helps the heart maintain a healthy rhythm, reducing the risk of heart rhythm disorders.</p>
 <h2 class="sec-scrl" id="Muscle Function">Muscle Function</h2>
 <p>Did you know that magnesium is crucial for muscle function, including the heart muscle? The heart is one of the hardest working muscles in the body, constantly contracting and relaxing to pump blood throughout the circulatory system. Magnesium plays a key role in this process by facilitating muscle contractions and helping the heart muscle function efficiently.</p>
-<p>Inadequate magnesium levels can impair muscle function, leading to symptoms such as muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, cramps, and fatigue. By ensuring an adequate intake of magnesium, you can support the overall health and function of your heart muscle, promoting optimal performance and reducing the risk of cardiovascular issues.</p>
+<p>Inadequate magnesium levels can impair muscle function, leading to symptoms such as muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, cramps, and fatigue. By ensuring an adequate intake of magnesium, you can support the overall health and function of your heart muscle, promoting optimal performance and reducing the risk of cardiovascular issues.</p>
 <h2 class="sec-scrl" id="Blood Pressure">Blood Pressure</h2>
-<p>How does magnesium influence blood pressure? Magnesium helps regulate blood pressure by relaxing the blood vessels, allowing for smoother blood flow and lower resistance. This vasodilatory effect of magnesium can help reduce <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease and stroke.</p>
+<p>How does magnesium influence blood pressure? Magnesium helps regulate blood pressure by relaxing the blood vessels, allowing for smoother blood flow and lower resistance. This vasodilatory effect of magnesium can help reduce <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease and stroke.</p>
 <ul>
 <li>Studies have shown that magnesium supplementation can lead to modest reductions in blood pressure levels.</li>
 <li>By promoting vasodilation, magnesium supports healthy blood pressure and overall cardiovascular function.</li>
-<li>Individuals with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> may benefit from incorporating magnesium-rich foods or supplements into their diet to help manage their blood pressure.</li>
+<li>Individuals with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> may benefit from incorporating magnesium-rich foods or supplements into their diet to help manage their blood pressure.</li>
 </ul>
 <h2 class="sec-scrl" id="Calcium Regulation">Calcium Regulation</h2>
 <p>One of the lesser-known benefits of magnesium is its role in calcium regulation. Magnesium is essential for maintaining the proper balance of calcium in the body, which is crucial for various physiological processes, including muscle contraction and nerve function.</p>

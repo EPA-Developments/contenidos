@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vlcad Deficiency: Symptoms, Causes & Treatment">
   <meta property="og:description" content="Learn about VLCAD deficiency symptoms, diagnosis, and treatment options in this informative guide on a rare genetic disorder affecting the heart.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/vlcad-deficiency">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/vlcad-deficiency">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/vlcad-deficiency" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/vlcad-deficiency" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Vlcad Deficiency",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/vlcad-deficiency"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/vlcad-deficiency"
       }]
     }
   </script>
@@ -168,7 +168,7 @@
 <h1>Navigating Vlcad Deficiency: Insights and Management</h1>
 <p>Very long-chain acyl-CoA dehydrogenase (VLCAD) deficiency is a rare genetic disorder that affects the body's ability to convert certain fats into energy, particularly during periods of fasting or increased energy needs.</p>
 <p>This condition is significant due to its impact on heart health, as VLCAD is crucial for the metabolism of long-chain fatty acids, which are a major energy source for the heart muscle.</p>
-<p>Vlcad deficiency has an estimated prevalence of around 1 in 30,000 to 1 in 100,000 newborns globally. The condition can lead to serious health consequences if left untreated, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmias, and sudden cardiac death.</p>
+<p>Vlcad deficiency has an estimated prevalence of around 1 in 30,000 to 1 in 100,000 newborns globally. The condition can lead to serious health consequences if left untreated, including <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmias, and sudden cardiac death.</p>
 <p>In the short term, untreated Vlcad deficiency can result in metabolic crises, while in the long term, it may lead to progressive heart dysfunction and other systemic complications.</p>
 <p>In its early stages, Vlcad deficiency can be asymptomatic or present with mild symptoms, making early detection challenging. Therefore, regular screenings and genetic testing are crucial for identifying affected individuals and initiating appropriate interventions to prevent adverse health outcomes.</p>
 <h2 id="causes">Causes of Vlcad Deficiency:</h2>
@@ -188,11 +188,11 @@
 <h2 id="symptoms">Symptoms of Vlcad Deficiency:</h2>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>Fatigue: Individuals may experience persistent fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> due to inadequate energy production from fatty acid metabolism.</li>
-<li>Hypoglycemia: Low blood sugar levels can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, confusion, and irritability, affecting daily activities and cognitive function.</li>
+<li>Fatigue: Individuals may experience persistent fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> due to inadequate energy production from fatty acid metabolism.</li>
+<li>Hypoglycemia: Low blood sugar levels can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, confusion, and irritability, affecting daily activities and cognitive function.</li>
 <li>Advanced Symptoms:</li>
-<li>Cardiomyopathy: Progressive heart muscle dysfunction can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and edema, impacting physical and emotional well-being.</li>
-<li>Arrhythmias: Irregular heart rhythms can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, posing significant health risks if left untreated.</li>
+<li>Cardiomyopathy: Progressive heart muscle dysfunction can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and edema, impacting physical and emotional well-being.</li>
+<li>Arrhythmias: Irregular heart rhythms can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, posing significant health risks if left untreated.</li>
 </ul>
 <h2>Diagnosis of Vlcad Deficiency:</h2>
 <ul>

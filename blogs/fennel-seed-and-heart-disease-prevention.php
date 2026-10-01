@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fennel Seed for Heart Health: A Natural Solution&quot;" />
     <meta property="og:description" content="Discover how fennel seeds can boost heart health naturally. Learn about their role in preventing heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed And Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-disease-prevention"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Fennel Seed for Heart Health: A Guide</h1>
 <p>Are you looking for a natural way to improve your heart health and prevent cardiovascular issues? Have you considered the potential benefits of incorporating fennel seed into your daily routine? Let's explore how fennel seed, a humble spice with powerful properties, can play a crucial role in protecting your heart and overall well-being.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cardiovascular Protection</h2>
-<p>Fennel seeds are packed with antioxidants that help combat free radicals in the body. These antioxidants play a vital role in reducing inflammation and oxidative stress, which are key factors in the development of heart disease. By incorporating fennel seeds into your diet, you can help protect your cardiovascular system and lower the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Fennel seeds are packed with antioxidants that help combat free radicals in the body. These antioxidants play a vital role in reducing inflammation and oxidative stress, which are key factors in the development of heart disease. By incorporating fennel seeds into your diet, you can help protect your cardiovascular system and lower the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>In addition to antioxidants, fennel seeds contain fiber, potassium, and magnesium, all of which contribute to heart health. Fiber helps lower cholesterol levels, potassium regulates blood pressure, and magnesium supports heart function. Together, these nutrients provide comprehensive cardiovascular protection.</p>
 <h2 class="sec-scrl" id="heart-function">Heart Function</h2>
 <p>How does fennel seed support heart function? The potassium and magnesium in fennel seeds play a crucial role in maintaining a regular heartbeat and supporting overall cardiac function. Potassium helps conduct electrical impulses in the heart, while magnesium relaxes blood vessels, reducing blood pressure and improving blood flow.</p>
@@ -145,7 +145,7 @@
 </ul>
 <h2 class="sec-scrl" id="antioxidants">Antioxidants</h2>
 <p>How do the antioxidants in fennel seeds benefit heart health? The powerful antioxidants present in fennel seeds help neutralize free radicals that can damage cells and lead to heart disease. By reducing oxidative stress and inflammation, antioxidants protect the heart from potential harm and support overall cardiovascular well-being.</p>
-<p>In addition to their antioxidant properties, fennel seeds also contain flavonoids that have anti-inflammatory effects, further contributing to heart health. These compounds work synergistically to promote a healthy heart and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and other cardiovascular conditions.</p>
+<p>In addition to their antioxidant properties, fennel seeds also contain flavonoids that have anti-inflammatory effects, further contributing to heart health. These compounds work synergistically to promote a healthy heart and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and other cardiovascular conditions.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, fennel seed offers a natural and effective way to prevent heart disease and promote cardiovascular well-being. With its antioxidant-rich composition, heart-healthy nutrients, and beneficial effects on heart function and arterial health, fennel seed can be a valuable addition to your daily diet.</p>
 <p>By incorporating fennel seeds into your meals or enjoying them as a snack, you can harness the power of this humble spice to protect your heart, lower your risk of cardiovascular issues, and support overall heart health. Take a step towards a healthier heart today by embracing the benefits of fennel seed.</p>

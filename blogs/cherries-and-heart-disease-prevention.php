@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cherries for Heart Health: Benefits Unveiled" />
     <meta property="og:description" content="Discover how cherries may help prevent heart disease. Learn more about the benefits of cherries for heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherries And Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-disease-prevention"
         }
     ]
 }
@@ -134,13 +134,13 @@
 <p>Cherries are rich in antioxidants that play a crucial role in maintaining cardiovascular health. These antioxidants help in reducing inflammation and oxidative stress in the body, which are key factors in the development of heart disease. By including cherries in your diet, you may be able to support your heart's overall well-being and function.</p>
 <p>Additionally, cherries contain compounds that have been linked to improved endothelial function. The endothelium is the inner lining of blood vessels, and its proper function is essential for regulating blood flow and maintaining healthy blood pressure levels. Consuming cherries regularly may help in keeping your endothelial function optimal, thereby promoting heart health.</p>
 <h2 class="sec-scrl" id="Risk factors">Managing Risk Factors with Cherries</h2>
-<p>Heart disease is often influenced by various risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and obesity. Incorporating cherries into your diet can be a simple yet effective way to manage some of these risk factors. The fiber content in cherries can aid in lowering cholesterol levels, while the potassium content can help in regulating blood pressure.</p>
+<p>Heart disease is often influenced by various risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and obesity. Incorporating cherries into your diet can be a simple yet effective way to manage some of these risk factors. The fiber content in cherries can aid in lowering cholesterol levels, while the potassium content can help in regulating blood pressure.</p>
 <ul>
 <li>Cherries are low in calories and fat, making them a healthy snack option to support weight management, reducing the risk of obesity-related heart issues.</li>
 <li>The natural sweetness of cherries can also satisfy sugar cravings, reducing the consumption of high-sugar, processed foods that contribute to heart disease risk.</li>
 </ul>
 <h2 class="sec-scrl" id="Antioxidants">The Power of Cherries' Antioxidants</h2>
-<p>Antioxidants present in cherries, such as vitamin C and polyphenols, can help in combating free radicals that damage cells and contribute to plaque buildup in arteries. By including cherries in your diet, you provide your body with essential nutrients that support overall heart health and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Antioxidants present in cherries, such as vitamin C and polyphenols, can help in combating free radicals that damage cells and contribute to plaque buildup in arteries. By including cherries in your diet, you provide your body with essential nutrients that support overall heart health and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>The anti-inflammatory properties of cherry antioxidants can also help in preventing the inflammation that leads to plaque formation, thus playing a role in maintaining clear and healthy arteries.</p>
 <h2 class="sec-scrl" id="Plaque buildup">Preventing Plaque Buildup with Cherries</h2>
 <p>Plaque buildup in arteries can restrict blood flow and increase the risk of heart attacks and strokes. Cherries contain compounds that have been shown to inhibit the formation of plaque in arteries, promoting better cardiovascular function and reducing the likelihood of cardiovascular events.</p>

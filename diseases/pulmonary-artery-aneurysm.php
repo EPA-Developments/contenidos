@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Artery Aneurysm: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Learn about Pulmonary Artery Aneurysm causes, symptoms, diagnosis, and treatments. Find essential information on this condition here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-artery-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-artery-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-artery-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-artery-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Artery Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-artery-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-artery-aneurysm"
       }]
     }
   </script>
@@ -170,24 +170,24 @@
 <p>While not as common as aneurysms in other arteries, Pulmonary Artery Aneurysm carries significant importance due to its potential to cause severe health complications if left untreated.</p>
 <p>The prevalence of Pulmonary Artery Aneurysm is relatively low compared to other cardiovascular conditions. However, its impact on health can be profound, affecting essential functions such as oxygenation of blood and circulation.</p>
 <p>In the early stages, Pulmonary Artery Aneurysm may be asymptomatic, making it challenging to detect without proper screening. This underlines the importance of early detection through regular screenings, especially in individuals with risk factors for cardiovascular diseases.</p>
-<p>The long-term risks of untreated Pulmonary Artery Aneurysm include the potential for rupture, leading to life-threatening complications such as massive pulmonary hemorrhage or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>The long-term risks of untreated Pulmonary Artery Aneurysm include the potential for rupture, leading to life-threatening complications such as massive pulmonary hemorrhage or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <p>Additionally, the dilation of the pulmonary artery can impair blood flow and oxygen exchange, affecting overall cardiac function and respiratory efficiency.</p>
 <h2 id="causes">Causes of Pulmonary Artery Aneurysm</h2>
 <p> Congenital Heart Defects</p>
 <p>Congenital heart defects, present from birth, can lead to abnormalities in the structure of the pulmonary artery, increasing the risk of aneurysm formation over time.</p>
-<p>These defects may include <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects">ventricular septal defects</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a>, impacting heart function by altering blood flow patterns and increasing pressure on the pulmonary artery.</p>
+<p>These defects may include <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects">ventricular septal defects</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a>, impacting heart function by altering blood flow patterns and increasing pressure on the pulmonary artery.</p>
 <p>Connective Tissue Disorders</p>
-<p>Connective tissue disorders such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome can weaken the walls of blood vessels, including the pulmonary artery, making them more susceptible to aneurysm development.</p>
+<p>Connective tissue disorders such as <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome can weaken the walls of blood vessels, including the pulmonary artery, making them more susceptible to aneurysm development.</p>
 <p>Physiological changes caused by these disorders include decreased collagen production, leading to structural instability and vessel dilation.</p>
 <p>Inflammatory Conditions</p>
 <p>Inflammatory conditions like vasculitis or sarcoidosis can cause inflammation in the walls of the pulmonary artery, weakening the vessel and predisposing it to aneurysm formation.</p>
 <p>These conditions may lead to progressive vessel damage, potentially resulting in the enlargement of the pulmonary artery and aneurysm development.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a></p>
-<p>Pulmonary hypertension, characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs, can exert excessive pressure on the pulmonary artery, contributing to its dilation and potential aneurysm formation.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a></p>
+<p>Pulmonary hypertension, characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs, can exert excessive pressure on the pulmonary artery, contributing to its dilation and potential aneurysm formation.</p>
 <p>Risk factors such as smoking, obesity, or a sedentary lifestyle can further increase the likelihood of developing Pulmonary Artery Aneurysm.</p>
 <p>Smoking</p>
 <p>Smoking is a significant secondary risk factor for Pulmonary Artery Aneurysm, as it contributes to vascular damage and inflammation, accelerating the progression of aneurysm formation.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></p>
 <p>High blood pressure can increase the strain on the pulmonary artery, exacerbating the risk of aneurysm development and progression.</p>
 <p>Family History</p>
 <p>A family history of cardiovascular diseases or aneurysms can predispose individuals to Pulmonary Artery Aneurysm, highlighting the importance of genetic factors in its etiology.</p>
@@ -195,7 +195,7 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Early-stage Pulmonary Artery Aneurysm may manifest as unexplained fatigue, impacting daily activities and energy levels due to decreased oxygenation efficiency.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Gradual onset of shortness of breath during physical exertion may be misunderstood as a sign of aging or deconditioning, delaying diagnosis and treatment.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Gradual onset of shortness of breath during physical exertion may be misunderstood as a sign of aging or deconditioning, delaying diagnosis and treatment.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>

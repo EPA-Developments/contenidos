@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Wild Type ATTR Amyloidosis: Symptoms, Diagnosis & Treatment">
   <meta property="og:description" content="Learn about Wild Type ATTR Amyloidosis symptoms, diagnosis, and treatment options. Find essential information on this cardiac condition here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/wild-type-attr-amyloidosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/wild-type-attr-amyloidosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/wild-type-attr-amyloidosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/wild-type-attr-amyloidosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Wild Type Attr Amyloidosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/wild-type-attr-amyloidosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/wild-type-attr-amyloidosis"
       }]
     }
   </script>
@@ -180,7 +180,7 @@
 </ul>
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can also play a role in the development of Wild Type ATTR Amyloidosis:</p>
 <ul>
-<li> - <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart, potentially exacerbating the development and progression of Wild Type ATTR Amyloidosis.</li>
+<li> - <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart, potentially exacerbating the development and progression of Wild Type ATTR Amyloidosis.</li>
 <li>Obesity: Excess body weight can contribute to various cardiovascular risk factors, including insulin resistance and inflammation, which may impact the heart's susceptibility to amyloid protein accumulation.</li>
 <li>Secondary Cause 3 - Sedentary Lifestyle: Lack of regular physical activity can compromise cardiovascular health and increase the risk of developing conditions like Wild Type ATTR Amyloidosis.</li>
 </ul>
@@ -194,14 +194,14 @@
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> - Advanced stages of Wild Type ATTR Amyloidosis can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, impacting physical activities and causing emotional distress due to reduced oxygen supply to tissues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> - Advanced stages of Wild Type ATTR Amyloidosis can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, impacting physical activities and causing emotional distress due to reduced oxygen supply to tissues.</li>
 <li>Heart Failure - The progression of Wild Type ATTR Amyloidosis can ultimately result in heart failure, leading to a significant decline in overall health and quality of life.</li>
 </ul>
 <h2>Diagnosis of Wild Type ATTR Amyloidosis</h2>
 <p>Diagnosing Wild Type ATTR Amyloidosis involves a multi-step approach to confirm the presence of amyloid protein in the heart tissue and assess its impact on cardiac function.</p>
 <p>Each diagnostic test plays a crucial role in determining the severity of the condition and guiding treatment decisions.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> - An echocardiogram is a non-invasive test that uses sound waves to create images of the heart, helping identify structural abnormalities and assess cardiac function in patients with suspected Wild Type ATTR Amyloidosis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> - An echocardiogram is a non-invasive test that uses sound waves to create images of the heart, helping identify structural abnormalities and assess cardiac function in patients with suspected Wild Type ATTR Amyloidosis.</li>
 <li>Cardiac MRI - Cardiac MRI provides detailed images of the heart, allowing healthcare providers to visualize amyloid deposits and assess the extent of cardiac involvement in Wild Type ATTR Amyloidosis.</li>
 <li>Endomyocardial Biopsy - In some cases, an endomyocardial biopsy may be performed to obtain a tissue sample from the heart for microscopic examination, confirming the presence of amyloid protein deposits.</li>
 <li>Blood Tests - Blood tests, including biomarker analysis for cardiac damage, can help evaluate the extent of heart involvement and monitor disease progression in Wild Type ATTR Amyloidosis.</li>

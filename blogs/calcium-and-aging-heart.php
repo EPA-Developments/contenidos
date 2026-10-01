@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Understanding Calcium's Impact on Heart Aging&quot;" />
     <meta property="og:description" content="Explore the impact of calcium on cardiovascular aging and arterial health. Learn about calcium buildup and its effects on the aging heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-aging-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-aging-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-aging-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-aging-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Aging Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-aging-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-aging-heart"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about the health of your aging heart? Do you wonder how calcium plays a role in the aging process of your heart and its impact on your daily activities?</p>
 <p>Calcium is not just essential for strong bones but also plays a crucial role in the cardiovascular system. As we age, our heart undergoes changes, and the accumulation of calcium can significantly affect its function. Understanding the relationship between calcium and the aging heart is vital for maintaining cardiovascular health and overall well-being.</p>
 <h2 class="sec-scrl" id="VascularCalcification">Vascular Calcification</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-calcification">vascular calcification</a> is a condition where calcium deposits build up in the blood vessels, leading to stiffness and narrowing of the arteries. This process can restrict blood flow and increase the risk of heart-related complications. Factors such as aging, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can contribute to the development of vascular calcification.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-calcification">vascular calcification</a> is a condition where calcium deposits build up in the blood vessels, leading to stiffness and narrowing of the arteries. This process can restrict blood flow and increase the risk of heart-related complications. Factors such as aging, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, and <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can contribute to the development of vascular calcification.</p>
 <p>Here are some key points to consider regarding vascular calcification:</p>
 <ul>
 <li>Calcium buildup in the arteries can impede the smooth flow of blood, putting a strain on the heart.</li>
@@ -156,7 +156,7 @@
 <li>Consulting with a healthcare provider for regular check-ups can help track changes in heart health over time.</li>
 </ul>
 <h2 class="sec-scrl" id="CalciumBuildup">Understanding Calcium Buildup</h2>
-<p>Calcium buildup in the heart's arteries can lead to serious complications, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart failure. Recognizing the signs of calcium deposition and its impact on heart health is essential for implementing preventive measures and maintaining optimal cardiovascular function.</p>
+<p>Calcium buildup in the heart's arteries can lead to serious complications, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart failure. Recognizing the signs of calcium deposition and its impact on heart health is essential for implementing preventive measures and maintaining optimal cardiovascular function.</p>
 <p>Here are some key insights into calcium buildup in the heart:</p>
 <ul>
 <li>Calcium deposits can harden the arteries, making them less flexible and more prone to blockages.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Clove: A Natural Solution for Blood Pressure&quot;" />
     <meta property="og:description" content="Explore how clove can help lower blood pressure naturally for better heart and vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/clove-blood-pressure-regulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/clove-blood-pressure-regulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/clove-blood-pressure-regulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/clove-blood-pressure-regulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Clove Blood Pressure Regulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/clove-blood-pressure-regulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/clove-blood-pressure-regulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Clove for Lowering Blood Pressure</h1>
-<p>Are you struggling to keep your blood pressure in check? The use of clove may offer a natural solution to help regulate your blood pressure levels effectively. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can interfere with your daily activities, leaving you feeling fatigued, dizzy, and at risk of serious health complications. Can clove be the answer to maintaining healthy blood pressure levels?</p>
+<p>Are you struggling to keep your blood pressure in check? The use of clove may offer a natural solution to help regulate your blood pressure levels effectively. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can interfere with your daily activities, leaving you feeling fatigued, dizzy, and at risk of serious health complications. Can clove be the answer to maintaining healthy blood pressure levels?</p>
 <h2 class="sec-scrl" id="clove-benefits">Benefits of Clove in Blood Pressure Regulation</h2>
 <p>Clove, a popular spice known for its aromatic flavor, has been used for centuries in traditional medicine for its various health benefits. When it comes to blood pressure regulation, clove contains compounds that can help dilate blood vessels, improving blood flow and reducing the pressure on the walls of the arteries.</p>
 <ul>
@@ -138,7 +138,7 @@
 </ul>
 <p>By incorporating clove into your diet or using clove oil in aromatherapy, you may experience a positive impact on your blood pressure levels over time.</p>
 <h2 class="sec-scrl" id="clove-and-hypertension">How Clove Can Help Manage Hypertension</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or high blood pressure, is a common condition that can increase the risk of heart disease and stroke if left uncontrolled. Clove's ability to improve blood flow and reduce arterial pressure makes it a promising natural remedy for hypertension management.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or high blood pressure, is a common condition that can increase the risk of heart disease and stroke if left uncontrolled. Clove's ability to improve blood flow and reduce arterial pressure makes it a promising natural remedy for hypertension management.</p>
 <p>Studies have shown that regular consumption of clove can lead to:</p>
 <ul>
 <li>Lowered systolic and diastolic blood pressure readings.</li>
@@ -150,7 +150,7 @@
 <p>When you prioritize vascular health through the consumption of clove, you may experience benefits such as:</p>
 <ul>
 <li>Enhanced circulation and nutrient delivery throughout the body.</li>
-<li>Reduced risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other vascular diseases.</li>
+<li>Reduced risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other vascular diseases.</li>
 </ul>
 <p>By promoting the relaxation of blood vessels and reducing inflammation, clove acts as a natural ally in maintaining the health of your vascular system.</p>
 <h2 class="sec-scrl" id="clove-for-blood-pressure-control">Using Clove for Effective Blood Pressure Control</h2>

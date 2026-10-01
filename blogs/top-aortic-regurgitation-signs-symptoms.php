@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Top Aortic Regurgitation Signs: Don't Ignore These Symptoms">
   <meta property="og:description" content="Discover the key aortic regurgitation signs you shouldn't ignore. Learn to recognize the symptoms of aortic regurgitation for early detection and treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/top-aortic-regurgitation-signs-symptoms">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/top-aortic-regurgitation-signs-symptoms">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/top-aortic-regurgitation-signs-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/top-aortic-regurgitation-signs-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Top Aortic Regurgitation Signs: Don'T Ignore These Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/top-aortic-regurgitation-signs-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/top-aortic-regurgitation-signs-symptoms"  
       }]
     }
   </script>

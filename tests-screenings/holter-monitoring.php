@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Holter Monitoring: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Holter monitoring tracks heart activity over 24-48 hours. Know more about its purpose, costs, and normal Range to evaluate heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/holter-monitoring" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/holter-monitoring" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/holter-monitoring" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/holter-monitoring" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Holter Monitoring",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/holter-monitoring"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/holter-monitoring"  
       }]
     }
   </script>
@@ -160,14 +160,14 @@
 <p>It is a non-invasive procedure that helps healthcare providers assess the heart's electrical activity and detect any irregularities that may not be captured during a standard ECG.</p>
 <p>During a Holter monitoring test, the patient wears a small, portable device called a Holter monitor, which is connected to electrodes placed on the chest.</p>
 <p>The monitor records the heart's electrical signals continuously, allowing healthcare providers to analyze the data and identify any abnormalities in the heart rhythm.</p>
-<p>Holter monitoring is commonly used to diagnose arrhythmias, monitor the heart's response to medications, assess <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and evaluate the effectiveness of treatments for heart conditions.</p>
+<p>Holter monitoring is commonly used to diagnose arrhythmias, monitor the heart's response to medications, assess <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and evaluate the effectiveness of treatments for heart conditions.</p>
 <p>It provides valuable information that can help healthcare providers make informed decisions about a patient's cardiac health.</p>
 <h2 id="purpose">What is the Purpose of Performing a Holter Monitoring Test?</h2>
 <p>The primary purpose of performing a Holter monitoring test is to track and record the heart's electrical activity over a 24-hour period.</p>
 <p>This continuous monitoring allows healthcare providers to detect and diagnose various heart rhythm abnormalities that may occur intermittently or during specific activities.</p>
 <p>Holter monitoring is particularly useful in diagnosing arrhythmias, which are irregular heartbeats that can lead to serious health complications if left untreated.</p>
 <p>By capturing the heart's electrical signals over an extended period, healthcare providers can identify patterns and abnormalities that may not be evident during a standard ECG.</p>
-<p>Additionally, Holter monitoring can help healthcare providers assess the effectiveness of treatments for heart conditions, evaluate the impact of medications on the heart rhythm, and monitor patients after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> to detect any post-operative arrhythmias.</p>
+<p>Additionally, Holter monitoring can help healthcare providers assess the effectiveness of treatments for heart conditions, evaluate the impact of medications on the heart rhythm, and monitor patients after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> to detect any post-operative arrhythmias.</p>
 <h2 id="costs">What are the Costs of Holter Monitoring Tests in Americas?</h2>
 <p>The cost of Holter monitoring tests in Americas can vary depending on several factors, including the healthcare provider, location, and additional services included in the test.</p>
 <p>On average, the price range for a 24-hour Holter monitoring test in Americas is between U$S 2000 to U$S 5000.</p>

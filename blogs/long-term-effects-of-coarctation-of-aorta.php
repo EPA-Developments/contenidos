@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long-Term Effects of Coarctation of the Aorta: What to Know">
   <meta property="og:description" content="Discover the long-term effects of coarctation of the aorta and how it can impact heart health. Learn more about Coarctation Of The Aorta.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-coarctation-of-aorta">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-coarctation-of-aorta">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-coarctation-of-aorta" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-coarctation-of-aorta" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coarctation Of The Aorta",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/long-term-effects-of-coarctation-of-aorta"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/long-term-effects-of-coarctation-of-aorta"  
       }]
     }
   </script>

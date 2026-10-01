@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Date Benefits for Blood Sugar & Heart Health&quot;" />
     <meta property="og:description" content="Learn how dates can help manage blood sugar and support heart health. Discover the benefits of dates in controlling blood sugar levels naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-and-blood-sugar" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-and-blood-sugar" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-and-blood-sugar" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-and-blood-sugar" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates And Blood Sugar",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-and-blood-sugar"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-and-blood-sugar"
         }
     ]
 }

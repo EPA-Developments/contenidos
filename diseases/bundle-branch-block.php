@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bundle Branch Block: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Bundle branch block delays heart signals, affecting rhythm. Know the causes, symptoms, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bundle-branch-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bundle-branch-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bundle-branch-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bundle-branch-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bundle Branch Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bundle-branch-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bundle-branch-block"
       }]
     }
   </script>
@@ -166,8 +166,8 @@
 <p><h3>Main Factors Contributing to Bundle Branch Block Development:</h3>
 <ul>
 <li>Underlying heart conditions like coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, a disease affecting the heart muscle</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, a disease affecting the heart muscle</li>
 <li>Age-related degeneration of the heart's electrical system</li>
 <li>Heart valve disorders</li>
 </ul></p>
@@ -175,11 +175,11 @@
 <p>Recognizing the symptoms of Bundle Branch Block is crucial as early detection can lead to better outcomes. Symptoms may vary depending on the severity of the blockage, but common signs include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fainting or feeling lightheaded</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul> 
 
 If you experience any of these symptoms, especially if they are persistent or severe, it's essential to seek medical attention promptly. Early diagnosis and management of Bundle Branch Block can help prevent complications and improve your overall heart health.</p>
@@ -187,7 +187,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 <p>Accurate diagnosis of Bundle Branch Block is crucial to determine the underlying heart condition and provide appropriate treatment. The diagnostic process typically involves the following methods:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects abnormalities in the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects abnormalities in the heart's electrical activity.</li>
 <li>Echocardiogram: Uses sound waves to create images of the heart's structure and function.</li>
 <li>Stress test: Evaluates heart function during physical activity.</li>
 <li>Holter monitor: Records heart activity over 24-48 hours for continuous monitoring.</li>

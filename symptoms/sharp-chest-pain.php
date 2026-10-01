@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sharp Chest Pain: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Sharp Chest Pain can be a warning of heart problems. It might lead to serious conditions like heart attacks. Read more to know the causes and how it's treated." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sharp Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain"  
       }]
     }
   </script>
@@ -190,9 +190,9 @@
 <p>It is often described as a stabbing or piercing sensation that may come on suddenly and last for a few seconds or minutes.</p>
 <p>Sharp chest pain can be a symptom of various underlying health conditions, ranging from benign causes like muscle strains to more serious issues like heart attacks or lung problems.</p>
 <p>Symptoms of sharp chest pain may include a feeling of pressure, tightness, or squeezing in the chest, sharp or stabbing pain that worsens with deep breathing or coughing, and pain that radiates to the back, shoulders, arms, jaw, or abdomen.</p>
-<p>It is essential to pay attention to any accompanying symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, as they may indicate a more severe condition.</p>
+<p>It is essential to pay attention to any accompanying symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, as they may indicate a more severe condition.</p>
 <h2 id="forms">What are the Forms of Sharp chest pain?</h2>
-<p>There are several forms of sharp chest pain, each with its unique characteristics and potential causes. Some common forms include stabbing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, sudden chest discomfort, acute chest pain, severe chest discomfort, sharp heart pain, and piercing chest pain.</p>
+<p>There are several forms of sharp chest pain, each with its unique characteristics and potential causes. Some common forms include stabbing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, sudden chest discomfort, acute chest pain, severe chest discomfort, sharp heart pain, and piercing chest pain.</p>
 <p>These forms may vary in intensity, duration, and associated symptoms, depending on the underlying condition.</p>
 <p>Stabbing chest pain is often described as a sharp, intense sensation that feels like a knife or needle is piercing the chest. Sudden chest discomfort refers to a sudden onset of chest pain that may be severe and alarming.</p>
 <p>Acute chest pain is characterized by a sharp or stabbing sensation that occurs suddenly and may be associated with other symptoms like shortness of breath or sweating.</p>
@@ -204,7 +204,7 @@
 <li>Muscle strain or injury: Straining the muscles in the chest due to physical exertion or trauma can cause sharp chest pain.</li>
 <li>Gastrointestinal issues: Conditions like acid reflux, gastritis, or gallstones can lead to sharp chest pain.</li>
 <li>Respiratory problems: Lung infections, pneumonia, or pleurisy can cause sharp chest pain with breathing.</li>
-<li>Heart-related issues: <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a> can manifest as sharp chest pain.</li>
+<li>Heart-related issues: <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a> can manifest as sharp chest pain.</li>
 <li>Anxiety or panic attacks: Psychological factors can trigger sharp chest pain in some individuals.</li>
 <li>Rib fractures or injuries: Trauma to the chest area can result in sharp chest pain.</li>
 <li>Other causes: Conditions like costochondritis, shingles, or nerve compression can also lead to sharp chest pain.</li>
@@ -216,7 +216,7 @@
 <p>A physical examination may include listening to your heart and lungs, checking for tenderness or swelling in the chest area, and assessing other vital signs.</p>
 <p>In addition to the initial assessment, the healthcare provider may order diagnostic tests to determine the cause of sharp chest pain.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG): This test records the electrical activity of the heart and can help identify heart-related issues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG): This test records the electrical activity of the heart and can help identify heart-related issues.</li>
 <li>Blood tests: Blood tests can detect markers of heart damage, inflammation, or infection that may be causing chest pain.</li>
 <li>Chest X-ray: An X-ray can reveal any abnormalities in the chest area, such as lung infections or rib fractures.</li>
 <li>Echocardiogram: This test uses sound waves to create images of the heart and can help evaluate its structure and function.</li>

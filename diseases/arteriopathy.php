@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arteriopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Arteriopathy damages arteries, impacting heart health. Read more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arteriopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arteriopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arteriopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arteriopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Arteriopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arteriopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arteriopathy"
       }]
     }
   </script>
@@ -161,22 +161,22 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Arteriopathy</h1>
-<p>Arteriopathy is a condition affecting your arteries, making them narrow or stiff, hindering blood flow. This can lead to serious health issues like heart attacks or strokes. While less common than <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, arteriopathy still poses significant risks. It can affect people of all ages, particularly those with underlying conditions like diabetes or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. Monitoring arteriopathy is crucial for early detection and management to prevent complications and maintain heart health. If you have concerns, consult a healthcare provider for guidance.</p>
+<p>Arteriopathy is a condition affecting your arteries, making them narrow or stiff, hindering blood flow. This can lead to serious health issues like heart attacks or strokes. While less common than <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, arteriopathy still poses significant risks. It can affect people of all ages, particularly those with underlying conditions like diabetes or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. Monitoring arteriopathy is crucial for early detection and management to prevent complications and maintain heart health. If you have concerns, consult a healthcare provider for guidance.</p>
 <h2 id="causes">Causes of Arteriopathy</h2>
 <p>Arteriopathy, a condition affecting the arteries, can develop due to various factors. These include:
 <ul>
 <li>High blood pressure</li>
 <li>Diabetes</li>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Obesity</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Arteriopathy</h2>
 <p>Arteriopathy is a condition that affects the arteries, leading to potential complications if left untreated. Recognizing the symptoms early is crucial for prompt intervention and improved outcomes. Here are some symptoms to watch out for:
 
 <ul>
-<li>Intermittent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a> (leg pain that occurs with exercise and improves with rest)</li>
-<li>Leg <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness</li>
+<li>Intermittent <a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a> (leg pain that occurs with exercise and improves with rest)</li>
+<li>Leg <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness</li>
 <li>Coldness in the lower extremities</li>
 <li>Changes in skin color or shiny skin on the legs</li>
 <li>Skin ulcers or wounds that heal slowly</li>
@@ -213,7 +213,7 @@ Early detection of these symptoms can lead to timely medical evaluation and mana
 <h3>Interventional Procedures</h3>
 <ul>
 <li>Interventional procedures involve minimally invasive techniques to restore blood flow.</li>
-<li>They may include <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, stenting, or atherectomy to open blocked arteries.</li>
+<li>They may include <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, stenting, or atherectomy to open blocked arteries.</li>
 <li>The primary objective is to improve blood circulation and relieve symptoms.</li>
 <li>Patients may require follow-up procedures or monitoring after the intervention.</li>
 </ul></p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Antioxidants in Red Wine Impact Cholesterol" />
     <meta property="og:description" content="Explore how antioxidants in red wine impact cholesterol levels. Discover the link between red wine and heart health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cholesterol-levels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cholesterol-levels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cholesterol-levels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cholesterol-levels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Cholesterol Levels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cholesterol-levels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cholesterol-levels"
         }
     ]
 }

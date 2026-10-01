@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Cardiorenal Syndrome Types: Essential Information">
   <meta property="og:description" content="Learn about the different types of Cardiorenal Syndrome to understand how heart and kidney conditions can affect each other. Find out more here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiorenal-syndrome-types-essential-information">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiorenal-syndrome-types-essential-information">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiorenal-syndrome-types-essential-information" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiorenal-syndrome-types-essential-information" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Cardiorenal Syndrome Types: Essential Information",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiorenal-syndrome-types-essential-information"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiorenal-syndrome-types-essential-information"  
       }]
     }
   </script>

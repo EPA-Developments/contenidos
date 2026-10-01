@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chronic Atrial Fibrillation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Chronic Atrial Fibrillation is an irregular heartbeat that raises stroke risk. Read more about its symptoms, causes, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/chronic-atrial-fibrillation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/chronic-atrial-fibrillation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/chronic-atrial-fibrillation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/chronic-atrial-fibrillation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Chronic Atrial Fibrillation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/chronic-atrial-fibrillation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/chronic-atrial-fibrillation"
       }]
     }
   </script>
@@ -161,26 +161,26 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Chronic Atrial Fibrillation</h1>
-<p>Chronic Atrial Fibrillation is a heart condition where the heart's upper chambers beat irregularly, affecting blood flow efficiency. It's essential as it can lead to blood clots, strokes, and heart failure if left untreated. This condition is prevalent, affecting millions worldwide. If you have symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, consult a healthcare provider promptly. Early detection and proper management can significantly improve your quality of life and reduce associated risks.</p>
+<p>Chronic Atrial Fibrillation is a heart condition where the heart's upper chambers beat irregularly, affecting blood flow efficiency. It's essential as it can lead to blood clots, strokes, and heart failure if left untreated. This condition is prevalent, affecting millions worldwide. If you have symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, consult a healthcare provider promptly. Early detection and proper management can significantly improve your quality of life and reduce associated risks.</p>
 <h2 id="causes">Causes of Chronic Atrial Fibrillation</h2>
 <p>Chronic Atrial Fibrillation develops due to various factors, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a></li>
 <li>Coronary artery disease</li>
 <li>Heart attacks</li>
 <li>Heart defects present at birth</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Chronic Atrial Fibrillation</h2>
-<p>Recognizing the symptoms of Chronic Atrial Fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>) is crucial as early detection can significantly improve outcomes. AFib is a common heart rhythm disorder that requires timely intervention. Symptoms of Chronic AFib may include:
+<p>Recognizing the symptoms of Chronic Atrial Fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>) is crucial as early detection can significantly improve outcomes. AFib is a common heart rhythm disorder that requires timely intervention. Symptoms of Chronic AFib may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or lightheadedness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or lightheadedness</li>
 <li>Chest pain or discomfort</li>
 <li>Weakness</li>
 <li>Exercise intolerance</li>

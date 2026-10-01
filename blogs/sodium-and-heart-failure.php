@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sodium and Heart Failure: Key Facts&quot;" />
     <meta property="og:description" content="Learn how sodium intake impacts heart failure. Discover essential insights on sodium restriction, edema, and fluid retention for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-failure"
         }
     ]
 }
@@ -132,9 +132,9 @@
 <p>Are you struggling with managing your sodium intake while dealing with heart failure? The impact of sodium on heart failure can be significant, affecting your daily activities and overall well-being. Let's delve into the relationship between sodium and heart failure to understand how it influences your health.</p>
 <h2 class="sec-scrl" id="heart-muscle">How Does Sodium Affect the Heart Muscle?</h2>
 <p>Sodium plays a crucial role in the body's function, including the heart muscle. However, in cases of heart failure, an excess of sodium can lead to sodium overload, putting extra strain on the heart muscle. This overload can impair the heart's ability to pump effectively, worsening the symptoms of heart failure.</p>
-<p>When sodium levels are high, the heart muscle has to work harder to pump blood throughout the body, leading to increased stress on the cardiovascular system. This increased workload can contribute to the progression of heart failure and exacerbate symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> and fatigue.</p>
+<p>When sodium levels are high, the heart muscle has to work harder to pump blood throughout the body, leading to increased stress on the cardiovascular system. This increased workload can contribute to the progression of heart failure and exacerbate symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> and fatigue.</p>
 <h2 class="sec-scrl" id="sodium-restriction">The Importance of Sodium Restriction in Heart Failure</h2>
-<p>For individuals with <a href="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure">congestive heart failure</a>, sodium restriction is a crucial aspect of managing the condition. By reducing sodium intake, you can help decrease <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> in the body, which is a common issue in heart failure patients. Excess sodium can cause the body to retain water, leading to edema and worsening of symptoms.</p>
+<p>For individuals with <a href="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure">congestive heart failure</a>, sodium restriction is a crucial aspect of managing the condition. By reducing sodium intake, you can help decrease <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> in the body, which is a common issue in heart failure patients. Excess sodium can cause the body to retain water, leading to edema and worsening of symptoms.</p>
 <ul>
 <li>Aim to limit your daily sodium intake to less than 2,000 milligrams to help control fluid retention and manage heart failure symptoms.</li>
 <li>Read food labels carefully and opt for low-sodium or sodium-free alternatives when possible.</li>
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="kidney-function">How Does Sodium Impact Kidney Function in Heart Failure?</h2>
 <p>The kidneys play a vital role in regulating sodium levels in the body. In heart failure, the kidneys may struggle to excrete excess sodium efficiently, leading to further fluid retention and strain on the heart. Monitoring your sodium intake is essential to support kidney function and overall heart health.</p>
-<p>Excess sodium can also contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, which can further damage the kidneys and worsen heart failure symptoms. By maintaining a low-sodium diet, you can reduce the burden on your kidneys and promote better cardiovascular function.</p>
+<p>Excess sodium can also contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, which can further damage the kidneys and worsen heart failure symptoms. By maintaining a low-sodium diet, you can reduce the burden on your kidneys and promote better cardiovascular function.</p>
 <h2 class="sec-scrl" id="fluid-retention">Managing Fluid Retention in Heart Failure</h2>
 <p>Fluid retention, or edema, is a common complication of heart failure that can be exacerbated by high sodium intake. By implementing strategies to manage fluid retention, such as reducing sodium consumption and taking prescribed diuretics, you can help alleviate symptoms and improve your quality of life.</p>
 <ul>

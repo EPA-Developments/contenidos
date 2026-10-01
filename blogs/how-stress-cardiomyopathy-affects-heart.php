@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding How Stress Cardiomyopathy Affects the Heart">
   <meta property="og:description" content="Learn how stress cardiomyopathy impacts the heart and what you can do to manage this condition. Find out more about stress cardiomyopathy here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-stress-cardiomyopathy-affects-heart">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-stress-cardiomyopathy-affects-heart">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-stress-cardiomyopathy-affects-heart" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-stress-cardiomyopathy-affects-heart" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding How Stress Cardiomyopathy Affects The Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-stress-cardiomyopathy-affects-heart"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-stress-cardiomyopathy-affects-heart"  
       }]
     }
   </script>

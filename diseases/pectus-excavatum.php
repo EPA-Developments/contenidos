@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pectus Excavatum: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Pectus Excavatum: causes, symptoms, diagnosis, and treatment options. Understand how this chest wall deformity can impact your health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pectus-excavatum">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pectus-excavatum">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pectus-excavatum" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pectus-excavatum" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pectus Excavatum",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pectus-excavatum"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pectus-excavatum"
       }]
     }
   </script>
@@ -168,7 +168,7 @@
 <ul>
 <li>Genetics: Pectus Excavatum can run in families.</li>
 <li>Rapid growth spurts: During adolescence, rapid growth can exacerbate the condition.</li>
-<li>Connective tissue disorders: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> can be linked to Pectus Excavatum.</li>
+<li>Connective tissue disorders: Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> can be linked to Pectus Excavatum.</li>
 <li>Osteoporosis: Weakened bones may play a role in its development.</li>
 <li>Abnormal rib cage development: Irregular growth of the ribs and sternum can lead to this chest deformity.</li>
 </ul></p>
@@ -176,8 +176,8 @@
 <p>Recognizing the symptoms of Pectus Excavatum early is crucial for better outcomes. This condition, where the breastbone sinks into the chest, can impact heart and lung function if left untreated. Symptoms to look out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
 <li>Rapid heart rate</li>
 <li>Fatigue</li>
 <li>Anxiety or depression related to body image</li>

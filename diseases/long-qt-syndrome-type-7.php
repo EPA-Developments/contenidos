@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long Qt Syndrome Type 7: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Long QT Syndrome Type 7 affects the heart’s electrical system and can lead to dangerous arrhythmias. Know more about its symptoms and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome-type-7">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome-type-7">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome-type-7" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome-type-7" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Long Qt Syndrome Type 7",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome-type-7"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome-type-7"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Long Qt Syndrome Type 7</h1>
-<p>Long QT Syndrome Type 7 (LQTS7) is a rare genetic heart condition that affects the heart's electrical activity, leading to abnormal heart rhythms. This can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. While LQTS7 is uncommon, it is vital to diagnose early as it can be life-threatening. It is essential to recognize symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fainting. If you have a family history of LQTS7 or experience concerning symptoms, seek medical attention promptly for proper evaluation and management.</p>
+<p>Long QT Syndrome Type 7 (LQTS7) is a rare genetic heart condition that affects the heart's electrical activity, leading to abnormal heart rhythms. This can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. While LQTS7 is uncommon, it is vital to diagnose early as it can be life-threatening. It is essential to recognize symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fainting. If you have a family history of LQTS7 or experience concerning symptoms, seek medical attention promptly for proper evaluation and management.</p>
 <h2 id="causes">Causes of Long Qt Syndrome Type 7</h2>
 <p>Long QT Syndrome Type 7 is influenced by various factors. These can include genetic mutations that affect the heart's electrical activity, certain medications like antibiotics or antifungals that prolong the QT interval, and mineral imbalances such as low potassium or magnesium levels. Additionally, structural heart abnormalities, excessive exercise, and emotional stress can also play a role in triggering Long QT Syndrome Type 7. Remember, it's essential to be aware of these factors and work closely with healthcare providers to manage the condition effectively. 
 
@@ -179,7 +179,7 @@
 <ul>
 <li>Irregular heartbeats (arrhythmias)</li>
 <li>Fainting or near-fainting episodes</li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Seizures</li>
 <li>Sudden cardiac arrest</li>
 </ul>
@@ -189,10 +189,10 @@ Early detection of these symptoms can prompt timely medical intervention, potent
 <p>Long QT Syndrome Type 7 requires a precise diagnosis due to its potential life-threatening complications like sudden cardiac arrest. To accurately diagnose this condition, healthcare providers typically follow a structured diagnostic process. This process involves a combination of clinical evaluation, family history assessment, and specific tests. Some of the key diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Exercise stress test to assess heart function under exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to examine the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to examine the heart's structure and function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Long Qt Syndrome Type 7</h2>
 <p>Long QT Syndrome Type 7 requires personalized treatment approaches to effectively manage the condition. When treating this condition, several key strategies are commonly utilized:

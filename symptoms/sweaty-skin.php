@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes,Diagnosis and Treatment for Sweaty Skin" >
   <meta property="og:description" content="Sweaty Skin may indicate a heart-related issue. Know more about the possible causes and treatments for sweating due to heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sweaty-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sweaty-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sweaty-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sweaty-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sweaty Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sweaty-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sweaty-skin"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms, Diagnosis and Treatment for Sweaty Skin</h1>
 <p>Sweaty skin, also known as hyperhidrosis, is a condition characterized by excessive sweating that goes beyond what is necessary to regulate body temperature.</p>
-<p>It can affect various parts of the body, such as the palms, soles of the feet, underarms, and face. People with sweaty skin may experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">clammy skin</a>, moist skin, and persistent perspiration even in cool environments.</p>
+<p>It can affect various parts of the body, such as the palms, soles of the feet, underarms, and face. People with sweaty skin may experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">clammy skin</a>, moist skin, and persistent perspiration even in cool environments.</p>
 <p>This condition can be distressing and impact daily activities and self-esteem.</p>
 <h2 id="forms">What are the Forms of Sweaty skin?</h2>
 <p>There are two main forms of sweaty skin: primary hyperhidrosis and secondary hyperhidrosis. Primary hyperhidrosis is a condition where excessive sweating occurs without any underlying medical cause.</p>
@@ -215,7 +215,7 @@
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>If you experience persistent symptoms of sweaty skin that significantly impact your daily life, it is essential to seek medical attention.</p>
-<p>Additionally, if you notice sudden changes in your sweating patterns or if sweating is accompanied by other symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, or weight loss, consult a healthcare provider promptly.</p>
+<p>Additionally, if you notice sudden changes in your sweating patterns or if sweating is accompanied by other symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, or weight loss, consult a healthcare provider promptly.</p>
 <h2>Home Remedies for Sweaty skin</h2>
 <p>Some effective home remedies for sweaty skin include:</p>
 <ul>

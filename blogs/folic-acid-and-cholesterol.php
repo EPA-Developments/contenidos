@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Folic Acid Impact on Cholesterol Levels&quot;" />
     <meta property="og:description" content="Learn how Folic Acid impacts cholesterol levels. Improve heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Folic Acid and Cholesterol: Key Facts</h1>
-<p>Are you concerned about your cholesterol levels and looking for ways to improve them? Understanding the relationship between folic acid and cholesterol is crucial for managing your heart health effectively. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily activities and increase the risk of heart-related issues. Let's explore how folic acid plays a role in regulating cholesterol levels and supporting overall heart health.</p>
+<p>Are you concerned about your cholesterol levels and looking for ways to improve them? Understanding the relationship between folic acid and cholesterol is crucial for managing your heart health effectively. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily activities and increase the risk of heart-related issues. Let's explore how folic acid plays a role in regulating cholesterol levels and supporting overall heart health.</p>
 <h2 class="sec-scrl" id="folic-acid-basics">Folic Acid Basics</h2>
 <p>Folic acid, also known as folate or vitamin B9, is an essential nutrient that plays a vital role in various bodily functions, including DNA synthesis and repair, cell division, and red blood cell production. It is commonly found in green leafy vegetables, fruits, nuts, beans, and fortified cereals. Adequate folic acid intake is crucial for overall health and well-being.</p>
 <p>One of the key functions of folic acid is its involvement in the metabolism of homocysteine, an amino acid linked to heart disease. By helping to break down homocysteine, folic acid may reduce the risk of cardiovascular issues and promote heart health.</p>

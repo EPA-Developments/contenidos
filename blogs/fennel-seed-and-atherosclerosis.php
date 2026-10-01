@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fennel Seed: Atherosclerosis Prevention Guide&quot;" />
     <meta property="og:description" content="Explore how Fennel Seed fights Atherosclerosis effectively. A must-read for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Powerful Benefits of Fennel Seed for Atherosclerosis</h1>
-<p>Are you concerned about the health of your heart and arteries? Do you wonder how you can maintain good blood vessel health and prevent conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> from affecting your daily activities? Let's explore the potential benefits of fennel seed in combating arterial plaque buildup and supporting cardiovascular health.</p>
+<p>Are you concerned about the health of your heart and arteries? Do you wonder how you can maintain good blood vessel health and prevent conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> from affecting your daily activities? Let's explore the potential benefits of fennel seed in combating arterial plaque buildup and supporting cardiovascular health.</p>
 <h2 class="sec-scrl" id="fennel-seed-benefits">The Benefits of Fennel Seed</h2>
 <p>Fennel seeds, known for their distinct aroma and flavor, have been used for centuries in various culinary and medicinal applications. Apart from enhancing the taste of dishes, fennel seeds offer a range of health benefits that can positively impact your cardiovascular system.</p>
 <ul>

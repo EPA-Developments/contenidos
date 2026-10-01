@@ -10,12 +10,12 @@
     <meta property="og:title" content="Best Nuts for Lowering Cholesterol" />
     <meta property="og:description" content="Discover the top nuts to lower cholesterol levels naturally and boost heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nuts-for-lowering-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nuts-for-lowering-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nuts-for-lowering-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nuts-for-lowering-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nuts For Lowering Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nuts-for-lowering-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nuts-for-lowering-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Best Nuts for Lowering Cholesterol</h1>
-<p>Are you looking for a natural way to manage your cholesterol levels effectively? Do you want to know how adding nuts to your diet can make a significant difference in your heart health? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily activities and overall well-being, but incorporating the right foods can help you combat this issue. Let's explore how nuts, a simple and delicious snack, can play a crucial role in lowering your cholesterol levels and promoting heart health.</p>
+<p>Are you looking for a natural way to manage your cholesterol levels effectively? Do you want to know how adding nuts to your diet can make a significant difference in your heart health? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily activities and overall well-being, but incorporating the right foods can help you combat this issue. Let's explore how nuts, a simple and delicious snack, can play a crucial role in lowering your cholesterol levels and promoting heart health.</p>
 <h2 class="sec-scrl" id="cholesterol-management">How Nuts Influence Cholesterol Management</h2>
 <p>When it comes to managing your cholesterol levels, nuts can be a powerful ally. Here's how nuts can positively impact your blood lipid levels:</p>
 <ul>

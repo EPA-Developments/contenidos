@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Millet and Heart Health: Dietary Impact&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of millet in promoting heart health through dietary choices." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/millet-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/millet-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/millet-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Millet And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/millet-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/millet-and-heart-health"
         }
     ]
 }
@@ -149,7 +149,7 @@
 <h2 class="sec-scrl" id="cardiovascular-benefits-of-millet">Cardiovascular Benefits of Millet: A Closer Look</h2>
 <p>How exactly does millet contribute to your cardiovascular well-being? Let's delve deeper into the specific ways in which millet can benefit your heart:</p>
 <ul>
-<li>Regulates Blood Pressure: The potassium content in millet helps in maintaining healthy blood pressure levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Regulates Blood Pressure: The potassium content in millet helps in maintaining healthy blood pressure levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Supports Heart Function: The magnesium and folate in millet play a crucial role in supporting heart function and overall cardiovascular health.</li>
 <li>Reduces Inflammation: The antioxidants in millet have anti-inflammatory properties that can protect your heart from damage and disease.</li>
 </ul>

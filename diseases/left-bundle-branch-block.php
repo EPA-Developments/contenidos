@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Bundle Branch Block: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Left Bundle Branch Block affects the heart’s electrical impulses. Know more about its causes, symptoms, and treatment to manage the condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-bundle-branch-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-bundle-branch-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-bundle-branch-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-bundle-branch-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Bundle Branch Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-bundle-branch-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-bundle-branch-block"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Left Bundle Branch Block</h1>
-<p>Left Bundle Branch Block occurs when there is a delay or blockage in the electrical signals that control the heart's pumping action. This condition can affect the heart's ability to beat effectively, leading to symptoms like fainting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. It is essential to diagnose and monitor Left Bundle Branch Block as it can indicate underlying heart conditions. This condition is relatively common, affecting around 1-2% of the general population. If you experience symptoms, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
+<p>Left Bundle Branch Block occurs when there is a delay or blockage in the electrical signals that control the heart's pumping action. This condition can affect the heart's ability to beat effectively, leading to symptoms like fainting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. It is essential to diagnose and monitor Left Bundle Branch Block as it can indicate underlying heart conditions. This condition is relatively common, affecting around 1-2% of the general population. If you experience symptoms, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Left Bundle Branch Block</h2>
 <p><h3>Main Factors Contributing to Left Bundle Branch Block Development:</h3>
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a></li>
 <li>Valvular heart disease</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Left Bundle Branch Block</h2>
@@ -176,9 +176,9 @@
 
 <ul>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Chest pain or discomfort</li>
 </ul>
 

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Electrophysiology Study: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Electrophysiology study tests heart rhythm issues. Know more about its purpose, costs, and normal Range for accurate diagnosis and treatment." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/electrophysiology-study" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/electrophysiology-study" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/electrophysiology-study" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/electrophysiology-study" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Electrophysiology Study",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/electrophysiology-study"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/electrophysiology-study"  
       }]
     }
   </script>
@@ -176,10 +176,10 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of Electrophysiology Study</h1>
-<p>Electrophysiology study, commonly known as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/ep-study">ep study</a>, is a specialized cardiac test used to evaluate the electrical activity of the heart. By analyzing the heart's electrical signals, EP studies help diagnose and treat various heart rhythm disorders, including arrhythmias.</p>
+<p>Electrophysiology study, commonly known as an <a href="https://contenidos.segundaopinionmedica.org/procedures/ep-study">ep study</a>, is a specialized cardiac test used to evaluate the electrical activity of the heart. By analyzing the heart's electrical signals, EP studies help diagnose and treat various heart rhythm disorders, including arrhythmias.</p>
 <p>During the procedure, thin, flexible wires called electrodes are inserted through a vein and threaded to the heart to record its electrical activity.</p>
 <p>EP studies are instrumental in identifying the source of abnormal heart rhythms and assessing the function of the heart's electrical system. They provide valuable insights into the heart's rhythm and conduction pathways, helping cardiologists make informed decisions about treatment options.</p>
-<p>For example, if a patient experiences <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, an EP study can pinpoint the exact location of the arrhythmia and guide treatment strategies such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a>.</p>
+<p>For example, if a patient experiences <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, an EP study can pinpoint the exact location of the arrhythmia and guide treatment strategies such as <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a>.</p>
 <p>By mapping the heart's electrical pathways, EP studies play a crucial role in managing and treating various heart rhythm disorders.</p>
 <h2 id="purpose">What is the Purpose of Performing an Electrophysiology Study Test?</h2>
 <p>The primary purpose of an EP study is to diagnose and evaluate arrhythmias, which are abnormal heart rhythms that can lead to serious complications if left untreated.</p>
@@ -211,9 +211,9 @@
 <p>High levels of electrophysiology study values may indicate underlying heart rhythm abnormalities or conduction disorders that require further evaluation and treatment.</p>
 <ul>
 <li>Atrial fibrillation</li>
-<li>Ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-block">atrioventricular block</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/bundle-branch-block">bundle branch block</a></li>
+<li>Ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-block">atrioventricular block</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/bundle-branch-block">bundle branch block</a></li>
 <li>Wolff-Parkinson-White syndrome</li>
 </ul>
 <p>When EP study levels are elevated, patients may experience symptoms such as palpitations, chest pain, shortness of breath, dizziness, or fainting.</p>

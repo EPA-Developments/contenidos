@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sinus Tachycardia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Sinus tachycardia is a condition where the heart beats fast. Know more about its causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Sinus Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia"
       }]
     }
   </script>
@@ -179,8 +179,8 @@
 <ul>
 <li>Rapid or pounding heartbeat</li>
 <li>Feeling lightheaded or dizzy</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Fainting or near-fainting episodes</li>
 </ul> 
 
@@ -192,7 +192,7 @@ To diagnose Sinus Tachycardia, healthcare providers typically follow these steps
 <ul>
 <li>Medical history review to understand symptoms and possible triggers.</li>
 <li>Physical examination to assess heart rate and rhythm.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
 <li>Blood tests to check for thyroid imbalances or electrolyte abnormalities.</li>
 <li>Additional tests like Holter monitor or stress test for further evaluation if needed.</li>
 </ul></p>
@@ -210,7 +210,7 @@ To diagnose Sinus Tachycardia, healthcare providers typically follow these steps
 <ul>
 <li>This approach includes reducing stress, avoiding stimulants like caffeine, and ensuring an adequate sleep routine.</li>
 <li>By addressing lifestyle factors, the heart rate can be better controlled.</li>
-<li>The main goal is to prevent triggers that can lead to episodes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>.</li>
+<li>The main goal is to prevent triggers that can lead to episodes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>.</li>
 <li>Patients may need to keep a diary to track activities that affect their heart rate.</li>
 </ul>
 <h3>Ablation Therapy</h3>

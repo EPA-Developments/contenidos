@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Dietary Calcium for Heart Health&quot;" />
     <meta property="og:description" content="Explore the link between dietary calcium and heart health. Learn how calcium-rich foods can support cardiovascular wellness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dietary-calcium-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dietary-calcium-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dietary-calcium-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dietary-calcium-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dietary Calcium And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dietary-calcium-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dietary-calcium-and-heart-health"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Importance of Calcium for Heart Health</h1>
 <p>Are you aware of the crucial link between your dietary calcium intake and the health of your heart? Many people underestimate the impact of calcium on heart health, but the truth is, it plays a significant role in maintaining a healthy cardiovascular system. From the moment you wake up to the time you go to bed, every heartbeat relies on the presence of adequate calcium in your diet. Let's dive deeper into the importance of dietary calcium for your heart health and how it can affect your daily life.</p>
 <h2 class="sec-scrl" id="the-role-of-calcium">The Role of Calcium in Heart Health</h2>
-<p>Calcium is not only essential for strong bones but also for the proper functioning of your heart. Your heart muscles rely on calcium to contract and relax effectively, allowing your heart to beat rhythmically. When there is a lack of calcium in your diet, your heart may struggle to maintain its regular rhythm, potentially leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or other cardiovascular issues.</p>
+<p>Calcium is not only essential for strong bones but also for the proper functioning of your heart. Your heart muscles rely on calcium to contract and relax effectively, allowing your heart to beat rhythmically. When there is a lack of calcium in your diet, your heart may struggle to maintain its regular rhythm, potentially leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or other cardiovascular issues.</p>
 <p>Additionally, calcium is involved in the transmission of signals between the heart cells, ensuring that your heart beats in a coordinated manner. This mineral also helps regulate blood pressure levels, further emphasizing its critical role in heart health.</p>
 <h2 class="sec-scrl" id="calcium-rich-foods">Calcium Rich Foods for a Healthy Heart</h2>
 <p>Ensuring an adequate intake of calcium-rich foods is paramount for supporting your heart health. Some of the best food sources of calcium include:</p>

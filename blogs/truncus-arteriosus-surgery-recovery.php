@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Truncus Arteriosus Surgery Recovery and Management">
   <meta property="og:description" content="Learn about life after Truncus Arteriosus surgery, including recovery tips and management strategies for living with this rare heart condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-surgery-recovery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-surgery-recovery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-surgery-recovery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-surgery-recovery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Truncus Arteriosus",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/truncus-arteriosus-surgery-recovery"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/truncus-arteriosus-surgery-recovery"  
       }]
     }
   </script>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Common Causes of Aortic Aneurysm: Prevention Tips | Aortic Aneurysm Causes">
   <meta property="og:description" content="Learn about common aortic aneurysm causes and prevention methods to protect your heart health. Find out how to reduce your risk today.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/common-causes-aortic-aneurysm-prevention-tips">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/common-causes-aortic-aneurysm-prevention-tips">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/common-causes-aortic-aneurysm-prevention-tips" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/common-causes-aortic-aneurysm-prevention-tips" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Common Causes Of Aortic Aneurysm: Prevention Tips | Aortic Aneurysm Causes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/common-causes-aortic-aneurysm-prevention-tips"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/common-causes-aortic-aneurysm-prevention-tips"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Isolated Arm Numbness: Symptoms, Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing isolated arm numbness? Learn about causes, symptoms, and treatment options. Find out if it could be related to heart disease and when to seek medical help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/isolated-arm-numbness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/isolated-arm-numbness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/isolated-arm-numbness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/isolated-arm-numbness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Isolated Arm Numbness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/isolated-arm-numbness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/isolated-arm-numbness"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Isolated Arm Numbness: Symptoms, Causes, Treatment, and When to Seek Help</h1>
 <p>Isolated arm numbness refers to the loss of sensation or tingling in one arm without affecting the other arm.</p>
 <p>This condition can be a result of various underlying health issues that affect the nerves in the arm, leading to a lack of feeling or abnormal sensations.</p>
-<p>Patients experiencing isolated arm numbness may also report <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or difficulty moving the affected arm.</p>
+<p>Patients experiencing isolated arm numbness may also report <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or difficulty moving the affected arm.</p>
 <p>Symptoms of isolated arm numbness can vary from mild tingling to complete loss of sensation in the arm. Some individuals may also experience a pins-and-needles sensation or a feeling of heaviness in the affected arm.</p>
 <p>In severe cases, arm numbness may be accompanied by pain or weakness, making daily activities challenging.</p>
 <p>It's essential to differentiate isolated arm numbness from similar conditions like peripheral neuropathy, stroke, or cervical radiculopathy. Seeking medical advice is crucial to determine the underlying cause of arm numbness and receive appropriate treatment.</p>
@@ -214,7 +214,7 @@
 <li>Cervical radiculopathy: Compression of nerves in the neck can lead to arm numbness.</li>
 <li>Poor posture: Prolonged periods of poor posture can put pressure on nerves, causing numbness.</li>
 <li>Vitamin deficiencies: Lack of essential vitamins like B12 can affect nerve function and cause numbness.</li>
-<li>Heart disease: Cardiovascular issues can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>, affecting nerve health in the arms.</li>
+<li>Heart disease: Cardiovascular issues can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>, affecting nerve health in the arms.</li>
 </ul>
 <p>Identifying the specific cause of isolated arm numbness is crucial for determining the appropriate treatment and management plan.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Isolated arm numbness?</h2>
@@ -241,7 +241,7 @@
 <p>It's crucial to seek medical attention for isolated arm numbness if you experience any of the following symptoms or situations:</p>
 <ul>
 <li>Sudden onset of arm numbness without a clear cause.</li>
-<li>Numbness accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>.</li>
+<li>Numbness accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>.</li>
 <li>Progressive weakness or difficulty moving the affected arm.</li>
 <li>Numbness lasting for an extended period without improvement.</li>
 <li>Recurrent episodes of arm numbness or tingling.</li>

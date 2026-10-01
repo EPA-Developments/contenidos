@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Fusiform Aneurysm: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Fusiform Aneurysm is a ballooning of an artery. Know more about its causes, symptoms, and treatment to reduce heart diseases." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/fusiform-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/fusiform-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/fusiform-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/fusiform-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Fusiform Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/fusiform-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/fusiform-aneurysm"
       }]
     }
   </script>
@@ -173,9 +173,9 @@
 <p>Untreated fusiform aneurysms pose both short-term risks, such as acute complications like dissection or rupture, and long-term risks, including chronic vascular damage and increased mortality rates.</p>
 <h2 id="causes">Causes of fusiform aneurysm</h2>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: A common cause of fusiform aneurysms, atherosclerosis leads to the gradual buildup of plaque in blood vessels, weakening the arterial walls over time.</li>
-<li>Genetic Factors: Certain genetic disorders, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, can predispose individuals to developing fusiform aneurysms due to structural weaknesses in connective tissues.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> exerts constant stress on arterial walls, increasing the risk of aneurysm formation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: A common cause of fusiform aneurysms, atherosclerosis leads to the gradual buildup of plaque in blood vessels, weakening the arterial walls over time.</li>
+<li>Genetic Factors: Certain genetic disorders, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, can predispose individuals to developing fusiform aneurysms due to structural weaknesses in connective tissues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> exerts constant stress on arterial walls, increasing the risk of aneurysm formation.</li>
 <li>Trauma: Physical trauma or injury to blood vessels can trigger the development of fusiform aneurysms, especially in cases of repeated trauma or significant impact.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
@@ -201,7 +201,7 @@
 <li>Imaging Studies: Imaging techniques such as CT scans or MRIs can visualize the aneurysm and assess its size and location accurately.</li>
 <li>Angiography: This procedure involves injecting a contrast dye into the blood vessels to highlight the aneurysm's structure and blood flow.</li>
 <li>Ultrasound: Doppler ultrasound can provide real-time images of blood flow in the affected artery, aiding in the diagnosis of fusiform aneurysms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This test evaluates heart function and can detect aneurysms affecting the aorta or other cardiac structures.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This test evaluates heart function and can detect aneurysms affecting the aorta or other cardiac structures.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Fusiform Aneurysm</h2>
 <h3>Treatment Modalities</h3>

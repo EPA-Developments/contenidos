@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rheumatic Carditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Rheumatic carditis is heart inflammation from rheumatic fever. Know more about its symptoms, causes, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-carditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-carditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-carditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-carditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Rheumatic Carditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-carditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/rheumatic-carditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Rheumatic Carditis</h1>
-<p>Rheumatic carditis is a condition where the heart's valves and muscle become inflamed due to <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a>, a complication of untreated strep throat. It is a significant concern as it can lead to heart valve damage, affecting heart function. While rare in developed countries, it still prevails in low-resource settings, affecting mainly children and young adults. Early diagnosis and treatment are crucial to prevent long-term heart complications. If you suspect rheumatic carditis, seek medical help promptly to protect your heart health.</p>
+<p>Rheumatic carditis is a condition where the heart's valves and muscle become inflamed due to <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a>, a complication of untreated strep throat. It is a significant concern as it can lead to heart valve damage, affecting heart function. While rare in developed countries, it still prevails in low-resource settings, affecting mainly children and young adults. Early diagnosis and treatment are crucial to prevent long-term heart complications. If you suspect rheumatic carditis, seek medical help promptly to protect your heart health.</p>
 <h2 id="causes">Causes of Rheumatic Carditis</h2>
 <p>Rheumatic carditis, a condition where the heart becomes inflamed due to rheumatic fever, is influenced by several key factors:
 
@@ -177,9 +177,9 @@
 
 <h3>Common symptoms of Rheumatic Carditis include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
 <li>Fever</li>
 <li>Joint pain and swelling</li>
@@ -188,13 +188,13 @@
 
 Early detection of these symptoms is key to preventing further damage to the heart and improving the overall prognosis for individuals with Rheumatic Carditis. If you experience any of these symptoms, especially following a streptococcal infection, seeking medical attention promptly is vital for proper evaluation and management.</p>
 <h2>Diagnosis of Rheumatic Carditis</h2>
-<p>Accurate diagnosis of Rheumatic Carditis is crucial to initiate timely treatment and prevent complications. The diagnostic process typically involves a combination of clinical evaluation, imaging studies, and laboratory tests. Symptoms like chest pain, shortness of breath, and heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a> are assessed along with specific diagnostic methods such as:
+<p>Accurate diagnosis of Rheumatic Carditis is crucial to initiate timely treatment and prevent complications. The diagnostic process typically involves a combination of clinical evaluation, imaging studies, and laboratory tests. Symptoms like chest pain, shortness of breath, and heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a> are assessed along with specific diagnostic methods such as:
 
 <ul>
 <li>Physical examination to assess heart function and signs of inflammation</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart valves and chambers</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart valves and chambers</li>
 <li>Blood tests to check for markers of inflammation and autoimmunity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and electrical activity</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Rheumatic Carditis</h2>
 <p>When it comes to treating Rheumatic Carditis, personalized care tailored to each patient's specific needs is crucial. There are several main approaches to managing this condition:

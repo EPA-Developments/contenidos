@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Exercise-Induced Breathlessness: Symptoms and Treatment" >
   <meta property="og:description" content="Exercise-induced breathlessness might point to heart trouble. Know more about its causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-breathlessness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-breathlessness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-breathlessness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-breathlessness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Exercise-Induced Breathlessness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-breathlessness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-breathlessness"  
       }]
     }
   </script>
@@ -186,9 +186,9 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Exercise-Induced Breathlessness: Symptoms and Diagnosis</h1>
-<p>Exercise-induced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> refers to the sensation of difficulty in breathing during or after physical exertion. It is a common occurrence during exercise and can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>.</p>
+<p>Exercise-induced <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> refers to the sensation of difficulty in breathing during or after physical exertion. It is a common occurrence during exercise and can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>.</p>
 <p>This condition can vary in severity, with some individuals experiencing mild discomfort while others may struggle to catch their breath even with minimal exertion.</p>
-<p>Symptoms of exercise-induced breathlessness may include shortness of breath during exercise, breathlessness with activity, labored breathing during exertion, difficulty breathing after exercise, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> with physical exertion, exercise-induced dyspnea, and breathing difficulty with exertion.</p>
+<p>Symptoms of exercise-induced breathlessness may include shortness of breath during exercise, breathlessness with activity, labored breathing during exertion, difficulty breathing after exercise, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> with physical exertion, exercise-induced dyspnea, and breathing difficulty with exertion.</p>
 <p>These symptoms can significantly impact an individual's ability to engage in physical activities, leading to a decrease in exercise tolerance and overall fitness levels.</p>
 <p>Exercise-induced breathlessness can be a result of various underlying conditions such as heart disease, asthma, chronic obstructive pulmonary disease (COPD), obesity, or deconditioning.</p>
 <p>It is essential to identify the specific cause of exercise-induced breathlessness to determine the most appropriate treatment and management strategies.</p>
@@ -208,7 +208,7 @@
 <ul>
 <li>Heart disease: Conditions such as coronary artery disease, heart failure, or arrhythmias can lead to exercise-induced breathlessness due to reduced oxygen delivery to the body.</li>
 <li>Asthma: Individuals with asthma may experience exercise-induced bronchoconstriction, leading to difficulty breathing during physical activity.</li>
-<li>Chronic obstructive pulmonary disease (COPD): COPD can result in exercise-induced breathlessness due to airflow limitation and respiratory muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</li>
+<li>Chronic obstructive pulmonary disease (COPD): COPD can result in exercise-induced breathlessness due to airflow limitation and respiratory muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</li>
 <li>Deconditioning: Lack of regular physical activity can lead to deconditioning of the cardiovascular and respiratory systems, resulting in exercise-induced breathlessness.</li>
 <li>Obesity: Excess body weight can put added strain on the cardiovascular system, making it harder to breathe during exercise.</li>
 </ul>
@@ -230,14 +230,14 @@
 <li>Lifestyle modifications: Adopting a healthy lifestyle, including regular exercise, balanced diet, weight management, and smoking cessation, can improve cardiovascular and respiratory health, reducing breathlessness during physical activity.</li>
 <li>Pulmonary rehabilitation: This structured program involves exercise training, education, and breathing techniques to improve lung function, endurance, and quality of life in individuals with chronic respiratory conditions.</li>
 <li>Oxygen therapy: Supplemental oxygen may be prescribed for individuals with severe respiratory or cardiovascular conditions to improve oxygen delivery to the body during physical exertion.</li>
-<li>Surgical interventions: In some cases, surgical procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>, valve repair, or lung volume reduction surgery may be recommended to address underlying structural abnormalities contributing to exercise-induced breathlessness.</li>
+<li>Surgical interventions: In some cases, surgical procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>, valve repair, or lung volume reduction surgery may be recommended to address underlying structural abnormalities contributing to exercise-induced breathlessness.</li>
 </ul>
 <p>Individualized treatment plans should be developed in collaboration with healthcare providers to address the specific needs and goals of each individual experiencing exercise-induced breathlessness. Regular follow-up appointments and monitoring are essential to track progress and adjust treatment strategies as needed.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if experiencing persistent or severe symptoms of exercise-induced breathlessness.</p>
 <ul>
 <li>Breathlessness that worsens with physical activity or does not improve with rest.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, palpitations, dizziness, or fainting episodes during or after exercise.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, palpitations, dizziness, or fainting episodes during or after exercise.</li>
 <li>Sudden onset of severe shortness of breath, especially if accompanied by coughing up blood or chest tightness.</li>
 <li>History of respiratory or cardiovascular conditions that may be exacerbating exercise-induced breathlessness.</li>
 <li>Difficulty performing daily activities due to breathlessness or reduced exercise tolerance.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D for High Cholesterol: Key Benefits" />
     <meta property="og:description" content="Discover the impact of Vitamin D on managing high cholesterol for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-cholesterol"
         }
     ]
 }
@@ -129,11 +129,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Vitamin D in High Cholesterol Management</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels despite following a healthy lifestyle? Have you ever wondered how Vitamin D could play a crucial role in regulating your cholesterol levels and protecting your heart health? Let's delve into the relationship between Vitamin D and Cholesterol to understand how it impacts your daily life.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels despite following a healthy lifestyle? Have you ever wondered how Vitamin D could play a crucial role in regulating your cholesterol levels and protecting your heart health? Let's delve into the relationship between Vitamin D and Cholesterol to understand how it impacts your daily life.</p>
 <p>Vitamin D, often known as the "sunshine vitamin," is essential for various bodily functions, including bone health and immune system support. However, its role in managing cholesterol levels is lesser-known but equally significant. Let's explore how Vitamin D influences your lipid profile and helps maintain optimal HDL levels while reducing LDL cholesterol, ultimately contributing to cardiovascular disease prevention.</p>
 <h2 class="sec-scrl" id="lipid-profile">How Does Vitamin D Affect Your Lipid Profile?</h2>
 <p>Vitamin D plays a crucial role in regulating your lipid metabolism, the process by which fats are broken down and utilized by the body. Research suggests that Vitamin D deficiency can lead to dyslipidemia, an imbalance in your lipid profile characterized by high levels of LDL cholesterol and low levels of HDL cholesterol. By ensuring an adequate Vitamin D status, you can support a healthier lipid profile and reduce your risk of heart diseases.</p>
-<p>Furthermore, Vitamin D influences cholesterol synthesis, the process by which cholesterol is produced in your body. Optimal Vitamin D levels can help regulate cholesterol production, preventing the accumulation of excess LDL cholesterol that can clog your arteries and increase your <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk.</p>
+<p>Furthermore, Vitamin D influences cholesterol synthesis, the process by which cholesterol is produced in your body. Optimal Vitamin D levels can help regulate cholesterol production, preventing the accumulation of excess LDL cholesterol that can clog your arteries and increase your <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk.</p>
 <h2 class="sec-scrl" id="HDL-levels">Can Vitamin D Boost Your HDL Levels?</h2>
 <p>High-density lipoprotein (HDL) cholesterol is often referred to as "good" cholesterol due to its role in removing LDL cholesterol from your bloodstream and transporting it to the liver for excretion. Studies have shown that Vitamin D can increase HDL levels, promoting the reverse cholesterol transport process and reducing plaque buildup in your arteries.</p>
 <ul>
@@ -141,7 +141,7 @@
 <li>Combining Vitamin D with lifestyle modifications such as regular exercise and a balanced diet can have synergistic effects on boosting HDL levels and protecting your heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="LDL-cholesterol">How Does Vitamin D Lower LDL Cholesterol?</h2>
-<p>Low-density lipoprotein (LDL) cholesterol, often referred to as "bad" cholesterol, is a primary contributor to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease. Vitamin D influences LDL receptor activity, enhancing the clearance of LDL cholesterol from your bloodstream and reducing its accumulation in your arteries.</p>
+<p>Low-density lipoprotein (LDL) cholesterol, often referred to as "bad" cholesterol, is a primary contributor to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease. Vitamin D influences LDL receptor activity, enhancing the clearance of LDL cholesterol from your bloodstream and reducing its accumulation in your arteries.</p>
 <p>By maintaining optimal Vitamin D levels, you can support the efficient removal of LDL cholesterol, preventing its oxidation and the formation of plaque that can lead to heart attacks and strokes.</p>
 <h2 class="sec-scrl" id="cardiovascular-disease-prevention">Can Vitamin D Help in Cardiovascular Disease Prevention?</h2>
 <p>Cardiovascular diseases, including heart attacks and strokes, are among the leading causes of mortality worldwide. Vitamin D's role in improving lipid profiles, boosting HDL levels, and reducing LDL cholesterol makes it a valuable ally in cardiovascular disease prevention.</p>

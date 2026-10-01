@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrioventricular Canal Defect in Adults: Key Information">
   <meta property="og:description" content="Learn about atrioventricular canal defect in adults and what to expect with this comprehensive guide. Understand symptoms, treatments, and prognosis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/atrioventricular-canal-defect-in-adults">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/atrioventricular-canal-defect-in-adults">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/atrioventricular-canal-defect-in-adults" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/atrioventricular-canal-defect-in-adults" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrioventricular Canal Defect",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/atrioventricular-canal-defect-in-adults"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/atrioventricular-canal-defect-in-adults"  
       }]
     }
   </script>

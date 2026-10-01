@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Amyloidosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac amyloidosis is a condition that occurs when an abnormal protein called amyloid builds up in the heart muscle. Know its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-amyloidosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-amyloidosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-amyloidosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-amyloidosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Amyloidosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-amyloidosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-amyloidosis"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of cardiac amyloidosis is crucial as early detection can significantly impact outcomes. Symptoms may vary, but some common ones to watch for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Swelling in the legs and ankles</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 </ul>
 
 Being aware of these signs and seeking medical attention promptly can lead to timely diagnosis and appropriate management, ultimately improving prognosis and quality of life for individuals with cardiac amyloidosis.</p>
@@ -190,7 +190,7 @@ Being aware of these signs and seeking medical attention promptly can lead to ti
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
 <li>Blood tests to check for abnormal protein levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
 <li>Cardiac MRI or CT scan to detect amyloid deposits</li>
 <li>Endomyocardial biopsy for definitive diagnosis</li>
 </ul></p>
@@ -206,7 +206,7 @@ Being aware of these signs and seeking medical attention promptly can lead to ti
 </ul>
 <h3>2. Heart Transplantation</h3>
 <ul>
-<li>A <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> involves replacing the diseased heart with a healthy donor heart.</li>
+<li>A <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> involves replacing the diseased heart with a healthy donor heart.</li>
 <li>It is considered in severe cases where other treatments have not been effective.</li>
 <li>The main goal is to improve heart function and overall quality of life.</li>
 <li>The process involves thorough evaluation, waiting for a suitable donor, and post-transplant care.</li>

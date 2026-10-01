@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Angiopathy: Impact on the Body">
   <meta property="og:description" content="Learn about angiopathy and its impact on the body. Understand the causes, symptoms, and treatments of this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/angiopathy-impact-on-the-body">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/angiopathy-impact-on-the-body">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/angiopathy-impact-on-the-body" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/angiopathy-impact-on-the-body" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Angiopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/angiopathy-impact-on-the-body"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/angiopathy-impact-on-the-body"  
       }]
     }
   </script>

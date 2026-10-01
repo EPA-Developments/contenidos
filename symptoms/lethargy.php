@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Lethargy: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Lethargy may indicate heart problems. Know more about its symptoms, potential causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lethargy",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/lethargy"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/lethargy"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Lethargy: Causes, Treatment, and Symptoms</h1>
 <p>Lethargy is a state of extreme tiredness or fatigue, where individuals experience a significant lack of energy and motivation.</p>
-<p>It can manifest as sluggishness, low energy levels, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, unresponsiveness, and a general lack of interest in activities that one would typically enjoy. Lethargy can be a common symptom of various underlying health conditions or lifestyle factors.</p>
+<p>It can manifest as sluggishness, low energy levels, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, unresponsiveness, and a general lack of interest in activities that one would typically enjoy. Lethargy can be a common symptom of various underlying health conditions or lifestyle factors.</p>
 <h2 id="forms">What are the Forms of Lethargy?</h2>
 <p>There are different forms of lethargy that individuals may experience, each with its own set of symptoms and related concepts. These forms include extreme tiredness, sluggishness, low energy, fatigue, weakness, lack of motivation, and unresponsiveness.</p>
 <p>Each form can vary in severity and duration, impacting one's daily life and overall well-being.</p>
@@ -201,7 +201,7 @@
 <p>Treatment for lethargy depends on the underlying cause and may involve a combination of medical interventions, lifestyle modifications, and advanced approaches. Medical treatments such as medications, supplements, or therapy may be prescribed to address specific conditions contributing to lethargy.</p>
 <p>Lifestyle changes like improving sleep habits, eating a balanced diet, staying hydrated, exercising regularly, and managing stress can also help alleviate lethargy symptoms. Advanced approaches like cognitive-behavioral therapy, acupuncture, or mindfulness techniques may be beneficial for some individuals.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>If lethargy persists despite making lifestyle changes or if it is accompanied by other concerning symptoms such as sudden weight loss, persistent pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or changes in mental health, it is essential to seek medical attention promptly.</p>
+<p>If lethargy persists despite making lifestyle changes or if it is accompanied by other concerning symptoms such as sudden weight loss, persistent pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or changes in mental health, it is essential to seek medical attention promptly.</p>
 <p>Additionally, if lethargy interferes with daily activities, work performance, or relationships, consulting a healthcare provider is recommended to determine the underlying cause and receive appropriate treatment.</p>
 <h2>Home Remedies for Lethargy</h2>
 <p>In addition to medical treatments, there are several home remedies that can help manage lethargy and boost energy levels.</p>

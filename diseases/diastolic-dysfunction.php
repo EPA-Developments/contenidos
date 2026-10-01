@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Diastolic Dysfunction: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Diastolic Dysfunction stiffens the heart, affecting blood flow. Read more about its symptoms, causes, and treatment for a healthier heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/diastolic-dysfunction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/diastolic-dysfunction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/diastolic-dysfunction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/diastolic-dysfunction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Diastolic Dysfunction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/diastolic-dysfunction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/diastolic-dysfunction"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Diastolic Dysfunction</h1>
-<p>Diastolic Dysfunction is when the heart's lower chambers (ventricles) don't relax or fill with blood properly between beats. This can lead to poor blood flow and strain on the heart. It's a common condition, especially among older adults and those with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or heart disease. Understanding Diastolic Dysfunction is crucial as it can contribute to heart failure if left untreated. Regular check-ups and lifestyle changes can help manage this condition effectively, improving heart health and overall well-being.</p>
+<p>Diastolic Dysfunction is when the heart's lower chambers (ventricles) don't relax or fill with blood properly between beats. This can lead to poor blood flow and strain on the heart. It's a common condition, especially among older adults and those with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or heart disease. Understanding Diastolic Dysfunction is crucial as it can contribute to heart failure if left untreated. Regular check-ups and lifestyle changes can help manage this condition effectively, improving heart health and overall well-being.</p>
 <h2 id="causes">Causes of Diastolic Dysfunction</h2>
 <p>Diastolic dysfunction can arise due to various factors. These include high blood pressure, which can lead to thickening and stiffening of the heart muscle over time. Aging also plays a role as the heart muscle becomes less flexible with age. Conditions like obesity and diabetes can contribute by causing inflammation and changes in the heart structure. Additionally, coronary artery disease and previous heart attacks can result in scarring of the heart muscle, affecting its ability to relax properly. Family history of heart disease and certain medications may also influence the development of diastolic dysfunction.
 
@@ -177,11 +177,11 @@
 <p>Recognizing the symptoms of Diastolic Dysfunction early on is crucial as it can lead to better outcomes through timely intervention. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Swelling in the legs, ankles, or abdomen</li>
 <li>Difficulty exercising</li>
-<li>Feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul> 
 
 Early detection of these symptoms can prompt further evaluation and management, potentially preventing complications associated with Diastolic Dysfunction. If you experience any of these symptoms, it's essential to consult a healthcare provider promptly for proper assessment and care.</p>
@@ -189,7 +189,7 @@ Early detection of these symptoms can prompt further evaluation and management, 
 <p>Diagnosing Diastolic Dysfunction accurately is crucial as it helps in determining the appropriate treatment plan and preventing further complications. The diagnostic process involves various methods to assess the heart's relaxation and filling capacity. These methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to measure the E/A ratio and E/e' ratio.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to measure the E/A ratio and E/e' ratio.</li>
 <li>Cardiac MRI to assess myocardial tissue characteristics.</li>
 <li>Invasive hemodynamic testing to evaluate left ventricular pressure-volume relationships.</li>
 </ul></p>

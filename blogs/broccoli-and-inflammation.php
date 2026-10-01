@@ -10,12 +10,12 @@
     <meta property="og:title" content="Broccoli's Anti-Inflammatory Benefits for Heart Health" />
     <meta property="og:description" content="Discover how broccoli reduces inflammation for heart health. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-inflammation"
         }
     ]
 }
@@ -158,7 +158,7 @@
 <p>When it comes to heart disease prevention, broccoli stands out as a versatile and nutritious ally. Its unique combination of vitamins, minerals, and phytonutrients makes it a heart-healthy addition to any diet. By addressing inflammation and supporting various aspects of cardiovascular health, broccoli plays a crucial role in reducing the risk of heart disease and promoting longevity.</p>
 <p>Key benefits of broccoli for heart disease prevention include:</p>
 <ul>
-<li>Reduction of inflammation that can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other heart-related conditions.</li>
+<li>Reduction of inflammation that can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other heart-related conditions.</li>
 <li>Protection against oxidative stress, which can damage blood vessels and contribute to heart disease.</li>
 <li>Improvement of overall heart function and maintenance of healthy blood flow.</li>
 </ul>

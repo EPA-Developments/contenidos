@@ -10,12 +10,12 @@
     <meta property="og:title" content="Calcium and Atherosclerosis Connection: Explained" />
     <meta property="og:description" content="Explore the impact of calcium on atherosclerosis and heart health. Learn about arterial calcification, plaque buildup, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-atherosclerosis"
         }
     ]
 }
@@ -129,20 +129,20 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Connection: Calcium and Atherosclerosis</h1>
-<p>Are you concerned about the impact of Calcium and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> on your health? How does the accumulation of calcium in your arteries affect your daily life, and what can be done to mitigate its effects?</p>
+<p>Are you concerned about the impact of Calcium and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> on your health? How does the accumulation of calcium in your arteries affect your daily life, and what can be done to mitigate its effects?</p>
 <p>Calcium and Atherosclerosis are closely linked, playing a significant role in the development of heart disease. Let's delve into the connection between arterial calcification, plaque buildup, vascular stiffness, and heart disease to understand how they contribute to this serious health condition.</p>
 <h2 class="sec-scrl" id="Arterial-calcification">Arterial Calcification</h2>
 <p>Arterial calcification occurs when calcium deposits build up in the walls of your arteries, leading to the hardening of these blood vessels. This process is often associated with aging and is a hallmark of vascular aging. As calcium accumulates in the arteries, it can form plaques that narrow the blood vessels, restricting blood flow and increasing the risk of cardiovascular events such as heart attacks and strokes.</p>
 <p>The presence of arterial calcification can be detected through imaging tests like CT scans or coronary artery calcium scoring. These tests help assess the extent of calcification in the arteries, providing valuable information for determining cardiovascular risk and guiding treatment strategies.</p>
 <h2 class="sec-scrl" id="Plaque-buildup">Plaque Buildup</h2>
 <p>Plaque buildup, also known as atherosclerosis, is a condition characterized by the accumulation of fatty deposits, cholesterol, calcium, and other substances in the inner lining of the arteries. Over time, these plaques can harden and narrow the arteries, reducing blood flow to vital organs like the heart and brain.</p>
-<p>As plaque continues to grow, it can become unstable and rupture, leading to the formation of blood clots that can block blood flow to the heart muscle or the brain, resulting in a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or stroke. Understanding the role of calcium in plaque formation is crucial for preventing the progression of atherosclerosis and reducing the risk of cardiovascular events.</p>
+<p>As plaque continues to grow, it can become unstable and rupture, leading to the formation of blood clots that can block blood flow to the heart muscle or the brain, resulting in a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or stroke. Understanding the role of calcium in plaque formation is crucial for preventing the progression of atherosclerosis and reducing the risk of cardiovascular events.</p>
 <h2 class="sec-scrl" id="Vascular-stiffness">Vascular Stiffness</h2>
 <p>Vascular stiffness, often associated with arterial calcification, refers to the reduced ability of blood vessels to expand and contract in response to changes in blood flow. The presence of calcium deposits in the arterial walls contributes to increased stiffness, compromising the normal function of the arteries.</p>
 <p>Stiff arteries can lead to elevated blood pressure, reduced oxygen delivery to tissues, and impaired circulation, all of which are risk factors for heart disease. Managing vascular stiffness through lifestyle modifications, medication, and targeted therapies is essential for preserving cardiovascular health and reducing the burden of atherosclerosis.</p>
 <h2 class="sec-scrl" id="Heart-disease">Heart Disease</h2>
 <p>Heart disease encompasses a range of conditions that affect the heart and blood vessels, including coronary artery disease, heart failure, arrhythmias, and more. The presence of arterial calcification, plaque buildup, and vascular stiffness significantly contribute to the development and progression of heart disease.</p>
-<p>Individuals with advanced atherosclerosis are at increased risk of experiencing heart attacks, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, peripheral artery disease, and other cardiovascular complications. Early detection and intervention to address calcium-related issues can help prevent the onset of severe heart disease and improve long-term outcomes.</p>
+<p>Individuals with advanced atherosclerosis are at increased risk of experiencing heart attacks, <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, peripheral artery disease, and other cardiovascular complications. Early detection and intervention to address calcium-related issues can help prevent the onset of severe heart disease and improve long-term outcomes.</p>
 <h2 class="sec-scrl" id="Conclusion">Conclusion</h2>
 <p>In conclusion, the link between Calcium and Atherosclerosis is undeniable, with arterial calcification, plaque buildup, vascular stiffness, and heart disease forming a complex interplay that impacts cardiovascular health. Understanding how calcium deposits affect the arteries and learning to manage these factors are crucial steps in preventing the progression of atherosclerosis and reducing the risk of heart disease.</p>
 <p>By addressing calcium-related issues through lifestyle changes, regular monitoring, and appropriate medical interventions, individuals can take proactive steps to safeguard their cardiovascular well-being and enjoy a healthier, heart-healthy life.</p>

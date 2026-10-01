@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart Aneurysm involves a bulge in the heart’s walls. Know more about its causes, symptoms, and treatment to prevent complications." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-aneurysm"
       }]
     }
   </script>
@@ -166,8 +166,8 @@
 <p>Heart aneurysms develop due to various factors like:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> putting stress on the walls of the heart's arteries</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> causing plaque buildup in the arteries</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> putting stress on the walls of the heart's arteries</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> causing plaque buildup in the arteries</li>
 <li>Genetic factors increasing the risk of weakened artery walls</li>
 <li>Smoking leading to artery damage and weakening</li>
 <li>Connective tissue disorders affecting artery strength</li>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of a Heart Aneurysm is crucial as early detection can significantly improve outcomes. Symptoms may not always be obvious, but being aware of them can save lives. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Pain in the upper back or abdomen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Nausea or vomiting</li>
 </ul>
 
@@ -189,8 +189,8 @@ If you experience any of these symptoms, especially if they are sudden or severe
 <p>Accurate diagnosis of a heart aneurysm is crucial for timely intervention and preventing potential complications. The diagnostic process typically involves various tests to confirm the presence of an aneurysm and assess its severity. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function</li>
 <li>Cardiac MRI or CT scan for detailed images of the heart and blood vessels</li>
 <li>Coronary angiography to evaluate blood flow in the coronary arteries</li>
 </ul></p>

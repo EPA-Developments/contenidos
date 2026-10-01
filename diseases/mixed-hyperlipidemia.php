@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mixed Hyperlipidemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Mixed Hyperlipidemia causes high cholesterol levels. Read more about its symptoms, causes, and treatment for a healthier lifestyle." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mixed-hyperlipidemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mixed-hyperlipidemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mixed-hyperlipidemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mixed-hyperlipidemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mixed Hyperlipidemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mixed-hyperlipidemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mixed-hyperlipidemia"
       }]
     }
   </script>
@@ -176,7 +176,7 @@
 <li>Elevated cholesterol levels</li>
 <li>High levels of triglycerides</li>
 <li>Presence of xanthomas (fatty deposits under the skin)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort)</li>
 <li>Yellowish patches around the eyes</li>
 </ul>
 

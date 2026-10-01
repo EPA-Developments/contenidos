@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Left Main Coronary Artery Blockage Importance" />
     <meta property="og:description" content="Learn why left main coronary artery blockage is critical for your heart health. Understand the risks and treatment options." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/left-main-coronary-artery-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/left-main-coronary-artery-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/left-main-coronary-artery-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/left-main-coronary-artery-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Left Main Coronary Artery Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/left-main-coronary-artery-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/left-main-coronary-artery-blockage"
         }
     ]
 }
@@ -171,10 +171,10 @@
               <h1>Understanding Left Main Artery Blockage Importance</h1>
 <p>Are you struggling with the implications of left main coronary artery blockage? The impact of this condition on your daily life can be overwhelming. Simple activities like walking up a flight of stairs or even getting through a day at work may suddenly feel like daunting tasks. Left main coronary artery blockage, also known as left main coronary disease, is a severe condition that requires immediate attention and understanding to ensure the best possible outcomes.</p>
 <h2 class="sec-scrl" id="coronary-artery-bypass-grafting">Coronary Artery Bypass Grafting</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG) is a common surgical procedure used to treat left main coronary artery blockage. During CABG, a healthy blood vessel is taken from another part of the body and connected to the blocked artery, bypassing the blockage and restoring proper blood flow to the heart. This procedure can help alleviate symptoms, improve heart function, and reduce the risk of complications.</p>
-<p>In some cases, CABG may be the preferred treatment option over other interventions like <a href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-coronary-intervention">percutaneous coronary intervention</a> (PCI) for left main artery blockage. Your healthcare provider will determine the most suitable treatment approach based on your individual condition and overall health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG) is a common surgical procedure used to treat left main coronary artery blockage. During CABG, a healthy blood vessel is taken from another part of the body and connected to the blocked artery, bypassing the blockage and restoring proper blood flow to the heart. This procedure can help alleviate symptoms, improve heart function, and reduce the risk of complications.</p>
+<p>In some cases, CABG may be the preferred treatment option over other interventions like <a href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-coronary-intervention">percutaneous coronary intervention</a> (PCI) for left main artery blockage. Your healthcare provider will determine the most suitable treatment approach based on your individual condition and overall health.</p>
 <h2 class="sec-scrl" id="myocardial-infarction-prevention">Myocardial Infarction Prevention</h2>
-<p>One of the critical aspects of managing left main coronary artery blockage is preventing <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, commonly known as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Individuals with left main coronary disease are at a higher risk of experiencing a heart attack due to the reduced blood flow to the heart muscle. By following a heart-healthy lifestyle, taking prescribed medications, and attending regular follow-up appointments, you can significantly reduce the risk of a heart attack and improve your overall heart health.</p>
+<p>One of the critical aspects of managing left main coronary artery blockage is preventing <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, commonly known as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Individuals with left main coronary disease are at a higher risk of experiencing a heart attack due to the reduced blood flow to the heart muscle. By following a heart-healthy lifestyle, taking prescribed medications, and attending regular follow-up appointments, you can significantly reduce the risk of a heart attack and improve your overall heart health.</p>
 <ul>
 <li>Adopting a balanced diet rich in fruits, vegetables, whole grains, and lean proteins</li>
 <li>Engaging in regular physical activity as recommended by your healthcare provider</li>
@@ -187,8 +187,8 @@
 <h2 class="sec-scrl" id="heart-attack-risk-factors">Heart Attack Risk Factors</h2>
 <p>Understanding the risk factors associated with heart attacks can help you take proactive steps to protect your heart health, especially if you have left main coronary artery blockage. Common risk factors for heart attacks include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Diabetes</li>
 <li>Obesity</li>
 <li>Sedentary lifestyle</li>
@@ -196,7 +196,7 @@
 </ul>
 <p>By addressing these risk factors through lifestyle modifications, medications, and regular monitoring, you can reduce the likelihood of experiencing a heart attack and improve your overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
-<p>In conclusion, left main coronary artery blockage is a critical condition that requires prompt diagnosis and appropriate management to prevent complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a>. Whether you undergo coronary artery bypass grafting, stent placement in the LMCA, or other interventions, working closely with your healthcare team and following their recommendations is crucial for optimizing your heart health and overall well-being. By understanding the implications of left main coronary disease and taking proactive steps to address it, you can improve your quality of life and reduce the risk of heart-related complications.</p>
+<p>In conclusion, left main coronary artery blockage is a critical condition that requires prompt diagnosis and appropriate management to prevent complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a>. Whether you undergo coronary artery bypass grafting, stent placement in the LMCA, or other interventions, working closely with your healthcare team and following their recommendations is crucial for optimizing your heart health and overall well-being. By understanding the implications of left main coronary disease and taking proactive steps to address it, you can improve your quality of life and reduce the risk of heart-related complications.</p>
             </div>
           </div>
         </div>

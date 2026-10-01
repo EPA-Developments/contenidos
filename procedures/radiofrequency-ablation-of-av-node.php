@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Radiofrequency Ablation of AV Node: Heart Arrhythmia Treatment">
   <meta property="og:description" content="Learn about Radiofrequency Ablation of AV Node, a minimally invasive procedure for treating heart arrhythmias. Find out more about AV node ablation and radiofrequency ablation for arrhythmia.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/radiofrequency-ablation-of-av-node">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/radiofrequency-ablation-of-av-node">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/radiofrequency-ablation-of-av-node" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/radiofrequency-ablation-of-av-node" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Radiofrequency ablation of AV node",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/radiofrequency-ablation-of-av-node"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/radiofrequency-ablation-of-av-node"  
       }]
     }
   </script>

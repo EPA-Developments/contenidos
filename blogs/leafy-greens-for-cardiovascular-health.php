@@ -10,12 +10,12 @@
     <meta property="og:title" content="Leafy Greens for Heart Health: A Comprehensive Guide" />
     <meta property="og:description" content="Discover how leafy greens benefit heart health. Learn about types, cholesterol impact, and delicious ways to prep them for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/leafy-greens-for-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/leafy-greens-for-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/leafy-greens-for-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/leafy-greens-for-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Leafy Greens For Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/leafy-greens-for-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/leafy-greens-for-cardiovascular-health"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <li>Arugula: This peppery green is a great source of nitrates, which can improve blood flow and enhance heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="Leafy greens and cholesterol">How Do Leafy Greens Impact Cholesterol Levels?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly increase the risk of heart disease. The good news is that leafy greens can play a vital role in managing cholesterol levels. Here's how they can help:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly increase the risk of heart disease. The good news is that leafy greens can play a vital role in managing cholesterol levels. Here's how they can help:</p>
 <ul>
 <li>Fiber content: Leafy greens are rich in soluble fiber, which can help lower LDL cholesterol levels by binding to cholesterol in the digestive system.</li>
 <li>Antioxidants: The antioxidants in leafy greens can prevent the oxidation of LDL cholesterol, reducing the formation of plaque in the arteries.</li>

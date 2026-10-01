@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onion: Heart Health Boost&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of onions for a healthier heart. Learn about onion nutrition, cholesterol reduction, and blood pressure regulation." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-health"
         }
     ]
 }
@@ -154,7 +154,7 @@
 <h2 class="sec-scrl" id="blood-pressure-regulation">Blood Pressure Regulation</h2>
 <p>How do onions assist in regulating blood pressure? Discover the mechanisms through which onions can positively impact your cardiovascular health:</p>
 <ul>
-<li>Onions are rich in potassium, a mineral that helps regulate blood pressure and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Onions are rich in potassium, a mineral that helps regulate blood pressure and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>The sulfur compounds in onions may promote relaxation of blood vessels, leading to improved blood flow and lower blood pressure.</li>
 <li>Including onions in meals as part of a heart-healthy diet can support overall blood pressure management.</li>
 </ul>

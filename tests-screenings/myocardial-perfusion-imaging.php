@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose and Normal Range of Myocardial Perfusion Imaging" property="og:title"/>
 <meta content="Myocardial perfusion imaging assesses heart blood flow. Know more about the purpose, costs, and normal Range for detecting heart issues." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-perfusion-imaging" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-perfusion-imaging" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-perfusion-imaging" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-perfusion-imaging" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myocardial Perfusion Imaging",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/myocardial-perfusion-imaging"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/myocardial-perfusion-imaging"  
       }]
     }
   </script>
@@ -159,14 +159,14 @@
 <p>Myocardial Perfusion Imaging (MPI) is a diagnostic test used to evaluate blood flow to the heart muscle. This non-invasive imaging technique helps to assess the function of the heart and detect any abnormalities in blood flow to the heart tissue.</p>
 <p>During an MPI test, a small amount of radioactive tracer is injected into the bloodstream, which is then detected by a special camera that takes images of the heart.</p>
 <p>These images can show areas of reduced blood flow or areas of damage in the heart muscle.</p>
-<p>MPI is commonly used to diagnose coronary artery disease (CAD), evaluate heart muscle viability, assess the extent of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> damage, and determine the severity of ischemic heart disease.</p>
+<p>MPI is commonly used to diagnose coronary artery disease (CAD), evaluate heart muscle viability, assess the extent of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> damage, and determine the severity of ischemic heart disease.</p>
 <p>This imaging technique is crucial in providing valuable information about the blood flow to the heart, helping healthcare providers make informed decisions about a patient's cardiac health.</p>
 <h2 id="purpose">What is the Purpose of Performing a Myocardial Perfusion Imaging Test?</h2>
 <p>The primary purpose of performing a Myocardial Perfusion Imaging test is to evaluate the blood flow to the heart muscle and detect any abnormalities that may indicate underlying heart conditions.</p>
 <p>Some specific scenarios where MPI is useful include:</p>
 <ul>
 <li>Assessing blood flow to the heart during rest and stress conditions to detect blockages in the coronary arteries.</li>
-<li>Evaluating heart muscle viability to determine the effectiveness of treatments such as bypass surgery or <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>.</li>
+<li>Evaluating heart muscle viability to determine the effectiveness of treatments such as bypass surgery or <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>.</li>
 <li>Detecting areas of damage in the heart muscle following a heart attack.</li>
 </ul>
 <p>The benefits of MPI include:</p>

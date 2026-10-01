@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vitamin C Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Explore the vital link between Vitamin C and heart health. Learn how this nutrient benefits your cardiovascular system." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-health"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <ul>
 <li>Enhances nitric oxide production, promoting vasodilation and improving blood circulation</li>
 <li>Reduces oxidative stress, protecting the heart from damage</li>
-<li>Helps in the prevention of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease</li>
+<li>Helps in the prevention of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease</li>
 </ul>
 <h2 class="sec-scrl" id="antioxidant-role">Antioxidant Role of Vitamin C</h2>
 <p>One of the key functions of Vitamin C is its antioxidant properties. How does this benefit your heart health? Let's delve into the antioxidant role of Vitamin C:</p>

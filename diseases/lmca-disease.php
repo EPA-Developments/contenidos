@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Lmca Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="LMCA Disease impacts the left main coronary artery, affecting heart function. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/lmca-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/lmca-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/lmca-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/lmca-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Lmca Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/lmca-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/lmca-disease"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Lmca Disease</h1>
-<p>LMCA disease, or Left Main Coronary Artery disease, occurs when the main artery supplying oxygen-rich blood to the heart is narrowed or blocked. This condition is significant as it can lead to serious complications like heart attacks or heart failure. Although LMCA disease is rare, it is extremely dangerous due to its vital role in heart function. Understanding its signs and seeking timely medical attention is crucial for managing this condition effectively. If you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or other symptoms, consult a healthcare provider promptly.</p>
+<p>LMCA disease, or Left Main Coronary Artery disease, occurs when the main artery supplying oxygen-rich blood to the heart is narrowed or blocked. This condition is significant as it can lead to serious complications like heart attacks or heart failure. Although LMCA disease is rare, it is extremely dangerous due to its vital role in heart function. Understanding its signs and seeking timely medical attention is crucial for managing this condition effectively. If you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or other symptoms, consult a healthcare provider promptly.</p>
 <h2 id="causes">Causes of Lmca Disease</h2>
 <p>The development of LMCA disease can be influenced by various factors. Some main contributors include:
 
 <ul>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Diabetes</li>
 <li>Obesity</li>
 </ul></p>
@@ -179,9 +179,9 @@
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Excessive sweating</li>
 </ul></p>
 <h2>Diagnosis of Lmca Disease</h2>

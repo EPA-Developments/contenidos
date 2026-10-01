@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Exercise Intolerance: Symptoms, Causes, Diagnosis, and Treatment">
   <meta property="og:description" content="Struggling with exercise intolerance? Learn about its symptoms, causes, and treatment options, including how it can be linked to heart disease and asthma. Find ways to manage and diagnose exercise intolerance here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-intolerance">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/exercise-intolerance">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-intolerance" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/exercise-intolerance" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Exercise Intolerance",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/exercise-intolerance"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/exercise-intolerance"  
       }]
     }
   </script>
@@ -187,14 +187,14 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Exercise Intolerance: Symptoms, Causes, Diagnosis, and Treatment</h1>
 <p>Exercise intolerance refers to the inability to perform physical activities at the expected level due to various underlying conditions.</p>
-<p>This condition can manifest as fatigue during exercise, inability to exercise, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> during activity, reduced stamina, physical exhaustion, lack of endurance, and difficulty with exertion.</p>
-<p>Individuals with exercise intolerance may experience symptoms such as muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, and feeling lightheaded during physical exertion. It can significantly impact a person's quality of life and overall well-being.</p>
+<p>This condition can manifest as fatigue during exercise, inability to exercise, <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> during activity, reduced stamina, physical exhaustion, lack of endurance, and difficulty with exertion.</p>
+<p>Individuals with exercise intolerance may experience symptoms such as muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, and feeling lightheaded during physical exertion. It can significantly impact a person's quality of life and overall well-being.</p>
 <h2 id="forms">What are the Forms of Exercise intolerance?</h2>
 <p>There are different forms of exercise intolerance, each with specific symptoms and related concepts.</p>
 <ul>
 <li>Fatigue during exercise: Feeling excessively tired or weak while engaging in physical activities.</li>
 <li>Inability to exercise: Being unable to sustain physical exertion or complete a workout due to various reasons.</li>
-<li>Breathlessness during activity: Experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> during exercise.</li>
+<li>Breathlessness during activity: Experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> during exercise.</li>
 <li>Reduced stamina: Having lower endurance levels and getting fatigued quickly during physical tasks.</li>
 <li>Physical exhaustion: Feeling completely drained or depleted of energy after minimal physical effort.</li>
 <li>Lack of endurance: Not being able to endure prolonged physical activities or exercise routines.</li>
@@ -228,13 +228,13 @@
 <li>Physical therapy: to improve muscle strength and endurance.</li>
 <li>Pulmonary rehabilitation: for individuals with respiratory issues.</li>
 <li>Cardiac rehabilitation: for patients with heart disease.</li>
-<li>Oxygen therapy: in cases of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">low oxygen levels</a> during exertion.</li>
+<li>Oxygen therapy: in cases of <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">low oxygen levels</a> during exertion.</li>
 <li>Surgical interventions: for specific conditions that require medical procedures.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience the following symptoms or stages of exercise intolerance:</p>
 <ul>
-<li>Severe <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort during exercise.</li>
+<li>Severe <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort during exercise.</li>
 <li>Unexplained shortness of breath or dizziness.</li>
 <li>Extreme fatigue that persists despite rest.</li>
 <li>Sudden onset of exercise intolerance without a clear cause.</li>

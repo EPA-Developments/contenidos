@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms and Treatment for Sudden Sweating" >
   <meta property="og:description" content="Sudden Sweating may signal underlying heart issues. Know more about the causes, diagnosis, and treatment options for this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-sweating">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sudden-sweating">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-sweating" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-sweating" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sudden Sweating",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sudden-sweating"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sudden-sweating"  
       }]
     }
   </script>
@@ -188,8 +188,8 @@
             <div class="article-content"><h1>Causes, Symptoms and Diagnosis for Sudden Sweating</h1>
 <p>Sudden sweating, also known as diaphoresis, refers to unexpected and excessive perspiration that occurs rapidly without any apparent trigger. This condition can manifest in various forms, including profuse sweating, cold sweat, night sweats, and unexplained sweating episodes.</p>
 <p>Sudden sweating can be alarming and disruptive, affecting daily activities and quality of life for individuals experiencing it.</p>
-<p>Symptoms of sudden sweating may include damp or wet clothing, skin feeling clammy or cold, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, flushing of the skin, and a sense of anxiety or panic.</p>
-<p>These symptoms can be accompanied by other signs such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, nausea, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, depending on the underlying cause of the sudden sweating episode.</p>
+<p>Symptoms of sudden sweating may include damp or wet clothing, skin feeling clammy or cold, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, flushing of the skin, and a sense of anxiety or panic.</p>
+<p>These symptoms can be accompanied by other signs such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, nausea, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, depending on the underlying cause of the sudden sweating episode.</p>
 <h2 id="forms">What are the Forms of Sudden sweating?</h2>
 <p>Excessive perspiration is a common form of sudden sweating where individuals sweat profusely, leading to soaked clothing and discomfort. Unexpected sweating refers to episodes of sweating that occur suddenly and without warning, often causing embarrassment and distress.</p>
 <p>Cold sweat is characterized by a clammy, cool feeling on the skin, usually associated with shock, fear, or stress. Night sweats are episodes of excessive sweating that occur during sleep, disrupting rest and leading to damp bedding and discomfort.</p>
@@ -213,7 +213,7 @@
 <p>Treatment options for sudden sweating depend on the underlying cause and severity of symptoms. Medical interventions may include prescription medications to manage hormonal imbalances, infections, or anxiety disorders contributing to diaphoresis.</p>
 <p>Lifestyle modifications such as avoiding triggers, maintaining a healthy weight, and practicing stress-reduction techniques can help manage sudden sweating episodes. Advanced approaches like botox injections or surgical procedures may be considered for refractory cases.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if sudden sweating is accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fainting, or confusion, as these symptoms may indicate a more serious underlying condition such as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or infection.</p>
+<p>It is essential to seek medical attention if sudden sweating is accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fainting, or confusion, as these symptoms may indicate a more serious underlying condition such as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or infection.</p>
 <p>If sudden sweating is persistent, unexplained, or affecting daily activities, consulting a healthcare provider for a thorough evaluation and appropriate management is recommended.</p>
 <h2>Home Remedies for Sudden sweating</h2>
 <p>Home remedies can complement medical treatment and help manage sudden sweating episodes effectively. Drinking plenty of water to stay hydrated, wearing breathable clothing, and avoiding spicy foods or caffeine can help reduce the frequency and intensity of sweating.</p>

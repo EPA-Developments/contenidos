@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Arrest: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac arrest, also known as sudden cardiac arrest, is when the heart stops beating suddenly. Read more about its causes, symptoms, and treatment ." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Arrest",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest"
       }]
     }
   </script>
@@ -166,9 +166,9 @@
 <p><h3>Main Factors Contributing to Cardiac Arrest</h3>
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 <li>Electrical abnormalities in the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> (heart muscle disease)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> (heart muscle disease)</li>
 <li>Heart valve issues</li>
 <li>Drug abuse</li>
 <li>Sudden impact or trauma to the chest</li>
@@ -177,12 +177,12 @@
 <p>Recognizing the symptoms of Cardiac Arrest is crucial as early detection can significantly improve outcomes. Being aware of these signs can help in getting prompt medical attention, potentially saving a life. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Unexplained fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a></li>
 </ul></p>
 <h2>Diagnosis of Cardiac Arrest</h2>
 <p>Prompt diagnosis of Cardiac Arrest is crucial for timely intervention and improved outcomes. Healthcare providers typically use various diagnostic methods to identify and confirm Cardiac Arrest, such as:

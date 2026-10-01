@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Barth Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Barth Syndrome: symptoms, causes, diagnosis, and treatment options. Understand this rare genetic disorder affecting the heart and muscles.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/barth-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/barth-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/barth-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/barth-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Barth Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/barth-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/barth-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Barth Syndrome: Symptoms, Causes, and Treatment</h1>
-<p>Barth Syndrome is a rare genetic disorder that primarily affects males. It impacts the heart, muscles, growth, and immune system. Despite its rarity, understanding this syndrome is crucial as it can lead to serious heart conditions and muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. While the prevalence of Barth Syndrome is low, affecting approximately 1 in 300,000 to 400,000 individuals, early detection and management are essential for improving outcomes. By raising awareness about Barth Syndrome, we can enhance diagnosis, treatment, and support for those living with this condition.</p>
+<p>Barth Syndrome is a rare genetic disorder that primarily affects males. It impacts the heart, muscles, growth, and immune system. Despite its rarity, understanding this syndrome is crucial as it can lead to serious heart conditions and muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. While the prevalence of Barth Syndrome is low, affecting approximately 1 in 300,000 to 400,000 individuals, early detection and management are essential for improving outcomes. By raising awareness about Barth Syndrome, we can enhance diagnosis, treatment, and support for those living with this condition.</p>
 <h2 id="causes">Causes of Barth Syndrome</h2>
 <p>Barth Syndrome, a rare genetic disorder, develops due to specific genetic mutations. The main factors contributing to its development include:
 

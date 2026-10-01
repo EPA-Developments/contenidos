@@ -10,12 +10,12 @@
     <meta property="og:title" content="Carrots for Heart Health: Research Insights" />
     <meta property="og:description" content="Discover the link between carrots and heart health in scientific studies. Learn how carrots may help prevent heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots For Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-disease-prevention"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <li>Regular consumption of carrots as part of a balanced diet may contribute to better heart health outcomes over time.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-prevention">Carrots and Heart Attack Prevention</h2>
-<p>Can eating carrots help lower your risk of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? Studies suggest that the antioxidant properties of carrots play a crucial role in preventing heart attacks by neutralizing free radicals and reducing inflammation in the cardiovascular system.</p>
+<p>Can eating carrots help lower your risk of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? Studies suggest that the antioxidant properties of carrots play a crucial role in preventing heart attacks by neutralizing free radicals and reducing inflammation in the cardiovascular system.</p>
 <p>Regularly consuming carrots may also support healthy blood pressure levels and improve cholesterol profiles, further reducing the likelihood of heart attacks and other cardiovascular complications.</p>
 <h2 class="sec-scrl" id="clinical-trials">Insights from Clinical Trials</h2>
 <p>Clinical trials have provided valuable insights into the cardiovascular benefits of including carrots in your diet. Participants who followed a carrot-rich eating plan showed improvements in their heart health markers, including reduced LDL cholesterol levels and increased antioxidant capacity.</p>

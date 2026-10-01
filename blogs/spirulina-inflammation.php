@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Spirulina's Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover how Spirulina reduces heart inflammation naturally. Learn about its anti-inflammatory properties and benefits for cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/spirulina-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/spirulina-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Spirulina Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/spirulina-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/spirulina-inflammation"
         }
     ]
 }
@@ -129,13 +129,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Spirulina for Heart Inflammation</h1>
-<p>Are you looking for a natural way to reduce inflammation in your heart? Do you struggle with the effects of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> on your daily activities and overall well-being?</p>
+<p>Are you looking for a natural way to reduce inflammation in your heart? Do you struggle with the effects of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> on your daily activities and overall well-being?</p>
 <p>Spirulina, a type of blue-green algae, has gained popularity for its potential anti-inflammatory properties and its ability to support heart health. Let's explore how Spirulina can help combat heart inflammation and contribute to overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="antiinflammatoryproperties">Anti-Inflammatory Properties of Spirulina</h2>
 <p>Spirulina contains phycocyanin, a pigment with potent anti-inflammatory effects. This compound helps reduce inflammation in the body, including the heart, by inhibiting the production of inflammatory molecules.</p>
 <p>In addition to phycocyanin, Spirulina is rich in gamma-linolenic acid (GLA), a type of omega-6 fatty acid known for its anti-inflammatory properties. GLA can help modulate the body's inflammatory response, potentially reducing the risk of chronic inflammation in the heart.</p>
 <h2 class="sec-scrl" id="heartinflammation">Combatting Heart Inflammation with Spirulina</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can have serious consequences on cardiovascular health. Spirulina's anti-inflammatory properties can help alleviate inflammation in the heart muscles, supporting overall heart function and reducing the risk of complications.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can have serious consequences on cardiovascular health. Spirulina's anti-inflammatory properties can help alleviate inflammation in the heart muscles, supporting overall heart function and reducing the risk of complications.</p>
 <p>By reducing inflammation in the heart, Spirulina may help improve blood flow, lower blood pressure, and support optimal heart rhythm, all of which are essential for maintaining a healthy cardiovascular system.</p>
 <h2 class="sec-scrl" id="cardiovasculardiseases">Protecting Against Cardiovascular Diseases</h2>
 <p>Chronic inflammation is a key contributor to the development of cardiovascular diseases, such as heart disease and stroke. Spirulina's anti-inflammatory compounds can help protect the heart and blood vessels from damage caused by inflammation, reducing the risk of cardiovascular complications.</p>

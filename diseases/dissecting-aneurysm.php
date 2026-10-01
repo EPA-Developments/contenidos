@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dissecting Aneurysm: Causes, Symptoms and Treatment" >
   <meta property="og:description" content="Dissecting Aneurysm occurs when a tear forms in artery walls. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/dissecting-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/dissecting-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/dissecting-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/dissecting-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dissecting Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/dissecting-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/dissecting-aneurysm"
       }]
     }
   </script>
@@ -171,25 +171,25 @@
 <p>This condition is significant due to its potential to cause sudden and severe complications if left untreated.</p>
 <p>While not as common as other types of aneurysms, dissecting aneurysm can have a significant impact on an individual's health, affecting essential functions like blood circulation and potentially leading to organ damage or even death.</p>
 <p>In terms of prevalence, dissecting aneurysms are relatively rare compared to other cardiovascular diseases. However, their impact on health can be catastrophic if not promptly diagnosed and managed.</p>
-<p>The condition can affect individuals of any age but is more commonly seen in older adults with a history of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or connective tissue disorders.</p>
-<p>The short-term risks of untreated dissecting aneurysm include acute complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-rupture">aortic rupture</a>, which can lead to severe internal bleeding and sudden death.</p>
+<p>The condition can affect individuals of any age but is more commonly seen in older adults with a history of <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or connective tissue disorders.</p>
+<p>The short-term risks of untreated dissecting aneurysm include acute complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-rupture">aortic rupture</a>, which can lead to severe internal bleeding and sudden death.</p>
 <p>In the long term, untreated dissecting aneurysm can result in chronic issues like organ damage, heart failure, or stroke.</p>
 <p>One of the challenges with dissecting aneurysm is its asymptomatic nature in the early stages, making it crucial for individuals at risk to undergo regular screenings and diagnostic tests for early detection.</p>
 <p>Early intervention can significantly improve outcomes and reduce the risk of life-threatening complications associated with this condition.</p>
 <p>Causes of Dissecting Aneurysm</p>
 <p>Dissecting aneurysm can be caused by various factors that weaken the aortic wall and predispose it to tearing.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: High blood pressure can exert excessive force on the walls of the aorta, leading to weakening and potential tearing over time. Uncontrolled hypertension is a significant risk factor for developing dissecting aneurysm.</li>
-<li>Genetic Factors: Certain genetic conditions, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, can affect the structure of the connective tissue in the aortic wall, making it more susceptible to dissection.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: High blood pressure can exert excessive force on the walls of the aorta, leading to weakening and potential tearing over time. Uncontrolled hypertension is a significant risk factor for developing dissecting aneurysm.</li>
+<li>Genetic Factors: Certain genetic conditions, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome, can affect the structure of the connective tissue in the aortic wall, making it more susceptible to dissection.</li>
 <li>Trauma: A severe injury or trauma to the chest or abdomen can also cause a tear in the aortic wall, leading to dissecting aneurysm.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: The buildup of plaque in the arteries can contribute to the weakening of the aortic wall, increasing the risk of dissection.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: The buildup of plaque in the arteries can contribute to the weakening of the aortic wall, increasing the risk of dissection.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors that can exacerbate the risk of developing dissecting aneurysm include smoking, excessive alcohol consumption, and a sedentary lifestyle. These factors can further strain the cardiovascular system and increase the likelihood of aneurysm formation.</p>
 <h2 id="symptoms">Symptoms of Dissecting Aneurysm</h2>
 <p>The symptoms of dissecting aneurysm can vary depending on the location and extent of the tear. In the early stages, individuals may experience subtle symptoms that can be easily overlooked.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Sudden, severe chest pain that radiates to the back or abdomen.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or labored breathing, especially with exertion.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Sudden, severe chest pain that radiates to the back or abdomen.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or labored breathing, especially with exertion.</li>
 <li>High Blood Pressure: A sudden increase in blood pressure or hypertensive crisis.</li>
 </ul>
 <p>Advanced-stage symptoms of dissecting aneurysm may include:</p>

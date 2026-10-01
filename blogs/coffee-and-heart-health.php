@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Coffee's Influence on Heart Wellness&quot;" />
     <meta property="og:description" content="Explore the influence of coffee on heart health: benefits, risks, and more. Uncover the relationship between coffee consumption and your heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coffee And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-health"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <p>Additionally, some studies have linked coffee consumption to a lower risk of stroke and heart failure. The key lies in moderation – enjoying your daily cup or two of coffee could potentially support your heart health in the long run.</p>
 <h2 class="sec-scrl" id="heart-risks">Heart Risks</h2>
 <p>On the flip side, excessive coffee intake can pose risks to your heart. High levels of caffeine can lead to increased heart rate and blood pressure, potentially putting a strain on your cardiovascular system.</p>
-<p>If you have underlying heart conditions, such as arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, it's crucial to monitor your coffee consumption closely. Too much caffeine can exacerbate these issues and impact your heart's well-being negatively.</p>
+<p>If you have underlying heart conditions, such as arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, it's crucial to monitor your coffee consumption closely. Too much caffeine can exacerbate these issues and impact your heart's well-being negatively.</p>
 <h2 class="sec-scrl" id="caffeine-and-heart">Caffeine and Heart</h2>
 <p>Caffeine, the primary stimulant in coffee, has a direct impact on the heart. It works by blocking adenosine, a neurotransmitter that can dilate blood vessels and regulate heart rate. This blockage leads to increased adrenaline production, which can cause a temporary spike in heart rate.</p>
 <p>While this effect is generally well-tolerated by most individuals, those with sensitivity to caffeine or existing heart conditions should be cautious. Monitoring your caffeine intake and being aware of how it affects your heart is essential for maintaining cardiac health.</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Tumor Removal Surgery: Cardiac Tumor Excision & Removal">
   <meta property="og:description" content="Looking for expert cardiac tumor surgery? Learn about heart tumor removal surgery, including heart tumor excision and removal of benign heart tumors.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/heart-tumor-removal-surgery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/heart-tumor-removal-surgery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/heart-tumor-removal-surgery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/heart-tumor-removal-surgery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Tumor Removal Surgery",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/heart-tumor-removal-surgery"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/heart-tumor-removal-surgery"  
       }]
     }
   </script>

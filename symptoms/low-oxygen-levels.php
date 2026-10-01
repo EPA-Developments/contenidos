@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Low Oxygen Levels: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Low oxygen levels often point to heart issues. Read more about the symptoms, causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Low Oxygen Levels",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/low-oxygen-levels"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/low-oxygen-levels"  
       }]
     }
   </script>
@@ -189,14 +189,14 @@
 <p>Low oxygen levels, also known as hypoxia, refer to a condition where there is a reduced amount of oxygen in the body.</p>
 <p>This can occur when the body is not able to take in enough oxygen from the air or when oxygen is not being delivered effectively to the body's tissues.</p>
 <p>Reduced blood oxygen levels can lead to a range of symptoms and can be indicative of underlying health issues.</p>
-<p>Symptoms of low oxygen levels can vary depending on the severity of the condition. Common symptoms include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, confusion, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, increased heart rate, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and bluish tint to the skin or lips.</p>
+<p>Symptoms of low oxygen levels can vary depending on the severity of the condition. Common symptoms include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, confusion, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, increased heart rate, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and bluish tint to the skin or lips.</p>
 <p>In severe cases, low oxygen levels can lead to organ damage and even death if left untreated.</p>
 <p>Reduced blood oxygen levels can be measured using a device called a pulse oximeter, which measures the oxygen saturation in the blood. Oxygen saturation levels below 90% are considered low and may require medical intervention.</p>
 <h2 id="forms">What are the Forms of Low oxygen levels?</h2>
 <p>There are several forms of low oxygen levels, including oxygen deficiency, low oxygen saturation, insufficient oxygen levels, low blood oxygen, and decreased oxygen supply. Each form may have specific symptoms and underlying causes.</p>
 <p>Oxygen deficiency can occur due to lung diseases such as chronic obstructive pulmonary disease (COPD), asthma, or pneumonia. Low oxygen saturation can be a result of heart conditions like heart failure or congenital heart defects.</p>
 <p>Insufficient oxygen levels can occur due to high altitudes, carbon monoxide poisoning, or anemia. Low blood oxygen levels can be caused by breathing disorders, sleep apnea, or respiratory infections.</p>
-<p>Decreased oxygen supply can result from conditions like pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a> or blood clots.</p>
+<p>Decreased oxygen supply can result from conditions like pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a> or blood clots.</p>
 <h2 id="causes">What are the Causes of Low oxygen levels?</h2>
 <p>There are various causes of low oxygen levels, ranging from respiratory conditions to heart diseases and environmental factors.</p>
 <ul>

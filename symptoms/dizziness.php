@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dizziness: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Dizziness can be a symptom of heart-related issues. Read more to about its causes, diagnosis, and treatments for effective relief and care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dizziness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/dizziness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/dizziness"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Dizziness: Causes, Treatment, and Symptoms</h1>
-<p>Dizziness is a common condition that can manifest in various forms, affecting individuals of all ages. It is characterized by a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, spinning sensation, balance issues, head spinning, feeling unsteady, and an uncoordinated feeling.</p>
+<p>Dizziness is a common condition that can manifest in various forms, affecting individuals of all ages. It is characterized by a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, spinning sensation, balance issues, head spinning, feeling unsteady, and an uncoordinated feeling.</p>
 <p>Dizziness can be a temporary sensation or a chronic issue, impacting daily activities and quality of life.</p>
 <h2 id="forms">What are the Forms of Dizziness?</h2>
-<p>There are different forms of dizziness, each with unique symptoms and causes. Vertigo is a type of dizziness that causes a spinning sensation, often due to inner ear problems. Lightheadedness is another form characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or woozy.</p>
+<p>There are different forms of dizziness, each with unique symptoms and causes. Vertigo is a type of dizziness that causes a spinning sensation, often due to inner ear problems. Lightheadedness is another form characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or woozy.</p>
 <p>Balance issues can also lead to dizziness, causing a feeling of unsteadiness. Head spinning and feeling unsteady are common experiences associated with dizziness.</p>
 <h2 id="causes">What are the Causes of Dizziness?</h2>
 <p>Dizziness can stem from various underlying factors, including dehydration, heart disease, vertigo, and medication side effects. Dehydration can disrupt the body's fluid balance, leading to dizziness. Heart disease can affect blood flow to the brain, causing lightheadedness.</p>
@@ -201,14 +201,14 @@
 <p>Treatment for dizziness depends on the underlying cause. Medical interventions may include medications to manage symptoms or treat the root cause. Lifestyle changes such as staying hydrated, maintaining proper nutrition, and avoiding triggers can help alleviate dizziness.</p>
 <p>Advanced approaches like vestibular rehabilitation therapy may be recommended for balance issues.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if dizziness is persistent, severe, accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fainting, blurred vision, speech difficulties, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</p>
-<p>Sudden onset of dizziness, especially in older adults, warrants immediate medical evaluation to rule out serious conditions like stroke or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>It is essential to seek medical attention if dizziness is persistent, severe, accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fainting, blurred vision, speech difficulties, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</p>
+<p>Sudden onset of dizziness, especially in older adults, warrants immediate medical evaluation to rule out serious conditions like stroke or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <h2>Home Remedies for Dizziness</h2>
 <p>Home remedies can complement medical treatment and help manage dizziness symptoms. Some effective remedies include staying hydrated, practicing relaxation techniques, avoiding sudden movements, and maintaining a healthy diet.</p>
 <p>It is crucial to rest in a safe environment during dizziness episodes and seek medical advice if symptoms persist or worsen.</p>
 <p>In conclusion, dizziness is a multifaceted condition that can stem from various causes, each requiring specific treatment approaches.</p>
 <p>By understanding the forms, causes, and treatment options for dizziness, individuals can take proactive steps to manage symptoms and improve their overall well-being.</p>
-<p>If experiencing persistent or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness">severe dizziness</a>, it is crucial to consult a healthcare provider for proper evaluation and guidance.</p>
+<p>If experiencing persistent or <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness">severe dizziness</a>, it is crucial to consult a healthcare provider for proper evaluation and guidance.</p>
 <p>
 
                  </p>

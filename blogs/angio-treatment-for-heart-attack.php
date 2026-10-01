@@ -10,12 +10,12 @@
     <meta property="og:title" content="Angio Treatment: Benefits & Risks" />
     <meta property="og:description" content="Explore the advantages and dangers of angio treatment post-heart attack. Discover the facts today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/angio-treatment-for-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/angio-treatment-for-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/angio-treatment-for-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/angio-treatment-for-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Angio Treatment For Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/angio-treatment-for-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/angio-treatment-for-heart-attack"
         }
     ]
 }
@@ -169,12 +169,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Angio Treatment After Heart Attack: Benefits &amp; Risks</h1>
-<p>Are you wondering how angio treatment for <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> can impact your daily life? The fear and uncertainty surrounding heart issues can be overwhelming. Simple tasks like climbing stairs or going for a walk can suddenly become daunting. Understanding the implications of angio treatment is crucial for your recovery and overall well-being.</p>
+<p>Are you wondering how angio treatment for <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> can impact your daily life? The fear and uncertainty surrounding heart issues can be overwhelming. Simple tasks like climbing stairs or going for a walk can suddenly become daunting. Understanding the implications of angio treatment is crucial for your recovery and overall well-being.</p>
 <h2 class="sec-scrl" id="angioplasty-after-heart-attack">Angioplasty After Heart Attack</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> is a common post-heart attack procedure that aims to restore blood flow to the heart by widening narrowed or blocked coronary arteries. During this vascular procedure, a catheter with a balloon at its tip is inserted into the blocked artery. The balloon is inflated to compress the plaque against the artery walls, opening up the vessel and restoring proper blood flow.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> is a common post-heart attack procedure that aims to restore blood flow to the heart by widening narrowed or blocked coronary arteries. During this vascular procedure, a catheter with a balloon at its tip is inserted into the blocked artery. The balloon is inflated to compress the plaque against the artery walls, opening up the vessel and restoring proper blood flow.</p>
 <p>Benefits of Angioplasty:</p>
 <ul>
-<li>Immediate relief of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li>Immediate relief of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Improved blood flow to the heart muscle</li>
 <li>Reduced risk of future heart attacks</li>
 </ul>
@@ -195,7 +195,7 @@
 <li>Lifestyle modifications to reduce cardiovascular risk factors</li>
 </ul>
 <h2 class="sec-scrl" id="benefits-of-angioplasty">Benefits of Angioplasty</h2>
-<p>Angioplasty offers several benefits beyond just improving blood flow to the heart. It can enhance your quality of life by alleviating symptoms like chest pain and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. By restoring proper blood flow, angioplasty can help you regain your energy levels and engage in activities you enjoy without limitations.</p>
+<p>Angioplasty offers several benefits beyond just improving blood flow to the heart. It can enhance your quality of life by alleviating symptoms like chest pain and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. By restoring proper blood flow, angioplasty can help you regain your energy levels and engage in activities you enjoy without limitations.</p>
 <h2 class="sec-scrl" id="risks-of-angio-treatment">Risks of Angio Treatment</h2>
 <p>While angio treatment is generally safe and effective, there are potential risks involved that you should be aware of. Complications such as blood clots, artery damage, or allergic reactions to medications can occur. Understanding these risks and discussing them with your healthcare team can help you make informed decisions about your treatment plan.</p>
 <h2 class="sec-scrl" id="post-heart-attack-procedure">Post-Heart Attack Procedure</h2>

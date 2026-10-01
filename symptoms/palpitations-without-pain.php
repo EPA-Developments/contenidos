@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms, and Treatment for Palpitations without Pain" >
   <meta property="og:description" content="Palpitations without pain can still be linked to heart issues. Read more to understand its symptoms, causes, diagnosis, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-without-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/palpitations-without-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-without-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations-without-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Palpitations Without Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-without-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/palpitations-without-pain"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes, Diagnosis, and Treatment for Palpitations without Pain</h1>
-<p>Palpitations without pain refer to an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or a sensation of the <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a> or racing in the chest without any associated discomfort or pain.</p>
+<p>Palpitations without pain refer to an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or a sensation of the <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a> or racing in the chest without any associated discomfort or pain.</p>
 <p>This condition can be alarming and concerning, but it is often not a sign of a serious underlying medical issue.</p>
 <p>It is common for individuals to experience occasional palpitations without pain, especially during periods of stress, anxiety, or after consuming caffeine or nicotine.</p>
 <p>The symptoms of palpitations without pain may include a fluttering sensation in the chest, a rapid or irregular heartbeat, or a feeling of the heart skipping a beat.</p>
@@ -196,7 +196,7 @@
 <ul>
 <li>Pounding heart without discomfort.</li>
 <li>Heart racing without pain.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> with no <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> with no <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 <li>Irregular heartbeat without pain.</li>
 <li>Heartbeat pounding without pain.</li>
 <li>Fluttering heart without discomfort.</li>
@@ -220,9 +220,9 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Palpitations without pain?</h2>
 <p>Diagnosing palpitations without pain typically involves a thorough medical history review, physical examination, and possibly diagnostic tests such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
 <li>Holter monitor to track the heart's activity over a 24-hour period.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess the heart's structure and function.</li>
 <li>Blood tests to check for underlying conditions such as thyroid disorders or anemia.</li>
 </ul>
 <p>These diagnostic methods can help healthcare providers identify any underlying heart conditions or other factors contributing to palpitations without pain. Based on the findings, appropriate treatment and management strategies can be recommended.</p>
@@ -234,13 +234,13 @@
 <li>Cognitive-behavioral therapy or relaxation techniques to manage stress and anxiety.</li>
 <li>Avoiding triggers that may exacerbate palpitations, such as certain medications or substances.</li>
 </ul>
-<p>In some cases, advanced treatment options such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a> or implantable devices may be recommended for individuals with severe or persistent palpitations without pain.</p>
+<p>In some cases, advanced treatment options such as <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a> or implantable devices may be recommended for individuals with severe or persistent palpitations without pain.</p>
 <p>It is important to work closely with a healthcare provider to determine the most appropriate treatment plan for individual needs.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>While occasional palpitations without pain are usually harmless, there are certain symptoms or situations that warrant medical attention.</p>
 <ul>
 <li>Persistent or frequent palpitations without pain.</li>
-<li>Palpitations accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, lightheadedness, or fainting.</li>
+<li>Palpitations accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, lightheadedness, or fainting.</li>
 <li>Chest pain or discomfort.</li>
 <li>Shortness of breath or difficulty breathing.</li>
 <li>Palpitations that interfere with daily activities or sleep.</li>

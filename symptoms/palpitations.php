@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Palpitations: Causes, Symptoms, and Diagnosis" >
   <meta property="og:description" content="Palpitations are a type of irregular heartbeat that can feel like a skipped or extra beat. Read more about its causes, diagnosis, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Palpitations",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/palpitations"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/palpitations"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Palpitations: Causes,Treatment, and Diagnosis</h1>
-<p>Palpitations refer to the sensation of an irregular or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>. It can feel like your heart is fluttering, racing, pounding, or skipping a beat. This condition often involves an awareness of your heartbeat that may be bothersome or alarming.</p>
+<p>Palpitations refer to the sensation of an irregular or <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>. It can feel like your heart is fluttering, racing, pounding, or skipping a beat. This condition often involves an awareness of your heartbeat that may be bothersome or alarming.</p>
 <p>Palpitations can occur at any time but are commonly experienced after eating, during times of stress or anxiety, or even at night when you are trying to sleep.</p>
 <p>While occasional palpitations are usually harmless, frequent or severe episodes may indicate an underlying heart condition that requires medical attention.</p>
 <h2 id="forms">What are the Forms of Palpitations?</h2>
@@ -200,10 +200,10 @@
 <li>Heart skips: Sensation of a skipped or missed heartbeat.</li>
 <li>Rapid palpitations: Sudden, rapid heartbeats that may be alarming.</li>
 <li>Feeling heartbeat: Being overly conscious of your heart's rhythm throughout the day.</li>
-<li>Palpitations and anxiety: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> triggered by stress or anxiety.</li>
+<li>Palpitations and anxiety: <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> triggered by stress or anxiety.</li>
 <li>Stress palpitations: Heart palpitations exacerbated by emotional or mental stress.</li>
 <li>Palpitations at night: Irregular heartbeats that occur during sleep or when lying down.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: An erratic or inconsistent heartbeat pattern.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: An erratic or inconsistent heartbeat pattern.</li>
 <li>Sudden heart palpitations: Unexpected episodes of palpitations that can be frightening.</li>
 <li>Chest palpitations: Sensation of irregular heartbeats directly in the chest area.</li>
 <li>Fast heartbeat: An abnormally rapid heart rate that may be concerning.</li>
@@ -230,11 +230,11 @@
 <ul>
 <li>Conduct a physical exam to check your heart rate, rhythm, and listen for any abnormalities.</li>
 <li>Review your medical history, including any underlying conditions, medications, and lifestyle habits.</li>
-<li>Perform an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record your heart's electrical activity at rest.</li>
+<li>Perform an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record your heart's electrical activity at rest.</li>
 <li>Recommend a Holter monitor for 24-hour heart rhythm monitoring to capture any irregularities.</li>
 <li>Suggest an event monitor for longer-term heart rhythm monitoring to detect intermittent palpitations.</li>
 <li>Order blood tests to check for thyroid function, electrolyte levels, and other potential causes.</li>
-<li>Refer you for an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess your heart's structure and function.</li>
+<li>Refer you for an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess your heart's structure and function.</li>
 <li>Conduct a stress test to evaluate your heart's response to physical activity.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Palpitations?</h2>
@@ -242,7 +242,7 @@
 <ul>
 <li>Lifestyle changes: Managing stress, staying hydrated, avoiding triggers like caffeine or alcohol.</li>
 <li>Medications: Beta-blockers, calcium channel blockers, or anti-arrhythmic drugs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a>: Electrical shock to restore normal heart rhythm in certain cases.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a>: Electrical shock to restore normal heart rhythm in certain cases.</li>
 <li>Ablation therapy: Using heat or cold energy to destroy abnormal heart tissue causing palpitations.</li>
 <li>Implantable devices: Pacemakers or implantable cardioverter-defibrillators (ICDs) for severe cases.</li>
 <li>Cognitive-behavioral therapy (CBT): Counseling to address anxiety or stress-related palpitations.</li>
@@ -253,7 +253,7 @@
 <p>While occasional palpitations are common and often benign, you should seek medical attention if you experience:</p>
 <ul>
 <li>Severe or persistent palpitations that interfere with daily activities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, shortness of breath, or fainting spells along with palpitations.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, shortness of breath, or fainting spells along with palpitations.</li>
 <li>Palpitations accompanied by other concerning symptoms like sweating or nausea.</li>
 <li>History of heart disease, heart failure, or other cardiac conditions.</li>
 <li>Palpitations that worsen over time or occur with increasing frequency.</li>

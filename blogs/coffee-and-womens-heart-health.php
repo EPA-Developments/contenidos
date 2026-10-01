@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coffee's Impact on Women's Heart Health: A Guide" />
     <meta property="og:description" content="Explore how coffee impacts heart health in women: gender differences, cardiac risks, hormonal effects, and caffeine guidelines." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-womens-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-womens-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-womens-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-womens-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coffee And Womens Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-womens-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coffee-and-womens-heart-health"
         }
     ]
 }
@@ -131,12 +131,12 @@
               <h1>The Impact of Coffee on Women's Heart Health</h1>
 <p>Are you a woman who enjoys starting your day with a steaming cup of coffee? Do you ever wonder how this beloved ritual impacts your heart health, especially considering the unique cardiac risks women face? Let's delve into the effects of coffee on women's heart health and how it influences your daily activities.</p>
 <h2 class="sec-scrl" id="gender-differences">Gender Differences</h2>
-<p>When it comes to heart health, are there notable differences between men and women? Studies show that women may experience heart disease differently from men. For example, women are more likely to have symptoms like nausea, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue during a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> compared to the typical <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> often seen in men. These gender disparities extend to how coffee affects heart health in women.</p>
+<p>When it comes to heart health, are there notable differences between men and women? Studies show that women may experience heart disease differently from men. For example, women are more likely to have symptoms like nausea, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue during a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> compared to the typical <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> often seen in men. These gender disparities extend to how coffee affects heart health in women.</p>
 <p>Research suggests that moderate coffee consumption may have a protective effect on women's hearts. The antioxidants and other bioactive compounds present in coffee could play a role in reducing the risk of heart disease in women. However, excessive coffee intake, like many things, can have adverse effects. It's essential for women to understand their unique cardiac risks and manage their coffee consumption accordingly.</p>
 <h2 class="sec-scrl" id="womens-cardiac-risks">Women's Cardiac Risks</h2>
 <p>What are the specific cardiac risks that women should be aware of? Women face factors such as hormonal fluctuations, pregnancy-related complications, and autoimmune diseases that can impact their heart health. For example, conditions like polycystic ovary syndrome (PCOS) or gestational diabetes can increase the risk of cardiovascular issues in women.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels</li>
 <li>Diabetes and insulin resistance</li>
 <li>Family history of heart disease</li>
 </ul>

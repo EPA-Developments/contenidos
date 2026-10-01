@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Treatment, and Management of Grayish Complexion">
   <meta property="og:description" content="Learn about the causes, treatment, and management of grayish complexion, including its association with heart disease and anemia. Know when to seek help for symptoms of grayish complexion.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/grayish-complexion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/grayish-complexion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/grayish-complexion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/grayish-complexion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Grayish Complexion",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/grayish-complexion"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/grayish-complexion"  
       }]
     }
   </script>
@@ -193,7 +193,7 @@
 <ul>
 <li>Pale skin: Skin appears unusually light or lacking in color.</li>
 <li>Unhealthy skin tone: Skin looks dull, lifeless, and lacking in vitality.</li>
-<li>Ashen face: The face takes on a gray or dull appearance, often indicating <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> or oxygenation.</li>
+<li>Ashen face: The face takes on a gray or dull appearance, often indicating <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> or oxygenation.</li>
 <li>Gray skin: Skin may have a grayish tint, indicating a lack of healthy blood flow or oxygen levels.</li>
 <li>Weak circulation: Poor circulation can lead to a grayish complexion due to reduced blood flow to the skin.</li>
 <li>Fatigue symptoms: Chronic fatigue and exhaustion can contribute to a dull, grayish complexion.</li>

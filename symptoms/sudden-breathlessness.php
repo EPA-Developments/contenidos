@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms, and Treatment of Sudden Breathlessness" >
   <meta property="og:description" content="Sudden Breathlessness could be related to heart failure or other conditions. Know more about its causes and treatment to manage the condition effectively." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-breathlessness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sudden-breathlessness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-breathlessness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-breathlessness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sudden Breathlessness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sudden-breathlessness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sudden-breathlessness"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms, Symptoms, and Treatment of Sudden Breathlessness</h1>
-<p>Sudden breathlessness, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a condition characterized by a sudden onset of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or a feeling of being unable to catch one's breath. It can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>.</p>
-<p>Individuals experiencing sudden breathlessness may feel like they are <a href="https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air">gasping for air</a>, which can be a distressing and alarming sensation.</p>
+<p>Sudden breathlessness, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a condition characterized by a sudden onset of <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or a feeling of being unable to catch one's breath. It can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>.</p>
+<p>Individuals experiencing sudden breathlessness may feel like they are <a href="https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air">gasping for air</a>, which can be a distressing and alarming sensation.</p>
 <h2 id="forms">What are the Forms of Sudden breathlessness?</h2>
 <p>There are various forms of sudden breathlessness, each with specific symptoms and related concepts:</p>
 <ul>
@@ -202,7 +202,7 @@
 <h2 id="causes">What are the Causes of Sudden breathlessness?</h2>
 <p>Sudden breathlessness can be caused by various factors, including:</p>
 <ul>
-<li>Heart disease: Conditions like heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or arrhythmias can lead to sudden breathlessness.</li>
+<li>Heart disease: Conditions like heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or arrhythmias can lead to sudden breathlessness.</li>
 <li>Lung disease: COPD, asthma, pneumonia, or pulmonary embolism can cause sudden breathing difficulties.</li>
 <li>Anemia: Low red blood cell count can result in decreased oxygen delivery to tissues.</li>
 <li>Panic attacks: Intense anxiety can trigger sudden breathlessness.</li>

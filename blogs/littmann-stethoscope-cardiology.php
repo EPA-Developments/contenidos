@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Cardiology Diagnosis with Littmann Stethoscopes" />
     <meta property="og:description" content="Discover how Littmann stethoscopes elevate cardiac diagnosis precision with advanced features." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/littmann-stethoscope-cardiology" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/littmann-stethoscope-cardiology" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/littmann-stethoscope-cardiology" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/littmann-stethoscope-cardiology" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Littmann Stethoscope Cardiology",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/littmann-stethoscope-cardiology"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/littmann-stethoscope-cardiology"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Enhancing Cardiology Diagnosis with Littmann Stethoscopes</h1>
-<p>Are you struggling to hear clear <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> during your cardiology assessments? Do you find it challenging to pinpoint the subtle nuances in your patients' heart rhythms? The right tool can make all the difference. Imagine how precision in heart diagnosis could transform your daily practice, providing you with the confidence to make accurate decisions that impact patient care profoundly.</p>
+<p>Are you struggling to hear clear <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> during your cardiology assessments? Do you find it challenging to pinpoint the subtle nuances in your patients' heart rhythms? The right tool can make all the difference. Imagine how precision in heart diagnosis could transform your daily practice, providing you with the confidence to make accurate decisions that impact patient care profoundly.</p>
 <p>Cardiologists require advanced stethoscope features to ensure accurate cardiac diagnosis. Littmann stethoscopes are renowned for their exceptional quality and innovative technology, specifically designed to meet the demanding needs of cardiovascular specialists. Let's delve into how Littmann stethoscopes can significantly enhance your cardiology practice.</p>
 <h2 class="sec-scrl" id="Littmann stethoscope benefits">Littmann Stethoscope Benefits</h2>
 <p>1. **Superior Sound Clarity**: Littmann stethoscopes are equipped with state-of-the-art sound amplification technology, ensuring unmatched clarity in heart sound detection.</p>
@@ -177,7 +177,7 @@
 <p>3. **Durability and Comfort**: These stethoscopes are not only reliable but also designed for prolonged use, offering comfort during extended patient examinations.</p>
 <h2 class="sec-scrl" id="cardiac diagnosis tools">Cardiac Diagnosis Tools</h2>
 <p>When it comes to diagnosing cardiac conditions, precision is key. Littmann stethoscopes provide cardiologists with the essential tools to detect even the most subtle abnormalities in heart sounds, enabling accurate diagnosis and treatment planning.</p>
-<p>1. **Enhanced Acoustic Sensitivity**: Littmann stethoscopes are engineered to pick up even the faintest heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>, allowing cardiologists to assess cardiac function with unparalleled precision.</p>
+<p>1. **Enhanced Acoustic Sensitivity**: Littmann stethoscopes are engineered to pick up even the faintest heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>, allowing cardiologists to assess cardiac function with unparalleled precision.</p>
 <p>2. **Dual-Lumen Tubing**: The dual-lumen design of Littmann stethoscopes eliminates rubbing noises, ensuring clear auscultation and accurate interpretation of heart sounds.</p>
 <h2 class="sec-scrl" id="advanced stethoscope features">Advanced Stethoscope Features</h2>
 <p>What advanced features set Littmann stethoscopes apart from traditional models?</p>

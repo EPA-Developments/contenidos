@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Nathalie Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Nathalie Syndrome causes heart and skeletal abnormalities. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/nathalie-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/nathalie-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/nathalie-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/nathalie-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Nathalie Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/nathalie-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/nathalie-syndrome"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Nathalie Syndrome</h1>
-<p>Nathalie Syndrome, a rare heart condition, involves abnormal heart rhythms that can be life-threatening. It's crucial to understand its signs and seek medical help promptly. While its prevalence is low, early detection is vital for effective management. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fainting, don't ignore them. Stay informed about Nathalie Syndrome and consult a healthcare provider if you have concerns about your heart health. Your well-being is important, so prioritize seeking help and staying informed.</p>
+<p>Nathalie Syndrome, a rare heart condition, involves abnormal heart rhythms that can be life-threatening. It's crucial to understand its signs and seek medical help promptly. While its prevalence is low, early detection is vital for effective management. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fainting, don't ignore them. Stay informed about Nathalie Syndrome and consult a healthcare provider if you have concerns about your heart health. Your well-being is important, so prioritize seeking help and staying informed.</p>
 <h2 id="causes">Causes of Nathalie Syndrome</h2>
 <p>Nathalie Syndrome can develop due to various factors that affect the heart's functioning. These include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
 <li>Obesity</li>
 <li>Diabetes</li>
@@ -176,9 +176,9 @@
 <p>Nathalie Syndrome is a rare but serious condition that requires prompt recognition for better outcomes. Detecting symptoms early can lead to timely intervention and improved prognosis. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Extreme fatigue</li>
 <li>Swelling in the legs or abdomen</li>
 </ul></p>
@@ -189,7 +189,7 @@
 <li>Thorough physical examination</li>
 <li>Review of medical history</li>
 <li>Blood tests to assess biomarkers</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
 <li>Echocardiogram to assess cardiac structure and function</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>
 </ul></p>

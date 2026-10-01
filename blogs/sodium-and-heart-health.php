@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sodium and Heart Health: Key Insights&quot;" />
     <meta property="og:description" content="Explore how sodium impacts heart health. Learn about sodium intake, cardiovascular health, hypertension, and sodium balance." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-heart-health"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Sodium on Heart Health</h1>
 <p>Are you aware of how sodium intake can impact your heart health? Sodium plays a crucial role in various bodily functions, but too much of it can lead to detrimental effects on your cardiovascular system. From the salt added to your meals to processed foods, sodium is present in many everyday foods. How does this common ingredient affect your heart's well-being and what can you do to maintain a healthy sodium balance?</p>
 <h2 class="sec-scrl" id="sodium-intake">The Impact of Sodium Intake on Heart Health</h2>
-<p>Excessive sodium intake is linked to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease. When you consume too much sodium, your body retains water to dilute the excess sodium in your bloodstream. This increased fluid volume puts added pressure on your heart and blood vessels, leading to elevated blood pressure levels.</p>
+<p>Excessive sodium intake is linked to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease. When you consume too much sodium, your body retains water to dilute the excess sodium in your bloodstream. This increased fluid volume puts added pressure on your heart and blood vessels, leading to elevated blood pressure levels.</p>
 <p>Reducing your sodium intake is crucial in managing your blood pressure and promoting overall cardiovascular health. The recommended daily allowance for sodium intake is around 2300 milligrams, but the average adult consumes far more than this amount. By being mindful of your sodium consumption, you can take proactive steps to protect your heart.</p>
 <h2 class="sec-scrl" id="cardiovascular-health">Maintaining Cardiovascular Health Through Sodium Balance</h2>
 <p>How does sodium balance impact your cardiovascular health? Sodium is an essential electrolyte that helps regulate fluid balance in the body. However, an imbalance in sodium levels can disrupt this delicate equilibrium and affect your heart function.</p>
@@ -141,7 +141,7 @@
 <li>By monitoring your sodium intake and ensuring a proper balance, you can support optimal heart function and maintain cardiovascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="hypertension">The Link Between Sodium and Hypertension</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or high blood pressure, is a common condition that can significantly impact your heart health. Sodium plays a key role in the development and management of hypertension, making it essential to pay attention to your sodium intake levels.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or high blood pressure, is a common condition that can significantly impact your heart health. Sodium plays a key role in the development and management of hypertension, making it essential to pay attention to your sodium intake levels.</p>
 <p>Individuals with hypertension are often advised to follow a low-sodium diet to help control their blood pressure. By reducing salt intake and choosing fresh, whole foods over processed options, you can lower your sodium consumption and support better blood pressure management.</p>
 <h2 class="sec-scrl" id="sodium-balance">Maintaining Optimal Sodium Balance for Heart Health</h2>
 <p>How can you ensure that your body maintains the right sodium balance for heart health? One effective strategy is to read food labels carefully and choose low-sodium or sodium-free options whenever possible. Additionally, cooking meals at home allows you to control the amount of salt added to your dishes.</p>

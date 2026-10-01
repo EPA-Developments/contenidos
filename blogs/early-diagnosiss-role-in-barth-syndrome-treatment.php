@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Early Diagnosis's Role in Barth Syndrome Treatment: A Comprehensive Overview">
   <meta property="og:description" content="Learn about the importance of early diagnosis in Barth Syndrome treatment. Discover how early detection can improve outcomes for Barth Syndrome patients.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/early-diagnosiss-role-in-barth-syndrome-treatment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/early-diagnosiss-role-in-barth-syndrome-treatment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/early-diagnosiss-role-in-barth-syndrome-treatment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/early-diagnosiss-role-in-barth-syndrome-treatment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Barth Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/early-diagnosiss-role-in-barth-syndrome-treatment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/early-diagnosiss-role-in-barth-syndrome-treatment"  
       }]
     }
   </script>

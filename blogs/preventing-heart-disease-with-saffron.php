@@ -10,12 +10,12 @@
     <meta property="og:title" content="Saffron for Heart Health: Benefits Revealed" />
     <meta property="og:description" content="Explore how saffron can help prevent heart disease naturally. Learn about its cardiovascular benefits and protective properties." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-saffron" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-saffron" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-saffron" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-saffron" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Preventing Heart Disease With Saffron",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-saffron"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-saffron"
         }
     ]
 }
@@ -135,12 +135,12 @@
 <p>Saffron contains compounds that may help promote arterial health by supporting healthy blood flow and circulation. The antioxidants present in saffron can help reduce inflammation in the arteries, potentially lowering the risk of cardiovascular issues.</p>
 <p>Additionally, saffron may aid in maintaining the flexibility of blood vessels, which is crucial for overall heart health. By incorporating saffron into your diet or daily supplement routine, you could be taking a proactive step in supporting your arterial health and reducing the risk of heart-related complications.</p>
 <h2 class="sec-scrl" id="lipid-oxidation">Lipid Oxidation</h2>
-<p>One of the key factors in heart disease prevention is reducing lipid oxidation, which can lead to the formation of plaques in arteries. Saffron's natural compounds have been studied for their potential to combat lipid oxidation and protect against the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>One of the key factors in heart disease prevention is reducing lipid oxidation, which can lead to the formation of plaques in arteries. Saffron's natural compounds have been studied for their potential to combat lipid oxidation and protect against the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>By incorporating saffron into your cooking or as a supplement, you may help inhibit lipid oxidation processes, thereby reducing the buildup of harmful plaques that can contribute to heart disease. This simple addition to your daily routine could have profound effects on your heart health in the long run.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
 <p>Can saffron be a valuable ally in the prevention of heart disease? Research suggests that saffron's antioxidant properties may play a crucial role in protecting the heart from oxidative damage and inflammation, both of which are significant contributors to heart disease.</p>
 <ul>
-<li>Saffron's anti-inflammatory effects could help reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and related complications.</li>
+<li>Saffron's anti-inflammatory effects could help reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and related complications.</li>
 <li>By combating oxidative stress, saffron may help prevent cell damage in the heart and improve overall cardiac function.</li>
 </ul>
 <p>Integrating saffron into your diet or wellness routine could be a proactive step in safeguarding your heart health and reducing the likelihood of developing heart disease in the future.</p>

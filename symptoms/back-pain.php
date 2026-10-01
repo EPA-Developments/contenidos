@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Back Pain: Causes, Symptoms, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing back pain? Learn about causes, treatment, and when to seek help for symptoms like back pain and heart disease or sciatica. Manage and find relief.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Back Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/back-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/back-pain"  
       }]
     }
   </script>
@@ -192,7 +192,7 @@
 <h2 id="forms">What are the Forms of Back pain?</h2>
 <p>Lower back pain is one of the most common forms of back pain, affecting the lumbar region of the spine. Symptoms may include aching or stiffness in the lower back, shooting pain down the leg, or difficulty standing up straight.</p>
 <p>Upper back discomfort typically affects the area between the shoulders and can be caused by poor posture, muscle strain, or injury. Symptoms may include pain between the shoulder blades, muscle tightness, or limited range of motion.</p>
-<p>Spinal pain can affect any part of the spine and may be caused by conditions such as arthritis, osteoporosis, or herniated discs. Symptoms may include localized pain, numbness or tingling in the extremities, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the muscles.</p>
+<p>Spinal pain can affect any part of the spine and may be caused by conditions such as arthritis, osteoporosis, or herniated discs. Symptoms may include localized pain, numbness or tingling in the extremities, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the muscles.</p>
 <h2 id="causes">What are the Causes of Back pain?</h2>
 <p>Muscle strain in the back is a common cause of back pain, often resulting from lifting heavy objects, sudden movements, or poor posture. When the muscles are overworked or strained, it can lead to pain and discomfort in the back.</p>
 <p>Other causes of back pain may include herniated discs, arthritis, osteoporosis, spinal stenosis, or skeletal irregularities. These conditions can put pressure on the nerves or spinal cord, leading to pain and discomfort in the back.</p>

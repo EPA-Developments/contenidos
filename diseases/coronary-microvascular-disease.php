@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Microvascular Disease: Symptoms and Treatment" >
   <meta property="og:description" content="Coronary Microvascular Disease affects tiny heart vessels, reducing blood supply. Read more about its symptoms, causes, and treatment for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-microvascular-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-microvascular-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-microvascular-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-microvascular-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Coronary Microvascular Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-microvascular-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-microvascular-disease"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Coronary Microvascular Disease</h1>
-<p>Coronary Microvascular Disease affects the tiny arteries in the heart, leading to decreased blood flow. Though not as well-known as traditional heart disease, it's significant as it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. Surprisingly, it's quite common, affecting millions of people worldwide. Despite its prevalence, many are unaware of this condition. It's essential to recognize the symptoms and seek medical advice promptly to manage this condition effectively and prevent complications.</p>
+<p>Coronary Microvascular Disease affects the tiny arteries in the heart, leading to decreased blood flow. Though not as well-known as traditional heart disease, it's significant as it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. Surprisingly, it's quite common, affecting millions of people worldwide. Despite its prevalence, many are unaware of this condition. It's essential to recognize the symptoms and seek medical advice promptly to manage this condition effectively and prevent complications.</p>
 <h2 id="causes">Causes of Coronary Microvascular Disease</h2>
 <p>Coronary Microvascular Disease can develop due to various factors such as:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Diabetes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
 <li>Being overweight or obese</li>
 <li>Physical inactivity</li>
@@ -182,9 +182,9 @@
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they worsen with physical activity or stress, it's important to seek medical attention promptly. Early detection and management of CMD can help prevent further damage to the heart and improve your quality of life.</p>

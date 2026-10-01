@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Eggs for Hypertension: Heart Health Boost&quot;" />
     <meta property="og:description" content="Discover how eggs can benefit heart health and manage hypertension effectively. Learn more about the impact of eggs on blood pressure and overall heart function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/eggs-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/eggs-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/eggs-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/eggs-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Eggs For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/eggs-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/eggs-for-hypertension"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Eggs for Hypertension: Heart Health Benefits</h1>
-<p>Do you struggle with managing your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> while still enjoying your favorite foods? Are you looking for a delicious and heart-healthy option to include in your diet? Eggs could be the answer you've been searching for. Let's explore how incorporating eggs into your meals can benefit your heart health and help you maintain a healthy blood pressure level, allowing you to go about your daily activities with ease.</p>
+<p>Do you struggle with managing your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> while still enjoying your favorite foods? Are you looking for a delicious and heart-healthy option to include in your diet? Eggs could be the answer you've been searching for. Let's explore how incorporating eggs into your meals can benefit your heart health and help you maintain a healthy blood pressure level, allowing you to go about your daily activities with ease.</p>
 <h2 class="sec-scrl" id="eggs-for-hypertension">Eggs for Hypertension</h2>
-<p>When it comes to managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, the focus is often on reducing sodium intake and increasing potassium-rich foods in the diet. Eggs, a nutrient-dense food, can play a significant role in supporting heart health and regulating blood pressure levels.</p>
+<p>When it comes to managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, the focus is often on reducing sodium intake and increasing potassium-rich foods in the diet. Eggs, a nutrient-dense food, can play a significant role in supporting heart health and regulating blood pressure levels.</p>
 <p>Eggs are a good source of protein, which is essential for maintaining muscle mass and overall health. Including eggs in your diet can help you feel full and satisfied, reducing the temptation to reach for unhealthy snacks that may be high in salt and detrimental to your blood pressure.</p>
 <ul>
 <li>Rich in essential vitamins and minerals</li>

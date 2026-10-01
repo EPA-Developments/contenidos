@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tamarind for Heart Arrhythmia: Benefits and Effects" />
     <meta property="og:description" content="Explore how tamarind influences heart rhythm and arrhythmias for better cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-arrhythmia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-arrhythmia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-arrhythmia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-arrhythmia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamarind For Heart Arrhythmia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-arrhythmia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-arrhythmia"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Tamarind on Heart Rhythm</h1>
-<p>Are you struggling with heart arrhythmia and looking for a natural way to support your heart rhythm? The effect of tamarind on heart rhythm and arrhythmias might just be the solution you need. Heart arrhythmias can disrupt your daily activities, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue. Understanding how tamarind can potentially help regulate your heart rhythm is crucial for managing this condition effectively.</p>
+<p>Are you struggling with heart arrhythmia and looking for a natural way to support your heart rhythm? The effect of tamarind on heart rhythm and arrhythmias might just be the solution you need. Heart arrhythmias can disrupt your daily activities, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue. Understanding how tamarind can potentially help regulate your heart rhythm is crucial for managing this condition effectively.</p>
 <h2 class="sec-scrl" id="heart-rhythm-regulation">Heart Rhythm Regulation</h2>
 <p>Heart rhythm regulation is essential for maintaining a healthy cardiovascular system. Tamarind, a tropical fruit rich in antioxidants and anti-inflammatory compounds, has been studied for its potential benefits in supporting heart function. The high levels of potassium in tamarind can help stabilize heart rate and promote normal heart rhythm.</p>
 <ul>
@@ -149,7 +149,7 @@
 <li>Tamarind's ability to support healthy blood pressure levels can contribute to maintaining a stable heart rhythm.</li>
 </ul>
 <h2 class="sec-scrl" id="tamarind-for-tachycardia">Tamarind for Tachycardia</h2>
-<p>Is tamarind effective for managing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>? Tachycardia, a condition characterized by a rapid heart rate, can benefit from the heart-protective properties of tamarind:</p>
+<p>Is tamarind effective for managing <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>? Tachycardia, a condition characterized by a rapid heart rate, can benefit from the heart-protective properties of tamarind:</p>
 <ul>
 <li>Tamarind's antioxidant content can help reduce oxidative stress on the heart, potentially alleviating tachycardia symptoms.</li>
 <li>Consuming tamarind regularly may support overall cardiovascular function, reducing the likelihood of tachycardia episodes.</li>

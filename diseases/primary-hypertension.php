@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Primary Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Primary hypertension is a type of high blood pressure that develops gradually over time. Read more about its symptoms, causes, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/primary-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/primary-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/primary-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/primary-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Primary Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/primary-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/primary-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Primary Hypertension</h1>
-<p>Primary hypertension, also known as essential <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> with no identifiable cause. It's significant because it can lead to serious health issues like heart disease and stroke if left untreated. This condition is prevalent, affecting a large number of adults worldwide. Lifestyle factors such as diet, exercise, and stress can contribute to its development. Regular blood pressure monitoring and adopting a healthy lifestyle are crucial in managing primary hypertension effectively. It's essential to work closely with healthcare providers to keep blood pressure under control.</p>
+<p>Primary hypertension, also known as essential <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> with no identifiable cause. It's significant because it can lead to serious health issues like heart disease and stroke if left untreated. This condition is prevalent, affecting a large number of adults worldwide. Lifestyle factors such as diet, exercise, and stress can contribute to its development. Regular blood pressure monitoring and adopting a healthy lifestyle are crucial in managing primary hypertension effectively. It's essential to work closely with healthcare providers to keep blood pressure under control.</p>
 <h2 id="causes">Causes of Primary Hypertension</h2>
 <p><h3>Main Factors Contributing to Primary Hypertension:</h3>
 <ul>
@@ -176,9 +176,9 @@
 
 <ul>
 <li>Headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Fatigue</li>
 </ul> 
 
@@ -191,8 +191,8 @@ If you experience any of these symptoms, especially in combination, it is import
 <li>Blood pressure measurements</li>
 <li>Blood tests to check for cholesterol and glucose levels</li>
 <li>Urinalysis</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Primary Hypertension</h2>
 <p>When it comes to treating Primary Hypertension, a personalized approach is crucial for effective management. Tailoring treatment to each individual's needs can lead to better outcomes and improved blood pressure control. 

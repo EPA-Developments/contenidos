@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Maze Surgery for Heart Disease: What to Expect">
   <meta property="og:description" content="Discover what occurs during Maze surgery for heart disease. Learn how this procedure helps restore normal heart rhythm.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/maze-surgery-heart-disease-expectations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/maze-surgery-heart-disease-expectations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/maze-surgery-heart-disease-expectations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/maze-surgery-heart-disease-expectations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Maze Surgery For Heart Disease: What To Expect",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/maze-surgery-heart-disease-expectationst"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/maze-surgery-heart-disease-expectationst"  
       }]
     }
   </script>

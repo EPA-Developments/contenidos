@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Whey Protein Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Explore how whey protein affects cardiac function, heart strength, and exercise performance. Uncover the benefits for cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiac-function" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiac-function" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiac-function" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiac-function" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Cardiac Function",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiac-function"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiac-function"
         }
     ]
 }

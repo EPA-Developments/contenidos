@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="What Is Open Heart Surgery? Learn Why It's Necessary">
   <meta property="og:description" content="Learn what open heart surgery is, why it is necessary, and how it can save lives. Find out more about what is open heart surgery in this informative guide.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-learn-why-its-necessary">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-learn-why-its-necessary">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-learn-why-its-necessary" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-learn-why-its-necessary" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "What Is Open Heart Surgery? Learn Why It'S Necessary",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-learn-why-its-necessary"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-learn-why-its-necessary"  
       }]
     }
   </script>

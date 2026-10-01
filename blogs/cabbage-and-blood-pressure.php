@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cabbage for Lowering Blood Pressure Naturally&quot;" />
     <meta property="og:description" content="Learn how cabbage can help manage high blood pressure naturally. Discover the benefits of this nutrient-rich vegetable today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cabbage And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Managing High Blood Pressure with Cabbage</h1>
-<p>Are you struggling to control your blood pressure levels? Does the thought of managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> feel overwhelming? The good news is that incorporating cabbage into your diet may offer a natural solution to help lower your blood pressure and improve your overall health. Let's explore the benefits of cabbage for managing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and how it can positively impact your daily life.</p>
+<p>Are you struggling to control your blood pressure levels? Does the thought of managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> feel overwhelming? The good news is that incorporating cabbage into your diet may offer a natural solution to help lower your blood pressure and improve your overall health. Let's explore the benefits of cabbage for managing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and how it can positively impact your daily life.</p>
 <h2 class="sec-scrl" id="cabbage-and-blood-pressure">Cabbage and Blood Pressure</h2>
 <p>Cabbage, a nutrient-dense vegetable, is a powerhouse when it comes to promoting heart health and reducing the risk of hypertension. This humble vegetable is packed with essential nutrients that can play a significant role in managing high blood pressure. Here's how cabbage can benefit your blood pressure levels:</p>
 <ul>
@@ -146,7 +146,7 @@
 <h2 class="sec-scrl" id="potassium-rich-foods">Potassium-Rich Foods: Key to Blood Pressure Reduction</h2>
 <p>When it comes to lowering blood pressure, increasing your potassium intake is essential. Potassium-rich foods like cabbage can help maintain healthy blood pressure levels. Here's how potassium contributes to blood pressure reduction:</p>
 <ul>
-<li><strong>Regulates Fluid Balance:</strong> Potassium helps the body balance sodium levels and regulate <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a>, which can impact blood pressure.</li>
+<li><strong>Regulates Fluid Balance:</strong> Potassium helps the body balance sodium levels and regulate <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a>, which can impact blood pressure.</li>
 <li><strong>Relaxes Blood Vessels:</strong> Adequate potassium intake relaxes blood vessels, promoting smooth blood flow and reducing strain on the cardiovascular system.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure-reduction">Natural Remedies for Hypertension: The Power of Cabbage</h2>

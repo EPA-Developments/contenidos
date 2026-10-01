@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, Costs and Levels of Cardiac Event Monitor:" property="og:title"/>
 <meta content="Cardiac event monitor records heart activity over time. Read more about its purpose, costs, and normal Range for tracking heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-event-monitor" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-event-monitor" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-event-monitor" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-event-monitor" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Event Monitor",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-event-monitor"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-event-monitor"  
       }]
     }
   </script>
@@ -165,7 +165,7 @@
 <h2 id="purpose">What is the Purpose of Performing a Cardiac Event Monitor Test?</h2>
 <p>The primary purpose of performing a cardiac event monitor test is to detect and diagnose arrhythmias or abnormal heart rhythms that may occur intermittently.</p>
 <p>These arrhythmias can be challenging to capture during a standard ECG test, making event monitors essential for tracking such irregularities.</p>
-<p>Cardiac event monitors are particularly useful in identifying conditions like atrial fibrillation, ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>, and other abnormal heart rhythms. By continuously monitoring the heart's electrical activity, these devices help healthcare providers make accurate diagnoses and develop appropriate treatment plans.</p>
+<p>Cardiac event monitors are particularly useful in identifying conditions like atrial fibrillation, ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>, and other abnormal heart rhythms. By continuously monitoring the heart's electrical activity, these devices help healthcare providers make accurate diagnoses and develop appropriate treatment plans.</p>
 <p>The benefits of using cardiac event monitors include the ability to track heart activity over an extended period, allowing for the detection of intermittent arrhythmias.</p>
 <p>These monitors also provide valuable data that can help in assessing the effectiveness of medications or other interventions in managing cardiac conditions.</p>
 <h2 id="costs">What are the Costs of Cardiac Event Monitor Tests in Americas?</h2>

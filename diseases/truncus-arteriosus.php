@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Truncus Arteriosus: Causes, Symptoms & Treatment">
   <meta property="og:description" content="Truncus Arteriosus is a rare heart defect affecting blood circulation. Know more about its causes, symptoms, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/truncus-arteriosus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/truncus-arteriosus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/truncus-arteriosus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/truncus-arteriosus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Truncus Arteriosus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/truncus-arteriosus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/truncus-arteriosus"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>This condition, occurring during fetal development, leads to mixing of oxygen-rich and oxygen-poor blood. It is a significant condition due to its impact on heart function and overall health.</p>
 <p>Truncus arteriosus accounts for about 1-3% of all congenital heart defects, affecting approximately 1 in 10,000 live births.</p>
 <p>The essential functions affected by truncus arteriosus include oxygenation of the blood, circulation of blood to the body, and separation of oxygen-rich and oxygen-poor blood. In untreated cases, both short-term and long-term health risks are considerable.</p>
-<p>Short-term risks include <a href="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure">congestive heart failure</a>, respiratory distress, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin). Long-term risks involve <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, arrhythmias, and heart failure.</p>
+<p>Short-term risks include <a href="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure">congestive heart failure</a>, respiratory distress, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin). Long-term risks involve <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, arrhythmias, and heart failure.</p>
 <p>One challenging aspect of truncus arteriosus is its asymptomatic nature in the early stages, making it crucial to emphasize the importance of early detection through regular screenings.</p>
 <p>Timely diagnosis and intervention can significantly improve outcomes and prevent complications associated with untreated truncus arteriosus.</p>
 <h2 id="causes">Causes of Truncus Arteriosus</h2>
@@ -185,20 +185,20 @@
 <p>Symptoms of truncus arteriosus can vary depending on the severity of the defect and the age of onset.</p>
 <ul>
 <li>Cyanosis: Bluish discoloration of the skin due to decreased oxygen levels in the blood.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>: Increased respiratory rate due to inefficient oxygenation of the blood.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>: Increased respiratory rate due to inefficient oxygenation of the blood.</li>
 <li>Poor Feeding: Difficulty in feeding or inadequate weight gain in infants.</li>
 </ul>
 <p>These early symptoms can impact daily activities and energy levels, leading to feeding difficulties, respiratory distress, and poor growth.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a>: Abnormal <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> indicating turbulent blood flow.</li>
-<li>Fatigue: Persistent tiredness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> due to decreased cardiac output.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a>: Abnormal <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> indicating turbulent blood flow.</li>
+<li>Fatigue: Persistent tiredness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> due to decreased cardiac output.</li>
 <li>Recurrent Infections: Increased susceptibility to infections due to compromised circulation.</li>
 </ul>
 <p>Advanced symptoms can significantly affect physical well-being and emotional health, leading to reduced exercise tolerance, frequent hospitalizations, and emotional distress related to chronic illness.</p>
 <h2>Diagnosis of Truncus Arteriosus</h2>
 <p>Diagnosing truncus arteriosus involves a multi-step approach to assess heart structure and function accurately. Various diagnostic tests are utilized to confirm the presence of truncus arteriosus and determine the severity of the defect.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This non-invasive imaging test uses sound waves to create detailed images of the heart's structures and blood flow. It is a primary tool for diagnosing truncus arteriosus and assessing the anatomy of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This non-invasive imaging test uses sound waves to create detailed images of the heart's structures and blood flow. It is a primary tool for diagnosing truncus arteriosus and assessing the anatomy of the heart.</li>
 <li>Cardiac Catheterization: In this procedure, a thin tube is inserted into a blood vessel and guided to the heart to measure pressures and obtain detailed information about the heart's function. It helps evaluate the severity of truncus arteriosus and plan for treatment.</li>
 <li>MRI or CT Scan: These imaging tests provide detailed cross-sectional images of the heart and blood vessels, aiding in the visualization of the truncus arteriosus anatomy and the presence of any associated abnormalities.</li>
 <li>Electrocardiogram (ECG): An ECG measures the heart's electrical activity and can detect abnormal rhythms or conduction delays associated with truncus arteriosus. It helps assess the heart's function and identify any arrhythmias.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Venous Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pulmonary venous hypertension is high pressure in veins. Read more about its causes, symptoms, and treatment for better lung function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-venous-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-venous-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-venous-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-venous-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulmonary Venous Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-venous-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-venous-hypertension"
       }]
     }
   </script>
@@ -161,16 +161,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Pulmonary Venous Hypertension</h1>
-<p>Pulmonary venous hypertension occurs when there is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the veins that carry oxygen-rich blood from the lungs back to the heart. This condition is significant as it can lead to heart failure and other serious complications. Although less common than other types of <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, it is essential to diagnose and manage it promptly. While precise prevalence figures are not readily available, this condition is seen in individuals with certain heart and lung diseases. Seeking medical attention for proper evaluation and treatment is crucial.</p>
+<p>Pulmonary venous hypertension occurs when there is <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the veins that carry oxygen-rich blood from the lungs back to the heart. This condition is significant as it can lead to heart failure and other serious complications. Although less common than other types of <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, it is essential to diagnose and manage it promptly. While precise prevalence figures are not readily available, this condition is seen in individuals with certain heart and lung diseases. Seeking medical attention for proper evaluation and treatment is crucial.</p>
 <h2 id="causes">Causes of Pulmonary Venous Hypertension</h2>
-<p>Pulmonary Venous Hypertension can stem from various factors. These include conditions like left-sided heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-disease">mitral valve disease</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-vein-stenosis">pulmonary vein stenosis</a>, or pulmonary veno-occlusive disease. Other contributors are left atrial tumors or clots, chronic lung diseases, or high altitude exposure. Additionally, factors like certain medications, pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>, or congenital heart defects can also play a role. Remember, early detection and management of these underlying conditions are crucial in preventing the progression of Pulmonary Venous Hypertension.<ul><li>Left-sided heart failure</li><li>Mitral valve disease</li><li>Pulmonary vein stenosis</li><li>Pulmonary veno-occlusive disease</li><li>Left atrial tumors or clots</li><li>Chronic lung diseases</li><li>High altitude exposure</li><li>Certain medications</li><li>Pulmonary embolism</li><li>Congenital heart defects</li></ul></p>
+<p>Pulmonary Venous Hypertension can stem from various factors. These include conditions like left-sided heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-disease">mitral valve disease</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-vein-stenosis">pulmonary vein stenosis</a>, or pulmonary veno-occlusive disease. Other contributors are left atrial tumors or clots, chronic lung diseases, or high altitude exposure. Additionally, factors like certain medications, pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>, or congenital heart defects can also play a role. Remember, early detection and management of these underlying conditions are crucial in preventing the progression of Pulmonary Venous Hypertension.<ul><li>Left-sided heart failure</li><li>Mitral valve disease</li><li>Pulmonary vein stenosis</li><li>Pulmonary veno-occlusive disease</li><li>Left atrial tumors or clots</li><li>Chronic lung diseases</li><li>High altitude exposure</li><li>Certain medications</li><li>Pulmonary embolism</li><li>Congenital heart defects</li></ul></p>
 <h2 id="symptoms">Symptoms of Pulmonary Venous Hypertension</h2>
 <p>Recognizing the symptoms of Pulmonary Venous Hypertension (PVH) is crucial as early detection can significantly improve outcomes. Common symptoms of PVH include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical activity</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Swelling in the legs or abdomen</li>
 <li>Rapid or irregular heartbeat</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Omega 3 for Heart: Vital Heart Health Benefits" />
     <meta property="og:description" content="Discover the crucial role of Omega3 for heart health. Learn how fish oil and flaxseed oil can benefit heart function and prevent heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-for-heart"
         }
     ]
 }
@@ -144,7 +144,7 @@
 <p>Key benefits of fish oil for heart health:</p>
 <ul>
 <li>Reduces inflammation in the body, protecting the heart from damage.</li>
-<li>Lowers triglyceride levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Lowers triglyceride levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Supports healthy blood pressure levels, promoting overall cardiovascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-prevention">Can Omega 3 Help Prevent Heart Disease?</h2>
@@ -160,7 +160,7 @@
 <p>Benefits of flaxseed oil for heart health:</p>
 <ul>
 <li>Rich in ALA, a precursor to EPA and DHA, essential for heart health.</li>
-<li>Helps lower blood pressure and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Helps lower blood pressure and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Supports optimal heart function by reducing oxidative stress and inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

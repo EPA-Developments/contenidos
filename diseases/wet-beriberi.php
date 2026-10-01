@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Wet Beriberi: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Wet Beriberi, a severe form of thiamine deficiency causing heart failure. Discover symptoms, causes, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/wet-beriberi">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/wet-beriberi">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/wet-beriberi" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/wet-beriberi" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Wet Beriberi",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/wet-beriberi"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/wet-beriberi"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Wet Beriberi: Symptoms, Causes, and Treatment</h1>
-<p>Wet beriberi is a serious condition caused by a deficiency in vitamin B1 (thiamine). It primarily affects the cardiovascular system, leading to symptoms like rapid heart rate, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and swelling in the lower extremities. This condition is significant as it can result in heart failure if left untreated. Wet beriberi is more prevalent in regions where malnutrition is common, particularly in populations that rely heavily on polished rice as a dietary staple. Early recognition and treatment are crucial to prevent complications and improve outcomes.</p>
+<p>Wet beriberi is a serious condition caused by a deficiency in vitamin B1 (thiamine). It primarily affects the cardiovascular system, leading to symptoms like rapid heart rate, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and swelling in the lower extremities. This condition is significant as it can result in heart failure if left untreated. Wet beriberi is more prevalent in regions where malnutrition is common, particularly in populations that rely heavily on polished rice as a dietary staple. Early recognition and treatment are crucial to prevent complications and improve outcomes.</p>
 <h2 id="causes">Causes of Wet Beriberi</h2>
 <p><h3>Main Factors Contributing to the Development of Wet Beriberi:</h3>
 <ul>
@@ -178,7 +178,7 @@
 <li>Shortness of breath</li>
 <li>Rapid heart rate</li>
 <li>Swelling in the lower extremities</li>
-<li>Cardiomegaly (<a href="https://plataforma.epa-bienestar.com.ar/diseases/enlarged-heart">enlarged heart</a>)</li>
+<li>Cardiomegaly (<a href="https://contenidos.segundaopinionmedica.org/diseases/enlarged-heart">enlarged heart</a>)</li>
 <li>Increased cardiac output</li>
 </ul>
 
@@ -187,10 +187,10 @@ Early identification of these symptoms can lead to prompt treatment and manageme
 <p>Wet Beriberi is a severe form of thiamine (vitamin B1) deficiency that affects the cardiovascular system. Accurate diagnosis is crucial to prevent complications like heart failure. The diagnostic process typically involves a combination of clinical assessment, laboratory tests, and imaging studies. 
 
 <ul>
-<li>Physical examination to assess symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, shortness of breath, and swelling</li>
+<li>Physical examination to assess symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, shortness of breath, and swelling</li>
 <li>Blood tests to measure thiamine levels and check for specific biomarkers</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function and detect abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function and detect abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
 <li>Thiamine therapy trial to confirm diagnosis and monitor response</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Wet Beriberi</h2>

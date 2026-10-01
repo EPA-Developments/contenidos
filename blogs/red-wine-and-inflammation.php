@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Power of Red Wine for Heart Health" />
     <meta property="og:description" content="Explore the impact of red wine on heart inflammation and blood vessel health in combating cardiovascular inflammation." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-inflammation"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Red Wine on Heart Inflammation</h1>
 <p>Are you curious about how red wine impacts inflammation in your heart? Does the idea of a glass of red wine potentially affecting your heart health intrigue you? Let's dive into the relationship between red wine and inflammation, addressing how it may influence your daily activities and overall well-being.</p>
 <h2 class="sec-scrl" id="inflammatory-response">The Inflammatory Response and Heart Health</h2>
-<p>When it comes to <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a>, the body's inflammatory response plays a crucial role. Inflammation is the body's natural defense mechanism against harmful stimuli, infections, and injuries. However, chronic inflammation can negatively impact heart health, leading to conditions such as heart disease.</p>
+<p>When it comes to <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a>, the body's inflammatory response plays a crucial role. Inflammation is the body's natural defense mechanism against harmful stimuli, infections, and injuries. However, chronic inflammation can negatively impact heart health, leading to conditions such as heart disease.</p>
 <p>Red wine contains compounds like flavonoids that have anti-inflammatory effects. These flavonoids help reduce inflammation in the body, potentially benefiting heart health by counteracting the inflammatory response that could contribute to heart inflammation.</p>
 <h2 class="sec-scrl" id="flavonoids">The Power of Flavonoids in Red Wine</h2>
 <p>Flavonoids are a type of antioxidant found in various plant-based foods, including grapes. Red wine, made from dark-colored grapes, is a rich source of these beneficial compounds. Flavonoids have been studied for their potential health benefits, including their role in reducing inflammation and improving blood vessel health.</p>
@@ -144,11 +144,11 @@
 <p>Healthy blood vessels are essential for proper circulation and overall heart function. Red wine, when consumed in moderation, may support blood vessel health through various mechanisms:</p>
 <ul>
 <li>The antioxidants in red wine, including flavonoids, can help reduce oxidative stress and inflammation in blood vessels.</li>
-<li>Improved blood vessel function may lead to better blood flow, reducing the risk of cardiovascular conditions associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Improved blood vessel function may lead to better blood flow, reducing the risk of cardiovascular conditions associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 <li>Regular, moderate consumption of red wine has been linked to a lower incidence of certain heart diseases, possibly due to its positive effects on blood vessel health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Addressing Heart Inflammation with Red Wine</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can have serious consequences for cardiovascular health. Red wine's potential role in addressing heart inflammation lies in its ability to modulate the body's inflammatory response:</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can have serious consequences for cardiovascular health. Red wine's potential role in addressing heart inflammation lies in its ability to modulate the body's inflammatory response:</p>
 <ul>
 <li>By reducing chronic inflammation, red wine components may help protect the heart muscle from inflammatory damage.</li>
 <li>Studies have suggested that the anti-inflammatory properties of red wine could contribute to a lower risk of developing heart inflammation.</li>

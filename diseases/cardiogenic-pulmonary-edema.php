@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiogenic Pulmonary Edema: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiogenic pulmonary edema causes lung fluid buildup due to heart issues. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-pulmonary-edema">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-pulmonary-edema">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-pulmonary-edema" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-pulmonary-edema" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiogenic Pulmonary Edema",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-pulmonary-edema"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-pulmonary-edema"
       }]
     }
   </script>
@@ -161,16 +161,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Cardiogenic Pulmonary Edema</h1>
-<p>Cardiogenic Pulmonary Edema occurs when the heart's left ventricle is unable to pump efficiently, leading to fluid buildup in the lungs. This condition is significant as it can cause severe breathing difficulties and decrease oxygen levels in the body. It is commonly seen in individuals with heart failure or those who have had a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Prompt medical attention is crucial to manage this condition effectively and prevent complications. If you experience sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, seek immediate medical help.</p>
+<p>Cardiogenic Pulmonary Edema occurs when the heart's left ventricle is unable to pump efficiently, leading to fluid buildup in the lungs. This condition is significant as it can cause severe breathing difficulties and decrease oxygen levels in the body. It is commonly seen in individuals with heart failure or those who have had a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Prompt medical attention is crucial to manage this condition effectively and prevent complications. If you experience sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, seek immediate medical help.</p>
 <h2 id="causes">Causes of Cardiogenic Pulmonary Edema</h2>
 <p>Cardiogenic pulmonary edema occurs when the heart's left ventricle fails to pump effectively, leading to fluid accumulation in the lungs. Several factors contribute to its development, including:
 
 <ul>
 <li>Coronary artery disease</li>
 <li>Heart attack</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Cardiogenic Pulmonary Edema</h2>
 <p>Recognizing the symptoms of Cardiogenic Pulmonary Edema is crucial as early detection can significantly improve outcomes. This condition occurs when the heart is unable to pump effectively, leading to fluid build-up in the lungs. Symptoms to watch out for include:
@@ -181,7 +181,7 @@
 <li>Coughing up pink, frothy sputum</li>
 <li>Wheezing or crackling sounds in the lungs</li>
 <li>Anxiety or restlessness</li>
-<li>Cold, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">clammy skin</a></li>
+<li>Cold, <a href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">clammy skin</a></li>
 </ul>
 
 If you or someone you know experiences these symptoms, seeking prompt medical attention is vital to prevent further complications and improve the chances of successful treatment.</p>
@@ -190,7 +190,7 @@ If you or someone you know experiences these symptoms, seeking prompt medical at
 
 <ul>
 <li>Chest X-ray to assess fluid buildup in the lungs</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
 <li>Blood tests to check for heart enzymes and oxygen levels</li>
 <li>Electrocardiogram (ECG) to monitor heart rhythm</li>
 </ul></p>

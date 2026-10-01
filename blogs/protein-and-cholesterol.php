@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Protein's Influence on Cholesterol&quot;" />
     <meta property="og:description" content="Discover how protein affects cholesterol levels and heart health. Learn more about managing cholesterol through protein intake." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-cholesterol"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li><strong>Protein and HDL:</strong> Including healthy fats like omega-3 fatty acids in your protein-rich diet can raise HDL (good) cholesterol levels, which is beneficial for heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-risk-factors">How Does Protein Intake Influence Heart Disease Risk Factors?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. By understanding how protein intake affects cholesterol, you can make informed choices to reduce your risk of heart disease. Here are some key points to consider:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. By understanding how protein intake affects cholesterol, you can make informed choices to reduce your risk of heart disease. Here are some key points to consider:</p>
 <ul>
 <li>Choosing plant-based proteins over red meat can help lower cholesterol levels and reduce the risk of heart disease.</li>
 <li>Combining protein sources with fiber-rich foods like fruits, vegetables, and whole grains can further improve your heart health.</li>

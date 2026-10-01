@@ -21,7 +21,7 @@
 require_once __DIR__ . '/../include/som-turnos.php';
 
 if (!defined('BIBLIOTECA_SITIO')) {
-    define('BIBLIOTECA_SITIO', 'https://plataforma.epa-bienestar.com.ar');
+    define('BIBLIOTECA_SITIO', 'https://contenidos.segundaopinionmedica.org');
     define('BIBLIOTECA_URL', BIBLIOTECA_SITIO . '/biblioteca');
     // Sistemas de códigos (los de contenidos siguen la convención que ya usaba EPA).
     define('BIBLIOTECA_CS_CATEGORIA', 'http://epa-bienestar.com.ar/fhir/CodeSystem/content-category');

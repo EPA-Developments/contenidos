@@ -4,7 +4,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single-footer-widget">
                             <div class="widget-logo">
-                                <img src="https://plataforma.epa-bienestar.com.ar/images/logo.svg" class="black-logo" alt="image">
+                                <img src="https://contenidos.segundaopinionmedica.org/images/logo.svg" class="black-logo" alt="image">
                             </div>
                             <p>We make it easy to find the right heart specialist for your needs. Our platform connects you with top cardiologists, giving you access to distinctive care for everything from routine heart check-ups to advanced cardiac treatments. Easily compare specialists, see patient ratings, and book appointments all in one place. Take the next step toward heart health by finding your ideal cardiologist today.</p>
                         </div>
@@ -13,11 +13,11 @@
                         <div class="single-footer-widget ps-5">
                             <h3>Health Resources  </h3>
                             <ul class="quick-links">
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/procedures/">Procedures</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/">Tests & Screenings</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/">Diseases</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/">Symptoms</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/procedures/">Procedures</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/tests-screenings/">Tests & Screenings</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/diseases/">Diseases</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/symptoms/">Symptoms</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/privacy-policy">Privacy Policy</a></li>
                               
                             </ul>
                         </div>
@@ -26,11 +26,11 @@
                         <div class="single-footer-widget ps-5">
                             <h3>Useful Links</h3>
                             <ul class="quick-links">
-                                <li><a href="https://plataforma.epa-bienestar.com.ar">Home</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/about">About Us</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es.php">Life Essential 8</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/biblioteca/">Biblioteca CKM-LE8</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/turnos">Pedir turno</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org">Home</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/about">About Us</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/life-essential-8-es.php">Life Essential 8</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/biblioteca/">Biblioteca CKM-LE8</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/turnos">Pedir turno</a></li>
                                 
                             </ul>
                         </div>
@@ -39,11 +39,11 @@
                         <div class="single-footer-widget ps-5">
                             <h3>Policies</h3>
                             <ul class="quick-links">
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/terms-and-conditions">Terms and Conditions (T&C)</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/disclaimer">Disclaimer</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/editorial-policy">Editorial Policy</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/privacy-policy">Privacy Policy</a></li>
-                                <li><a href="https://plataforma.epa-bienestar.com.ar/cookie-policy">Cookie Policy</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/terms-and-conditions">Terms and Conditions (T&C)</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/disclaimer">Disclaimer</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/editorial-policy">Editorial Policy</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="https://contenidos.segundaopinionmedica.org/cookie-policy">Cookie Policy</a></li>
                                 
                             </ul>
                         </div>
@@ -63,7 +63,7 @@
             <div class="copyright-area">
                 <div class="container">
                     <div class="copyright-area-content">
-                        <p>All Rights Reserved by plataforma.epa-bienestar.com.ar</p>
+                        <p>All Rights Reserved by contenidos.segundaopinionmedica.org</p>
                     </div>
                 </div>
             </div>
@@ -97,20 +97,20 @@
             });
           </script>
        
-        <script src="https://plataforma.epa-bienestar.com.ar/js/bootstrap.bundle.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/jquery.meanmenu.js"></script> 
-        <script src="https://plataforma.epa-bienestar.com.ar/js/owl.carousel.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/jquery.appear.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/odometer.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/jquery.magnific-popup.min.js"></script>
-		<script src="https://plataforma.epa-bienestar.com.ar/js/jquery.mCustomScrollbar.concat.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/fancybox.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/jquery-ui.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/TweenMax.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/aos.js"></script>
-		<script src="https://plataforma.epa-bienestar.com.ar/js/jquery.ajaxchimp.min.js"></script>
-		<script src="https://plataforma.epa-bienestar.com.ar/js/form-validator.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/wow.min.js"></script>
-        <script src="https://plataforma.epa-bienestar.com.ar/js/main.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/bootstrap.bundle.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/jquery.meanmenu.js"></script> 
+        <script src="https://contenidos.segundaopinionmedica.org/js/owl.carousel.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/jquery.appear.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/odometer.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/jquery.magnific-popup.min.js"></script>
+		<script src="https://contenidos.segundaopinionmedica.org/js/jquery.mCustomScrollbar.concat.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/fancybox.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/jquery-ui.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/TweenMax.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/aos.js"></script>
+		<script src="https://contenidos.segundaopinionmedica.org/js/jquery.ajaxchimp.min.js"></script>
+		<script src="https://contenidos.segundaopinionmedica.org/js/form-validator.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/wow.min.js"></script>
+        <script src="https://contenidos.segundaopinionmedica.org/js/main.js"></script>
     </body>
 </html>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glycerine's Impact on Chronic Inflammation&quot;" />
     <meta property="og:description" content="Explore how glycerine's anti-inflammatory properties can help manage chronic inflammation effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-anti-inflammatory-properties" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glycerine-anti-inflammatory-properties" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-anti-inflammatory-properties" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glycerine-anti-inflammatory-properties" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glycerine Anti Inflammatory Properties",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glycerine-anti-inflammatory-properties"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glycerine-anti-inflammatory-properties"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>When it comes to combating inflammation, glycerine has shown promising results. This natural compound has the ability to reduce cytokine levels in the body, which are key markers of inflammation. By lowering cytokine levels, glycerine helps control the body's inflammatory response and prevent excessive inflammation.</p>
 <p>Moreover, glycerine acts as an antioxidant, reducing oxidative stress in the body. Oxidative stress is linked to chronic inflammation and various health issues. By neutralizing free radicals and reducing oxidative damage, glycerine helps in managing inflammation effectively.</p>
 <h2 class="sec-scrl" id="heart-inflammation">How Does Glycerine Affect Heart Inflammation?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Glycerine's effect on heart tissue can play a significant role in reducing inflammation in the heart. Studies have shown that glycerine has anti-inflammatory properties that can help in the healing process of damaged heart tissue.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Glycerine's effect on heart tissue can play a significant role in reducing inflammation in the heart. Studies have shown that glycerine has anti-inflammatory properties that can help in the healing process of damaged heart tissue.</p>
 <ul>
 <li>Glycerine reduces the production of inflammatory markers in the heart, thus alleviating inflammation.</li>
 <li>It promotes the repair and regeneration of heart tissue, supporting overall heart health.</li>

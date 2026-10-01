@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D & Calcium for Healthy Heart Valves" />
     <meta property="og:description" content="Discover how Vitamin D and Calcium impact heart valve health to support cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-valve-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-valve-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-valve-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-valve-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Heart Valve Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-valve-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-valve-disease"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Vital Role of Vitamin D and Calcium for Heart Valve Health</h1>
-<p>Are you struggling with the impacts of Calcium and <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a> on your daily life? Do you feel limited in your activities due to heart valve dysfunction? Let's explore how Vitamin D and Calcium play a crucial role in maintaining the health of your heart valves.</p>
+<p>Are you struggling with the impacts of Calcium and <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a> on your daily life? Do you feel limited in your activities due to heart valve dysfunction? Let's explore how Vitamin D and Calcium play a crucial role in maintaining the health of your heart valves.</p>
 <h2 class="sec-scrl" id="valve-calcification">Valve Calcification</h2>
 <p>Valve calcification occurs when calcium deposits build up on the heart valves, leading to stiffness and narrowing of the valve opening. This process can result in significant heart valve dysfunction, affecting the flow of blood through the heart.</p>
 <p>Factors such as aging, a poor diet high in saturated fats and cholesterol, and a lack of physical activity can contribute to valve calcification. Over time, these calcified plaques can cause the valves to become stiff and less flexible, impacting their ability to open and close properly.</p>
 <h2 class="sec-scrl" id="heart-valve-dysfunction">Heart Valve Dysfunction</h2>
-<p>Heart valve dysfunction, often caused by valve calcification, can lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. In severe cases, it can even result in conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-stenosis">aortic valve stenosis</a>, where the aortic valve becomes narrowed and obstructs blood flow from the heart.</p>
+<p>Heart valve dysfunction, often caused by valve calcification, can lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. In severe cases, it can even result in conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-stenosis">aortic valve stenosis</a>, where the aortic valve becomes narrowed and obstructs blood flow from the heart.</p>
 <ul>
 <li>Regular monitoring of heart valve function is essential for early detection of any abnormalities.</li>
 <li>Treatment options for heart valve dysfunction may include medication, lifestyle changes, or in some cases, valve replacement.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Natural Hypertension Management Tips" />
     <meta property="og:description" content="Learn effective methods to manage hypertension naturally and improve your heart health without medication." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hypertension-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hypertension-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hypertension-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hypertension-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hypertension Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hypertension-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hypertension-management"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Effective Hypertension Management Naturally</h1>
-<p>Are you tired of constantly worrying about your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> levels? Does the thought of managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> without medication seem overwhelming? High blood pressure can significantly affect your daily activities, making simple tasks feel like daunting challenges. But fret not, as there are natural ways to manage hypertension effectively without relying solely on medication.</p>
+<p>Are you tired of constantly worrying about your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> levels? Does the thought of managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> without medication seem overwhelming? High blood pressure can significantly affect your daily activities, making simple tasks feel like daunting challenges. But fret not, as there are natural ways to manage hypertension effectively without relying solely on medication.</p>
 <h2 class="sec-scrl" id="high-blood-pressure">How Can You Lower High Blood Pressure Naturally?</h2>
 <p>High blood pressure, also known as hypertension, is a common condition that can lead to serious health issues if left uncontrolled. By making simple lifestyle changes, you can effectively lower your blood pressure levels and reduce the risk of heart attacks and strokes.</p>
 <ul>

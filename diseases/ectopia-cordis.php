@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ectopia Cordis: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Ectopia Cordis is a rare condition where the heart is outside the chest. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ectopia-cordis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ectopia-cordis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ectopia-cordis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ectopia-cordis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ectopia Cordis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ectopia-cordis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ectopia-cordis"
       }]
     }
   </script>
@@ -184,12 +184,12 @@
 </ul>
 <p>Additionally, secondary risk factors and lifestyle contributors, such as maternal smoking, inadequate prenatal care, and maternal age, can further increase the likelihood of Ectopia Cordis development.</p>
 <h2 id="symptoms">Symptoms of Ectopia Cordis</h2>
-<p>Early symptoms of Ectopia Cordis may include visible protrusion of the heart, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> discoloration). These early signs can impact daily activities and energy levels, potentially leading to challenges in physical well-being and emotional health.</p>
+<p>Early symptoms of Ectopia Cordis may include visible protrusion of the heart, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> discoloration). These early signs can impact daily activities and energy levels, potentially leading to challenges in physical well-being and emotional health.</p>
 <p>In advanced stages, symptoms may progress to heart failure, arrhythmias, and severe respiratory issues, significantly affecting both physical and emotional well-being.</p>
 <h2>Diagnosis of Ectopia Cordis</h2>
 <p>Diagnosing Ectopia Cordis typically involves a multi-step process to accurately assess the heart's position and function:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create detailed images of the heart's structure and function, aiding in the detection of Ectopia Cordis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create detailed images of the heart's structure and function, aiding in the detection of Ectopia Cordis.</li>
 <li>Chest X-ray: X-rays can provide additional insights into the heart's position relative to the chest cavity, helping confirm the diagnosis.</li>
 <li>Cardiac MRI: Magnetic resonance imaging offers detailed views of the heart's structure, assisting in identifying structural abnormalities like Ectopia Cordis.</li>
 <li>Genetic Testing: In some cases, genetic testing may be recommended to identify specific mutations associated with Ectopia Cordis.</li>

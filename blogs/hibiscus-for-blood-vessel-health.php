@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Vascular Health with Hibiscus" />
     <meta property="og:description" content="Explore how hibiscus enhances blood vessel strength for optimal circulatory health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-blood-vessel-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-blood-vessel-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-blood-vessel-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-blood-vessel-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Blood Vessel Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-blood-vessel-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-blood-vessel-health"
         }
     ]
 }
@@ -135,11 +135,11 @@
 <p>Additionally, hibiscus has anti-inflammatory properties that can further contribute to artery protection. Chronic inflammation can lead to the hardening and narrowing of arteries, increasing the risk of cardiovascular diseases. By reducing inflammation, hibiscus supports the overall health of your arteries.</p>
 <h2 class="sec-scrl" id="vascular-health">Vascular Health</h2>
 <p>When it comes to vascular health, hibiscus offers a holistic approach. The compounds found in hibiscus have vasodilatory effects, meaning they help relax and dilate blood vessels. This action not only improves blood flow but also reduces the strain on your heart, promoting overall cardiovascular well-being.</p>
-<p>In addition to promoting vasodilation, hibiscus can also help lower blood pressure. <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> is a common risk factor for vascular issues, and by incorporating hibiscus into your diet, you may be able to naturally manage your blood pressure levels and support vascular health.</p>
+<p>In addition to promoting vasodilation, hibiscus can also help lower blood pressure. <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> is a common risk factor for vascular issues, and by incorporating hibiscus into your diet, you may be able to naturally manage your blood pressure levels and support vascular health.</p>
 <h2 class="sec-scrl" id="endothelial-function">Endothelial Function</h2>
 <p>The endothelium, the thin layer of cells lining your blood vessels, plays a crucial role in vascular health. Hibiscus has been shown to improve endothelial function, enhancing the ability of the endothelium to regulate blood flow, blood clotting, and immune response within the blood vessels.</p>
 <ul>
-<li>By supporting endothelial function, hibiscus contributes to overall vascular health and helps prevent conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>By supporting endothelial function, hibiscus contributes to overall vascular health and helps prevent conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Improved endothelial function can also enhance nitric oxide production, a key molecule for maintaining healthy blood vessels.</li>
 </ul>
 <h2 class="sec-scrl" id="circulatory-system">Circulatory System</h2>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Olive Oil: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover how Anti Inflammatory Olive Oil benefits heart health with its powerful properties." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-olive-oil" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-olive-oil" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-olive-oil" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-olive-oil" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anti Inflammatory Olive Oil",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-olive-oil"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-olive-oil"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Anti Inflammatory Olive Oil</h1>
-<p>Are you looking for natural ways to reduce <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and improve your cardiovascular health? The use of Anti Inflammatory Olive Oil could be the answer you've been searching for. Inflammation in the heart can impact your daily activities, making even simple tasks challenging. But how exactly does Olive oil combat this inflammation and benefit your heart?</p>
+<p>Are you looking for natural ways to reduce <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and improve your cardiovascular health? The use of Anti Inflammatory Olive Oil could be the answer you've been searching for. Inflammation in the heart can impact your daily activities, making even simple tasks challenging. But how exactly does Olive oil combat this inflammation and benefit your heart?</p>
 <h2 class="sec-scrl" id="heart-inflammation">Heart Inflammation: Understanding the Impact</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can disrupt the normal functioning of the heart muscle, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. When left untreated, it can progress to more severe conditions, affecting your quality of life. Anti Inflammatory Olive Oil has shown promising effects in reducing the inflammation in the heart tissue, thus potentially preventing further damage.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can disrupt the normal functioning of the heart muscle, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. When left untreated, it can progress to more severe conditions, affecting your quality of life. Anti Inflammatory Olive Oil has shown promising effects in reducing the inflammation in the heart tissue, thus potentially preventing further damage.</p>
 <p>Here's how the properties of Olive Oil play a crucial role in combating cardiovascular inflammation:</p>
 <ul>
 <li>Rich in Omega 3 fatty acids, Olive Oil helps lower inflammatory markers in the body.</li>
@@ -145,7 +145,7 @@
 <li>Modulates gene expression related to inflammation, promoting a more balanced immune system.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Cardiovascular Inflammation: Impact on Heart Health</h2>
-<p>Chronic inflammation in the cardiovascular system can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, restricting blood flow. Anti Inflammatory Olive Oil can help mitigate this risk by improving the overall health of your heart and blood vessels.</p>
+<p>Chronic inflammation in the cardiovascular system can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, restricting blood flow. Anti Inflammatory Olive Oil can help mitigate this risk by improving the overall health of your heart and blood vessels.</p>
 <p>Let's explore how Olive Oil properties specifically target cardiovascular inflammation:</p>
 <ul>
 <li>Enhances endothelial function, supporting better blood circulation and reducing the risk of clots.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin E Shielding Heart Health" />
     <meta property="og:description" content="Discover how Vitamin E safeguards your heart health and fights disease effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-protection" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-protection" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-protection" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-protection" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin E And Heart Protection",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-protection"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-protection"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Vitamin E is renowned for its powerful antioxidant properties, which play a crucial role in protecting your heart. Antioxidants help combat oxidative stress, a process that can damage cells and contribute to heart disease. By neutralizing harmful free radicals, Vitamin E helps reduce inflammation and prevent damage to the heart muscle.</p>
 <p>In addition to its direct antioxidant effects, Vitamin E also works synergistically with other antioxidants like Vitamin C, further enhancing its heart-protective benefits. Including Vitamin E-rich foods in your diet can significantly boost your body's antioxidant defense system and promote heart health.</p>
 <h2 class="sec-scrl" id="arterial-health">Arterial Health</h2>
-<p>One key aspect of heart protection is maintaining optimal arterial health. Vitamin E plays a vital role in this by improving endothelial function, which is essential for healthy blood flow and blood pressure regulation. <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> can lead to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
+<p>One key aspect of heart protection is maintaining optimal arterial health. Vitamin E plays a vital role in this by improving endothelial function, which is essential for healthy blood flow and blood pressure regulation. <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> can lead to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
 <p>By supporting endothelial function, Vitamin E helps keep your arteries flexible and dilated, reducing the risk of plaque formation and promoting overall cardiovascular wellness. Including Vitamin E in your daily regimen can contribute to better arterial health and lower the chances of heart-related issues.</p>
 <h2 class="sec-scrl" id="ldl-cholesterol">LDL Cholesterol</h2>
 <p>LDL cholesterol, often referred to as "bad" cholesterol, is a major risk factor for heart disease. High levels of LDL cholesterol can lead to the accumulation of plaque in the arteries, narrowing the blood vessels and increasing the likelihood of heart attacks and strokes. Vitamin E has been shown to help lower LDL cholesterol levels, thereby reducing the risk of cardiovascular events.</p>

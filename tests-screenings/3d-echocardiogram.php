@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="3D Echocardiogram: Purpose, Costs and Normal Range" property="og:title"/>
 <meta content="3D echocardiogram captures three-dimensional views of the heart structures. Read more about its purpose and normal Range for effective heart monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/3d-echocardiogram" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/3d-echocardiogram" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/3d-echocardiogram" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/3d-echocardiogram" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "3D echocardiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/3d-echocardiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/3d-echocardiogram"  
       }]
     }
   </script>
@@ -156,10 +156,10 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Purpose and Normal Range of 3D Echocardiogram</h1>
-<p>A 3D <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> is a specialized imaging test that uses ultrasound technology to create three-dimensional images of the heart. This advanced heart imaging technique allows healthcare providers to visualize the heart chambers, valves, and blood flow in real-time.</p>
+<p>A 3D <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> is a specialized imaging test that uses ultrasound technology to create three-dimensional images of the heart. This advanced heart imaging technique allows healthcare providers to visualize the heart chambers, valves, and blood flow in real-time.</p>
 <p>Unlike traditional 2D echocardiograms, which provide flat images of the heart, a 3D echocardiogram offers a more detailed and comprehensive view of the heart's structure and function.</p>
 <p>This technology uses sound waves to create detailed images that can help diagnose various heart conditions.</p>
-<p>Examples of when a 3D echocardiogram may be used include assessing heart chamber size and function, evaluating heart valve function, detecting congenital heart defects, and planning for <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>.</p>
+<p>Examples of when a 3D echocardiogram may be used include assessing heart chamber size and function, evaluating heart valve function, detecting congenital heart defects, and planning for <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>.</p>
 <p>This imaging technique plays a crucial role in diagnosing and monitoring heart conditions, providing valuable information for healthcare providers to develop treatment plans.</p>
 <h2 id="purpose">What is the Purpose of Performing a 3D Echocardiogram Test?</h2>
 <p>The primary purpose of performing a 3D echocardiogram test is to obtain detailed images of the heart's structure and function.</p>

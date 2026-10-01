@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bigeminy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Bigeminy is a type of abnormal heart rhythm where every other heartbeat is an extra or premature beat. Know its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bigeminy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bigeminy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bigeminy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bigeminy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bigeminy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bigeminy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bigeminy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Bigeminy</h1>
-<p>Bigeminy is a heart rhythm disorder where every other heartbeat is a premature ventricular contraction (PVC). This condition can make you feel like your heart is skipping a beat. While occasional bigeminy may not be harmful, frequent episodes can indicate an underlying heart issue. It's essential to consult a healthcare provider if you experience persistent bigeminy to rule out any serious heart conditions. Bigeminy is relatively common and can be diagnosed through an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to determine the best course of action for treatment.</p>
+<p>Bigeminy is a heart rhythm disorder where every other heartbeat is a premature ventricular contraction (PVC). This condition can make you feel like your heart is skipping a beat. While occasional bigeminy may not be harmful, frequent episodes can indicate an underlying heart issue. It's essential to consult a healthcare provider if you experience persistent bigeminy to rule out any serious heart conditions. Bigeminy is relatively common and can be diagnosed through an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to determine the best course of action for treatment.</p>
 <h2 id="causes">Causes of Bigeminy</h2>
 <p>Bigeminy, a heart rhythm disorder, can be influenced by several factors. These can include:
 
@@ -175,10 +175,10 @@
 <p>When it comes to Bigeminy, identifying its symptoms early is crucial for better outcomes. Recognizing these signs promptly can lead to timely intervention and management. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 </ul>
 
@@ -189,7 +189,7 @@ Being aware of these symptoms and seeking medical attention if you experience th
 <ul>
 <li>Electrocardiogram (ECG) to detect abnormal heart rhythms</li>
 <li>Holter monitor for continuous ECG monitoring over 24-48 hours</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
 <li>Stress test to evaluate heart function during physical activity</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Bigeminy</h2>
@@ -210,7 +210,7 @@ Being aware of these symptoms and seeking medical attention if you experience th
 </ul>
 <h3>Cardioversion</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a> is a procedure that restores normal heart rhythm using electrical shocks or medications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a> is a procedure that restores normal heart rhythm using electrical shocks or medications.</li>
 <li>Rationale: Resets the heart's electrical activity to a normal pattern.</li>
 <li>Objective: Convert irregular heartbeat back to a regular rhythm.</li>
 <li>Steps: Administering controlled electrical shocks or medications to reset the heart's rhythm.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Carditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Carditis causes heart inflammation, leading to serious health risks. Read more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/carditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/carditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/carditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/carditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Carditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/carditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/carditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Carditis</h1>
-<p>Carditis is inflammation of the heart that can affect the heart muscle, outer lining, or inner lining. It's a significant condition as it can lead to serious heart problems if not treated promptly. While rare, it can occur as a complication of certain infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a>. Understanding its signs and seeking medical care is crucial. Carditis prevalence varies depending on the underlying cause, but early detection and proper management are key to preventing complications and promoting heart health.</p>
+<p>Carditis is inflammation of the heart that can affect the heart muscle, outer lining, or inner lining. It's a significant condition as it can lead to serious heart problems if not treated promptly. While rare, it can occur as a complication of certain infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a>. Understanding its signs and seeking medical care is crucial. Carditis prevalence varies depending on the underlying cause, but early detection and proper management are key to preventing complications and promoting heart health.</p>
 <h2 id="causes">Causes of Carditis</h2>
 <p>Carditis, inflammation of the heart, can be caused by various factors. These include:
 
@@ -175,9 +175,9 @@
 <p>Recognizing the symptoms of Carditis early is crucial as it can lead to better outcomes and prevent complications. By being aware of the signs, individuals can seek timely medical attention and appropriate treatment, improving their prognosis.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
 <li>Fever</li>
 <li>Joint pain or swelling</li>
@@ -189,8 +189,8 @@
 <ul>
 <li>Thorough medical history review to identify symptoms and potential risk factors.</li>
 <li>Physical examination to assess heart function and detect any abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and electrical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
 <li>Blood tests to check for signs of inflammation or infection.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Carditis</h2>

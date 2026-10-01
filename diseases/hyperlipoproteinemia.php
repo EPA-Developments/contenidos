@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hyperlipoproteinemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hyperlipoproteinemia involves abnormal levels of lipoproteins. Know more about its causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hyperlipoproteinemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hyperlipoproteinemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hyperlipoproteinemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hyperlipoproteinemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hyperlipoproteinemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hyperlipoproteinemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hyperlipoproteinemia"
       }]
     }
   </script>
@@ -163,7 +163,7 @@
 <h1>Causes and Treatment of Hyperlipoproteinemia</h1>
 <p>Hyperlipoproteinemia is a condition where there are high levels of lipoproteins in the blood, increasing the risk of heart disease. It's essential because it can lead to serious cardiovascular issues if left untreated. This condition affects a significant number of people worldwide, with varying degrees of severity. Understanding and managing hyperlipoproteinemia is crucial for maintaining heart health and overall well-being. By working closely with healthcare providers, individuals can effectively control this condition and reduce the risk of heart-related complications.</p>
 <h2 id="causes">Causes of Hyperlipoproteinemia</h2>
-<p>Hyperlipoproteinemia, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, can develop due to various factors such as:
+<p>Hyperlipoproteinemia, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, can develop due to various factors such as:
 
 <ul>
 <li>Unhealthy diet high in saturated fats</li>

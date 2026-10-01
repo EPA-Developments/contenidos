@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long Qt Interval-Deafness Syndrome: Causes and Symptoms" >
   <meta property="og:description" content="Long QT Interval Deafness Syndrome impacts the heart's rhythm and hearing. Know more about its causes, symptoms, and treatment strategies." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-interval-deafness-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/long-qt-interval-deafness-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-interval-deafness-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-interval-deafness-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Long Qt Interval-Deafness Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/long-qt-interval-deafness-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/long-qt-interval-deafness-syndrome"
       }]
     }
   </script>
@@ -161,11 +161,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Long Qt Interval-Deafness Syndrome</h1>
-<p>Long QT Interval-Deafness Syndrome is a rare genetic condition affecting the heart's electrical system, potentially leading to dangerous heart rhythm abnormalities. It is characterized by a prolonged QT interval on an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> and sensorineural hearing loss. While uncommon, it can have serious consequences, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. The prevalence of this syndrome is relatively low, affecting an estimated 1 in 2,000 to 2,500 individuals. Early detection and management are crucial to prevent complications and improve outcomes for individuals with this condition.</p>
+<p>Long QT Interval-Deafness Syndrome is a rare genetic condition affecting the heart's electrical system, potentially leading to dangerous heart rhythm abnormalities. It is characterized by a prolonged QT interval on an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> and sensorineural hearing loss. While uncommon, it can have serious consequences, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. The prevalence of this syndrome is relatively low, affecting an estimated 1 in 2,000 to 2,500 individuals. Early detection and management are crucial to prevent complications and improve outcomes for individuals with this condition.</p>
 <h2 id="causes">Causes of Long Qt Interval-Deafness Syndrome</h2>
 <p><ul>
 <li>Genetic mutations affecting the heart's electrical activity</li>
-<li>Specific genes linked to <a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a></li>
+<li>Specific genes linked to <a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a></li>
 <li>Family history of the condition</li>
 <li>Medications that prolong the QT interval</li>
 <li>Hearing loss associated with certain gene mutations</li>
@@ -176,8 +176,8 @@
 <ul>
 <li>Prolonged QT interval on ECG</li>
 <li>Hearing loss or deafness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting spells</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting spells</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Seizures or sudden cardiac arrest</li>
 </ul>
 
@@ -188,7 +188,7 @@ Detecting these symptoms promptly can lead to timely interventions, potentially 
 <ul>
 <li>Comprehensive medical history and physical examination</li>
 <li>Electrocardiogram (ECG) to assess the heart's electrical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Exercise stress testing to provoke arrhythmias</li>
 </ul></p>

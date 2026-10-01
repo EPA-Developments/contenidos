@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Postural Hypotension: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Postural hypotension can cause dizziness. Know more about its symptoms, causes, diagnosis, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Postural Hypotension",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Postural Hypotension: Causes, Symptoms, and Diagnosis</h1>
-<p>Postural hypotension, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, is a condition characterized by a sudden drop in blood pressure when a person stands up from a sitting or lying position.</p>
-<p>This drop in blood pressure can lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, fainting, and in severe cases, falls. It occurs when the body is unable to adjust blood pressure quickly enough to account for the change in posture.</p>
+<p>Postural hypotension, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, is a condition characterized by a sudden drop in blood pressure when a person stands up from a sitting or lying position.</p>
+<p>This drop in blood pressure can lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, fainting, and in severe cases, falls. It occurs when the body is unable to adjust blood pressure quickly enough to account for the change in posture.</p>
 <p>Postural hypotension is a common condition, especially in older adults, but it can also affect younger individuals. It can be temporary or chronic, depending on the underlying cause.</p>
 <p>While occasional postural hypotension may not be a cause for concern, frequent episodes can significantly impact daily activities and quality of life.</p>
 <p>Postural hypotension is often related to heart disease, as changes in blood pressure can put additional strain on the heart. Understanding the symptoms and forms of postural hypotension is crucial for timely diagnosis and appropriate management.</p>
@@ -232,10 +232,10 @@
 <ul>
 <li>Frequently feel dizzy or lightheaded when standing up.</li>
 <li>Experience fainting or near-fainting episodes.</li>
-<li>Have <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> along with postural hypotension symptoms.</li>
+<li>Have <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> along with postural hypotension symptoms.</li>
 <li>Notice a significant drop in blood pressure readings with position changes.</li>
 </ul>
-<p>Timely evaluation by a healthcare provider can help identify the underlying cause of postural hypotension and prevent potential complications associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>. Early intervention can also improve symptom management and quality of life.</p>
+<p>Timely evaluation by a healthcare provider can help identify the underlying cause of postural hypotension and prevent potential complications associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>. Early intervention can also improve symptom management and quality of life.</p>
 <h2>Home Remedies for Postural Hypotension</h2>
 <p>In addition to medical treatments, certain home remedies can help manage symptoms of postural hypotension effectively.</p>
 <ul>

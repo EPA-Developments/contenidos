@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sino-Auricular Heart Block: Symptoms, Causes, and Treatments">
   <meta property="og:description" content="Sino-auricular heart block affects the heart’s electrical system. Know more about causes, symptoms, and treatment for a healthy heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sino-auricular-heart-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sino-auricular-heart-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sino-auricular-heart-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sino-auricular-heart-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sino-Auricular Heart Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sino-auricular-heart-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sino-auricular-heart-block"
       }]
     }
   </script>
@@ -166,12 +166,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, and Treatments of Sino-Auricular Heart Block</h1>
-<p>Sino-Auricular Heart Block, also known as Sinoatrial Block or Sino-Auricular Exit Block, is a type of heart <a href="https://plataforma.epa-bienestar.com.ar/diseases/conduction-disorder">conduction disorder</a> that affects the electrical signals between the sinoatrial node (SA node) and the atria of the heart.</p>
+<p>Sino-Auricular Heart Block, also known as Sinoatrial Block or Sino-Auricular Exit Block, is a type of heart <a href="https://contenidos.segundaopinionmedica.org/diseases/conduction-disorder">conduction disorder</a> that affects the electrical signals between the sinoatrial node (SA node) and the atria of the heart.</p>
 <p>The SA node is responsible for initiating each heartbeat by generating electrical impulses that regulate the heart's rhythm. When these signals are interrupted or delayed, it can lead to Sino-Auricular Heart Block.</p>
-<p>This condition holds significant importance in cardiology as it can disrupt the heart's normal functioning, potentially leading to irregular heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and in severe cases, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>This condition holds significant importance in cardiology as it can disrupt the heart's normal functioning, potentially leading to irregular heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and in severe cases, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>While Sino-Auricular Heart Block is relatively rare compared to other cardiac conduction disorders, its impact on health can be profound.</p>
 <p>The prevalence of Sino-Auricular Heart Block varies but is generally more common in older individuals and those with underlying heart conditions.</p>
-<p>In the short term, Sino-Auricular Heart Block can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> due to the heart's inability to maintain a regular rhythm.</p>
+<p>In the short term, Sino-Auricular Heart Block can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> due to the heart's inability to maintain a regular rhythm.</p>
 <p>In the long term, untreated Sino-Auricular Heart Block can increase the risk of developing more serious complications such as heart failure, stroke, or sudden cardiac death.</p>
 <p>It is essential to note that Sino-Auricular Heart Block can be asymptomatic in its early stages, making it crucial for individuals, especially those at risk, to undergo regular screenings and diagnostic tests for early detection and timely intervention.</p>
 <h2 id="causes">Causes of Sino-Auricular Heart Block</h2>
@@ -181,19 +181,19 @@
 </ul>
 <p>Age-related degeneration of the SA node can lead to Sino-Auricular Heart Block. As individuals age, the SA node's ability to generate electrical impulses may decline, resulting in conduction delays or blocks.</p>
 <p>Ischemic heart disease, such as coronary artery disease, can disrupt the blood supply to the SA node, affecting its function and leading to conduction abnormalities.</p>
-<p>Inflammation or scarring of the cardiac tissues, often due to conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> or cardiac surgery, can interfere with the normal conduction pathways.</p>
+<p>Inflammation or scarring of the cardiac tissues, often due to conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> or cardiac surgery, can interfere with the normal conduction pathways.</p>
 <p>Certain medications, particularly those that affect the heart's electrical conduction system, can increase the risk of developing Sino-Auricular Heart Block. Factors such as dosage, duration of use, and individual susceptibility play a role here.</p>
 <ul>
 <li>Extrinsic Factors</li>
 </ul>
 <p>Electrolyte imbalances, especially low potassium or magnesium levels, can disrupt the heart's electrical balance and contribute to conduction abnormalities.</p>
-<p>Chronic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or diabetes, if poorly controlled, can damage the heart muscle and affect its conduction system.</p>
+<p>Chronic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or diabetes, if poorly controlled, can damage the heart muscle and affect its conduction system.</p>
 <p>Lifestyle factors such as smoking, excessive alcohol consumption, and a sedentary lifestyle can exacerbate underlying cardiac issues and increase the risk of developing Sino-Auricular Heart Block.</p>
 <h2 id="symptoms">Symptoms of Sino-Auricular Heart Block</h2>
 <p>Symptoms of Sino-Auricular Heart Block can vary depending on the severity of conduction impairment. Categorizing these symptoms into early-stage and advanced-stage manifestations can help in understanding the progression of the condition and its impact on an individual's well-being.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>Fatigue - Early-stage Sino-Auricular Heart Block can cause persistent fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> due to the heart's inability to maintain an efficient rhythm. This can lead to reduced exercise tolerance and overall lethargy.</li>
+<li>Fatigue - Early-stage Sino-Auricular Heart Block can cause persistent fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> due to the heart's inability to maintain an efficient rhythm. This can lead to reduced exercise tolerance and overall lethargy.</li>
 <li>Dizziness - Individuals may experience episodes of dizziness or lightheadedness, especially when standing up quickly or exerting themselves. These symptoms can result from inadequate blood flow to the brain due to heart rate irregularities.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>

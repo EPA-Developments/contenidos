@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beets for Healthy Arteries&quot;" />
     <meta property="og:description" content="Discover how beets can help combat atherosclerosis for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beets-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beets-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beets-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beets-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beets And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beets-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beets-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Healing Power of Beets for Atherosclerosis</h1>
-<p>Are you looking for a natural way to support your artery health and reduce the risk of heart disease? Have you been searching for a simple yet effective solution to improve your vascular function and promote a healthy circulatory system? The answer might be right in front of you – in the form of beets. Let's explore how incorporating this humble root vegetable into your diet can help combat <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and enhance your overall cardiovascular well-being.</p>
+<p>Are you looking for a natural way to support your artery health and reduce the risk of heart disease? Have you been searching for a simple yet effective solution to improve your vascular function and promote a healthy circulatory system? The answer might be right in front of you – in the form of beets. Let's explore how incorporating this humble root vegetable into your diet can help combat <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and enhance your overall cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="artery-health">Artery Health</h2>
 <p>Beets are packed with nitrates, compounds that help relax and dilate blood vessels, leading to improved blood flow and lower blood pressure. By promoting healthy artery function, beets play a crucial role in reducing the risk of developing atherosclerosis, a condition characterized by the hardening and narrowing of arteries due to the buildup of plaque.</p>
 <ul>

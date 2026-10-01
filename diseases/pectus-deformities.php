@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pectus Deformities: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about pectus deformities, including causes, symptoms, and treatment options. Understand how these chest wall abnormalities can impact your health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pectus-deformities">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pectus-deformities">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pectus-deformities" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pectus-deformities" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pectus Deformities",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pectus-deformities"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pectus-deformities"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Pectus Deformities: Symptoms, Causes, and Treatment</h1>
-<p>Pectus deformities are chest wall abnormalities that can affect how the chest looks and functions. These deformities can include <a href="https://plataforma.epa-bienestar.com.ar/diseases/pectus-excavatum">pectus excavatum</a> (sunken chest) or pectus carinatum (protruding chest). While they may not always cause health issues, severe cases can lead to breathing difficulties and affect heart and lung function. Pectus deformities are relatively common, with pectus excavatum being more prevalent than pectus carinatum. It's important to consult a healthcare provider for proper diagnosis and management if you suspect you have a pectus deformity.</p>
+<p>Pectus deformities are chest wall abnormalities that can affect how the chest looks and functions. These deformities can include <a href="https://contenidos.segundaopinionmedica.org/diseases/pectus-excavatum">pectus excavatum</a> (sunken chest) or pectus carinatum (protruding chest). While they may not always cause health issues, severe cases can lead to breathing difficulties and affect heart and lung function. Pectus deformities are relatively common, with pectus excavatum being more prevalent than pectus carinatum. It's important to consult a healthcare provider for proper diagnosis and management if you suspect you have a pectus deformity.</p>
 <h2 id="causes">Causes of Pectus Deformities</h2>
 <p><ul>
 <li>Genetics play a significant role in the development of pectus deformities.</li>
@@ -173,9 +173,9 @@
 <p>Recognizing the symptoms of Pectus Deformities early is crucial as it can lead to better outcomes and timely interventions. Common symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Fatigue or decreased stamina</li>
 <li>Visible deformity of the chest wall</li>
 </ul> 

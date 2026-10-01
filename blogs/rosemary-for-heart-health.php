@@ -10,12 +10,12 @@
     <meta property="og:title" content="Rosemary for Heart Health: A Natural Remedy" />
     <meta property="og:description" content="Discover how rosemary can improve cardiovascular health and support heart function naturally in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rosemary For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Rosemary is packed with antioxidants that help combat oxidative stress in the body. These powerful compounds protect your heart from damage caused by free radicals, promoting overall cardiovascular health. By including Rosemary in your diet, you can boost your heart's defense mechanisms and reduce the risk of heart disease.</p>
 <p>Moreover, the antioxidants in Rosemary play a crucial role in reducing inflammation, which is beneficial for heart function. By incorporating this herb into your meals, you not only enhance the flavor but also support your heart's well-being.</p>
 <h2 class="sec-scrl" id="blood-pressure">Regulating Blood Pressure</h2>
-<p>One of the key benefits of Rosemary for heart health is its ability to help regulate blood pressure. The compounds in Rosemary have been found to promote blood circulation and lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> levels. By including Rosemary in your cooking or enjoying it as a herbal tea, you can support healthy blood pressure levels and reduce the strain on your heart.</p>
+<p>One of the key benefits of Rosemary for heart health is its ability to help regulate blood pressure. The compounds in Rosemary have been found to promote blood circulation and lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> levels. By including Rosemary in your cooking or enjoying it as a herbal tea, you can support healthy blood pressure levels and reduce the strain on your heart.</p>
 <p>Additionally, Rosemary's anti-inflammatory properties contribute to improved blood flow and relaxed blood vessels, further aiding in maintaining optimal blood pressure. Making Rosemary a part of your daily routine can have a positive impact on your cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="heart-function">Enhancing Heart Function</h2>
 <p>Rosemary offers benefits beyond just flavoring your dishes; it can actually enhance your heart's function. The active compounds in Rosemary help improve circulation, allowing your heart to work more efficiently. By supporting better blood flow, Rosemary contributes to overall heart health and may reduce the risk of heart disease.</p>

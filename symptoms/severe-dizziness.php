@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Dizziness: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Severe Dizziness Might Indicate A Heart Condition. Learn More About The Causes, Diagnosis, Forms And Treatment For Better Heart Health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Dizziness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness"  
       }]
     }
   </script>
@@ -186,18 +186,18 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Severe Dizziness: Symptoms, Causes and Treatment</h1>
-<p>Severe dizziness is a debilitating condition characterized by an intense sensation of spinning, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, and loss of balance. It can be accompanied by symptoms such as extreme vertigo, head rush, and faintness.</p>
+<p>Severe dizziness is a debilitating condition characterized by an intense sensation of spinning, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, and loss of balance. It can be accompanied by symptoms such as extreme vertigo, head rush, and faintness.</p>
 <p>This condition can significantly impact daily activities, making it challenging to perform tasks that require coordination and focus.</p>
 <h2 id="forms">What are the Forms of Severe dizziness?</h2>
 <p>There are various forms of severe dizziness, each with its specific symptoms and related concepts.</p>
 <ul>
-<li>Intense <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>: A feeling of extreme lightheadedness and disorientation.</li>
-<li>Severe lightheadedness: A sensation of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or on the verge of passing out.</li>
+<li>Intense <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>: A feeling of extreme lightheadedness and disorientation.</li>
+<li>Severe lightheadedness: A sensation of <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or on the verge of passing out.</li>
 <li>Extreme vertigo: A spinning sensation that can be triggered by sudden movements.</li>
 <li>Loss of balance: Difficulty maintaining stability and coordination.</li>
 <li>Spinning sensation: A feeling of the surroundings spinning or moving around you.</li>
 <li>Head rush: A sudden sensation of dizziness upon standing up quickly.</li>
-<li>Faintness: A feeling of light-headedness and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</li>
+<li>Faintness: A feeling of light-headedness and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</li>
 </ul>
 <h2 id="causes">What are the Causes of Severe dizziness?</h2>
 <p>Severe dizziness can be caused by various underlying factors, including:</p>
@@ -205,7 +205,7 @@
 <li>Inner ear disorders: Conditions like Meniere's disease or vestibular neuritis.</li>
 <li>Migraines: Severe headaches accompanied by dizziness and nausea.</li>
 <li>Dehydration: Lack of adequate fluids in the body can lead to dizziness.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>: Hypotension can cause a drop in blood flow to the brain.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>: Hypotension can cause a drop in blood flow to the brain.</li>
 <li>Medications: Certain drugs can have dizziness as a side effect.</li>
 <li>Anxiety or panic attacks: Emotional stress can trigger dizziness.</li>
 <li>Heart disease: Cardiovascular issues can affect blood flow to the brain, causing dizziness.</li>
@@ -216,7 +216,7 @@
 <li>Blood tests: To check for underlying conditions like anemia or infections.</li>
 <li>Imaging tests: Including MRI or CT scans to assess the inner ear or brain.</li>
 <li>Vestibular function tests: Assessing the balance system in the inner ear.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart function and rule out heart-related causes of dizziness.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart function and rule out heart-related causes of dizziness.</li>
 <li>Tilt table test: Measures changes in heart rate and blood pressure with position changes.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Severe dizziness?</h2>
@@ -231,8 +231,8 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience severe dizziness along with the following symptoms:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 <li>Fainting or loss of consciousness.</li>
 <li>Numbness or weakness in the limbs.</li>
 <li>Severe headache or visual disturbances.</li>

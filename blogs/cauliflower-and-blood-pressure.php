@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cauliflower Benefits for Blood Pressure&quot;" />
     <meta property="og:description" content="Discover how cauliflower helps maintain healthy blood pressure through natural means. Learn about its impact on hypertension management and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-and-blood-pressure"
         }
     ]
 }
@@ -129,10 +129,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Benefits of Cauliflower for Blood Pressure</h1>
-<p>Are you looking for natural ways to manage your blood pressure effectively? Have you considered the impact of Cauliflower on your blood pressure levels? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily activities, from feeling fatigued and short of breath to limiting your ability to enjoy physical activities. Understanding how Cauliflower can support healthy blood pressure levels may offer you a simple yet powerful solution to enhance your overall well-being.</p>
+<p>Are you looking for natural ways to manage your blood pressure effectively? Have you considered the impact of Cauliflower on your blood pressure levels? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily activities, from feeling fatigued and short of breath to limiting your ability to enjoy physical activities. Understanding how Cauliflower can support healthy blood pressure levels may offer you a simple yet powerful solution to enhance your overall well-being.</p>
 <h2 class="sec-scrl" id="potassium">How Does Cauliflower Help with Potassium Levels?</h2>
 <p>Cauliflower is a rich source of potassium, a vital mineral that plays a key role in maintaining healthy blood pressure. Potassium helps your body balance sodium levels, which is crucial for managing blood pressure effectively. By including Cauliflower in your diet, you can boost your potassium intake and support your body's natural sodium balance, contributing to lower blood pressure levels.</p>
-<p>In addition to its potassium content, Cauliflower is also low in sodium, making it an ideal choice for individuals looking to improve their overall cardiovascular health. This combination of high potassium and low sodium levels in Cauliflower can have a positive impact on <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> management and promote healthy circulation.</p>
+<p>In addition to its potassium content, Cauliflower is also low in sodium, making it an ideal choice for individuals looking to improve their overall cardiovascular health. This combination of high potassium and low sodium levels in Cauliflower can have a positive impact on <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> management and promote healthy circulation.</p>
 <h2 class="sec-scrl" id="sodium-balance">How Does Cauliflower Contribute to Maintaining Sodium Balance?</h2>
 <p>When it comes to managing blood pressure, maintaining the right sodium balance is essential. Excessive sodium intake can lead to high blood pressure and increase the risk of heart disease. Cauliflower, with its low sodium content and high potassium levels, can help offset the negative effects of sodium on blood pressure.</p>
 <ul>

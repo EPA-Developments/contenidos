@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Heart Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Coronary Heart Disease restricts blood flow to the heart, causing chest pain. Know more about its causes, symptoms, and treatment for heart wellness." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Coronary Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease"
       }]
     }
   </script>
@@ -165,8 +165,8 @@
 <h2 id="causes">Causes of Coronary Heart Disease</h2>
 <p>Coronary Heart Disease (CHD) can develop due to various factors. These include:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking tobacco</li>
 <li>Diabetes</li>
 <li>Obesity</li>
@@ -175,12 +175,12 @@
 <p>Recognizing the symptoms of Coronary Heart Disease early on is crucial for timely intervention and improved outcomes. Being aware of the signs can help prevent complications and reduce the risk of heart attacks. Here is a list of common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Nausea</li>
 <li>Sweating</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially when they are persistent or severe, seek medical attention promptly. Early detection and management play a vital role in treating Coronary Heart Disease effectively.</p>
@@ -188,7 +188,7 @@ If you experience any of these symptoms, especially when they are persistent or 
 <p>Accurate diagnosis of Coronary Heart Disease (CHD) is crucial for timely intervention and management. The diagnostic process typically involves a combination of medical history assessment, physical examinations, and various tests. These tests help determine the extent of heart damage and assess the risk of complications. Diagnostic methods for CHD include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to measure the heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to measure the heart's electrical activity</li>
 <li>Stress tests to evaluate heart function during physical exertion</li>
 <li>Coronary angiography to visualize blockages in the heart's blood vessels</li>
 <li>Blood tests to check for cardiac enzymes indicating heart muscle damage</li>
@@ -212,7 +212,7 @@ If you experience any of these symptoms, especially when they are persistent or 
 </ul>
 <h3>3. Invasive Procedures</h3>
 <ul>
-<li>Procedure: Invasive interventions like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery are performed to restore blood flow to the heart.</li>
+<li>Procedure: Invasive interventions like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery are performed to restore blood flow to the heart.</li>
 <li>Rationale: These procedures help open blocked arteries and improve blood circulation to the heart muscle.</li>
 <li>Goal: To relieve symptoms, prevent heart attacks, and improve quality of life.</li>
 <li>Steps: Evaluation, pre-procedure preparation, the procedure itself, and post-operative care.</li>

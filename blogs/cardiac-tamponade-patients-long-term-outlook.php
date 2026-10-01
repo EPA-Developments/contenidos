@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long-Term Outlook for Cardiac Tamponade Patients">
   <meta property="og:description" content="Learn about the long-term outlook and prognosis for cardiac tamponade patients. Understand the implications of Cardiac Tamponade for patient recovery.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-tamponade-patients-long-term-outlook">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiac-tamponade-patients-long-term-outlook">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-tamponade-patients-long-term-outlook" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiac-tamponade-patients-long-term-outlook" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Long-Term Outlook For Cardiac Tamponade Patients",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiac-tamponade-patients-long-term-outlook"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiac-tamponade-patients-long-term-outlook"  
       }]
     }
   </script>

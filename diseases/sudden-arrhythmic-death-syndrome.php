@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sudden Arrhythmic Death Syndrome: Causes and Treatment" >
   <meta property="og:description" content="Sudden Arrhythmic Death Syndrome leads to unexpected heart failure. Read more about its causes, symptoms, and treatment options for timely intervention." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sudden-arrhythmic-death-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sudden-arrhythmic-death-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sudden-arrhythmic-death-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sudden-arrhythmic-death-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sudden Arrhythmic Death Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sudden-arrhythmic-death-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sudden-arrhythmic-death-syndrome"
       }]
     }
   </script>
@@ -185,22 +185,22 @@
 <li>Sedentary Lifestyle: Lack of physical activity can weaken the heart muscle and disrupt its normal function.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Sudden Arrhythmic Death Syndrome</h2>
-<p>Symptoms of Sudden Arrhythmic Death Syndrome can vary depending on the stage of the condition. Early-stage symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, which can impact daily activities and energy levels.</p>
-<p>In advanced stages, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and anxiety, which can significantly affect their physical and emotional well-being.</p>
+<p>Symptoms of Sudden Arrhythmic Death Syndrome can vary depending on the stage of the condition. Early-stage symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, which can impact daily activities and energy levels.</p>
+<p>In advanced stages, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and anxiety, which can significantly affect their physical and emotional well-being.</p>
 <h3>Early Symptoms</h3>
 <ul>
 <li>Palpitations: Irregular heartbeats that may cause discomfort or anxiety, affecting daily activities.</li>
-<li>Dizziness: Episodes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> or fainting, which can be mistaken for other conditions and overlooked.</li>
+<li>Dizziness: Episodes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> or fainting, which can be mistaken for other conditions and overlooked.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Chest Pain: Persistent or recurrent chest discomfort that can be indicative of underlying heart rhythm abnormalities.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during exertion, signifying potential heart function impairment.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during exertion, signifying potential heart function impairment.</li>
 </ul>
 <h2>Diagnosis of Sudden Arrhythmic Death Syndrome</h2>
 <p>Diagnosing Sudden Arrhythmic Death Syndrome involves a multi-step process to accurately identify the underlying cause of arrhythmias and assess the risk of sudden cardiac death.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): A simple, non-invasive test that records the heart's electrical activity to detect abnormal rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): A simple, non-invasive test that records the heart's electrical activity to detect abnormal rhythms.</li>
 <li>Holter Monitor: A portable device that continuously records the heart's activity over 24-48 hours to capture intermittent arrhythmias.</li>
 <li>Echocardiogram: An ultrasound scan that evaluates the heart's structure and function to identify any abnormalities.</li>
 <li>Cardiac MRI: A more detailed imaging technique that provides information on the heart's anatomy and function.</li>

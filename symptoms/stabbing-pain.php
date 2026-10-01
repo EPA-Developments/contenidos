@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Stabbing Pain: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing stabbing pain? Learn about causes, symptoms, and treatments for stabbing pain, including when to seek help for stabbing pain and its connection to heart and chest issues.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/stabbing-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/stabbing-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/stabbing-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/stabbing-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stabbing Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/stabbing-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/stabbing-pain"  
       }]
     }
   </script>
@@ -208,7 +208,7 @@
 <li>Nerve compression or injury: Pinched nerves or nerve damage can cause shooting or stabbing pain.</li>
 <li>Inflammation: Conditions like arthritis or tendonitis can lead to sharp, stabbing pain in the joints or muscles.</li>
 <li>Organ damage: Issues with internal organs like the heart, lungs, or liver can cause stabbing pain in the chest or abdomen.</li>
-<li>Heart disease: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> can cause sharp, stabbing pain in the chest, neck, or arms.</li>
+<li>Heart disease: Conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> can cause sharp, stabbing pain in the chest, neck, or arms.</li>
 <li>Infections: Bacterial or viral infections can lead to sharp, stabbing pain in various parts of the body.</li>
 <li>Trauma: Accidents or injuries can cause sharp, stabbing pain due to tissue damage or fractures.</li>
 </ul>
@@ -221,7 +221,7 @@
 <li>Imaging tests: X-rays, CT scans, MRIs, or ultrasound scans can help visualize internal structures and identify any damage or abnormalities.</li>
 <li>Blood tests: Laboratory tests can help detect signs of infection, inflammation, or other underlying conditions that may be causing the pain.</li>
 <li>Nerve conduction studies: These tests can evaluate nerve function and identify any issues that may be causing stabbing pain.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test can help evaluate heart function and detect any abnormalities that may be causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test can help evaluate heart function and detect any abnormalities that may be causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 <li>Endoscopy: A procedure that involves inserting a flexible tube with a camera into the body to examine internal organs and tissues.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Stabbing pain?</h2>
@@ -241,10 +241,10 @@
 <p>You should visit a doctor if you experience:</p>
 <ul>
 <li>Chest pain that radiates to the arms, neck, jaw, or back.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</li>
 <li>Nausea, vomiting, or sweating.</li>
 <li>Fever, chills, or signs of infection.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, numbness, or tingling in the affected area.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, numbness, or tingling in the affected area.</li>
 <li>Difficulty moving or using the affected limb.</li>
 <li>Worsening pain that does not improve with rest or home remedies.</li>
 </ul>

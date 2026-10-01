@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Circulation with Oats" />
     <meta property="og:description" content="Discover how oats benefit blood flow, heart health, and artery function. Learn more about the circulatory benefits of oats today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oats-for-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oats-for-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oats For Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oats-for-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oats-for-circulation"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <ul>
 <li>Enhanced circulation ensures that vital nutrients and oxygen reach all parts of your body efficiently.</li>
 <li>Healthy blood flow supports proper waste removal from tissues, aiding in detoxification processes.</li>
-<li>Optimal circulation helps maintain a healthy blood pressure, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and related complications.</li>
+<li>Optimal circulation helps maintain a healthy blood pressure, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and related complications.</li>
 </ul>
 <h2 class="sec-scrl" id="vascular-health">Nurturing Vascular Health with Oats</h2>
 <p>Healthy arteries are the lifeline of your circulatory system, and oats excel in keeping them in top condition. By incorporating oats into your diet, you can significantly boost your vascular health. Here are some ways in which oats contribute to the well-being of your arteries:</p>

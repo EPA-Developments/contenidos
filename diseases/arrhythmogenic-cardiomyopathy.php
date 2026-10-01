@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arrhythmogenic Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Arrhythmogenic cardiomyopathy affects heart muscles, leading to irregular beats. Know its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Arrhythmogenic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arrhythmogenic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arrhythmogenic-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Arrhythmogenic Cardiomyopathy</h1>
-<p>Arrhythmogenic Cardiomyopathy is a heart condition where the muscle is replaced by fat or scar tissue, leading to abnormal heart rhythms. It's significant as it can cause sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. While rare, affecting about 1 in 2,500 to 5,000 people, its impact on those diagnosed can be life-altering. Understanding its signs like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fainting, and family history of heart issues is crucial for early detection and management. If you suspect any symptoms, consulting a cardiologist promptly is essential for proper evaluation and care.</p>
+<p>Arrhythmogenic Cardiomyopathy is a heart condition where the muscle is replaced by fat or scar tissue, leading to abnormal heart rhythms. It's significant as it can cause sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, especially in young athletes. While rare, affecting about 1 in 2,500 to 5,000 people, its impact on those diagnosed can be life-altering. Understanding its signs like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fainting, and family history of heart issues is crucial for early detection and management. If you suspect any symptoms, consulting a cardiologist promptly is essential for proper evaluation and care.</p>
 <h2 id="causes">Causes of Arrhythmogenic Cardiomyopathy</h2>
 <p>Arrhythmogenic cardiomyopathy can develop due to various factors. These include genetic mutations affecting proteins in heart muscle cells, leading to abnormal cell function. Additionally, environmental factors like viral infections can trigger inflammation in the heart, contributing to the condition. Physical activity, especially intense endurance exercise, may also play a role in its development. Moreover, hormonal imbalances or changes, such as those occurring during pregnancy, can impact the heart's electrical activity, potentially leading to arrhythmogenic cardiomyopathy. Overall, a combination of genetic predisposition, environmental triggers, lifestyle factors, and hormonal influences can contribute to the development of this condition. 
 
@@ -176,10 +176,10 @@
 
 <h3>Symptoms of Arrhythmogenic Cardiomyopathy include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Palpitations (irregular heartbeats)</li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
 <li>Fluid retention causing swelling in the legs, ankles, or feet</li>
 </ul></p>
 <h2>Diagnosis of Arrhythmogenic Cardiomyopathy</h2>
@@ -187,8 +187,8 @@
 
 <ul>
 <li>Thorough physical examination and medical history review.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function.</li>
 <li>Cardiac MRI for detailed imaging of the heart.</li>
 <li>Genetic testing to check for specific gene mutations.</li>
 </ul> 

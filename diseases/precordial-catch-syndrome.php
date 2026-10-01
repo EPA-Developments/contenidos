@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Precordial Catch Syndrome: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Precordial catch syndrome causes sharp chest pain. Know more about the symptoms, causes, and treatment for this common condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/precordial-catch-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/precordial-catch-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/precordial-catch-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/precordial-catch-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Precordial Catch Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/precordial-catch-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/precordial-catch-syndrome"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Precordial Catch Syndrome (PCS) is a benign and relatively common condition characterized by sudden, sharp chest pains that typically occur during periods of rest or minimal physical activity.</p>
 <p>While PCS is generally harmless, it can cause significant discomfort and anxiety for those affected. The syndrome's prevalence is relatively high, especially among adolescents and young adults, with symptoms often first appearing during childhood.</p>
 <p>Despite its benign nature, PCS can have a notable impact on an individual's health, causing transient discomfort and potentially affecting daily activities and emotional well-being.</p>
-<p>PCS primarily affects the intercostal muscles located between the ribs, causing them to spasm and resulting in the characteristic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. These spasms can lead to sharp, stabbing sensations that are often exacerbated by deep breathing or sudden movements.</p>
+<p>PCS primarily affects the intercostal muscles located between the ribs, causing them to spasm and resulting in the characteristic <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. These spasms can lead to sharp, stabbing sensations that are often exacerbated by deep breathing or sudden movements.</p>
 <p>While PCS episodes typically resolve spontaneously within a few minutes, the condition can recur intermittently over time. The short-term risks of untreated PCS include acute pain episodes that may lead to anxiety, panic attacks, or unnecessary emergency room visits.</p>
 <p>In the long term, chronic untreated PCS may contribute to increased stress levels, reduced quality of life, and potential complications from prolonged chest discomfort. One challenge in managing PCS is its often asymptomatic nature in the early stages, making it challenging to diagnose and treat promptly. As a result, early detection through regular screenings and awareness of potential symptoms is crucial for effectively managing PCS and minimizing its impact on health and well-being.</p>
 <h2 id="causes">Causes of Precordial Catch Syndrome</h2>
@@ -182,7 +182,7 @@
 </ul>
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can influence the onset and severity of PCS symptoms.</p>
 <ul>
-<li>Sedentary lifestyle or lack of physical activity can contribute to muscle imbalances and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, potentially triggering muscle spasms and chest pain in individuals with PCS.</li>
+<li>Sedentary lifestyle or lack of physical activity can contribute to muscle imbalances and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, potentially triggering muscle spasms and chest pain in individuals with PCS.</li>
 <li>Poor posture, especially when sitting or standing for extended periods, can place additional strain on the chest muscles and exacerbate existing PCS symptoms.</li>
 <li>Psychological factors such as anxiety, depression, or high levels of stress can worsen PCS symptoms and increase the frequency of chest pain episodes. Managing these emotional stressors is essential in effectively addressing PCS and improving overall well-being.</li>
 </ul>
@@ -191,8 +191,8 @@
 <p>These symptoms can be categorized into early-stage and advanced-stage manifestations, each impacting daily life and emotional well-being differently.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>One common early symptom of PCS is sudden, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain">sharp chest pain</a> that can disrupt daily activities and energy levels. This pain may be fleeting but intense, causing brief moments of discomfort that can be alarming for affected individuals.</li>
-<li>Another early symptom to watch for is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> or discomfort that may be misunderstood or overlooked as indigestion or muscle strain. This symptom can lead to confusion or delay in seeking appropriate medical attention, potentially prolonging the discomfort associated with PCS.</li>
+<li>One common early symptom of PCS is sudden, <a href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain">sharp chest pain</a> that can disrupt daily activities and energy levels. This pain may be fleeting but intense, causing brief moments of discomfort that can be alarming for affected individuals.</li>
+<li>Another early symptom to watch for is <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> or discomfort that may be misunderstood or overlooked as indigestion or muscle strain. This symptom can lead to confusion or delay in seeking appropriate medical attention, potentially prolonging the discomfort associated with PCS.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
@@ -204,7 +204,7 @@
 <p>While PCS is typically a clinical diagnosis based on characteristic symptoms and findings, several tests may be used to confirm the presence of PCS and differentiate it from other cardiac or musculoskeletal conditions.</p>
 <ul>
 <li>The physical examination is crucial in diagnosing PCS, as healthcare providers assess the location, intensity, and duration of chest pain episodes. Palpation of the chest wall can help identify tender areas and muscle spasms characteristic of PCS.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG) may be performed to rule out cardiac abnormalities and ensure that chest pain is not related to heart conditions. This test helps differentiate PCS from more serious cardiac issues that require immediate intervention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG or EKG) may be performed to rule out cardiac abnormalities and ensure that chest pain is not related to heart conditions. This test helps differentiate PCS from more serious cardiac issues that require immediate intervention.</li>
 <li>Imaging studies such as chest X-rays or ultrasound may be ordered to visualize the chest wall structures and rule out other potential causes of chest pain. These tests can provide additional information on the musculoskeletal system and help confirm the diagnosis of PCS.</li>
 <li>In some cases, stress tests or cardiac MRI scans may be recommended to evaluate heart function and assess the impact of PCS on cardiac health. These advanced imaging studies can offer detailed insights into the structural and functional aspects of the heart, guiding treatment decisions and long-term management strategies.</li>
 </ul>

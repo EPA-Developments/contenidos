@@ -10,12 +10,12 @@
     <meta property="og:title" content="Blueberries and Arterial Health: A Deep Dive" />
     <meta property="og:description" content="Discover how blueberries boost artery health naturally. Learn about the benefits of blueberries on arterial plaque, flexibility, and vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-and-arteries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blueberries-and-arteries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-and-arteries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blueberries-and-arteries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blueberries And Arteries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blueberries-and-arteries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blueberries-and-arteries"
         }
     ]
 }
@@ -151,8 +151,8 @@
 <h2 class="sec-scrl" id="vascular-health">Enhancing Vascular Health with Blueberries</h2>
 <p>Blueberries offer a holistic approach to improving vascular health by:</p>
 <ul>
-<li>Lowering blood pressure and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a common risk factor for vascular diseases.</li>
-<li>Protecting against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of arteries, through their anti-inflammatory and antioxidant properties.</li>
+<li>Lowering blood pressure and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a common risk factor for vascular diseases.</li>
+<li>Protecting against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of arteries, through their anti-inflammatory and antioxidant properties.</li>
 </ul>
 <h2 class="sec-scrl" id="atherosclerosis">Blueberries and Atherosclerosis</h2>
 <p>Atherosclerosis poses a serious threat to cardiovascular health, but blueberries can help combat this condition by:</p>

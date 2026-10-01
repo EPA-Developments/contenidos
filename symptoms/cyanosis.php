@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cyanosis: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Cyanosis, a bluish tint to the skin, may signal heart conditions. Know more about the causes, diagnosis, and treatments for cyanosis related to heart issues." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cyanosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/cyanosis"  
       }]
     }
   </script>
@@ -189,7 +189,7 @@
 <p>Cyanosis is a medical condition characterized by a bluish discoloration of the skin, lips, and nails due to inadequate oxygen circulation in the blood.</p>
 <p>When the oxygen levels in the blood drop below normal levels, the skin may appear blue or purple, indicating a lack of oxygen reaching the tissues.</p>
 <p>This condition is often a sign of an underlying health issue affecting the heart or lungs.</p>
-<p>Symptoms of cyanosis include blue skin, lips, and nails, as well as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, confusion, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>. Cyanosis can be temporary or chronic, depending on the underlying cause.</p>
+<p>Symptoms of cyanosis include blue skin, lips, and nails, as well as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, confusion, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>. Cyanosis can be temporary or chronic, depending on the underlying cause.</p>
 <p>It is essential to seek medical attention if you experience persistent cyanosis or related symptoms to determine the root cause and receive appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Cyanosis?</h2>
 <p>There are two main forms of cyanosis: central cyanosis and peripheral cyanosis. Central cyanosis affects the lips, tongue, and mucous membranes, indicating a systemic issue affecting oxygen levels in the blood.</p>
@@ -213,10 +213,10 @@
 <li>Pulse oximetry to measure oxygen saturation in the blood.</li>
 <li>Blood tests to assess blood gas levels and hemoglobin concentration.</li>
 <li>Chest X-ray or imaging studies to evaluate heart and lung function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and function.</li>
 <li>Pulmonary function tests to evaluate lung capacity and function.</li>
 </ul>
-<p>In some cases, more advanced diagnostic procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>, or arterial blood gas analysis may be necessary to determine the specific cause of cyanosis and tailor treatment accordingly.</p>
+<p>In some cases, more advanced diagnostic procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>, or arterial blood gas analysis may be necessary to determine the specific cause of cyanosis and tailor treatment accordingly.</p>
 <h2 id="treatment">What is the Treatment for Cyanosis?</h2>
 <p>The treatment for cyanosis depends on the underlying cause and may involve a combination of medical interventions, lifestyle modifications, and advanced therapies.</p>
 <ul>
@@ -230,8 +230,8 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is crucial to seek medical attention if you experience symptoms of cyanosis, such as blue skin, lips, or nails, along with any of the following signs:</p>
 <ul>
-<li>Shortness of breath or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
+<li>Shortness of breath or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>.</li>
 <li>Chest pain or discomfort.</li>
 <li>Confusion, dizziness, or fainting.</li>
 <li>Persistent cough or wheezing.</li>

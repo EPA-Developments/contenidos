@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Left Ventricular Ejection Fraction: Costs and Purpose" property="og:title"/>
 <meta content="Left ventricular ejection fraction test measures heart pumping efficiency. Know more about the purpose, costs, and normal Range for heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/left-ventricular-ejection-fraction" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/left-ventricular-ejection-fraction" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/left-ventricular-ejection-fraction" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/left-ventricular-ejection-fraction" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Left Ventricular Ejection Fraction",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/left-ventricular-ejection-fraction"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/left-ventricular-ejection-fraction"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potatoes for Hypertension Control" />
     <meta property="og:description" content="Learn how potatoes can naturally help with hypertension. Discover dietary tips, potassium-rich foods, and sodium reduction for effective blood pressure control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potatoes-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potatoes-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potatoes-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potatoes-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potatoes For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potatoes-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potatoes-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Potatoes for Hypertension: A Natural Solution</h1>
-<p>Are you looking for a natural way to manage your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> without compromising on the foods you love? Have you ever wondered if something as simple as potatoes could help you control your blood pressure and improve your heart health? Living with hypertension can be challenging, affecting your daily activities and overall well-being. Let's explore the potential benefits of incorporating potatoes into your diet to help you combat hypertension effectively.</p>
+<p>Are you looking for a natural way to manage your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> without compromising on the foods you love? Have you ever wondered if something as simple as potatoes could help you control your blood pressure and improve your heart health? Living with hypertension can be challenging, affecting your daily activities and overall well-being. Let's explore the potential benefits of incorporating potatoes into your diet to help you combat hypertension effectively.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">How Potatoes Aid in Blood Pressure Control</h2>
 <p>Potatoes, often underestimated, can play a significant role in controlling your blood pressure levels. They are a rich source of potassium, a mineral known for its ability to help regulate blood pressure. Potassium works by counteracting the effects of sodium in your body, helping to relax blood vessel walls and lower blood pressure. Including potassium-rich foods like potatoes in your diet can contribute to better blood pressure management and overall heart function.</p>
 <p>In addition to potassium, potatoes also contain magnesium and fiber, which further support heart health and blood flow. The combination of these nutrients in potatoes makes them a valuable addition to a hypertension-friendly diet.</p>

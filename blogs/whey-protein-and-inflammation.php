@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Whey Protein for Heart Inflammation: Benefits Unveiled&quot;" />
     <meta property="og:description" content="Discover how whey protein may reduce heart inflammation, promoting cardiovascular health. Learn more now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-inflammation"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <p>Chronic inflammation is a persistent low-grade inflammatory response in the body that can contribute to the development of various chronic conditions, including heart disease. Whey protein's anti-inflammatory properties make it a promising candidate for addressing chronic inflammation and its detrimental effects on overall health.</p>
 <ul>
 <li>Regular consumption of whey protein may help modulate the body's inflammatory response and reduce the risk of inflammatory-related diseases.</li>
-<li>Whey protein supplementation could be particularly beneficial for individuals with conditions characterized by chronic inflammation, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> or metabolic syndrome.</li>
+<li>Whey protein supplementation could be particularly beneficial for individuals with conditions characterized by chronic inflammation, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> or metabolic syndrome.</li>
 <li>By incorporating whey protein into your diet, you may support your body's natural anti-inflammatory mechanisms and promote better health outcomes.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-protection">Whey Protein for Cardiovascular Protection</h2>

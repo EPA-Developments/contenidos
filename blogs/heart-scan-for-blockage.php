@@ -10,12 +10,12 @@
     <meta property="og:title" content="Preparing for a Heart Scan: Essential Guide" />
     <meta property="og:description" content="Learn how to prepare for a heart scan to detect blockages and safeguard your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-scan-for-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-scan-for-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-scan-for-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-scan-for-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Scan For Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-scan-for-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-scan-for-blockage"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Preparing for a Heart Scan for Blockages: A Guide</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue that interferes with your daily activities? These symptoms could indicate underlying heart issues, such as artery blockage. If you're scheduled for a <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-scan">heart scan</a> for blockage, it's essential to understand what to expect and how to prepare for the procedure. Let's explore the steps you can take to ensure a smooth and successful heart scan experience.</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue that interferes with your daily activities? These symptoms could indicate underlying heart issues, such as artery blockage. If you're scheduled for a <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-scan">heart scan</a> for blockage, it's essential to understand what to expect and how to prepare for the procedure. Let's explore the steps you can take to ensure a smooth and successful heart scan experience.</p>
 <h2 class="sec-scrl" id="Coronary artery blockage test">Coronary Artery Blockage Test</h2>
 <p>Coronary artery blockage tests, also known as cardiac evaluations, are non-invasive procedures that help detect potential blockages in the blood vessels supplying the heart. One common test is the Cardiac CT scan, which uses advanced imaging technology to create detailed cross-sectional images of the heart and its blood vessels. This test can reveal the presence and extent of any blockages, allowing healthcare providers to assess your risk of heart disease.</p>
 <p>Before undergoing a Cardiac CT scan, your healthcare provider may instruct you to avoid eating or drinking for a few hours to ensure clear imaging results. It's essential to follow these guidelines carefully to obtain accurate test results. Additionally, inform your healthcare provider about any medications you are taking, as certain drugs may interfere with the imaging process.</p>
@@ -191,7 +191,7 @@
 <li>Arrive at the testing facility on time to allow for necessary preparations before the procedure.</li>
 </ul>
 <h2 class="sec-scrl" id="Heart disease screening">Heart Disease Screening</h2>
-<p>Heart disease screening is a proactive approach to assessing your cardiovascular health and identifying potential risk factors for heart-related conditions. By undergoing regular heart scans and screenings, you can stay informed about your heart health status and take steps to prevent heart disease before it progresses. These screenings are especially important if you have a family history of heart problems or if you have risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or cholesterol.</p>
+<p>Heart disease screening is a proactive approach to assessing your cardiovascular health and identifying potential risk factors for heart-related conditions. By undergoing regular heart scans and screenings, you can stay informed about your heart health status and take steps to prevent heart disease before it progresses. These screenings are especially important if you have a family history of heart problems or if you have risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or cholesterol.</p>
 <p>After completing a heart scan for blockage, your healthcare provider will review the results with you and discuss any findings or recommendations for further evaluation or treatment. It's essential to follow up on these recommendations to prioritize your heart health and well-being.</p>
 <h2 class="sec-scrl" id="Conclusion">Conclusion</h2>
 <p>Preparing for a heart scan for blockage involves understanding the purpose of the test, following pre-test instructions carefully, and communicating openly with your healthcare team. By taking proactive steps to prepare for the scan, you can ensure accurate results and prompt interventions if needed. Remember, early detection of heart issues through screening tests can significantly impact your long-term heart health. Stay informed, stay proactive, and prioritize your heart's well-being.</p>

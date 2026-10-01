@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Palm Oil for Heart Patients: Safety and Benefits&quot;" />
     <meta property="og:description" content="Is palm oil safe for your heart? Learn about its impact on cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-for-heart-patients" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-for-heart-patients" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-for-heart-patients" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-for-heart-patients" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Palm Oil For Heart Patients",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-for-heart-patients"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/palm-oil-for-heart-patients"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <li>Consult with a healthcare provider or a nutritionist to create a personalized diet plan that addresses your specific heart health needs.</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-management">Can Palm Oil Impact Cholesterol Management?</h2>
-<p>Cholesterol management is a critical aspect of cardiovascular care, as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease and negatively affect blood vessels. Understanding how palm oil influences cholesterol levels can help you make informed decisions about your dietary choices.</p>
+<p>Cholesterol management is a critical aspect of cardiovascular care, as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease and negatively affect blood vessels. Understanding how palm oil influences cholesterol levels can help you make informed decisions about your dietary choices.</p>
 <p>Here are some insights on how palm oil may impact cholesterol management:</p>
 <ul>
 <li>The saturated fats in palm oil can raise LDL cholesterol levels, which are often referred to as "bad" cholesterol.</li>

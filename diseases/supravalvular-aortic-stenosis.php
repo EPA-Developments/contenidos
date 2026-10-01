@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Supravalvular Aortic Stenosis: Causes, Symptoms & Treatment">
   <meta property="og:description" content="Supravalvular Aortic Stenosis leads to narrowed arteries. Know more about the causes, symptoms, and treatment options for this heart condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/supravalvular-aortic-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/supravalvular-aortic-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/supravalvular-aortic-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/supravalvular-aortic-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Supravalvular Aortic Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/supravalvular-aortic-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/supravalvular-aortic-stenosis"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Supravalvular Aortic Stenosis (SVAS) is a congenital heart defect characterized by a narrowing of the aorta, the main artery that carries oxygen-rich blood from the heart to the body.</p>
 <p>This condition can significantly impact a person's health, leading to various complications if left untreated.</p>
 <p>SVAS affects the essential function of the heart by obstructing the smooth flow of blood, causing the heart to work harder to pump blood throughout the body.</p>
-<p>In the short term, this can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. However, in the long term, untreated SVAS can lead to serious complications such as heart failure, arrhythmias, and even sudden cardiac death.</p>
+<p>In the short term, this can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. However, in the long term, untreated SVAS can lead to serious complications such as heart failure, arrhythmias, and even sudden cardiac death.</p>
 <p>SVAS is often asymptomatic in its early stages, making it crucial for individuals at risk, such as those with a family history of heart conditions, to undergo regular screenings and early detection to prevent potential health risks.</p>
 <p>Early intervention and management can significantly improve outcomes for individuals with SVAS, highlighting the importance of awareness and proactive healthcare measures in addressing this condition.</p>
 <h2 id="causes">Causes of Supravalvular Aortic Stenosis</h2>
@@ -177,14 +177,14 @@
 <ul>
 <li>Genetic Mutations: Certain genetic mutations, such as those associated with Williams syndrome, can predispose individuals to develop SVAS. These mutations impact the formation and structure of the aorta, leading to narrowing and constriction over time.</li>
 <li>Inflammatory Conditions: Inflammation within the blood vessels can cause scarring and thickening of the arterial walls, resulting in stenosis. Conditions like vasculitis can contribute to the development of SVAS by compromising the elasticity and function of the aorta.</li>
-<li>Abnormal Blood Flow: Disturbances in blood flow patterns can disrupt the normal development of the aorta, leading to abnormalities in structure and function. Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/coarctation-of-the-aorta">coarctation of the aorta</a> can create turbulent blood flow, contributing to the development of SVAS.</li>
+<li>Abnormal Blood Flow: Disturbances in blood flow patterns can disrupt the normal development of the aorta, leading to abnormalities in structure and function. Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/coarctation-of-the-aorta">coarctation of the aorta</a> can create turbulent blood flow, contributing to the development of SVAS.</li>
 <li>Environmental Factors: Exposure to certain environmental factors, such as toxins or radiation, during critical stages of fetal development can increase the risk of congenital heart defects like SVAS.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors that may exacerbate the development of SVAS include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Chronic <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can put additional strain on the heart and blood vessels, potentially worsening existing stenosis in the aorta.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Chronic <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can put additional strain on the heart and blood vessels, potentially worsening existing stenosis in the aorta.</li>
 <li>Obesity: Excess body weight can contribute to cardiovascular strain, leading to increased pressure on the aorta and potentially exacerbating stenosis over time.</li>
-<li>Smoking: Tobacco use can damage blood vessels and promote inflammation, increasing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and stenosis in the aorta.</li>
+<li>Smoking: Tobacco use can damage blood vessels and promote inflammation, increasing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and stenosis in the aorta.</li>
 </ul>
 <p>Understanding the underlying causes and risk factors associated with SVAS is crucial in implementing preventive strategies and early interventions to mitigate the progression of the condition.</p>
 <h2 id="symptoms">Symptoms of Supravalvular Aortic Stenosis</h2>
@@ -195,8 +195,8 @@
 </ul>
 <p>Advanced-stage symptoms of SVAS may include:</p>
 <ul>
-<li>Shortness of Breath: Severe stenosis can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during exertion, as the narrowed aorta limits the amount of oxygen-rich blood reaching the body's tissues.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may occur due to the heart's efforts to compensate for the restricted blood flow caused by SVAS.</li>
+<li>Shortness of Breath: Severe stenosis can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during exertion, as the narrowed aorta limits the amount of oxygen-rich blood reaching the body's tissues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may occur due to the heart's efforts to compensate for the restricted blood flow caused by SVAS.</li>
 </ul>
 <p>Recognizing these symptoms and their impact on daily life is essential for early detection and timely intervention to prevent complications associated with SVAS.</p>
 <h2>Diagnosis of Supravalvular Aortic Stenosis</h2>

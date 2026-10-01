@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Anomalous Coronary Artery: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Anomalous coronary artery is a heart condition where arteries develop abnormally. Read more on causes, symptoms, and treatments for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/anomalous-coronary-artery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/anomalous-coronary-artery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/anomalous-coronary-artery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/anomalous-coronary-artery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Anomalous Coronary Artery",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/anomalous-coronary-artery"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/anomalous-coronary-artery"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Anomalous Coronary Artery</h1>
-<p>Anomalous Coronary Artery is a heart condition where the coronary arteries are not in their usual place. This can affect blood flow to the heart, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> in rare cases. While relatively rare, it can be significant, especially in younger individuals. Detecting it early is crucial for proper management. If you experience unexplained chest pain or other symptoms, consulting a healthcare provider for evaluation is essential to ensure timely diagnosis and appropriate treatment.</p>
+<p>Anomalous Coronary Artery is a heart condition where the coronary arteries are not in their usual place. This can affect blood flow to the heart, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> in rare cases. While relatively rare, it can be significant, especially in younger individuals. Detecting it early is crucial for proper management. If you experience unexplained chest pain or other symptoms, consulting a healthcare provider for evaluation is essential to ensure timely diagnosis and appropriate treatment.</p>
 <h2 id="causes">Causes of Anomalous Coronary Artery</h2>
 <p><ul>
 <li>Anomalous origin of a coronary artery from the wrong location</li>
@@ -176,8 +176,8 @@
 <ul>
 <li>Chest pain or discomfort, especially during physical activity</li>
 <li>Shortness of breath, particularly during exertion</li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, especially during exercise</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, especially during exercise</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Unexplained fatigue</li>
 </ul>
 
@@ -186,8 +186,8 @@ Being vigilant about these symptoms and seeking medical attention promptly can l
 <p>Accurate diagnosis of Anomalous Coronary Artery (ACA) is crucial as it can lead to serious complications like sudden cardiac arrest. The diagnostic process typically involves several tests to confirm the condition and assess its severity. Some common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
 <li>Cardiac MRI or CT scan for detailed imaging of the coronary arteries.</li>
 <li>Coronary angiography to directly visualize blood flow in the coronary arteries.</li>
 </ul></p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Nutrition and Heart Health Essentials" />
     <meta property="og:description" content="Explore the vital link between nutrition and heart health. Learn how your diet impacts your heart's well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-nutrition" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-nutrition" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-nutrition" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-nutrition" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Healthy Nutrition",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-nutrition"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-nutrition"
         }
     ]
 }
@@ -160,7 +160,7 @@
 <ul>
 <li>Reduce your intake of saturated fats and cholesterol by choosing plant-based protein sources like tofu, tempeh, and lentils.</li>
 <li>Increase your intake of fiber, vitamins, and antioxidants by incorporating a variety of colorful fruits and vegetables into your meals.</li>
-<li>Lower your risk of heart disease, stroke, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> by following a plant-based diet rich in whole, unprocessed foods.</li>
+<li>Lower your risk of heart disease, stroke, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> by following a plant-based diet rich in whole, unprocessed foods.</li>
 </ul>
 <p>By embracing a plant-based diet, you can improve your heart health, reduce inflammation, and support overall well-being through the power of nutrient-dense plant foods.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

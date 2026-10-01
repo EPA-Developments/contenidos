@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Almonds: Heart Health Powerhouse&quot;" />
     <meta property="og:description" content="Explore how almonds support heart health with their cholesterol-lowering and antioxidant properties. Learn about the cardiovascular benefits of almonds now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Almonds And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-health"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Almonds are a source of plant-based protein, making them an excellent alternative to animal protein for heart-conscious individuals.</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-management">Cholesterol Management</h2>
-<p>One of the key benefits of almonds for heart health is their exceptional ability to assist in managing cholesterol levels. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a significant risk factor for heart disease, but the nutrients found in almonds can help combat this issue effectively. Here's how almonds contribute to cholesterol management:</p>
+<p>One of the key benefits of almonds for heart health is their exceptional ability to assist in managing cholesterol levels. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a significant risk factor for heart disease, but the nutrients found in almonds can help combat this issue effectively. Here's how almonds contribute to cholesterol management:</p>
 <ul>
 <li>Almonds contain monounsaturated fats that can help raise good cholesterol levels (HDL) while lowering bad cholesterol levels (LDL).</li>
 <li>The antioxidants in almonds prevent oxidative damage to cholesterol, reducing the risk of plaque buildup in the arteries.</li>

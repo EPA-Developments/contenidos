@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acute Pericarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Acute pericarditis is the inflammation of the heart’s lining. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/acute-pericarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/acute-pericarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/acute-pericarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/acute-pericarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Acute Pericarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/acute-pericarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/acute-pericarditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Acute Pericarditis</h1>
-<p>Acute pericarditis is the inflammation of the pericardium, the thin sac surrounding the heart. It can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fever, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. While usually not life-threatening, it can lead to complications if not treated promptly. Acute pericarditis is relatively common, with around 5% of patients with chest pain in the emergency department being diagnosed with it. It's essential to seek medical attention if you experience symptoms to receive proper diagnosis and treatment.</p>
+<p>Acute pericarditis is the inflammation of the pericardium, the thin sac surrounding the heart. It can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fever, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. While usually not life-threatening, it can lead to complications if not treated promptly. Acute pericarditis is relatively common, with around 5% of patients with chest pain in the emergency department being diagnosed with it. It's essential to seek medical attention if you experience symptoms to receive proper diagnosis and treatment.</p>
 <h2 id="causes">Causes of Acute Pericarditis</h2>
 <p>Acute pericarditis can be caused by various factors. Here are the main contributors:
 
@@ -179,8 +179,8 @@
 <li>Chest pain that may feel sharp or stabbing</li>
 <li>Pain that worsens when lying down or taking deep breaths</li>
 <li>Fever and chills</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
 </ul>
 
@@ -189,9 +189,9 @@ Being aware of these symptoms and seeking prompt medical attention can lead to t
 <p>Acute Pericarditis requires accurate diagnosis due to its similar presentation to other cardiac conditions. The diagnostic process typically involves a thorough medical history review, physical examination, and various tests to confirm the condition and rule out other causes. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to check for characteristic changes.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to check for characteristic changes.</li>
 <li>Blood tests to assess inflammation markers.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the pericardium and assess for fluid accumulation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the pericardium and assess for fluid accumulation.</li>
 <li>Chest X-ray to look for signs of inflammation or fluid around the heart.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Acute Pericarditis</h2>
@@ -208,7 +208,7 @@ Being aware of these symptoms and seeking prompt medical attention can lead to t
 <ul>
 <li>Colchicine is an anti-inflammatory medication.</li>
 <li>It works by disrupting microtubule formation.</li>
-<li>Used to prevent recurrences of <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a>.</li>
+<li>Used to prevent recurrences of <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a>.</li>
 <li>Often prescribed in combination with NSAIDs.</li>
 </ul>
 <h3>Corticosteroids</h3>

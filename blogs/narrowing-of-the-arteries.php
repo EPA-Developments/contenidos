@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Lifestyle on Artery Narrowing" />
     <meta property="og:description" content="Learn how lifestyle choices impact artery narrowing & heart health. Discover ways to prevent cardiovascular risks." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/narrowing-of-the-arteries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/narrowing-of-the-arteries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/narrowing-of-the-arteries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/narrowing-of-the-arteries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Narrowing Of The Arteries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/narrowing-of-the-arteries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/narrowing-of-the-arteries"
         }
     ]
 }
@@ -169,12 +169,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Lifestyle on Artery Narrowing</h1>
-<p>Are you struggling with decreased energy levels, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> during physical activities? These could be signs of a deeper issue related to your cardiovascular health. The narrowing of the arteries, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, can significantly impact your daily activities and overall well-being.</p>
+<p>Are you struggling with decreased energy levels, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> during physical activities? These could be signs of a deeper issue related to your cardiovascular health. The narrowing of the arteries, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, can significantly impact your daily activities and overall well-being.</p>
 <h2 class="sec-scrl" id="artery-narrowing-causes">Artery Narrowing Causes</h2>
 <p>Artery narrowing can be caused by various factors, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Smoking</li>
 <li>Diabetes</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Chickpeas for Lowering Blood Pressure" />
     <meta property="og:description" content="Learn how chickpeas can help manage hypertension effectively. Discover the power of this potassium-rich, low-sodium food for better blood pressure control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/chickpeas-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/chickpeas-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Chickpeas Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/chickpeas-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/chickpeas-hypertension"
         }
     ]
 }
@@ -129,10 +129,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Effective Chickpeas Hypertension Management</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> effectively? Do you find it challenging to incorporate foods into your diet that can help lower your blood pressure naturally? Hypertension, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, affects millions of people worldwide and can significantly impact daily activities. Fortunately, simple dietary changes can make a big difference in managing this condition. One such food that has been gaining attention for its potential benefits in hypertension management is chickpeas. Let's explore how chickpeas, a versatile and nutrient-rich legume, can play a role in promoting cardiovascular health and supporting healthy blood vessel function.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> effectively? Do you find it challenging to incorporate foods into your diet that can help lower your blood pressure naturally? Hypertension, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, affects millions of people worldwide and can significantly impact daily activities. Fortunately, simple dietary changes can make a big difference in managing this condition. One such food that has been gaining attention for its potential benefits in hypertension management is chickpeas. Let's explore how chickpeas, a versatile and nutrient-rich legume, can play a role in promoting cardiovascular health and supporting healthy blood vessel function.</p>
 <h2 class="sec-scrl" id="blood-pressure-management">Blood Pressure Management</h2>
 <p>Chickpeas are a valuable addition to a diet aimed at managing hypertension due to their impressive nutrient profile. They are rich in potassium, a mineral known for its role in regulating blood pressure levels. Potassium helps counter the effects of sodium in the body, which can contribute to high blood pressure. By increasing potassium intake through foods like chickpeas, individuals may help lower their blood pressure and reduce the risk of cardiovascular issues.</p>
-<p>In addition to potassium, chickpeas are low in sodium, making them an excellent choice for those looking to reduce their sodium intake. A diet low in sodium is often recommended for individuals with hypertension, as excessive sodium consumption can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. Incorporating chickpeas into meals can help support a low-sodium diet and promote better blood pressure control.</p>
+<p>In addition to potassium, chickpeas are low in sodium, making them an excellent choice for those looking to reduce their sodium intake. A diet low in sodium is often recommended for individuals with hypertension, as excessive sodium consumption can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. Incorporating chickpeas into meals can help support a low-sodium diet and promote better blood pressure control.</p>
 <h2 class="sec-scrl" id="potassium-rich">Potassium Rich</h2>
 <p>When it comes to managing hypertension, focusing on potassium-rich foods like chickpeas is key. Potassium plays a crucial role in regulating blood pressure by helping to relax blood vessel walls and improve blood flow. By including chickpeas in your meals regularly, you can increase your potassium intake and support overall cardiovascular health. This mineral not only helps lower blood pressure but also reduces the risk of stroke and heart disease.</p>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Arrhythmogenic Cardiomyopathy: Causes and Development">
   <meta property="og:description" content="Learn about arrhythmogenic cardiomyopathy, its development, and symptoms. Discover how this condition affects the heart's rhythm and structure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/arrhythmogenic-cardiomyopathy-causes-development">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/arrhythmogenic-cardiomyopathy-causes-development">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/arrhythmogenic-cardiomyopathy-causes-development" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/arrhythmogenic-cardiomyopathy-causes-development" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Arrhythmogenic Cardiomyopathy: Causes And Development",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/arrhythmogenic-cardiomyopathy-causes-development"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/arrhythmogenic-cardiomyopathy-causes-development"  
       }]
     }
   </script>

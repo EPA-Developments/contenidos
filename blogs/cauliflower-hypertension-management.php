@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cauliflower for Hypertension Control&quot;" />
     <meta property="og:description" content="Discover how cauliflower helps manage hypertension effectively. Learn more now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-hypertension-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-hypertension-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-hypertension-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-hypertension-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower Hypertension Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-hypertension-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-hypertension-management"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Cauliflower for Hypertension</h1>
-<p>Are you struggling to control your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Do you find it challenging to incorporate low sodium foods into your diet in a way that is both delicious and beneficial for your health? <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or high blood pressure, can significantly impact your daily activities and overall well-being. Finding the right foods to manage this condition is crucial for your health.</p>
+<p>Are you struggling to control your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Do you find it challenging to incorporate low sodium foods into your diet in a way that is both delicious and beneficial for your health? <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or high blood pressure, can significantly impact your daily activities and overall well-being. Finding the right foods to manage this condition is crucial for your health.</p>
 <h2 class="sec-scrl" id="cauliflower-hypertension-management">Cauliflower Hypertension Management</h2>
 <p>When it comes to managing high blood pressure, cauliflower is a versatile and nutritious vegetable that can play a significant role. Cauliflower is not only low in sodium but also rich in potassium, a mineral known to help lower blood pressure levels. Additionally, cauliflower is packed with dietary fiber, which is beneficial for heart protection and overall cardiovascular health.</p>
 <p>Here are some key reasons why cauliflower should be a staple in your diet for blood pressure control:</p>

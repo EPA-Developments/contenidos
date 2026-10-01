@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Morning Fatigue: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Morning fatigue could be related to heart conditions. Know about the causes, symptoms, diagnosis, and treatment for better heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/morning-fatigue">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/morning-fatigue">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/morning-fatigue" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/morning-fatigue" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Morning Fatigue",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/morning-fatigue"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/morning-fatigue"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Morning Fatigue: Causes, Symptoms, and Diagnosis</h1>
 <p>Morning fatigue is a common condition characterized by feelings of tiredness, exhaustion, and lack of energy upon waking.</p>
-<p>It can manifest as tiredness upon waking, exhaustion in the morning, fatigue after sleep, morning <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">lethargy</a>, feeling drained in the morning, lack of energy in the morning, or morning sluggishness.</p>
+<p>It can manifest as tiredness upon waking, exhaustion in the morning, fatigue after sleep, morning <a href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">lethargy</a>, feeling drained in the morning, lack of energy in the morning, or morning sluggishness.</p>
 <p>This can significantly impact a person's daily functioning and overall quality of life.</p>
 <h2 id="forms">What are the Forms of Morning fatigue?</h2>
 <p>There are various forms of morning fatigue, each with specific symptoms and related concepts.</p>

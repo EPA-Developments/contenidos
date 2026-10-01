@@ -10,12 +10,12 @@
     <meta property="og:title" content="Calcium's Impact on Heart Muscle Contraction" />
     <meta property="og:description" content="Explore how calcium influences heart muscle contractions and the impact on cardiac function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-muscle-contraction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-muscle-contraction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-muscle-contraction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-muscle-contraction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Muscle Contraction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-muscle-contraction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-muscle-contraction"
         }
     ]
 }

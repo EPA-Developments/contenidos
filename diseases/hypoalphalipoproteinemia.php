@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypoalphalipoproteinemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hypoalphalipoproteinemia is a condition where there are low levels of high-density lipoprotein cholesterol. Know more about its causes and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hypoalphalipoproteinemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hypoalphalipoproteinemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hypoalphalipoproteinemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hypoalphalipoproteinemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hypoalphalipoproteinemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hypoalphalipoproteinemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hypoalphalipoproteinemia"
       }]
     }
   </script>
@@ -176,9 +176,9 @@
 <p>Recognizing the symptoms of Hypoalphalipoproteinemia early is crucial for improving outcomes. This condition refers to low levels of high-density lipoprotein (HDL) cholesterol, which can increase the risk of heart disease. Identifying symptoms promptly allows for timely intervention and management.
 
 <ul>
-<li>Unexplained <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in limbs</li>
+<li>Unexplained <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in limbs</li>
 <li>Fatigue or weakness</li>
 <li>Frequent infections</li>
 <li>Yellowish deposits around the eyes or skin</li>

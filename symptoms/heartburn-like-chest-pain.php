@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heartburn-Like Chest Pain: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Heartburn-like chest pain can indicate a heart issue. Know about causes, diagnosis, and treatment options for this condition for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn-like-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heartburn-like-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn-like-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn-like-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heartburn-Like Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heartburn-like-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heartburn-like-chest-pain"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Heartburn-Like Chest Pain: Causes, Symptoms, and Diagnosis</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a>-like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> is a common condition characterized by a burning sensation in the chest that often occurs after eating or at night.</p>
-<p>This discomfort can be mistaken for a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> due to its similarity in symptoms, but heartburn chest pain is usually not life-threatening.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a>-like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> is a common condition characterized by a burning sensation in the chest that often occurs after eating or at night.</p>
+<p>This discomfort can be mistaken for a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> due to its similarity in symptoms, but heartburn chest pain is usually not life-threatening.</p>
 <p>It is caused by stomach acid rising up into the esophagus, leading to irritation and inflammation of the esophageal lining.</p>
 <p>Symptoms of heartburn-like chest pain may include a burning feeling in the chest, a sour or acidic taste in the mouth, difficulty swallowing, and regurgitation of food or liquid.</p>
 <p>These symptoms can be triggered by certain foods, beverages, or lifestyle habits such as smoking, obesity, or eating large meals.</p>

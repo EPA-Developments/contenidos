@@ -10,12 +10,12 @@
     <meta property="og:title" content="Folic Acid Deficiency and Heart Disease Connection" />
     <meta property="og:description" content="Discover the impact of Folic Acid Deficiency on Heart Disease - Learn more about the crucial connection between the two for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-deficiency-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-deficiency-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-deficiency-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-deficiency-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid Deficiency And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-deficiency-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-deficiency-and-heart-disease"
         }
     ]
 }
@@ -132,8 +132,8 @@
 <p>Are you aware of how Folic Acid Deficiency can impact your heart health? The connection between Folic Acid Deficiency and Heart Disease is crucial to understand, as it can significantly affect your daily life and overall well-being. Let's delve into the details to shed light on this important link.</p>
 <p>Heart disease is a leading cause of mortality worldwide, and various factors contribute to its development. One such factor that often goes unnoticed is Folic Acid Deficiency and its impact on cardiovascular function. By exploring the relationship between Folic Acid levels and heart health, we can gain valuable insights into preventing heart-related issues.</p>
 <h2 class="sec-scrl" id="heart-attack-risk">How does Folic Acid Deficiency Influence Heart Attack Risk?</h2>
-<p>Folic Acid, also known as Vitamin B9, plays a crucial role in reducing homocysteine levels in the blood. Elevated homocysteine levels are associated with an increased risk of heart disease, including heart attacks. When Folate levels are low due to deficiency, homocysteine levels tend to rise, potentially raising the risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
-<p>Additionally, Folic Acid deficiency can impact endothelial function, which is essential for maintaining healthy blood vessels. <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, further increasing the risk of heart attacks.</p>
+<p>Folic Acid, also known as Vitamin B9, plays a crucial role in reducing homocysteine levels in the blood. Elevated homocysteine levels are associated with an increased risk of heart disease, including heart attacks. When Folate levels are low due to deficiency, homocysteine levels tend to rise, potentially raising the risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
+<p>Additionally, Folic Acid deficiency can impact endothelial function, which is essential for maintaining healthy blood vessels. <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, further increasing the risk of heart attacks.</p>
 <h2 class="sec-scrl" id="folate-levels">The Role of Folate Levels in Cardiovascular Function</h2>
 <p>Maintaining adequate Folate levels is crucial for optimal cardiovascular function. Folate-rich foods such as leafy green vegetables, legumes, and citrus fruits can help support heart health by providing the necessary nutrients to prevent deficiencies.</p>
 <ul>

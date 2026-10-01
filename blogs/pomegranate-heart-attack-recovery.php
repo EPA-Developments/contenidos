@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pomegranate for Heart Recovery: Natural Aid&quot;" />
     <meta property="og:description" content="Discover how pomegranate aids heart attack recovery naturally. Boost your healing with post-heart attack nutrition & potent antioxidants." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-heart-attack-recovery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-heart-attack-recovery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-heart-attack-recovery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-heart-attack-recovery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pomegranate Heart Attack Recovery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-heart-attack-recovery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pomegranate-heart-attack-recovery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Pomegranate for Heart Recovery: A Natural Aid</h1>
-<p>Are you looking for natural ways to speed up your <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> recovery process? How can pomegranate help you regain your strength and vitality after a heart attack, allowing you to resume your daily activities with confidence? Let's delve into the healing properties of pomegranate and its role in post-heart attack nutrition.</p>
+<p>Are you looking for natural ways to speed up your <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> recovery process? How can pomegranate help you regain your strength and vitality after a heart attack, allowing you to resume your daily activities with confidence? Let's delve into the healing properties of pomegranate and its role in post-heart attack nutrition.</p>
 <h2 class="sec-scrl" id="post-heart-attack-nutrition">Post Heart Attack Nutrition</h2>
 <p>After experiencing a heart attack, your body needs the right nutrients to heal and recover efficiently. Incorporating pomegranate into your post-heart attack diet can provide a range of benefits:</p>
 <ul>

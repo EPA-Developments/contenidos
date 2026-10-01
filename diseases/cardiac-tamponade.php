@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Tamponade: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac tamponade is a life-threatening condition due to fluid buildup. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-tamponade">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-tamponade">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-tamponade" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-tamponade" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Tamponade",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-tamponade"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-tamponade"
       }]
     }
   </script>
@@ -161,24 +161,24 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Cardiac Tamponade</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-tamponade">cardiac tamponade</a> is a serious condition where fluid accumulates in the sac around the heart, putting pressure on the heart and affecting its ability to pump blood effectively. This can lead to a life-threatening situation as the heart struggles to function properly. Although not very common, cardiac tamponade is a critical emergency that requires immediate medical attention to prevent severe complications. Understanding the symptoms and seeking prompt medical care is crucial for a positive outcome.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-tamponade">cardiac tamponade</a> is a serious condition where fluid accumulates in the sac around the heart, putting pressure on the heart and affecting its ability to pump blood effectively. This can lead to a life-threatening situation as the heart struggles to function properly. Although not very common, cardiac tamponade is a critical emergency that requires immediate medical attention to prevent severe complications. Understanding the symptoms and seeking prompt medical care is crucial for a positive outcome.</p>
 <h2 id="causes">Causes of Cardiac Tamponade</h2>
 <p><h3>Main Factors Contributing to Cardiac Tamponade</h3>
 <ul>
 <li>Blunt chest trauma</li>
 <li>Penetrating chest injuries</li>
-<li>Complications post-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a></li>
+<li>Complications post-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a></li>
 <li>Cancer involving the pericardium</li>
-<li>Infections such as tuberculosis or <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a></li>
+<li>Infections such as tuberculosis or <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Cardiac Tamponade</h2>
 <p>Recognizing the symptoms of cardiac tamponade is crucial as early detection can significantly improve outcomes. This condition occurs when fluid accumulates in the pericardial sac, compressing the heart and affecting its ability to pump effectively. Symptoms of cardiac tamponade include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
 <li>Feeling lightheaded or dizzy</li>
 <li>Anxiety or restlessness</li>
 </ul>
@@ -188,7 +188,7 @@ If you experience these symptoms, seek medical attention immediately as prompt d
 <p>Accurate diagnosis of cardiac tamponade is crucial due to its life-threatening nature. The diagnostic process typically involves a combination of clinical assessment, imaging studies, and hemodynamic monitoring. Prompt identification allows for timely intervention, reducing the risk of complications. Diagnostic methods for cardiac tamponade include:
 
 <ul>
-<li>Physical examination to assess for signs like hypotension and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a></li>
+<li>Physical examination to assess for signs like hypotension and <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a></li>
 <li>Echocardiography to visualize pericardial effusion and hemodynamic effects</li>
 <li>Chest X-ray to look for an enlarged cardiac silhouette</li>
 <li>Electrocardiography (ECG) to detect electrical alternans</li>

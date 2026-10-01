@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Saturated Fats Impact on Heart Health&quot;" />
     <meta property="og:description" content="Learn how saturated fats impact heart health. Discover the link between saturated fats and heart disease risk." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/saturated-fats-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/saturated-fats-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/saturated-fats-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/saturated-fats-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Saturated Fats And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/saturated-fats-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/saturated-fats-and-heart-disease"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about the impact of saturated fats on heart disease? How does this affect your daily life and overall health?</p>
 <p>Saturated fats are known for their link to heart disease. Understanding the role of saturated fats in cardiovascular risk is crucial for managing your fat intake and preventing heart-related issues. Let's delve into the connection between saturated fats and heart disease to make informed choices about your diet and lifestyle.</p>
 <h2 class="sec-scrl" id="saturated-fats">What Are Saturated Fats?</h2>
-<p>Saturated fats are solid at room temperature and commonly found in animal products like meat and dairy. These fats can increase LDL cholesterol levels, leading to artery blockages and an increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Consuming high amounts of saturated fats can contribute to unhealthy fats in the body, raising concerns about cardiovascular risk.</p>
+<p>Saturated fats are solid at room temperature and commonly found in animal products like meat and dairy. These fats can increase LDL cholesterol levels, leading to artery blockages and an increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Consuming high amounts of saturated fats can contribute to unhealthy fats in the body, raising concerns about cardiovascular risk.</p>
 <p>It's essential to be mindful of your saturated fat consumption to maintain a healthy heart. Consider incorporating more unsaturated fats from sources like nuts, seeds, and avocados into your diet as a healthier alternative.</p>
 <h2 class="sec-scrl" id="impact-on-heart">How Do Saturated Fats Impact the Heart?</h2>
 <p>The consumption of saturated fats can raise LDL cholesterol levels in the blood, which can build up in the arteries over time, forming plaques that restrict blood flow. These artery blockages can lead to serious complications like heart attacks and strokes, emphasizing the importance of monitoring your fat intake to reduce the risk of heart disease.</p>

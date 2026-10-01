@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Whitaker Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Discover the causes, symptoms, and treatment options for Whitaker Syndrome. Learn how this rare genetic disorder affects the body.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/whitaker-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/whitaker-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/whitaker-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/whitaker-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Whitaker Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/whitaker-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/whitaker-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Whitaker Syndrome: Symptoms, Causes, and Treatment</h1>
-<p>Whitaker Syndrome, a rare condition, is characterized by a combination of primary hyperaldosteronism and hypokalemia, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and low potassium levels. This syndrome is significant as it can result in severe cardiovascular complications if left untreated. Although rare, it is crucial to diagnose and manage Whitaker Syndrome promptly to prevent potential heart issues. While prevalence data is limited due to its rarity, healthcare providers need to consider this syndrome when evaluating patients with uncontrolled <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and low potassium levels.</p>
+<p>Whitaker Syndrome, a rare condition, is characterized by a combination of primary hyperaldosteronism and hypokalemia, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and low potassium levels. This syndrome is significant as it can result in severe cardiovascular complications if left untreated. Although rare, it is crucial to diagnose and manage Whitaker Syndrome promptly to prevent potential heart issues. While prevalence data is limited due to its rarity, healthcare providers need to consider this syndrome when evaluating patients with uncontrolled <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and low potassium levels.</p>
 <h2 id="causes">Causes of Whitaker Syndrome</h2>
 <p>Whitaker syndrome, a rare disorder, usually occurs in patients with long-standing diabetes. The main factors contributing to its development include:
 
@@ -192,7 +192,7 @@ Diagnostic methods for Whitaker Syndrome include:
 <ul>
 <li>Physical examination and medical history review</li>
 <li>Blood tests to check potassium levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
 <li>Arterial blood gas test to evaluate acid-base balance</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Whitaker Syndrome</h2>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Top Causes of Coronary Heart Disease: Understanding Coronary Heart Disease Causes">
   <meta property="og:description" content="Uncover the top causes of coronary heart disease and learn how to protect your heart health. Explore the leading factors behind coronary heart disease.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/causes-of-coronary-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/causes-of-coronary-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/causes-of-coronary-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/causes-of-coronary-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Top Causes Of Coronary Heart Disease: Understanding Coronary Heart Disease Causes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/causes-of-coronary-heart-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/causes-of-coronary-heart-disease"  
       }]
     }
   </script>

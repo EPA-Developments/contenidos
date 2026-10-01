@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Arrhythmia Signs: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Severe Arrhythmia Signs Can Indicate A Heart Issue. Read More About Its Causes, Diagnosis, Forms And The Treatments Available For Better Heart Health Care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-arrhythmia-signs">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-arrhythmia-signs">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-arrhythmia-signs" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-arrhythmia-signs" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Arrhythmia Signs",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-arrhythmia-signs"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-arrhythmia-signs"  
       }]
     }
   </script>
@@ -186,14 +186,14 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Severe Arrhythmia Signs: Causes, Symptoms, and Diagnosis</h1>
-<p>Severe arrhythmia refers to extreme heart rhythm abnormalities that can lead to critical arrhythmia, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations">severe palpitations</a>, and dangerous heart arrhythmias. It is characterized by severe heart irregularities and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> signs, indicating significant heart rhythm disturbances.</p>
+<p>Severe arrhythmia refers to extreme heart rhythm abnormalities that can lead to critical arrhythmia, <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations">severe palpitations</a>, and dangerous heart arrhythmias. It is characterized by severe heart irregularities and <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> signs, indicating significant heart rhythm disturbances.</p>
 <p>When someone experiences severe arrhythmia, the heart's electrical system malfunctions, causing the heart to beat too fast, too slow, or irregularly.</p>
 <p>Severe arrhythmia can be a serious condition, especially if left untreated. It can be associated with underlying heart diseases or other medical conditions, making it crucial to recognize the symptoms and seek appropriate medical attention promptly.</p>
-<p>Common symptoms of severe arrhythmia include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, and fatigue.</p>
+<p>Common symptoms of severe arrhythmia include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, and fatigue.</p>
 <h2 id="forms">What are the Forms of Severe arrhythmia signs?</h2>
 <p>There are various forms of severe arrhythmia signs, each presenting with specific symptoms and related concepts:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>: A life-threatening arrhythmia characterized by rapid, erratic heartbeats that can lead to sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>: A life-threatening arrhythmia characterized by rapid, erratic heartbeats that can lead to sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</li>
 <li>Atrial fibrillation: The most common type of arrhythmia, causing irregular and rapid heartbeats.</li>
 <li>Ventricular tachycardia: A fast heartbeat originating in the heart's lower chambers.</li>
 <li>Bradycardia: A slow heart rate that can cause symptoms like dizziness, fatigue, and fainting.</li>

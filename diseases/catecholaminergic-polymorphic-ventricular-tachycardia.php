@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Catecholaminergic Polymorphic Ventricular Tachycardia: Causes" >
   <meta property="og:description" content="Catecholaminergic Polymorphic Ventricular Tachycardia, this rare heart rhythm disorder can be life-threatening. Read more about its symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/catecholaminergic-polymorphic-ventricular-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/catecholaminergic-polymorphic-ventricular-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/catecholaminergic-polymorphic-ventricular-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/catecholaminergic-polymorphic-ventricular-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Catecholaminergic Polymorphic Ventricular Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/catecholaminergic-polymorphic-ventricular-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/catecholaminergic-polymorphic-ventricular-tachycardia"
       }]
     }
   </script>
@@ -168,23 +168,23 @@
 <h1>Causes of Catecholaminergic Polymorphic Ventricular Tachycardia</h1>
 <p>Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) is a rare genetic condition characterized by abnormal heart rhythms that can be life-threatening if left untreated.</p>
 <p>Despite its low prevalence, CPVT holds significant importance in the field of cardiology due to its potential to cause sudden cardiac death, especially in young individuals.</p>
-<p>Inherited in an autosomal dominant fashion, CPVT affects the heart's electrical system, leading to episodes of ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a> triggered by physical activity or emotional stress.</p>
+<p>Inherited in an autosomal dominant fashion, CPVT affects the heart's electrical system, leading to episodes of ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a> triggered by physical activity or emotional stress.</p>
 <p>This condition often remains asymptomatic in its early stages, underscoring the importance of early detection and regular screenings to prevent adverse outcomes.</p>
-<p>Untreated CPVT poses both short-term risks like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, as well as long-term risks including sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> and death.</p>
+<p>Untreated CPVT poses both short-term risks like <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, as well as long-term risks including sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> and death.</p>
 <h2 id="causes">Causes of Catecholaminergic Polymorphic Ventricular Tachycardia</h2>
 <p>The primary causes of CPVT involve genetic mutations affecting ion channels in the heart, disrupting its electrical signaling. Mutations in genes such as RYR2, CASQ2, and CALM1 can predispose individuals to CPVT by altering calcium handling in cardiomyocytes.</p>
 <p>These abnormalities can lead to the development of ventricular arrhythmias under conditions of heightened sympathetic stimulation, as seen during exercise or stress.</p>
 <p>Additionally, structural heart abnormalities, electrolyte imbalances, and certain medications can act as secondary risk factors contributing to the manifestation of CPVT.</p>
 <p>Lifestyle factors like excessive caffeine intake, emotional stress, and inadequate sleep can exacerbate the condition by increasing sympathetic tone and triggering arrhythmias.</p>
 <h2 id="symptoms">Symptoms of Catecholaminergic Polymorphic Ventricular Tachycardia</h2>
-<p>Early symptoms of CPVT may include palpitations, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and exercise intolerance, which can impact an individual's ability to engage in physical activities. These initial signs are often subtle and may be mistaken for benign conditions, delaying proper diagnosis.</p>
-<p>As the disease progresses, advanced symptoms like syncope, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and cardiac arrest can significantly impair daily life and emotional well-being.</p>
+<p>Early symptoms of CPVT may include palpitations, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and exercise intolerance, which can impact an individual's ability to engage in physical activities. These initial signs are often subtle and may be mistaken for benign conditions, delaying proper diagnosis.</p>
+<p>As the disease progresses, advanced symptoms like syncope, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and cardiac arrest can significantly impair daily life and emotional well-being.</p>
 <p>The unpredictability of arrhythmic events in CPVT can lead to anxiety and fear, further affecting the quality of life for affected individuals.</p>
 <h2>Diagnosis of Catecholaminergic Polymorphic Ventricular Tachycardia</h2>
 <p>Diagnosing CPVT involves a multi-step approach, starting with a thorough clinical evaluation and family history assessment.</p>
 <p>Specific tests like exercise stress testing, genetic testing, and cardiac imaging play crucial roles in confirming the presence of CPVT and assessing the risk of arrhythmias.</p>
 <p>Exercise stress testing helps provoke arrhythmias under controlled conditions, while genetic testing can identify underlying mutations responsible for CPVT.</p>
-<p>Cardiac imaging techniques such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> and cardiac MRI provide valuable insights into the structural abnormalities that may predispose individuals to arrhythmias.</p>
+<p>Cardiac imaging techniques such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> and cardiac MRI provide valuable insights into the structural abnormalities that may predispose individuals to arrhythmias.</p>
 <h2 id="treatment">Treatment Options for Catecholaminergic Polymorphic Ventricular Tachycardia</h2>
 <p>Treatment strategies for CPVT aim to prevent arrhythmic events and improve quality of life. Beta-blockers, such as propranolol and nadolol, are the mainstay of pharmacological therapy, helping to reduce the heart's response to catecholamines and prevent arrhythmias.</p>
 <p>In cases where beta-blockers are ineffective, additional medications like flecainide or left cardiac sympathetic denervation may be considered. Lifestyle modifications, including avoiding triggers like intense physical exertion and managing stress, are essential in managing CPVT.</p>

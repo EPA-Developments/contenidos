@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Care for Down Syndrome" />
     <meta property="og:description" content="Learn how to effectively manage heart issues in Down syndrome patients for improved cardiovascular care." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/down-syndrome-heart-problems" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/down-syndrome-heart-problems" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/down-syndrome-heart-problems" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/down-syndrome-heart-problems" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Down Syndrome Heart Problems",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/down-syndrome-heart-problems"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/down-syndrome-heart-problems"
         }
     ]
 }
@@ -176,7 +176,7 @@
 <h2 class="sec-scrl" id="heart-issues-in-Down-syndrome">Heart Issues in Down Syndrome</h2>
 <p>Individuals with Down syndrome have a higher risk of congenital heart defects compared to the general population. These heart issues can range from structural abnormalities to functional problems that affect the heart's ability to pump blood efficiently. Understanding the specific heart conditions associated with Down syndrome is essential for effective management.</p>
 <ul>
-<li>Common congenital heart defects in Down syndrome include atrioventricular septal defects, <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects">ventricular septal defects</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a>.</li>
+<li>Common congenital heart defects in Down syndrome include atrioventricular septal defects, <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects">ventricular septal defects</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus">patent ductus arteriosus</a>.</li>
 <li>Regular cardiac evaluations, including echocardiograms, are necessary to monitor heart health and detect any changes early on.</li>
 <li>Symptoms of heart problems in Down syndrome may present differently, making it important for caregivers to be vigilant and proactive in seeking medical attention.</li>
 </ul>

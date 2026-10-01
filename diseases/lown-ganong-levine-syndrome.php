@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Lown-Ganong-Levine Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Lown-Ganong-Levine Syndrome affects heart electrical signals. Read more about its causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/lown-ganong-levine-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/lown-ganong-levine-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/lown-ganong-levine-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/lown-ganong-levine-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Lown-Ganong-Levine Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/lown-ganong-levine-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/lown-ganong-levine-syndrome"
       }]
     }
   </script>
@@ -162,7 +162,7 @@ The cause of Lown-Ganong-Levine syndrome involves an abnormal electrical connect
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Lown-Ganong-Levine Syndrome</h1>
-<p>Lown-Ganong-Levine Syndrome is a rare heart condition where an abnormal electrical pathway in the heart causes rapid heart rates. This syndrome isn't as common as other heart conditions but is significant as it can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fainting, or even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. While exact prevalence rates are not well documented, it is considered a rare condition. Understanding this syndrome is crucial for timely diagnosis and appropriate management to prevent complications and ensure a good quality of life.</p>
+<p>Lown-Ganong-Levine Syndrome is a rare heart condition where an abnormal electrical pathway in the heart causes rapid heart rates. This syndrome isn't as common as other heart conditions but is significant as it can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fainting, or even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. While exact prevalence rates are not well documented, it is considered a rare condition. Understanding this syndrome is crucial for timely diagnosis and appropriate management to prevent complications and ensure a good quality of life.</p>
 <h2 id="causes">Causes of Lown-Ganong-Levine Syndrome</h2>
 <p>Certainly! Here are the main factors contributing to the development of Lown-Ganong-Levine Syndrome:
 
@@ -176,7 +176,7 @@ The cause of Lown-Ganong-Levine syndrome involves an abnormal electrical connect
 <p>Recognizing the symptoms of Lown-Ganong-Levine Syndrome is crucial as early detection can significantly improve outcomes for individuals affected by this condition. Being aware of the signs allows for timely intervention and management, reducing the risk of complications. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>)</li>
 <li>Irregular heart rhythms</li>
 <li>Palpitations</li>
 <li>Fainting or near-fainting episodes</li>
@@ -187,8 +187,8 @@ If you or someone you know experiences any of these symptoms, seeking medical at
 <p>Diagnosing Lown-Ganong-Levine Syndrome is crucial to determine the appropriate treatment and management plan. The diagnostic process typically involves a combination of medical history review, physical examination, and various tests. Accurate diagnosis is essential to differentiate this syndrome from other cardiac conditions with similar symptoms. Diagnostic methods may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart's electrical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function</li>
 <li>Holter monitor to record heart's electrical activity over 24-48 hours</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Lown-Ganong-Levine Syndrome</h2>
@@ -206,11 +206,11 @@ If you or someone you know experiences any of these symptoms, seeking medical at
 <li>Ablation therapy uses heat or cold energy to destroy abnormal electrical pathways in the heart.</li>
 <li>The rationale is to eliminate the extra pathway causing the rapid heart rate.</li>
 <li>The primary objective is to restore a normal heart rhythm.</li>
-<li>This procedure is done in a specialized <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> lab.</li>
+<li>This procedure is done in a specialized <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> lab.</li>
 </ul>
 <h3>Cardioversion</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a> is a procedure that uses electrical shocks to reset the heart's rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a> is a procedure that uses electrical shocks to reset the heart's rhythm.</li>
 <li>The rationale is to restore a normal heart rhythm in cases of irregular heartbeat.</li>
 <li>The primary objective is to convert the abnormal rhythm back to normal sinus rhythm.</li>
 <li>This is usually done under sedation in a controlled medical setting.</li>

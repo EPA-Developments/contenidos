@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus Tea: Natural Aid for High BP&quot;" />
     <meta property="og:description" content="Discover the benefits of Hibiscus tea for controlling high blood pressure naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Managing High Blood Pressure with Hibiscus Tea</h1>
-<p>Are you looking for a natural way to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> effectively? Does the idea of incorporating a soothing herbal tea into your daily routine to support your heart health sound appealing to you? High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, affects millions of people worldwide and can significantly impact your daily activities. Discover the potential benefits of using hibiscus tea as a natural remedy to help regulate your blood pressure levels and improve your overall well-being.</p>
+<p>Are you looking for a natural way to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> effectively? Does the idea of incorporating a soothing herbal tea into your daily routine to support your heart health sound appealing to you? High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, affects millions of people worldwide and can significantly impact your daily activities. Discover the potential benefits of using hibiscus tea as a natural remedy to help regulate your blood pressure levels and improve your overall well-being.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">How Does Hibiscus Tea Support Blood Pressure Control?</h2>
 <p>Hibiscus tea is packed with antioxidants that help promote healthy blood circulation and support optimal heart function. The antioxidants in hibiscus tea help reduce oxidative stress in the body, which can contribute to high blood pressure. By including hibiscus tea in your daily routine, you may experience a gentle reduction in your blood pressure levels over time.</p>
 <p>In addition to its antioxidant properties, hibiscus tea acts as a natural diuretic, promoting the removal of excess sodium from the body. This diuretic effect can help lower blood volume and subsequently reduce blood pressure. Moreover, hibiscus tea contains compounds that may help relax blood vessels, allowing for smoother blood flow and decreased strain on the heart.</p>

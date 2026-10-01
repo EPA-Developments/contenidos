@@ -10,12 +10,12 @@
     <meta property="og:title" content="Brown Rice for Blood Pressure Control" />
     <meta property="og:description" content="Discover how brown rice can help manage blood pressure naturally. Learn more about the benefits of incorporating this heart-healthy grain into your diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Brown Rice For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/brown-rice-for-blood-pressure"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Brown Rice for Blood Pressure Control</h1>
-<p>Are you struggling to manage your blood pressure effectively? Have you considered the impact of incorporating brown rice into your diet? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily life, from limiting physical activities to increasing the risk of serious health complications. Discover how brown rice, a simple dietary change, can play a crucial role in managing your blood pressure levels.</p>
+<p>Are you struggling to manage your blood pressure effectively? Have you considered the impact of incorporating brown rice into your diet? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily life, from limiting physical activities to increasing the risk of serious health complications. Discover how brown rice, a simple dietary change, can play a crucial role in managing your blood pressure levels.</p>
 <h2 class="sec-scrl" id="blood-pressure-management">Blood Pressure Management</h2>
-<p>High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition that affects a large percentage of the population. It is often referred to as the "silent killer" because it typically presents no symptoms but can lead to severe health issues such as heart disease, stroke, and kidney problems. One effective way to manage hypertension is through dietary modifications, and brown rice can be a valuable addition to your daily meals.</p>
+<p>High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition that affects a large percentage of the population. It is often referred to as the "silent killer" because it typically presents no symptoms but can lead to severe health issues such as heart disease, stroke, and kidney problems. One effective way to manage hypertension is through dietary modifications, and brown rice can be a valuable addition to your daily meals.</p>
 <p>Brown rice is a whole grain that retains its outer bran layer and germ, making it a more nutritious choice than white rice. This unrefined grain is rich in fiber, vitamins, and minerals that are beneficial for cardiovascular health. When consumed as part of a balanced diet, brown rice can help regulate blood pressure levels and support overall heart health.</p>
 <h2 class="sec-scrl" id="sodium-reduction">Sodium Reduction</h2>
-<p>One of the key benefits of incorporating brown rice into your diet for blood pressure control is its low sodium content. Excessive sodium intake is a known risk factor for hypertension, as it can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. Unlike processed foods and white rice, which are often high in sodium, brown rice is a natural, low-sodium food that can help you reduce your overall sodium consumption.</p>
+<p>One of the key benefits of incorporating brown rice into your diet for blood pressure control is its low sodium content. Excessive sodium intake is a known risk factor for hypertension, as it can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. Unlike processed foods and white rice, which are often high in sodium, brown rice is a natural, low-sodium food that can help you reduce your overall sodium consumption.</p>
 <p>By replacing white rice with brown rice in your meals, you can lower your sodium intake and support healthy blood pressure levels. Additionally, the potassium content in brown rice can counteract the effects of sodium, further assisting in blood pressure management.</p>
 <h2 class="sec-scrl" id="potassium-rich-foods">Potassium Rich Foods</h2>
 <p>Potassium is an essential mineral that plays a vital role in regulating blood pressure. A diet rich in potassium can help offset the negative effects of sodium on blood pressure and support cardiovascular health. Brown rice is a good source of potassium, making it a valuable addition to a hypertension diet.</p>

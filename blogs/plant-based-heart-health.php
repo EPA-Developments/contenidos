@@ -10,12 +10,12 @@
     <meta property="og:title" content="Plant-Based Heart Health: Pumpkin Seeds & Cardiovascular Wellness" />
     <meta property="og:description" content="Explore the benefits of plant-based diets for heart health with pumpkin seeds. Discover how these seeds can support cardiovascular wellness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/plant-based-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/plant-based-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/plant-based-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/plant-based-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Plant Based Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/plant-based-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/plant-based-heart-health"
         }
     ]
 }
@@ -149,7 +149,7 @@
 </ul>
 <p>By embracing a plant-based diet, individuals can take significant steps towards protecting their heart health and overall well-being.</p>
 <h2 class="sec-scrl" id="Cholesterol management">Managing Cholesterol Levels Naturally</h2>
-<p>Cholesterol management is crucial for heart health, and plant-based diets offer a natural way to regulate cholesterol levels. Plant foods are naturally cholesterol-free and low in saturated fats, which can help lower LDL (bad) cholesterol and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Incorporating plant-based sources of heart-healthy fats, such as avocados, nuts, and seeds like pumpkin seeds, can further support cholesterol management.</p>
+<p>Cholesterol management is crucial for heart health, and plant-based diets offer a natural way to regulate cholesterol levels. Plant foods are naturally cholesterol-free and low in saturated fats, which can help lower LDL (bad) cholesterol and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Incorporating plant-based sources of heart-healthy fats, such as avocados, nuts, and seeds like pumpkin seeds, can further support cholesterol management.</p>
 <p>In addition to healthy fats, plant-based diets are rich in soluble fiber, which plays a key role in cholesterol reduction. Fiber binds with cholesterol in the digestive system, preventing its absorption into the bloodstream and promoting its excretion from the body. By increasing fiber intake through whole plant foods, individuals can effectively manage their cholesterol levels and protect their heart health.</p>
 <h2 class="sec-scrl" id="Heart healthy fats">Embracing Heart-Healthy Fats</h2>
 <p>While fats are often demonized in traditional diets, not all fats are created equal. Plant-based diets emphasize the consumption of heart-healthy fats that support cardiovascular health. Sources of unsaturated fats, such as those found in olive oil, nuts, seeds, and avocados, can help reduce inflammation, lower LDL cholesterol, and improve overall heart function.</p>

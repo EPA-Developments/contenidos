@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cold Feet: Causes, Symptoms, Diagnosis and Treatment" >
   <meta property="og:description" content="Cold feet can be a sign of circulation or heart problems. Learn more about causes, diagnosis, symptoms, and treatments for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/cold-feet">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/cold-feet">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-feet" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/cold-feet" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cold Feet",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/cold-feet"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/cold-feet"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Cold Feet: Causes, Symptoms, Treatment and Diagnosis</h1>
 <p>Cold feet is a condition where the feet feel unusually cold compared to the rest of the body, often resulting in discomfort and potential health concerns.</p>
-<p>It can manifest as cold extremities, frozen feet, chilled feet, cold toes, feet temperature drop, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> in feet, and feet numbness.</p>
+<p>It can manifest as cold extremities, frozen feet, chilled feet, cold toes, feet temperature drop, <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> in feet, and feet numbness.</p>
 <p>This condition is not uncommon and can be caused by various factors, including environmental conditions, poor circulation, or underlying health issues.</p>
 <h2 id="forms">What are the Forms of Cold feet?</h2>
 <p>There are several forms of cold feet, each with specific symptoms and related concepts:</p>
@@ -217,7 +217,7 @@
 <ul>
 <li>Lifestyle changes: Keeping feet warm, regular exercise, and smoking cessation.</li>
 <li>Medications: Prescribed for conditions like Raynaud's or peripheral artery disease.</li>
-<li>Advanced therapies: In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or nerve blocks may be recommended.</li>
+<li>Advanced therapies: In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or nerve blocks may be recommended.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if cold feet are persistent, accompanied by severe pain, numbness, tingling, or skin changes.</p>

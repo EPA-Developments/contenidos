@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myxomatous Mitral Valve Disease: Symptoms and Treatment" >
   <meta property="og:description" content="Myxomatous Mitral Valve Disease affects the heart's mitral valve. Know more about its symptoms, causes, and treatments to maintain heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myxomatous-mitral-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myxomatous-mitral-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myxomatous-mitral-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myxomatous-mitral-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Myxomatous Mitral Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myxomatous-mitral-valve-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myxomatous-mitral-valve-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Myxomatous Mitral Valve Disease</h1>
-<p>Myxomatous Mitral Valve Disease is a condition where the valve between the heart's left atrium and left ventricle doesn't close properly. This can lead to blood flowing backward in the heart, causing symptoms like fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. It's a common heart valve disorder, especially in older individuals. Understanding this disease is crucial as it can progress over time, potentially leading to serious complications if not managed properly. Regular check-ups and early detection can help in effectively managing the condition.</p>
+<p>Myxomatous Mitral Valve Disease is a condition where the valve between the heart's left atrium and left ventricle doesn't close properly. This can lead to blood flowing backward in the heart, causing symptoms like fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. It's a common heart valve disorder, especially in older individuals. Understanding this disease is crucial as it can progress over time, potentially leading to serious complications if not managed properly. Regular check-ups and early detection can help in effectively managing the condition.</p>
 <h2 id="causes">Causes of Myxomatous Mitral Valve Disease</h2>
 <p>Myxomatous mitral valve disease develops due to various factors, including:
 
@@ -177,16 +177,16 @@
 
 <ul>
 <li>Shortness of breath, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 </ul></p>
 <h2>Diagnosis of Myxomatous Mitral Valve Disease</h2>
 <p>Accurate diagnosis of Myxomatous Mitral Valve Disease is crucial for timely intervention and management. The diagnostic process typically involves a combination of clinical evaluation, imaging studies, and tests. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This non-invasive test provides detailed images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This non-invasive test provides detailed images of the heart's structure and function.</li>
 <li>Cardiac MRI: Offers high-resolution images to assess the severity of valve regurgitation.</li>
 <li>Cardiac CT scan: Helps visualize the heart's anatomy and detect any abnormalities.</li>
 <li>Electrocardiogram (ECG): Records the heart's electrical activity to identify irregularities.</li>

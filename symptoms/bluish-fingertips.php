@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes,Diagnosis and Treatment for Bluish Fingertips" >
   <meta property="og:description" content="Bluish fingertips may be a sign of low oxygen or heart problems. Know more about the causes, symptoms, treatment and diagnosis for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-fingertips">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/bluish-fingertips">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-fingertips" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-fingertips" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bluish Fingertips",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/bluish-fingertips"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/bluish-fingertips"  
       }]
     }
   </script>
@@ -186,13 +186,13 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Bluish Fingertips: Treatment, Causes and Diagnosis</h1>
-<p>Bluish fingertips, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> in fingers, occur when the skin turns a shade of blue due to lack of oxygen in the blood.</p>
+<p>Bluish fingertips, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> in fingers, occur when the skin turns a shade of blue due to lack of oxygen in the blood.</p>
 <p>This discoloration can be concerning and may indicate an underlying health issue affecting circulation or oxygenation in the body. Bluish fingertips are characterized by a blue-colored tinge in the hands, often accompanied by coldness and discomfort.</p>
 <h2 id="forms">What are the Forms of Bluish fingertips?</h2>
 <p>There are various forms of bluish fingertips, each with its specific symptoms and related concepts.</p>
 <ul>
 <li>Blue-colored fingertips: The fingers appear blue due to reduced oxygen levels in the blood.</li>
-<li>Discolored fingers: The skin on the fingers may have a bluish tinge, indicating <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Discolored fingers: The skin on the fingers may have a bluish tinge, indicating <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 <li>Cold, blue fingers: Fingers feel cold to the touch and have a blue hue, suggesting circulation issues.</li>
 <li>Finger discoloration: The fingers may have an abnormal color, such as blue or purple, due to oxygen deprivation.</li>
 </ul>
@@ -217,7 +217,7 @@
 <ul>
 <li>Medications: To improve circulation or manage underlying conditions like Raynaud's disease.</li>
 <li>Lifestyle changes: Such as quitting smoking, staying warm, and avoiding triggers like cold temperatures.</li>
-<li>Advanced therapies: In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or surgery may be necessary to improve blood flow.</li>
+<li>Advanced therapies: In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or surgery may be necessary to improve blood flow.</li>
 <li>Moisturizing creams: To keep the skin hydrated and prevent further damage from dryness.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>

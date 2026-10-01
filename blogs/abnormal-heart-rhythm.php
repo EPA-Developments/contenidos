@@ -10,12 +10,12 @@
     <meta property="og:title" content="Stress and Abnormal Heart Rhythm Connection" />
     <meta property="og:description" content="Discover how stress impacts abnormal heart rhythm & daily life. Learn about arrhythmia symptoms and heart palpitations causes." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-rhythm" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-rhythm" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-rhythm" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-rhythm" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Abnormal Heart Rhythm",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/abnormal-heart-rhythm"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/abnormal-heart-rhythm"
         }
     ]
 }
@@ -174,17 +174,17 @@
 <p>Abnormal heart rhythm, or arrhythmia, refers to a condition where the heart beats irregularly. The heart's electrical system, responsible for controlling the heartbeat, malfunctions, causing the heart to beat too fast, too slow, or with an irregular pattern. This disruption in the heart's rhythm can lead to various symptoms and potential complications.</p>
 <p>Some common types of arrhythmias include:</p>
 <ul>
-<li>Atrial Fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>): Characterized by rapid and irregular heartbeats</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>: When the heart beats too slowly</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>: When the heart beats too quickly</li>
+<li>Atrial Fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>): Characterized by rapid and irregular heartbeats</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>: When the heart beats too slowly</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>: When the heart beats too quickly</li>
 </ul>
 <h2 class="sec-scrl" id="arrhythmia-symptoms">Recognizing Arrhythmia Symptoms</h2>
 <p>It is essential to recognize the symptoms of arrhythmia to seek timely medical attention. Some common arrhythmia symptoms include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or fluttering sensations in the chest</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or fluttering sensations in the chest</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Fainting spells</li>
 </ul>
 <p>If you experience any of these symptoms, especially in combination, it is crucial to consult a healthcare provider for proper evaluation and management.</p>

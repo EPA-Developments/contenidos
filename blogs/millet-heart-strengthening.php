@@ -10,12 +10,12 @@
     <meta property="og:title" content="Millet Heart Health: Evidence and Insights" />
     <meta property="og:description" content="Explore the powerful connection between millet and a healthier heart. Discover the evidence-backed insights on millet's impact on cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/millet-heart-strengthening" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/millet-heart-strengthening" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/millet-heart-strengthening" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/millet-heart-strengthening" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Millet Heart Strengthening",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/millet-heart-strengthening"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/millet-heart-strengthening"
         }
     ]
 }
@@ -151,7 +151,7 @@
 <ul>
 <li>Reduction in LDL Cholesterol: Regular consumption of millet has been associated with a decrease in LDL cholesterol levels, which is beneficial for heart health.</li>
 <li>Improved Blood Sugar Control: The complex carbohydrates in millet help stabilize blood sugar levels, reducing the risk of diabetes-related heart issues.</li>
-<li>Protection Against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: The fiber content in millet can help prevent the buildup of plaque in the arteries, reducing the risk of atherosclerosis.</li>
+<li>Protection Against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: The fiber content in millet can help prevent the buildup of plaque in the arteries, reducing the risk of atherosclerosis.</li>
 </ul>
 <p>These studies emphasize the role of millet in promoting cardiovascular wellness and reducing the risk factors associated with heart disease.</p>
 <h2 class="sec-scrl" id="millet-nutrition-facts">Millet Nutrition Facts</h2>

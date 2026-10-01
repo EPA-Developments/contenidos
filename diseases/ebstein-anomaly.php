@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ebstein Anomaly: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Ebstein Anomaly is a rare heart defect affecting valve function. Know more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ebstein-anomaly">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ebstein-anomaly">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ebstein-anomaly" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ebstein-anomaly" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ebstein Anomaly",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ebstein-anomaly"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ebstein-anomaly"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>This condition impacts the heart's function by leading to abnormal blood flow between the heart chambers, specifically the right atrium and right ventricle.</p>
 <p>The prevalence of Ebstein Anomaly is estimated to be around 1 in 20,000 live births, making it a relatively uncommon heart condition. However, its impact on health can be significant, with both short-term and long-term risks if left untreated.</p>
 <p>In individuals with Ebstein Anomaly, the tricuspid valve's abnormal position can result in blood leaking back into the right atrium during each heartbeat.</p>
-<p>This inefficiency disrupts normal blood circulation and can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and irregular heart rhythms. In severe cases, untreated Ebstein Anomaly can result in heart failure, arrhythmias, and even sudden cardiac death.</p>
+<p>This inefficiency disrupts normal blood circulation and can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and irregular heart rhythms. In severe cases, untreated Ebstein Anomaly can result in heart failure, arrhythmias, and even sudden cardiac death.</p>
 <p>It is crucial to note that Ebstein Anomaly can be asymptomatic in its early stages, making it challenging to detect without proper screening.</p>
 <p>Therefore, early detection through regular cardiac evaluations, especially in newborns and children, is essential to ensure timely intervention and management of this condition.</p>
 <h2 id="causes">Causes of Ebstein Anomaly</h2>
@@ -191,20 +191,20 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Individuals with Ebstein Anomaly may experience fatigue due to the heart's inefficiency in pumping blood effectively. This fatigue can impact daily activities and energy levels, leading to decreased stamina and endurance.</li>
-<li>Shortness of Breath: Breathing difficulties, especially during physical exertion, can be an early symptom of Ebstein Anomaly. The impaired blood flow and oxygen delivery can result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, affecting one's ability to engage in physical activities.</li>
+<li>Shortness of Breath: Breathing difficulties, especially during physical exertion, can be an early symptom of Ebstein Anomaly. The impaired blood flow and oxygen delivery can result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, affecting one's ability to engage in physical activities.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Arrhythmias: Advanced stages of Ebstein Anomaly can present with arrhythmias, irregular heart rhythms that can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>. These symptoms can significantly impact physical and emotional well-being, requiring prompt medical attention.</li>
+<li>Arrhythmias: Advanced stages of Ebstein Anomaly can present with arrhythmias, irregular heart rhythms that can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>. These symptoms can significantly impact physical and emotional well-being, requiring prompt medical attention.</li>
 <li>Heart Failure: Severe cases of Ebstein Anomaly can lead to heart failure, where the heart's inability to pump blood efficiently results in fluid retention, fatigue, and shortness of breath. The progression to heart failure can have profound implications for overall health and quality of life.</li>
 </ul>
 <h2>Diagnosis of Ebstein Anomaly</h2>
 <p>Multi-step Diagnostic Process</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a primary imaging test used to visualize the heart's structure and function. It can help detect abnormalities in the tricuspid valve's positioning and assess the severity of Ebstein Anomaly.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can detect abnormal rhythms or conduction patterns associated with Ebstein Anomaly. It provides valuable information for diagnosing this congenital heart defect.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a primary imaging test used to visualize the heart's structure and function. It can help detect abnormalities in the tricuspid valve's positioning and assess the severity of Ebstein Anomaly.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can detect abnormal rhythms or conduction patterns associated with Ebstein Anomaly. It provides valuable information for diagnosing this congenital heart defect.</li>
 <li>Cardiac MRI: A cardiac MRI offers detailed images of the heart's structures and can reveal structural abnormalities like Ebstein Anomaly. It provides additional insights into the heart's function and helps in accurate diagnosis and treatment planning.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: In some cases, cardiac catheterization may be performed to assess the heart's internal pressures and blood flow. This invasive procedure can provide essential information about the severity and impact of Ebstein Anomaly on heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: In some cases, cardiac catheterization may be performed to assess the heart's internal pressures and blood flow. This invasive procedure can provide essential information about the severity and impact of Ebstein Anomaly on heart function.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Ebstein Anomaly</h2>
 <p>Major Treatment Options</p>

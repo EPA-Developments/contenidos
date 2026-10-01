@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hyperlipidemia: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Hyperlipidemia refers to high lipid levels in the blood. Know more about its causes, symptoms, and treatment to improve your heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hyperlipidemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hyperlipidemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hyperlipidemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hyperlipidemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Hyperlipidemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hyperlipidemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hyperlipidemia"
       }]
     }
   </script>
@@ -168,7 +168,7 @@
 <h1>Symptoms, Causes and Treatment of Hyperlipidemia</h1>
 <p>Hyperlipidemia is a medical condition characterized by elevated levels of lipids, such as cholesterol and triglycerides, in the blood. It is a significant health concern due to its association with cardiovascular diseases, including heart attacks and strokes.</p>
 <p>The prevalence of hyperlipidemia is on the rise globally, primarily due to unhealthy dietary habits, sedentary lifestyles, genetic factors, and aging populations. Hyperlipidemia can impact various essential functions in the body, including the cardiovascular system, liver function, and overall metabolism.</p>
-<p>In the short term, untreated hyperlipidemia can lead to acute cardiovascular events, while in the long term, it increases the risk of developing chronic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
+<p>In the short term, untreated hyperlipidemia can lead to acute cardiovascular events, while in the long term, it increases the risk of developing chronic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
 <p>Importantly, hyperlipidemia often remains asymptomatic in its early stages, underscoring the importance of early detection through regular screenings to prevent adverse health outcomes.</p>
 <h2 id="causes">Causes of Hyperlipidemia</h2>
 <p>Hyperlipidemia can stem from various primary causes that disrupt the body's lipid metabolism and regulation processes. Understanding these causes is crucial for effective management and treatment of the condition.</p>
@@ -193,8 +193,8 @@
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort, particularly during physical exertion, can indicate advanced hyperlipidemia and potential coronary artery disease, impacting both physical and emotional well-being.</li>
-<li>Stroke: Sudden neurological deficits, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or slurred speech, can be manifestations of advanced hyperlipidemia leading to cerebrovascular events, highlighting the severe implications of untreated lipid abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort, particularly during physical exertion, can indicate advanced hyperlipidemia and potential coronary artery disease, impacting both physical and emotional well-being.</li>
+<li>Stroke: Sudden neurological deficits, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or slurred speech, can be manifestations of advanced hyperlipidemia leading to cerebrovascular events, highlighting the severe implications of untreated lipid abnormalities.</li>
 </ul>
 <h2>Diagnosis of Hyperlipidemia</h2>
 <p>Diagnosing hyperlipidemia involves a comprehensive evaluation of lipid profiles and associated risk factors to guide treatment strategies and prevent complications.</p>

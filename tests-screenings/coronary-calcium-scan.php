@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose and Costs of Coronary Calcium Scan" property="og:title"/>
 <meta content="Coronary calcium scan detects calcium deposits in arteries. Know more about its purpose, costs, and normal Range for heart health screening." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-calcium-scan" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-calcium-scan" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-calcium-scan" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-calcium-scan" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Calcium Scan",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-calcium-scan"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-calcium-scan"  
       }]
     }
   </script>
@@ -177,9 +177,9 @@
 <div class="article-content">
 <h1>Coronary Calcium Scan Purpose and Costs</h1>
 <p>Coronary Calcium Scan, also known as Cardiac Calcium Scoring or Coronary Artery Calcium Imaging, is a non-invasive diagnostic test that uses computed tomography (CT) technology to assess the amount of calcium deposits in the walls of the coronary arteries.</p>
-<p>These calcium deposits, also known as plaques, can indicate the presence of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> or coronary artery disease.</p>
+<p>These calcium deposits, also known as plaques, can indicate the presence of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> or coronary artery disease.</p>
 <p>During the Coronary Calcium Scan, the CT scanner takes detailed images of the heart and coronary arteries to measure the amount of calcium present.</p>
-<p>The results are then used to calculate a CT calcium score, which helps in assessing the risk of developing heart disease or experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>The results are then used to calculate a CT calcium score, which helps in assessing the risk of developing heart disease or experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>The test is usually quick and painless, with no need for special preparation. Patients lie on a table that slides into the CT scanner, and images are taken in a matter of minutes.</p>
 <p>The results are typically available shortly after the test is completed.</p>
 <p>Coronary Calcium Scan is a valuable tool for evaluating vascular health and identifying early signs of heart disease.</p>
@@ -214,7 +214,7 @@
 <h2>What Do High Coronary Calcium Scan Levels Indicate?</h2>
 <p>High Coronary Calcium Scan levels, indicated by a CT calcium score above 100, suggest a significant amount of calcium deposits in the coronary arteries.</p>
 <p>This finding is associated with an increased risk of cardiovascular events, including heart attack, stroke, and coronary artery disease.</p>
-<p>Causes of High Coronary Calcium Scan levels include atherosclerosis, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, smoking, obesity, and a sedentary lifestyle.</p>
+<p>Causes of High Coronary Calcium Scan levels include atherosclerosis, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, smoking, obesity, and a sedentary lifestyle.</p>
 <p>These risk factors can contribute to the development of plaque buildup in the arteries, leading to reduced blood flow and increased risk of heart disease.</p>
 <p>Risks associated with high Coronary Calcium Scan levels include an elevated risk of heart attack, stroke, and other cardiovascular events.</p>
 <p>Individuals with high calcium scores may require more aggressive treatment strategies, such as lifestyle modifications, medication therapy, or invasive procedures to address underlying heart disease.</p>

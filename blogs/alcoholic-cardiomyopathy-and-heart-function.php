@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Alcoholic Cardiomyopathy and Heart Function">
   <meta property="og:description" content="Learn how Alcoholic Cardiomyopathy impacts heart function and the importance of early detection and treatment. Understand the effects of Alcoholic Cardiomyopathy.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcoholic-cardiomyopathy-and-heart-function">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcoholic-cardiomyopathy-and-heart-function">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcoholic-cardiomyopathy-and-heart-function" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcoholic-cardiomyopathy-and-heart-function" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Alcoholic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcoholic-cardiomyopathy-and-heart-function"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/alcoholic-cardiomyopathy-and-heart-function"  
       }]
     }
   </script>

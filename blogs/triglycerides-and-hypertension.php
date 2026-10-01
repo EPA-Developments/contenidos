@@ -10,12 +10,12 @@
     <meta property="og:title" content="Triglycerides and Hypertension Connection" />
     <meta property="og:description" content="Explore the connection between Triglycerides and High Blood Pressure. Learn how they impact your health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Triglycerides And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Connection: Triglycerides and Hypertension</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Have you ever wondered how triglycerides could be impacting your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? Let's explore the connection between triglycerides and high blood pressure and how it affects your daily life.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Have you ever wondered how triglycerides could be impacting your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? Let's explore the connection between triglycerides and high blood pressure and how it affects your daily life.</p>
 <h2 class="sec-scrl" id="triglycerides-hypertension">Triglycerides and Hypertension: What You Need to Know</h2>
 <p>Triglycerides are a type of fat found in your blood that your body uses for energy. When you have high levels of triglycerides, it can lead to various health issues, including hypertension. High blood pressure, or hypertension, is a common condition that affects the force of blood against your artery walls. Understanding how triglycerides and hypertension are linked can help you better manage your overall health.</p>
 <p>One of the key factors in controlling your blood pressure is <strong>blood pressure regulation</strong>. Several mechanisms in your body work together to keep your blood pressure within a healthy range. However, when triglyceride levels are high, they can disrupt these mechanisms and contribute to elevated blood pressure levels.</p>

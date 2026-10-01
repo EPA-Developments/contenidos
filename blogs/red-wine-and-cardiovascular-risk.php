@@ -10,12 +10,12 @@
     <meta property="og:title" content="Antioxidants in Red Wine: Heart Health Benefits" />
     <meta property="og:description" content="Explore how antioxidants in red wine impact heart health. Learn about reducing cardiovascular risk factors & preventing heart disease with red wine." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cardiovascular-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cardiovascular-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cardiovascular-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cardiovascular-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Cardiovascular Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-cardiovascular-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-cardiovascular-risk"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Red wine has been a subject of interest when it comes to heart health. Studies suggest that moderate consumption of red wine may have some benefits for the heart. The key lies in the antioxidants present in red wine, specifically resveratrol. This compound is known for its potential to promote arterial health and reduce the risk of heart conditions.</p>
 <p>Resveratrol, a polyphenol found in red wine, is thought to have protective effects on the lining of blood vessels, which can contribute to improved blood circulation and overall heart health. However, it's essential to understand the fine balance between the benefits and risks associated with red wine consumption, especially concerning cardiovascular health.</p>
 <h2 class="sec-scrl" id="risk-factors">Risk Factors and Heart Disease Prevention</h2>
-<p>What are the risk factors associated with heart disease, and how can red wine consumption potentially help in preventing it? Several factors, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, smoking, obesity, and lack of physical activity, can increase the risk of heart disease. By incorporating moderate red wine consumption into a healthy lifestyle, individuals may mitigate some of these risk factors.</p>
+<p>What are the risk factors associated with heart disease, and how can red wine consumption potentially help in preventing it? Several factors, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, smoking, obesity, and lack of physical activity, can increase the risk of heart disease. By incorporating moderate red wine consumption into a healthy lifestyle, individuals may mitigate some of these risk factors.</p>
 <ul>
 <li>Red wine's antioxidants, particularly resveratrol, can help reduce inflammation and oxidative stress in the body, which are key contributors to heart disease.</li>
 <li>Moderate alcohol consumption, including red wine, has been linked to higher levels of "good" HDL cholesterol, which plays a protective role against heart disease.</li>
@@ -150,10 +150,10 @@
 </ul>
 <h2 class="sec-scrl" id="heart-attack-prevention">Preventing Heart Attacks: The Role of Red Wine</h2>
 <p>Can red wine consumption help prevent heart attacks, and what mechanisms are at play in this regard?</p>
-<p>While red wine is not a miracle cure for heart attacks or heart disease, its moderate consumption as part of a healthy lifestyle can potentially contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention:</p>
+<p>While red wine is not a miracle cure for heart attacks or heart disease, its moderate consumption as part of a healthy lifestyle can potentially contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention:</p>
 <ul>
 <li>The antioxidants in red wine, particularly resveratrol, may help improve blood flow, reduce inflammation, and prevent the oxidation of "bad" LDL cholesterol, all of which are essential in reducing the risk of heart attacks.</li>
-<li>Resveratrol's anti-inflammatory properties can benefit arterial health by reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</li>
+<li>Resveratrol's anti-inflammatory properties can benefit arterial health by reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</li>
 <li>Combining red wine consumption with other heart-healthy habits, such as regular exercise, stress management, and avoiding smoking, can maximize its potential benefits in preventing heart attacks.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>

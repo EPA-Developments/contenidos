@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Kommerell Diverticulum: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Kommerell Diverticulum is a rare vascular condition that affects the aorta. Know more about its causes, symptoms, and treatment approaches." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/kommerell-diverticulum">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/kommerell-diverticulum">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/kommerell-diverticulum" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/kommerell-diverticulum" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Kommerell Diverticulum",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/kommerell-diverticulum"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/kommerell-diverticulum"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Kommerell Diverticulum</h1>
-<p>Kommerell Diverticulum is a rare condition where an abnormal pouch forms at the base of the aorta, the body's main artery. It can lead to serious complications like compression of nearby structures or the abnormal course of blood vessels. Although uncommon, it's significant because it can cause breathing difficulties, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or even life-threatening issues like <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>. While prevalence rates vary, it's estimated to affect a small percentage of the population. Early detection and management are crucial to prevent potential complications.</p>
+<p>Kommerell Diverticulum is a rare condition where an abnormal pouch forms at the base of the aorta, the body's main artery. It can lead to serious complications like compression of nearby structures or the abnormal course of blood vessels. Although uncommon, it's significant because it can cause breathing difficulties, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or even life-threatening issues like <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>. While prevalence rates vary, it's estimated to affect a small percentage of the population. Early detection and management are crucial to prevent potential complications.</p>
 <h2 id="causes">Causes of Kommerell Diverticulum</h2>
 <p><ul>
 <li>Abnormal development of the aorta during fetal growth</li>
 <li>Genetic predisposition or syndromes like Marfan or Loeys-Dietz</li>
-<li>Increased blood pressure leading to aortic wall <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Increased blood pressure leading to aortic wall <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Inflammation or infection affecting the aorta</li>
 <li>Trauma or injury to the chest area</li>
 </ul></p>
@@ -176,7 +176,7 @@
 <ul>
 <li>Chest pain</li>
 <li>Dysphagia (difficulty swallowing)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Coughing</li>
 <li>Hoarseness</li>
 <li>Feeling of pressure or fullness in the chest</li>

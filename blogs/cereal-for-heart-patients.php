@@ -10,12 +10,12 @@
     <meta property="og:title" content="Top Heart Healthy Cereals: A Guide" />
     <meta property="og:description" content="Discover the top cereals for heart health - low sodium, whole grain, and cholesterol-lowering options for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-heart-patients" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-heart-patients" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-heart-patients" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-heart-patients" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cereal For Heart Patients",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-heart-patients"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cereal-for-heart-patients"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>Some great heart-healthy cereal options include oat-based cereals, bran flakes, and whole grain varieties. These choices can help lower cholesterol levels and reduce the risk of heart disease when combined with a balanced diet.</p>
 <h2 class="sec-scrl" id="low-sodium-cereal">Low Sodium Cereal</h2>
-<p>For individuals with heart conditions, keeping sodium intake in check is essential. High sodium levels can contribute to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and strain your heart. Choosing low-sodium cereals can be a smart move to protect your heart health.</p>
+<p>For individuals with heart conditions, keeping sodium intake in check is essential. High sodium levels can contribute to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and strain your heart. Choosing low-sodium cereals can be a smart move to protect your heart health.</p>
 <ul>
 <li>Look for cereals labeled as low sodium or sodium-free</li>
 <li>Avoid options with added salt or sodium-based additives</li>

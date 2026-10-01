@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peas: Stroke Risk Reduction&quot;" />
     <meta property="og:description" content="Discover how peas can help lower stroke risk naturally. Learn more about the benefits of peas in stroke prevention today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peas-and-stroke-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peas-and-stroke-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peas-and-stroke-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peas-and-stroke-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peas And Stroke Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peas-and-stroke-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peas-and-stroke-risk"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Peas, often overlooked in the realm of stroke prevention, play a significant role in maintaining cardiovascular health. These small but mighty legumes are packed with antioxidants that help combat oxidative stress in the body. Antioxidants are essential for reducing inflammation and preventing damage to blood vessels, thus supporting better blood circulation.</p>
 <ul>
 <li>Peas contain compounds that aid in blood thinning, lowering the risk of blood clots that can lead to a stroke.</li>
-<li>The high fiber content in peas helps in managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a major risk factor for strokes.</li>
+<li>The high fiber content in peas helps in managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a major risk factor for strokes.</li>
 </ul>
 <h2 class="sec-scrl" id="antioxidants">Antioxidants in Peas</h2>
 <p>How do the antioxidants in peas contribute to reducing the risk of stroke? The antioxidants in peas, such as flavonoids and carotenoids, help neutralize free radicals in the body, preventing cellular damage and reducing inflammation. By including peas in your diet, you can enhance your body's defense mechanisms against oxidative stress, ultimately supporting cardiovascular protection.</p>

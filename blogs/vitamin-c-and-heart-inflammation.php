@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin C's Heart Inflammation Benefits" />
     <meta property="og:description" content="Discover how Vitamin C reduces heart inflammation, boosts immunity, and prevents heart disease with its powerful anti-inflammatory properties." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Heart Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-inflammation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Vitamin C for Heart Inflammation</h1>
-<p>Are you concerned about the health of your heart and looking for natural ways to support its well-being? Have you ever wondered how Vitamin C can play a role in reducing inflammation in your heart? Living with the discomfort caused by <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> can significantly affect your daily activities and overall quality of life. Let's explore the impact of Vitamin C on heart inflammation and how it can help alleviate these concerns.</p>
+<p>Are you concerned about the health of your heart and looking for natural ways to support its well-being? Have you ever wondered how Vitamin C can play a role in reducing inflammation in your heart? Living with the discomfort caused by <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> can significantly affect your daily activities and overall quality of life. Let's explore the impact of Vitamin C on heart inflammation and how it can help alleviate these concerns.</p>
 <h2 class="sec-scrl" id="inflammatorymarkers">How Vitamin C Affects Inflammatory Markers</h2>
 <p>Vitamin C, also known as ascorbic acid, is a powerful antioxidant that helps combat inflammation in the body. Chronic inflammation is linked to various health issues, including heart disease. By reducing inflammatory markers in the bloodstream, Vitamin C can help regulate the immune response and prevent excessive inflammation that may contribute to heart conditions.</p>
 <p>Studies have shown that Vitamin C can lower levels of C-reactive protein (CRP), a key marker of inflammation in the body. By reducing CRP levels, Vitamin C helps in maintaining a healthy inflammatory balance, which is crucial for heart health.</p>
@@ -144,7 +144,7 @@
 <ul>
 <li>Protecting the heart from oxidative stress and damage caused by free radicals.</li>
 <li>Improving endothelial function and promoting healthy blood flow.</li>
-<li>Reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> by preventing the buildup of plaque in the arteries.</li>
+<li>Reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> by preventing the buildup of plaque in the arteries.</li>
 </ul>
 <p>By reducing inflammation and supporting overall heart health, Vitamin C can be a valuable addition to your preventive care routine.</p>
 <h2 class="sec-scrl" id="antiinflammatorydiet">How to Incorporate Vitamin C into an Anti-inflammatory Diet</h2>

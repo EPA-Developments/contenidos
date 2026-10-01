@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cholesterol Medications: Essential Insights" />
     <meta property="og:description" content="Learn about cholesterol medications, including statins and treatment plans, to manage your cholesterol levels effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-medications" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-medications" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-medications" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-medications" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol Medications",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-medications"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-medications"
         }
     ]
 }
@@ -145,7 +145,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Essential Guide to Cholesterol Medications</h1>
-<p>Are you struggling to manage your cholesterol levels despite making lifestyle changes? Do you wonder how cholesterol medications can help you lead a healthier life? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities and overall well-being. Finding the right medication and understanding its effects is crucial for better heart health.</p>
+<p>Are you struggling to manage your cholesterol levels despite making lifestyle changes? Do you wonder how cholesterol medications can help you lead a healthier life? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities and overall well-being. Finding the right medication and understanding its effects is crucial for better heart health.</p>
 <h2 class="sec-scrl" id="statins">Statins</h2>
 <p>Statins are a commonly prescribed type of cholesterol-lowering drug that helps lower the levels of LDL (bad) cholesterol in your blood. Here are some key points to know about statins:</p>
 <ul>
@@ -153,7 +153,7 @@
 <li>They may also help your body reabsorb cholesterol that has accumulated on your artery walls.</li>
 <li>Common statins include atorvastatin, simvastatin, and rosuvastatin.</li>
 </ul>
-<p>If you experience muscle pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, or dark-colored urine while taking statins, consult your healthcare provider immediately.</p>
+<p>If you experience muscle pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, or dark-colored urine while taking statins, consult your healthcare provider immediately.</p>
 <h2 class="sec-scrl" id="cholesterol-lowering-drugs">Cholesterol Lowering Drugs</h2>
 <p>Aside from statins, there are other types of medications available to lower cholesterol levels. These drugs work in different ways to help manage your cholesterol. Here are some examples:</p>
 <ul>

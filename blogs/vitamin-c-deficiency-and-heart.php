@@ -10,12 +10,12 @@
     <meta property="og:title" content="Impact of Vitamin C Deficiency on Heart Health" />
     <meta property="og:description" content="Explore the link between Vitamin C deficiency and heart health. Learn about symptoms, risks, and treatment options." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-deficiency-and-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-deficiency-and-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-deficiency-and-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-deficiency-and-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C Deficiency And Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-deficiency-and-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-deficiency-and-heart"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Vitamin C Deficiency on Heart Health</h1>
-<p>Are you feeling fatigued and noticing unusual bruising? Do you find yourself getting sick frequently, or perhaps experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> with minimal exertion? These could be signs of Vitamin C deficiency, which can have a significant impact on your heart health and overall well-being. Daily activities like climbing stairs or even a simple walk can become challenging when your body lacks this essential nutrient.</p>
+<p>Are you feeling fatigued and noticing unusual bruising? Do you find yourself getting sick frequently, or perhaps experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> with minimal exertion? These could be signs of Vitamin C deficiency, which can have a significant impact on your heart health and overall well-being. Daily activities like climbing stairs or even a simple walk can become challenging when your body lacks this essential nutrient.</p>
 <h2 class="sec-scrl" id="symptoms-of-vitamin-c-deficiency">Symptoms of Vitamin C Deficiency</h2>
 <p>Vitamin C deficiency manifests in various symptoms that can affect both your physical and mental health. Some common signs to watch out for include:</p>
 <ul>
@@ -146,7 +146,7 @@
 <li>Increased inflammation in the cardiovascular system</li>
 <li>Higher susceptibility to oxidative stress</li>
 </ul>
-<p>These factors can collectively elevate your risk of developing conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, and ultimately, heart attacks or strokes.</p>
+<p>These factors can collectively elevate your risk of developing conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, and ultimately, heart attacks or strokes.</p>
 <h2 class="sec-scrl" id="scurvy-and-heart">Scurvy and Heart</h2>
 <p>One of the most severe consequences of Vitamin C deficiency is scurvy, a disease historically associated with sailors who lacked access to fresh fruits and vegetables during long voyages. Scurvy not only affects your overall health but can also have a direct impact on your heart. The weakened blood vessels and increased inflammation caused by scurvy can significantly strain your cardiovascular system, potentially leading to life-threatening complications.</p>
 <h2 class="sec-scrl" id="deficiency-treatment">Deficiency Treatment</h2>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rapid Swelling: Causes, Symptoms, Diagnosis and Treatment" >
   <meta property="og:description" content="Rapid Swelling in the body could be a sign of a serious heart condition. Know more about its causes, diagnosis, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-swelling">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/rapid-swelling">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-swelling" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-swelling" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rapid Swelling",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/rapid-swelling"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/rapid-swelling"  
       }]
     }
   </script>
@@ -223,7 +223,7 @@
 <p>It is essential to seek medical attention if you experience:</p>
 <ul>
 <li>Severe swelling that affects breathing or swallowing.</li>
-<li>Sudden swelling accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or confusion.</li>
+<li>Sudden swelling accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or confusion.</li>
 <li>Swelling that persists despite home remedies or worsens over time.</li>
 <li>Swelling in the abdomen, face, or extremities that is painful, tender, or warm to the touch.</li>
 </ul>

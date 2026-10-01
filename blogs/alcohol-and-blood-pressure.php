@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alcohol and Blood Pressure: A Close Link" />
     <meta property="og:description" content="Explore the impact of alcohol on blood pressure, hypertension risk, and cardiovascular health. Learn about alcohol reduction and effective blood pressure management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Link: Alcohol and Blood Pressure</h1>
 <p>Are you concerned about the impact of alcohol on your blood pressure? How does your drinking habit affect your daily life and overall health? Understanding the relationship between alcohol consumption and blood pressure is crucial for managing your well-being. Let's explore how these two factors intertwine and what you can do to maintain a healthy lifestyle.</p>
 <h2 class="sec-scrl" id="Hypertension Risk">The Link Between Alcohol and Hypertension Risk</h2>
-<p>Alcohol intake plays a significant role in determining your risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Excessive drinking can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, increasing the strain on your heart and blood vessels. This, in turn, raises the risk of cardiovascular diseases and other health complications. To mitigate the hypertension risk associated with alcohol, it's essential to moderate your drinking habits.</p>
+<p>Alcohol intake plays a significant role in determining your risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Excessive drinking can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, increasing the strain on your heart and blood vessels. This, in turn, raises the risk of cardiovascular diseases and other health complications. To mitigate the hypertension risk associated with alcohol, it's essential to moderate your drinking habits.</p>
 <p>Here are some key points to consider:</p>
 <ul>
 <li>Avoid binge drinking, as it can cause sudden spikes in blood pressure levels.</li>

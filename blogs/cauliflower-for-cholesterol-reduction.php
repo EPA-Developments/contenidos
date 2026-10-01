@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cauliflower for Lowering Cholesterol: A Healthy Choice&quot;" />
     <meta property="og:description" content="Learn how cauliflower can help lower cholesterol levels naturally. Discover its benefits for heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-cholesterol-reduction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-cholesterol-reduction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-cholesterol-reduction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-cholesterol-reduction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower For Cholesterol Reduction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-cholesterol-reduction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-cholesterol-reduction"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Cauliflower for Cholesterol Reduction</h1>
-<p>Are you looking for a natural way to lower your cholesterol levels? Discover the incredible benefits of cauliflower and how it can support your heart health. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities and overall well-being. Fortunately, incorporating cauliflower into your diet can make a real difference. Let's explore the role of cauliflower in reducing cholesterol and improving your heart health.</p>
+<p>Are you looking for a natural way to lower your cholesterol levels? Discover the incredible benefits of cauliflower and how it can support your heart health. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily activities and overall well-being. Fortunately, incorporating cauliflower into your diet can make a real difference. Let's explore the role of cauliflower in reducing cholesterol and improving your heart health.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">How Cauliflower Helps in Lowering LDL Cholesterol</h2>
 <p>Cauliflower is a powerhouse of nutrients that can effectively lower LDL cholesterol levels, also known as the "bad" cholesterol. Here's how cauliflower contributes to reducing LDL cholesterol:</p>
 <ul>

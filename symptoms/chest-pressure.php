@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis, and Treatment of Chest Pressure" >
   <meta property="og:description" content="Chest pressure may be a sign of heart conditions. Know more about symptoms, causes, diagnosis, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Pressure",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure"  
       }]
     }
   </script>
@@ -187,17 +187,17 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Pressure: Causes, Diagnosis and Treatment</h1>
 <p>Chest pressure is a sensation of tightness or discomfort in the chest area that can vary from mild to severe. It is often described as a feeling of heaviness, squeezing, or pressure on the chest.</p>
-<p>This sensation may be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>. Chest pressure can be caused by a variety of factors, including heart problems, respiratory issues, and even stress.</p>
+<p>This sensation may be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and a <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>. Chest pressure can be caused by a variety of factors, including heart problems, respiratory issues, and even stress.</p>
 <h2 id="forms">What are the Forms of Chest pressure?</h2>
-<p>Different forms of chest pressure can indicate various underlying issues. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> is a common form of chest pressure that can be a sign of heart problems such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>Different forms of chest pressure can indicate various underlying issues. <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> is a common form of chest pressure that can be a sign of heart problems such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>Chest pain, on the other hand, may be sharp or dull and can radiate to the arms, back, neck, or jaw.</p>
 <p>Pressure on the chest can feel like a heavy weight pressing down on the chest, making it difficult to breathe.</p>
 <h2 id="causes">What are the Causes of Chest pressure?</h2>
 <p>There are several causes of chest pressure, including heart disease, respiratory conditions, and stress. Heart disease, such as coronary artery disease, can lead to chest pressure due to reduced blood flow to the heart muscle.</p>
-<p>Respiratory conditions like asthma or pneumonia can cause chest tightness and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. Stress and anxiety can also manifest as chest pressure, leading to muscle tension and discomfort in the chest area.</p>
+<p>Respiratory conditions like asthma or pneumonia can cause chest tightness and <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. Stress and anxiety can also manifest as chest pressure, leading to muscle tension and discomfort in the chest area.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Chest pressure?</h2>
 <p>To diagnose the cause of chest pressure, healthcare providers may perform a physical exam, review medical history, and order diagnostic tests.</p>
-<p>Basic tests such as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) can help identify heart-related issues, while advanced imaging tests like a CT scan or MRI may be used to assess the heart and lungs in more detail.</p>
+<p>Basic tests such as an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) can help identify heart-related issues, while advanced imaging tests like a CT scan or MRI may be used to assess the heart and lungs in more detail.</p>
 <p>Blood tests can also provide valuable information about heart function and potential risk factors.</p>
 <h2 id="treatment">What is the Treatment for Chest pressure?</h2>
 <p>The treatment for chest pressure depends on the underlying cause. For heart-related chest pressure, medications such as nitroglycerin or beta-blockers may be prescribed to improve blood flow and reduce symptoms.</p>

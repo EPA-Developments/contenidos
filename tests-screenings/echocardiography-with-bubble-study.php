@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Echocardiography With Bubble Study: Purpose and Normal Range" property="og:title"/>
 <meta content="Echocardiography with bubble study helps detect heart abnormalities. Know more about the purpose, costs, and the normal Range for an accurate diagnosis." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/echocardiography-with-bubble-study" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/echocardiography-with-bubble-study" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/echocardiography-with-bubble-study" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/echocardiography-with-bubble-study" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Echocardiography with Bubble Study",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/echocardiography-with-bubble-study"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/echocardiography-with-bubble-study"  
       }]
     }
   </script>
@@ -176,13 +176,13 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Purpose and Normal Range of Echocardiography With Bubble Study</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> with bubble study is a specialized diagnostic test that combines traditional echocardiography with the use of tiny microbubbles to enhance visualization of the heart chambers and blood flow.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> with bubble study is a specialized diagnostic test that combines traditional echocardiography with the use of tiny microbubbles to enhance visualization of the heart chambers and blood flow.</p>
 <p>During the procedure, a small amount of agitated saline solution is injected into a vein, which creates tiny bubbles that can be tracked as they pass through the heart.</p>
 <p>This technique is particularly useful for detecting atrial septal defects, which are congenital heart abnormalities that involve a hole in the wall separating the two upper chambers of the heart.</p>
 <p>By using the bubbles as a contrast agent, doctors can better identify these defects and assess the severity of the shunt.</p>
-<p>In addition to detecting atrial septal defects, echocardiography with bubble study is also valuable for identifying other types of shunts in the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects">ventricular septal defects</a> or patent foramen ovale.</p>
-<p>These conditions can cause abnormal blood flow patterns and put strain on the heart, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and an increased risk of complications like stroke.</p>
-<p>By using bubble echo, healthcare providers can also assess <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, a condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs.</p>
+<p>In addition to detecting atrial septal defects, echocardiography with bubble study is also valuable for identifying other types of shunts in the heart, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects">ventricular septal defects</a> or patent foramen ovale.</p>
+<p>These conditions can cause abnormal blood flow patterns and put strain on the heart, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and an increased risk of complications like stroke.</p>
+<p>By using bubble echo, healthcare providers can also assess <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, a condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs.</p>
 <p>This test helps determine the presence of a right-to-left shunt, where oxygen-poor blood bypasses the lungs and mixes with oxygen-rich blood, putting additional strain on the heart and lungs.</p>
 <h2 id="purpose">What is the Purpose of Performing an Echocardiography with Bubble Study Test?</h2>
 <p>The primary purpose of performing an echocardiography with bubble study test is to evaluate the structure and function of the heart, specifically looking for abnormalities like atrial septal defects, shunts, and pulmonary hypertension.</p>
@@ -223,7 +223,7 @@
 <li>Atrial septal defects: Holes in the atrial septum can allow blood to flow abnormally between the upper chambers of the heart, leading to increased pressure and shunting of bubbles.</li>
 <li>Ventricular septal defects: Holes in the ventricular septum can also cause abnormal blood flow patterns and elevated bubble study levels due to the mixing of oxygen-rich and oxygen-poor blood.</li>
 </ul>
-<p>Risks associated with high echocardiography with bubble study levels include an increased risk of complications like heart failure, arrhythmias, stroke, and pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>Risks associated with high echocardiography with bubble study levels include an increased risk of complications like heart failure, arrhythmias, stroke, and pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <p>It is essential for healthcare providers to identify the underlying cause of elevated values and address any contributing factors to prevent further damage to the heart and lungs.</p>
 <p>Patients with high bubble study levels may require additional testing, monitoring, and treatment to manage their condition effectively.</p>
 <p>By addressing the root cause of elevated values and implementing targeted interventions, healthcare providers can help improve outcomes and quality of life for individuals with heart conditions associated with high echocardiography with bubble study levels.</p>

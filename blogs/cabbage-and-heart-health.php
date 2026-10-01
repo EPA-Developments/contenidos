@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cabbage's Heart Health Benefits&quot;" />
     <meta property="og:description" content="Explore how cabbage supports heart health with its cardiovascular benefits, antioxidants, and cholesterol-reducing properties." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cabbage And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-heart-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Cabbage is packed with nutrients that are incredibly beneficial for your heart. Here are some of the key ways in which cabbage can improve your cardiovascular health:</p>
 <ul>
 <li>Rich in antioxidants that help reduce inflammation and protect your heart</li>
-<li>Contains compounds that may help lower blood pressure, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Contains compounds that may help lower blood pressure, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 <li>High in fiber, which can aid in cholesterol reduction and improve heart health</li>
 </ul>
 <p>By incorporating cabbage into your diet, you can take significant steps towards preventing heart disease and maintaining a healthy heart.</p>
@@ -142,12 +142,12 @@
 <p>Antioxidants are powerful compounds that help protect your cells from damage caused by free radicals. Cabbage is a rich source of antioxidants, including vitamin C and manganese, which play a crucial role in supporting heart health. Here's how antioxidants in cabbage benefit your heart:</p>
 <ul>
 <li>Help reduce oxidative stress and inflammation in the cardiovascular system</li>
-<li>Protect against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries</li>
+<li>Protect against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries</li>
 <li>Support overall heart function and reduce the risk of heart disease</li>
 </ul>
 <p>Adding antioxidant-rich cabbage to your meals can provide your heart with the protection it needs to stay healthy and strong.</p>
 <h2 class="sec-scrl" id="cholesterol-reduction">Cholesterol Reduction: Can Cabbage Help Lower Cholesterol Levels?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. Fortunately, cabbage can be a valuable ally in lowering cholesterol levels and improving heart health. Here's how cabbage contributes to cholesterol reduction:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. Fortunately, cabbage can be a valuable ally in lowering cholesterol levels and improving heart health. Here's how cabbage contributes to cholesterol reduction:</p>
 <ul>
 <li>Dietary fiber in cabbage helps bind to cholesterol and remove it from the body</li>
 <li>Phytosterols in cabbage block the absorption of cholesterol in the intestines</li>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Syncope Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Syncope or fainting can be a sign of heart trouble. Read more about the causes, diagnosis, forms and treatment for syncope for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/syncope">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/syncope" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Syncope",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/syncope"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/syncope"  
       }]
     }
   </script>
@@ -186,15 +186,15 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Syncope Causes, Treatment, and Forms</h1>
-<p>Syncope, commonly known as fainting, is a temporary <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> due to a lack of blood flow to the brain. This condition often occurs suddenly and can be alarming for both the individual experiencing it and those around them.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> can last from a few seconds to several minutes, with the person typically regaining consciousness on their own.</p>
+<p>Syncope, commonly known as fainting, is a temporary <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> due to a lack of blood flow to the brain. This condition often occurs suddenly and can be alarming for both the individual experiencing it and those around them.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> can last from a few seconds to several minutes, with the person typically regaining consciousness on their own.</p>
 <p>Symptoms of syncope include a sudden collapse, loss of consciousness, unexplained fainting, head rush, and loss of awareness. It is essential to note that syncope is not a disease in itself but rather a symptom of an underlying medical condition.</p>
 <p>Understanding the various forms and causes of syncope is crucial in effectively managing and treating this condition.</p>
 <h2 id="forms">What are the Forms of Syncope?</h2>
 <p>There are three main forms of syncope, each with distinct characteristics and triggers:</p>
 <ul>
 <li>Vasovagal syncope: This is the most common form of syncope and is often triggered by emotional stress, pain, or standing for long periods.</li>
-<li>Cardiac syncope: This form of syncope is caused by an underlying heart condition such as arrhythmia or <a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a>.</li>
+<li>Cardiac syncope: This form of syncope is caused by an underlying heart condition such as arrhythmia or <a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a>.</li>
 <li>Situational syncope: Certain actions or situations can trigger this form of syncope, such as coughing, swallowing, or urinating.</li>
 </ul>
 <p>Recognizing the specific form of syncope can help healthcare providers determine the underlying cause and appropriate treatment plan for the individual experiencing these fainting spells.</p>
@@ -202,14 +202,14 @@
 <p>Syncope can be caused by a variety of factors, including:</p>
 <ul>
 <li>Dehydration: A lack of fluids in the body can lead to a drop in blood pressure, resulting in syncope.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>: Hypotension can cause inadequate blood flow to the brain, leading to fainting spells.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>: Hypotension can cause inadequate blood flow to the brain, leading to fainting spells.</li>
 <li>Heart disease: Conditions such as arrhythmia, heart valve disorders, or heart failure can disrupt the heart's ability to pump blood effectively, causing syncope.</li>
 </ul>
 <p>Other potential causes of syncope include neurological disorders, medication side effects, and sudden drops in blood sugar levels. Identifying the underlying cause of syncope is essential in developing an effective treatment plan and preventing future fainting episodes.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Syncope?</h2>
 <p>Diagnosing syncope involves a thorough medical history review, physical examination, and diagnostic tests such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test records the heart's electrical activity and can detect abnormalities that may cause syncope.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): This test records the heart's electrical activity and can detect abnormalities that may cause syncope.</li>
 <li>Holter monitor: A portable device that continuously records the heart's activity over 24-48 hours, helping identify any irregularities.</li>
 <li>Tilt table test: This test measures changes in heart rate and blood pressure while the individual is tilted at different angles, simulating triggers for syncope.</li>
 </ul>
@@ -219,12 +219,12 @@
 <ul>
 <li>Lifestyle changes: Staying hydrated, avoiding triggers, and maintaining a healthy diet and exercise routine can help prevent fainting spells.</li>
 <li>Medications: In some cases, medications to regulate blood pressure, heart rate, or treat underlying heart conditions may be prescribed.</li>
-<li>Pacemaker or implantable cardioverter-<a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillator">defibrillator</a> (ICD): For individuals with specific heart conditions, these devices can help regulate heart rhythm and prevent syncope.</li>
+<li>Pacemaker or implantable cardioverter-<a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillator">defibrillator</a> (ICD): For individuals with specific heart conditions, these devices can help regulate heart rhythm and prevent syncope.</li>
 </ul>
-<p>In severe cases where syncope is recurrent or poses a significant risk to the individual's health, surgical interventions such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> or cardiac bypass surgery may be recommended.</p>
+<p>In severe cases where syncope is recurrent or poses a significant risk to the individual's health, surgical interventions such as <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> or cardiac bypass surgery may be recommended.</p>
 <p>It is crucial to work closely with healthcare providers to determine the most appropriate treatment plan for each individual.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience frequent or unexplained fainting spells, especially if they are accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, palpitations, shortness of breath, or dizziness.</p>
+<p>It is essential to seek medical attention if you experience frequent or unexplained fainting spells, especially if they are accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, palpitations, shortness of breath, or dizziness.</p>
 <p>Any sudden loss of consciousness should be evaluated by a healthcare provider to rule out serious underlying conditions that may require immediate treatment.</p>
 <h2>Home Remedies for Syncope</h2>
 <p>While medical intervention is often necessary for managing syncope, there are some home remedies that may help prevent fainting episodes:</p>

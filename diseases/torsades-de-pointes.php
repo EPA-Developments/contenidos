@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Torsades De Pointes: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Torsades de pointes is a type of abnormal heart rhythm that can cause sudden cardiac death. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/torsades-de-pointes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/torsades-de-pointes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/torsades-de-pointes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/torsades-de-pointes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Torsades De Pointes",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/torsades-de-pointes"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/torsades-de-pointes"
       }]
     }
   </script>
@@ -167,17 +167,17 @@
             <div class="article-content">
 <h1>Symptoms, Causes, and Treatment of Torsades De Pointes</h1>
 <p>Torsades De Pointes is a critical cardiac arrhythmia characterized by rapid, irregular heartbeats that can be life-threatening if not promptly addressed.</p>
-<p>This condition is significant due to its potential to lead to sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, posing a serious risk to an individual's health and well-being.</p>
+<p>This condition is significant due to its potential to lead to sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, posing a serious risk to an individual's health and well-being.</p>
 <p>While Torsades De Pointes is relatively rare, its impact on health is severe, affecting the heart's essential functions such as pumping blood efficiently and maintaining proper circulation.</p>
 <p>The arrhythmia can disrupt normal heart rhythm, leading to inadequate blood flow to vital organs, including the brain, which can result in fainting, seizures, or even death.</p>
 <p>In the short term, untreated Torsades De Pointes can cause immediate cardiac complications, while in the long term, it may increase the risk of developing more severe heart conditions.</p>
 <p>One of the challenges in managing Torsades De Pointes is its asymptomatic nature in the early stages, underscoring the importance of early detection through regular screenings to prevent potential life-threatening events.</p>
 <h2 id="causes">Causes of Torsades De Pointes</h2>
 <p>The primary causes of Torsades De Pointes encompass various factors that can disrupt the heart's electrical system, leading to the arrhythmia.</p>
-<p>One of the significant causes is <a href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-long-qt-syndrome">congenital long qt syndrome</a>, a genetic disorder that affects the heart's electrical activity and increases the risk of arrhythmias. <a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a> prolongs the heart's electrical recovery phase, predisposing individuals to Torsades De Pointes.</p>
+<p>One of the significant causes is <a href="https://contenidos.segundaopinionmedica.org/diseases/congenital-long-qt-syndrome">congenital long qt syndrome</a>, a genetic disorder that affects the heart's electrical activity and increases the risk of arrhythmias. <a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a> prolongs the heart's electrical recovery phase, predisposing individuals to Torsades De Pointes.</p>
 <p>Another common cause is electrolyte imbalances, particularly low levels of potassium, magnesium, or calcium, which are vital for normal heart function. These imbalances can alter the heart's electrical signals, triggering arrhythmias like Torsades De Pointes.</p>
 <p>Drug-induced QT prolongation is another leading cause, where certain medications can interfere with the heart's electrical impulses, leading to arrhythmias.</p>
-<p>Additionally, structural heart abnormalities, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders, can also contribute to Torsades De Pointes by disrupting the heart's electrical conduction pathways.</p>
+<p>Additionally, structural heart abnormalities, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or heart valve disorders, can also contribute to Torsades De Pointes by disrupting the heart's electrical conduction pathways.</p>
 <ul>
 <li>Psychological stress can also be a secondary risk factor for Torsades De Pointes. High levels of stress can trigger hormonal responses that impact heart rhythm and increase the risk of arrhythmias.</li>
 <li>Excessive alcohol consumption is another lifestyle factor that can contribute to Torsades De Pointes. Alcohol can affect the heart's electrical activity, leading to abnormal rhythms and increasing the risk of arrhythmias.</li>
@@ -185,8 +185,8 @@
 </ul>
 <h2 id="symptoms">Symptoms of Torsades De Pointes</h2>
 <p>Symptoms of Torsades De Pointes can vary depending on the stage of the arrhythmia, with early-stage symptoms often being subtle and easily overlooked.</p>
-<p>Early symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, which can impact daily activities by causing discomfort or a sense of unease. These early signs may be misunderstood or attributed to other causes, delaying diagnosis and treatment.</p>
-<p>In advanced stages, symptoms may escalate to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden loss of consciousness, significantly affecting an individual's physical and emotional well-being. These advanced symptoms can be alarming and may necessitate immediate medical attention to prevent life-threatening complications.</p>
+<p>Early symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, which can impact daily activities by causing discomfort or a sense of unease. These early signs may be misunderstood or attributed to other causes, delaying diagnosis and treatment.</p>
+<p>In advanced stages, symptoms may escalate to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, seizures, or sudden loss of consciousness, significantly affecting an individual's physical and emotional well-being. These advanced symptoms can be alarming and may necessitate immediate medical attention to prevent life-threatening complications.</p>
 <ul>
 <li>Palpitations can cause discomfort and anxiety, impacting daily activities and energy levels. Individuals may feel their heart racing or skipping beats, leading to heightened awareness of their heartbeat.</li>
 <li>Dizziness or lightheadedness may be misunderstood as a momentary imbalance or fatigue, potentially delaying the recognition of an underlying cardiac arrhythmia like Torsades De Pointes.</li>

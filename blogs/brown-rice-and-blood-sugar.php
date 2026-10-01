@@ -10,12 +10,12 @@
     <meta property="og:title" content="Brown Rice Benefits for Blood Sugar & Heart Health" />
     <meta property="og:description" content="Discover how brown rice benefits blood sugar & heart health. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-blood-sugar" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-blood-sugar" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-blood-sugar" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-blood-sugar" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Brown Rice And Blood Sugar",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-blood-sugar"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-blood-sugar"
         }
     ]
 }

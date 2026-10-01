@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="The Impact of Heart Attack on Heart Rate: What You Need to Know">
   <meta property="og:description" content="Discover how a heart attack impacts heart rate and what it signifies. Learn about the connection between heart attack and heart rate in this informative guide.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/impact-of-heart-attack-on-heart-rate">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/impact-of-heart-attack-on-heart-rate">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/impact-of-heart-attack-on-heart-rate" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/impact-of-heart-attack-on-heart-rate" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "The Impact Of Heart Attack On Heart Rate: What You Need To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/impact-of-heart-attack-on-heart-rate"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/impact-of-heart-attack-on-heart-rate"  
       }]
     }
   </script>

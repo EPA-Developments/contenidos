@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hypertension (high blood pressure) is when the pressure in your blood vessels is too high. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Hypertension</h1>
-<p>Hypertension, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a condition where the force of blood against the artery walls is consistently too high. It's essential to manage as it can lead to serious health issues like heart disease and stroke. Surprisingly, around 1 in 3 adults in the US have hypertension. The good news is that lifestyle changes and medication can help control it. Regular check-ups are crucial to monitor blood pressure levels and prevent complications.</p>
+<p>Hypertension, commonly known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a condition where the force of blood against the artery walls is consistently too high. It's essential to manage as it can lead to serious health issues like heart disease and stroke. Surprisingly, around 1 in 3 adults in the US have hypertension. The good news is that lifestyle changes and medication can help control it. Regular check-ups are crucial to monitor blood pressure levels and prevent complications.</p>
 <h2 id="causes">Causes of Hypertension</h2>
 <p><ul>
 <li>Family history of hypertension</li>
@@ -175,10 +175,10 @@
 
 <ul>
 <li>Headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul></p>
 <h2>Diagnosis of Hypertension</h2>
 <p>Accurate diagnosis of Hypertension is crucial as it helps in managing the condition effectively and preventing complications. The diagnostic process typically involves measuring blood pressure multiple times on separate occasions to confirm the diagnosis. Additionally, healthcare providers may perform various tests to assess organ damage or identify underlying causes. Diagnostic methods for hypertension include:
@@ -188,8 +188,8 @@
 <li>Blood pressure measurements</li>
 <li>Blood tests</li>
 <li>Urinalysis</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Hypertension</h2>
 <p>When it comes to treating Hypertension, individualized care is crucial for successful management. Tailoring treatments to each patient's specific needs can lead to better outcomes. Here are some main approaches to treating Hypertension:

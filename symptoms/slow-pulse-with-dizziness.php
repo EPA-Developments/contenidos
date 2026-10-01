@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Slow Pulse with Dizziness: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="A Slow Pulse combined with dizziness can point to serious heart conditions. Read more about what causes this and how it can be treated." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/slow-pulse-with-dizziness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/slow-pulse-with-dizziness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/slow-pulse-with-dizziness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/slow-pulse-with-dizziness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Slow Pulse With Dizziness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/slow-pulse-with-dizziness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/slow-pulse-with-dizziness"  
       }]
     }
   </script>
@@ -186,13 +186,13 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Slow Pulse with Dizziness: Causes, Symptoms, and Diagnosis</h1>
-<p>Slow pulse with dizziness is a condition characterized by a decreased heart rate, leading to symptoms of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, vertigo, and faintness.</p>
-<p>When the heart beats too slowly, it can result in inadequate blood flow to the brain, causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> and a feeling of unsteadiness. This condition can significantly impact daily activities and quality of life.</p>
+<p>Slow pulse with dizziness is a condition characterized by a decreased heart rate, leading to symptoms of <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, vertigo, and faintness.</p>
+<p>When the heart beats too slowly, it can result in inadequate blood flow to the brain, causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> and a feeling of unsteadiness. This condition can significantly impact daily activities and quality of life.</p>
 <h2 id="forms">What are the Forms of Slow pulse with dizziness?</h2>
 <p>There are several forms of slow pulse with dizziness, each with its specific symptoms and related concepts:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a> with dizziness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/slow-heartbeat">slow heartbeat</a> and lightheadedness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a> with dizziness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/slow-heartbeat">slow heartbeat</a> and lightheadedness</li>
 <li>Low pulse with vertigo</li>
 <li>Heart rate drop with dizziness</li>
 <li>Bradycardia symptoms</li>
@@ -214,9 +214,9 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Slow pulse with dizziness?</h2>
 <p>Diagnosing slow pulse with dizziness involves a thorough medical history, physical examination, and various tests, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
 <li>Holter monitor</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 <li>Blood tests</li>
 <li>Tilt table test</li>
 </ul>
@@ -224,7 +224,7 @@
 <p>Treatment options for slow pulse with dizziness may include:</p>
 <ul>
 <li>Medications to regulate the heart rate</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a></li>
 <li>Lifestyle changes such as staying hydrated and maintaining a balanced diet</li>
 <li>Avoiding triggers like caffeine and alcohol</li>
 <li>Cardiac rehabilitation programs</li>
@@ -232,7 +232,7 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience any of the following symptoms:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Fainting or near-fainting episodes</li>
 <li>Shortness of breath</li>
 <li>Severe dizziness or lightheadedness</li>

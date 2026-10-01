@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Common Causes of Tachycardia: Discover Tachycardia Causes">
   <meta property="og:description" content="Learn about the common tachycardia causes you should be aware of. Find out what factors can lead to this condition and how to manage them effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/common-causes-of-tachycardia-discover-tachycardia-causes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/common-causes-of-tachycardia-discover-tachycardia-causes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/common-causes-of-tachycardia-discover-tachycardia-causes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/common-causes-of-tachycardia-discover-tachycardia-causes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Common Causes Of Tachycardia: Discover Tachycardia Causes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/common-causes-of-tachycardia-discover-tachycardia-causes"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/common-causes-of-tachycardia-discover-tachycardia-causes"  
       }]
     }
   </script>

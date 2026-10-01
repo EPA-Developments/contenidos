@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Trifascicular Block: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Trifascicular Block affects heart conduction, slowing electrical signals. Know more about its symptoms, causes, and treatment for a healthier heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/trifascicular-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/trifascicular-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/trifascicular-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/trifascicular-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Trifascicular Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/trifascicular-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/trifascicular-block"
       }]
     }
   </script>
@@ -161,26 +161,26 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Trifascicular Block</h1>
-<p>Trifascicular block is a heart condition where there are issues with three important electrical pathways in the heart. It can lead to serious heart rhythm problems and even complete heart block. While not extremely common, it is significant because it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, and in severe cases, heart failure. It's crucial to monitor and manage this condition to prevent complications. If you have symptoms like dizziness or fainting, it's important to see a doctor for proper evaluation and treatment.</p>
+<p>Trifascicular block is a heart condition where there are issues with three important electrical pathways in the heart. It can lead to serious heart rhythm problems and even complete heart block. While not extremely common, it is significant because it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, and in severe cases, heart failure. It's crucial to monitor and manage this condition to prevent complications. If you have symptoms like dizziness or fainting, it's important to see a doctor for proper evaluation and treatment.</p>
 <h2 id="causes">Causes of Trifascicular Block</h2>
 <p>Trifascicular block, a condition affecting the heart's electrical system, can be influenced by various factors. These include:
 
 <ul>
 <li>Age-related degeneration of the heart's electrical pathways</li>
 <li>Coronary artery disease leading to impaired blood flow to the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> affecting the heart's conduction system</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> affecting the heart's conduction system</li>
 <li>Prior heart attacks causing damage to the heart muscle</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, a disease of the heart muscle affecting its function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, a disease of the heart muscle affecting its function</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Trifascicular Block</h2>
 <p>Trifascicular block is a serious heart condition that affects the electrical conduction system of the heart, potentially leading to dangerous heart rhythms. Early recognition of its symptoms is crucial for prompt management and improved outcomes. Symptoms of trifascicular block may include:
 
 <ul>
 <li>Unexplained fainting episodes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 Recognizing these symptoms and seeking medical attention promptly can help in the timely diagnosis and appropriate management of trifascicular block, reducing the risk of complications and improving overall prognosis. If you experience any of these symptoms, it's essential to consult a healthcare provider for a thorough evaluation and proper guidance.</p>

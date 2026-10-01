@@ -1,26 +1,26 @@
         <meta charset="utf-8">
-        <link rel="icon" type="image/x-icon" href="https://plataforma.epa-bienestar.com.ar/favicon.ico" sizes="32x32">
+        <link rel="icon" type="image/x-icon" href="https://contenidos.segundaopinionmedica.org/favicon.ico" sizes="32x32">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="robots" content="index, follow" />
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/aos.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/animate.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/meanmenu.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/remixicon.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/odometer.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/owl.theme.default.min.css">
-		<link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/jquery.mCustomScrollbar.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/jquery-ui.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/magnific-popup.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/fancybox.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/selectize.min.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/style.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/navbar.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/footer.css">
-        <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/responsive.css">
-		<!-- <script type='text/javascript' src='https://plataforma.epa-bienestar.com.ar/js/jquery-3.6.0.min.js'></script> -->
-        <script src="https://plataforma.epa-bienestar.com.ar/js/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/aos.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/animate.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/meanmenu.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/remixicon.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/odometer.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/jquery.mCustomScrollbar.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/jquery-ui.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/fancybox.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/selectize.min.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/style.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/navbar.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/footer.css">
+        <link rel="stylesheet" href="https://contenidos.segundaopinionmedica.org/css/responsive.css">
+		<!-- <script type='text/javascript' src='https://contenidos.segundaopinionmedica.org/js/jquery-3.6.0.min.js'></script> -->
+        <script src="https://contenidos.segundaopinionmedica.org/js/jquery.min.js"></script>
 <?php
 $url = $_SERVER['REQUEST_URI'];
 $escaped_url = htmlspecialchars($url, ENT_QUOTES, 'UTF-8');
@@ -54,7 +54,7 @@ $languages = [
 ];
 
 foreach ($languages as $hreflang => $path) {
-    echo '<link rel="alternate" hreflang="' . $hreflang . '" href="https://plataforma.epa-bienestar.com.ar' . $path . $escaped_url . '" />' . PHP_EOL;
+    echo '<link rel="alternate" hreflang="' . $hreflang . '" href="https://contenidos.segundaopinionmedica.org' . $path . $escaped_url . '" />' . PHP_EOL;
 }
 ?>
 <style>
@@ -71,8 +71,8 @@ foreach ($languages as $hreflang => $path) {
                 <div class="container">
                     <div class="main-responsive-menu">
                         <div class="logo">
-                            <a href="https://plataforma.epa-bienestar.com.ar">
-                            <img src="https://plataforma.epa-bienestar.com.ar/images/logo.svg" class="black-logo" alt="image" width="40px" height="40px";>
+                            <a href="https://contenidos.segundaopinionmedica.org">
+                            <img src="https://contenidos.segundaopinionmedica.org/images/logo.svg" class="black-logo" alt="image" width="40px" height="40px";>
                             </a>
                         </div>
                     </div>
@@ -81,33 +81,33 @@ foreach ($languages as $hreflang => $path) {
             <div class="main-navbar">
                 <div class="container-fluid">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="https://plataforma.epa-bienestar.com.ar">
-                            <img src="https://plataforma.epa-bienestar.com.ar/images/logo.svg" class="black-logo" alt="image";>
+                        <a class="navbar-brand" href="https://contenidos.segundaopinionmedica.org">
+                            <img src="https://contenidos.segundaopinionmedica.org/images/logo.svg" class="black-logo" alt="image";>
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                             <ul class="navbar-nav m-auto">
-                                <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar" class="nav-link active">Home</a></li>
-								<li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/doctors/" class="nav-link">Doctors</a></li>
+                                <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org" class="nav-link active">Home</a></li>
+								<li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/doctors/" class="nav-link">Doctors</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Services <i class="ri-arrow-down-s-line"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/procedures/" class="nav-link">Treatments & Procedures </a></li>
-                                        <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/" class="nav-link">Tests & Screenings </a></li>
+                                        <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/procedures/" class="nav-link">Treatments & Procedures </a></li>
+                                        <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/tests-screenings/" class="nav-link">Tests & Screenings </a></li>
                                     </ul>
                                 </li>
 								<li class="nav-item"><a href="#" class="nav-link">Care & Conditions <i class="ri-arrow-down-s-line"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/diseases/" class="nav-link">Diseases </a></li>
-                                        <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/symptoms/" class="nav-link">Symptom </a></li>
+                                        <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/diseases/" class="nav-link">Diseases </a></li>
+                                        <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/symptoms/" class="nav-link">Symptom </a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es.php" class="nav-link">Life Essential 8</a></li>
-                                <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/biblioteca/" class="nav-link">Biblioteca CKM</a></li>
+                                <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/life-essential-8-es.php" class="nav-link">Life Essential 8</a></li>
+                                <li class="nav-item"><a href="https://contenidos.segundaopinionmedica.org/biblioteca/" class="nav-link">Biblioteca CKM</a></li>
 								<li class="nav-item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhYiPSN56wuZ5OCYR6N3QB6-IFnrRkYzrK365ZR6TqfZ77IQ/viewform?usp=header" class="nav-link" target="_blank">Contact</a></li>
                             </ul>
                             <div class="others-options d-flex align-items-center" style="display: flex; gap: 20px;">  
 							<!-- Book Appointment Button -->
 							<div class="option-item">
-								<a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
+								<a href="https://contenidos.segundaopinionmedica.org/turnos" class="default-btn">Pedir turno</a>
 							</div>
 
 							<!-- GTranslate Wrapper Styled as a Button -->
@@ -145,7 +145,7 @@ foreach ($languages as $hreflang => $path) {
 									</div>
                                 </div>
                                 <div class="option-item">
-                                    <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/turnos" class="default-btn">Pedir turno</a>
                                 </div>
                             </div>
                         </div>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Angiopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Angiopathy is a generic term which means disease of the blood vessels. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/angiopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/angiopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/angiopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/angiopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Angiopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/angiopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/angiopathy"
       }]
     }
   </script>
@@ -161,20 +161,20 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment, Symptoms, and Causes of Angiopathy</h1>
-<p>Angiopathy is a condition affecting blood vessels, causing them to become damaged or diseased. It's significant because it can lead to serious health issues like heart disease, stroke, and kidney problems. Angiopathy is prevalent among individuals with diabetes, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. This condition restricts blood flow, increasing the risk of complications. Understanding angiopathy is crucial for managing and preventing cardiovascular diseases. By maintaining a healthy lifestyle and managing underlying conditions, the impact of angiopathy can be minimized, promoting better heart health.</p>
+<p>Angiopathy is a condition affecting blood vessels, causing them to become damaged or diseased. It's significant because it can lead to serious health issues like heart disease, stroke, and kidney problems. Angiopathy is prevalent among individuals with diabetes, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. This condition restricts blood flow, increasing the risk of complications. Understanding angiopathy is crucial for managing and preventing cardiovascular diseases. By maintaining a healthy lifestyle and managing underlying conditions, the impact of angiopathy can be minimized, promoting better heart health.</p>
 <h2 id="causes">Causes of Angiopathy</h2>
 <p><ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Diabetes</li>
 <li>Obesity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Angiopathy</h2>
 <p>Early recognition of symptoms of Angiopathy is crucial as it can lead to better outcomes when diagnosed and treated promptly. Symptoms to watch for include:
 
 <ul>
-<li>Leg pain or cramping during physical activity (intermittent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a>)</li>
+<li>Leg pain or cramping during physical activity (intermittent <a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a>)</li>
 <li>Non-healing sores on the legs or feet</li>
 <li>Changes in skin color or temperature in the affected area</li>
 <li>Weakened pulse in the legs or feet</li>
@@ -210,7 +210,7 @@ These diagnostic tools help healthcare providers identify the underlying cause o
 </ul>
 <h3>3. Surgical Interventions</h3>
 <ul>
-<li>This treatment option includes procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery.</li>
+<li>This treatment option includes procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery.</li>
 <li>Rationale: Surgical interventions can restore blood flow to affected areas.</li>
 <li>Objective: To improve blood circulation and reduce symptoms of Angiopathy.</li>
 <li>Steps: Consultation with a surgeon, pre-operative evaluations, the surgical procedure, and post-operative care.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Williams-Beuren Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Williams-Beuren Syndrome is a genetic disorder affecting growth and heart health. Know more about its causes, symptoms, and treatment for well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/williams-beuren-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/williams-beuren-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/williams-beuren-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/williams-beuren-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Williams-Beuren Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/williams-beuren-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/williams-beuren-syndrome"
       }]
     }
   </script>
@@ -194,7 +194,7 @@ By being aware of these signs and seeking medical attention promptly, individual
 <li>Imaging studies (e.g., echocardiograms)</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Williams-Beuren Syndrome</h2>
-<p>Williams-Beuren Syndrome requires a multidisciplinary approach for management, focusing on individualized care to address specific symptoms and needs. <h3>Medical Interventions</h3> <ul> <li>This involves medications to manage symptoms like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or cardiac issues.</li> <li>Medications help control blood pressure and improve heart function.</li> <li>The primary goal is to optimize heart health and manage associated conditions.</li> <li>Patients may need regular monitoring and adjustments in medication doses.</li> </ul> <h3>Therapies</h3> <ul> <li>Physical, occupational, and speech therapies are essential for developmental delays.</li> <li>These therapies aim to improve motor skills, speech, and overall quality of life.</li> <li>The main objective is to enhance functional abilities and independence.</li> <li>Individualized therapy plans are tailored to each patient's needs and progress.</li> </ul></p>
+<p>Williams-Beuren Syndrome requires a multidisciplinary approach for management, focusing on individualized care to address specific symptoms and needs. <h3>Medical Interventions</h3> <ul> <li>This involves medications to manage symptoms like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or cardiac issues.</li> <li>Medications help control blood pressure and improve heart function.</li> <li>The primary goal is to optimize heart health and manage associated conditions.</li> <li>Patients may need regular monitoring and adjustments in medication doses.</li> </ul> <h3>Therapies</h3> <ul> <li>Physical, occupational, and speech therapies are essential for developmental delays.</li> <li>These therapies aim to improve motor skills, speech, and overall quality of life.</li> <li>The main objective is to enhance functional abilities and independence.</li> <li>Individualized therapy plans are tailored to each patient's needs and progress.</li> </ul></p>
 <h2>Prevention and Management of Williams-Beuren Syndrome</h2>
 <p>When it comes to managing Williams-Beuren Syndrome, lifestyle changes and proactive measures play a significant role in improving quality of life and reducing potential complications. Here's how you can make a difference:
 

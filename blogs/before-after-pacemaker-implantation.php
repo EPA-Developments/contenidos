@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Before and After Pacemaker Implantation: Everything You Need to Know">
   <meta property="og:description" content="Learn about the process of pacemaker implantation and what to expect before and after the procedure. Find out more about pacemaker implantation here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/before-after-pacemaker-implantation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/before-after-pacemaker-implantation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/before-after-pacemaker-implantation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/before-after-pacemaker-implantation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pacemaker Implantation",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/before-after-pacemaker-implantation"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/before-after-pacemaker-implantation"  
       }]
     }
   </script>

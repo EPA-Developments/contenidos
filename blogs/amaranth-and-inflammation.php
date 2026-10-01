@@ -10,12 +10,12 @@
     <meta property="og:title" content="Amaranth Seeds: Heart Inflammation Defense" />
     <meta property="og:description" content="Discover how Amaranth seeds combat heart inflammation naturally for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/amaranth-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/amaranth-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/amaranth-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/amaranth-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Amaranth And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/amaranth-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/amaranth-and-inflammation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Amaranth Seeds and Heart Inflammation: A Protective Duo</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to alleviate it? The solution might be simpler than you think. Let's explore the powerful benefits of Amaranth seeds in combating heart inflammation and how they can help improve your daily life.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to alleviate it? The solution might be simpler than you think. Let's explore the powerful benefits of Amaranth seeds in combating heart inflammation and how they can help improve your daily life.</p>
 <h2 class="sec-scrl" id="amaranth-inflammation">Amaranth and Inflammation</h2>
 <p>Amaranth seeds, a nutrient-dense ancient grain, have been gaining popularity for their remarkable ability to combat inflammation in the body. These tiny seeds are packed with antioxidants and essential nutrients that play a crucial role in reducing inflammatory markers and protecting against heart inflammation.</p>
 <p>One of the key components of Amaranth seeds that contribute to their anti-inflammatory properties is their high concentration of bioactive peptides. These peptides help in reducing oxidative stress and promoting cellular repair, which are essential for preventing heart disease and maintaining overall health.</p>

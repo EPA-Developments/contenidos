@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dressler Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Dressler Syndrome causes chest pain after a heart attack. Read more about its symptoms, causes, and treatment for better recovery." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/dressler-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/dressler-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/dressler-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/dressler-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Dressler Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/dressler-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/dressler-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Dressler Syndrome</h1>
-<p>Dressler Syndrome, also known as postpericardiotomy syndrome, is a condition where inflammation occurs in the sac around the heart (pericardium) after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. It typically presents a few weeks to months after the initial event. While less common now due to advances in surgical techniques, it remains significant as it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fever, and fluid buildup in the lungs. Although its prevalence has decreased, awareness is crucial for early detection and management to prevent complications.</p>
+<p>Dressler Syndrome, also known as postpericardiotomy syndrome, is a condition where inflammation occurs in the sac around the heart (pericardium) after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. It typically presents a few weeks to months after the initial event. While less common now due to advances in surgical techniques, it remains significant as it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fever, and fluid buildup in the lungs. Although its prevalence has decreased, awareness is crucial for early detection and management to prevent complications.</p>
 <h2 id="causes">Causes of Dressler Syndrome</h2>
 <p>Dressler Syndrome, also known as post-pericardiotomy syndrome, typically occurs weeks to months after a cardiac injury or surgery. The main factors contributing to its development include:
 
@@ -177,7 +177,7 @@
 <ul>
 <li>Chest pain</li>
 <li>Fever</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Joint pain</li>
 <li>Pericardial friction rub (a specific type of heart sound)</li>
@@ -188,8 +188,8 @@
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
 <li>Blood tests to check for inflammation markers</li>
-<li>Imaging studies like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> or chest X-ray</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
+<li>Imaging studies like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> or chest X-ray</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Dressler Syndrome</h2>
 <p>When it comes to treating Dressler Syndrome, individualized care is key to ensuring the best outcomes for patients. Here are the main approaches to treating Dressler Syndrome:
@@ -203,9 +203,9 @@
 </ul>
 <h3>2. Pericardiocentesis</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/pericardiocentesis">pericardiocentesis</a> is a procedure to drain excess fluid around the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/pericardiocentesis">pericardiocentesis</a> is a procedure to drain excess fluid around the heart.</li>
 <li>It is done to relieve pressure on the heart and improve cardiac function.</li>
-<li>The primary objective is to remove fluid accumulation and prevent <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-tamponade">cardiac tamponade</a>.</li>
+<li>The primary objective is to remove fluid accumulation and prevent <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-tamponade">cardiac tamponade</a>.</li>
 <li>It may be performed as a one-time procedure or repeated based on the patient's condition.</li>
 </ul>
 <h3>3. Surgical Intervention</h3>

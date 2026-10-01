@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peaches: Heart Health and Cholesterol&quot;" />
     <meta property="og:description" content="Uncover how peaches benefit heart health and lower cholesterol levels naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peaches-and-heart-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peaches-and-heart-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peaches-and-heart-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peaches-and-heart-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peaches And Heart Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peaches-and-heart-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peaches-and-heart-cholesterol"
         }
     ]
 }
@@ -147,14 +147,14 @@
 <h2 class="sec-scrl" id="lipid-balance">Maintaining Lipid Balance with Peaches</h2>
 <p>Ensuring a healthy lipid balance is key to preventing heart disease and maintaining overall wellness. Peaches can be a valuable addition to your diet when it comes to managing lipid levels and promoting heart health. Here are some ways peaches contribute to lipid balance:</p>
 <ul>
-<li><strong>Reducing LDL Cholesterol:</strong> The fiber and antioxidants in peaches help lower LDL cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular issues.</li>
+<li><strong>Reducing LDL Cholesterol:</strong> The fiber and antioxidants in peaches help lower LDL cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular issues.</li>
 <li><strong>Boosting HDL Cholesterol:</strong> Peaches can also help increase HDL (good) cholesterol levels, which are beneficial for heart health and overall lipid balance.</li>
 <li><strong>Preventing Plaque Buildup:</strong> The nutrients in peaches work to prevent the buildup of plaque in arteries, reducing the risk of heart attacks and strokes.</li>
 </ul>
 <h2 class="sec-scrl" id="fat-soluble-vitamins">The Importance of Fat-Soluble Vitamins in Peaches</h2>
 <p>Fat-soluble vitamins are essential for various bodily functions, including heart health. Peaches contain a range of fat-soluble vitamins that can support your cardiovascular system and contribute to overall well-being. Here's how these vitamins in peaches benefit your heart:</p>
 <ul>
-<li><strong>Vitamin E:</strong> Peaches are a good source of vitamin E, an antioxidant that can help prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease">coronary heart disease</a> and protect the heart from damage.</li>
+<li><strong>Vitamin E:</strong> Peaches are a good source of vitamin E, an antioxidant that can help prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease">coronary heart disease</a> and protect the heart from damage.</li>
 <li><strong>Vitamin K:</strong> Vitamin K in peaches plays a role in blood clotting and can help prevent calcification of arteries, reducing the risk of heart complications.</li>
 <li><strong>Vitamin A:</strong> Peaches contain vitamin A, which supports vision health and immune function, contributing to overall cardiovascular wellness.</li>
 </ul>

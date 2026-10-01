@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Right Aortic Arch: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Right aortic arch affects blood flow to the heart. Know more about causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/right-aortic-arch">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/right-aortic-arch">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/right-aortic-arch" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/right-aortic-arch" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Right Aortic Arch",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/right-aortic-arch"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/right-aortic-arch"
       }]
     }
   </script>
@@ -176,7 +176,7 @@
 
 <ul>
 <li>Difficulty swallowing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Coughing or choking while eating</li>
 <li>Recurrent respiratory infections</li>
 <li>Feeling of food sticking in the throat</li>
@@ -189,12 +189,12 @@ Early identification of these symptoms can lead to prompt medical evaluation and
 <ul>
 <li>Barium Swallow Study</li>
 <li>Chest X-ray</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a></li>
 <li>CT Angiography</li>
 <li>MRI</li>
 </ul>
 
-Accurate diagnosis is essential to understand the anatomy of the aorta and associated structures, determine potential complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-ring">vascular ring</a> anomalies, and guide appropriate interventions for better patient outcomes.</p>
+Accurate diagnosis is essential to understand the anatomy of the aorta and associated structures, determine potential complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-ring">vascular ring</a> anomalies, and guide appropriate interventions for better patient outcomes.</p>
 <h2 id="treatment">Treatment Options for Right Aortic Arch</h2>
 <p>When it comes to treating Right Aortic Arch, individualized care is crucial for the best outcomes. Here are the main approaches to treating Right Aortic Arch:
 
@@ -202,7 +202,7 @@ Accurate diagnosis is essential to understand the anatomy of the aorta and assoc
 <ul>
 <li>Medical management involves using medications to control symptoms and manage complications.</li>
 <li>The rationale behind medical management is to improve quality of life and prevent further complications.</li>
-<li>The primary objective is to alleviate symptoms and reduce the risk of complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or heart failure.</li>
+<li>The primary objective is to alleviate symptoms and reduce the risk of complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or heart failure.</li>
 <li>This treatment may involve medications to control blood pressure, heart rate, or cholesterol levels.</li>
 </ul>
 <h3>Surgical Correction</h3>

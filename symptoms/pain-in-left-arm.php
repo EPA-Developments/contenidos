@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pain in Left Arm: Causes, Treatment and Diagnosis" >
   <meta property="og:description" content="Pain in the left arm can indicate heart issues. Know more about its causes, symptoms, diagnosis, and treatment options for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-left-arm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pain-in-left-arm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-left-arm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pain-in-left-arm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pain In Left Arm",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-left-arm"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pain-in-left-arm"  
       }]
     }
   </script>
@@ -187,9 +187,9 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Pain in Left Arm: Causes, Treatment and Symptoms</h1>
 <p>Pain in the left arm is a common symptom that can range from mild discomfort to severe agony.</p>
-<p>It can manifest in various forms such as left arm discomfort, ache, arm pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> radiation, left shoulder pain, arm numbness, and left arm heaviness.</p>
+<p>It can manifest in various forms such as left arm discomfort, ache, arm pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> radiation, left shoulder pain, arm numbness, and left arm heaviness.</p>
 <p>This sensation can be localized in the arm or radiate to the shoulder, neck, back, or even the chest.</p>
-<p>Symptoms of pain in the left arm may include a dull ache, sharp stabbing pain, tingling, numbness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, or a heaviness in the arm. These symptoms can be constant or intermittent, depending on the underlying cause.</p>
+<p>Symptoms of pain in the left arm may include a dull ache, sharp stabbing pain, tingling, numbness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, or a heaviness in the arm. These symptoms can be constant or intermittent, depending on the underlying cause.</p>
 <p>Left arm pain can be a result of various factors, including muscle strain, nerve compression, injury, heart-related issues, anxiety, or other medical conditions.</p>
 <h2 id="forms">What are the Forms of Pain in left arm?</h2>
 <p>- Left arm discomfort: Often described as a general uneasiness or irritation in the arm.</p>
@@ -205,7 +205,7 @@
 <p>- Muscle strain or overuse</p>
 <ul>
 <li>Nerve compression or injury</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
 <li>Anxiety or panic attacks</li>
 <li>Rotator cuff injury</li>
 <li>Frozen shoulder</li>
@@ -216,7 +216,7 @@
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Pain in left arm?</h2>
 <p>Diagnosing the cause of pain in the left arm typically involves a thorough medical history review, physical examination, and possibly imaging tests such as X-rays, MRI, or CT scans.</p>
-<p>Blood tests may also be conducted to check for markers of inflammation or cardiac enzymes in case of suspected heart-related issues. Advanced diagnostic methods like <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) or angiography may be used to assess heart function and blood flow.</p>
+<p>Blood tests may also be conducted to check for markers of inflammation or cardiac enzymes in case of suspected heart-related issues. Advanced diagnostic methods like <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) or angiography may be used to assess heart function and blood flow.</p>
 <h2 id="treatment">What is the Treatment for Pain in left arm?</h2>
 <p>Treatment for pain in the left arm depends on the underlying cause.</p>
 <ul>
@@ -233,8 +233,8 @@
 <li>Chest pain radiating to the arm</li>
 <li>Numbness or tingling in the arm</li>
 <li>Weakness in the arm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 <h2>Home Remedies for Pain in left arm</h2>
 <p>- Applying ice packs to reduce inflammation and pain</p>

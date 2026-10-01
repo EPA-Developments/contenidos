@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Hypertrophy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart Hypertrophy leads to an enlarged heart muscle. Know more about its causes, symptoms, and treatment to avoid heart failure." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-hypertrophy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-hypertrophy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-hypertrophy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-hypertrophy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Hypertrophy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-hypertrophy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-hypertrophy"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Heart Hypertrophy</h1>
-<p>Heart hypertrophy is when the heart muscle thickens due to conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or heart disease. This can make it harder for the heart to pump blood effectively. It's significant because it can lead to serious complications like heart failure or irregular heartbeats. Heart hypertrophy is quite common, especially among older adults and those with untreated high blood pressure. It's essential to monitor and manage this condition to prevent further heart problems and maintain good heart health.</p>
+<p>Heart hypertrophy is when the heart muscle thickens due to conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or heart disease. This can make it harder for the heart to pump blood effectively. It's significant because it can lead to serious complications like heart failure or irregular heartbeats. Heart hypertrophy is quite common, especially among older adults and those with untreated high blood pressure. It's essential to monitor and manage this condition to prevent further heart problems and maintain good heart health.</p>
 <h2 id="causes">Causes of Heart Hypertrophy</h2>
 <p><h3>Main Factors Contributing to Heart Hypertrophy:</h3>
 <ul>
 <li>High blood pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Chronic kidney disease</li>
 <li>Thyroid disorders</li>
 </ul></p>
@@ -175,11 +175,11 @@
 <p>When it comes to Heart Hypertrophy, recognizing the symptoms early on is crucial for better outcomes and management. By being aware of the signs, individuals can seek timely medical attention and prevent potential complications. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Irregular heartbeat</li>
 </ul></p>
 <h2>Diagnosis of Heart Hypertrophy</h2>

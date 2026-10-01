@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lettuce: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of lettuce for a healthy heart. Learn about its nutritional value and impact on blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lettuce-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lettuce-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lettuce Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lettuce-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lettuce-heart-benefits"
         }
     ]
 }

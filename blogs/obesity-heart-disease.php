@@ -10,12 +10,12 @@
     <meta property="og:title" content="Obesity and Heart Disease: A Deadly Connection" />
     <meta property="og:description" content="Learn how obesity impacts heart health & ways to reduce heart disease risk through weight management. Understand the obesity-heart disease connection now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/obesity-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/obesity-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/obesity-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/obesity-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Obesity Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/obesity-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/obesity-heart-disease"
         }
     ]
 }
@@ -174,9 +174,9 @@
 <p>Obesity is a significant risk factor for heart disease. The excess weight puts strain on the heart, leading to various cardiovascular issues. When you carry excess weight, your heart has to work harder to pump blood throughout your body, increasing the risk of heart-related complications.</p>
 <p>Several mechanisms link obesity and heart disease. One key factor is the development of metabolic syndrome, a cluster of conditions that increase the risk of heart disease, stroke, and type 2 diabetes. Weight management plays a crucial role in reducing these risks and promoting overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="weight-and-cardiovascular-health">The Impact of Weight on Cardiovascular Health</h2>
-<p>How does your weight affect your heart risk? Excess weight, especially around the abdomen, is associated with higher levels of LDL cholesterol (bad cholesterol) and triglycerides, as well as lower levels of HDL cholesterol (good cholesterol). These lipid imbalances contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease.</p>
+<p>How does your weight affect your heart risk? Excess weight, especially around the abdomen, is associated with higher levels of LDL cholesterol (bad cholesterol) and triglycerides, as well as lower levels of HDL cholesterol (good cholesterol). These lipid imbalances contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease.</p>
 <ul>
-<li>Obesity can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, another significant risk factor for heart disease.</li>
+<li>Obesity can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, another significant risk factor for heart disease.</li>
 <li>Excess weight promotes inflammation in the body, which can damage blood vessels and contribute to heart issues.</li>
 <li>Insulin resistance, often seen in obesity, can also impact heart health by affecting how the body processes glucose.</li>
 </ul>

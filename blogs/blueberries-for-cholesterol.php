@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Blueberries for Lowering Cholesterol Levels&quot;" />
     <meta property="og:description" content="Learn how blueberries can help lower cholesterol levels naturally. Discover the benefits of blueberries for heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blueberries For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-cholesterol"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Blueberries for Cholesterol: A Healthy Choice</h1>
-<p>Are you searching for a natural way to improve your cholesterol levels? Blueberries might be the answer you've been looking for. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily life, making simple activities feel more challenging. Finding the right foods to combat this issue is crucial for your overall health and well-being.</p>
+<p>Are you searching for a natural way to improve your cholesterol levels? Blueberries might be the answer you've been looking for. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can significantly impact your daily life, making simple activities feel more challenging. Finding the right foods to combat this issue is crucial for your overall health and well-being.</p>
 <h2 class="sec-scrl" id="blueberries-for-cholesterol">Blueberries for Cholesterol</h2>
 <p>Blueberries are not only delicious but also packed with essential nutrients that can benefit your heart health. These small fruits are rich in antioxidants, which can help reduce inflammation and prevent damage to your blood vessels. Additionally, blueberries contain fiber, which is known to lower LDL cholesterol, often referred to as the "bad" cholesterol.</p>
 <p>Consuming blueberries regularly as part of a balanced diet may contribute to lower cholesterol levels and reduce your risk of heart disease. These versatile berries can be enjoyed on their own, added to yogurt or smoothies, or used in various recipes to add a burst of flavor and health benefits.</p>
 <h2 class="sec-scrl" id="hdl-cholesterol">Improving HDL Cholesterol with Blueberries</h2>
-<p>Not only do blueberries help lower LDL cholesterol, but they can also have a positive impact on HDL cholesterol, often known as the "good" cholesterol. HDL cholesterol plays a crucial role in removing LDL cholesterol from the arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
+<p>Not only do blueberries help lower LDL cholesterol, but they can also have a positive impact on HDL cholesterol, often known as the "good" cholesterol. HDL cholesterol plays a crucial role in removing LDL cholesterol from the arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
 <p>The antioxidants in blueberries work to increase HDL cholesterol levels, promoting better heart health and overall well-being. By incorporating blueberries into your daily diet, you can support your body in maintaining a healthy balance of cholesterol levels.</p>
 <h2 class="sec-scrl" id="heart-healthy-foods">Why Include Blueberries in Heart-Healthy Foods?</h2>
 <p>When it comes to heart-healthy foods, blueberries are a top choice. Their nutritional profile makes them an excellent addition to any diet focused on improving heart health. In addition to their cholesterol-lowering effects, blueberries are low in calories and high in vitamins and minerals.</p>

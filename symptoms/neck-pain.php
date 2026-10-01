@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Neck Pain: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing neck pain? Learn about causes, symptoms, and treatment options for neck pain, including how it may be connected to heart disease and muscle strain. Know when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/neck-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/neck-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/neck-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/neck-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Neck Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/neck-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/neck-pain"  
       }]
     }
   </script>
@@ -222,7 +222,7 @@
 <p>It is important to seek medical attention for neck pain if you experience:</p>
 <ul>
 <li>Persistent or severe neck pain that does not improve with rest</li>
-<li>Numbness, tingling, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the arms or hands</li>
+<li>Numbness, tingling, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the arms or hands</li>
 <li>Difficulty walking or maintaining balance</li>
 <li>Neck pain after a traumatic injury like a car accident</li>
 <li>Fever, chills, or unexplained weight loss in conjunction with neck pain</li>

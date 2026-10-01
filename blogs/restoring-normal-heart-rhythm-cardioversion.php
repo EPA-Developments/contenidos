@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Restoring Normal Heart Rhythm with Cardioversion">
   <meta property="og:description" content="Learn how cardioversion can help restore normal heart rhythm and treat irregular heartbeats. Discover the benefits of cardioversion today.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/restoring-normal-heart-rhythm-cardioversion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/restoring-normal-heart-rhythm-cardioversion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/restoring-normal-heart-rhythm-cardioversion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/restoring-normal-heart-rhythm-cardioversion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Restoring Normal Heart Rhythm With Cardioversion",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/restoring-normal-heart-rhythm-cardioversion"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/restoring-normal-heart-rhythm-cardioversion"  
       }]
     }
   </script>

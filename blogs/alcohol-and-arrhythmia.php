@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alcohol and Arrhythmia: Impact on Heart Rhythm" />
     <meta property="og:description" content="Learn how alcohol can trigger irregular heartbeats, impacting your health. Discover the connection between alcohol and arrhythmia now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-arrhythmia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-arrhythmia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-arrhythmia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-arrhythmia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Arrhythmia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-arrhythmia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-arrhythmia"
         }
     ]
 }
@@ -129,18 +129,18 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Can Alcohol Trigger Heart Rhythm Issues?</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or irregular heartbeats after a night of binge drinking? Do you wonder if alcohol could be the cause of your heart rhythm disturbances, affecting your daily activities and overall well-being?</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or irregular heartbeats after a night of binge drinking? Do you wonder if alcohol could be the cause of your heart rhythm disturbances, affecting your daily activities and overall well-being?</p>
 <h2 class="sec-scrl" id="Alcohol and Arrhythmia">Alcohol and Arrhythmia</h2>
-<p>Alcohol consumption, especially in large quantities or binge drinking sessions, can have a significant impact on your heart's rhythm. The relationship between alcohol and arrhythmias, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a> or atrial fibrillation, is a topic of growing concern in the medical community.</p>
+<p>Alcohol consumption, especially in large quantities or binge drinking sessions, can have a significant impact on your heart's rhythm. The relationship between alcohol and arrhythmias, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a> or atrial fibrillation, is a topic of growing concern in the medical community.</p>
 <p>When you consume alcohol, it directly affects the electrical signals in your heart, potentially leading to irregular heartbeats or palpitations. Understanding how alcohol influences heart rhythm disorders is crucial for managing your cardiovascular health.</p>
 <h2 class="sec-scrl" id="Heart Rhythm Disturbances">Heart Rhythm Disturbances</h2>
-<p>Heart rhythm disturbances, also known as arrhythmias, encompass a range of conditions where the heart beats irregularly. Alcohol binge drinking can trigger or exacerbate these disturbances, causing palpitations, fluttering sensations in the chest, or a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/racing-heartbeat">racing heartbeat</a>.</p>
+<p>Heart rhythm disturbances, also known as arrhythmias, encompass a range of conditions where the heart beats irregularly. Alcohol binge drinking can trigger or exacerbate these disturbances, causing palpitations, fluttering sensations in the chest, or a <a href="https://contenidos.segundaopinionmedica.org/symptoms/racing-heartbeat">racing heartbeat</a>.</p>
 <p>Excessive alcohol intake can disrupt the heart's normal electrical pathways, leading to abnormal heart rhythms. If you have a history of heart rhythm disturbances, it's essential to be cautious about alcohol consumption to prevent worsening of your condition.</p>
 <h2 class="sec-scrl" id="Binge Drinking">Binge Drinking</h2>
-<p>Binge drinking, defined as consuming a large amount of alcohol in a short period, can significantly increase the risk of developing arrhythmias. The sudden surge of alcohol in your system can trigger changes in heart rate and rhythm, potentially culminating in atrial fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>) or other arrhythmic conditions.</p>
+<p>Binge drinking, defined as consuming a large amount of alcohol in a short period, can significantly increase the risk of developing arrhythmias. The sudden surge of alcohol in your system can trigger changes in heart rate and rhythm, potentially culminating in atrial fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>) or other arrhythmic conditions.</p>
 <p>Individuals who engage in binge drinking regularly are more likely to experience heart rhythm disturbances and related symptoms. Limiting the amount of alcohol consumed per occasion and avoiding episodes of excessive drinking can help protect your heart health.</p>
 <h2 class="sec-scrl" id="Palpitations">Palpitations</h2>
-<p>Palpitations, or the sensation of an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, can be a common symptom experienced after alcohol consumption. The palpitations may feel like fluttering, pounding, or a racing heart, indicating possible arrhythmias induced by alcohol intake.</p>
+<p>Palpitations, or the sensation of an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, can be a common symptom experienced after alcohol consumption. The palpitations may feel like fluttering, pounding, or a racing heart, indicating possible arrhythmias induced by alcohol intake.</p>
 <p>If you frequently notice palpitations following alcohol consumption, it's essential to consult with a healthcare provider. Monitoring and addressing these symptoms promptly can help prevent complications associated with irregular heart rhythms.</p>
 <h2 class="sec-scrl" id="AFib and Alcohol">AFib and Alcohol</h2>
 <p>Atrial fibrillation (AFib), a type of arrhythmia characterized by irregular and rapid heartbeats, can be influenced by alcohol consumption. Studies have shown a direct correlation between alcohol intake and the development or exacerbation of AFib in some individuals.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Junctional Escape Beat: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Junctional escape beat occurs when the heart’s electrical system is disrupted. Read more on its causes, symptoms, and treatment for healthier heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-beat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-beat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-beat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-beat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Junctional Escape Beat",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-beat"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-beat"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Junctional Escape Beat</h1>
-<p>When your heart's natural pacemaker fails, a junctional escape beat kicks in to maintain a steady rhythm. It's like a backup system ensuring your heart keeps beating regularly. Although it may cause pauses in your heartbeat, it usually isn't dangerous. Junctional escape beats are quite common, especially in older adults and athletes. These beats can occur due to various reasons like medication side effects or underlying heart conditions. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting, speak with a healthcare provider for proper evaluation.</p>
+<p>When your heart's natural pacemaker fails, a junctional escape beat kicks in to maintain a steady rhythm. It's like a backup system ensuring your heart keeps beating regularly. Although it may cause pauses in your heartbeat, it usually isn't dangerous. Junctional escape beats are quite common, especially in older adults and athletes. These beats can occur due to various reasons like medication side effects or underlying heart conditions. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting, speak with a healthcare provider for proper evaluation.</p>
 <h2 id="causes">Causes of Junctional Escape Beat</h2>
 <p>Junctional escape beats can occur when the heart's natural pacemaker fails, and other areas of the heart take over to maintain a regular heartbeat. Some key factors contributing to the development of junctional escape beats include:
 
@@ -170,17 +170,17 @@
 <li>Heart disease affecting the heart's conduction system</li>
 <li>Electrolyte imbalances disrupting heart function</li>
 <li>Side effects of certain medications impacting heart rhythm</li>
-<li>Underlying medical conditions like hypothyroidism or <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a></li>
+<li>Underlying medical conditions like hypothyroidism or <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Junctional Escape Beat</h2>
 <p>Recognizing the symptoms of Junctional Escape Beat is crucial as early detection can significantly improve outcomes. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 Spotting these signs promptly can lead to timely intervention and management, potentially preventing complications and improving overall prognosis. If you experience any of these symptoms, consulting a healthcare provider for proper evaluation and treatment is essential.</p>
@@ -188,7 +188,7 @@ Spotting these signs promptly can lead to timely intervention and management, po
 <p>When it comes to Junctional Escape Beats, an accurate diagnosis is crucial for determining the underlying cause and appropriate treatment. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect irregular heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect irregular heart rhythms</li>
 <li>Holter monitor for continuous ECG monitoring over 24-48 hours</li>
 <li>Echocardiogram to assess heart structure and function</li>
 <li>Stress test to evaluate heart function during physical activity</li>

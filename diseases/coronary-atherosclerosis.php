@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Atherosclerosis: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Coronary Atherosclerosis builds plaque in arteries, reducing blood flow. Read more about its symptoms, causes, and treatment for a healthier heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-atherosclerosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-atherosclerosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-atherosclerosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-atherosclerosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Atherosclerosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-atherosclerosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-atherosclerosis"
       }]
     }
   </script>
@@ -169,14 +169,14 @@
 <p>Coronary Atherosclerosis is a common and serious condition characterized by the narrowing and hardening of the coronary arteries due to the buildup of plaque.</p>
 <p>This condition is of paramount significance as it restricts blood flow to the heart, leading to potentially fatal consequences such as heart attacks and heart failure. Coronary Atherosclerosis is prevalent globally, affecting millions of individuals of all ages and genders.</p>
 <p>Its impact on health is profound, affecting essential functions such as oxygen delivery to the heart muscle, regulation of blood pressure, and overall cardiac function.</p>
-<p>In the short term, untreated Coronary Atherosclerosis can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, it significantly increases the risk of heart attacks, stroke, and premature death.</p>
+<p>In the short term, untreated Coronary Atherosclerosis can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, it significantly increases the risk of heart attacks, stroke, and premature death.</p>
 <p>The insidious nature of Coronary Atherosclerosis lies in its asymptomatic presentation in the early stages, making it challenging to detect without thorough screening.</p>
-<p>Early detection through regular health check-ups, especially for individuals with risk factors like obesity, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, smoking, and diabetes, is crucial in preventing the progression of the disease and reducing the associated health risks.</p>
+<p>Early detection through regular health check-ups, especially for individuals with risk factors like obesity, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, smoking, and diabetes, is crucial in preventing the progression of the disease and reducing the associated health risks.</p>
 <h2 id="causes">Causes of Coronary Atherosclerosis</h2>
 <p>There are various primary causes of Coronary Atherosclerosis that contribute to the development and progression of this condition:</p>
 <ul>
-<li>High Cholesterol: Elevated levels of LDL cholesterol in the blood can lead to the deposition of cholesterol plaques in the coronary arteries over time, narrowing the blood vessels and impeding blood flow to the heart. This process, known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, gradually compromises heart function and increases the risk of cardiovascular events.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: Chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> exerts excessive force on the arterial walls, causing damage and inflammation that promotes the formation of atherosclerotic plaques. The narrowed arteries restrict blood flow and oxygen delivery to the heart, leading to cardiac complications.</li>
+<li>High Cholesterol: Elevated levels of LDL cholesterol in the blood can lead to the deposition of cholesterol plaques in the coronary arteries over time, narrowing the blood vessels and impeding blood flow to the heart. This process, known as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, gradually compromises heart function and increases the risk of cardiovascular events.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: Chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> exerts excessive force on the arterial walls, causing damage and inflammation that promotes the formation of atherosclerotic plaques. The narrowed arteries restrict blood flow and oxygen delivery to the heart, leading to cardiac complications.</li>
 <li>Smoking: Tobacco smoke contains harmful chemicals that injure the inner lining of blood vessels, triggering an inflammatory response that accelerates the development of atherosclerosis. Smokers have a significantly higher risk of Coronary Atherosclerosis compared to non-smokers.</li>
 <li>Diabetes: Individuals with uncontrolled diabetes are at an increased risk of developing Coronary Atherosclerosis due to elevated blood sugar levels that damage blood vessels and promote plaque formation. Diabetics often have coexisting risk factors such as obesity and high cholesterol that further contribute to the progression of the disease.</li>
 </ul>
@@ -190,7 +190,7 @@
 <p>The symptoms of Coronary Atherosclerosis can vary depending on the stage of the disease. Early-stage symptoms may be subtle and easily overlooked, while advanced-stage symptoms are more pronounced and indicative of significant arterial blockages.</p>
 <ul>
 <li>Fatigue: Persistent fatigue or a decrease in energy levels may be a sign of reduced blood flow to the heart, impacting daily activities and exercise tolerance. Individuals may experience tiredness even after minimal exertion.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Breathlessness, especially during physical activity, can indicate inadequate oxygen supply to the heart muscle, affecting overall physical well-being and quality of life. This symptom may be mistakenly attributed to other causes like fitness level or respiratory issues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Breathlessness, especially during physical activity, can indicate inadequate oxygen supply to the heart muscle, affecting overall physical well-being and quality of life. This symptom may be mistakenly attributed to other causes like fitness level or respiratory issues.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis and Treatment for Visible Chest Pulse" >
   <meta property="og:description" content="Visible chest pulse might be a sign of heart issues. Know more about its causes, forms, diagnosis, and treatments for proper evaluation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/visible-chest-pulse">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/visible-chest-pulse">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/visible-chest-pulse" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/visible-chest-pulse" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Visible Chest Pulse",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/visible-chest-pulse"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/visible-chest-pulse"  
       }]
     }
   </script>
@@ -191,7 +191,7 @@
 <p>Symptoms of visible chest pulse may vary from person to person but commonly include a noticeable pulsation in the chest area, especially in the sternum or lower ribcage.</p>
 <p>Some people may also feel a throbbing sensation or see their chest visibly moving with each heartbeat. These symptoms may be intermittent or continuous, depending on the underlying cause.</p>
 <h2 id="forms">What are the Forms of Visible chest pulse?</h2>
-<p>There are several forms of visible chest pulse, each with specific symptoms and related concepts. These forms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pulsation">chest pulsation</a>, throbbing in the chest, visible heartbeat, pulse in the chest, pulsing sensation, heart throbbing, and visible blood flow.</p>
+<p>There are several forms of visible chest pulse, each with specific symptoms and related concepts. These forms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pulsation">chest pulsation</a>, throbbing in the chest, visible heartbeat, pulse in the chest, pulsing sensation, heart throbbing, and visible blood flow.</p>
 <p>While the symptoms may overlap, the underlying causes can vary significantly.</p>
 <p>Chest pulsation typically refers to a rhythmic throbbing or pulsing sensation in the chest area, often synchronized with the heartbeat. Throbbing in the chest may involve a more pronounced pulsation that is visible to the naked eye.</p>
 <p>Visible heartbeat and pulse in the chest are self-explanatory, indicating a visual observation of the heart's rhythmic contractions. Pulsing sensation, heart throbbing, and visible blood flow all point to the same underlying issue of a noticeable chest pulse.</p>
@@ -200,7 +200,7 @@
 <ul>
 <li>Anxiety or stress can lead to heightened awareness of bodily sensations, including chest pulsations.</li>
 <li>Strenuous physical activity or exercise can cause an increase in heart rate and blood flow, leading to a visible chest pulse.</li>
-<li>Dehydration or electrolyte imbalances may result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> and chest pulsations.</li>
+<li>Dehydration or electrolyte imbalances may result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> and chest pulsations.</li>
 <li>Heart conditions such as arrhythmias, heart failure, or structural abnormalities can manifest as visible chest pulse.</li>
 <li>Thyroid disorders, such as hyperthyroidism, can affect heart function and lead to palpitations.</li>
 <li>Medications that affect heart rate or blood flow may induce visible chest pulse as a side effect.</li>
@@ -211,11 +211,11 @@
 <ul>
 <li>Listening to the heartbeat with a stethoscope to assess rhythm and intensity.</li>
 <li>Checking blood pressure and pulse rate to evaluate cardiovascular health.</li>
-<li>Conducting an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart activity and detect abnormalities.</li>
+<li>Conducting an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart activity and detect abnormalities.</li>
 </ul>
 <p>Advanced diagnostic techniques may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function through ultrasound imaging.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function through ultrasound imaging.</li>
 <li>Holter monitoring to track heart rhythm over 24-48 hours for irregularities.</li>
 <li>Cardiac MRI or CT scans to visualize heart anatomy in detail.</li>
 </ul>
@@ -233,9 +233,9 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is crucial to seek medical attention if you experience persistent or worsening symptoms of visible chest pulse, especially if accompanied by:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</li>
 <li>Fainting or near-fainting episodes.</li>
 <li>Irregular heartbeat or palpitations.</li>
 </ul>

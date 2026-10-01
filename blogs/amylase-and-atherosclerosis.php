@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Amylase Impact on Atherosclerosis Risk&quot;" />
     <meta property="og:description" content="Learn how amylase impacts atherosclerosis risk. Discover more about enzyme activity and vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Amylase And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/amylase-and-atherosclerosis"
         }
     ]
 }
@@ -129,11 +129,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Amylase on Atherosclerosis Risk</h1>
-<p>Are you concerned about the impact of amylase on <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? How does it affect your day-to-day activities and overall health?</p>
+<p>Are you concerned about the impact of amylase on <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? How does it affect your day-to-day activities and overall health?</p>
 <p>Amylase, an enzyme crucial for digesting carbohydrates, plays a significant role in vascular health. Let's explore the intricate relationship between amylase levels and atherosclerosis risk.</p>
 <h2 class="sec-scrl" id="Artery-health">Artery Health</h2>
 <p>The health of your arteries is vital in preventing atherosclerosis. Amylase imbalance can lead to inflammation in the arteries, affecting blood flow and increasing the risk of plaque formation. Maintaining optimal amylase levels through a balanced diet and lifestyle can support artery health.</p>
-<p>Factors like smoking, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, and diabetes can exacerbate the impact of amylase imbalance on artery health. By addressing these risk factors and ensuring appropriate amylase levels, you can promote healthy arteries and reduce the likelihood of atherosclerosis.</p>
+<p>Factors like smoking, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, and diabetes can exacerbate the impact of amylase imbalance on artery health. By addressing these risk factors and ensuring appropriate amylase levels, you can promote healthy arteries and reduce the likelihood of atherosclerosis.</p>
 <h2 class="sec-scrl" id="plaque-formation">Plaque Formation</h2>
 <p>How does amylase influence plaque formation in the arteries? Elevated levels of amylase have been linked to increased plaque buildup, narrowing the arteries and impeding blood flow. This process raises the risk of arterial stiffness and complications such as heart attacks.</p>
 <ul>

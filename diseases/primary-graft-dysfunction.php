@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Primary Graft Dysfunction: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Primary Graft Dysfunction (PGD), a severe complication post-heart transplant. Understand causes, symptoms, treatment options & more.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/primary-graft-dysfunction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/primary-graft-dysfunction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/primary-graft-dysfunction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/primary-graft-dysfunction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Primary Graft Dysfunction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/primary-graft-dysfunction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/primary-graft-dysfunction"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Primary Graft Dysfunction: Symptoms, Causes, and Treatment</h1>
-<p>Primary Graft Dysfunction (PGD) is a serious condition that can occur after a <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a>. It happens when the donor heart doesn't work properly right after the surgery. This can lead to complications and affect the patient's recovery. PGD is a significant concern in heart transplant patients, affecting around 10-25% of cases. It requires close monitoring and prompt treatment to improve outcomes. Understanding PGD and its symptoms is crucial for healthcare providers to intervene early and provide the best care for heart transplant recipients.</p>
+<p>Primary Graft Dysfunction (PGD) is a serious condition that can occur after a <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a>. It happens when the donor heart doesn't work properly right after the surgery. This can lead to complications and affect the patient's recovery. PGD is a significant concern in heart transplant patients, affecting around 10-25% of cases. It requires close monitoring and prompt treatment to improve outcomes. Understanding PGD and its symptoms is crucial for healthcare providers to intervene early and provide the best care for heart transplant recipients.</p>
 <h2 id="causes">Causes of Primary Graft Dysfunction</h2>
 <p>Primary Graft Dysfunction (PGD) can occur after a heart transplant and is influenced by various factors. These include:
 <ul>
@@ -176,11 +176,11 @@
 
 <h3>Symptoms of Primary Graft Dysfunction:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Fluid retention</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
 </ul>
 
 Early recognition of these signs is vital as they indicate potential issues with the transplanted heart. Prompt intervention upon symptom onset can improve patient outcomes and prevent further complications. If you experience these symptoms after a heart transplant, seek immediate medical attention for proper evaluation and management.</p>

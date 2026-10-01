@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Stable Angina vs Unstable Angina: Key Differences Explained">
   <meta property="og:description" content="Learn the key differences between stable angina vs unstable angina in this informative guide. Understand the symptoms, causes, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/stable-vs-unstable-angina-differences-explained">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/stable-vs-unstable-angina-differences-explained">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/stable-vs-unstable-angina-differences-explained" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/stable-vs-unstable-angina-differences-explained" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stable Angina Vs Unstable Angina: Key Differences Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/stable-vs-unstable-angina-differences-explained"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/stable-vs-unstable-angina-differences-explained"  
       }]
     }
   </script>

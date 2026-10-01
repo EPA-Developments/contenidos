@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Valvular Regurgitation: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Valvular Regurgitation causes blood to flow backward in the heart. Know more about its symptoms, causes, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/valvular-regurgitation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/valvular-regurgitation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/valvular-regurgitation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/valvular-regurgitation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Valvular Regurgitation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/valvular-regurgitation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/valvular-regurgitation"
       }]
     }
   </script>
@@ -170,22 +170,22 @@
 <p>This can result in various health complications due to the inefficient circulation of blood throughout the body. Valvular regurgitation is a significant cardiovascular disorder, affecting a considerable portion of the population worldwide.</p>
 <p>The impact of valvular regurgitation on health is profound, as it can lead to symptoms ranging from mild to severe, impacting daily activities and overall quality of life.</p>
 <p>The essential functions of heart valves include ensuring unidirectional blood flow through the heart chambers, maintaining proper circulation, and preventing backflow of blood.</p>
-<p>When valvular regurgitation occurs, these functions are compromised, leading to decreased cardiac output and potential strain on the heart muscle. In the short term, untreated valvular regurgitation can cause symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
+<p>When valvular regurgitation occurs, these functions are compromised, leading to decreased cardiac output and potential strain on the heart muscle. In the short term, untreated valvular regurgitation can cause symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
 <p>In the long term, it can result in serious complications like heart failure, arrhythmias, and even death if left unmanaged.</p>
 <p>One challenging aspect of valvular regurgitation is its asymptomatic nature in the early stages, making it crucial for individuals at risk to undergo regular screenings and early detection to prevent the progression of the disease.</p>
 <p>Therefore, raising awareness about the importance of routine cardiac evaluations and screenings is vital in identifying and managing valvular regurgitation effectively.</p>
 <h2 id="causes">Causes of Valvular Regurgitation</h2>
 <p>Valvular regurgitation can be caused by various factors that affect the structure and function of the heart valves.</p>
 <ul>
-<li>Rheumatic heart disease: <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a> can lead to damage to the heart valves, resulting in regurgitation over time.</li>
+<li>Rheumatic heart disease: <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a> can lead to damage to the heart valves, resulting in regurgitation over time.</li>
 <li>Degenerative valve disease: Age-related changes in the valves can cause them to become thickened or calcified, leading to regurgitation.</li>
-<li>Infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>: Bacterial infection of the heart valves can cause damage and subsequent regurgitation.</li>
+<li>Infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>: Bacterial infection of the heart valves can cause damage and subsequent regurgitation.</li>
 <li>Congenital heart defects: Anomalies present at birth can affect the structure of the heart valves, leading to regurgitation.</li>
 </ul>
-<p>Secondary risk factors or lifestyle contributors to valvular regurgitation may include <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, smoking, obesity, and a sedentary lifestyle, which can exacerbate valve dysfunction and increase the risk of developing the condition.</p>
+<p>Secondary risk factors or lifestyle contributors to valvular regurgitation may include <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, smoking, obesity, and a sedentary lifestyle, which can exacerbate valve dysfunction and increase the risk of developing the condition.</p>
 <h2 id="symptoms">Symptoms of Valvular Regurgitation</h2>
 <p>Early symptoms of valvular regurgitation may include fatigue, palpitations, and shortness of breath, which can impact daily activities and energy levels significantly. These symptoms may be subtle and easily dismissed, leading to delayed diagnosis.</p>
-<p>Advanced symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> can have a more pronounced effect on physical and emotional well-being, indicating progressive valve dysfunction and the need for prompt medical attention.</p>
+<p>Advanced symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> can have a more pronounced effect on physical and emotional well-being, indicating progressive valve dysfunction and the need for prompt medical attention.</p>
 <h2>Diagnosis of Valvular Regurgitation</h2>
 <p>The diagnostic process for valvular regurgitation typically involves a series of tests to evaluate heart function and valve integrity. Tests such as echocardiography, cardiac MRI, and Doppler ultrasound can help visualize and assess the severity of regurgitation, guiding treatment decisions.</p>
 <p>Additionally, stress tests and cardiac catheterization may be utilized to determine the impact of regurgitation on cardiac function and circulation, aiding in accurate diagnosis and timely intervention.</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis and Treatment for Dizziness After Exercise" >
   <meta property="og:description" content="Dizziness after exercise can point to heart conditions. Know more about its causes, diagnosis, and treatment options to stay safe and healthy." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness-after-exercise">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/dizziness-after-exercise">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness-after-exercise" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness-after-exercise" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dizziness After Exercise",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/dizziness-after-exercise"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/dizziness-after-exercise"  
       }]
     }
   </script>
@@ -186,9 +186,9 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Symptoms, Diagnosis and Treatment for Dizziness After Exercise</h1>
-<p>Dizziness after exercise is a common phenomenon that many individuals experience at some point in their lives. It refers to a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, unsteadiness, or vertigo that occurs after physical exertion.</p>
-<p>This sensation can range from mild to severe and may be accompanied by other symptoms such as nausea, sweating, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a>.</p>
-<p>Post-exercise <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> can be temporary and usually resolves on its own as the body recovers from the workout. However, in some cases, it may indicate an underlying health issue that requires medical attention.</p>
+<p>Dizziness after exercise is a common phenomenon that many individuals experience at some point in their lives. It refers to a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, unsteadiness, or vertigo that occurs after physical exertion.</p>
+<p>This sensation can range from mild to severe and may be accompanied by other symptoms such as nausea, sweating, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a>.</p>
+<p>Post-exercise <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> can be temporary and usually resolves on its own as the body recovers from the workout. However, in some cases, it may indicate an underlying health issue that requires medical attention.</p>
 <p>Understanding the symptoms and causes of dizziness after exercise is crucial for proper management and prevention.</p>
 <h2 id="forms">What are the Forms of Dizziness after exercise?</h2>
 <p>- Dizziness following activity: This form of dizziness occurs immediately after completing a workout or physical activity.</p>
@@ -220,7 +220,7 @@
 <li>Cardiac evaluation: Individuals with suspected heart conditions should undergo further evaluation and treatment by a cardiologist.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if dizziness after exercise is persistent, severe, or accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
+<p>It is essential to seek medical attention if dizziness after exercise is persistent, severe, or accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
 <p>Individuals with a history of heart disease, diabetes, or inner ear disorders should consult a healthcare provider for proper evaluation and management.</p>
 <h2>Home Remedies for Dizziness after exercise</h2>
 <p>- Deep breathing: Taking slow, deep breaths can help regulate blood pressure and alleviate dizziness.</p>
@@ -233,7 +233,7 @@
 </ul>
 <p>In conclusion, dizziness after exercise is a common occurrence that can be attributed to various factors like dehydration, overexertion, or underlying health conditions.</p>
 <p>Understanding the symptoms, causes, and treatment options for post-exercise dizziness is crucial for maintaining overall health and well-being.</p>
-<p>If you experience persistent or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness">severe dizziness</a> after exercise, it is essential to consult a healthcare provider for proper evaluation and personalized management.</p>
+<p>If you experience persistent or <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness">severe dizziness</a> after exercise, it is essential to consult a healthcare provider for proper evaluation and personalized management.</p>
 <p>By incorporating preventive measures and home remedies into your fitness routine, you can reduce the risk of experiencing dizziness after physical activity and enjoy a safer and more comfortable workout experience.</p>
 <p>
 

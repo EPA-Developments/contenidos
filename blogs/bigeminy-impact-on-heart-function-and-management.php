@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Bigeminy: Impact on Heart Function and Management">
   <meta property="og:description" content="Discover what Bigeminy means for heart function and effective ways to manage it. Learn more about this heart rhythm disorder and its implications.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bigeminy-impact-on-heart-function-and-management">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bigeminy-impact-on-heart-function-and-management">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bigeminy-impact-on-heart-function-and-management" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bigeminy-impact-on-heart-function-and-management" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bigeminy",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/bigeminy-impact-on-heart-function-and-management"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/bigeminy-impact-on-heart-function-and-management"  
       }]
     }
   </script>

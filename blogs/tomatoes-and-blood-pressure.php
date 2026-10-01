@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tomato's Effect on Blood Pressure: A Scientific Analysis" />
     <meta property="og:description" content="Explore how tomatoes affect blood pressure. Learn about hypertension, tomato consumption, and more. Dive into the science today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tomatoes And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Tomatoes on Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure levels despite making changes to your diet and lifestyle? Have you considered the role that tomatoes could play in helping you achieve better blood pressure control? Many individuals find it challenging to keep their blood pressure within a healthy range, impacting their daily activities and overall well-being. Let's explore the science behind tomatoes and their potential impact on blood pressure regulation.</p>
 <h2 class="sec-scrl" id="Hypertension">Can Tomatoes Help Manage Hypertension?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease and stroke. Consuming a diet rich in tomatoes may offer some benefits for individuals with hypertension. Tomatoes are packed with nutrients that support heart function and help regulate blood pressure levels. Here's how tomato consumption can contribute to better blood pressure control:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, commonly known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease and stroke. Consuming a diet rich in tomatoes may offer some benefits for individuals with hypertension. Tomatoes are packed with nutrients that support heart function and help regulate blood pressure levels. Here's how tomato consumption can contribute to better blood pressure control:</p>
 <ul>
 <li>Tomatoes are an excellent source of potassium, a mineral that plays a key role in lowering blood pressure.</li>
 <li>The antioxidants in tomatoes help reduce inflammation and improve blood vessel health, supporting overall cardiovascular function.</li>

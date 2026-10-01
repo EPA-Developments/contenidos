@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blood Clot in Mouth: Causes and Solutions">
   <meta property="og:description" content="Learn about the causes and solutions for blood clots in the mouth. Find out how to understand and treat a blood clot in mouth effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-mouth-causes-solutions">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-mouth-causes-solutions">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-mouth-causes-solutions" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-mouth-causes-solutions" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blood Clot In Mouth: Causes And Solutions",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-mouth-causes-solutions"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-mouth-causes-solutions"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myocardial Infarction: Symptoms,Causes and Treatment" >
   <meta property="og:description" content="Myocardial Infarction causes heart tissue damage due to blocked blood flow. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myocardial Infarction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction"
       }]
     }
   </script>
@@ -166,28 +166,28 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatments of Myocardial Infarction</h1>
-<p>Myocardial Infarction, commonly known as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, is a serious medical emergency that occurs when the blood flow to a part of the heart is blocked, leading to damage or death of heart muscle tissue.This condition is of paramount significance due to its high mortality rate and its profound impact on an individual's health and quality of life.</p>
+<p>Myocardial Infarction, commonly known as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, is a serious medical emergency that occurs when the blood flow to a part of the heart is blocked, leading to damage or death of heart muscle tissue.This condition is of paramount significance due to its high mortality rate and its profound impact on an individual's health and quality of life.</p>
 <p>In the United States, myocardial infarction is a leading cause of death, causing around 805,000 deaths annually. The heart is a vital organ responsible for pumping oxygen-rich blood throughout the body, and any disruption in its function can have severe consequences.</p>
-<p>Untreated myocardial infarction can lead to short-term risks such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> and heart failure, while long-term risks include recurrent heart attacks, arrhythmias, and even sudden death.</p>
+<p>Untreated myocardial infarction can lead to short-term risks such as <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> and heart failure, while long-term risks include recurrent heart attacks, arrhythmias, and even sudden death.</p>
 <p>It is crucial to note that myocardial infarction can be asymptomatic in its early stages, highlighting the importance of early detection through regular screenings to prevent complications and improve outcomes.</p>
 <h2 id="causes">Causes of Myocardial Infarction</h2>
 <h3>Primary Causes</h3>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>:</b> Atherosclerosis is a major cause of myocardial infarction, characterized by the buildup of plaque in the arteries, leading to reduced blood flow to the heart muscle. Over time, this can result in the formation of a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> that blocks the artery, causing a heart attack.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>:</b> Atherosclerosis is a major cause of myocardial infarction, characterized by the buildup of plaque in the arteries, leading to reduced blood flow to the heart muscle. Over time, this can result in the formation of a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> that blocks the artery, causing a heart attack.</li>
 <li><b>Coronary Artery Disease (CAD): </b>CAD is a condition where the coronary arteries become narrow or blocked, restricting blood flow to the heart. This deprives the heart muscle of oxygen and nutrients, increasing the risk of myocardial infarction.</li>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: </b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> puts extra strain on the heart, making it work harder to pump blood. Chronic hypertension can damage the arteries and increase the risk of heart attack.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: </b><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> puts extra strain on the heart, making it work harder to pump blood. Chronic hypertension can damage the arteries and increase the risk of heart attack.</li>
 <li><b>Smoking: </b>Smoking damages blood vessels, promotes atherosclerosis, and reduces oxygen delivery to the heart. Additionally, the chemicals in tobacco smoke can trigger inflammation and clot formation, contributing to myocardial infarction risk.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
-<li><b>Obesity: </b>Excess body weight can lead to conditions such as diabetes, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, and high blood pressure, all of which are risk factors for myocardial infarction.</li>
+<li><b>Obesity: </b>Excess body weight can lead to conditions such as diabetes, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, and high blood pressure, all of which are risk factors for myocardial infarction.</li>
 <li><b>Sedentary Lifestyle: </b>Lack of physical activity can contribute to obesity, hypertension, and other risk factors for heart disease, increasing the likelihood of experiencing a heart attack.</li>
 <li><b>Unhealthy Diet: </b>Consuming a diet high in saturated fats, cholesterol, and sodium can raise blood pressure, cholesterol levels, and promote atherosclerosis, all of which increase the risk of myocardial infarction.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Myocardial Infarction</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or Discomfort: </b>Chest pain or pressure is a common early symptom of myocardial infarction, often described as tightness, squeezing, or burning sensation.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or Discomfort: </b>Chest pain or pressure is a common early symptom of myocardial infarction, often described as tightness, squeezing, or burning sensation.</li>
 <li><b>Shortness of Breath</b>: Difficulty breathing or feeling breathless, especially with exertion, can indicate a lack of oxygen delivery to the body due to a heart attack.</li>
 </ul>
 <h3>Advanced Symptoms</h3>

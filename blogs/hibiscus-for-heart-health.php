@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus for Heart Health: A Natural Solution&quot;" />
     <meta property="og:description" content="Explore how hibiscus improves heart health naturally. Discover its benefits for hypertension, blood pressure, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-heart-health"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Benefits of Hibiscus for Heart Health</h1>
 <p>Are you looking for a natural way to support your heart health? Have you considered incorporating hibiscus into your daily routine? Many people are unaware of the potential benefits this beautiful flower can offer when it comes to maintaining a healthy heart. From managing blood pressure to providing essential antioxidants, hibiscus may be the answer you've been searching for. Let's explore the heart-healthy benefits of hibiscus and how it can positively impact your daily life.</p>
 <h2 class="sec-scrl" id="hypertension">Can Hibiscus Help Manage Hypertension?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease. Studies have shown that hibiscus may help lower blood pressure levels, thanks to its natural diuretic properties. By promoting the removal of excess fluid from the body, hibiscus can help reduce the pressure on blood vessel walls, ultimately supporting healthy blood pressure levels.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, commonly known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease. Studies have shown that hibiscus may help lower blood pressure levels, thanks to its natural diuretic properties. By promoting the removal of excess fluid from the body, hibiscus can help reduce the pressure on blood vessel walls, ultimately supporting healthy blood pressure levels.</p>
 <p>In addition to its diuretic effects, hibiscus contains flavonoids that have been linked to improved cardiovascular health. These compounds help relax blood vessels, making it easier for blood to flow and reducing strain on the heart. By incorporating hibiscus tea or supplements into your daily routine, you may be able to better manage hypertension and support your heart's well-being.</p>
 <h2 class="sec-scrl" id="blood-pressure">How Does Hibiscus Impact Blood Pressure?</h2>
 <p>One of the key benefits of hibiscus for heart health is its ability to impact blood pressure levels. The antioxidants found in hibiscus help protect blood vessels from damage caused by oxidative stress, which can contribute to high blood pressure. By reducing this damage, hibiscus supports healthy blood pressure and overall cardiovascular function.</p>

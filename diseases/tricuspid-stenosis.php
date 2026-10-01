@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tricuspid Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Tricuspid Stenosis causes narrowing of the heart valve. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Tricuspid Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/tricuspid-stenosis"
       }]
     }
   </script>
@@ -165,8 +165,8 @@
 <h2 id="causes">Causes of Tricuspid Stenosis</h2>
 <p>Tricuspid stenosis, although less common than other valve disorders, can develop due to various factors. Some key contributors to its development include:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
 <li>Carcinoid syndrome</li>
 <li>Previous cardiac surgeries</li>
 <li>Radiation therapy to the chest</li>
@@ -176,7 +176,7 @@
 
 <ul>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
 <li>Swelling in the abdomen or lower extremities</li>
 <li>Enlarged liver</li>
 <li>Fluid retention leading to weight gain</li>
@@ -188,11 +188,11 @@ If you experience any of these symptoms, it is essential to consult a healthcare
 
 <ul>
 <li>Physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the tricuspid valve</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the tricuspid valve</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Chest X-ray to check heart size and fluid buildup</li>
 <li>Cardiac MRI for detailed imaging</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressure changes</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressure changes</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Tricuspid Stenosis</h2>
 <p>Tricuspid stenosis treatment approaches focus on individualized care to address the specific needs of each patient. 
@@ -206,7 +206,7 @@ If you experience any of these symptoms, it is essential to consult a healthcare
 </ul>
 <h3>Valvuloplasty</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/valvuloplasty">valvuloplasty</a> is a minimally invasive procedure to repair the tricuspid valve.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/valvuloplasty">valvuloplasty</a> is a minimally invasive procedure to repair the tricuspid valve.</li>
 <li>It is done to improve valve function and blood flow through the heart.</li>
 <li>The primary objective is to restore proper valve opening and closing.</li>
 <li>The procedure involves inserting a balloon catheter to widen the valve opening.</li>

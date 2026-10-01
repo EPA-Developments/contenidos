@@ -10,12 +10,12 @@
     <meta property="og:title" content="Latest Research on Congenital Heart Defects" />
     <meta property="og:description" content="Explore the latest breakthroughs in congenital heart defect research for improved treatments." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-defects" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-defects" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-defects" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-defects" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Congenital Heart Defects",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-defects"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-defects"
         }
     ]
 }
@@ -171,10 +171,10 @@
               <h1>Latest Studies on Congenital Heart Defects</h1>
 <p>Are you or a loved one struggling with the challenges of living with congenital heart defects? The daily uncertainties and limitations can take a toll on both physical and emotional well-being. Simple tasks like climbing stairs or playing with friends may become daunting. The constant worry about heart health can be overwhelming. How can you navigate these difficulties and lead a fulfilling life despite these obstacles?</p>
 <h2 class="sec-scrl" id="congenital-heart-disease">What is Congenital Heart Disease?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-disease">congenital heart disease</a> refers to a variety of heart abnormalities present at birth. These defects can affect the heart's walls, valves, or blood vessels, disrupting normal blood flow. While some defects are minor and may not require treatment, others can be life-threatening and demand immediate medical intervention.</p>
-<p>Common types of congenital heart disease include atrial septal defect, ventricular septal defect, <a href="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot">tetralogy of fallot</a>, and transposition of the great arteries.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-disease">congenital heart disease</a> refers to a variety of heart abnormalities present at birth. These defects can affect the heart's walls, valves, or blood vessels, disrupting normal blood flow. While some defects are minor and may not require treatment, others can be life-threatening and demand immediate medical intervention.</p>
+<p>Common types of congenital heart disease include atrial septal defect, ventricular septal defect, <a href="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot">tetralogy of fallot</a>, and transposition of the great arteries.</p>
 <h2 class="sec-scrl" id="heart-defect-symptoms">Identifying Heart Defect Symptoms</h2>
-<p>Recognizing the symptoms of a heart defect is crucial for early diagnosis and intervention. Symptoms may vary based on the type and severity of the defect but can include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color), poor feeding, and failure to thrive in infants. Older children may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>.</p>
+<p>Recognizing the symptoms of a heart defect is crucial for early diagnosis and intervention. Symptoms may vary based on the type and severity of the defect but can include <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color), poor feeding, and failure to thrive in infants. Older children may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>.</p>
 <p>If you notice any concerning symptoms, especially in combination, it is essential to consult a healthcare provider promptly for further evaluation.</p>
 <h2 class="sec-scrl" id="childhood-heart-defects">Managing Childhood Heart Defects</h2>
 <p>Children with congenital heart defects require specialized care throughout their lives. Treatment options may include medications, catheter procedures, or surgery, depending on the specific defect and its severity. Regular follow-up appointments with pediatric cardiologists are essential to monitor the heart's function and overall health.</p>

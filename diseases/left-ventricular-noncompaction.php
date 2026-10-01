@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Ventricular Noncompaction: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Left Ventricular Noncompaction affects the heart's structure and function. Know more about its causes, symptoms, and how it can be treated." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-noncompaction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-noncompaction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-noncompaction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-noncompaction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Ventricular Noncompaction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-noncompaction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-noncompaction"
       }]
     }
   </script>
@@ -170,14 +170,14 @@
 <li>Abnormalities in the heart's muscle structure</li>
 <li>Impaired blood flow during heart development</li>
 <li>Problems with the heart's electrical system</li>
-<li>Underlying heart conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li>Underlying heart conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Left Ventricular Noncompaction</h2>
 <p>Recognizing the symptoms of Left Ventricular Noncompaction (LVNC) is crucial for early detection and better outcomes. Symptoms may vary among individuals, but being aware of common signs can prompt timely medical intervention. Early detection allows for appropriate management strategies to be initiated promptly, potentially improving prognosis and quality of life.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li fatigue<="" li="">
 <li heart="" li="" palpitations<="">
 <li dizziness="" li="" lightheadedness<="" or="">
@@ -188,10 +188,10 @@
 <p>Left Ventricular Noncompaction (LVNC) requires accurate diagnosis to guide appropriate treatment. The diagnostic process typically involves a combination of imaging tests and clinical evaluation. Accurate diagnosis is crucial because it helps differentiate LVNC from other cardiomyopathies and ensures the right management approach. Diagnostic methods for LVNC may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the noncompacted myocardium</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the noncompacted myocardium</li>
 <li>Cardiac MRI for detailed assessment of ventricular structure</li>
 <li>Genetic testing to identify underlying genetic mutations</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Left Ventricular Noncompaction</h2>
 <p>Left Ventricular Noncompaction (LVNC) requires individualized care due to its varying presentations and severity. 
@@ -212,7 +212,7 @@
 </ul>
 <h3>Heart Transplant</h3>
 <ul>
-<li>A <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> involves replacing a failing heart with a healthy donor heart.</li>
+<li>A <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> involves replacing a failing heart with a healthy donor heart.</li>
 <li>Rationale: It is considered for severe cases where other treatments have not been effective.</li>
 <li>Objective: To provide a new, healthy heart to improve overall heart function.</li>
 <li>Steps: Evaluation for transplant candidacy, waiting for a suitable donor, transplant surgery, post-transplant care.</li>

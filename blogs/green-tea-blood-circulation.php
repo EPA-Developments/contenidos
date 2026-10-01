@@ -10,12 +10,12 @@
     <meta property="og:title" content="Green Tea Benefits for Circulation" />
     <meta property="og:description" content="Discover how green tea boosts blood circulation naturally for better heart health and vitality." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/green-tea-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/green-tea-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Green Tea Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/green-tea-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/green-tea-blood-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Green Tea for Circulation Health</h1>
-<p>Are you looking for a natural way to improve your blood circulation and overall cardiovascular health? Do you often feel fatigued or experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet due to poor blood flow? Green tea might be the solution you've been searching for. Let's explore how incorporating green tea into your daily routine can benefit your circulatory system and enhance your quality of life.</p>
+<p>Are you looking for a natural way to improve your blood circulation and overall cardiovascular health? Do you often feel fatigued or experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet due to poor blood flow? Green tea might be the solution you've been searching for. Let's explore how incorporating green tea into your daily routine can benefit your circulatory system and enhance your quality of life.</p>
 <h2 class="sec-scrl" id="benefits">The Benefits of Green Tea for Blood Circulation</h2>
 <p>Green tea is packed with antioxidants and nutrients that have a positive impact on your cardiovascular health. Here's how green tea can support healthy blood circulation:</p>
 <ul>

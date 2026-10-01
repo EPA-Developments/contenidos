@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Tofu: A Key Player in Lowering Cholesterol&quot;" />
     <meta property="og:description" content="Discover how tofu can help lower cholesterol levels naturally with this informative blog post. Learn about the benefits of plant-based protein for your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tofu And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tofu-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Tofu on Cholesterol Levels</h1>
-<p>Are you looking for a natural way to improve your cholesterol levels? Have you considered incorporating tofu into your diet? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily life, making simple activities feel daunting. Understanding how tofu can help lower cholesterol levels might be the key to maintaining a healthy lifestyle without compromising on taste or satisfaction.</p>
+<p>Are you looking for a natural way to improve your cholesterol levels? Have you considered incorporating tofu into your diet? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can impact your daily life, making simple activities feel daunting. Understanding how tofu can help lower cholesterol levels might be the key to maintaining a healthy lifestyle without compromising on taste or satisfaction.</p>
 <h2 class="sec-scrl" id="cholesterol-management">Cholesterol Management</h2>
 <p>Cholesterol management is crucial for overall health and well-being. Tofu, a versatile plant-based protein, can play a significant role in helping you maintain healthy cholesterol levels. Here's how:</p>
 <ul>

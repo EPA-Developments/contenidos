@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onion Impact on Blood Circulation & Heart Health&quot;" />
     <meta property="og:description" content="Discover the impact of onions on blood circulation and heart health. Boost your circulatory system naturally with this powerful vegetable." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-and-blood-circulation"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <ul>
 <li>The quercetin in onions acts as a powerful antioxidant that helps protect blood vessels from damage and inflammation.</li>
 <li>Onions may help lower cholesterol levels, reducing the risk of plaque buildup in arteries and supporting heart health.</li>
-<li>Regular consumption of onions can contribute to a reduced risk of developing conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
+<li>Regular consumption of onions can contribute to a reduced risk of developing conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-vessel-support">Supporting Blood Vessels with Onions</h2>
 <p>The compounds found in onions have been shown to have a positive impact on blood vessel health. By strengthening and protecting blood vessels, onions play a crucial role in ensuring optimal blood flow and circulation throughout the body.</p>

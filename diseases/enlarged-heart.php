@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Enlarged Heart: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Enlarged Heart may cause breathing issues and fatigue. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/enlarged-heart">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/enlarged-heart">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/enlarged-heart" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/enlarged-heart" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Enlarged Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/enlarged-heart"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/enlarged-heart"
       }]
     }
   </script>
@@ -170,13 +170,13 @@
 <p>The significance of an enlarged heart lies in its implications for heart function and overall well-being. It can affect the heart's ability to pump blood efficiently, leading to various health risks.</p>
 <p>The prevalence of enlarged heart is relatively high, especially among individuals with underlying heart conditions or risk factors. The impact of an enlarged heart on health is multifaceted.</p>
 <p>The heart performs essential functions such as pumping blood, delivering oxygen and nutrients to the body's tissues, and removing waste products. When the heart is enlarged, these functions can be compromised.</p>
-<p>In the short term, an enlarged heart can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Long-term risks of untreated enlarged heart include heart failure, arrhythmias, blood clots, and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>In the short term, an enlarged heart can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Long-term risks of untreated enlarged heart include heart failure, arrhythmias, blood clots, and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>It is crucial to note that enlarged heart can be asymptomatic in its early stages, underscoring the importance of early detection through regular screenings.</p>
 <h2 id="causes">Causes of Enlarged Heart</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can cause the heart to work harder to pump blood, leading to muscle thickening and enlargement over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>: This condition weakens the heart muscle, causing it to enlarge as it tries to compensate for decreased function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can cause the heart to work harder to pump blood, leading to muscle thickening and enlargement over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>: This condition weakens the heart muscle, causing it to enlarge as it tries to compensate for decreased function.</li>
 <li>Valvular heart disease: Malfunctioning heart valves can disrupt blood flow, forcing the heart to enlarge to maintain adequate circulation.</li>
 <li>Coronary artery disease: Reduced blood flow to the heart muscle can trigger compensatory enlargement to meet the body's demands.</li>
 </ul>
@@ -195,7 +195,7 @@
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Swelling: Enlarged heart can lead to fluid retention in the body, causing swelling in the legs, ankles, or abdomen.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: As the heart enlarges, it may disrupt its electrical system, causing arrhythmias and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: As the heart enlarges, it may disrupt its electrical system, causing arrhythmias and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</li>
 </ul>
 <h2>Diagnosis of Enlarged Heart</h2>
 <p>The diagnostic process for enlarged heart involves several tests to accurately assess heart size and function:</p>

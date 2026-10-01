@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Danon Disease: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Danon Disease affects heart and muscles due to genetic mutations. Know more about its symptoms, causes, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/danon-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/danon-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/danon-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/danon-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Danon Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/danon-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/danon-disease"
       }]
     }
   </script>
@@ -169,8 +169,8 @@
 <h2 id="causes">Overview of Danon Disease</h2>
 <p>Danon Disease is a rare genetic disorder that primarily affects the heart, muscles, and eyes. It is caused by mutations in the LAMP2 gene, leading to the accumulation of cellular waste products in various tissues.</p>
 <p>This condition predominantly impacts males and typically presents in childhood or adolescence. The prevalence of Danon Disease is estimated to be around 1 in 1 million individuals. However, due to its underdiagnosis, the true prevalence may be higher.</p>
-<p>The essential functions affected by Danon Disease include cardiac function, muscle strength, and visual acuity. The disease can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, skeletal myopathy, and retinal degeneration. In the heart, Danon Disease can cause hypertrophic cardiomyopathy, arrhythmias, and heart failure.</p>
-<p>Skeletal muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> and eye abnormalities are also common manifestations of the disease.</p>
+<p>The essential functions affected by Danon Disease include cardiac function, muscle strength, and visual acuity. The disease can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, skeletal myopathy, and retinal degeneration. In the heart, Danon Disease can cause hypertrophic cardiomyopathy, arrhythmias, and heart failure.</p>
+<p>Skeletal muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> and eye abnormalities are also common manifestations of the disease.</p>
 <p>If left untreated, Danon Disease can result in severe complications such as heart failure, sudden cardiac death, and progressive muscle weakness. Early detection is crucial as the disease may initially be asymptomatic or present with mild symptoms.</p>
 <p>Regular screenings, especially in individuals with a family history of the condition, can aid in timely diagnosis and intervention to prevent long-term health risks.</p>
 <h2 id="symptoms">Causes of Danon Disease</h2>
@@ -196,7 +196,7 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Cardiac Symptoms: Advanced stages of Danon Disease may present with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, indicating progressive heart involvement.</li>
+<li>Cardiac Symptoms: Advanced stages of Danon Disease may present with <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, indicating progressive heart involvement.</li>
 <li>Vision Changes: Retinal abnormalities can cause vision disturbances, including blurred vision, night blindness, and peripheral vision loss, affecting daily activities and independence.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Danon Disease</h2>
@@ -205,8 +205,8 @@
 <li>Genetic Testing: Genetic testing is crucial to identify mutations in the LAMP2 gene, confirming the diagnosis of Danon Disease.</li>
 </ul>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): ECG can detect abnormal heart rhythms and structural changes indicative of cardiomyopathy in individuals with Danon Disease.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging test helps visualize the structure and function of the heart, identifying features of hypertrophic cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): ECG can detect abnormal heart rhythms and structural changes indicative of cardiomyopathy in individuals with Danon Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging test helps visualize the structure and function of the heart, identifying features of hypertrophic cardiomyopathy.</li>
 <li>Muscle Biopsy: A muscle biopsy may reveal characteristic abnormalities in muscle tissue, supporting the diagnosis of Danon Disease.</li>
 </ul>
 <h2>Treatment Options for Danon Disease</h2>

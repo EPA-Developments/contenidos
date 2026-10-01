@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Is Heart Surgery the Right Option for You? Key Considerations">
   <meta property="og:description" content="Considering heart surgery? Learn what factors to consider before making a decision. Find out if heart surgery is the right option for you.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/is-heart-surgery-the-right-option-for-you">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/is-heart-surgery-the-right-option-for-you">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/is-heart-surgery-the-right-option-for-you" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/is-heart-surgery-the-right-option-for-you" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Is Heart Surgery The Right Option For You? Key Considerations",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/is-heart-surgery-the-right-option-for-you"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/is-heart-surgery-the-right-option-for-you"  
       }]
     }
   </script>

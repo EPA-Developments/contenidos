@@ -10,12 +10,12 @@
     <meta property="og:title" content="Carrots for Improved Blood Flow" />
     <meta property="og:description" content="Discover the role of carrots in promoting healthy blood flow and heart function. Uncover the benefits of incorporating carrots into your diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-blood-flow" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-blood-flow" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-blood-flow" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-blood-flow" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots For Blood Flow",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-blood-flow"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-for-blood-flow"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <p>One of the key benefits of carrots is their ability to promote blood vessel dilation, which is essential for healthy blood flow. By including carrots in your diet, you can support the relaxation of blood vessels and improve nutrient and oxygen delivery to tissues.</p>
 <ul>
 <li>The antioxidants in carrots reduce inflammation in blood vessels, allowing them to dilate and contract efficiently as needed.</li>
-<li>Regular consumption of carrots can help prevent the stiffening of blood vessels, which is often associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Regular consumption of carrots can help prevent the stiffening of blood vessels, which is often associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-function">Supporting Heart Function with Carrots</h2>
 <p>Heart function is closely linked to blood flow, and carrots can be a valuable addition to a heart-healthy diet. The nutrients in carrots work in various ways to support the cardiovascular system and ensure that the heart receives an adequate blood supply.</p>

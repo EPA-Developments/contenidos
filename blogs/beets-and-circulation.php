@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beets: Boosting Circulation Naturally&quot;" />
     <meta property="og:description" content="Discover how beets improve circulation naturally for better vascular health and blood flow. Learn more about the benefits of beets in boosting nitric oxide production." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beets-and-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beets-and-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beets-and-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beets-and-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beets And Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beets-and-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beets-and-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Benefits of Beets for Circulation</h1>
-<p>Do you struggle with poor blood circulation, feeling sluggish, or experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet? The answer to your woes may lie in a humble vegetable – beets. How can beets improve your circulation and enhance your overall well-being? Let's explore the fascinating connection between beets and circulation.</p>
+<p>Do you struggle with poor blood circulation, feeling sluggish, or experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet? The answer to your woes may lie in a humble vegetable – beets. How can beets improve your circulation and enhance your overall well-being? Let's explore the fascinating connection between beets and circulation.</p>
 <h2 class="sec-scrl" id="blood-flow-improvement">How Do Beets Enhance Blood Flow Improvement?</h2>
 <p>Beets are packed with nitrates, compounds that help dilate blood vessels, allowing for smoother blood flow throughout your circulatory system. This dilation promotes better oxygen delivery to all parts of your body, enhancing overall vascular health. Additionally, the nitric oxide boost from beets helps relax and widen blood vessels, reducing strain on the heart and improving blood circulation.</p>
 <ul>

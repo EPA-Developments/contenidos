@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Milk's Heart Health Benefits'" />
     <meta property="og:description" content="Explore how milk can help reduce heart disease risk factors. Discover the benefits of dairy for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-disease-risk-factors" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-disease-risk-factors" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-disease-risk-factors" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-disease-risk-factors" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Milk And Heart Disease Risk Factors",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/milk-and-heart-disease-risk-factors"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/milk-and-heart-disease-risk-factors"
         }
     ]
 }
@@ -131,10 +131,10 @@
               <h1>The Role of Milk in Heart Health</h1>
 <p>Are you concerned about your heart health? Do you wonder how your daily choices impact your risk of developing heart disease? Let's explore the connection between milk consumption and reducing risk factors for heart disease.</p>
 <h2 class="sec-scrl" id="risk-factors">The Impact of Risk Factors on Heart Health</h2>
-<p>Heart disease is a leading cause of death worldwide, with risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, obesity, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> playing significant roles in its development. These risk factors can affect your daily life by limiting your physical activities and increasing the likelihood of heart-related complications.</p>
+<p>Heart disease is a leading cause of death worldwide, with risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, obesity, and <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> playing significant roles in its development. These risk factors can affect your daily life by limiting your physical activities and increasing the likelihood of heart-related complications.</p>
 <p>When it comes to reducing the risk of heart disease, incorporating heart-healthy habits into your lifestyle is crucial. One such habit is consuming dairy products like milk, which have been associated with cardiovascular protection.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">How Does Milk Contribute to Cardiovascular Protection?</h2>
-<p>Milk is a rich source of essential nutrients, including calcium, potassium, and vitamin D, which are known to support heart health. Calcium, in particular, plays a vital role in maintaining healthy blood pressure levels and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease.</p>
+<p>Milk is a rich source of essential nutrients, including calcium, potassium, and vitamin D, which are known to support heart health. Calcium, in particular, plays a vital role in maintaining healthy blood pressure levels and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a significant risk factor for heart disease.</p>
 <p>Furthermore, studies have shown that individuals who consume dairy products regularly are less likely to develop obesity, a condition closely linked to an increased risk of heart disease. The unique combination of nutrients found in milk can help regulate metabolism and promote a healthy weight, thereby lowering the risk of cardiovascular issues.</p>
 <ul>
 <li>Calcium in milk supports healthy blood pressure levels.</li>

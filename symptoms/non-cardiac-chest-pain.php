@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Non-Cardiac Chest Pain: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Non-cardiac chest pain can still indicate health risks. Know about its causes, symptoms, diagnosis, and treatment for better heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/non-cardiac-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/non-cardiac-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/non-cardiac-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/non-cardiac-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Non-Cardiac Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/non-cardiac-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/non-cardiac-chest-pain"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Non-Cardiac Chest Pain: Symptoms, Causes, and Diagnosis</h1>
-<p>Non-cardiac <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> refers to discomfort or pain in the chest that is not related to the heart.</p>
-<p>It can be a concerning symptom because it can mimic heart-related chest pain, leading individuals to fear they are having a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. However, non-cardiac chest pain is usually not life-threatening and can have various causes.</p>
+<p>Non-cardiac <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> refers to discomfort or pain in the chest that is not related to the heart.</p>
+<p>It can be a concerning symptom because it can mimic heart-related chest pain, leading individuals to fear they are having a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. However, non-cardiac chest pain is usually not life-threatening and can have various causes.</p>
 <p>It is essential to differentiate between non-cardiac chest pain and heart-related chest pain to receive appropriate treatment.</p>
 <p>Symptoms of non-cardiac chest pain can vary but often include a sharp or stabbing pain, burning sensation, or pressure in the chest. Some individuals may also experience pain that worsens with deep breathing, coughing, or certain movements.</p>
 <p>It is crucial to note that non-cardiac chest pain can be triggered by factors unrelated to the heart, such as stress, muscle strain, or digestive issues.</p>
@@ -197,7 +197,7 @@
 <ul>
 <li>Muscular chest pain: Caused by muscle strain or inflammation in the chest wall muscles, leading to discomfort or pain.</li>
 <li>Gastroesophageal chest pain: Arising from acid reflux or gastroesophageal reflux disease (GERD), resulting in a burning sensation in the chest.</li>
-<li>Stress-related chest discomfort: Triggered by anxiety, stress, or panic attacks, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> or pressure.</li>
+<li>Stress-related chest discomfort: Triggered by anxiety, stress, or panic attacks, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> or pressure.</li>
 <li>Pain not related to the heart: Occurring due to non-cardiac causes such as inflammation of the rib joints or nerve irritation.</li>
 </ul>
 <p>Recognizing the specific form of non-cardiac chest pain can help individuals and healthcare providers determine the underlying cause and appropriate treatment plan. Each form may require different management strategies to alleviate symptoms effectively.</p>
@@ -206,7 +206,7 @@
 <ul>
 <li>Musculoskeletal problems: Such as muscle strain, costochondritis (inflammation of the cartilage connecting the ribs to the breastbone), or rib fractures.</li>
 <li>Gastrointestinal issues: Including acid reflux, esophageal spasm, or peptic ulcers.</li>
-<li>Anxiety and stress: Leading to chest tightness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, or panic attacks.</li>
+<li>Anxiety and stress: Leading to chest tightness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, or panic attacks.</li>
 <li>Respiratory conditions: Like asthma, pneumonia, or pleurisy (inflammation of the lining around the lungs).</li>
 <li>Other causes: Such as gallbladder disease, shingles, or nerve compression.</li>
 </ul>
@@ -236,7 +236,7 @@
 <p>While non-cardiac chest pain is often benign, there are certain symptoms or stages when seeking medical attention is crucial.</p>
 <ul>
 <li>Severe chest pain that does not improve with rest or over-the-counter medications.</li>
-<li>Chest pain accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, sweating, or nausea.</li>
+<li>Chest pain accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, sweating, or nausea.</li>
 <li>Chest discomfort lasting more than a few minutes or recurring frequently.</li>
 <li>Chest pain related to physical exertion or emotional stress.</li>
 <li>Chest pain in individuals with a history of heart disease, diabetes, or other risk factors.</li>

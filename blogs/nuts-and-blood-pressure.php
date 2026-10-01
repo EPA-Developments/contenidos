@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Nuts and Blood Pressure: A Heart-Healthy Connection&quot;" />
     <meta property="og:description" content="Explore how nuts can help regulate blood pressure naturally and support heart health. Learn about the benefits of incorporating nuts into your diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nuts And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nuts-and-blood-pressure"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="nutritional-benefits">Nutritional Benefits of Nuts for Blood Pressure</h2>
 <p>Nuts are not only a delicious snack but also a powerhouse of nutrients that can positively impact your blood pressure levels. Here's how:</p>
 <ul>
-<li>Nuts are rich in potassium, a mineral known for its role in <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> management. Potassium helps your body regulate blood pressure and counteracts the effects of sodium, promoting healthy blood pressure levels.</li>
+<li>Nuts are rich in potassium, a mineral known for its role in <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> management. Potassium helps your body regulate blood pressure and counteracts the effects of sodium, promoting healthy blood pressure levels.</li>
 <li>These crunchy snacks are also packed with heart-healthy unsaturated fats, which can support heart health and reduce the risk of cardiovascular diseases.</li>
 <li>Nuts contain fiber, antioxidants, and plant sterols, all of which contribute to lowering cholesterol levels and improving overall heart health.</li>
 </ul>

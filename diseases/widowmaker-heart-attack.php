@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Widowmaker Heart Attack: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Widowmaker Heart Attack is a severe blockage in a key artery. Know more about its causes, symptoms, and treatment for heart protection." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/widowmaker-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/widowmaker-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/widowmaker-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/widowmaker-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Widowmaker Heart Attack",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/widowmaker-heart-attack"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/widowmaker-heart-attack"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Widowmaker Heart Attack</h1>
-<p>A Widowmaker heart attack, also known as a left main coronary artery occlusion, is a severe type of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> that occurs when the left main artery, a major blood vessel supplying the heart, is blocked. This type of heart attack is critical and can be life-threatening if not treated promptly. Widowmaker heart attacks are rare but extremely dangerous due to their location and the potential for significant damage to the heart muscle. Immediate medical attention is crucial to prevent serious complications or even death.</p>
+<p>A Widowmaker heart attack, also known as a left main coronary artery occlusion, is a severe type of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> that occurs when the left main artery, a major blood vessel supplying the heart, is blocked. This type of heart attack is critical and can be life-threatening if not treated promptly. Widowmaker heart attacks are rare but extremely dangerous due to their location and the potential for significant damage to the heart muscle. Immediate medical attention is crucial to prevent serious complications or even death.</p>
 <h2 id="causes">Causes of Widowmaker Heart Attack</h2>
 <p><h3>Main Factors Contributing to Widowmaker Heart Attack:</h3>
 <ul>
 <li>Smoking: Increases the risk of plaque buildup in the arteries.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Leads to the accumulation of plaque in the arteries.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Puts strain on the heart and arteries.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Leads to the accumulation of plaque in the arteries.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Puts strain on the heart and arteries.</li>
 <li>Obesity: Increases the likelihood of heart disease.</li>
 <li>Family History: Genetic predisposition can play a role.</li>
 </ul></p>
@@ -176,11 +176,11 @@
 
 <h3>Common symptoms of a Widowmaker Heart Attack include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort that may radiate to the arm, back, neck, or jaw</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort that may radiate to the arm, back, neck, or jaw</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Nausea or vomiting</li>
 <li>Cold sweats</li>
-<li>Light-headedness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li>Light-headedness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Unexplained fatigue</li>
 </ul>
 
@@ -190,9 +190,9 @@ If you or someone you know experiences these symptoms, it's essential to seek em
 
 <ul>
 <li>Chest X-ray to check for abnormalities in the heart and lungs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG/EKG) to evaluate the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG/EKG) to evaluate the heart's electrical activity.</li>
 <li>Blood tests to measure cardiac enzyme levels indicating heart muscle damage.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess the heart's structure and function using sound waves.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess the heart's structure and function using sound waves.</li>
 <li>Coronary angiography to visualize blockages in the heart's blood vessels.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Widowmaker Heart Attack</h2>

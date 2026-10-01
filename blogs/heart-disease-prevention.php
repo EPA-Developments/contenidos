@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sleep and Heart Health: Vital Connection" />
     <meta property="og:description" content="Discover how sleep influences heart disease prevention. Learn about the crucial connection between sleep quality and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-disease-prevention"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="cardiovascular-risks">Cardiovascular Risks of Poor Sleep</h2>
 <p>Did you know that inadequate sleep can elevate your risk of developing heart disease? Sleep plays a crucial role in regulating processes that affect your heart's health. When you consistently miss out on quality sleep, you may be unknowingly putting your heart at risk.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Lack of sleep can lead to increased blood pressure, a significant risk factor for heart disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Lack of sleep can lead to increased blood pressure, a significant risk factor for heart disease.</li>
 <li>Increased inflammation: Poor sleep is linked to higher levels of inflammation in the body, which can harm blood vessels and lead to heart problems.</li>
 <li>Disrupted metabolism: Sleep deprivation can disrupt the body's ability to regulate glucose metabolism, potentially increasing the risk of diabetes, a condition closely associated with heart disease.</li>
 </ul>

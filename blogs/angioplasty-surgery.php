@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Angioplasty Surgery: Before, During, and After - All You Need to Know">
   <meta property="og:description" content="Learn all about angioplasty surgery, including what to expect before, during, and after the procedure. Find out everything you need to know here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/angioplasty-surgery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/angioplasty-surgery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/angioplasty-surgery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/angioplasty-surgery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Angioplasty Surgery: Before, During, And After - All You Need To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/angioplasty-surgery"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/angioplasty-surgery"  
       }]
     }
   </script>

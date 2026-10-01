@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Arterial Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Pulmonary Arterial Hypertension (PAH), a serious condition affecting the heart and lungs. Discover symptoms, causes, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-arterial-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-arterial-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-arterial-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-arterial-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulmonary Arterial Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-arterial-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-arterial-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Pulmonary Arterial Hypertension: Symptoms, Causes, and Treatment</h1>
-<p>Pulmonary Arterial Hypertension (PAH) is a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> that affects the arteries in your lungs and the right side of your heart. It can make it difficult for your heart to pump blood through your lungs, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. PAH is a rare but serious condition that can worsen over time if not treated promptly. While it's not very common, affecting about 15-50 people per million, early diagnosis and proper management are crucial for improving quality of life and preventing complications.</p>
+<p>Pulmonary Arterial Hypertension (PAH) is a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> that affects the arteries in your lungs and the right side of your heart. It can make it difficult for your heart to pump blood through your lungs, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. PAH is a rare but serious condition that can worsen over time if not treated promptly. While it's not very common, affecting about 15-50 people per million, early diagnosis and proper management are crucial for improving quality of life and preventing complications.</p>
 <h2 id="causes">Causes of Pulmonary Arterial Hypertension</h2>
 <p>Certainly! Here are the main factors contributing to the development of Pulmonary Arterial Hypertension:
 
@@ -177,18 +177,18 @@
 
 <ul>
 <li>Shortness of breath, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Chest pain or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 <li>Swelling in the ankles, legs, or abdomen</li>
-<li>Bluish lips or skin (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>)</li>
+<li>Bluish lips or skin (<a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>)</li>
 </ul></p>
 <h2>Diagnosis of Pulmonary Arterial Hypertension</h2>
 <p>Accurate diagnosis of Pulmonary Arterial Hypertension (PAH) is crucial for timely intervention and improved outcomes. The diagnostic process typically involves a combination of medical history review, physical examination, and various tests to confirm the condition. Diagnostic methods for PAH include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
 <li>Right heart catheterization to measure pulmonary artery pressure</li>
 <li>Blood tests to check for biomarkers associated with PAH</li>
 <li>Chest X-ray or CT scan to evaluate lung and heart abnormalities</li>

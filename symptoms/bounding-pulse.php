@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bounding Pulse: Symptoms, Causes and Treatment" >
   <meta property="og:description" content="Bounding pulse may be linked to heart or circulation issues. Know more about the symptoms, causes, diagnosis and treatments" >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/bounding-pulse">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/bounding-pulse">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/bounding-pulse" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/bounding-pulse" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bounding Pulse",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/bounding-pulse"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/bounding-pulse"  
       }]
     }
   </script>
@@ -202,7 +202,7 @@
 <h2 id="causes">What are the Causes of Bounding pulse?</h2>
 <p>Bounding pulse can be caused by various factors, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure can lead to a forceful pulse.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure can lead to a forceful pulse.</li>
 <li>Anxiety or stress: Psychological factors can trigger a strong pulse response.</li>
 <li>Dehydration: Inadequate fluid intake can result in a bounding pulse.</li>
 <li>Hyperthyroidism: Overactive thyroid gland can accelerate heart rate.</li>
@@ -216,8 +216,8 @@
 <li>Physical examination: Healthcare provider will assess pulse strength, heart rate, and other vital signs.</li>
 <li>Medical history: Discussion of symptoms, risk factors, and previous health issues.</li>
 <li>Blood tests: Checking for underlying conditions like anemia or thyroid disorders.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Ultrasound imaging to evaluate heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Ultrasound imaging to evaluate heart structure and function.</li>
 <li>Holter monitor: Continuous ECG recording over 24-48 hours to assess heart rhythm.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Bounding pulse?</h2>
@@ -227,15 +227,15 @@
 <li>Lifestyle changes: Healthy diet, regular exercise, stress management, and adequate hydration.</li>
 <li>Avoiding triggers: Limiting caffeine, alcohol, and tobacco consumption.</li>
 <li>Managing underlying conditions: Treating high blood pressure, thyroid disorders, or anemia.</li>
-<li>Surgical intervention: In severe cases, procedures like valve repair or <a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a> may be necessary.</li>
+<li>Surgical intervention: In severe cases, procedures like valve repair or <a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a> may be necessary.</li>
 <li>Cardiac rehabilitation: Structured exercise program and education for heart health.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience the following symptoms related to bounding pulse:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or lightheadedness.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or lightheadedness.</li>
 <li>Fainting spells or near-fainting episodes.</li>
 <li>Irregular heartbeat or palpitations.</li>
 <li>Sudden onset of bounding pulse without an obvious cause.</li>

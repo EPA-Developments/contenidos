@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Tilt Table Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Tilt table test diagnoses fainting causes by monitoring blood pressure changes. Read more about its purpose, cost, and normal Range for better heart care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-table-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-table-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-table-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-table-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tilt Table Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/tilt-table-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/tilt-table-test"  
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of Tilt Table Test</h1>
-<p>The Tilt Table Test is a diagnostic procedure used to evaluate the causes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, or fainting, and assess the body's response to changes in posture.</p>
+<p>The Tilt Table Test is a diagnostic procedure used to evaluate the causes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, or fainting, and assess the body's response to changes in posture.</p>
 <p>During the test, the patient lies flat on a table that can be tilted to different angles, simulating standing up.</p>
-<p>The test monitors changes in heart rate, blood pressure, and symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> as the table is tilted.</p>
+<p>The test monitors changes in heart rate, blood pressure, and symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> as the table is tilted.</p>
 <p>By observing how the body reacts to these changes, healthcare providers can identify abnormalities in the autonomic nervous system that may be causing syncope.</p>
-<p>Syncope can be caused by various factors, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, vasovagal syncope, or autonomic dysfunction. The Tilt Table Test helps differentiate between these conditions and guide appropriate treatment strategies.</p>
+<p>Syncope can be caused by various factors, including <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, vasovagal syncope, or autonomic dysfunction. The Tilt Table Test helps differentiate between these conditions and guide appropriate treatment strategies.</p>
 <h2 id="purpose">What is the Purpose of Performing a Tilt Table Test Test?</h2>
 <p>The primary purpose of the Tilt Table Test is to diagnose the underlying causes of syncope, especially when the exact reason for fainting episodes is unclear.</p>
 <p>By reproducing symptoms in a controlled environment, healthcare providers can make an accurate diagnosis and tailor treatment plans accordingly.</p>

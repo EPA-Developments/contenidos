@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding How Pulmonary and Aortic Valves Work in the Heart">
   <meta property="og:description" content="Learn how pulmonary and aortic valves work together in your heart to facilitate blood flow and maintain cardiovascular health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-pulmonary-aortic-valves-work-in-heart">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-pulmonary-aortic-valves-work-in-heart">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-pulmonary-aortic-valves-work-in-heart" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-pulmonary-aortic-valves-work-in-heart" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding How Pulmonary And Aortic Valves Work In The Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-pulmonary-aortic-valves-work-in-heart"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-pulmonary-aortic-valves-work-in-heart"  
       }]
     }
   </script>

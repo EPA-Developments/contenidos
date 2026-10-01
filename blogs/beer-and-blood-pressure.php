@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beer's Influence on Blood Pressure & Heart Health&quot;" />
     <meta property="og:description" content="Discover how beer affects blood pressure and heart health. Learn about the impact of alcohol on cardiovascular risk and prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beer-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beer-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beer And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beer-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beer-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Beer on Blood Pressure: A Comprehensive Guide</h1>
 <p>Are you wondering how that cold beer you enjoy after a long day might be impacting your blood pressure? Does the thought of potential heart disease prevention cross your mind when you reach for a drink? Understanding the relationship between beer and blood pressure is crucial for maintaining your health and well-being.</p>
 <h2 class="sec-scrl" id="alcoholandbloodpressure">Alcohol and Blood Pressure</h2>
-<p>Alcohol, including beer, can have both positive and negative effects on blood pressure. Consuming alcohol in moderation may lead to a slight decrease in blood pressure, but excessive drinking can result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Alcohol, including beer, can have both positive and negative effects on blood pressure. Consuming alcohol in moderation may lead to a slight decrease in blood pressure, but excessive drinking can result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <ul>
 <li>Regular, heavy drinking can elevate blood pressure levels, increasing the risk of cardiovascular diseases.</li>
 <li>Moderation is key when it comes to alcohol consumption and maintaining healthy blood pressure levels.</li>

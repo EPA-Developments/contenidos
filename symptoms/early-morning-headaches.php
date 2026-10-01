@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Early Morning Headaches: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Early morning headaches might indicate heart problems. Read more to learn about the causes, symptoms, diagnosis, and treatment of this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/early-morning-headaches">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/early-morning-headaches">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/early-morning-headaches" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/early-morning-headaches" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Early Morning Headaches",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/early-morning-headaches"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/early-morning-headaches"  
       }]
     }
   </script>
@@ -214,7 +214,7 @@
 <li>Advanced approaches like biofeedback, cognitive-behavioral therapy, or nerve stimulation may be recommended for chronic or severe cases.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if your early morning headaches are severe, frequent, or accompanied by other concerning symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, confusion, or vision changes.</p>
+<p>It is essential to seek medical attention if your early morning headaches are severe, frequent, or accompanied by other concerning symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, confusion, or vision changes.</p>
 <p>Additionally, if over-the-counter medications do not provide relief or if headaches interfere with your daily life, it is advisable to consult a healthcare provider.</p>
 <h2>Home Remedies for Early morning headaches</h2>
 <p>In addition to medical treatments, there are several home remedies that may help alleviate early morning headaches:</p>

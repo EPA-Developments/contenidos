@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tangier Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Tangier disease is a rare genetic disorder that causes a buildup of cholesterol in the body's tissues. Know more about the symptoms and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/tangier-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/tangier-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/tangier-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/tangier-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Tangier Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/tangier-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/tangier-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms,Causes and Treatment of Tangier Disease</h1>
-<p>Tangier Disease is a rare genetic disorder that affects how the body handles cholesterol. It leads to extremely low levels of high-density lipoprotein (HDL) cholesterol, also known as the "good" cholesterol. This condition increases the risk of heart disease and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Tangier Disease is very uncommon, with only a few hundred cases reported worldwide. Understanding this condition's significance is crucial for early diagnosis and appropriate management to prevent complications related to cholesterol metabolism. If you suspect you or a loved one may have Tangier Disease, consult a healthcare professional for proper evaluation and guidance.</p>
+<p>Tangier Disease is a rare genetic disorder that affects how the body handles cholesterol. It leads to extremely low levels of high-density lipoprotein (HDL) cholesterol, also known as the "good" cholesterol. This condition increases the risk of heart disease and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Tangier Disease is very uncommon, with only a few hundred cases reported worldwide. Understanding this condition's significance is crucial for early diagnosis and appropriate management to prevent complications related to cholesterol metabolism. If you suspect you or a loved one may have Tangier Disease, consult a healthcare professional for proper evaluation and guidance.</p>
 <h2 id="causes">Causes of Tangier Disease</h2>
 <p><h3>Main Factors Contributing to the Development of Tangier Disease:</h3>
 <ul>
@@ -211,7 +211,7 @@ Early detection through these diagnostic processes can help initiate appropriate
 </ul>
 <h3>3. Surgical Interventions</h3>
 <ul>
-<li>In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> may be necessary.</li>
+<li>In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> may be necessary.</li>
 <li>These interventions address complications like coronary artery disease.</li>
 <li>The main aim is to restore blood flow to the heart and improve heart function.</li>
 <li>Post-surgery care and cardiac rehabilitation are essential for recovery.</li>

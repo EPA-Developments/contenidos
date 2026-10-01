@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transthyretin Amyloid Cardiomyopathy: Symptoms & Treatment">
   <meta property="og:description" content="Transthyretin Amyloid Cardiomyopathy affects heart function. Know more about its causes, symptoms, and treatments for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloid-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloid-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloid-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloid-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Transthyretin Amyloid Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloid-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloid-cardiomyopathy"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>This condition significantly impacts the health of individuals, affecting both the quality of life and life expectancy.</p>
 <p>While the prevalence of Transthyretin Amyloid Cardiomyopathy is relatively low compared to other heart conditions, its impact on health can be severe if left untreated.</p>
 <p>The essential functions affected by this condition include proper heart muscle contraction, regulation of blood flow, and maintenance of overall cardiovascular health.</p>
-<p>In the short term, untreated Transthyretin Amyloid Cardiomyopathy can lead to symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fluid retention. In the long term, it can result in heart failure, arrhythmias, and even premature death.</p>
+<p>In the short term, untreated Transthyretin Amyloid Cardiomyopathy can lead to symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fluid retention. In the long term, it can result in heart failure, arrhythmias, and even premature death.</p>
 <p>Notably, the early stages of Transthyretin Amyloid Cardiomyopathy are often asymptomatic, underscoring the importance of early detection through regular screenings to initiate timely interventions and improve outcomes.</p>
 <h2 id="causes">Causes of Transthyretin Amyloid Cardiomyopathy</h2>
 <p>Transthyretin Amyloid Cardiomyopathy can stem from various factors, both genetic and acquired. Understanding the primary causes is crucial in managing and treating this condition effectively.</p>
@@ -183,7 +183,7 @@
 </ul>
 <h3>Secondary Risk Factors:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart muscle, potentially exacerbating the effects of Transthyretin Amyloid Cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart muscle, potentially exacerbating the effects of Transthyretin Amyloid Cardiomyopathy.</li>
 <li>Obesity: Excess body weight can increase the workload on the heart, worsening the symptoms of this condition.</li>
 <li>Smoking: Tobacco use can contribute to cardiovascular damage, further complicating the progression of Transthyretin Amyloid Cardiomyopathy.</li>
 </ul>
@@ -191,20 +191,20 @@
 <p>Recognizing the symptoms associated with Transthyretin Amyloid Cardiomyopathy is crucial for early intervention and management of the condition.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>Fatigue: Individuals may experience persistent fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, impacting their daily activities and energy levels.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, especially during exertion, can be a common early symptom that might be mistaken for other respiratory issues.</li>
+<li>Fatigue: Individuals may experience persistent fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, impacting their daily activities and energy levels.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, especially during exertion, can be a common early symptom that might be mistaken for other respiratory issues.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
 <li>Edema: Swelling in the legs or abdomen can indicate advanced stages of Transthyretin Amyloid Cardiomyopathy, affecting both physical comfort and emotional well-being.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: Arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> may develop in advanced cases, potentially posing serious health risks and implications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: Arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> may develop in advanced cases, potentially posing serious health risks and implications.</li>
 </ul>
 <h2>Diagnosis of Transthyretin Amyloid Cardiomyopathy</h2>
 <p>Diagnosing Transthyretin Amyloid Cardiomyopathy involves a series of tests to confirm the presence of the condition and determine its severity.</p>
 <h3>Diagnostic Tests:</h3>
 <ul>
 <li>Blood Tests: Blood tests can detect abnormal protein levels associated with Transthyretin Amyloid Cardiomyopathy, aiding in the initial screening process.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can reveal abnormal heart rhythms or conduction issues, providing valuable insights into the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can reveal abnormal heart rhythms or conduction issues, providing valuable insights into the heart's electrical activity.</li>
 <li>Echocardiography: This imaging test allows for a detailed assessment of the heart's structure and function, helping to identify any signs of Transthyretin Amyloid Cardiomyopathy.</li>
 <li>Cardiac MRI: A cardiac MRI provides detailed images of the heart, assisting in the diagnosis and monitoring of Transthyretin Amyloid Cardiomyopathy progression.</li>
 </ul>

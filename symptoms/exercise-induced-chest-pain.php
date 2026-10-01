@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Exercise-Induced Chest Pain: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Exercise-induced chest pain can signal heart problems. Know more about its causes, symptoms, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Exercise-Induced Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/exercise-induced-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/exercise-induced-chest-pain"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Exercise-Induced Chest Pain: Symptoms, Causes, and Diagnosis</h1>
-<p>Exercise-induced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, is discomfort or pain in the chest that occurs during physical activity or exercise. It is a common symptom that can be a sign of various underlying conditions, including heart disease.</p>
+<p>Exercise-induced <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, is discomfort or pain in the chest that occurs during physical activity or exercise. It is a common symptom that can be a sign of various underlying conditions, including heart disease.</p>
 <p>The pain typically occurs when the heart muscle does not receive enough oxygen-rich blood to meet its demands during increased physical exertion. This lack of blood flow can lead to chest pain, tightness, pressure, or a squeezing sensation.</p>
 <p>Symptoms of exercise-induced chest pain can vary from person to person but may include:</p>
 <ul>
@@ -194,14 +194,14 @@
 <li>Exercise-related chest discomfort</li>
 <li>Exercise-triggered chest pain</li>
 <li>Physical activity chest pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> after exercise</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> after exercise</li>
 <li>Pain with exertion</li>
-<li>Exertion <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a></li>
+<li>Exertion <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a></li>
 </ul>
 <h2 id="forms">What are the Forms of Exercise-induced chest pain?</h2>
 <p>There are different forms of exercise-induced chest pain that individuals may experience. These forms can indicate different underlying causes and severity of the condition.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/stable-angina">stable angina</a>: Chest pain or discomfort that occurs with predictable patterns of physical activity and usually resolves with rest.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/stable-angina">stable angina</a>: Chest pain or discomfort that occurs with predictable patterns of physical activity and usually resolves with rest.</li>
 <li>Unstable angina: Chest pain that occurs suddenly and unpredictably, often at rest or with minimal exertion, and may signal a more serious heart condition.</li>
 <li>Prinzmetal's angina: Chest pain caused by a spasm in the coronary arteries, often occurring at rest and not necessarily related to physical activity.</li>
 </ul>
@@ -209,9 +209,9 @@
 <p>Exercise-induced chest pain can be caused by various factors, including:</p>
 <ul>
 <li>Coronary artery disease: Narrowing or blockages in the coronary arteries that reduce blood flow to the heart muscle.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Build-up of plaque in the arteries that can restrict blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm">coronary artery spasm</a>: Sudden constriction of the coronary arteries that reduces blood flow to the heart.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a>: Malfunctioning heart valves that can affect blood flow and oxygen delivery to the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Build-up of plaque in the arteries that can restrict blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm">coronary artery spasm</a>: Sudden constriction of the coronary arteries that reduces blood flow to the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a>: Malfunctioning heart valves that can affect blood flow and oxygen delivery to the heart muscle.</li>
 <li>Myocarditis: Inflammation of the heart muscle that can lead to chest pain during exercise.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Exercise-induced chest pain?</h2>

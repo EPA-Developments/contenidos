@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vodka Impact on Heart and Mind" />
     <meta property="og:description" content="Explore the impact of vodka on heart health and mental well-being. Understand the connection between vodka consumption and conditions like anxiety, depression, and alcohol abuse." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-mental-health-effects" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-mental-health-effects" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-mental-health-effects" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-mental-health-effects" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vodka And Mental Health Effects",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-mental-health-effects"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vodka-and-mental-health-effects"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <li>Seeking support and professional help is essential for individuals struggling with alcohol abuse.</li>
 </ul>
 <h2 class="sec-scrl" id="stress-on-heart">The Impact of Vodka on Heart Health</h2>
-<p>Excessive vodka consumption can also have direct implications for heart health, affecting the cardiovascular system in various ways. Chronic alcohol intake, including vodka, can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, irregular heartbeats, and an increased risk of developing heart diseases. Understanding the stress that vodka places on the heart is crucial for maintaining a healthy lifestyle.</p>
+<p>Excessive vodka consumption can also have direct implications for heart health, affecting the cardiovascular system in various ways. Chronic alcohol intake, including vodka, can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, irregular heartbeats, and an increased risk of developing heart diseases. Understanding the stress that vodka places on the heart is crucial for maintaining a healthy lifestyle.</p>
 <ul>
 <li>Heavy drinking, including vodka, can contribute to the development of cardiovascular issues.</li>
 <li>Prolonged alcohol consumption may weaken the heart muscle and impair its ability to function properly.</li>

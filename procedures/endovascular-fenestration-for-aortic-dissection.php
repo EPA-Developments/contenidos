@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endovascular Fenestration for Aortic Dissection: Procedure & Benefits">
   <meta property="og:description" content="Learn about the benefits and process of Endovascular Fenestration for Aortic Dissection, a minimally invasive treatment for aortic dissection repair.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/endovascular-fenestration-for-aortic-dissection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/endovascular-fenestration-for-aortic-dissection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/endovascular-fenestration-for-aortic-dissection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/endovascular-fenestration-for-aortic-dissection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endovascular fenestration for aortic dissection",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/endovascular-fenestration-for-aortic-dissection"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/endovascular-fenestration-for-aortic-dissection"  
       }]
     }
   </script>

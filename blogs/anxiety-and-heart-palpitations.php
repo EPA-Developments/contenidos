@@ -10,12 +10,12 @@
     <meta property="og:title" content="Effective Heart Palpitations Anxiety Relief" />
     <meta property="og:description" content="Learn effective anxiety management techniques for heart palpitations to improve your heart health and well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anxiety-and-heart-palpitations" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anxiety-and-heart-palpitations" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anxiety-and-heart-palpitations" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anxiety-and-heart-palpitations" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anxiety And Heart Palpitations",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anxiety-and-heart-palpitations"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anxiety-and-heart-palpitations"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Effective Heart Palpitations Anxiety Management</h1>
-<p>Do you often feel your heart racing out of the blue, making you anxious and worried? Are anxiety-induced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> disrupting your daily activities and causing stress? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> can be frightening, especially when they strike unexpectedly and are accompanied by feelings of anxiety. Understanding how anxiety and heart palpitations are connected can help you manage these symptoms effectively and improve your overall well-being.</p>
+<p>Do you often feel your heart racing out of the blue, making you anxious and worried? Are anxiety-induced <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> disrupting your daily activities and causing stress? <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> can be frightening, especially when they strike unexpectedly and are accompanied by feelings of anxiety. Understanding how anxiety and heart palpitations are connected can help you manage these symptoms effectively and improve your overall well-being.</p>
 <h2 class="sec-scrl" id="heart-anxiety">Heart Palpitations Causes</h2>
 <p>Heart palpitations can be caused by various factors, including:</p>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potatoes: Heart Health Ally" />
     <meta property="og:description" content="Learn how potatoes can help prevent heart disease. Discover the nutritional benefits of this antioxidant-rich, low-fat food." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-potatoes" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-potatoes" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-potatoes" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-potatoes" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Preventing Heart Disease With Potatoes",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/preventing-heart-disease-with-potatoes"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/preventing-heart-disease-with-potatoes"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <p>Antioxidants play a crucial role in protecting your heart from oxidative stress and inflammation. Potatoes, especially when consumed with the skin on, are packed with antioxidants like vitamin C and flavonoids that can help maintain arterial health and improve blood circulation.</p>
 <ul>
 <li>Vitamin C: Potatoes contain vitamin C, an antioxidant that can help reduce inflammation and protect the heart from damage.</li>
-<li>Flavonoids: The skin of potatoes is rich in flavonoids, which have been linked to improved heart health and reduced <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk.</li>
+<li>Flavonoids: The skin of potatoes is rich in flavonoids, which have been linked to improved heart health and reduced <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk.</li>
 </ul>
 <h2 class="sec-scrl" id="low-fat-potatoes">The Benefits of Low-Fat Potatoes</h2>
 <p>When prepared in a healthy manner, potatoes can be a low-fat addition to your diet. Opt for baking, boiling, or roasting potatoes instead of frying to minimize added fats and calories. By choosing low-fat cooking methods, you can enjoy the nutritional benefits of potatoes without compromising your heart health.</p>

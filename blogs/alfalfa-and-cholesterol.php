@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alfalfa Supplements for Heart Health & Cholesterol" />
     <meta property="og:description" content="Discover how alfalfa supplements can naturally lower cholesterol levels and promote heart health effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alfalfa And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alfalfa-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Alfalfa Supplements for Heart Health &amp; Cholesterol</h1>
-<p>Are you looking for a natural way to support your heart health and lower your cholesterol levels? The connection between Alfalfa and Cholesterol may hold the key to improving your overall well-being. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a common concern that affects many individuals, impacting daily activities and increasing the risk of cardiovascular diseases. Can Alfalfa supplements be the solution you've been searching for?</p>
+<p>Are you looking for a natural way to support your heart health and lower your cholesterol levels? The connection between Alfalfa and Cholesterol may hold the key to improving your overall well-being. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a common concern that affects many individuals, impacting daily activities and increasing the risk of cardiovascular diseases. Can Alfalfa supplements be the solution you've been searching for?</p>
 <h2 class="sec-scrl" id="Alfalfa for LDL Reduction">Alfalfa for LDL Reduction</h2>
 <p>Low-density lipoprotein (LDL) cholesterol, often referred to as "bad" cholesterol, can contribute to plaque buildup in the arteries, leading to heart disease. Studies have shown that Alfalfa supplements may help reduce LDL cholesterol levels in the body. The plant-based compounds in Alfalfa, such as saponins and fiber, work together to promote the excretion of cholesterol and inhibit its absorption in the gut.</p>
 <p>By incorporating Alfalfa into your daily routine, you may experience a decrease in LDL cholesterol, which can ultimately lower your risk of developing heart-related conditions.</p>

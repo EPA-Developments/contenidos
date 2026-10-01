@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Mushrooms for Blood Pressure: Natural Support&quot;" />
     <meta property="og:description" content="Discover how mushrooms can naturally lower blood pressure and improve heart health. Learn more about the benefits of mushrooms for hypertension." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mushrooms For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Mushrooms for Blood Pressure Management</h1>
-<p>Are you struggling to manage your blood pressure levels effectively? Do you find it challenging to incorporate healthy foods into your daily diet that can help lower your blood pressure naturally? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall well-being. Finding simple yet effective ways to regulate your blood pressure is crucial for maintaining good health. One surprisingly powerful ally in this battle against hypertension is mushrooms. Let's explore how mushrooms can play a role in managing your blood pressure and promoting better circulatory health.</p>
+<p>Are you struggling to manage your blood pressure levels effectively? Do you find it challenging to incorporate healthy foods into your daily diet that can help lower your blood pressure naturally? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall well-being. Finding simple yet effective ways to regulate your blood pressure is crucial for maintaining good health. One surprisingly powerful ally in this battle against hypertension is mushrooms. Let's explore how mushrooms can play a role in managing your blood pressure and promoting better circulatory health.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How do Mushrooms Help Regulate Blood Pressure?</h2>
 <p>Mushrooms are a nutrient-dense food that offers a wide range of health benefits, including their ability to help regulate blood pressure. Several key factors contribute to how mushrooms can positively impact blood pressure levels:</p>
 <ul>

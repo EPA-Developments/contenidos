@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coffee and Heart Health: What You Need to Know" />
     <meta property="og:description" content="Uncover the truth about coffee's impact on heart health. Pros, cons, and guidelines discussed." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-debate" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-debate" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-debate" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-debate" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coffee And Heart Debate",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-heart-debate"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coffee-and-heart-debate"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h3>Cons of Coffee:</h3>
 <ul>
 <li>Excessive caffeine intake can lead to increased heart rate and blood pressure, especially in sensitive individuals.</li>
-<li>Some people may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or irregular heartbeats after consuming coffee.</li>
+<li>Some people may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or irregular heartbeats after consuming coffee.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-research">Cardiovascular Research</h2>
 <p>What do the latest health studies reveal about the impact of coffee on cardiovascular health? Understanding the findings can help you make informed decisions about your coffee consumption habits and their effects on your heart.</p>

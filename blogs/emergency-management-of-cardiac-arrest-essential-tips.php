@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Emergency Management of Cardiac Arrest: Essential Tips">
   <meta property="og:description" content="Learn life-saving tips for emergency management of cardiac arrest. Discover essential skills to respond swiftly in critical situations.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/emergency-management-of-cardiac-arrest-essential-tips">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/emergency-management-of-cardiac-arrest-essential-tips">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/emergency-management-of-cardiac-arrest-essential-tips" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/emergency-management-of-cardiac-arrest-essential-tips" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Emergency Management Of Cardiac Arrest: Essential Tips",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/emergency-management-of-cardiac-arrest-essential-tips"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/emergency-management-of-cardiac-arrest-essential-tips"  
       }]
     }
   </script>
