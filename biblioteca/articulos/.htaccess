@@ -1,8 +1,9 @@
-# Datos de los artículos: se leen desde PHP, no se sirven.
-<IfModule mod_authz_core.c>
-    Require all denied
+# Datos de los artículos: se leen desde PHP, no se sirven (403).
+# Con mod_rewrite alcanza AllowOverride FileInfo; si no está, Require (AuthConfig).
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^ - [F]
 </IfModule>
-<IfModule !mod_authz_core.c>
-    Order allow,deny
-    Deny from all
+<IfModule !mod_rewrite.c>
+    Require all denied
 </IfModule>
