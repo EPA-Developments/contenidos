@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is acute congestive heart failure (ACHF)?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "ACHF is a sudden worsening of heart function, leading to fluid buildup in the lungs and body. This can cause shortness of breath, fatigue, and swelling.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does acute congestive heart failure affect overall health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute congestive heart failure can lead to fluid buildup, shortness of breath, fatigue, and reduced ability to perform everyday activities, impacting overall health significantly.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the primary symptoms of acute congestive heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Primary symptoms of acute congestive heart failure include shortness of breath, fatigue, swollen legs/ankles, rapid heartbeat, and coughing/wheezing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is acute congestive heart failure diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute congestive heart failure is diagnosed through physical exams, imaging tests (such as echocardiograms), blood tests, and monitoring symptoms like shortness of breath and swelling.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main causes of acute congestive heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main causes of acute congestive heart failure include heart attacks, high blood pressure, infections, and heart valve disease. This condition can severely impact your heart's ability to pump blood effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is acute congestive heart failure (ACHF)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ACHF is a sudden worsening of heart function, leading to fluid buildup in the lungs and body. This can cause shortness of breath, fatigue, and swelling.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does acute congestive heart failure impact other organs in the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute congestive heart failure can impact other organs by causing fluid buildup in the lungs, liver, and kidneys, leading to symptoms like shortness of breath, fatigue, and swelling.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does acute congestive heart failure affect overall health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute congestive heart failure can lead to fluid buildup, shortness of breath, fatigue, and reduced ability to perform everyday activities, impacting overall health significantly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for acute congestive heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for acute congestive heart failure include diuretics, ACE inhibitors, beta-blockers, and in severe cases, hospitalization for IV medications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary symptoms of acute congestive heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Primary symptoms of acute congestive heart failure include shortness of breath, fatigue, swollen legs/ankles, rapid heartbeat, and coughing/wheezing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does lifestyle modification help manage acute congestive heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modification helps manage acute congestive heart failure by reducing stress on the heart through healthy habits like diet, exercise, and stress management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acute congestive heart failure diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute congestive heart failure is diagnosed through physical exams, imaging tests (such as echocardiograms), blood tests, and monitoring symptoms like shortness of breath and swelling.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in the treatment of acute congestive heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in the treatment of acute congestive heart failure by providing expert medical care, monitoring, and personalized treatment plans to improve heart function and manage symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of acute congestive heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main causes of acute congestive heart failure include heart attacks, high blood pressure, infections, and heart valve disease. This condition can severely impact your heart's ability to pump blood effectively.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm effects of acute congestive heart failure on health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term effects of acute congestive heart failure include weakened heart muscle, increased risk of future heart failure episodes, and reduced overall quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does acute congestive heart failure impact other organs in the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute congestive heart failure can impact other organs by causing fluid buildup in the lungs, liver, and kidneys, leading to symptoms like shortness of breath, fatigue, and swelling.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatment options are available for acute congestive heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for acute congestive heart failure include diuretics, ACE inhibitors, beta-blockers, and in severe cases, hospitalization for IV medications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lifestyle modification help manage acute congestive heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modification helps manage acute congestive heart failure by reducing stress on the heart through healthy habits like diet, exercise, and stress management.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm effects of acute congestive heart failure on health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term effects of acute congestive heart failure include weakened heart muscle, increased risk of future heart failure episodes, and reduced overall quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -451,8 +423,6 @@
 
 
 
-        <h3>What role does Medicover play in the treatment of acute congestive heart failure?</h3>
-        <p>Medicover plays a crucial role in the treatment of acute congestive heart failure by providing expert medical care, monitoring, and personalized treatment plans to improve heart function and manage symptoms.</p>
 
 
 

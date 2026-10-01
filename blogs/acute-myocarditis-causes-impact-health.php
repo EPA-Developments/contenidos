@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute myocarditis is inflammation of the heart muscle that can cause chest pain, fatigue, and shortness of breath. It can be serious and requires medical attention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does acute myocarditis affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute myocarditis causes inflammation in the heart muscle, leading to symptoms like chest pain, fatigue, and shortness of breath. It can affect heart function and may require medical treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the primary causes of acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The primary causes of acute myocarditis include viral infections, bacterial infections, autoimmune diseases, and certain medications or toxins.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms should one watch for if acute myocarditis is suspected?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Watch for symptoms like chest pain, shortness of breath, fatigue, rapid or irregular heartbeat, swollen legs, and fainting if acute myocarditis is suspected.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is acute myocarditis diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute myocarditis is diagnosed through a combination of medical history, physical exam, blood tests, imaging tests like MRI or CT scans, and potentially a heart biopsy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute myocarditis is inflammation of the heart muscle that can cause chest pain, fatigue, and shortness of breath. It can be serious and requires medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available for acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatments for acute myocarditis include rest, medications like anti-inflammatory drugs, diuretics, and heart failure medications, and in severe cases, a heart transplant.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does acute myocarditis affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute myocarditis causes inflammation in the heart muscle, leading to symptoms like chest pain, fatigue, and shortness of breath. It can affect heart function and may require medical treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the severity of acute myocarditis impact treatment options?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The severity of acute myocarditis can impact treatment options, with more severe cases potentially requiring hospitalization, medications, or even advanced interventions like a heart transplant.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary causes of acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary causes of acute myocarditis include viral infections, bacterial infections, autoimmune diseases, and certain medications or toxins.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in diagnosing and treating acute myocarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in diagnosing and treating acute myocarditis by offering advanced diagnostic tests and providing specialized care tailored to each patient's needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms should one watch for if acute myocarditis is suspected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Watch for symptoms like chest pain, shortness of breath, fatigue, rapid or irregular heartbeat, swollen legs, and fainting if acute myocarditis is suspected.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can acute myocarditis cause longterm heart damage?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, acute myocarditis can potentially cause long-term heart damage if left untreated. It is important to seek medical attention promptly for proper management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acute myocarditis diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute myocarditis is diagnosed through a combination of medical history, physical exam, blood tests, imaging tests like MRI or CT scans, and potentially a heart biopsy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can acute myocarditis be prevented or managed in highrisk individuals?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Prevent acute myocarditis in high-risk individuals by avoiding viral infections, managing underlying conditions, and seeking prompt medical care for symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatments are available for acute myocarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatments for acute myocarditis include rest, medications like anti-inflammatory drugs, diuretics, and heart failure medications, and in severe cases, a heart transplant.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the severity of acute myocarditis impact treatment options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The severity of acute myocarditis can impact treatment options, with more severe cases potentially requiring hospitalization, medications, or even advanced interventions like a heart transplant.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can acute myocarditis cause longterm heart damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acute myocarditis can potentially cause long-term heart damage if left untreated. It is important to seek medical attention promptly for proper management.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can acute myocarditis be prevented or managed in highrisk individuals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prevent acute myocarditis in high-risk individuals by avoiding viral infections, managing underlying conditions, and seeking prompt medical care for symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -446,8 +418,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in diagnosing and treating acute myocarditis?</p>
 
 
 

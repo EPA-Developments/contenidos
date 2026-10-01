@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the warning signs of a blood clot in the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Warning signs of a blood clot in the heart include chest pain, shortness of breath, fatigue, dizziness, and irregular heartbeat. It's important to seek medical attention if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can a blood clot in the heart affect overall health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A blood clot in the heart can lead to serious complications like heart attack or stroke, impacting overall health and potentially being life-threatening.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Who is at higher risk for developing heart blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with a history of heart disease, high blood pressure, obesity, smoking, or a sedentary lifestyle are at higher risk for developing heart blood clots.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What diagnostic tests are used to detect blood clots in the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diagnostic tests for detecting blood clots in the heart include echocardiograms, CT scans, MRI scans, and blood tests like D-dimer.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can blood clots in the heart cause a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the heart can lead to a heart attack by blocking blood flow to the heart muscle. Recognizing symptoms early is crucial for prompt treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the warning signs of a blood clot in the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warning signs of a blood clot in the heart include chest pain, shortness of breath, fatigue, dizziness, and irregular heartbeat. It's important to seek medical attention if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How are blood clots in the heart treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the heart are treated with medications like blood thinners or clot-busting drugs. In severe cases, surgery may be needed to remove the clot.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can a blood clot in the heart affect overall health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A blood clot in the heart can lead to serious complications like heart attack or stroke, impacting overall health and potentially being life-threatening.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there medications specifically for dissolving heart blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there are medications such as thrombolytics that can help dissolve blood clots in the heart. It's important to seek medical attention promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Who is at higher risk for developing heart blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with a history of heart disease, high blood pressure, obesity, smoking, or a sedentary lifestyle are at higher risk for developing heart blood clots.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help prevent blood clots in the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as regular exercise, maintaining a healthy diet, and avoiding smoking can help prevent blood clots in the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What diagnostic tests are used to detect blood clots in the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diagnostic tests for detecting blood clots in the heart include echocardiograms, CT scans, MRI scans, and blood tests like D-dimer.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in managing blood clots in the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help manage blood clots in the heart through specialized treatments, medications, and monitoring to ensure optimal heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots in the heart cause a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the heart can lead to a heart attack by blocking blood flow to the heart muscle. Recognizing symptoms early is crucial for prompt treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What longterm complications can result from untreated blood clots in the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated blood clots in the heart can lead to serious complications like heart attack, stroke, or pulmonary embolism, which may be life-threatening.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How are blood clots in the heart treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the heart are treated with medications like blood thinners or clot-busting drugs. In severe cases, surgery may be needed to remove the clot.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there medications specifically for dissolving heart blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are medications such as thrombolytics that can help dissolve blood clots in the heart. It's important to seek medical attention promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help prevent blood clots in the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as regular exercise, maintaining a healthy diet, and avoiding smoking can help prevent blood clots in the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What longterm complications can result from untreated blood clots in the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated blood clots in the heart can lead to serious complications like heart attack, stroke, or pulmonary embolism, which may be life-threatening.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -457,8 +429,6 @@
 
 
 
-        <h3>How can Medicover assist in managing blood clots in the heart?</h3>
-        <p>Medicover can help manage blood clots in the heart through specialized treatments, medications, and monitoring to ensure optimal heart health.</p>
 
 
 

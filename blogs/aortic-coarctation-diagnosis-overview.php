@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation is a narrowing of the aorta that restricts blood flow to the lower part of the body. It is diagnosed through imaging tests and physical exams.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic coarctation affect blood flow?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation narrows the aorta, causing increased pressure before the narrowing and decreased pressure after. This affects blood flow to the body.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of aortic coarctation may include high blood pressure, headaches, chest pain, cold feet, and weak or absent pulses in the legs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic coarctation diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation is diagnosed through physical exams, imaging tests (like echocardiograms or MRIs), and blood pressure measurements in the arms and legs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What tests are used to diagnose aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests used to diagnose aortic coarctation include echocardiogram, MRI, CT scan, and angiography. These help identify the location and severity of the narrowing in the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation is a narrowing of the aorta that restricts blood flow to the lower part of the body. It is diagnosed through imaging tests and physical exams.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic coarctation be detected early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic coarctation can be detected early through newborn screening, physical exams, and imaging tests like echocardiograms or MRIs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic coarctation affect blood flow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation narrows the aorta, causing increased pressure before the narrowing and decreased pressure after. This affects blood flow to the body.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aortic coarctation impact heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic coarctation restricts blood flow from the heart to the body, leading to increased workload on the heart and potential complications like high blood pressure and heart failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of aortic coarctation may include high blood pressure, headaches, chest pain, cold feet, and weak or absent pulses in the legs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic coarctation include surgery to repair the narrowed area, balloon angioplasty, or stent placement to improve blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic coarctation diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation is diagnosed through physical exams, imaging tests (like echocardiograms or MRIs), and blood pressure measurements in the arms and legs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat patients with aortic coarctation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats aortic coarctation through a combination of medication, minimally invasive procedures, and surgery to repair the narrowed section of the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What tests are used to diagnose aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests used to diagnose aortic coarctation include echocardiogram, MRI, CT scan, and angiography. These help identify the location and severity of the narrowing in the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does untreated aortic coarctation affect longterm health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, and even aneurysm. Early diagnosis and treatment are crucial for long-term health.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can aortic coarctation be detected early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic coarctation can be detected early through newborn screening, physical exams, and imaging tests like echocardiograms or MRIs.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does aortic coarctation impact heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic coarctation restricts blood flow from the heart to the body, leading to increased workload on the heart and potential complications like high blood pressure and heart failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for aortic coarctation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic coarctation include surgery to repair the narrowed area, balloon angioplasty, or stent placement to improve blood flow.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does untreated aortic coarctation affect longterm health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic coarctation can lead to high blood pressure, heart failure, and even aneurysm. Early diagnosis and treatment are crucial for long-term health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -459,8 +431,6 @@
 
 
 
-        <h3>How does Medicover treat patients with aortic coarctation?</h3>
-        <p>Medicover treats aortic coarctation through a combination of medication, minimally invasive procedures, and surgery to repair the narrowed section of the aorta.</p>
 
 
 

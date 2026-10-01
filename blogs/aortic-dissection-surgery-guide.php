@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the procedure for aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The procedure for aortic dissection surgery typically involves replacing the damaged portion of the aorta with a synthetic graft to restore normal blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the different surgical options for treating aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options for aortic dissection include open-heart surgery, endovascular repair, and hybrid procedures combining both approaches to repair the damaged artery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does aortic dissection surgery typically take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection surgery typically takes about 4 to 6 hours, but can vary depending on the complexity of the case.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risks of aortic dissection surgery include bleeding, infection, stroke, organ damage, and even death. Your healthcare team will closely monitor you for any complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is the recovery process after aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery after aortic dissection surgery involves hospital stay, pain management, monitoring, rehabilitation, and follow-up care for a full recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the procedure for aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The procedure for aortic dissection surgery typically involves replacing the damaged portion of the aorta with a synthetic graft to restore normal blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential complications of aortic dissection surgery include bleeding, infection, stroke, organ damage, and aneurysm formation. It's important to discuss these risks with your medical team.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different surgical options for treating aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options for aortic dissection include open-heart surgery, endovascular repair, and hybrid procedures combining both approaches to repair the damaged artery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the surgeon determine the type of surgery needed for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The surgeon determines the type of surgery needed for aortic dissection based on the location, severity, and extent of the dissection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does aortic dissection surgery typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection surgery typically takes about 4 to 6 hours, but can vary depending on the complexity of the case.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What type of anesthesia is used during aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "General anesthesia is typically used during aortic dissection surgery to ensure the patient remains unconscious and pain-free throughout the procedure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risks of aortic dissection surgery include bleeding, infection, stroke, organ damage, and even death. Your healthcare team will closely monitor you for any complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients before and after aortic dissection surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive pre-operative education and counseling to prepare patients for aortic dissection surgery. They also offer post-operative care and rehabilitation support.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is the recovery process after aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery after aortic dissection surgery involves hospital stay, pain management, monitoring, rehabilitation, and follow-up care for a full recovery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How successful is surgery for aortic dissection and what factors affect outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for aortic dissection can be successful, but outcomes depend on factors like the extent of dissection, patient's overall health, and surgical technique.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the potential complications of aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential complications of aortic dissection surgery include bleeding, infection, stroke, organ damage, and aneurysm formation. It's important to discuss these risks with your medical team.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the surgeon determine the type of surgery needed for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The surgeon determines the type of surgery needed for aortic dissection based on the location, severity, and extent of the dissection.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What type of anesthesia is used during aortic dissection surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General anesthesia is typically used during aortic dissection surgery to ensure the patient remains unconscious and pain-free throughout the procedure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How successful is surgery for aortic dissection and what factors affect outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for aortic dissection can be successful, but outcomes depend on factors like the extent of dissection, patient's overall health, and surgical technique.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -432,8 +404,6 @@
 
 
 
-        <h3>How does Medicover support patients before and after aortic dissection surgery?</h3>
-        <p>Medicover provides comprehensive pre-operative education and counseling to prepare patients for aortic dissection surgery. They also offer post-operative care and rehabilitation support.</p>
 
 
 

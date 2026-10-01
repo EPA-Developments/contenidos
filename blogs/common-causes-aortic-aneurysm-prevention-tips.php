@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common causes of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of an aortic aneurysm include high blood pressure, atherosclerosis, smoking, and genetic factors. Maintaining a healthy lifestyle can help prevent it.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does high blood pressure contribute to an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can weaken the walls of the aorta, causing it to bulge and potentially lead to an aortic aneurysm. Keeping blood pressure in check is key to prevention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What genetic factors increase the risk of aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Genetic factors such as family history of aortic aneurysms, connective tissue disorders, and genetic conditions like Marfan syndrome can increase the risk.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does smoking affect the development of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking weakens the walls of the aorta, making it more prone to aneurysm formation. Quitting smoking can help prevent the development of an aortic aneurysm.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can cholesterol levels impact the risk of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, high cholesterol levels can increase the risk of an aortic aneurysm by contributing to the buildup of plaque in the arteries. Maintaining healthy cholesterol levels is crucial for prevention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common causes of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of an aortic aneurysm include high blood pressure, atherosclerosis, smoking, and genetic factors. Maintaining a healthy lifestyle can help prevent it.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aging play a role in developing an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aging weakens the walls of the aorta, making them more prone to developing an aneurysm. Regular check-ups and healthy lifestyle choices can help prevent it.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does high blood pressure contribute to an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can weaken the walls of the aorta, causing it to bulge and potentially lead to an aortic aneurysm. Keeping blood pressure in check is key to prevention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help prevent an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy weight, quitting smoking, managing blood pressure, and eating a balanced diet can help prevent aortic aneurysms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What genetic factors increase the risk of aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genetic factors such as family history of aortic aneurysms, connective tissue disorders, and genetic conditions like Marfan syndrome can increase the risk.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can regular checkups detect early signs of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular checkups can detect early signs of an aortic aneurysm through imaging tests like ultrasound or CT scans, helping to monitor and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does smoking affect the development of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking weakens the walls of the aorta, making it more prone to aneurysm formation. Quitting smoking can help prevent the development of an aortic aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can a healthy diet reduce the risk of developing an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, a healthy diet high in fruits, vegetables, and whole grains can help reduce the risk of developing an aortic aneurysm by maintaining overall cardiovascular health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can cholesterol levels impact the risk of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, high cholesterol levels can increase the risk of an aortic aneurysm by contributing to the buildup of plaque in the arteries. Maintaining healthy cholesterol levels is crucial for prevention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support the prevention of aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover supports prevention of aortic aneurysms through screenings, lifestyle counseling, and promoting healthy habits like quitting smoking and managing blood pressure.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does aging play a role in developing an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aging weakens the walls of the aorta, making them more prone to developing an aneurysm. Regular check-ups and healthy lifestyle choices can help prevent it.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help prevent an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy weight, quitting smoking, managing blood pressure, and eating a balanced diet can help prevent aortic aneurysms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can regular checkups detect early signs of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular checkups can detect early signs of an aortic aneurysm through imaging tests like ultrasound or CT scans, helping to monitor and prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a healthy diet reduce the risk of developing an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a healthy diet high in fruits, vegetables, and whole grains can help reduce the risk of developing an aortic aneurysm by maintaining overall cardiovascular health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3>How does Medicover support the prevention of aortic aneurysms?</h3>
-        <p>Medicover supports prevention of aortic aneurysms through screenings, lifestyle counseling, and promoting healthy habits like quitting smoking and managing blood pressure.</p>
 
 
 

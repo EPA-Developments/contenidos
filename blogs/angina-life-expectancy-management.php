@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Can angina reduce life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angina can reduce life expectancy if left untreated. Proper management through lifestyle changes and medication can help improve outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does angina affect overall heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina signals a problem with blood flow to the heart, impacting overall heart health. Proper management can help reduce risks and improve life expectancy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks of untreated angina on life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina can increase risk of heart attack or stroke, impacting life expectancy. Managing it through lifestyle changes and medication is crucial for long-term health.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can early treatment of angina improve life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early treatment of angina can improve life expectancy by reducing the risk of heart attacks and other serious complications, leading to a longer and healthier life.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle changes can improve the prognosis for someone with angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, eating a heart-healthy diet, staying active, managing stress, and taking prescribed medications can improve the prognosis for someone with angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina reduce life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angina can reduce life expectancy if left untreated. Proper management through lifestyle changes and medication can help improve outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help improve life expectancy for angina patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover offers advanced treatments, lifestyle counseling, and regular monitoring to effectively manage angina, leading to improved quality of life and potentially increasing life expectancy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does angina affect overall heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina signals a problem with blood flow to the heart, impacting overall heart health. Proper management can help reduce risks and improve life expectancy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do heart attack risks increase with untreated angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina can increase the risk of a heart attack as it indicates underlying heart disease. Managing angina can help reduce this risk and improve life expectancy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of untreated angina on life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina can increase risk of heart attack or stroke, impacting life expectancy. Managing it through lifestyle changes and medication is crucial for long-term health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can managing angina effectively prevent heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Managing angina effectively can help prevent heart failure by reducing strain on the heart. This can improve overall heart health and potentially increase life expectancy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can early treatment of angina improve life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early treatment of angina can improve life expectancy by reducing the risk of heart attacks and other serious complications, leading to a longer and healthier life.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does stress management contribute to improving life expectancy in angina patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stress management helps lower blood pressure and reduce strain on the heart, improving overall heart health and potentially increasing life expectancy for angina patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes can improve the prognosis for someone with angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, eating a heart-healthy diet, staying active, managing stress, and taking prescribed medications can improve the prognosis for someone with angina.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for individuals who successfully manage angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals who successfully manage angina can experience improved quality of life, reduced risk of heart attacks, and potentially longer life expectancy.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do heart attack risks increase with untreated angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina can increase the risk of a heart attack as it indicates underlying heart disease. Managing angina can help reduce this risk and improve life expectancy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can managing angina effectively prevent heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Managing angina effectively can help prevent heart failure by reducing strain on the heart. This can improve overall heart health and potentially increase life expectancy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does stress management contribute to improving life expectancy in angina patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stress management helps lower blood pressure and reduce strain on the heart, improving overall heart health and potentially increasing life expectancy for angina patients.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes for individuals who successfully manage angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals who successfully manage angina can experience improved quality of life, reduced risk of heart attacks, and potentially longer life expectancy.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -430,8 +402,6 @@
 
 
 
-        <h3>How does Medicover help improve life expectancy for angina patients?</h3>
-        <p>Medicover offers advanced treatments, lifestyle counseling, and regular monitoring to effectively manage angina, leading to improved quality of life and potentially increasing life expectancy.</p>
 
 
 

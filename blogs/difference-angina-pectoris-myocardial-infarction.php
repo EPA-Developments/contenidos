@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the key difference between angina pectoris and myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The key difference between angina pectoris and myocardial infarction is that angina is temporary chest pain caused by reduced blood flow, while a myocardial infarction is a heart attack resulting from a blocked artery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do the symptoms of angina pectoris differ from those of a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pectoris symptoms are temporary chest pain or discomfort, while heart attack symptoms are more severe and prolonged, often accompanied by shortness of breath and nausea.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes angina pectoris and myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pectoris is caused by reduced blood flow to the heart muscle, while myocardial infarction is due to a complete blockage of blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can angina pectoris lead to myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angina pectoris can lead to myocardial infarction if left untreated. Angina is often a warning sign of potential heart issues, including a heart attack.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is the treatment for angina pectoris different from that for a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The treatment for angina pectoris typically involves medication and lifestyle changes, while a heart attack requires immediate medical intervention such as angioplasty or surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the key difference between angina pectoris and myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key difference between angina pectoris and myocardial infarction is that angina is temporary chest pain caused by reduced blood flow, while a myocardial infarction is a heart attack resulting from a blocked artery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the diagnosis and treatment of angina and myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches the diagnosis and treatment of angina and myocardial infarction through thorough evaluation, imaging tests, medication management, and lifestyle modifications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do the symptoms of angina pectoris differ from those of a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pectoris symptoms are temporary chest pain or discomfort, while heart attack symptoms are more severe and prolonged, often accompanied by shortness of breath and nausea.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can the risks of myocardial infarction be reduced in patients with angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Reducing the risks of myocardial infarction in patients with angina pectoris involves lifestyle changes like quitting smoking, managing cholesterol levels, and controlling blood pressure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes angina pectoris and myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pectoris is caused by reduced blood flow to the heart muscle, while myocardial infarction is due to a complete blockage of blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What diagnostic tests help differentiate between angina pectoris and myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Electrocardiogram (ECG) and cardiac enzyme tests can help differentiate between angina pectoris and myocardial infarction by assessing heart function and damage.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina pectoris lead to myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angina pectoris can lead to myocardial infarction if left untreated. Angina is often a warning sign of potential heart issues, including a heart attack.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do lifestyle changes affect the outcomes of angina pectoris versus myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes can help manage angina pectoris by reducing symptoms, while in myocardial infarction, they can improve overall heart health and lower the risk of future heart attacks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is the treatment for angina pectoris different from that for a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The treatment for angina pectoris typically involves medication and lifestyle changes, while a heart attack requires immediate medical intervention such as angioplasty or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help in preventing both angina pectoris and myocardial infarction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as maintaining a healthy diet, regular exercise, quitting smoking, and managing stress can help prevent both angina pectoris and myocardial infarction.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can the risks of myocardial infarction be reduced in patients with angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reducing the risks of myocardial infarction in patients with angina pectoris involves lifestyle changes like quitting smoking, managing cholesterol levels, and controlling blood pressure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What diagnostic tests help differentiate between angina pectoris and myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electrocardiogram (ECG) and cardiac enzyme tests can help differentiate between angina pectoris and myocardial infarction by assessing heart function and damage.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do lifestyle changes affect the outcomes of angina pectoris versus myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes can help manage angina pectoris by reducing symptoms, while in myocardial infarction, they can improve overall heart health and lower the risk of future heart attacks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help in preventing both angina pectoris and myocardial infarction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as maintaining a healthy diet, regular exercise, quitting smoking, and managing stress can help prevent both angina pectoris and myocardial infarction.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -440,8 +412,6 @@
 
 
 
-        <h3>How does Medicover approach the diagnosis and treatment of angina and myocardial infarction?</h3>
-        <p>Medicover approaches the diagnosis and treatment of angina and myocardial infarction through thorough evaluation, imaging tests, medication management, and lifestyle modifications.</p>
 
 
 

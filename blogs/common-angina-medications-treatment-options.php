@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most commonly prescribed medications for angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most commonly prescribed medications for angina include nitrates, beta-blockers, calcium channel blockers, and antiplatelet medications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do nitrates work in treating angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nitrates work by dilating blood vessels to increase blood flow and oxygen to the heart, relieving chest pain associated with angina.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do calcium channel blockers play in angina treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Calcium channel blockers help relax blood vessels and improve blood flow to the heart, reducing chest pain in angina patients.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do betablockers help manage angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Betablockers help manage angina symptoms by reducing heart rate and blood pressure, decreasing the heart's workload, and improving blood flow to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are blood thinners used in treating angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, blood thinners are not typically used in treating angina. Medications like nitrates and beta-blockers are more commonly prescribed for angina management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most commonly prescribed medications for angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most commonly prescribed medications for angina include nitrates, beta-blockers, calcium channel blockers, and antiplatelet medications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do statins affect angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Statins help reduce cholesterol levels, which can improve blood flow and decrease the risk of angina symptoms such as chest pain and discomfort.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do nitrates work in treating angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nitrates work by dilating blood vessels to increase blood flow and oxygen to the heart, relieving chest pain associated with angina.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes reduce the need for medication in angina patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, and exercising regularly can help reduce the need for medication in angina patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do calcium channel blockers play in angina treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calcium channel blockers help relax blood vessels and improve blood flow to the heart, reducing chest pain in angina patients.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the side effects of angina medications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common side effects of angina medications may include headaches, dizziness, nausea, and constipation. Always consult your healthcare provider for guidance.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do betablockers help manage angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Betablockers help manage angina symptoms by reducing heart rate and blood pressure, decreasing the heart's workload, and improving blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do Medicover specialists customize medication plans for angina patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover specialists customize medication plans for angina patients by considering individual symptoms, medical history, and lifestyle factors to ensure optimal treatment effectiveness.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are blood thinners used in treating angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, blood thinners are not typically used in treating angina. Medications like nitrates and beta-blockers are more commonly prescribed for angina management.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there new medications available for treating angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there are new medications available for treating angina, including some that help relax blood vessels and improve blood flow to the heart.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do statins affect angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Statins help reduce cholesterol levels, which can improve blood flow and decrease the risk of angina symptoms such as chest pain and discomfort.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes reduce the need for medication in angina patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, and exercising regularly can help reduce the need for medication in angina patients.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the side effects of angina medications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common side effects of angina medications may include headaches, dizziness, nausea, and constipation. Always consult your healthcare provider for guidance.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there new medications available for treating angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are new medications available for treating angina, including some that help relax blood vessels and improve blood flow to the heart.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -438,8 +410,6 @@
 
 
 
-        <h3>How do Medicover specialists customize medication plans for angina patients?</h3>
-        <p>Medicover specialists customize medication plans for angina patients by considering individual symptoms, medical history, and lifestyle factors to ensure optimal treatment effectiveness.</p>
 
 
 

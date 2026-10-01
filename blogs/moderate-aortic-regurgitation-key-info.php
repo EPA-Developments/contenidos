@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What defines moderate aortic regurgitation and how is it diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Moderate aortic regurgitation is when the aortic valve doesn't close properly, causing blood to leak back into the heart. It is diagnosed through echocardiography.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does moderate aortic regurgitation affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Moderate aortic regurgitation can lead to increased strain on the heart as it pumps blood backward into the left ventricle, potentially causing heart enlargement over time.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatment options are available for moderate aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for moderate aortic regurgitation may include medications to manage symptoms, regular monitoring, and possibly surgery in severe cases.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is surgery required for moderate aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery may be needed for moderate aortic regurgitation if symptoms develop or if the heart begins to show signs of damage. Consult with a cardiologist for personalized guidance.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the prognosis for patients with moderate aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for patients with moderate aortic regurgitation is generally good, with regular monitoring and management to prevent progression to severe regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What defines moderate aortic regurgitation and how is it diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moderate aortic regurgitation is when the aortic valve doesn't close properly, causing blood to leak back into the heart. It is diagnosed through echocardiography.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage moderate aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages moderate aortic regurgitation through regular monitoring, medication to manage symptoms, and possible surgical intervention if necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does moderate aortic regurgitation affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moderate aortic regurgitation can lead to increased strain on the heart as it pumps blood backward into the left ventricle, potentially causing heart enlargement over time.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do patients with moderate aortic regurgitation typically respond to treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with moderate aortic regurgitation may not require treatment initially. Regular monitoring and lifestyle modifications are key to managing the condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatment options are available for moderate aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for moderate aortic regurgitation may include medications to manage symptoms, regular monitoring, and possibly surgery in severe cases.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes are recommended for patients with moderate aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with moderate aortic regurgitation should focus on heart-healthy habits like regular exercise, a balanced diet low in salt, and avoiding smoking.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "When is surgery required for moderate aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery may be needed for moderate aortic regurgitation if symptoms develop or if the heart begins to show signs of damage. Consult with a cardiologist for personalized guidance.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does moderate aortic regurgitation impact life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Moderate aortic regurgitation may not significantly impact life expectancy. However, regular monitoring and potential treatment are important for overall heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the prognosis for patients with moderate aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for patients with moderate aortic regurgitation is generally good, with regular monitoring and management to prevent progression to severe regurgitation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not addressing moderate aortic regurgitation promptly?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of not addressing moderate aortic regurgitation promptly include heart failure, arrhythmias, and potential damage to the heart muscle.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do patients with moderate aortic regurgitation typically respond to treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with moderate aortic regurgitation may not require treatment initially. Regular monitoring and lifestyle modifications are key to managing the condition effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes are recommended for patients with moderate aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with moderate aortic regurgitation should focus on heart-healthy habits like regular exercise, a balanced diet low in salt, and avoiding smoking.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does moderate aortic regurgitation impact life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Moderate aortic regurgitation may not significantly impact life expectancy. However, regular monitoring and potential treatment are important for overall heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of not addressing moderate aortic regurgitation promptly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of not addressing moderate aortic regurgitation promptly include heart failure, arrhythmias, and potential damage to the heart muscle.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -426,8 +398,6 @@
 
 
 
-        <h3>How does Medicover manage moderate aortic regurgitation?</h3>
-        <p>Medicover manages moderate aortic regurgitation through regular monitoring, medication to manage symptoms, and possible surgical intervention if necessary.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes Vincent angina to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina develops due to a bacterial infection in the mouth, specifically caused by a combination of bacteria called Prevotella intermedia and Fusobacterium nucleatum.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do bacterial infections contribute to Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bacterial infections, specifically from certain strains of bacteria, can lead to the development of Vincent angina by causing inflammation and tissue destruction in the mouth and throat.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risk factors for Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for Vincent angina include poor oral hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does poor oral hygiene increase the risk of Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Poor oral hygiene allows bacteria to thrive in the mouth, leading to the development of dental plaque and gum disease, which can increase the risk of developing Vincent angina.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can Vincent angina be caused by stress or lifestyle factors?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, stress and certain lifestyle factors such as smoking can contribute to the development of Vincent angina by weakening the immune system and increasing inflammation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes Vincent angina to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina develops due to a bacterial infection in the mouth, specifically caused by a combination of bacteria called Prevotella intermedia and Fusobacterium nucleatum.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does smoking affect the risk of developing Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking increases the risk of developing Vincent angina by causing damage to the gums and oral tissues, making it easier for bacteria to infect the mouth.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do bacterial infections contribute to Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bacterial infections, specifically from certain strains of bacteria, can lead to the development of Vincent angina by causing inflammation and tissue destruction in the mouth and throat.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does a weakened immune system play in Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A weakened immune system can make a person more susceptible to developing Vincent angina, as it impairs the body's ability to fight off bacterial infections in the mouth.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risk factors for Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for Vincent angina include poor oral hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover address the underlying causes of Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover addresses the underlying causes of Vincent angina by providing comprehensive treatment plans that target the infection causing the condition, alongside proper oral hygiene practices.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does poor oral hygiene increase the risk of Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor oral hygiene allows bacteria to thrive in the mouth, leading to the development of dental plaque and gum disease, which can increase the risk of developing Vincent angina.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the common predisposing conditions for Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common predisposing conditions for Vincent angina include poor oral hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can Vincent angina be caused by stress or lifestyle factors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, stress and certain lifestyle factors such as smoking can contribute to the development of Vincent angina by weakening the immune system and increasing inflammation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Vincent angina be prevented through lifestyle changes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina can be prevented through lifestyle changes such as quitting smoking, managing stress, eating a healthy diet, and staying physically active.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does smoking affect the risk of developing Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking increases the risk of developing Vincent angina by causing damage to the gums and oral tissues, making it easier for bacteria to infect the mouth.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does a weakened immune system play in Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A weakened immune system can make a person more susceptible to developing Vincent angina, as it impairs the body's ability to fight off bacterial infections in the mouth.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the common predisposing conditions for Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common predisposing conditions for Vincent angina include poor oral hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can Vincent angina be prevented through lifestyle changes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina can be prevented through lifestyle changes such as quitting smoking, managing stress, eating a healthy diet, and staying physically active.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -466,8 +438,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover address the underlying causes of Vincent angina?</p>
 
 
 

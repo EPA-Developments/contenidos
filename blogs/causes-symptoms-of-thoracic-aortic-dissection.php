@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection is typically caused by a tear in the inner layer of the aorta, leading to blood leaking into the outer layers and potentially causing a life-threatening situation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a tear in the aorta lead to thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A tear in the aorta can cause blood to flow between the layers of the aortic wall, creating a false passage that weakens the aorta and may lead to aortic dissection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key risk factors for developing thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The key risk factors for developing thoracic aortic dissection include high blood pressure, genetic conditions, atherosclerosis, and a history of heart surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does hypertension contribute to thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hypertension increases pressure on the aortic wall, weakening it over time. This can lead to a tear in the aorta, causing thoracic aortic dissection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of thoracic aortic dissection and how can they be recognized early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of thoracic aortic dissection include sudden sharp chest or back pain, shortness of breath, and loss of consciousness. Early recognition is key for prompt medical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection is typically caused by a tear in the inner layer of the aorta, leading to blood leaking into the outer layers and potentially causing a life-threatening situation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can thoracic aortic dissection be diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection can be diagnosed through a combination of imaging tests such as CT scans, MRIs, and echocardiograms. Symptoms like chest pain can also raise suspicion.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a tear in the aorta lead to thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tear in the aorta can cause blood to flow between the layers of the aortic wall, creating a false passage that weakens the aorta and may lead to aortic dissection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available for thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for thoracic aortic dissection include medications to lower blood pressure, surgery to repair the damaged aorta, and close monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key risk factors for developing thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key risk factors for developing thoracic aortic dissection include high blood pressure, genetic conditions, atherosclerosis, and a history of heart surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does thoracic aortic dissection affect life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection can significantly impact life expectancy if not promptly treated. Seek medical attention immediately if you experience symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does hypertension contribute to thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hypertension increases pressure on the aortic wall, weakening it over time. This can lead to a tear in the aorta, causing thoracic aortic dissection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does surgery play in treating thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery plays a crucial role in treating thoracic aortic dissection by repairing the damaged aorta and preventing further complications or rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of thoracic aortic dissection and how can they be recognized early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of thoracic aortic dissection include sudden sharp chest or back pain, shortness of breath, and loss of consciousness. Early recognition is key for prompt medical intervention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage treatment for thoracic aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages thoracic aortic dissection by providing timely diagnosis, personalized treatment plans, and close monitoring to ensure effective care and recovery.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can thoracic aortic dissection be diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection can be diagnosed through a combination of imaging tests such as CT scans, MRIs, and echocardiograms. Symptoms like chest pain can also raise suspicion.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatments are available for thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for thoracic aortic dissection include medications to lower blood pressure, surgery to repair the damaged aorta, and close monitoring.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does thoracic aortic dissection affect life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection can significantly impact life expectancy if not promptly treated. Seek medical attention immediately if you experience symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does surgery play in treating thoracic aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery plays a crucial role in treating thoracic aortic dissection by repairing the damaged aorta and preventing further complications or rupture.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -417,8 +389,6 @@
 
 
 
-        <h3>How does Medicover manage treatment for thoracic aortic dissection?</h3>
-        <p>Medicover manages thoracic aortic dissection by providing timely diagnosis, personalized treatment plans, and close monitoring to ensure effective care and recovery.</p>
 
 
 

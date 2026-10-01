@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes an abdominal aortic aneurysm to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An abdominal aortic aneurysm develops due to weakening of the aortic wall, often linked to factors like age, smoking, high blood pressure, and genetics.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the primary risk factors for an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The primary risk factors for an abdominal aortic aneurysm include age, smoking, high blood pressure, family history, and atherosclerosis.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does high blood pressure contribute to the development of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure can weaken the walls of the aorta over time, increasing the risk of an abdominal aortic aneurysm due to the constant pressure on the artery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is genetic predisposition linked to abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Genetic predisposition plays a role in abdominal aortic aneurysms, as certain genetic factors can increase the risk of developing this condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle factors increase the risk of developing an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking, high blood pressure, atherosclerosis, and age are key lifestyle factors that increase the risk of developing an abdominal aortic aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes an abdominal aortic aneurysm to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An abdominal aortic aneurysm develops due to weakening of the aortic wall, often linked to factors like age, smoking, high blood pressure, and genetics.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does smoking affect the development of an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking increases the risk of developing an abdominal aortic aneurysm by weakening the walls of the aorta, making it more prone to bulging and potentially rupturing.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary risk factors for an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary risk factors for an abdominal aortic aneurysm include age, smoking, high blood pressure, family history, and atherosclerosis.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can abdominal aortic aneurysms be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic aneurysms can't always be prevented, but managing risk factors like smoking, high blood pressure, and atherosclerosis can help reduce the risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does high blood pressure contribute to the development of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure can weaken the walls of the aorta over time, increasing the risk of an abdominal aortic aneurysm due to the constant pressure on the artery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose the underlying causes of abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses abdominal aortic aneurysms through imaging tests like ultrasound, CT scans, and MRIs to determine the size, location, and severity of the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is genetic predisposition linked to abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genetic predisposition plays a role in abdominal aortic aneurysms, as certain genetic factors can increase the risk of developing this condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs that someone is at risk of developing an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common signs include sudden severe abdominal or back pain, a pulsating sensation in the abdomen, and tenderness or pain when touching the abdomen.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle factors increase the risk of developing an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking, high blood pressure, atherosclerosis, and age are key lifestyle factors that increase the risk of developing an abdominal aortic aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does cholesterol play in the development of abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cholesterol can contribute to the development of abdominal aortic aneurysms by causing plaque buildup in the arteries, leading to weakening and potential rupture.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does smoking affect the development of an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking increases the risk of developing an abdominal aortic aneurysm by weakening the walls of the aorta, making it more prone to bulging and potentially rupturing.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can abdominal aortic aneurysms be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic aneurysms can't always be prevented, but managing risk factors like smoking, high blood pressure, and atherosclerosis can help reduce the risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that someone is at risk of developing an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs include sudden severe abdominal or back pain, a pulsating sensation in the abdomen, and tenderness or pain when touching the abdomen.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does cholesterol play in the development of abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cholesterol can contribute to the development of abdominal aortic aneurysms by causing plaque buildup in the arteries, leading to weakening and potential rupture.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -461,8 +433,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover diagnose the underlying causes of abdominal aortic aneurysms?</p>
 
 
 

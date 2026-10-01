@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is refractory angina and how is it different from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Refractory angina is severe chest pain that doesn't respond to conventional treatments. It differs from other angina types by being more persistent and difficult to manage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes refractory angina to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Refractory angina develops due to severe coronary artery disease that doesn't respond to traditional treatments like medications or procedures, leading to persistent chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can refractory angina be diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Refractory angina can be diagnosed through a combination of symptoms, medical history, stress tests, imaging tests, and coronary angiography.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for refractory angina include medications, lifestyle changes, angioplasty, stenting, enhanced external counterpulsation, and in some cases, surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can medications help manage refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications can help manage refractory angina by improving blood flow to the heart and reducing symptoms despite other treatments being ineffective.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is refractory angina and how is it different from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refractory angina is severe chest pain that doesn't respond to conventional treatments. It differs from other angina types by being more persistent and difficult to manage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to treating refractory angina, combining medication, lifestyle changes, and advanced procedures to manage symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes refractory angina to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refractory angina develops due to severe coronary artery disease that doesn't respond to traditional treatments like medications or procedures, leading to persistent chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery necessary for treating refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery may be necessary for refractory angina if other treatments have not been effective. It is a last resort when medications and lifestyle changes have not helped.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can refractory angina be diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refractory angina can be diagnosed through a combination of symptoms, medical history, stress tests, imaging tests, and coronary angiography.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes like regular exercise, a heart-healthy diet, stress management, and quitting smoking can help manage refractory angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for refractory angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for refractory angina include medications, lifestyle changes, angioplasty, stenting, enhanced external counterpulsation, and in some cases, surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does refractory angina impact a patientâ€™s quality of life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Refractory angina significantly reduces a patient's quality of life due to persistent chest pain that limits daily activities and can lead to anxiety and depression.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can medications help manage refractory angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications can help manage refractory angina by improving blood flow to the heart and reducing symptoms despite other treatments being ineffective.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of untreated refractory angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated refractory angina can lead to heart attacks, heart failure, and reduced quality of life. Seeking medical help is crucial for proper management.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is surgery necessary for treating refractory angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery may be necessary for refractory angina if other treatments have not been effective. It is a last resort when medications and lifestyle changes have not helped.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage refractory angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes like regular exercise, a heart-healthy diet, stress management, and quitting smoking can help manage refractory angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does refractory angina impact a patientâ€™s quality of life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refractory angina significantly reduces a patient's quality of life due to persistent chest pain that limits daily activities and can lead to anxiety and depression.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential complications of untreated refractory angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated refractory angina can lead to heart attacks, heart failure, and reduced quality of life. Seeking medical help is crucial for proper management.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -402,8 +374,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of refractory angina?</h3>
-        <p>Medicover takes a comprehensive approach to treating refractory angina, combining medication, lifestyle changes, and advanced procedures to manage symptoms effectively.</p>
 
 
 

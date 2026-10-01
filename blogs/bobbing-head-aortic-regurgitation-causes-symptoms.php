@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is bobbing head aortic regurgitation and how is it identified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head aortic regurgitation is a rare condition where the head bobs in sync with the heartbeat due to aortic valve dysfunction. It's identified through physical exams and imaging tests.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why does the bobbing head movement occur in patients with aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head in aortic regurgitation happens due to a widened pulse pressure causing exaggerated arterial pulsations visible in the neck.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is bobbing head a reliable indicator of aortic regurgitation severity?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head can be a sign of severe aortic regurgitation, but it's not a definitive indicator. Other symptoms and diagnostic tests are needed for an accurate assessment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the underlying causes of bobbing head in aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head in aortic regurgitation is caused by widened pulse pressure from the heart's inability to efficiently pump blood, leading to exaggerated head movements.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can bobbing head syndrome be treated or managed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head syndrome from aortic regurgitation can be treated with medication, lifestyle changes, and possibly surgery to repair or replace the damaged valve.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is bobbing head aortic regurgitation and how is it identified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head aortic regurgitation is a rare condition where the head bobs in sync with the heartbeat due to aortic valve dysfunction. It's identified through physical exams and imaging tests.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose and address bobbing head aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses bobbing head aortic regurgitation through imaging tests like echocardiograms. Treatment may include medications or surgery to repair or replace the faulty valve.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why does the bobbing head movement occur in patients with aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head in aortic regurgitation happens due to a widened pulse pressure causing exaggerated arterial pulsations visible in the neck.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is the presence of a bobbing head sign linked to poor prognosis in aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, the presence of a bobbing head sign in aortic regurgitation is linked to poor prognosis due to increased risk of heart failure and other complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is bobbing head a reliable indicator of aortic regurgitation severity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head can be a sign of severe aortic regurgitation, but it's not a definitive indicator. Other symptoms and diagnostic tests are needed for an accurate assessment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can other conditions cause similar head bobbing symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, conditions like Parkinson's disease, essential tremor, or drug side effects can also cause similar head bobbing symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the underlying causes of bobbing head in aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head in aortic regurgitation is caused by widened pulse pressure from the heart's inability to efficiently pump blood, leading to exaggerated head movements.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How should patients respond when they notice head bobbing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients should seek immediate medical attention if they notice head bobbing, as it could be a sign of a serious condition like aortic regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can bobbing head syndrome be treated or managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head syndrome from aortic regurgitation can be treated with medication, lifestyle changes, and possibly surgery to repair or replace the damaged valve.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does bobbing head affect a patientâ€™s quality of life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Bobbing head in aortic regurgitation can impact a patient's quality of life by causing symptoms like fatigue, shortness of breath, and decreased exercise tolerance.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is the presence of a bobbing head sign linked to poor prognosis in aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the presence of a bobbing head sign in aortic regurgitation is linked to poor prognosis due to increased risk of heart failure and other complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can other conditions cause similar head bobbing symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, conditions like Parkinson's disease, essential tremor, or drug side effects can also cause similar head bobbing symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should patients respond when they notice head bobbing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients should seek immediate medical attention if they notice head bobbing, as it could be a sign of a serious condition like aortic regurgitation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does bobbing head affect a patientâ€™s quality of life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bobbing head in aortic regurgitation can impact a patient's quality of life by causing symptoms like fatigue, shortness of breath, and decreased exercise tolerance.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -421,8 +393,6 @@
 
 
 
-        <h3>How does Medicover diagnose and address bobbing head aortic regurgitation?</h3>
-        <p>Medicover diagnoses bobbing head aortic regurgitation through imaging tests like echocardiograms. Treatment may include medications or surgery to repair or replace the faulty valve.</p>
 
 
 

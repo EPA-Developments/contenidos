@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes blood clots during pregnancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hormonal changes, increased pressure on veins, and slower blood flow can all contribute to blood clots during pregnancy. Stay informed and talk to your healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can blood clots during pregnancy affect the mother and baby?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots during pregnancy can increase the risk of complications like miscarriage, preterm birth, and preeclampsia for the mother and baby. It is important to seek medical attention if you suspect a blood clot.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of blood clots in pregnant women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of blood clots in pregnant women may include swelling, pain, redness, warmth, or tenderness in the affected area. Seek medical help if you experience these signs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots diagnosed in pregnant women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in pregnant women are diagnosed through a combination of symptoms, physical exams, and imaging tests like ultrasounds or MRIs. Early detection is crucial for treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are safe for blood clots during pregnancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood thinners like heparin are safe for treating blood clots during pregnancy. Always consult with your healthcare provider for the best treatment plan.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes blood clots during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hormonal changes, increased pressure on veins, and slower blood flow can all contribute to blood clots during pregnancy. Stay informed and talk to your healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes reduce the risk of blood clots during pregnancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as staying active, maintaining a healthy weight, staying hydrated, and avoiding prolonged sitting can help reduce the risk of blood clots during pregnancy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can blood clots during pregnancy affect the mother and baby?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots during pregnancy can increase the risk of complications like miscarriage, preterm birth, and preeclampsia for the mother and baby. It is important to seek medical attention if you suspect a blood clot.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are certain stages of pregnancy more likely to have blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots are more common in the first and third trimesters of pregnancy. It's important to be aware of the symptoms and seek medical attention if needed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of blood clots in pregnant women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of blood clots in pregnant women may include swelling, pain, redness, warmth, or tenderness in the affected area. Seek medical help if you experience these signs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in managing blood clots during pregnancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can provide expert monitoring and treatment options to manage blood clots during pregnancy, ensuring the safety of both mother and baby.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots diagnosed in pregnant women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in pregnant women are diagnosed through a combination of symptoms, physical exams, and imaging tests like ultrasounds or MRIs. Early detection is crucial for treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the complications that can arise from blood clots during pregnancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Complications from blood clots during pregnancy include deep vein thrombosis, pulmonary embolism, miscarriage, preterm birth, and placental abruption.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are safe for blood clots during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood thinners like heparin are safe for treating blood clots during pregnancy. Always consult with your healthcare provider for the best treatment plan.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the preventive measures for pregnant women at risk of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventive measures for pregnant women at risk of blood clots include staying active, staying hydrated, wearing compression stockings, and discussing with healthcare providers about potential medications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes reduce the risk of blood clots during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as staying active, maintaining a healthy weight, staying hydrated, and avoiding prolonged sitting can help reduce the risk of blood clots during pregnancy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are certain stages of pregnancy more likely to have blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots are more common in the first and third trimesters of pregnancy. It's important to be aware of the symptoms and seek medical attention if needed.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the complications that can arise from blood clots during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complications from blood clots during pregnancy include deep vein thrombosis, pulmonary embolism, miscarriage, preterm birth, and placental abruption.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the preventive measures for pregnant women at risk of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive measures for pregnant women at risk of blood clots include staying active, staying hydrated, wearing compression stockings, and discussing with healthcare providers about potential medications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -492,8 +464,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover assist in managing blood clots during pregnancy?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is cerebral amyloid angiopathy (CAA) and how does it affect the brain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cerebral amyloid angiopathy (CAA) is a condition where abnormal protein deposits build up in the brain's blood vessels, causing them to weaken and leak, leading to potential brain damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of cerebral amyloid angiopathy may include headaches, confusion, memory loss, and neurological deficits. It can lead to strokes and cognitive decline.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is cerebral amyloid angiopathy diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cerebral amyloid angiopathy is diagnosed through brain imaging tests like MRI or CT scans, and sometimes confirmed through a brain biopsy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main causes of cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main causes of cerebral amyloid angiopathy are the accumulation of amyloid protein in blood vessels of the brain, which can lead to vessel damage and bleeding.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can cerebral amyloid angiopathy lead to a stroke?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, cerebral amyloid angiopathy can lead to a stroke. This condition causes a buildup of amyloid proteins in the brain's blood vessels, increasing the risk of bleeding.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is cerebral amyloid angiopathy (CAA) and how does it affect the brain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cerebral amyloid angiopathy (CAA) is a condition where abnormal protein deposits build up in the brain's blood vessels, causing them to weaken and leak, leading to potential brain damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for cerebral amyloid angiopathy include managing blood pressure, using anti-inflammatory drugs, and addressing any associated symptoms or complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of cerebral amyloid angiopathy may include headaches, confusion, memory loss, and neurological deficits. It can lead to strokes and cognitive decline.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage patients with cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages patients with cerebral amyloid angiopathy through a combination of diagnostic imaging, medication management, and regular monitoring to track progression and adjust treatment as needed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is cerebral amyloid angiopathy diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cerebral amyloid angiopathy is diagnosed through brain imaging tests like MRI or CT scans, and sometimes confirmed through a brain biopsy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is there a cure for cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Currently, there is no cure for cerebral amyloid angiopathy. Treatment focuses on managing symptoms and preventing complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main causes of cerebral amyloid angiopathy are the accumulation of amyloid protein in blood vessels of the brain, which can lead to vessel damage and bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risk factors for developing cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for developing cerebral amyloid angiopathy include aging, genetic predisposition, hypertension, and history of brain injury or stroke.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can cerebral amyloid angiopathy lead to a stroke?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, cerebral amyloid angiopathy can lead to a stroke. This condition causes a buildup of amyloid proteins in the brain's blood vessels, increasing the risk of bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help reduce the risk of cerebral amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as maintaining a healthy diet, regular exercise, managing blood pressure, and avoiding smoking can help reduce the risk of cerebral amyloid angiopathy.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for cerebral amyloid angiopathy include managing blood pressure, using anti-inflammatory drugs, and addressing any associated symptoms or complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a cure for cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Currently, there is no cure for cerebral amyloid angiopathy. Treatment focuses on managing symptoms and preventing complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risk factors for developing cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for developing cerebral amyloid angiopathy include aging, genetic predisposition, hypertension, and history of brain injury or stroke.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help reduce the risk of cerebral amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as maintaining a healthy diet, regular exercise, managing blood pressure, and avoiding smoking can help reduce the risk of cerebral amyloid angiopathy.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -422,8 +394,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover manage patients with cerebral amyloid angiopathy?</p>
 
 
 

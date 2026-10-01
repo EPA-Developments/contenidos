@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the nature of angina pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pain is typically described as a tightness, pressure, or squeezing sensation in the chest that can radiate to the arms, neck, jaw, or back. It is caused by reduced blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you differentiate between angina pain and a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pain is usually triggered by physical exertion or stress and goes away with rest. A heart attack pain is more sudden, severe, and can last longer, often accompanied by other symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does nitroglycerin help manage angina pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nitroglycerin helps manage angina pain by dilating blood vessels, increasing blood flow to the heart, and reducing the workload on the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the best ways to relieve angina pain at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best ways to relieve angina pain at home include taking prescribed medications, resting, using nitroglycerin, and practicing deep breathing exercises.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover approach pain management for angina patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches pain management for angina patients through a combination of medications, lifestyle changes, and possibly procedures to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the nature of angina pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pain is typically described as a tightness, pressure, or squeezing sensation in the chest that can radiate to the arms, neck, jaw, or back. It is caused by reduced blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can angina pain be managed with lifestyle changes alone?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, and managing stress can help manage angina pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you differentiate between angina pain and a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pain is usually triggered by physical exertion or stress and goes away with rest. A heart attack pain is more sudden, severe, and can last longer, often accompanied by other symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of medications in controlling angina pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications play a crucial role in controlling angina pain by helping to relax blood vessels, reduce strain on the heart, and improve blood flow to the heart muscle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does nitroglycerin help manage angina pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nitroglycerin helps manage angina pain by dilating blood vessels, increasing blood flow to the heart, and reducing the workload on the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can exercise impact angina pain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular exercise can improve blood flow, strengthen the heart, and reduce angina symptoms. However, it's important to consult with a healthcare provider before starting any new exercise routine.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the best ways to relieve angina pain at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best ways to relieve angina pain at home include taking prescribed medications, resting, using nitroglycerin, and practicing deep breathing exercises.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is chronic angina pain managed in the long term?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chronic angina pain is managed long term with medications like nitroglycerin, beta blockers, and calcium channel blockers, along with lifestyle changes and regular check-ups.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina pain be managed with lifestyle changes alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, and managing stress can help manage angina pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of ignoring angina pain and not seeking treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ignoring angina pain and not seeking treatment can lead to a heart attack, heart failure, or even sudden cardiac death. It is crucial to address any chest discomfort promptly.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the role of medications in controlling angina pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications play a crucial role in controlling angina pain by helping to relax blood vessels, reduce strain on the heart, and improve blood flow to the heart muscle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can exercise impact angina pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular exercise can improve blood flow, strengthen the heart, and reduce angina symptoms. However, it's important to consult with a healthcare provider before starting any new exercise routine.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is chronic angina pain managed in the long term?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chronic angina pain is managed long term with medications like nitroglycerin, beta blockers, and calcium channel blockers, along with lifestyle changes and regular check-ups.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of ignoring angina pain and not seeking treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ignoring angina pain and not seeking treatment can lead to a heart attack, heart failure, or even sudden cardiac death. It is crucial to address any chest discomfort promptly.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -431,8 +403,6 @@
 
 
 
-        <h3>How does Medicover approach pain management for angina patients?</h3>
-        <p>Medicover approaches pain management for angina patients through a combination of medications, lifestyle changes, and possibly procedures to improve blood flow to the heart.</p>
 
 
 

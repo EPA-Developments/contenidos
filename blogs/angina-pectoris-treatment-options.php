@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the comprehensive treatment options for angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Comprehensive treatment options for angina pectoris include lifestyle changes, medications, angioplasty, stents, and bypass surgery. It's important to consult with a healthcare provider for personalized care.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does medication help in treating angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication for angina pectoris helps by improving blood flow to the heart, reducing chest pain, and preventing heart attacks. It's an important part of managing the condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What surgical procedures are available for severe cases of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For severe cases of angina pectoris, surgical procedures like coronary artery bypass grafting (CABG) or percutaneous coronary intervention (PCI) may be recommended.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can lifestyle changes alone help in managing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, maintaining a healthy diet, exercising regularly, and managing stress can help in managing angina pectoris.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can Medicover help develop a personalized treatment plan for angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can develop a personalized treatment plan for angina pectoris by conducting thorough evaluations, considering medical history, and tailoring therapies to individual needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the comprehensive treatment options for angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comprehensive treatment options for angina pectoris include lifestyle changes, medications, angioplasty, stents, and bypass surgery. It's important to consult with a healthcare provider for personalized care.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of angioplasty in treating angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angioplasty is a procedure used to open blocked arteries in the heart, improving blood flow and reducing angina symptoms. It can be an effective treatment option for angina pectoris.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does medication help in treating angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication for angina pectoris helps by improving blood flow to the heart, reducing chest pain, and preventing heart attacks. It's an important part of managing the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective are nitrates in providing relief from angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nitrates are effective in providing relief from angina symptoms by dilating blood vessels, improving blood flow, and reducing the workload on the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What surgical procedures are available for severe cases of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For severe cases of angina pectoris, surgical procedures like coronary artery bypass grafting (CABG) or percutaneous coronary intervention (PCI) may be recommended.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there newer treatment options for managing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, newer treatment options for managing angina pectoris include advanced medications, lifestyle modifications, and minimally invasive procedures.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can lifestyle changes alone help in managing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, maintaining a healthy diet, exercising regularly, and managing stress can help in managing angina pectoris.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do patients with angina pectoris benefit from longterm monitoring?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term monitoring helps patients with angina pectoris by tracking symptoms, evaluating treatment effectiveness, and adjusting medications for better heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of angioplasty in treating angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angioplasty is a procedure used to open blocked arteries in the heart, improving blood flow and reducing angina symptoms. It can be an effective treatment option for angina pectoris.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated angina pectoris and how does treatment mitigate those risks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina pectoris can lead to heart attack or stroke. Treatment helps by reducing chest pain, improving blood flow to the heart, and lowering the risk of serious complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How effective are nitrates in providing relief from angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nitrates are effective in providing relief from angina symptoms by dilating blood vessels, improving blood flow, and reducing the workload on the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there newer treatment options for managing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, newer treatment options for managing angina pectoris include advanced medications, lifestyle modifications, and minimally invasive procedures.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do patients with angina pectoris benefit from longterm monitoring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term monitoring helps patients with angina pectoris by tracking symptoms, evaluating treatment effectiveness, and adjusting medications for better heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated angina pectoris and how does treatment mitigate those risks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina pectoris can lead to heart attack or stroke. Treatment helps by reducing chest pain, improving blood flow to the heart, and lowering the risk of serious complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -409,8 +381,6 @@
 
 
 
-        <h3>How can Medicover help develop a personalized treatment plan for angina pectoris?</h3>
-        <p>Medicover can develop a personalized treatment plan for angina pectoris by conducting thorough evaluations, considering medical history, and tailoring therapies to individual needs.</p>
 
 
 

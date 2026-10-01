@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why are antibiotics crucial in treating rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotics are crucial in treating rheumatic fever because they help to eliminate the bacteria that cause the initial infection, preventing further damage to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do antibiotics prevent further damage from rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotics help treat rheumatic fever by killing the bacteria causing the initial infection, preventing it from spreading and causing further damage to the heart and other organs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What types of antibiotics are used to treat rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Penicillin and other antibiotics like erythromycin are commonly used to treat rheumatic fever by targeting the streptococcal bacteria causing the infection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long should antibiotics be taken to treat rheumatic fever effectively?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is typically recommended to take antibiotics for at least 10 days to effectively treat rheumatic fever and prevent complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can someone still get rheumatic fever even with antibiotic treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, someone can still get rheumatic fever even with antibiotic treatment if the infection is not properly treated or if there are delays in seeking medical care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why are antibiotics crucial in treating rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotics are crucial in treating rheumatic fever because they help to eliminate the bacteria that cause the initial infection, preventing further damage to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover ensure the correct antibiotic treatment for rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses diagnostic tests to identify the specific bacteria causing rheumatic fever, ensuring targeted antibiotic treatment for effective management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do antibiotics prevent further damage from rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotics help treat rheumatic fever by killing the bacteria causing the initial infection, preventing it from spreading and causing further damage to the heart and other organs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not completing an antibiotic course for rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not completing an antibiotic course for rheumatic fever can lead to incomplete eradication of bacteria, increasing the risk of recurring infection and potential antibiotic resistance.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What types of antibiotics are used to treat rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Penicillin and other antibiotics like erythromycin are commonly used to treat rheumatic fever by targeting the streptococcal bacteria causing the infection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do antibiotics help prevent complications like heart damage in rheumatic fever patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotics help prevent complications like heart damage in rheumatic fever patients by treating the underlying streptococcal infection that triggers the immune response.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long should antibiotics be taken to treat rheumatic fever effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is typically recommended to take antibiotics for at least 10 days to effectively treat rheumatic fever and prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can antibiotics be used to prevent rheumatic fever in people with frequent strep throat infections?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, antibiotics can help prevent rheumatic fever in people with frequent strep throat infections by treating the underlying bacterial infection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can someone still get rheumatic fever even with antibiotic treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, someone can still get rheumatic fever even with antibiotic treatment if the infection is not properly treated or if there are delays in seeking medical care.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the side effects of the antibiotics used to treat rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Side effects of antibiotics for rheumatic fever may include upset stomach, diarrhea, rash, or allergic reactions. Always consult with a healthcare provider.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risks of not completing an antibiotic course for rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not completing an antibiotic course for rheumatic fever can lead to incomplete eradication of bacteria, increasing the risk of recurring infection and potential antibiotic resistance.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do antibiotics help prevent complications like heart damage in rheumatic fever patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotics help prevent complications like heart damage in rheumatic fever patients by treating the underlying streptococcal infection that triggers the immune response.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can antibiotics be used to prevent rheumatic fever in people with frequent strep throat infections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, antibiotics can help prevent rheumatic fever in people with frequent strep throat infections by treating the underlying bacterial infection.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the side effects of the antibiotics used to treat rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Side effects of antibiotics for rheumatic fever may include upset stomach, diarrhea, rash, or allergic reactions. Always consult with a healthcare provider.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -421,8 +393,6 @@
 
 
 
-        <h3>How does Medicover ensure the correct antibiotic treatment for rheumatic fever?</h3>
-        <p>Medicover uses diagnostic tests to identify the specific bacteria causing rheumatic fever, ensuring targeted antibiotic treatment for effective management.</p>
 
 
 

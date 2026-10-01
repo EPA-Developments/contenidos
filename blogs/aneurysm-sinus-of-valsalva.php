@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva is a rare heart condition where a bulge forms in the aorta near the heart, potentially causing serious complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva is typically caused by a weakness in the wall of the aorta near the heart, leading to a bulge or ballooning of the blood vessel.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does an aneurysm of the sinus of Valsalva affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva can lead to complications like heart failure or valve regurgitation, affecting the heart's ability to function properly.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an aneurysm of the sinus of Valsalva may include chest pain, shortness of breath, palpitations, and signs of heart failure. Prompt medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an aneurysm of the sinus of Valsalva diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aneurysm of the sinus of Valsalva can be diagnosed through imaging tests like echocardiogram, CT scan, or MRI to assess the size and location of the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva is a rare heart condition where a bulge forms in the aorta near the heart, potentially causing serious complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for an aneurysm of the sinus of Valsalva include close monitoring, medications, and surgical intervention to repair the aneurysm and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva is typically caused by a weakness in the wall of the aorta near the heart, leading to a bulge or ballooning of the blood vessel.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in diagnosing and treating an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses imaging tests like echocardiograms and CT scans to diagnose an aneurysm of the sinus of Valsalva. Treatment may involve surgery to repair the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an aneurysm of the sinus of Valsalva affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva can lead to complications like heart failure or valve regurgitation, affecting the heart's ability to function properly.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an aneurysm of the sinus of Valsalva lead to lifethreatening complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, an aneurysm of the sinus of Valsalva can lead to life-threatening complications such as heart failure or rupture, requiring prompt medical attention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an aneurysm of the sinus of Valsalva may include chest pain, shortness of breath, palpitations, and signs of heart failure. Prompt medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes should individuals with an aneurysm of the sinus of Valsalva consider?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with an aneurysm of the sinus of Valsalva should consider reducing stress, avoiding strenuous activities, and maintaining regular follow-ups with their healthcare provider.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an aneurysm of the sinus of Valsalva diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aneurysm of the sinus of Valsalva can be diagnosed through imaging tests like echocardiogram, CT scan, or MRI to assess the size and location of the aneurysm.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is surgery in treating an aneurysm of the sinus of Valsalva?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is highly effective in treating an aneurysm of the sinus of Valsalva, with a success rate of over 95% and low risk of complications when performed by experienced surgeons.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the treatment options for an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for an aneurysm of the sinus of Valsalva include close monitoring, medications, and surgical intervention to repair the aneurysm and prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an aneurysm of the sinus of Valsalva lead to lifethreatening complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an aneurysm of the sinus of Valsalva can lead to life-threatening complications such as heart failure or rupture, requiring prompt medical attention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes should individuals with an aneurysm of the sinus of Valsalva consider?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with an aneurysm of the sinus of Valsalva should consider reducing stress, avoiding strenuous activities, and maintaining regular follow-ups with their healthcare provider.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective is surgery in treating an aneurysm of the sinus of Valsalva?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is highly effective in treating an aneurysm of the sinus of Valsalva, with a success rate of over 95% and low risk of complications when performed by experienced surgeons.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -449,8 +421,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover assist in diagnosing and treating an aneurysm of the sinus of Valsalva?</p>
 
 
 

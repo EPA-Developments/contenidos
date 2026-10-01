@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is crescendo angina and how is it different from stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Crescendo angina is a severe form of unstable angina where chest pain becomes more frequent, severe, and prolonged. It differs from stable angina in its unpredictability and intensity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the main causes of crescendo angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The main causes of crescendo angina include severe blockages in the coronary arteries, increased plaque buildup, and reduced blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is crescendo angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Crescendo angina is diagnosed through a combination of medical history, physical exams, ECG, stress tests, and coronary angiography to assess blockages in the arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms are associated with crescendo angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of crescendo angina include severe chest pain, shortness of breath, nausea, and sweating. It is a serious condition that requires immediate medical attention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is crescendo angina treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Crescendo angina is typically treated with medications to manage symptoms and prevent complications. In some cases, a procedure may be needed to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is crescendo angina and how is it different from stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crescendo angina is a severe form of unstable angina where chest pain becomes more frequent, severe, and prolonged. It differs from stable angina in its unpredictability and intensity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage crescendo angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, eating a healthy diet, exercising regularly, and managing stress can help manage crescendo angina symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of crescendo angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main causes of crescendo angina include severe blockages in the coronary arteries, increased plaque buildup, and reduced blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of crescendo angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to treating crescendo angina, focusing on managing symptoms, reducing risk factors, and preventing future heart issues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is crescendo angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crescendo angina is diagnosed through a combination of medical history, physical exams, ECG, stress tests, and coronary angiography to assess blockages in the arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated crescendo angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated crescendo angina can lead to a heart attack, heart failure, or even sudden cardiac death. It is crucial to seek medical attention promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms are associated with crescendo angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of crescendo angina include severe chest pain, shortness of breath, nausea, and sweating. It is a serious condition that requires immediate medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does crescendo angina affect heart function over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Crescendo angina can lead to worsening heart function over time due to repeated episodes of inadequate blood flow to the heart muscle, increasing the risk of heart attack.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is crescendo angina treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crescendo angina is typically treated with medications to manage symptoms and prevent complications. In some cases, a procedure may be needed to improve blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can patients with crescendo angina reduce their risk of complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with crescendo angina can reduce complications by taking prescribed medications, managing stress, maintaining a healthy diet, and regular exercise.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage crescendo angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, eating a healthy diet, exercising regularly, and managing stress can help manage crescendo angina symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated crescendo angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated crescendo angina can lead to a heart attack, heart failure, or even sudden cardiac death. It is crucial to seek medical attention promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does crescendo angina affect heart function over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crescendo angina can lead to worsening heart function over time due to repeated episodes of inadequate blood flow to the heart muscle, increasing the risk of heart attack.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can patients with crescendo angina reduce their risk of complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with crescendo angina can reduce complications by taking prescribed medications, managing stress, maintaining a healthy diet, and regular exercise.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of crescendo angina?</p>
 
 
 

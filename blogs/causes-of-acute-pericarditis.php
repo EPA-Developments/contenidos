@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common causes of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of acute pericarditis include viral infections, autoimmune disorders, heart attacks, and certain medications. Treatment depends on the underlying cause.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can viral infections lead to acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, viral infections can lead to acute pericarditis. Common viruses like Coxsackie and influenza can trigger inflammation in the lining around the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do autoimmune diseases contribute to the development of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Autoimmune diseases can lead to acute pericarditis by causing inflammation in the lining of the heart, triggering symptoms like chest pain and fever.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do heart attacks play in the onset of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heart attacks can sometimes lead to acute pericarditis due to inflammation of the pericardium following damage to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a history of chest surgery increase the risk of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A history of chest surgery can increase the risk of acute pericarditis due to potential trauma to the pericardium during the surgical procedure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common causes of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of acute pericarditis include viral infections, autoimmune disorders, heart attacks, and certain medications. Treatment depends on the underlying cause.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications lead to acute pericarditis as a side effect?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, certain medications like procainamide and hydralazine can lead to acute pericarditis as a side effect. It's important to be aware of this potential risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can viral infections lead to acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, viral infections can lead to acute pericarditis. Common viruses like Coxsackie and influenza can trigger inflammation in the lining around the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does kidney disease contribute to acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Kidney disease can lead to uremia, causing inflammation in the pericardium. This can result in acute pericarditis due to the build-up of waste products in the body.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do autoimmune diseases contribute to the development of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Autoimmune diseases can lead to acute pericarditis by causing inflammation in the lining of the heart, triggering symptoms like chest pain and fever.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What impact does radiation therapy have on the risk of developing acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Radiation therapy can increase the risk of developing acute pericarditis by causing inflammation and damage to the pericardium, the protective sac around the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do heart attacks play in the onset of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heart attacks can sometimes lead to acute pericarditis due to inflammation of the pericardium following damage to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there genetic factors involved in the development of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, genetic factors can play a role in the development of acute pericarditis, although the exact genetic mechanisms are still being studied.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a history of chest surgery increase the risk of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A history of chest surgery can increase the risk of acute pericarditis due to potential trauma to the pericardium during the surgical procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help identify the underlying causes of acute pericarditis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses diagnostic tests like blood work, imaging studies, and electrocardiogram to identify the underlying causes of acute pericarditis.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can medications lead to acute pericarditis as a side effect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, certain medications like procainamide and hydralazine can lead to acute pericarditis as a side effect. It's important to be aware of this potential risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does kidney disease contribute to acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kidney disease can lead to uremia, causing inflammation in the pericardium. This can result in acute pericarditis due to the build-up of waste products in the body.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What impact does radiation therapy have on the risk of developing acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Radiation therapy can increase the risk of developing acute pericarditis by causing inflammation and damage to the pericardium, the protective sac around the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there genetic factors involved in the development of acute pericarditis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, genetic factors can play a role in the development of acute pericarditis, although the exact genetic mechanisms are still being studied.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -441,8 +413,6 @@
 
 
 
-        <h3>How does Medicover help identify the underlying causes of acute pericarditis?</h3>
-        <p>Medicover uses diagnostic tests like blood work, imaging studies, and electrocardiogram to identify the underlying causes of acute pericarditis.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is acute decompensated heart failure (ADHF)?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute decompensated heart failure (ADHF) is a sudden worsening of heart failure symptoms, leading to fluid buildup in the lungs or other parts of the body.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the current treatment options for acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Current treatment options for acute decompensated heart failure include diuretics, vasodilators, inotropes, and oxygen therapy to improve symptoms and cardiac function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does acute decompensated heart failure differ from other types of heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute decompensated heart failure is a sudden worsening of heart failure symptoms, requiring urgent medical attention, unlike chronic heart failure which is a long-term condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is acute decompensated heart failure diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acute decompensated heart failure is diagnosed through a combination of physical exams, medical history, blood tests, chest X-rays, and echocardiograms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What medications are used to treat acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications commonly used to treat acute decompensated heart failure include diuretics, vasodilators, inotropes, and beta-blockers to help improve heart function and reduce symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is acute decompensated heart failure (ADHF)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute decompensated heart failure (ADHF) is a sudden worsening of heart failure symptoms, leading to fluid buildup in the lungs or other parts of the body.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do lifestyle changes impact the treatment of acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as diet modifications, regular exercise, and managing stress can improve outcomes in acute decompensated heart failure treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the current treatment options for acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current treatment options for acute decompensated heart failure include diuretics, vasodilators, inotropes, and oxygen therapy to improve symptoms and cardiac function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in the management of acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in managing acute decompensated heart failure by providing advanced medical care, monitoring, and treatment options to stabilize and improve patients' conditions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does acute decompensated heart failure differ from other types of heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute decompensated heart failure is a sudden worsening of heart failure symptoms, requiring urgent medical attention, unlike chronic heart failure which is a long-term condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can patients manage symptoms of acute decompensated heart failure at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can manage symptoms of acute decompensated heart failure at home by following their treatment plan, monitoring weight, limiting salt intake, and contacting their healthcare provider for any concerning changes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acute decompensated heart failure diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acute decompensated heart failure is diagnosed through a combination of physical exams, medical history, blood tests, chest X-rays, and echocardiograms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the complications associated with untreated ADHF?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated ADHF can lead to worsening symptoms, fluid overload, organ damage, and increased risk of hospitalization or death. Early intervention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications are used to treat acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications commonly used to treat acute decompensated heart failure include diuretics, vasodilators, inotropes, and beta-blockers to help improve heart function and reduce symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective are the current approaches in treating acute decompensated heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Current approaches in treating acute decompensated heart failure are effective in managing symptoms and improving outcomes, but there is room for further advancements in treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do lifestyle changes impact the treatment of acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as diet modifications, regular exercise, and managing stress can improve outcomes in acute decompensated heart failure treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can patients manage symptoms of acute decompensated heart failure at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can manage symptoms of acute decompensated heart failure at home by following their treatment plan, monitoring weight, limiting salt intake, and contacting their healthcare provider for any concerning changes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the complications associated with untreated ADHF?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated ADHF can lead to worsening symptoms, fluid overload, organ damage, and increased risk of hospitalization or death. Early intervention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective are the current approaches in treating acute decompensated heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current approaches in treating acute decompensated heart failure are effective in managing symptoms and improving outcomes, but there is room for further advancements in treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -427,8 +399,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in the management of acute decompensated heart failure?</p>
 
 
 

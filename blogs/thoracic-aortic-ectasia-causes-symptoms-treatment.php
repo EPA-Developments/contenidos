@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is thoracic aortic ectasia and how does it affect the aorta?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic ectasia is a condition where the aorta becomes dilated or enlarged. This weakens the walls of the aorta, making it more prone to rupture or tearing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common causes of thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common causes of thoracic aortic ectasia include atherosclerosis, hypertension, connective tissue disorders, and genetic factors. Early detection is key for effective treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of thoracic aortic ectasia may include chest pain, shortness of breath, hoarseness, and difficulty swallowing. Early detection is crucial for proper treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is thoracic aortic ectasia diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic ectasia is diagnosed through imaging tests like CT scans, MRIs, or echocardiograms to visualize the aorta and identify any abnormalities.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatment options are available for thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for thoracic aortic ectasia may include monitoring, medication to manage blood pressure, and surgery in severe cases to repair or replace the weakened aortic wall.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is thoracic aortic ectasia and how does it affect the aorta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic ectasia is a condition where the aorta becomes dilated or enlarged. This weakens the walls of the aorta, making it more prone to rupture or tearing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does thoracic aortic ectasia differ from aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic ectasia involves a mild to moderate dilation of the aorta, whereas aortic aneurysms are more severe and involve a larger, potentially life-threatening bulge.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common causes of thoracic aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common causes of thoracic aortic ectasia include atherosclerosis, hypertension, connective tissue disorders, and genetic factors. Early detection is key for effective treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can thoracic aortic ectasia be managed without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, thoracic aortic ectasia can be managed without surgery through close monitoring, lifestyle changes, and medications to control blood pressure and reduce stress on the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of thoracic aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of thoracic aortic ectasia may include chest pain, shortness of breath, hoarseness, and difficulty swallowing. Early detection is crucial for proper treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated thoracic aortic ectasia can lead to aortic dissection, aneurysm formation, and potentially life-threatening complications. Early detection and management are crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is thoracic aortic ectasia diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic ectasia is diagnosed through imaging tests like CT scans, MRIs, or echocardiograms to visualize the aorta and identify any abnormalities.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover takes a comprehensive approach to treating thoracic aortic ectasia, focusing on managing blood pressure, monitoring for complications, and considering surgical intervention if necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatment options are available for thoracic aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for thoracic aortic ectasia may include monitoring, medication to manage blood pressure, and surgery in severe cases to repair or replace the weakened aortic wall.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage thoracic aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as maintaining a healthy weight, quitting smoking, and managing blood pressure can help manage thoracic aortic ectasia.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does thoracic aortic ectasia differ from aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic ectasia involves a mild to moderate dilation of the aorta, whereas aortic aneurysms are more severe and involve a larger, potentially life-threatening bulge.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can thoracic aortic ectasia be managed without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, thoracic aortic ectasia can be managed without surgery through close monitoring, lifestyle changes, and medications to control blood pressure and reduce stress on the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated thoracic aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated thoracic aortic ectasia can lead to aortic dissection, aneurysm formation, and potentially life-threatening complications. Early detection and management are crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage thoracic aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as maintaining a healthy weight, quitting smoking, and managing blood pressure can help manage thoracic aortic ectasia.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of thoracic aortic ectasia?</h3>
-        <p>Medicover takes a comprehensive approach to treating thoracic aortic ectasia, focusing on managing blood pressure, monitoring for complications, and considering surgical intervention if necessary.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of rheumatic fever in children?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of rheumatic fever in children include fever, joint pain, swelling, fatigue, and a rash. It's important to seek medical attention if you notice these signs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can parents manage the pain associated with rheumatic fever in their child?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Parents can manage their child's rheumatic fever pain with prescribed medications, rest, warm compresses, and gentle massages to alleviate discomfort.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can parents prevent the spread of streptococcal bacteria to other family members?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To prevent the spread of streptococcal bacteria to other family members, make sure the infected child finishes their prescribed antibiotics, practice good hygiene, and avoid sharing personal items.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the best ways to help a child recover from rheumatic fever at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best ways to help a child recover from rheumatic fever at home include ensuring they get plenty of rest, taking prescribed medications, staying hydrated, and following up with their healthcare provider as needed.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can a parent tell if their child needs medical attention for rheumatic fever symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If your child shows symptoms like fever, joint pain, chest pain, or shortness of breath, it's important to seek medical attention promptly for potential rheumatic fever.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of rheumatic fever in children?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of rheumatic fever in children include fever, joint pain, swelling, fatigue, and a rash. It's important to seek medical attention if you notice these signs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support parents in managing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover supports parents by providing comprehensive care plans, educational resources, and access to specialists to help manage rheumatic fever symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can parents manage the pain associated with rheumatic fever in their child?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parents can manage their child's rheumatic fever pain with prescribed medications, rest, warm compresses, and gentle massages to alleviate discomfort.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle adjustments can parents make to support their childâ€™s recovery from rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Parents can support their child's recovery from rheumatic fever by ensuring they follow a healthy diet, get enough rest, take prescribed medications, and attend all medical appointments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can parents prevent the spread of streptococcal bacteria to other family members?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent the spread of streptococcal bacteria to other family members, make sure the infected child finishes their prescribed antibiotics, practice good hygiene, and avoid sharing personal items.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can parents monitor their child for complications of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Parents can monitor their child for rheumatic fever complications by keeping an eye out for symptoms like chest pain, shortness of breath, or joint swelling, and seeking medical help promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the best ways to help a child recover from rheumatic fever at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best ways to help a child recover from rheumatic fever at home include ensuring they get plenty of rest, taking prescribed medications, staying hydrated, and following up with their healthcare provider as needed.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is rest and hydration for children with rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rest and hydration are crucial for children with rheumatic fever to help their bodies recover and reduce inflammation. Make sure they get plenty of rest and drink lots of water.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can a parent tell if their child needs medical attention for rheumatic fever symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your child shows symptoms like fever, joint pain, chest pain, or shortness of breath, it's important to seek medical attention promptly for potential rheumatic fever.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What emotional support may a child need during recovery from rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A child recovering from rheumatic fever may need reassurance, patience, and understanding from loved ones to help them cope with the physical and emotional challenges.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What lifestyle adjustments can parents make to support their childâ€™s recovery from rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parents can support their child's recovery from rheumatic fever by ensuring they follow a healthy diet, get enough rest, take prescribed medications, and attend all medical appointments.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can parents monitor their child for complications of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parents can monitor their child for rheumatic fever complications by keeping an eye out for symptoms like chest pain, shortness of breath, or joint swelling, and seeking medical help promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is rest and hydration for children with rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rest and hydration are crucial for children with rheumatic fever to help their bodies recover and reduce inflammation. Make sure they get plenty of rest and drink lots of water.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What emotional support may a child need during recovery from rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A child recovering from rheumatic fever may need reassurance, patience, and understanding from loved ones to help them cope with the physical and emotional challenges.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -429,8 +401,6 @@
 
 
 
-        <h3>How does Medicover support parents in managing rheumatic fever?</h3>
-        <p>Medicover supports parents by providing comprehensive care plans, educational resources, and access to specialists to help manage rheumatic fever symptoms effectively.</p>
 
 
 

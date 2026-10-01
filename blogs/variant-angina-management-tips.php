@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is variant angina and how does it affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina is a type of chest pain caused by a sudden spasm in the coronary arteries, leading to reduced blood flow to the heart. It can be managed with medications and lifestyle changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is variant angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina is diagnosed through a combination of symptoms, ECG, stress tests, and coronary angiography to assess blood flow in the heart's arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What triggers variant angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina symptoms are triggered by spasms in the coronary arteries, often due to stress, cold weather, or certain medications. Managing it involves medications and lifestyle changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is variant angina different from stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina is caused by a coronary artery spasm, while stable angina is due to narrowed arteries. Variant angina is less predictable and often occurs at rest. Treatment includes medications to relax the arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for managing variant angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatments for variant angina include medications like calcium channel blockers, nitrates, and lifestyle changes like quitting smoking and managing stress.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is variant angina and how does it affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina is a type of chest pain caused by a sudden spasm in the coronary arteries, leading to reduced blood flow to the heart. It can be managed with medications and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help manage variant angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, managing stress, and staying active can help manage variant angina by reducing triggers and improving overall heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is variant angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina is diagnosed through a combination of symptoms, ECG, stress tests, and coronary angiography to assess blood flow in the heart's arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat variant angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats variant angina with medications like calcium channel blockers and nitrates to help relax and widen the blood vessels, improving blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What triggers variant angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina symptoms are triggered by spasms in the coronary arteries, often due to stress, cold weather, or certain medications. Managing it involves medications and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What medications are used to manage variant angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Calcium channel blockers like diltiazem or verapamil are commonly used to manage variant angina by relaxing the blood vessels and reducing chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is variant angina different from stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina is caused by a coronary artery spasm, while stable angina is due to narrowed arteries. Variant angina is less predictable and often occurs at rest. Treatment includes medications to relax the arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can variant angina be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Variant angina cannot be completely prevented, but certain lifestyle changes and medications can help manage the condition and reduce the frequency of angina episodes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for managing variant angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatments for variant angina include medications like calcium channel blockers, nitrates, and lifestyle changes like quitting smoking and managing stress.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated variant angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of untreated variant angina include increased risk of heart attack, heart failure, and potentially life-threatening arrhythmias. It's crucial to seek medical attention for proper management.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can lifestyle changes help manage variant angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, managing stress, and staying active can help manage variant angina by reducing triggers and improving overall heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What medications are used to manage variant angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calcium channel blockers like diltiazem or verapamil are commonly used to manage variant angina by relaxing the blood vessels and reducing chest pain.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can variant angina be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Variant angina cannot be completely prevented, but certain lifestyle changes and medications can help manage the condition and reduce the frequency of angina episodes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated variant angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of untreated variant angina include increased risk of heart attack, heart failure, and potentially life-threatening arrhythmias. It's crucial to seek medical attention for proper management.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -460,8 +432,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover treat variant angina?</p>
 
 
 

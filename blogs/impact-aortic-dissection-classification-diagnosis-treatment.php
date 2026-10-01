@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the different types of aortic dissection and how are they classified?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "There are two types of aortic dissection: Stanford Type A involves the ascending aorta, while Type B involves the descending aorta. This classification guides treatment decisions.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does classification impact treatment decisions for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Classification of aortic dissection (Stanford Type A or B) guides treatment decisions - Type A often requires surgery, while Type B may be managed medically.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of imaging in classifying aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Imaging plays a crucial role in classifying aortic dissection by providing detailed visualization of the aorta, aiding in accurate diagnosis and treatment decisions.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the type of aortic dissection affect prognosis?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The type of aortic dissection, whether Stanford Type A or Type B, significantly impacts prognosis. Type A dissections have a higher risk of complications and require immediate surgical intervention. Type B dissections can often be managed with medication and close monitoring.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the differences between type A and type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Type A aortic dissection involves the ascending aorta and requires immediate surgery. Type B dissection affects the descending aorta and may be treated with medication or minimally invasive procedures.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of aortic dissection and how are they classified?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are two types of aortic dissection: Stanford Type A involves the ascending aorta, while Type B involves the descending aorta. This classification guides treatment decisions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors determine the best treatment for aortic dissection based on its classification?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors determine treatment based on aortic dissection classification by considering factors like location, severity, and presence of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does classification impact treatment decisions for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Classification of aortic dissection (Stanford Type A or B) guides treatment decisions - Type A often requires surgery, while Type B may be managed medically.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients in understanding their aortic dissection classification?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides clear explanations and educational materials to help patients understand their aortic dissection classification, aiding in informed decision-making for treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of imaging in classifying aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Imaging plays a crucial role in classifying aortic dissection by providing detailed visualization of the aorta, aiding in accurate diagnosis and treatment decisions.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for type A vs. type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for type A aortic dissection typically involve surgery, while type B dissections can often be managed with medications and close monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does the type of aortic dissection affect prognosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The type of aortic dissection, whether Stanford Type A or Type B, significantly impacts prognosis. Type A dissections have a higher risk of complications and require immediate surgical intervention. Type B dissections can often be managed with medication and close monitoring.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aortic dissection classification affect surgery outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection classification helps determine severity and guide treatment decisions, impacting surgery outcomes by ensuring appropriate interventions are chosen for each patient.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the differences between type A and type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type A aortic dissection involves the ascending aorta and requires immediate surgery. Type B dissection affects the descending aorta and may be treated with medication or minimally invasive procedures.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic dissection classification change during treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic dissection classification can change during treatment based on imaging tests and patient response to therapy. This may impact treatment decisions.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do doctors determine the best treatment for aortic dissection based on its classification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors determine treatment based on aortic dissection classification by considering factors like location, severity, and presence of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatment options are available for type A vs. type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for type A aortic dissection typically involve surgery, while type B dissections can often be managed with medications and close monitoring.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does aortic dissection classification affect surgery outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection classification helps determine severity and guide treatment decisions, impacting surgery outcomes by ensuring appropriate interventions are chosen for each patient.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic dissection classification change during treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic dissection classification can change during treatment based on imaging tests and patient response to therapy. This may impact treatment decisions.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -436,8 +408,6 @@
 
 
 
-        <h3>How does Medicover support patients in understanding their aortic dissection classification?</h3>
-        <p>Medicover provides clear explanations and educational materials to help patients understand their aortic dissection classification, aiding in informed decision-making for treatment.</p>
 
 
 

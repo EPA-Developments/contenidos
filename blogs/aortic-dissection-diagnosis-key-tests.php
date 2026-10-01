@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the diagnostic tests used to detect aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diagnostic tests for aortic dissection include CT scans, MRIs, echocardiograms, and aortic angiograms. These tests help doctors accurately diagnose the condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does a CT scan help diagnose aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A CT scan can help diagnose aortic dissection by providing detailed images of the aorta, allowing doctors to identify any tears or abnormalities in the blood vessel.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does MRI play in diagnosing aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "MRI is helpful in diagnosing aortic dissection by providing detailed images of the aorta and surrounding structures, aiding in accurate and timely diagnosis.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood tests used in the diagnosis of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood tests can help diagnose aortic dissection by looking for markers of heart damage, such as elevated levels of cardiac enzymes like troponin.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an ultrasound used to diagnose aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ultrasound, also known as an echocardiogram, is used to visualize the aorta and detect any tears or abnormalities that may indicate an aortic dissection.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the diagnostic tests used to detect aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diagnostic tests for aortic dissection include CT scans, MRIs, echocardiograms, and aortic angiograms. These tests help doctors accurately diagnose the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover use advanced diagnostic tools to detect aortic dissection early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced imaging techniques like CT scans and MRI to quickly and accurately diagnose aortic dissection, allowing for early detection and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does a CT scan help diagnose aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A CT scan can help diagnose aortic dissection by providing detailed images of the aorta, allowing doctors to identify any tears or abnormalities in the blood vessel.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How quickly must an aortic dissection diagnosis be made?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic dissection diagnosis must be made promptly within minutes to hours as it is a life-threatening emergency that requires immediate medical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does MRI play in diagnosing aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MRI is helpful in diagnosing aortic dissection by providing detailed images of the aorta and surrounding structures, aiding in accurate and timely diagnosis.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic dissection be diagnosed through routine screening?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection cannot be diagnosed through routine screening. It typically requires specific tests such as CT scans, MRIs, or echocardiograms for an accurate diagnosis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood tests used in the diagnosis of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood tests can help diagnose aortic dissection by looking for markers of heart damage, such as elevated levels of cardiac enzymes like troponin.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of delayed diagnosis of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Delayed diagnosis of aortic dissection can lead to life-threatening complications like organ damage, stroke, or even death. Immediate medical attention is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an ultrasound used to diagnose aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ultrasound, also known as an echocardiogram, is used to visualize the aorta and detect any tears or abnormalities that may indicate an aortic dissection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does accurate diagnosis impact the treatment outcomes for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Accurate diagnosis of aortic dissection is crucial for effective treatment outcomes. Key tests like CT scans and echocardiograms help in prompt and precise identification.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How quickly must an aortic dissection diagnosis be made?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic dissection diagnosis must be made promptly within minutes to hours as it is a life-threatening emergency that requires immediate medical intervention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic dissection be diagnosed through routine screening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection cannot be diagnosed through routine screening. It typically requires specific tests such as CT scans, MRIs, or echocardiograms for an accurate diagnosis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of delayed diagnosis of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delayed diagnosis of aortic dissection can lead to life-threatening complications like organ damage, stroke, or even death. Immediate medical attention is crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does accurate diagnosis impact the treatment outcomes for aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Accurate diagnosis of aortic dissection is crucial for effective treatment outcomes. Key tests like CT scans and echocardiograms help in prompt and precise identification.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -394,8 +366,6 @@
 
 
 
-        <h3>How does Medicover use advanced diagnostic tools to detect aortic dissection early?</h3>
-        <p>Medicover uses advanced imaging techniques like CT scans and MRI to quickly and accurately diagnose aortic dissection, allowing for early detection and treatment.</p>
 
 
 

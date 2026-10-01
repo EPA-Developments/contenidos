@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does strep throat lead to rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Strep throat can trigger an autoimmune response in the body, leading to rheumatic fever, which can cause inflammation in the heart, joints, and other tissues.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can everyone with strep throat develop rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not everyone with strep throat will develop rheumatic fever. It is more common in children, especially if the strep throat is not promptly treated with antibiotics.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why does strep throat trigger an autoimmune response in some people?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Strep throat triggers an autoimmune response in some individuals because the bacteria that cause strep throat mimic proteins found in the body, leading to the immune system attacking its own tissues.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can treating strep throat prevent rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treating strep throat with antibiotics can prevent the spread of the infection to the heart and other organs, reducing the risk of developing rheumatic fever.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the signs that strep throat has led to rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs that strep throat has led to rheumatic fever include joint pain, fever, skin rash, and heart problems. Seek medical help if you experience these symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does strep throat lead to rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strep throat can trigger an autoimmune response in the body, leading to rheumatic fever, which can cause inflammation in the heart, joints, and other tissues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How soon after strep throat can rheumatic fever develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Rheumatic fever can develop 2-4 weeks after untreated strep throat. It is important to seek prompt treatment to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can everyone with strep throat develop rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not everyone with strep throat will develop rheumatic fever. It is more common in children, especially if the strep throat is not promptly treated with antibiotics.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the relationship between untreated strep throat and the development of heart problems?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated strep throat can lead to rheumatic fever, a serious inflammatory condition that can cause heart problems like damage to heart valves.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why does strep throat trigger an autoimmune response in some people?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strep throat triggers an autoimmune response in some individuals because the bacteria that cause strep throat mimic proteins found in the body, leading to the immune system attacking its own tissues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage strep throat to prevent rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages strep throat by promptly diagnosing and treating it with antibiotics to prevent rheumatic fever, a serious complication.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can treating strep throat prevent rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treating strep throat with antibiotics can prevent the spread of the infection to the heart and other organs, reducing the risk of developing rheumatic fever.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should be done if a child has recurring strep throat infections?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Consult with a pediatrician to discuss possible treatment options, such as long-term antibiotics or a tonsillectomy, to prevent recurring strep throat infections and reduce the risk of rheumatic fever.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs that strep throat has led to rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that strep throat has led to rheumatic fever include joint pain, fever, skin rash, and heart problems. Seek medical help if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can strep throat be properly diagnosed and treated to avoid rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Strep throat can be diagnosed by a throat swab test and treated with antibiotics to prevent rheumatic fever. Early detection and treatment are crucial.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How soon after strep throat can rheumatic fever develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rheumatic fever can develop 2-4 weeks after untreated strep throat. It is important to seek prompt treatment to prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the relationship between untreated strep throat and the development of heart problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated strep throat can lead to rheumatic fever, a serious inflammatory condition that can cause heart problems like damage to heart valves.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should be done if a child has recurring strep throat infections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consult with a pediatrician to discuss possible treatment options, such as long-term antibiotics or a tonsillectomy, to prevent recurring strep throat infections and reduce the risk of rheumatic fever.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can strep throat be properly diagnosed and treated to avoid rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strep throat can be diagnosed by a throat swab test and treated with antibiotics to prevent rheumatic fever. Early detection and treatment are crucial.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -437,8 +409,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover manage strep throat to prevent rheumatic fever?</p>
 
 
 

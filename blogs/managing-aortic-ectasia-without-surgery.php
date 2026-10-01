@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is surgery always necessary for aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is not always necessary for aortic ectasia. Management can include medications, lifestyle changes, and regular monitoring by a healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the nonsurgical options for managing aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nonsurgical options for managing aortic ectasia include blood pressure control, monitoring, and lifestyle changes like regular exercise and a heart-healthy diet.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can lifestyle changes help prevent aortic ectasia from worsening?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, managing blood pressure, and regular exercise can help prevent aortic ectasia from worsening without surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does medication play a role in managing aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication can help manage symptoms and reduce the risk of complications in aortic ectasia, but surgery may still be needed in some cases for optimal treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What monitoring is needed for patients with aortic ectasia who don't undergo surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with aortic ectasia who don't undergo surgery should be monitored regularly with imaging tests like CT scans or MRIs to track any changes in the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is surgery always necessary for aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is not always necessary for aortic ectasia. Management can include medications, lifestyle changes, and regular monitoring by a healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is medical management in preventing complications from aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medical management can be effective in preventing complications from aortic ectasia by managing risk factors, controlling blood pressure, and close monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the nonsurgical options for managing aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nonsurgical options for managing aortic ectasia include blood pressure control, monitoring, and lifestyle changes like regular exercise and a heart-healthy diet.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of choosing nonsurgical management for aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of choosing nonsurgical management for aortic ectasia include aneurysm rupture, dissection, or sudden enlargement, leading to potentially life-threatening complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can lifestyle changes help prevent aortic ectasia from worsening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, managing blood pressure, and regular exercise can help prevent aortic ectasia from worsening without surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach a nonsurgical treatment plan for aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches aortic ectasia with nonsurgical treatments like medication, lifestyle changes, and regular monitoring to manage the condition effectively without surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does medication play a role in managing aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication can help manage symptoms and reduce the risk of complications in aortic ectasia, but surgery may still be needed in some cases for optimal treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should surgery be considered for aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery should be considered for aortic ectasia if the aneurysm becomes large or symptoms develop. Otherwise, it can be managed without surgery with close monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What monitoring is needed for patients with aortic ectasia who don't undergo surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with aortic ectasia who don't undergo surgery should be monitored regularly with imaging tests like CT scans or MRIs to track any changes in the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential benefits of early intervention without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention without surgery for aortic ectasia can help manage symptoms, prevent complications, and improve overall quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How effective is medical management in preventing complications from aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical management can be effective in preventing complications from aortic ectasia by managing risk factors, controlling blood pressure, and close monitoring.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of choosing nonsurgical management for aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of choosing nonsurgical management for aortic ectasia include aneurysm rupture, dissection, or sudden enlargement, leading to potentially life-threatening complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should surgery be considered for aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery should be considered for aortic ectasia if the aneurysm becomes large or symptoms develop. Otherwise, it can be managed without surgery with close monitoring.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential benefits of early intervention without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention without surgery for aortic ectasia can help manage symptoms, prevent complications, and improve overall quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -413,8 +385,6 @@
 
 
 
-        <h3>How does Medicover approach a nonsurgical treatment plan for aortic ectasia?</h3>
-        <p>Medicover approaches aortic ectasia with nonsurgical treatments like medication, lifestyle changes, and regular monitoring to manage the condition effectively without surgery.</p>
 
 
 

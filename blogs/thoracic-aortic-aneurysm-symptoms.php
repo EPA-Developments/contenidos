@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the warning signs of a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Warning signs of a thoracic aortic aneurysm include chest or back pain, shortness of breath, hoarseness, coughing, difficulty swallowing, and pulsating in the abdomen.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you tell if you have a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You can tell if you have a thoracic aortic aneurysm by watching out for symptoms like chest or back pain, shortness of breath, and coughing up blood.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of a thoracic aortic aneurysm include chest or back pain, shortness of breath, hoarseness, coughing, and difficulty swallowing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do thoracic aortic aneurysm symptoms differ in men and women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic aneurysm symptoms can be similar in men and women, but women may experience more back or jaw pain, while men may have chest or abdominal pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can chest pain be a symptom of a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, chest pain can be a symptom of a thoracic aortic aneurysm. It is important to seek medical attention if you experience this symptom.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the warning signs of a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warning signs of a thoracic aortic aneurysm include chest or back pain, shortness of breath, hoarseness, coughing, difficulty swallowing, and pulsating in the abdomen.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you do if you suspect you have a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect you have a thoracic aortic aneurysm, seek immediate medical attention. Symptoms can be life-threatening and require prompt evaluation and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you tell if you have a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can tell if you have a thoracic aortic aneurysm by watching out for symptoms like chest or back pain, shortness of breath, and coughing up blood.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover detect thoracic aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover typically detects thoracic aortic aneurysms through imaging tests such as CT scans, MRIs, or ultrasounds to assess the size and location of the aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of a thoracic aortic aneurysm include chest or back pain, shortness of breath, hoarseness, coughing, and difficulty swallowing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is there a way to catch a thoracic aortic aneurysm early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, regular screenings and imaging tests can help catch a thoracic aortic aneurysm early before symptoms appear. Early detection is key for treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do thoracic aortic aneurysm symptoms differ in men and women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic aneurysm symptoms can be similar in men and women, but women may experience more back or jaw pain, while men may have chest or abdominal pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How urgent is it to seek treatment for a thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It is crucial to seek immediate treatment for a thoracic aortic aneurysm as it can be life-threatening if left untreated. Don't ignore any symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can chest pain be a symptom of a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, chest pain can be a symptom of a thoracic aortic aneurysm. It is important to seek medical attention if you experience this symptom.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes of untreated thoracic aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated thoracic aortic aneurysm can lead to serious complications like aortic dissection or rupture, which can be life-threatening if not addressed promptly.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What should you do if you suspect you have a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect you have a thoracic aortic aneurysm, seek immediate medical attention. Symptoms can be life-threatening and require prompt evaluation and treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a way to catch a thoracic aortic aneurysm early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, regular screenings and imaging tests can help catch a thoracic aortic aneurysm early before symptoms appear. Early detection is key for treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How urgent is it to seek treatment for a thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is crucial to seek immediate treatment for a thoracic aortic aneurysm as it can be life-threatening if left untreated. Don't ignore any symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes of untreated thoracic aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated thoracic aortic aneurysm can lead to serious complications like aortic dissection or rupture, which can be life-threatening if not addressed promptly.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -450,8 +422,6 @@
 
 
 
-        <h3>How does Medicover detect thoracic aortic aneurysms?</h3>
-        <p>Medicover typically detects thoracic aortic aneurysms through imaging tests such as CT scans, MRIs, or ultrasounds to assess the size and location of the aneurysm.</p>
 
 
 

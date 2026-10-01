@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina pectoris is caused by reduced blood flow to the heart muscle due to narrowed arteries. Prevent it by managing risk factors like high cholesterol and blood pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do blocked arteries contribute to angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blocked arteries restrict blood flow to the heart, causing reduced oxygen supply. This leads to chest pain or discomfort known as angina pectoris. Preventive measures include a healthy lifestyle and managing risk factors.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can angina pectoris be caused by high blood pressure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, high blood pressure can contribute to angina pectoris by putting extra strain on the heart. Managing blood pressure through lifestyle changes can help prevent it.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does cholesterol affect the development of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High cholesterol can lead to plaque buildup in arteries, causing them to narrow and restrict blood flow to the heart, increasing the risk of angina pectoris. Reduce cholesterol for prevention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can smoking lead to angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, smoking can lead to angina pectoris by causing a buildup of plaque in the arteries, reducing blood flow to the heart. Quitting smoking can help prevent it.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina pectoris is caused by reduced blood flow to the heart muscle due to narrowed arteries. Prevent it by managing risk factors like high cholesterol and blood pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does a family history of heart disease increase the risk of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A family history of heart disease increases the risk of angina pectoris due to genetic predisposition to conditions like high blood pressure and cholesterol levels.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do blocked arteries contribute to angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blocked arteries restrict blood flow to the heart, causing reduced oxygen supply. This leads to chest pain or discomfort known as angina pectoris. Preventive measures include a healthy lifestyle and managing risk factors.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive measures can be taken to reduce the risk of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To reduce the risk of angina pectoris, you can quit smoking, maintain a healthy weight, exercise regularly, eat a balanced diet, and manage stress effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina pectoris be caused by high blood pressure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, high blood pressure can contribute to angina pectoris by putting extra strain on the heart. Managing blood pressure through lifestyle changes can help prevent it.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is regular exercise in preventing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular exercise is crucial in preventing angina pectoris as it helps improve heart health, reduce cholesterol levels, and maintain a healthy weight.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does cholesterol affect the development of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High cholesterol can lead to plaque buildup in arteries, causing them to narrow and restrict blood flow to the heart, increasing the risk of angina pectoris. Reduce cholesterol for prevention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in the prevention of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in preventing angina pectoris through regular check-ups, lifestyle modifications, medication management, and providing education on heart-healthy habits.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can smoking lead to angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, smoking can lead to angina pectoris by causing a buildup of plaque in the arteries, reducing blood flow to the heart. Quitting smoking can help prevent it.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there medications that can help prevent angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications such as beta blockers, nitrates, and calcium channel blockers can help prevent angina pectoris by improving blood flow and reducing heart strain.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does a family history of heart disease increase the risk of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A family history of heart disease increases the risk of angina pectoris due to genetic predisposition to conditions like high blood pressure and cholesterol levels.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive measures can be taken to reduce the risk of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To reduce the risk of angina pectoris, you can quit smoking, maintain a healthy weight, exercise regularly, eat a balanced diet, and manage stress effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is regular exercise in preventing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular exercise is crucial in preventing angina pectoris as it helps improve heart health, reduce cholesterol levels, and maintain a healthy weight.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there medications that can help prevent angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications such as beta blockers, nitrates, and calcium channel blockers can help prevent angina pectoris by improving blood flow and reducing heart strain.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -482,8 +454,6 @@
 
 
 
-        <h3>How can Medicover assist in the prevention of angina pectoris?</h3>
-        <p>Medicover can assist in preventing angina pectoris through regular check-ups, lifestyle modifications, medication management, and providing education on heart-healthy habits.</p>
 
 
 

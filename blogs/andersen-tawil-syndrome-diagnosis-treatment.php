@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "AndersenTawil syndrome is a rare genetic disorder that affects the heart, muscles, and development. It can be diagnosed through genetic testing and managed with medications and lifestyle changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does AndersenTawil syndrome affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "AndersenTawil syndrome affects the body by causing episodes of muscle weakness, cardiac arrhythmias, and characteristic physical features. Treatment may involve managing symptoms and monitoring heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of Andersen-Tawil syndrome include periodic paralysis, cardiac arrhythmias, and physical abnormalities like low-set ears and a small lower jaw.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is AndersenTawil syndrome diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "AndersenTawil syndrome is diagnosed through genetic testing, EKG, and physical examination to confirm symptoms like periodic paralysis and heart arrhythmias.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "AndersenTawil syndrome is caused by genetic mutations affecting potassium ion channels in the heart, leading to abnormal heart rhythms and muscle weakness.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AndersenTawil syndrome is a rare genetic disorder that affects the heart, muscles, and development. It can be diagnosed through genetic testing and managed with medications and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What genetic factors contribute to AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Genetic factors contributing to Andersen-Tawil syndrome include mutations in the KCNJ2 gene, impacting the function of potassium channels in the heart and muscles.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does AndersenTawil syndrome affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AndersenTawil syndrome affects the body by causing episodes of muscle weakness, cardiac arrhythmias, and characteristic physical features. Treatment may involve managing symptoms and monitoring heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does AndersenTawil syndrome impact heart rhythm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "AndersenTawil syndrome can cause irregular heart rhythms, known as arrhythmias, which can lead to palpitations, fainting spells, and potentially life-threatening complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of Andersen-Tawil syndrome include periodic paralysis, cardiac arrhythmias, and physical abnormalities like low-set ears and a small lower jaw.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for AndersenTawil syndrome may include medication to manage symptoms, physical therapy, and lifestyle modifications to reduce the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is AndersenTawil syndrome diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AndersenTawil syndrome is diagnosed through genetic testing, EKG, and physical examination to confirm symptoms like periodic paralysis and heart arrhythmias.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in the diagnosis and management of AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in diagnosing AndersenTawil syndrome through genetic testing and provide specialized treatment plans to manage symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AndersenTawil syndrome is caused by genetic mutations affecting potassium ion channels in the heart, leading to abnormal heart rhythms and muscle weakness.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the longterm outlook for individuals with AndersenTawil syndrome?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The long-term outlook for individuals with Andersen-Tawil syndrome varies depending on the severity of symptoms. Regular monitoring and management can help improve quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What genetic factors contribute to AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genetic factors contributing to Andersen-Tawil syndrome include mutations in the KCNJ2 gene, impacting the function of potassium channels in the heart and muscles.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does AndersenTawil syndrome impact heart rhythm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AndersenTawil syndrome can cause irregular heart rhythms, known as arrhythmias, which can lead to palpitations, fainting spells, and potentially life-threatening complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for AndersenTawil syndrome may include medication to manage symptoms, physical therapy, and lifestyle modifications to reduce the risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the longterm outlook for individuals with AndersenTawil syndrome?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The long-term outlook for individuals with Andersen-Tawil syndrome varies depending on the severity of symptoms. Regular monitoring and management can help improve quality of life.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -438,8 +410,6 @@
 
 
 
-        <h3>How can Medicover help in the diagnosis and management of AndersenTawil syndrome?</h3>
-        <p>Medicover can assist in diagnosing AndersenTawil syndrome through genetic testing and provide specialized treatment plans to manage symptoms effectively.</p>
 
 
 

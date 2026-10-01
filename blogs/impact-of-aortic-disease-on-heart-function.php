@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does aortic disease impact heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can impact heart function by causing the aorta to become enlarged, rupture, or become blocked, leading to decreased blood flow and potential heart damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the consequences of untreated aortic disease on the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic disease can lead to serious complications like heart failure, aortic aneurysm, and even sudden cardiac death, impacting overall heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can aortic disease lead to heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can lead to heart failure by causing the heart to work harder to pump blood through the narrowed or weakened aorta, eventually leading to strain and reduced cardiac function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of aortic disease that affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of aortic disease affecting heart function include chest pain, shortness of breath, fatigue, palpitations, dizziness, and fainting.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic disease diagnosed and treated in relation to heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease is diagnosed through imaging tests like echocardiograms and treated with medications or surgery to improve heart function and prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic disease impact heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can impact heart function by causing the aorta to become enlarged, rupture, or become blocked, leading to decreased blood flow and potential heart damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic disease lead to stroke or other complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic disease can lead to stroke and other complications by causing blood clots or weakening the aortic wall, increasing the risk of serious cardiovascular events.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the consequences of untreated aortic disease on the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic disease can lead to serious complications like heart failure, aortic aneurysm, and even sudden cardiac death, impacting overall heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of aortic disease to protect heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced techniques like minimally invasive surgery and medications to treat aortic disease and safeguard heart health effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can aortic disease lead to heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can lead to heart failure by causing the heart to work harder to pump blood through the narrowed or weakened aorta, eventually leading to strain and reduced cardiac function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is the prognosis of heart function affected by aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic disease can impair heart function by causing increased pressure on the heart, leading to potential complications like heart failure or arrhythmias.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of aortic disease that affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of aortic disease affecting heart function include chest pain, shortness of breath, fatigue, palpitations, dizziness, and fainting.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle modifications can improve heart function in those with aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy diet, staying physically active, managing stress, and avoiding smoking can improve heart function in those with aortic disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic disease diagnosed and treated in relation to heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease is diagnosed through imaging tests like echocardiograms and treated with medications or surgery to improve heart function and prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is surgery used to restore normal heart function in patients with aortic disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for aortic disease can involve repairing or replacing the damaged aortic valve or aorta to restore normal heart function and improve blood flow.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can aortic disease lead to stroke or other complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic disease can lead to stroke and other complications by causing blood clots or weakening the aortic wall, increasing the risk of serious cardiovascular events.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the prognosis of heart function affected by aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic disease can impair heart function by causing increased pressure on the heart, leading to potential complications like heart failure or arrhythmias.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle modifications can improve heart function in those with aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy diet, staying physically active, managing stress, and avoiding smoking can improve heart function in those with aortic disease.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is surgery used to restore normal heart function in patients with aortic disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for aortic disease can involve repairing or replacing the damaged aortic valve or aorta to restore normal heart function and improve blood flow.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of aortic disease to protect heart health?</h3>
-        <p>Medicover uses advanced techniques like minimally invasive surgery and medications to treat aortic disease and safeguard heart health effectively.</p>
 
 
 

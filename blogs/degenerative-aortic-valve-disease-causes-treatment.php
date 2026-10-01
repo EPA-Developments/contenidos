@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Degenerative aortic valve disease is caused by wear and tear over time, leading to thickening and hardening of the valve leaflets, restricting blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aging contribute to degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aging causes wear and tear on the aortic valve, leading to degeneration. Over time, the valve becomes stiff and narrowed, hindering blood flow.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of degenerative aortic valve disease include chest pain, shortness of breath, fatigue, dizziness, and heart palpitations. Treatment may involve medication or surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is degenerative aortic valve disease treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Degenerative aortic valve disease is treated with medications to manage symptoms and surgery to repair or replace the damaged valve, depending on severity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What surgical options are available for degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options for degenerative aortic valve disease include valve repair or replacement, with options like TAVR or open-heart surgery depending on severity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Degenerative aortic valve disease is caused by wear and tear over time, leading to thickening and hardening of the valve leaflets, restricting blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can degenerative aortic valve disease be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventing degenerative aortic valve disease involves maintaining a healthy lifestyle, managing risk factors like high blood pressure and cholesterol, and seeking regular medical check-ups for early detection and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aging contribute to degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aging causes wear and tear on the aortic valve, leading to degeneration. Over time, the valve becomes stiff and narrowed, hindering blood flow.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can degenerative aortic valve disease lead to heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, degenerative aortic valve disease can lead to heart failure if left untreated. It can cause the heart to work harder, leading to eventual weakening and failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of degenerative aortic valve disease include chest pain, shortness of breath, fatigue, dizziness, and heart palpitations. Treatment may involve medication or surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do doctors diagnose degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors diagnose degenerative aortic valve disease through physical exams, imaging tests like echocardiograms, and monitoring symptoms like chest pain and shortness of breath.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is degenerative aortic valve disease treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Degenerative aortic valve disease is treated with medications to manage symptoms and surgery to repair or replace the damaged valve, depending on severity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients with degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover supports patients with degenerative aortic valve disease through comprehensive diagnosis, personalized treatment plans, and ongoing care to improve quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What surgical options are available for degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options for degenerative aortic valve disease include valve repair or replacement, with options like TAVR or open-heart surgery depending on severity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help manage degenerative aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like regular exercise, a heart-healthy diet, avoiding tobacco, and managing stress can help manage degenerative aortic valve disease.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can degenerative aortic valve disease be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing degenerative aortic valve disease involves maintaining a healthy lifestyle, managing risk factors like high blood pressure and cholesterol, and seeking regular medical check-ups for early detection and treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can degenerative aortic valve disease lead to heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, degenerative aortic valve disease can lead to heart failure if left untreated. It can cause the heart to work harder, leading to eventual weakening and failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do doctors diagnose degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors diagnose degenerative aortic valve disease through physical exams, imaging tests like echocardiograms, and monitoring symptoms like chest pain and shortness of breath.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage degenerative aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like regular exercise, a heart-healthy diet, avoiding tobacco, and managing stress can help manage degenerative aortic valve disease.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -450,8 +422,6 @@
 
 
 
-        <h3>How does Medicover support patients with degenerative aortic valve disease?</h3>
-        <p>Medicover supports patients with degenerative aortic valve disease through comprehensive diagnosis, personalized treatment plans, and ongoing care to improve quality of life.</p>
 
 
 

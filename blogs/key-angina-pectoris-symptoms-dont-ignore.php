@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The key symptoms of angina pectoris include chest pain or discomfort, shortness of breath, fatigue, and nausea. These should not be ignored as they may indicate a serious heart condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does chest pain indicate angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain in angina pectoris is typically described as a pressure, tightness, or squeezing sensation that may radiate to the arms, neck, or jaw.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the warning signs of a heart attack linked to angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Warning signs of a heart attack linked to angina pectoris include chest pain or discomfort, shortness of breath, fatigue, and nausea. Take these symptoms seriously.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is shortness of breath always present with angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shortness of breath may occur with angina pectoris, but not always. Other key symptoms include chest pain, pressure, tightness, or discomfort.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do the symptoms of angina pectoris differ in men and women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of angina pectoris may differ in men and women. Men typically experience chest pain, while women may have atypical symptoms like shortness of breath or nausea.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The key symptoms of angina pectoris include chest pain or discomfort, shortness of breath, fatigue, and nausea. These should not be ignored as they may indicate a serious heart condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can stress trigger symptoms of angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, stress can trigger symptoms of angina pectoris by causing the heart to work harder and increasing demand for oxygen, leading to chest pain or discomfort.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does chest pain indicate angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain in angina pectoris is typically described as a pressure, tightness, or squeezing sensation that may radiate to the arms, neck, or jaw.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help in diagnosing and treating angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can assist in diagnosing angina pectoris through comprehensive tests like ECGs and stress tests, followed by providing personalized treatment plans for managing the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the warning signs of a heart attack linked to angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Warning signs of a heart attack linked to angina pectoris include chest pain or discomfort, shortness of breath, fatigue, and nausea. Take these symptoms seriously.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should you seek emergency care for angina pectoris symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Seek emergency care for angina pectoris symptoms if you experience sudden, severe chest pain that lasts longer than a few minutes or is accompanied by shortness of breath, sweating, or nausea.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Is shortness of breath always present with angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shortness of breath may occur with angina pectoris, but not always. Other key symptoms include chest pain, pressure, tightness, or discomfort.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications if angina pectoris is left untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential complications of untreated angina pectoris include heart attack, heart failure, and even death. It is crucial to seek medical attention if experiencing symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do the symptoms of angina pectoris differ in men and women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of angina pectoris may differ in men and women. Men typically experience chest pain, while women may have atypical symptoms like shortness of breath or nausea.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes help alleviate angina pectoris symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking prescribed medications can help alleviate angina pectoris symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can stress trigger symptoms of angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, stress can trigger symptoms of angina pectoris by causing the heart to work harder and increasing demand for oxygen, leading to chest pain or discomfort.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should you seek emergency care for angina pectoris symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek emergency care for angina pectoris symptoms if you experience sudden, severe chest pain that lasts longer than a few minutes or is accompanied by shortness of breath, sweating, or nausea.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential complications if angina pectoris is left untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential complications of untreated angina pectoris include heart attack, heart failure, and even death. It is crucial to seek medical attention if experiencing symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes help alleviate angina pectoris symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking prescribed medications can help alleviate angina pectoris symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -441,8 +413,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover help in diagnosing and treating angina pectoris?</p>
 
 
 

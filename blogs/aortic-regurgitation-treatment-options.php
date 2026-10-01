@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatment options for aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic regurgitation include medication to manage symptoms, surgery to repair or replace the valve, or minimally invasive procedures. Consult a healthcare provider for the best option.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is surgery necessary for treating aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is necessary for treating aortic regurgitation when symptoms are severe or the condition is worsening, to repair or replace the leaking valve.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications help manage aortic regurgitation symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications can help manage aortic regurgitation symptoms by reducing blood pressure, controlling heart rate, and preventing complications like heart failure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of valve repair versus valve replacement in treating aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Valve repair is preferred over replacement for aortic regurgitation when feasible, as it preserves the native valve and its function, leading to better long-term outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover approach treatment for aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover approaches aortic regurgitation treatment with a range of options such as medication, lifestyle changes, and surgical interventions based on individual patient needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatment options for aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic regurgitation include medication to manage symptoms, surgery to repair or replace the valve, or minimally invasive procedures. Consult a healthcare provider for the best option.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help manage aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as maintaining a heart-healthy diet, regular exercise, avoiding tobacco, and managing stress can help manage aortic regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "When is surgery necessary for treating aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is necessary for treating aortic regurgitation when symptoms are severe or the condition is worsening, to repair or replace the leaking valve.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic regurgitation be managed without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation can be managed without surgery through medication, lifestyle changes, and regular monitoring by a healthcare provider.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications help manage aortic regurgitation symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications can help manage aortic regurgitation symptoms by reducing blood pressure, controlling heart rate, and preventing complications like heart failure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does recovery take after treatment for aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery time after treatment for aortic regurgitation varies but typically ranges from a few weeks to a few months, depending on the type of treatment received.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of valve repair versus valve replacement in treating aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Valve repair is preferred over replacement for aortic regurgitation when feasible, as it preserves the native valve and its function, leading to better long-term outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of not treating aortic regurgitation in its early stages?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic regurgitation can lead to heart failure, arrhythmias, and damage to the heart muscle. Early treatment is crucial to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as maintaining a heart-healthy diet, regular exercise, avoiding tobacco, and managing stress can help manage aortic regurgitation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early diagnosis improve the effectiveness of aortic regurgitation treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early diagnosis of aortic regurgitation allows for timely intervention, preventing worsening of symptoms and potential complications, leading to better treatment outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can aortic regurgitation be managed without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation can be managed without surgery through medication, lifestyle changes, and regular monitoring by a healthcare provider.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does recovery take after treatment for aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery time after treatment for aortic regurgitation varies but typically ranges from a few weeks to a few months, depending on the type of treatment received.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of not treating aortic regurgitation in its early stages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic regurgitation can lead to heart failure, arrhythmias, and damage to the heart muscle. Early treatment is crucial to prevent complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early diagnosis improve the effectiveness of aortic regurgitation treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early diagnosis of aortic regurgitation allows for timely intervention, preventing worsening of symptoms and potential complications, leading to better treatment outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -414,8 +386,6 @@
 
 
 
-        <h3>How does Medicover approach treatment for aortic regurgitation?</h3>
-        <p>Medicover approaches aortic regurgitation treatment with a range of options such as medication, lifestyle changes, and surgical interventions based on individual patient needs.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the common side effects of blood clots after vaccination?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common side effects of blood clots after vaccination may include swelling, pain, or redness in the affected area, along with warmth and tenderness.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do vaccines contribute to the formation of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vaccines can trigger an immune response that may lead to blood clot formation in rare cases. This can happen due to an immune system overreaction.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What types of vaccines are associated with an increased risk of blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Certain viral vector vaccines, like those for COVID-19, have been associated with an increased risk of blood clots, specifically cerebral venous sinus thrombosis.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you recognize blood clots after receiving a vaccine?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Look out for symptoms like shortness of breath, chest pain, leg swelling, or severe headache post-vaccination. Seek medical help if you experience these.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you suspect a blood clot after a vaccination?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Seek medical attention immediately if you suspect a blood clot after a vaccination. Symptoms include swelling, redness, or pain in the affected limb.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common side effects of blood clots after vaccination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common side effects of blood clots after vaccination may include swelling, pain, or redness in the affected area, along with warmth and tenderness.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are certain individuals more at risk for blood clots after vaccines?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with a history of blood clotting disorders or certain medical conditions may be at higher risk for blood clots after vaccines.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do vaccines contribute to the formation of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vaccines can trigger an immune response that may lead to blood clot formation in rare cases. This can happen due to an immune system overreaction.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long after vaccination do blood clot side effects typically occur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clot side effects from vaccines typically occur within 4-28 days after vaccination. If you experience symptoms like severe headaches or leg swelling, seek medical help.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What types of vaccines are associated with an increased risk of blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certain viral vector vaccines, like those for COVID-19, have been associated with an increased risk of blood clots, specifically cerebral venous sinus thrombosis.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does Medicover play in monitoring vaccinerelated blood clot risks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover plays a crucial role in monitoring vaccine-related blood clot risks by collecting and analyzing data to ensure the safety of vaccines.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you recognize blood clots after receiving a vaccine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look out for symptoms like shortness of breath, chest pain, leg swelling, or severe headache post-vaccination. Seek medical help if you experience these.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can blood clotting after vaccines be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While blood clotting after vaccines cannot be entirely prevented, staying active and hydrated can help reduce the risk. Be sure to consult a healthcare professional for personalized advice.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you suspect a blood clot after a vaccination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical attention immediately if you suspect a blood clot after a vaccination. Symptoms include swelling, redness, or pain in the affected limb.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are blood clots following vaccination always serious?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots following vaccination are rare but can be serious. It's important to seek medical attention if you experience symptoms like swelling, pain, or difficulty breathing.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are certain individuals more at risk for blood clots after vaccines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with a history of blood clotting disorders or certain medical conditions may be at higher risk for blood clots after vaccines.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long after vaccination do blood clot side effects typically occur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clot side effects from vaccines typically occur within 4-28 days after vaccination. If you experience symptoms like severe headaches or leg swelling, seek medical help.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can blood clotting after vaccines be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While blood clotting after vaccines cannot be entirely prevented, staying active and hydrated can help reduce the risk. Be sure to consult a healthcare professional for personalized advice.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are blood clots following vaccination always serious?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots following vaccination are rare but can be serious. It's important to seek medical attention if you experience symptoms like swelling, pain, or difficulty breathing.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -447,8 +419,6 @@
 
 
 
-        <h3></h3>
-        <p>What role does Medicover play in monitoring vaccinerelated blood clot risks?</p>
 
 
 

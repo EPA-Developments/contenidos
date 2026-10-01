@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the main difference between stable and unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina occurs predictably with exertion and resolves with rest, while unstable angina is unpredictable and can occur at rest or with minimal exertion.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do the symptoms of stable angina differ from those of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina symptoms occur predictably with exertion and improve with rest, while unstable angina symptoms can happen at rest or with minimal activity and may be more severe.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What triggers stable angina and what triggers unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is triggered by physical exertion or stress, while unstable angina can be triggered by minimal or at rest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is stable angina typically treated compared to unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Stable angina is usually managed with medication and lifestyle changes, while unstable angina may require emergency treatment and possible hospitalization.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can unstable angina be a sign of an impending heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, unstable angina can be a warning sign of an impending heart attack. It is important to seek immediate medical attention if experiencing symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the main difference between stable and unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina occurs predictably with exertion and resolves with rest, while unstable angina is unpredictable and can occur at rest or with minimal exertion.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What diagnostic tests are used to differentiate between stable and unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diagnostic tests such as ECG, stress tests, and cardiac catheterization are used to differentiate between stable and unstable angina based on severity and risk of heart attack.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do the symptoms of stable angina differ from those of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina symptoms occur predictably with exertion and improve with rest, while unstable angina symptoms can happen at rest or with minimal activity and may be more severe.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of stable vs. unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats stable angina with medication and lifestyle changes, while unstable angina may require emergency intervention like angioplasty or bypass surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What triggers stable angina and what triggers unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is triggered by physical exertion or stress, while unstable angina can be triggered by minimal or at rest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help manage both stable and unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as a heart-healthy diet, regular exercise, quitting smoking, and managing stress can help manage both stable and unstable angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is stable angina typically treated compared to unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stable angina is usually managed with medication and lifestyle changes, while unstable angina may require emergency treatment and possible hospitalization.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the treatment for stable angina evolve if it progresses to unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for stable angina may evolve to include more aggressive measures if it progresses to unstable angina, such as immediate hospitalization and urgent interventions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can unstable angina be a sign of an impending heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, unstable angina can be a warning sign of an impending heart attack. It is important to seek immediate medical attention if experiencing symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for patients with stable vs. unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for patients with stable angina is generally better than those with unstable angina. Stable angina is predictable and manageable, while unstable angina poses a higher risk of complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What diagnostic tests are used to differentiate between stable and unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diagnostic tests such as ECG, stress tests, and cardiac catheterization are used to differentiate between stable and unstable angina based on severity and risk of heart attack.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help manage both stable and unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as a heart-healthy diet, regular exercise, quitting smoking, and managing stress can help manage both stable and unstable angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the treatment for stable angina evolve if it progresses to unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for stable angina may evolve to include more aggressive measures if it progresses to unstable angina, such as immediate hospitalization and urgent interventions.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the prognosis for patients with stable vs. unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for patients with stable angina is generally better than those with unstable angina. Stable angina is predictable and manageable, while unstable angina poses a higher risk of complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -473,8 +445,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover approach the treatment of stable vs. unstable angina?</p>
 
 
 

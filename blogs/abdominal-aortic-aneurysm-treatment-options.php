@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatment options for an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatment options for an abdominal aortic aneurysm include watchful waiting, endovascular repair, and open surgical repair.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do doctors determine the best treatment plan for an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors determine the best treatment plan for an abdominal aortic aneurysm based on factors like size, location, and overall health of the patient.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "When is surgery necessary to treat an abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is necessary for abdominal aortic aneurysms larger than 5.5 cm or if symptomatic to prevent rupture and potentially life-threatening complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there nonsurgical treatments for abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, nonsurgical treatments for abdominal aortic aneurysms include lifestyle changes, blood pressure management, and monitoring the aneurysm's size.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover decide between surgical and nonsurgical treatments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover decides on surgical or nonsurgical treatments for abdominal aortic aneurysm based on factors like aneurysm size, patient's overall health, and risk of rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatment options for an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatment options for an abdominal aortic aneurysm include watchful waiting, endovascular repair, and open surgical repair.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes should be made to support treatment for abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like quitting smoking, eating a healthy diet, and exercising regularly can support treatment for abdominal aortic aneurysms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do doctors determine the best treatment plan for an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors determine the best treatment plan for an abdominal aortic aneurysm based on factors like size, location, and overall health of the patient.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the size of an abdominal aortic aneurysm affect treatment choices?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The size of an abdominal aortic aneurysm determines treatment options. Small aneurysms may be monitored, while larger ones may require surgery or endovascular repair.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "When is surgery necessary to treat an abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is necessary for abdominal aortic aneurysms larger than 5.5 cm or if symptomatic to prevent rupture and potentially life-threatening complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of medication in treating abdominal aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication is not typically used to treat abdominal aortic aneurysms. Surgery or minimally invasive procedures are usually recommended to prevent rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there nonsurgical treatments for abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, nonsurgical treatments for abdominal aortic aneurysms include lifestyle changes, blood pressure management, and monitoring the aneurysm's size.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can monitoring the aneurysmâ€™s size help in deciding the best treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Monitoring the aneurysm's size helps determine when it may need treatment. Larger aneurysms are at higher risk of rupture, guiding decisions on the best course of action.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes should be made to support treatment for abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like quitting smoking, eating a healthy diet, and exercising regularly can support treatment for abdominal aortic aneurysms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the expected outcomes for patients after abdominal aortic aneurysm treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Expected outcomes for patients after abdominal aortic aneurysm treatment include reduced risk of rupture, improved quality of life, and increased life expectancy.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does the size of an abdominal aortic aneurysm affect treatment choices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The size of an abdominal aortic aneurysm determines treatment options. Small aneurysms may be monitored, while larger ones may require surgery or endovascular repair.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of medication in treating abdominal aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication is not typically used to treat abdominal aortic aneurysms. Surgery or minimally invasive procedures are usually recommended to prevent rupture.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can monitoring the aneurysmâ€™s size help in deciding the best treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitoring the aneurysm's size helps determine when it may need treatment. Larger aneurysms are at higher risk of rupture, guiding decisions on the best course of action.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the expected outcomes for patients after abdominal aortic aneurysm treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expected outcomes for patients after abdominal aortic aneurysm treatment include reduced risk of rupture, improved quality of life, and increased life expectancy.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -441,8 +413,6 @@
 
 
 
-        <h3>How does Medicover decide between surgical and nonsurgical treatments?</h3>
-        <p>Medicover decides on surgical or nonsurgical treatments for abdominal aortic aneurysm based on factors like aneurysm size, patient's overall health, and risk of rupture.</p>
 
 
 

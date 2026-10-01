@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the main differences between cyanotic and acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cyanotic heart disease results in low oxygen levels causing bluish skin, while acyanotic heart disease doesn't lead to low oxygen levels or bluish skin.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do the symptoms of cyanotic heart disease differ from those of acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Cyanotic heart disease causes bluish skin due to poor oxygenation, while acyanotic heart disease does not. Cyanotic symptoms are more severe.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the causes of cyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The causes of cyanotic heart disease are typically related to structural defects in the heart that result in decreased oxygen levels in the blood.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the oxygen level in the blood vary between cyanotic and acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "In cyanotic heart disease, oxygen levels in the blood are lower due to poor circulation, while in acyanotic heart disease, oxygen levels are typically normal.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What diagnostic tests are used to distinguish between cyanotic and acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Diagnostic tests such as echocardiograms, electrocardiograms, and cardiac catheterizations are used to distinguish between cyanotic and acyanotic heart disease.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main differences between cyanotic and acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cyanotic heart disease results in low oxygen levels causing bluish skin, while acyanotic heart disease doesn't lead to low oxygen levels or bluish skin.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How are treatment options different for cyanotic and acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options vary for cyanotic and acyanotic heart disease based on oxygen levels. Cyanotic heart disease may require more aggressive interventions to improve oxygenation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do the symptoms of cyanotic heart disease differ from those of acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cyanotic heart disease causes bluish skin due to poor oxygenation, while acyanotic heart disease does not. Cyanotic symptoms are more severe.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does surgery play in treating cyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery can be a crucial treatment option for correcting anatomical defects in cyanotic heart disease to improve oxygen levels and overall heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of cyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The causes of cyanotic heart disease are typically related to structural defects in the heart that result in decreased oxygen levels in the blood.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early detection impact the prognosis of cyanotic versus acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early detection significantly improves the prognosis of both cyanotic and acyanotic heart disease by allowing for timely intervention and management of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does the oxygen level in the blood vary between cyanotic and acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cyanotic heart disease, oxygen levels in the blood are lower due to poor circulation, while in acyanotic heart disease, oxygen levels are typically normal.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of cyanotic and acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats cyanotic and acyanotic heart disease differently based on the type and severity of the condition, providing personalized care for each patient's specific needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What diagnostic tests are used to distinguish between cyanotic and acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diagnostic tests such as echocardiograms, electrocardiograms, and cardiac catheterizations are used to distinguish between cyanotic and acyanotic heart disease.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes improve outcomes for individuals with cyanotic or acyanotic heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as a heart-healthy diet, regular exercise, and avoiding smoking can improve outcomes for individuals with cyanotic or acyanotic heart disease.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How are treatment options different for cyanotic and acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options vary for cyanotic and acyanotic heart disease based on oxygen levels. Cyanotic heart disease may require more aggressive interventions to improve oxygenation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does surgery play in treating cyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery can be a crucial treatment option for correcting anatomical defects in cyanotic heart disease to improve oxygen levels and overall heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early detection impact the prognosis of cyanotic versus acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early detection significantly improves the prognosis of both cyanotic and acyanotic heart disease by allowing for timely intervention and management of the condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes improve outcomes for individuals with cyanotic or acyanotic heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as a heart-healthy diet, regular exercise, and avoiding smoking can improve outcomes for individuals with cyanotic or acyanotic heart disease.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -477,8 +449,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of cyanotic and acyanotic heart disease?</h3>
-        <p>Medicover treats cyanotic and acyanotic heart disease differently based on the type and severity of the condition, providing personalized care for each patient's specific needs.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is the procedure for abdominal aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic aneurysm surgery involves making an incision in the abdomen to repair the weakened area of the aorta with a synthetic graft to prevent rupture.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is the surgery performed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic aneurysm surgery is typically performed using open or endovascular techniques to repair the weakened artery and prevent rupture.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What type of anesthesia is used during abdominal aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "General anesthesia is typically used during abdominal aortic aneurysm surgery. It ensures you are unconscious and pain-free throughout the procedure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does the surgery take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Abdominal aortic aneurysm surgery typically takes 2-4 hours, but can vary depending on the complexity of the procedure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the potential risks and complications of abdominal aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential risks and complications of abdominal aortic aneurysm surgery may include bleeding, infection, blood clot formation, organ damage, and anesthesia-related issues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the procedure for abdominal aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic aneurysm surgery involves making an incision in the abdomen to repair the weakened area of the aorta with a synthetic graft to prevent rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover ensure patient safety during the procedure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover ensures patient safety during abdominal aortic aneurysm surgery by following strict protocols, monitoring vital signs, and having a skilled medical team in the operating room.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is the surgery performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic aneurysm surgery is typically performed using open or endovascular techniques to repair the weakened artery and prevent rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should patients expect during the recovery process after surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can expect a recovery period of about 4-6 weeks after abdominal aortic aneurysm surgery, including pain management, physical therapy, and follow-up appointments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What type of anesthesia is used during abdominal aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General anesthesia is typically used during abdominal aortic aneurysm surgery. It ensures you are unconscious and pain-free throughout the procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does it take to recover from abdominal aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery from abdominal aortic aneurysm surgery typically takes 4 to 8 weeks. It may vary depending on individual health and the type of surgery performed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does the surgery take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Abdominal aortic aneurysm surgery typically takes 2-4 hours, but can vary depending on the complexity of the procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can patients return to their normal activities immediately after surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients will need time to recover after abdominal aortic aneurysm surgery before resuming normal activities. Consult with your healthcare provider for specific guidance.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the potential risks and complications of abdominal aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential risks and complications of abdominal aortic aneurysm surgery may include bleeding, infection, blood clot formation, organ damage, and anesthesia-related issues.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What steps should patients take to ensure a smooth recovery after abdominal aortic aneurysm surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients should follow post-op instructions, attend follow-up appointments, take prescribed medications, avoid heavy lifting, and engage in light activity to aid recovery after abdominal aortic aneurysm surgery.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What should patients expect during the recovery process after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can expect a recovery period of about 4-6 weeks after abdominal aortic aneurysm surgery, including pain management, physical therapy, and follow-up appointments.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to recover from abdominal aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery from abdominal aortic aneurysm surgery typically takes 4 to 8 weeks. It may vary depending on individual health and the type of surgery performed.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can patients return to their normal activities immediately after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients will need time to recover after abdominal aortic aneurysm surgery before resuming normal activities. Consult with your healthcare provider for specific guidance.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps should patients take to ensure a smooth recovery after abdominal aortic aneurysm surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients should follow post-op instructions, attend follow-up appointments, take prescribed medications, avoid heavy lifting, and engage in light activity to aid recovery after abdominal aortic aneurysm surgery.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -446,8 +418,6 @@
 
 
 
-        <h3>How does Medicover ensure patient safety during the procedure?</h3>
-        <p>Medicover ensures patient safety during abdominal aortic aneurysm surgery by following strict protocols, monitoring vital signs, and having a skilled medical team in the operating room.</p>
 
 
 

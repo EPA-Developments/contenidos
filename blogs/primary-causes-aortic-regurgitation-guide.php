@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most common causes of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most common causes of aortic regurgitation include aortic valve disease, aortic root dilation, rheumatic fever, and congenital heart defects.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic valve disease contribute to aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic valve disease can cause the valve to not close properly, leading to aortic regurgitation where blood leaks back into the heart during each heartbeat.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does hypertension play in the development of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hypertension can cause the aortic valve to become thickened and calcified, leading to aortic regurgitation. This is a common primary cause of the condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can aortic regurgitation be caused by aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic regurgitation can be caused by aortic dissection. This occurs when the inner layer of the aorta tears, leading to blood flowing back into the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle factors contribute to the development of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Factors like high blood pressure, smoking, and a history of heart conditions can contribute to the development of aortic regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most common causes of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common causes of aortic regurgitation include aortic valve disease, aortic root dilation, rheumatic fever, and congenital heart defects.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is aortic regurgitation genetic?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation can be genetic in some cases, but it is often caused by other factors like aging, infections, or heart conditions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic valve disease contribute to aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic valve disease can cause the valve to not close properly, leading to aortic regurgitation where blood leaks back into the heart during each heartbeat.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does age affect the likelihood of developing aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Age is a major factor in the development of aortic regurgitation, as the risk increases with age due to wear and tear on the aortic valve over time.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does hypertension play in the development of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hypertension can cause the aortic valve to become thickened and calcified, leading to aortic regurgitation. This is a common primary cause of the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can preventing aortic regurgitation improve heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventing aortic regurgitation can improve heart health by reducing strain on the heart, lowering the risk of heart failure and other complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can aortic regurgitation be caused by aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic regurgitation can be caused by aortic dissection. This occurs when the inner layer of the aorta tears, leading to blood flowing back into the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover address the underlying causes of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover addresses the underlying causes of aortic regurgitation through diagnostic tests, medications, and surgical interventions to repair or replace the damaged aortic valve.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle factors contribute to the development of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Factors like high blood pressure, smoking, and a history of heart conditions can contribute to the development of aortic regurgitation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can medications help reduce the risk of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medications can help manage symptoms and reduce complications associated with aortic regurgitation, but they cannot reverse the condition itself.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Is aortic regurgitation genetic?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation can be genetic in some cases, but it is often caused by other factors like aging, infections, or heart conditions.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does age affect the likelihood of developing aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Age is a major factor in the development of aortic regurgitation, as the risk increases with age due to wear and tear on the aortic valve over time.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can preventing aortic regurgitation improve heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing aortic regurgitation can improve heart health by reducing strain on the heart, lowering the risk of heart failure and other complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can medications help reduce the risk of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medications can help manage symptoms and reduce complications associated with aortic regurgitation, but they cannot reverse the condition itself.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -461,8 +433,6 @@
 
 
 
-        <h3>How does Medicover address the underlying causes of aortic regurgitation?</h3>
-        <p>Medicover addresses the underlying causes of aortic regurgitation through diagnostic tests, medications, and surgical interventions to repair or replace the damaged aortic valve.</p>
 
 
 

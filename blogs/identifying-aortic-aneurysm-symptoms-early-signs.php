@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the key symptoms of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key symptoms of an aortic aneurysm include chest or back pain, shortness of breath, and a pulsating sensation in the abdomen. Early detection is crucial for treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do you know if you have an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You may have an aortic aneurysm if you experience symptoms like chest or back pain, shortness of breath, dizziness, or a pulsating sensation in your abdomen.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What signs should you watch for in case of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Watch for symptoms such as chest or back pain, shortness of breath, hoarseness, difficulty swallowing, and a pulsating sensation in the abdomen. Early detection is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there specific symptoms that indicate an aortic aneurysm is growing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a growing aortic aneurysm may include chest or back pain, shortness of breath, or a pulsating feeling in the abdomen. Early detection is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover help detect aortic aneurysms early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover utilizes advanced imaging technology like ultrasound and CT scans to detect aortic aneurysms early, allowing for timely treatment and prevention of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key symptoms of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key symptoms of an aortic aneurysm include chest or back pain, shortness of breath, and a pulsating sensation in the abdomen. Early detection is crucial for treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can you prevent an aortic aneurysm by recognizing symptoms early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recognizing symptoms early can lead to timely treatment, but prevention of an aortic aneurysm involves managing risk factors like high blood pressure and smoking.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do you know if you have an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You may have an aortic aneurysm if you experience symptoms like chest or back pain, shortness of breath, dizziness, or a pulsating sensation in your abdomen.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes reduce the risk of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes like quitting smoking, managing blood pressure, eating a healthy diet, and exercising regularly can reduce the risk of an aortic aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What signs should you watch for in case of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Watch for symptoms such as chest or back pain, shortness of breath, hoarseness, difficulty swallowing, and a pulsating sensation in the abdomen. Early detection is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there risk factors for aortic aneurysms that you can control?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, risk factors for aortic aneurysms that you can control include smoking, high blood pressure, and high cholesterol levels. Be proactive about your health to reduce your risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are there specific symptoms that indicate an aortic aneurysm is growing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a growing aortic aneurysm may include chest or back pain, shortness of breath, or a pulsating feeling in the abdomen. Early detection is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is an aortic aneurysm diagnosed through imaging tests?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic aneurysm is diagnosed through imaging tests such as ultrasound, CT scan, or MRI to visualize the enlargement of the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can you prevent an aortic aneurysm by recognizing symptoms early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recognizing symptoms early can lead to timely treatment, but prevention of an aortic aneurysm involves managing risk factors like high blood pressure and smoking.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the dangers of ignoring the symptoms of an aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ignoring symptoms of an aortic aneurysm can be dangerous as it can lead to rupture, which is life-threatening and requires immediate medical attention.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can lifestyle changes reduce the risk of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes like quitting smoking, managing blood pressure, eating a healthy diet, and exercising regularly can reduce the risk of an aortic aneurysm.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there risk factors for aortic aneurysms that you can control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, risk factors for aortic aneurysms that you can control include smoking, high blood pressure, and high cholesterol levels. Be proactive about your health to reduce your risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is an aortic aneurysm diagnosed through imaging tests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic aneurysm is diagnosed through imaging tests such as ultrasound, CT scan, or MRI to visualize the enlargement of the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the dangers of ignoring the symptoms of an aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ignoring symptoms of an aortic aneurysm can be dangerous as it can lead to rupture, which is life-threatening and requires immediate medical attention.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -441,8 +413,6 @@
 
 
 
-        <h3>How does Medicover help detect aortic aneurysms early?</h3>
-        <p>Medicover utilizes advanced imaging technology like ultrasound and CT scans to detect aortic aneurysms early, allowing for timely treatment and prevention of complications.</p>
 
 
 

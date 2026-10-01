@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is angina bullosa haemorrhagica and how does it affect the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina bullosa haemorrhagica is a rare condition causing blood-filled blisters in the mouth. It can be painful but is generally harmless and resolves on its own.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common symptoms of angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of angina bullosa haemorrhagica include painful blood-filled blisters in the mouth, bleeding gums, and difficulty eating or speaking.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is angina bullosa haemorrhagica diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina bullosa haemorrhagica is diagnosed through clinical examination, medical history, and possibly a biopsy to confirm the presence of blood-filled blisters in the mouth.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina bullosa haemorrhagica is caused by trauma to the oral mucosa, leading to blood-filled blisters. It is a benign condition that typically resolves on its own.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover treat angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats angina bullosa haemorrhagica by providing pain relief, preventing infection, and promoting healing of the blisters in the mouth.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is angina bullosa haemorrhagica and how does it affect the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina bullosa haemorrhagica is a rare condition causing blood-filled blisters in the mouth. It can be painful but is generally harmless and resolves on its own.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated angina bullosa haemorrhagica can lead to painful mouth sores, bleeding, infection, and difficulty eating. Seek medical attention for proper management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common symptoms of angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of angina bullosa haemorrhagica include painful blood-filled blisters in the mouth, bleeding gums, and difficulty eating or speaking.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help prevent angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, avoiding hot and spicy foods, and practicing good oral hygiene can help prevent angina bullosa haemorrhagica.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is angina bullosa haemorrhagica diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina bullosa haemorrhagica is diagnosed through clinical examination, medical history, and possibly a biopsy to confirm the presence of blood-filled blisters in the mouth.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can oral hygiene impact the development of angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Poor oral hygiene can contribute to the development of angina bullosa haemorrhagica by causing trauma to the oral mucosa, leading to blister formation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina bullosa haemorrhagica is caused by trauma to the oral mucosa, leading to blood-filled blisters. It is a benign condition that typically resolves on its own.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery ever required to treat angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is rarely needed for angina bullosa haemorrhagica unless there are complications like infection or severe pain. Consult with a healthcare provider for personalized treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of untreated angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated angina bullosa haemorrhagica can lead to painful mouth sores, bleeding, infection, and difficulty eating. Seek medical attention for proper management.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for managing the pain associated with angina bullosa haemorrhagica?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for managing pain in angina bullosa haemorrhagica include topical anesthetics, steroid creams, and maintaining good oral hygiene.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle changes help prevent angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, avoiding hot and spicy foods, and practicing good oral hygiene can help prevent angina bullosa haemorrhagica.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can oral hygiene impact the development of angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Poor oral hygiene can contribute to the development of angina bullosa haemorrhagica by causing trauma to the oral mucosa, leading to blister formation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is surgery ever required to treat angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is rarely needed for angina bullosa haemorrhagica unless there are complications like infection or severe pain. Consult with a healthcare provider for personalized treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for managing the pain associated with angina bullosa haemorrhagica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for managing pain in angina bullosa haemorrhagica include topical anesthetics, steroid creams, and maintaining good oral hygiene.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -425,8 +397,6 @@
 
 
 
-        <h3>How does Medicover treat angina bullosa haemorrhagica?</h3>
-        <p>Medicover treats angina bullosa haemorrhagica by providing pain relief, preventing infection, and promoting healing of the blisters in the mouth.</p>
 
 
 

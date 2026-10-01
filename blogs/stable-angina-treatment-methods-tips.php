@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the most effective treatments for stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most effective treatments for stable angina include lifestyle changes, medications like nitroglycerin, beta-blockers, and calcium channel blockers, as well as procedures like angioplasty.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do medications help manage stable angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications for stable angina help by improving blood flow to the heart, reducing chest pain, and preventing future episodes. Always follow your doctor's recommendations.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle changes can help treat stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes such as quitting smoking, maintaining a healthy weight, regular exercise, and a heart-healthy diet can help treat stable angina effectively.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can surgery be necessary for treating stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "In some cases, surgery such as coronary artery bypass grafting (CABG) or angioplasty may be necessary for treating stable angina that does not respond to medication.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover approach the treatment of stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover typically treats stable angina with a combination of lifestyle changes, medication, and possibly procedures like angioplasty or stenting to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the most effective treatments for stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective treatments for stable angina include lifestyle changes, medications like nitroglycerin, beta-blockers, and calcium channel blockers, as well as procedures like angioplasty.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do betablockers help manage stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Betablockers help manage stable angina by reducing heart rate, blood pressure, and workload on the heart, relieving symptoms and preventing future episodes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do medications help manage stable angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications for stable angina help by improving blood flow to the heart, reducing chest pain, and preventing future episodes. Always follow your doctor's recommendations.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can stress management techniques improve stable angina treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, stress management techniques can improve stable angina treatment by reducing triggers and helping to manage symptoms effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes can help treat stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes such as quitting smoking, maintaining a healthy weight, regular exercise, and a heart-healthy diet can help treat stable angina effectively.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role does exercise play in treating stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Exercise plays a crucial role in treating stable angina by improving cardiovascular health, reducing symptoms, and increasing overall physical fitness.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can surgery be necessary for treating stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In some cases, surgery such as coronary artery bypass grafting (CABG) or angioplasty may be necessary for treating stable angina that does not respond to medication.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of angioplasty in treating stable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angioplasty can help improve blood flow to the heart by widening narrowed arteries, reducing chest pain and improving exercise tolerance in patients with stable angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do betablockers help manage stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Betablockers help manage stable angina by reducing heart rate, blood pressure, and workload on the heart, relieving symptoms and preventing future episodes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the treatment for stable angina vary based on severity?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for stable angina varies based on severity, ranging from lifestyle changes and medications for mild cases to invasive procedures like angioplasty for severe cases.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can stress management techniques improve stable angina treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, stress management techniques can improve stable angina treatment by reducing triggers and helping to manage symptoms effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does exercise play in treating stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exercise plays a crucial role in treating stable angina by improving cardiovascular health, reducing symptoms, and increasing overall physical fitness.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of angioplasty in treating stable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angioplasty can help improve blood flow to the heart by widening narrowed arteries, reducing chest pain and improving exercise tolerance in patients with stable angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the treatment for stable angina vary based on severity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for stable angina varies based on severity, ranging from lifestyle changes and medications for mild cases to invasive procedures like angioplasty for severe cases.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -422,8 +394,6 @@
 
 
 
-        <h3>How does Medicover approach the treatment of stable angina?</h3>
-        <p>Medicover typically treats stable angina with a combination of lifestyle changes, medication, and possibly procedures like angioplasty or stenting to improve blood flow to the heart.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How can aortic ectasia lead to aortic rupture or dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic ectasia can weaken the aortic wall, making it more prone to rupture or dissection, which can lead to serious complications like internal bleeding or organ damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What complications can arise from untreated aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic ectasia can lead to serious complications such as aortic dissection, rupture, or aneurysm, which can be life-threatening.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic ectasia increase the risk of cardiovascular events?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic ectasia can weaken the blood vessel wall, leading to an increased risk of aneurysm formation, dissection, or rupture, causing serious cardiovascular events.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the link between aortic ectasia and high blood pressure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic ectasia can lead to serious complications like aneurysms due to increased pressure on the weakened aortic wall from high blood pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can regular monitoring prevent serious complications from aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular monitoring can help detect changes in the aorta's size early on, allowing for timely intervention to prevent serious complications from aortic ectasia.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can aortic ectasia lead to aortic rupture or dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic ectasia can weaken the aortic wall, making it more prone to rupture or dissection, which can lead to serious complications like internal bleeding or organ damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you do if diagnosed with aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If diagnosed with aortic ectasia, it is important to closely monitor your condition with regular check-ups and follow your healthcare provider's treatment plan.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What complications can arise from untreated aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic ectasia can lead to serious complications such as aortic dissection, rupture, or aneurysm, which can be life-threatening.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help manage patients with aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides specialized care and monitoring for patients with aortic ectasia to prevent complications and ensure optimal management of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic ectasia increase the risk of cardiovascular events?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic ectasia can weaken the blood vessel wall, leading to an increased risk of aneurysm formation, dissection, or rupture, causing serious cardiovascular events.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What surgical options are available for treating aortic ectasia complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options for aortic ectasia complications include aortic repair, graft replacement, or endovascular stent placement to prevent serious issues.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the link between aortic ectasia and high blood pressure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic ectasia can lead to serious complications like aneurysms due to increased pressure on the weakened aortic wall from high blood pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic ectasia be a silent condition with no obvious symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic ectasia can be a silent condition without obvious symptoms, which can lead to serious complications if left untreated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can regular monitoring prevent serious complications from aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular monitoring can help detect changes in the aorta's size early on, allowing for timely intervention to prevent serious complications from aortic ectasia.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aortic ectasia impact life expectancy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic ectasia can lead to serious complications such as aneurysm or dissection, which can be life-threatening and impact life expectancy.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What should you do if diagnosed with aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If diagnosed with aortic ectasia, it is important to closely monitor your condition with regular check-ups and follow your healthcare provider's treatment plan.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What surgical options are available for treating aortic ectasia complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options for aortic ectasia complications include aortic repair, graft replacement, or endovascular stent placement to prevent serious issues.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic ectasia be a silent condition with no obvious symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic ectasia can be a silent condition without obvious symptoms, which can lead to serious complications if left untreated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does aortic ectasia impact life expectancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic ectasia can lead to serious complications such as aneurysm or dissection, which can be life-threatening and impact life expectancy.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -419,8 +391,6 @@
 
 
 
-        <h3>How does Medicover help manage patients with aortic ectasia?</h3>
-        <p>Medicover provides specialized care and monitoring for patients with aortic ectasia to prevent complications and ensure optimal management of the condition.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is microvascular angina and how does it affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Microvascular angina is a type of chest pain caused by narrowed small blood vessels in the heart. It can affect blood flow and lead to heart muscle damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is microvascular angina different from other types of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Microvascular angina affects small blood vessels in the heart, unlike other types that affect larger arteries. It can be harder to diagnose due to its subtle symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of microvascular angina include chest pain, shortness of breath, fatigue, and dizziness. It's important to seek medical evaluation for proper diagnosis and treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is microvascular angina diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Microvascular angina is diagnosed through a combination of symptoms, medical history, physical exam, blood tests, imaging tests, and a coronary angiogram.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the causes of microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The causes of microvascular angina include small artery dysfunction, inflammation, and coronary artery spasms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is microvascular angina and how does it affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microvascular angina is a type of chest pain caused by narrowed small blood vessels in the heart. It can affect blood flow and lead to heart muscle damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can microvascular angina be treated with medications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, microvascular angina can be treated with medications such as calcium channel blockers, nitrates, and beta-blockers to help manage symptoms and improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is microvascular angina different from other types of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microvascular angina affects small blood vessels in the heart, unlike other types that affect larger arteries. It can be harder to diagnose due to its subtle symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats microvascular angina with medications to manage symptoms, lifestyle changes, and possibly referral to a cardiologist for further evaluation and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of microvascular angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of microvascular angina include chest pain, shortness of breath, fatigue, and dizziness. It's important to seek medical evaluation for proper diagnosis and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes improve the symptoms of microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as regular exercise, a heart-healthy diet, stress management, and quitting smoking can help improve symptoms of microvascular angina.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is microvascular angina diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microvascular angina is diagnosed through a combination of symptoms, medical history, physical exam, blood tests, imaging tests, and a coronary angiogram.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Is surgery necessary for treating microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery is typically not necessary for treating microvascular angina. Medications, lifestyle changes, and cardiac rehabilitation are often recommended instead.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of microvascular angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The causes of microvascular angina include small artery dysfunction, inflammation, and coronary artery spasms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated microvascular angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated microvascular angina can lead to increased risk of heart attack, heart failure, and decreased quality of life due to ongoing chest pain and other symptoms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can microvascular angina be treated with medications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, microvascular angina can be treated with medications such as calcium channel blockers, nitrates, and beta-blockers to help manage symptoms and improve blood flow to the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes improve the symptoms of microvascular angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as regular exercise, a heart-healthy diet, stress management, and quitting smoking can help improve symptoms of microvascular angina.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is surgery necessary for treating microvascular angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery is typically not necessary for treating microvascular angina. Medications, lifestyle changes, and cardiac rehabilitation are often recommended instead.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated microvascular angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated microvascular angina can lead to increased risk of heart attack, heart failure, and decreased quality of life due to ongoing chest pain and other symptoms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover treat microvascular angina?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the early symptoms of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early symptoms of acute heart failure include shortness of breath, fatigue, rapid heartbeat, swollen legs, and persistent coughing. Early detection is key for prompt treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you differentiate between common symptoms and signs of acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common symptoms of acute heart failure include shortness of breath, fatigue, and swelling, while signs may include rapid heartbeat and crackling sounds in the lungs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risk factors for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for acute heart failure include high blood pressure, coronary artery disease, diabetes, obesity, smoking, and a family history of heart disease. Early identification is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is acute heart failure diagnosed early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early diagnosis of acute heart failure involves recognizing symptoms such as shortness of breath, fatigue, rapid heartbeat, and swelling in the legs. Seeking medical attention promptly is key.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can acute heart failure be managed if caught early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, acute heart failure can be managed effectively if caught early. Prompt medical intervention and lifestyle changes can help improve outcomes and quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the early symptoms of acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early symptoms of acute heart failure include shortness of breath, fatigue, rapid heartbeat, swollen legs, and persistent coughing. Early detection is key for prompt treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the most common mistakes people make in recognizing heart failure symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The most common mistakes people make in recognizing heart failure symptoms include attributing them to aging or ignoring them altogether.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you differentiate between common symptoms and signs of acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common symptoms of acute heart failure include shortness of breath, fatigue, and swelling, while signs may include rapid heartbeat and crackling sounds in the lungs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do healthcare providers screen for acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Healthcare providers screen for acute heart failure by conducting physical exams, reviewing medical history, performing blood tests, and using imaging tests like echocardiograms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risk factors for acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for acute heart failure include high blood pressure, coronary artery disease, diabetes, obesity, smoking, and a family history of heart disease. Early identification is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help prevent acute heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy diet, regular exercise, avoiding smoking, limiting alcohol intake, and managing stress can help prevent acute heart failure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is acute heart failure diagnosed early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early diagnosis of acute heart failure involves recognizing symptoms such as shortness of breath, fatigue, rapid heartbeat, and swelling in the legs. Seeking medical attention promptly is key.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in the early detection of heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced diagnostic tests and monitoring to quickly identify early symptoms of heart failure, allowing for prompt treatment and management.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can acute heart failure be managed if caught early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, acute heart failure can be managed effectively if caught early. Prompt medical intervention and lifestyle changes can help improve outcomes and quality of life.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do symptoms of acute heart failure change over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of acute heart failure can worsen quickly over time, including shortness of breath, fatigue, swelling, and rapid heartbeat. Early identification is crucial for prompt treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the most common mistakes people make in recognizing heart failure symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistakes people make in recognizing heart failure symptoms include attributing them to aging or ignoring them altogether.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do healthcare providers screen for acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Healthcare providers screen for acute heart failure by conducting physical exams, reviewing medical history, performing blood tests, and using imaging tests like echocardiograms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help prevent acute heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy diet, regular exercise, avoiding smoking, limiting alcohol intake, and managing stress can help prevent acute heart failure.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do symptoms of acute heart failure change over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of acute heart failure can worsen quickly over time, including shortness of breath, fatigue, swelling, and rapid heartbeat. Early identification is crucial for prompt treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -457,8 +429,6 @@
 
 
 
-        <h3>How does Medicover assist in the early detection of heart failure?</h3>
-        <p>Medicover uses advanced diagnostic tests and monitoring to quickly identify early symptoms of heart failure, allowing for prompt treatment and management.</p>
 
 
 

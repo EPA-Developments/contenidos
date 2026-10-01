@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an aortic regurgitation murmur and how is it detected?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic regurgitation murmur is a heart sound caused by blood leaking back into the heart. It's detected through a stethoscope during a physical exam.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What does the presence of an aortic regurgitation murmur indicate?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The presence of an aortic regurgitation murmur indicates a leaky heart valve, which can lead to blood flowing back into the heart chamber and causing potential complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does an aortic regurgitation murmur sound during a physical examination?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During a physical exam, an aortic regurgitation murmur sounds like a high-pitched, blowing noise heard best at the left sternal border.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How important is it to identify an aortic regurgitation murmur early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Identifying an aortic regurgitation murmur early is crucial as it can prevent serious complications like heart failure and damage to the heart valves.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What other tests are needed to confirm aortic regurgitation if a murmur is heard?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An echocardiogram is typically needed to confirm aortic regurgitation if a murmur is heard. This test provides detailed images of the heart's structure and function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an aortic regurgitation murmur and how is it detected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic regurgitation murmur is a heart sound caused by blood leaking back into the heart. It's detected through a stethoscope during a physical exam.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the severity of a murmur relate to the severity of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The severity of a murmur in aortic regurgitation corresponds to the severity of the regurgitation itself, with louder murmurs indicating more significant regurgitation.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What does the presence of an aortic regurgitation murmur indicate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The presence of an aortic regurgitation murmur indicates a leaky heart valve, which can lead to blood flowing back into the heart chamber and causing potential complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic regurgitation murmur be a sign of another heart condition?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic regurgitation murmur can indicate other heart conditions such as aortic valve stenosis or aortic dissection. It is important to get a proper diagnosis.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an aortic regurgitation murmur sound during a physical examination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During a physical exam, an aortic regurgitation murmur sounds like a high-pitched, blowing noise heard best at the left sternal border.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose and monitor aortic regurgitation murmurs?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses and monitors aortic regurgitation murmurs through physical exams, echocardiograms, and regular follow-up appointments to assess the severity and progression of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How important is it to identify an aortic regurgitation murmur early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Identifying an aortic regurgitation murmur early is crucial as it can prevent serious complications like heart failure and damage to the heart valves.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of ignoring a murmur associated with aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ignoring a murmur associated with aortic regurgitation can lead to serious complications like heart failure, arrhythmias, and even sudden cardiac death. It's crucial to address it promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What other tests are needed to confirm aortic regurgitation if a murmur is heard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An echocardiogram is typically needed to confirm aortic regurgitation if a murmur is heard. This test provides detailed images of the heart's structure and function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatments are available once aortic regurgitation is diagnosed through a murmur?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic regurgitation include medication to manage symptoms, monitoring, and in severe cases, surgery to repair or replace the valve.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does the severity of a murmur relate to the severity of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The severity of a murmur in aortic regurgitation corresponds to the severity of the regurgitation itself, with louder murmurs indicating more significant regurgitation.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic regurgitation murmur be a sign of another heart condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic regurgitation murmur can indicate other heart conditions such as aortic valve stenosis or aortic dissection. It is important to get a proper diagnosis.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of ignoring a murmur associated with aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ignoring a murmur associated with aortic regurgitation can lead to serious complications like heart failure, arrhythmias, and even sudden cardiac death. It's crucial to address it promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatments are available once aortic regurgitation is diagnosed through a murmur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic regurgitation include medication to manage symptoms, monitoring, and in severe cases, surgery to repair or replace the valve.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -434,8 +406,6 @@
 
 
 
-        <h3>How does Medicover diagnose and monitor aortic regurgitation murmurs?</h3>
-        <p>Medicover diagnoses and monitors aortic regurgitation murmurs through physical exams, echocardiograms, and regular follow-up appointments to assess the severity and progression of the condition.</p>
 
 
 

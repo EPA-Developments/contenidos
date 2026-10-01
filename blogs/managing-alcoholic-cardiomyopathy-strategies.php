@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How can alcoholic cardiomyopathy be managed effectively?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy can be managed effectively by avoiding alcohol, following a heart-healthy diet, taking prescribed medications, and attending regular check-ups.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What medications are prescribed to manage alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications commonly prescribed for managing alcoholic cardiomyopathy include ACE inhibitors, beta blockers, and diuretics to help improve heart function and reduce symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does lifestyle modification aid in managing alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modifications, such as quitting alcohol, following a heart-healthy diet, and regular exercise, can improve symptoms and slow the progression of alcoholic cardiomyopathy.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does alcohol cessation play in managing alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcohol cessation is crucial in managing alcoholic cardiomyopathy as it can help prevent further damage to the heart and improve overall cardiac function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How often should patients with alcoholic cardiomyopathy have checkups?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with alcoholic cardiomyopathy should have regular checkups every 3-6 months to monitor heart function, symptoms, and overall health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can alcoholic cardiomyopathy be managed effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy can be managed effectively by avoiding alcohol, following a heart-healthy diet, taking prescribed medications, and attending regular check-ups.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Medicover provide longterm management strategies for alcoholic cardiomyopathy patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Medicover can provide comprehensive long-term management strategies for patients with alcoholic cardiomyopathy to help improve their heart health and overall well-being.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications are prescribed to manage alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications commonly prescribed for managing alcoholic cardiomyopathy include ACE inhibitors, beta blockers, and diuretics to help improve heart function and reduce symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for individuals who successfully manage alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for individuals who successfully manage alcoholic cardiomyopathy is generally good, with improved heart function and quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does lifestyle modification aid in managing alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modifications, such as quitting alcohol, following a heart-healthy diet, and regular exercise, can improve symptoms and slow the progression of alcoholic cardiomyopathy.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there rehabilitation programs for individuals with alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, there are rehabilitation programs available for individuals with alcoholic cardiomyopathy to provide support, education, and guidance for managing their condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does alcohol cessation play in managing alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcohol cessation is crucial in managing alcoholic cardiomyopathy as it can help prevent further damage to the heart and improve overall cardiac function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can family support impact the management of alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Family support can play a crucial role in managing alcoholic cardiomyopathy by providing emotional support, encouraging healthy habits, and assisting with treatment adherence.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How often should patients with alcoholic cardiomyopathy have checkups?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with alcoholic cardiomyopathy should have regular checkups every 3-6 months to monitor heart function, symptoms, and overall health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs that the management of alcoholic cardiomyopathy needs to be adjusted?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs that management of alcoholic cardiomyopathy needs adjustment include worsening heart function, increased symptoms like shortness of breath, and abnormal heart rhythms.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the prognosis for individuals who successfully manage alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for individuals who successfully manage alcoholic cardiomyopathy is generally good, with improved heart function and quality of life.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there rehabilitation programs for individuals with alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are rehabilitation programs available for individuals with alcoholic cardiomyopathy to provide support, education, and guidance for managing their condition effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can family support impact the management of alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Family support can play a crucial role in managing alcoholic cardiomyopathy by providing emotional support, encouraging healthy habits, and assisting with treatment adherence.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that the management of alcoholic cardiomyopathy needs to be adjusted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that management of alcoholic cardiomyopathy needs adjustment include worsening heart function, increased symptoms like shortness of breath, and abnormal heart rhythms.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -430,8 +402,6 @@
 
 
 
-        <h3>Can Medicover provide longterm management strategies for alcoholic cardiomyopathy patients?</h3>
-        <p>Yes, Medicover can provide comprehensive long-term management strategies for patients with alcoholic cardiomyopathy to help improve their heart health and overall well-being.</p>
 
 
 

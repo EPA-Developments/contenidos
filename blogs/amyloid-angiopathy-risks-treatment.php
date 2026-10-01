@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is amyloid angiopathy and how does it affect the brain and circulatory system?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Amyloid angiopathy is a condition where abnormal proteins called amyloids build up in the walls of blood vessels in the brain, causing them to weaken and leak, increasing the risk of hemorrhagic strokes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of amyloid angiopathy include headaches, confusion, memory loss, difficulty speaking, and weakness in limbs. Seek medical attention if experiencing these.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is amyloid angiopathy diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Amyloid angiopathy is typically diagnosed through brain imaging tests such as MRI or CT scans, looking for evidence of amyloid deposits in blood vessels.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes amyloid angiopathy to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Amyloid angiopathy develops when abnormal protein deposits called amyloid accumulate in the walls of blood vessels in the brain, causing them to weaken and become prone to bleeding.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks associated with amyloid angiopathy include cerebral hemorrhage, cognitive decline, and potential stroke due to the buildup of amyloid proteins in blood vessels. Treatment options vary depending on the severity of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is amyloid angiopathy and how does it affect the brain and circulatory system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amyloid angiopathy is a condition where abnormal proteins called amyloids build up in the walls of blood vessels in the brain, causing them to weaken and leak, increasing the risk of hemorrhagic strokes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover treat amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover treats amyloid angiopathy through medication management, lifestyle changes, and monitoring to reduce the risk of complications and improve quality of life.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of amyloid angiopathy include headaches, confusion, memory loss, difficulty speaking, and weakness in limbs. Seek medical attention if experiencing these.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can amyloid angiopathy lead to a stroke or bleeding in the brain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, amyloid angiopathy can lead to a stroke or bleeding in the brain. It weakens blood vessel walls, increasing the risk of these serious complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is amyloid angiopathy diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amyloid angiopathy is typically diagnosed through brain imaging tests such as MRI or CT scans, looking for evidence of amyloid deposits in blood vessels.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there any preventive measures for amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Maintaining a healthy lifestyle, managing blood pressure and cholesterol levels, and avoiding smoking can help prevent amyloid angiopathy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes amyloid angiopathy to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amyloid angiopathy develops when abnormal protein deposits called amyloid accumulate in the walls of blood vessels in the brain, causing them to weaken and become prone to bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the current treatment options for amyloid angiopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Current treatment options for amyloid angiopathy include managing blood pressure, controlling cholesterol levels, and using medications to reduce the risk of bleeding in the brain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks associated with amyloid angiopathy include cerebral hemorrhage, cognitive decline, and potential stroke due to the buildup of amyloid proteins in blood vessels. Treatment options vary depending on the severity of the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does amyloid angiopathy affect longterm brain health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Amyloid angiopathy can lead to impaired cognitive function, increased risk of stroke, and potentially contribute to the development of neurodegenerative diseases like Alzheimer's.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can amyloid angiopathy lead to a stroke or bleeding in the brain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, amyloid angiopathy can lead to a stroke or bleeding in the brain. It weakens blood vessel walls, increasing the risk of these serious complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any preventive measures for amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining a healthy lifestyle, managing blood pressure and cholesterol levels, and avoiding smoking can help prevent amyloid angiopathy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the current treatment options for amyloid angiopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current treatment options for amyloid angiopathy include managing blood pressure, controlling cholesterol levels, and using medications to reduce the risk of bleeding in the brain.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does amyloid angiopathy affect longterm brain health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amyloid angiopathy can lead to impaired cognitive function, increased risk of stroke, and potentially contribute to the development of neurodegenerative diseases like Alzheimer's.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -421,8 +393,6 @@
 
 
 
-        <h3>How does Medicover treat amyloid angiopathy?</h3>
-        <p>Medicover treats amyloid angiopathy through medication management, lifestyle changes, and monitoring to reduce the risk of complications and improve quality of life.</p>
 
 
 

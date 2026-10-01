@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What causes unstable angina to develop?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina develops due to a sudden reduction in blood flow to the heart, often caused by a blood clot or plaque rupture in the coronary arteries.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do blocked arteries contribute to unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blocked arteries restrict blood flow to the heart, causing oxygen deprivation which can lead to chest pain or discomfort known as unstable angina.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can stress be a trigger for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, stress can be a trigger for unstable angina. Emotional stress can lead to increased heart rate and blood pressure, potentially triggering chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does high cholesterol play a role in the development of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High cholesterol can lead to the buildup of plaque in the arteries, causing them to become narrowed or blocked, increasing the risk of unstable angina.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of inflammation in unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Inflammation plays a key role in the development of unstable angina by causing plaque rupture in the coronary arteries, leading to blood clot formation and reduced blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes unstable angina to develop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina develops due to a sudden reduction in blood flow to the heart, often caused by a blood clot or plaque rupture in the coronary arteries.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose the underlying causes of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses the underlying causes of unstable angina through a combination of medical history review, physical exams, imaging tests, and blood work.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do blocked arteries contribute to unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blocked arteries restrict blood flow to the heart, causing oxygen deprivation which can lead to chest pain or discomfort known as unstable angina.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle factors like smoking lead to unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle factors like smoking can lead to unstable angina by causing atherosclerosis and narrowing of the coronary arteries, reducing blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can stress be a trigger for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, stress can be a trigger for unstable angina. Emotional stress can lead to increased heart rate and blood pressure, potentially triggering chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the relationship between unstable angina and coronary artery disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina is a symptom of underlying coronary artery disease, caused by reduced blood flow to the heart due to narrowed or blocked arteries.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does high cholesterol play a role in the development of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High cholesterol can lead to the buildup of plaque in the arteries, causing them to become narrowed or blocked, increasing the risk of unstable angina.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does high blood pressure increase the risk of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High blood pressure increases the risk of unstable angina by putting extra strain on the heart, leading to reduced blood flow and potential blockages in the coronary arteries.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of inflammation in unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inflammation plays a key role in the development of unstable angina by causing plaque rupture in the coronary arteries, leading to blood clot formation and reduced blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can the causes of unstable angina be prevented or minimized?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The causes of unstable angina can be prevented or minimized by managing risk factors like smoking, high blood pressure, high cholesterol, and diabetes through lifestyle changes and medication.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle factors like smoking lead to unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle factors like smoking can lead to unstable angina by causing atherosclerosis and narrowing of the coronary arteries, reducing blood flow to the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the relationship between unstable angina and coronary artery disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina is a symptom of underlying coronary artery disease, caused by reduced blood flow to the heart due to narrowed or blocked arteries.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does high blood pressure increase the risk of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "High blood pressure increases the risk of unstable angina by putting extra strain on the heart, leading to reduced blood flow and potential blockages in the coronary arteries.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can the causes of unstable angina be prevented or minimized?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The causes of unstable angina can be prevented or minimized by managing risk factors like smoking, high blood pressure, high cholesterol, and diabetes through lifestyle changes and medication.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -433,8 +405,6 @@
 
 
 
-        <h3>How does Medicover diagnose the underlying causes of unstable angina?</h3>
-        <p>Medicover diagnoses the underlying causes of unstable angina through a combination of medical history review, physical exams, imaging tests, and blood work.</p>
 
 
 

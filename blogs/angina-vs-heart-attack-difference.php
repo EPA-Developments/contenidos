@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the key differences between angina and a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina is chest pain due to reduced blood flow, while a heart attack is caused by a complete blockage of blood flow. Both serious, but differ in severity.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do the symptoms of angina differ from a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina symptoms are brief chest discomfort, often triggered by exertion or stress. Heart attack symptoms are severe and prolonged chest pain with potential shortness of breath and nausea.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can angina lead to a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, angina can lead to a heart attack if left untreated. It is a warning sign of potential heart issues and should not be ignored.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a heart attack diagnosed compared to angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A heart attack is diagnosed through blood tests and ECG, while angina is diagnosed based on symptoms and stress tests.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you experience symptoms of both angina and a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you experience symptoms of both angina and a heart attack, seek immediate medical attention by calling emergency services or going to the nearest emergency room. It's important to get prompt medical care to determine the cause of your symptoms and receive appropriate treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key differences between angina and a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina is chest pain due to reduced blood flow, while a heart attack is caused by a complete blockage of blood flow. Both serious, but differ in severity.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover diagnose and treat angina vs a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover diagnoses angina through symptoms, stress tests, and imaging. Treatment includes lifestyle changes, medications, and possible procedures. A heart attack is diagnosed through ECG, blood tests, and imaging, and requires immediate medical intervention like clot-busting drugs or a stent.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do the symptoms of angina differ from a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina symptoms are brief chest discomfort, often triggered by exertion or stress. Heart attack symptoms are severe and prolonged chest pain with potential shortness of breath and nausea.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risk factors for developing angina and heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk factors for angina and heart attack include high blood pressure, high cholesterol, smoking, diabetes, obesity, and a sedentary lifestyle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can angina lead to a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, angina can lead to a heart attack if left untreated. It is a warning sign of potential heart issues and should not be ignored.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do treatments for angina differ from those for a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatments for angina focus on managing symptoms and preventing future episodes, while treatments for a heart attack aim to restore blood flow to the heart muscle.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a heart attack diagnosed compared to angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A heart attack is diagnosed through blood tests and ECG, while angina is diagnosed based on symptoms and stress tests.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for individuals with angina vs those who have had a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with angina may have increased risk of heart attack. Heart attack survivors may experience heart damage and complications, impacting long-term health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you experience symptoms of both angina and a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience symptoms of both angina and a heart attack, seek immediate medical attention by calling emergency services or going to the nearest emergency room. It's important to get prompt medical care to determine the cause of your symptoms and receive appropriate treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle changes reduce the risk of both angina and heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Making lifestyle changes such as exercising regularly, eating a healthy diet, managing stress, quitting smoking, and controlling high blood pressure can reduce the risk of both angina and heart attack.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risk factors for developing angina and heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk factors for angina and heart attack include high blood pressure, high cholesterol, smoking, diabetes, obesity, and a sedentary lifestyle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do treatments for angina differ from those for a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatments for angina focus on managing symptoms and preventing future episodes, while treatments for a heart attack aim to restore blood flow to the heart muscle.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the longterm outcomes for individuals with angina vs those who have had a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with angina may have increased risk of heart attack. Heart attack survivors may experience heart damage and complications, impacting long-term health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle changes reduce the risk of both angina and heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Making lifestyle changes such as exercising regularly, eating a healthy diet, managing stress, quitting smoking, and controlling high blood pressure can reduce the risk of both angina and heart attack.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -429,8 +401,6 @@
 
 
 
-        <h3>How does Medicover diagnose and treat angina vs a heart attack?</h3>
-        <p>Medicover diagnoses angina through symptoms, stress tests, and imaging. Treatment includes lifestyle changes, medications, and possible procedures. A heart attack is diagnosed through ECG, blood tests, and imaging, and requires immediate medical intervention like clot-busting drugs or a stent.</p>
 
 
 

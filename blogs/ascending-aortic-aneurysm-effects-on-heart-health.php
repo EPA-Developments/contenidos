@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is an ascending aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ascending aortic aneurysm is a bulging or weakening of the aorta, the main artery that carries blood away from the heart, which can lead to serious cardiovascular complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does an ascending aortic aneurysm differ from other types of aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ascending aortic aneurysm specifically affects the aorta as it exits the heart, posing unique risks to heart health compared to other types of aneurysms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms indicate you may have an ascending aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of an ascending aortic aneurysm may include chest or back pain, shortness of breath, coughing, hoarseness, and difficulty swallowing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why is an ascending aortic aneurysm considered dangerous?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ascending aortic aneurysm is dangerous because it can lead to aortic dissection, a life-threatening condition where the artery tears, causing internal bleeding.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is an ascending aortic aneurysm treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ascending aortic aneurysm is typically treated through surgical repair to prevent complications and preserve heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is an ascending aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ascending aortic aneurysm is a bulging or weakening of the aorta, the main artery that carries blood away from the heart, which can lead to serious cardiovascular complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage ascending aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages ascending aortic aneurysms through close monitoring, lifestyle changes, medication, and surgical intervention if necessary to prevent complications and protect heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does an ascending aortic aneurysm differ from other types of aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ascending aortic aneurysm specifically affects the aorta as it exits the heart, posing unique risks to heart health compared to other types of aneurysms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an ascending aortic aneurysm lead to complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, an ascending aortic aneurysm can lead to complications such as aortic dissection, rupture, or heart valve dysfunction, impacting heart health significantly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms indicate you may have an ascending aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of an ascending aortic aneurysm may include chest or back pain, shortness of breath, coughing, hoarseness, and difficulty swallowing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is the size of an ascending aortic aneurysm measured?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An ascending aortic aneurysm is measured using imaging tests like CT scans or MRIs to determine its size and monitor its growth for heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why is an ascending aortic aneurysm considered dangerous?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ascending aortic aneurysm is dangerous because it can lead to aortic dissection, a life-threatening condition where the artery tears, causing internal bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes help prevent an ascending aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help prevent an ascending aortic aneurysm.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is an ascending aortic aneurysm treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ascending aortic aneurysm is typically treated through surgical repair to prevent complications and preserve heart health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the prognosis for people with ascending aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for individuals with ascending aortic aneurysms varies depending on size, underlying conditions, and prompt management. Regular monitoring and lifestyle changes can improve outcomes.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can an ascending aortic aneurysm lead to complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, an ascending aortic aneurysm can lead to complications such as aortic dissection, rupture, or heart valve dysfunction, impacting heart health significantly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the size of an ascending aortic aneurysm measured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ascending aortic aneurysm is measured using imaging tests like CT scans or MRIs to determine its size and monitor its growth for heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes help prevent an ascending aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes such as quitting smoking, managing blood pressure, and maintaining a healthy weight can help prevent an ascending aortic aneurysm.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the prognosis for people with ascending aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for individuals with ascending aortic aneurysms varies depending on size, underlying conditions, and prompt management. Regular monitoring and lifestyle changes can improve outcomes.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -426,8 +398,6 @@
 
 
 
-        <h3>How does Medicover manage ascending aortic aneurysms?</h3>
-        <p>Medicover manages ascending aortic aneurysms through close monitoring, lifestyle changes, medication, and surgical intervention if necessary to prevent complications and protect heart health.</p>
 
 
 

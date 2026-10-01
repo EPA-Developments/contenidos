@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of Vincent angina include painful, swollen gums, bad breath, and ulcers in the mouth. It may also cause fever and difficulty swallowing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What causes Vincent angina and how is it diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina is caused by bacterial infection. It is diagnosed through a physical exam, medical history, and potentially a throat culture test.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is Vincent angina treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina is typically treated with antibiotics to fight the underlying infection, along with good oral hygiene practices and regular dental check-ups.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of antibiotics in treating Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotics are crucial in treating Vincent angina as they help eliminate the bacterial infection causing the condition, reducing symptoms and promoting healing.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can Vincent angina lead to serious complications if untreated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, untreated Vincent angina can lead to serious complications such as heart damage, infections, and difficulty swallowing. It is important to seek medical attention for proper treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of Vincent angina include painful, swollen gums, bad breath, and ulcers in the mouth. It may also cause fever and difficulty swallowing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Vincent angina affect the oral cavity?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Vincent angina can cause pain, inflammation, and ulceration in the oral cavity, particularly the gums and throat. Proper treatment is essential for relief.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What causes Vincent angina and how is it diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina is caused by bacterial infection. It is diagnosed through a physical exam, medical history, and potentially a throat culture test.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes can help prevent Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To help prevent Vincent angina, maintaining good oral hygiene, quitting smoking, reducing stress, and eating a healthy diet can be beneficial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is Vincent angina treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina is typically treated with antibiotics to fight the underlying infection, along with good oral hygiene practices and regular dental check-ups.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover assist in the treatment of Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can provide medical professionals and resources for the diagnosis, treatment, and management of Vincent angina, ensuring comprehensive care for patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of antibiotics in treating Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotics are crucial in treating Vincent angina as they help eliminate the bacterial infection causing the condition, reducing symptoms and promoting healing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risk factors for developing Vincent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk factors for developing Vincent angina include poor dental hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can Vincent angina lead to serious complications if untreated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, untreated Vincent angina can lead to serious complications such as heart damage, infections, and difficulty swallowing. It is important to seek medical attention for proper treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Vincent angina recur after treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Vincent angina can recur after treatment if underlying factors such as poor oral hygiene or smoking are not addressed. Regular follow-ups are important.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does Vincent angina affect the oral cavity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vincent angina can cause pain, inflammation, and ulceration in the oral cavity, particularly the gums and throat. Proper treatment is essential for relief.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help prevent Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To help prevent Vincent angina, maintaining good oral hygiene, quitting smoking, reducing stress, and eating a healthy diet can be beneficial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risk factors for developing Vincent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk factors for developing Vincent angina include poor dental hygiene, smoking, stress, weakened immune system, and nutritional deficiencies.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Vincent angina recur after treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Vincent angina can recur after treatment if underlying factors such as poor oral hygiene or smoking are not addressed. Regular follow-ups are important.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -436,8 +408,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover assist in the treatment of Vincent angina?</p>
 
 
 

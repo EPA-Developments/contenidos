@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the latest treatment advancements for aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest advancements in treating aortic aneurysms include minimally invasive endovascular repair and custom-made stent grafts for safer and more effective outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How have surgical techniques for aortic aneurysms improved in recent years?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recent advancements in surgical techniques for aortic aneurysms include minimally invasive procedures like endovascular repair, leading to quicker recovery and reduced risks compared to traditional open surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What new technologies are being used to treat aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Minimally invasive endovascular techniques like stent grafts and fenestrated devices are being used to treat aortic aneurysms, offering safer and more effective options.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How has endovascular repair evolved for aortic aneurysm treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Endovascular repair has evolved for aortic aneurysm treatment by offering less invasive procedures, quicker recovery times, and improved outcomes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do minimally invasive procedures play in treating aortic aneurysms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Minimally invasive procedures play a crucial role in treating aortic aneurysms by offering less invasive options for repair, resulting in faster recovery times and reduced risks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the latest treatment advancements for aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest advancements in treating aortic aneurysms include minimally invasive endovascular repair and custom-made stent grafts for safer and more effective outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover incorporate new advancements in aortic aneurysm treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover incorporates new advancements in aortic aneurysm treatment by offering minimally invasive procedures such as endovascular stent grafting.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How have surgical techniques for aortic aneurysms improved in recent years?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recent advancements in surgical techniques for aortic aneurysms include minimally invasive procedures like endovascular repair, leading to quicker recovery and reduced risks compared to traditional open surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the benefits of these advancements for patient outcomes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest advancements in aortic aneurysm treatment lead to improved patient outcomes by offering less invasive procedures and faster recovery times.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What new technologies are being used to treat aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimally invasive endovascular techniques like stent grafts and fenestrated devices are being used to treat aortic aneurysms, offering safer and more effective options.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can patients benefit from the latest advancements in aortic aneurysm care?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can benefit from the latest advancements in aortic aneurysm care by having access to less invasive procedures, reduced recovery times, and improved long-term outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How has endovascular repair evolved for aortic aneurysm treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Endovascular repair has evolved for aortic aneurysm treatment by offering less invasive procedures, quicker recovery times, and improved outcomes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the future of aortic aneurysm treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The future of aortic aneurysm treatment lies in minimally invasive procedures like endovascular repair, offering quicker recovery and improved outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do minimally invasive procedures play in treating aortic aneurysms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimally invasive procedures play a crucial role in treating aortic aneurysms by offering less invasive options for repair, resulting in faster recovery times and reduced risks.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do these new treatments improve recovery times for patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "These new treatments for aortic aneurysms are less invasive, reducing recovery times by allowing patients to heal faster with fewer complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the benefits of these advancements for patient outcomes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest advancements in aortic aneurysm treatment lead to improved patient outcomes by offering less invasive procedures and faster recovery times.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can patients benefit from the latest advancements in aortic aneurysm care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can benefit from the latest advancements in aortic aneurysm care by having access to less invasive procedures, reduced recovery times, and improved long-term outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the future of aortic aneurysm treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The future of aortic aneurysm treatment lies in minimally invasive procedures like endovascular repair, offering quicker recovery and improved outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do these new treatments improve recovery times for patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These new treatments for aortic aneurysms are less invasive, reducing recovery times by allowing patients to heal faster with fewer complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -449,8 +421,6 @@
 
 
 
-        <h3>How does Medicover incorporate new advancements in aortic aneurysm treatment?</h3>
-        <p>Medicover incorporates new advancements in aortic aneurysm treatment by offering minimally invasive procedures such as endovascular stent grafting.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the potential longterm effects of tetralogy of Fallot on heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential long-term effects of tetralogy of Fallot on heart health include arrhythmias, heart failure, pulmonary hypertension, and increased risk of infective endocarditis. Regular monitoring is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does tetralogy of Fallot affect heart function over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tetralogy of Fallot can lead to heart enlargement, arrhythmias, heart failure, and decreased exercise tolerance over time due to the structural defects in the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can tetralogy of Fallot lead to other heart conditions as a child grows older?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, tetralogy of Fallot can lead to other heart conditions as a child grows older, such as arrhythmias, valve problems, and heart failure. Regular monitoring is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How often should tetralogy of Fallot patients have followup heart exams?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tetralogy of Fallot patients should have regular heart exams every 1-2 years to monitor heart health and detect any potential issues early on.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What longterm complications can arise for tetralogy of Fallot patients after surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Longterm complications after surgery for Tetralogy of Fallot can include arrhythmias, pulmonary valve regurgitation, and heart failure. Regular check-ups are important.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the potential longterm effects of tetralogy of Fallot on heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential long-term effects of tetralogy of Fallot on heart health include arrhythmias, heart failure, pulmonary hypertension, and increased risk of infective endocarditis. Regular monitoring is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can longterm care reduce the risk of complications from tetralogy of Fallot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Longterm care for tetralogy of Fallot can include regular check-ups, medications, and lifestyle changes to monitor and manage heart health, reducing the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does tetralogy of Fallot affect heart function over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tetralogy of Fallot can lead to heart enlargement, arrhythmias, heart failure, and decreased exercise tolerance over time due to the structural defects in the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the chances of developing arrhythmias later in life after tetralogy of Fallot surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The chances of developing arrhythmias later in life after tetralogy of Fallot surgery are higher due to scar tissue and altered heart function.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can tetralogy of Fallot lead to other heart conditions as a child grows older?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, tetralogy of Fallot can lead to other heart conditions as a child grows older, such as arrhythmias, valve problems, and heart failure. Regular monitoring is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do heart valves play a role in the longterm health of tetralogy of Fallot patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heart valves in Tetralogy of Fallot patients may become damaged over time, affecting blood flow. Regular monitoring is crucial for long-term heart health.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How often should tetralogy of Fallot patients have followup heart exams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tetralogy of Fallot patients should have regular heart exams every 1-2 years to monitor heart health and detect any potential issues early on.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover monitor longterm heart health in tetralogy of Fallot patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover monitors longterm heart health in tetralogy of Fallot patients through regular check-ups, echocardiograms, and MRI scans to assess heart function and detect any complications early.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What longterm complications can arise for tetralogy of Fallot patients after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Longterm complications after surgery for Tetralogy of Fallot can include arrhythmias, pulmonary valve regurgitation, and heart failure. Regular check-ups are important.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What steps can be taken to manage the longterm effects of tetralogy of Fallot on heart health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular monitoring, medication, healthy lifestyle, and follow-up care with a cardiologist can help manage the long-term effects of Tetralogy of Fallot on heart health.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How can longterm care reduce the risk of complications from tetralogy of Fallot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Longterm care for tetralogy of Fallot can include regular check-ups, medications, and lifestyle changes to monitor and manage heart health, reducing the risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the chances of developing arrhythmias later in life after tetralogy of Fallot surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The chances of developing arrhythmias later in life after tetralogy of Fallot surgery are higher due to scar tissue and altered heart function.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do heart valves play a role in the longterm health of tetralogy of Fallot patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heart valves in Tetralogy of Fallot patients may become damaged over time, affecting blood flow. Regular monitoring is crucial for long-term heart health.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What steps can be taken to manage the longterm effects of tetralogy of Fallot on heart health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular monitoring, medication, healthy lifestyle, and follow-up care with a cardiologist can help manage the long-term effects of Tetralogy of Fallot on heart health.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -500,8 +472,6 @@
 
 
 
-        <h3>How does Medicover monitor longterm heart health in tetralogy of Fallot patients?</h3>
-        <p>Medicover monitors longterm heart health in tetralogy of Fallot patients through regular check-ups, echocardiograms, and MRI scans to assess heart function and detect any complications early.</p>
 
 
 

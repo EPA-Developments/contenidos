@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How does alcoholic cardiomyopathy affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy weakens the heart muscle, leading to reduced pumping ability and potential heart failure. It is caused by long-term heavy drinking.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What impact does alcoholic cardiomyopathy have on heart pumping ability?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy weakens the heart muscle, reducing its ability to pump blood effectively. This can lead to symptoms like fatigue, shortness of breath, and fluid retention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does alcoholic cardiomyopathy cause heart enlargement and weakening?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcoholic cardiomyopathy is caused by long-term excessive alcohol consumption, leading to heart muscle damage, enlargement, and weakening, impacting heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does alcohol play in the development of heart arrhythmias in alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Alcohol can directly damage heart cells in alcoholic cardiomyopathy, leading to irregular heartbeats (arrhythmias) due to impaired electrical conduction.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can alcoholic cardiomyopathy lead to heart failure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, alcoholic cardiomyopathy can lead to heart failure as it weakens the heart muscle and impairs its ability to pump blood effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does alcoholic cardiomyopathy affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy weakens the heart muscle, leading to reduced pumping ability and potential heart failure. It is caused by long-term heavy drinking.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does heart function decline over time with untreated alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated alcoholic cardiomyopathy can lead to weakened heart muscles, reduced pumping ability, and eventual heart failure as alcohol damages the heart over time.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What impact does alcoholic cardiomyopathy have on heart pumping ability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy weakens the heart muscle, reducing its ability to pump blood effectively. This can lead to symptoms like fatigue, shortness of breath, and fluid retention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the signs that alcoholic cardiomyopathy is affecting heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of alcoholic cardiomyopathy affecting heart function include fatigue, shortness of breath, swelling in legs, rapid heartbeat, and chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does alcoholic cardiomyopathy cause heart enlargement and weakening?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcoholic cardiomyopathy is caused by long-term excessive alcohol consumption, leading to heart muscle damage, enlargement, and weakening, impacting heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can alcohol consumption be reduced or eliminated to improve heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Reducing or eliminating alcohol consumption can improve heart function by preventing further damage to the heart muscle caused by Alcoholic Cardiomyopathy.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does alcohol play in the development of heart arrhythmias in alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alcohol can directly damage heart cells in alcoholic cardiomyopathy, leading to irregular heartbeats (arrhythmias) due to impaired electrical conduction.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help monitor heart function in those with alcoholic cardiomyopathy?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can perform regular cardiac tests like echocardiograms and EKGs to monitor heart function in those with alcoholic cardiomyopathy, helping to assess and manage the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can alcoholic cardiomyopathy lead to heart failure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, alcoholic cardiomyopathy can lead to heart failure as it weakens the heart muscle and impairs its ability to pump blood effectively.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is heart function restored or managed in alcoholic cardiomyopathy patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Heart function in alcoholic cardiomyopathy patients is managed through lifestyle changes, medications, and sometimes advanced treatments like heart transplant.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does heart function decline over time with untreated alcoholic cardiomyopathy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated alcoholic cardiomyopathy can lead to weakened heart muscles, reduced pumping ability, and eventual heart failure as alcohol damages the heart over time.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that alcoholic cardiomyopathy is affecting heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of alcoholic cardiomyopathy affecting heart function include fatigue, shortness of breath, swelling in legs, rapid heartbeat, and chest pain.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can alcohol consumption be reduced or eliminated to improve heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reducing or eliminating alcohol consumption can improve heart function by preventing further damage to the heart muscle caused by Alcoholic Cardiomyopathy.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is heart function restored or managed in alcoholic cardiomyopathy patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Heart function in alcoholic cardiomyopathy patients is managed through lifestyle changes, medications, and sometimes advanced treatments like heart transplant.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -449,8 +421,6 @@
 
 
 
-        <h3>How can Medicover help monitor heart function in those with alcoholic cardiomyopathy?</h3>
-        <p>Medicover can perform regular cardiac tests like echocardiograms and EKGs to monitor heart function in those with alcoholic cardiomyopathy, helping to assess and manage the condition.</p>
 
 
 

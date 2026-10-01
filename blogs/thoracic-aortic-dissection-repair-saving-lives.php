@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is thoracic aortic dissection repair and how does it save lives?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection repair is a surgical procedure to mend a tear in the aorta. By fixing the tear, it prevents life-threatening complications like organ damage or rupture, ultimately saving lives.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the surgical options available for thoracic aortic dissection repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options for thoracic aortic dissection repair include open surgery and endovascular repair, both effective in saving lives by addressing the damaged aorta.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is thoracic aortic dissection repair performed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection repair is performed through surgery to remove the damaged section and replace it with a synthetic graft, preventing further complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks associated with thoracic aortic dissection repair surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risks of thoracic aortic dissection repair surgery include bleeding, infection, stroke, and potential damage to nearby organs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How long does recovery take after thoracic aortic dissection repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery after thoracic aortic dissection repair can take several weeks to months, depending on the individual's overall health and the extent of the procedure.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is thoracic aortic dissection repair and how does it save lives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection repair is a surgical procedure to mend a tear in the aorta. By fixing the tear, it prevents life-threatening complications like organ damage or rupture, ultimately saving lives.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the success rates of thoracic aortic dissection repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The success rates of thoracic aortic dissection repair are generally high, with majority of patients experiencing positive outcomes and improved survival rates.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the surgical options available for thoracic aortic dissection repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options for thoracic aortic dissection repair include open surgery and endovascular repair, both effective in saving lives by addressing the damaged aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does thoracic aortic dissection repair improve survival chances?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Thoracic aortic dissection repair stabilizes the aorta, preventing rupture and potentially fatal complications, significantly improving survival chances.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is thoracic aortic dissection repair performed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection repair is performed through surgery to remove the damaged section and replace it with a synthetic graft, preventing further complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the complications that can arise after thoracic aortic dissection repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Complications may include bleeding, infection, stroke, kidney failure, or re-dissection. Close monitoring post-surgery is crucial for a successful recovery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with thoracic aortic dissection repair surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risks of thoracic aortic dissection repair surgery include bleeding, infection, stroke, and potential damage to nearby organs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover provide care before and after thoracic aortic dissection repair?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive care before and after thoracic aortic dissection repair through monitoring, medication, rehabilitation, and follow-up appointments.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does recovery take after thoracic aortic dissection repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery after thoracic aortic dissection repair can take several weeks to months, depending on the individual's overall health and the extent of the procedure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can early repair of thoracic aortic dissection prevent lifethreatening complications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early repair of thoracic aortic dissection prevents complications by fixing the tear in the aorta before it worsens, reducing the risk of life-threatening events like rupture or organ damage.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the success rates of thoracic aortic dissection repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The success rates of thoracic aortic dissection repair are generally high, with majority of patients experiencing positive outcomes and improved survival rates.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does thoracic aortic dissection repair improve survival chances?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Thoracic aortic dissection repair stabilizes the aorta, preventing rupture and potentially fatal complications, significantly improving survival chances.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the complications that can arise after thoracic aortic dissection repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complications may include bleeding, infection, stroke, kidney failure, or re-dissection. Close monitoring post-surgery is crucial for a successful recovery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can early repair of thoracic aortic dissection prevent lifethreatening complications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early repair of thoracic aortic dissection prevents complications by fixing the tear in the aorta before it worsens, reducing the risk of life-threatening events like rupture or organ damage.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -467,8 +439,6 @@
 
 
 
-        <h3>How does Medicover provide care before and after thoracic aortic dissection repair?</h3>
-        <p>Medicover provides comprehensive care before and after thoracic aortic dissection repair through monitoring, medication, rehabilitation, and follow-up appointments.</p>
 
 
 

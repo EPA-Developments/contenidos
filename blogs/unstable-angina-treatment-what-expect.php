@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the first steps in treating unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The first steps in treating unstable angina typically involve medications to relieve chest pain and reduce the risk of heart attack, along with lifestyle changes and close monitoring by healthcare providers.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How quickly should treatment for unstable angina begin?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for unstable angina should begin promptly to prevent further complications. Seek medical help immediately if experiencing symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What medications are commonly used to treat unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common medications for unstable angina include nitroglycerin, aspirin, beta-blockers, calcium channel blockers, and blood thinners to manage symptoms and prevent complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover manage the emergency treatment of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages unstable angina emergencies by providing prompt assessment, monitoring, medication, and possible interventions to stabilize the patient's condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can unstable angina be treated without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, unstable angina can be treated without surgery by using medications, lifestyle changes, and possibly medical procedures to improve blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the first steps in treating unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first steps in treating unstable angina typically involve medications to relieve chest pain and reduce the risk of heart attack, along with lifestyle changes and close monitoring by healthcare providers.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does the treatment for unstable angina typically last?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for unstable angina typically lasts for several days to a few weeks, depending on the severity and individual response to medication and lifestyle changes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How quickly should treatment for unstable angina begin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for unstable angina should begin promptly to prevent further complications. Seek medical help immediately if experiencing symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the role of surgery in treating unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery may be necessary for severe cases of unstable angina to improve blood flow to the heart or address blockages in the arteries.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications are commonly used to treat unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common medications for unstable angina include nitroglycerin, aspirin, beta-blockers, calcium channel blockers, and blood thinners to manage symptoms and prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How are patients monitored during treatment for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients are monitored during unstable angina treatment through ECGs, blood tests, vital signs, and symptom assessments to ensure effectiveness and safety.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can unstable angina be treated without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, unstable angina can be treated without surgery by using medications, lifestyle changes, and possibly medical procedures to improve blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What lifestyle changes should be made during treatment for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "During treatment for unstable angina, it is important to make lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking prescribed medications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How long does the treatment for unstable angina typically last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for unstable angina typically lasts for several days to a few weeks, depending on the severity and individual response to medication and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the risk of heart attack change with timely treatment of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Timely treatment of unstable angina reduces the risk of heart attack by stabilizing the condition and preventing further complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What is the role of surgery in treating unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery may be necessary for severe cases of unstable angina to improve blood flow to the heart or address blockages in the arteries.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are patients monitored during treatment for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients are monitored during unstable angina treatment through ECGs, blood tests, vital signs, and symptom assessments to ensure effectiveness and safety.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes should be made during treatment for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "During treatment for unstable angina, it is important to make lifestyle changes such as quitting smoking, eating a heart-healthy diet, exercising regularly, managing stress, and taking prescribed medications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the risk of heart attack change with timely treatment of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Timely treatment of unstable angina reduces the risk of heart attack by stabilizing the condition and preventing further complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -428,8 +400,6 @@
 
 
 
-        <h3>How does Medicover manage the emergency treatment of unstable angina?</h3>
-        <p>Medicover manages unstable angina emergencies by providing prompt assessment, monitoring, medication, and possible interventions to stabilize the patient's condition.</p>
 
 
 

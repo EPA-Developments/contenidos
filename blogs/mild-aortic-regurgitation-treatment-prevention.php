@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How is mild aortic regurgitation treated without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Mild aortic regurgitation can be managed through regular monitoring, blood pressure control, and lifestyle changes. Surgery is typically not needed for this condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What medications can help control symptoms of mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medications like ACE inhibitors or ARBs can help manage symptoms of mild aortic regurgitation by reducing blood pressure and easing the workload on the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can patients prevent complications associated with mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients can prevent complications of mild aortic regurgitation by staying active, managing blood pressure, and attending regular check-ups with a healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How often should patients with mild aortic regurgitation get followup exams?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Patients with mild aortic regurgitation should have follow-up exams annually or as recommended by their healthcare provider to monitor their condition and prevent complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does blood pressure control play in managing mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood pressure control is important in managing mild aortic regurgitation to reduce strain on the heart and prevent worsening of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is mild aortic regurgitation treated without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mild aortic regurgitation can be managed through regular monitoring, blood pressure control, and lifestyle changes. Surgery is typically not needed for this condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle modifications prevent mild aortic regurgitation from progressing?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modifications like regular exercise, healthy diet, and avoiding smoking can help prevent mild aortic regurgitation from progressing and reduce the risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications can help control symptoms of mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medications like ACE inhibitors or ARBs can help manage symptoms of mild aortic regurgitation by reducing blood pressure and easing the workload on the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover approach the prevention of complications in mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover focuses on regular monitoring and lifestyle modifications to prevent complications in mild aortic regurgitation, ensuring early detection and timely intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can patients prevent complications associated with mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients can prevent complications of mild aortic regurgitation by staying active, managing blood pressure, and attending regular check-ups with a healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is early intervention for mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention for mild aortic regurgitation is crucial to prevent complications. Regular monitoring and lifestyle changes can help manage the condition effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How often should patients with mild aortic regurgitation get followup exams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients with mild aortic regurgitation should have follow-up exams annually or as recommended by their healthcare provider to monitor their condition and prevent complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can patients with mild aortic regurgitation live a normal life?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, patients with mild aortic regurgitation can live a normal life with regular monitoring and lifestyle changes. It is important to follow up with a healthcare provider.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does blood pressure control play in managing mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood pressure control is important in managing mild aortic regurgitation to reduce strain on the heart and prevent worsening of the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is the risk of endocarditis managed in patients with mild aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk of endocarditis in patients with mild aortic regurgitation is managed by practicing good oral hygiene and avoiding unnecessary dental procedures.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can lifestyle modifications prevent mild aortic regurgitation from progressing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modifications like regular exercise, healthy diet, and avoiding smoking can help prevent mild aortic regurgitation from progressing and reduce the risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is early intervention for mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention for mild aortic regurgitation is crucial to prevent complications. Regular monitoring and lifestyle changes can help manage the condition effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can patients with mild aortic regurgitation live a normal life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, patients with mild aortic regurgitation can live a normal life with regular monitoring and lifestyle changes. It is important to follow up with a healthcare provider.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the risk of endocarditis managed in patients with mild aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk of endocarditis in patients with mild aortic regurgitation is managed by practicing good oral hygiene and avoiding unnecessary dental procedures.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -443,8 +415,6 @@
 
 
 
-        <h3>How does Medicover approach the prevention of complications in mild aortic regurgitation?</h3>
-        <p>Medicover focuses on regular monitoring and lifestyle modifications to prevent complications in mild aortic regurgitation, ensuring early detection and timely intervention.</p>
 
 
 

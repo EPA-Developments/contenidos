@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the main causes of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Main causes of aortic dissection include high blood pressure, genetic conditions, atherosclerosis, trauma, and certain medical procedures. Stay informed and aware.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do genetic conditions affect the risk of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Genetic conditions can weaken the walls of the aorta, increasing the risk of aortic dissection. It's important to be aware of your family history and discuss any concerns with a healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can high blood pressure cause aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, high blood pressure can cause aortic dissection by putting excessive strain on the walls of the aorta, leading to a tear or rupture. It is a major risk factor to be aware of.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic aneurysm contribute to the development of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An aortic aneurysm weakens the aortic wall, making it more susceptible to tearing and leading to aortic dissection, a potentially life-threatening condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role does aging play in the development of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aging is a major risk factor for aortic dissection as the aorta becomes weaker and less flexible over time, increasing the likelihood of a tear or rupture.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the main causes of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Main causes of aortic dissection include high blood pressure, genetic conditions, atherosclerosis, trauma, and certain medical procedures. Stay informed and aware.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do lifestyle factors like smoking and obesity impact the risk of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Smoking and obesity increase the risk of aortic dissection by putting extra strain on the aorta, leading to weakened walls and potential tear.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do genetic conditions affect the risk of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genetic conditions can weaken the walls of the aorta, increasing the risk of aortic dissection. It's important to be aware of your family history and discuss any concerns with a healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic dissection occur without warning signs?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, aortic dissection can occur without warning signs. It is a serious condition that can happen suddenly and without prior symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can high blood pressure cause aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, high blood pressure can cause aortic dissection by putting excessive strain on the walls of the aorta, leading to a tear or rupture. It is a major risk factor to be aware of.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is the risk of aortic dissection assessed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risk of aortic dissection is assessed through factors like age, high blood pressure, connective tissue disorders, family history, and smoking habits.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic aneurysm contribute to the development of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An aortic aneurysm weakens the aortic wall, making it more susceptible to tearing and leading to aortic dissection, a potentially life-threatening condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the key preventative measures to reduce the risk of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key preventative measures to reduce the risk of aortic dissection include managing high blood pressure, avoiding tobacco use, and regular monitoring of any underlying conditions.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role does aging play in the development of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aging is a major risk factor for aortic dissection as the aorta becomes weaker and less flexible over time, increasing the likelihood of a tear or rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover monitor patients at risk for aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover monitors patients at risk for aortic dissection through regular screenings, imaging tests, and monitoring blood pressure to detect any warning signs early on.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do lifestyle factors like smoking and obesity impact the risk of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smoking and obesity increase the risk of aortic dissection by putting extra strain on the aorta, leading to weakened walls and potential tear.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic dissection occur without warning signs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aortic dissection can occur without warning signs. It is a serious condition that can happen suddenly and without prior symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the risk of aortic dissection assessed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risk of aortic dissection is assessed through factors like age, high blood pressure, connective tissue disorders, family history, and smoking habits.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key preventative measures to reduce the risk of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key preventative measures to reduce the risk of aortic dissection include managing high blood pressure, avoiding tobacco use, and regular monitoring of any underlying conditions.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -461,8 +433,6 @@
 
 
 
-        <h3>How does Medicover monitor patients at risk for aortic dissection?</h3>
-        <p>Medicover monitors patients at risk for aortic dissection through regular screenings, imaging tests, and monitoring blood pressure to detect any warning signs early on.</p>
 
 
 

@@ -129,15 +129,6 @@
 							<span>Preventive Cardiologist</span>
                         </div>
                     </div>
-                    <div class="professional-doctors-card">
-                        <div class="doctors-image bg-f7f7f7">
-                            <a href="javascript:void(0)"><img src="images/dr-hemanth-kumar-behera.webp" alt="image"></a>
-                        </div>
-                        <div class="doctors-content">
-                            <h3><a href="javascript:void(0)">Dr Hemanth Kumar Behera</a></h3>
-							<span>Sr. Interventional Cardiologist</span>
-                        </div>
-                    </div>
                     
                 </div>
             </div>

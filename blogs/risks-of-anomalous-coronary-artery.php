@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the primary risks associated with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The primary risks associated with an anomalous coronary artery include sudden cardiac arrest, chest pain, and heart attack. Management involves close monitoring and potentially surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can an anomalous coronary artery lead to serious heart issues?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An anomalous coronary artery can cause serious heart issues by restricting blood flow to the heart, leading to chest pain, heart attack, or sudden cardiac arrest.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can an anomalous coronary artery be detected early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An anomalous coronary artery can be detected early through imaging tests like CT angiography or MRI. Early detection is key for proper management and prevention of complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatment options are available for managing an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for managing an anomalous coronary artery include medications, lifestyle changes, and potentially surgery to correct the abnormality.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover manage patients with an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages patients with an anomalous coronary artery through careful monitoring, lifestyle modifications, medications, and potential surgical intervention if necessary.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the primary risks associated with an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary risks associated with an anomalous coronary artery include sudden cardiac arrest, chest pain, and heart attack. Management involves close monitoring and potentially surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of untreated anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Potential complications of untreated anomalous coronary artery include sudden cardiac arrest, heart attack, and even death. It is crucial to manage it through close monitoring and possibly surgical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can an anomalous coronary artery lead to serious heart issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An anomalous coronary artery can cause serious heart issues by restricting blood flow to the heart, leading to chest pain, heart attack, or sudden cardiac arrest.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can an anomalous coronary artery be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Anomalous coronary arteries cannot be prevented, but risks can be managed through monitoring, lifestyle changes, medication, and in some cases, surgical intervention.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can an anomalous coronary artery be detected early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An anomalous coronary artery can be detected early through imaging tests like CT angiography or MRI. Early detection is key for proper management and prevention of complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What role do lifestyle changes play in managing an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle changes like regular exercise, healthy diet, and avoiding tobacco can help manage an anomalous coronary artery and reduce risks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatment options are available for managing an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for managing an anomalous coronary artery include medications, lifestyle changes, and potentially surgery to correct the abnormality.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does an anomalous coronary artery affect overall heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An anomalous coronary artery can increase the risk of heart complications due to poor blood flow. It may require monitoring, lifestyle changes, or surgery to manage effectively.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the potential complications of untreated anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Potential complications of untreated anomalous coronary artery include sudden cardiac arrest, heart attack, and even death. It is crucial to manage it through close monitoring and possibly surgical intervention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can surgery be necessary to treat an anomalous coronary artery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, surgery may be necessary to correct an anomalous coronary artery if it is causing serious symptoms or complications. It is a treatment option to consider.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can an anomalous coronary artery be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anomalous coronary arteries cannot be prevented, but risks can be managed through monitoring, lifestyle changes, medication, and in some cases, surgical intervention.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role do lifestyle changes play in managing an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle changes like regular exercise, healthy diet, and avoiding tobacco can help manage an anomalous coronary artery and reduce risks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does an anomalous coronary artery affect overall heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An anomalous coronary artery can increase the risk of heart complications due to poor blood flow. It may require monitoring, lifestyle changes, or surgery to manage effectively.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can surgery be necessary to treat an anomalous coronary artery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, surgery may be necessary to correct an anomalous coronary artery if it is causing serious symptoms or complications. It is a treatment option to consider.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -423,8 +395,6 @@
 
 
 
-        <h3>How does Medicover manage patients with an anomalous coronary artery?</h3>
-        <p>Medicover manages patients with an anomalous coronary artery through careful monitoring, lifestyle modifications, medications, and potential surgical intervention if necessary.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is Type B aortic dissection and how does it impact the aorta?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Type B aortic dissection is a tear in the inner layer of the aorta, causing blood to flow between the layers. It can lead to aortic rupture or organ damage.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are Type B aortic dissections diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Type B aortic dissections are diagnosed through imaging tests like CT scans, MRIs, or angiograms to visualize the extent and location of the tear in the aorta.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatment options are available for Type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for Type B aortic dissection include medications to lower blood pressure, surgery, or endovascular stent grafting to repair the damaged aorta.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does medical management differ from surgical management for Type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medical management focuses on controlling blood pressure and heart rate with medications, while surgical management involves repairing the dissected aorta through procedures like stent placement or open surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the longterm outcomes for patients with Type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Long-term outcomes for patients with Type B aortic dissection can vary, but with proper treatment and monitoring, many can lead normal lives.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is Type B aortic dissection and how does it impact the aorta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type B aortic dissection is a tear in the inner layer of the aorta, causing blood to flow between the layers. It can lead to aortic rupture or organ damage.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How is blood pressure controlled in Type B aortic dissection treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood pressure is controlled in Type B aortic dissection treatment through medications like beta-blockers and ACE inhibitors to reduce stress on the aorta.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are Type B aortic dissections diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type B aortic dissections are diagnosed through imaging tests like CT scans, MRIs, or angiograms to visualize the extent and location of the tear in the aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the prognosis for Type B aortic dissection compare to Type A?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The prognosis for Type B aortic dissection is generally better than Type A as it is less likely to require emergency surgery and has a lower risk of mortality.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatment options are available for Type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for Type B aortic dissection include medications to lower blood pressure, surgery, or endovascular stent grafting to repair the damaged aorta.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Type B aortic dissection be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While Type B aortic dissection cannot always be prevented, managing high blood pressure and avoiding smoking can help reduce the risk of developing this condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does medical management differ from surgical management for Type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical management focuses on controlling blood pressure and heart rate with medications, while surgical management involves repairing the dissected aorta through procedures like stent placement or open surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated Type B aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated Type B aortic dissection can lead to life-threatening complications such as aortic rupture, organ damage, and stroke. Early treatment is crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the longterm outcomes for patients with Type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Long-term outcomes for patients with Type B aortic dissection can vary, but with proper treatment and monitoring, many can lead normal lives.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support Type B aortic dissection patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive care for Type B aortic dissection patients through advanced treatments, monitoring, and support to improve outcomes and quality of life.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How is blood pressure controlled in Type B aortic dissection treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood pressure is controlled in Type B aortic dissection treatment through medications like beta-blockers and ACE inhibitors to reduce stress on the aorta.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the prognosis for Type B aortic dissection compare to Type A?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The prognosis for Type B aortic dissection is generally better than Type A as it is less likely to require emergency surgery and has a lower risk of mortality.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Type B aortic dissection be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Type B aortic dissection cannot always be prevented, managing high blood pressure and avoiding smoking can help reduce the risk of developing this condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated Type B aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated Type B aortic dissection can lead to life-threatening complications such as aortic rupture, organ damage, and stroke. Early treatment is crucial.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -483,8 +455,6 @@
 
 
 
-        <h3>How does Medicover support Type B aortic dissection patients?</h3>
-        <p>Medicover provides comprehensive care for Type B aortic dissection patients through advanced treatments, monitoring, and support to improve outcomes and quality of life.</p>
 
 
 

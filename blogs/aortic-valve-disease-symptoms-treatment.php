@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic valve disease and how does it affect heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic valve disease is when the valve between the heart and aorta doesn't work properly, causing issues with blood flow and putting strain on the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the different types of aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The different types of aortic valve disease include aortic stenosis, aortic regurgitation, and bicuspid aortic valve. Each type has its own symptoms and treatment options.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic valve disease impact blood flow through the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic valve disease can cause the valve to become narrowed or leaky, affecting blood flow through the heart and potentially leading to symptoms like chest pain or shortness of breath.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the symptoms of aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of aortic valve disease include chest pain, shortness of breath, fatigue, dizziness, and heart palpitations. It's important to seek medical attention if you experience these.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is aortic valve disease diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic valve disease is diagnosed through a physical exam, imaging tests like echocardiogram, and possibly a cardiac catheterization for more detailed information.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic valve disease and how does it affect heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic valve disease is when the valve between the heart and aorta doesn't work properly, causing issues with blood flow and putting strain on the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What treatment options are available for aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic valve disease include medication, minimally invasive procedures like TAVR, and traditional open-heart surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the different types of aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The different types of aortic valve disease include aortic stenosis, aortic regurgitation, and bicuspid aortic valve. Each type has its own symptoms and treatment options.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can aortic valve disease be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventing aortic valve disease involves maintaining a healthy lifestyle, managing high blood pressure, avoiding smoking, and regular medical check-ups.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic valve disease impact blood flow through the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic valve disease can cause the valve to become narrowed or leaky, affecting blood flow through the heart and potentially leading to symptoms like chest pain or shortness of breath.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks of untreated aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic valve disease can lead to heart failure, arrhythmias, blood clots, and even sudden cardiac death. Early detection and treatment are crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the symptoms of aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of aortic valve disease include chest pain, shortness of breath, fatigue, dizziness, and heart palpitations. It's important to seek medical attention if you experience these.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover manage aortic valve disease treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages aortic valve disease treatment through a combination of medication, lifestyle changes, and surgical interventions, tailored to each patient's specific needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is aortic valve disease diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic valve disease is diagnosed through a physical exam, imaging tests like echocardiogram, and possibly a cardiac catheterization for more detailed information.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When should surgery be considered for aortic valve disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for aortic valve disease should be considered when symptoms are severe, the valve is severely damaged, or if the condition is worsening despite medical treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What treatment options are available for aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic valve disease include medication, minimally invasive procedures like TAVR, and traditional open-heart surgery.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can aortic valve disease be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventing aortic valve disease involves maintaining a healthy lifestyle, managing high blood pressure, avoiding smoking, and regular medical check-ups.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the risks of untreated aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic valve disease can lead to heart failure, arrhythmias, blood clots, and even sudden cardiac death. Early detection and treatment are crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should surgery be considered for aortic valve disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for aortic valve disease should be considered when symptoms are severe, the valve is severely damaged, or if the condition is worsening despite medical treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -435,8 +407,6 @@
 
 
 
-        <h3>How does Medicover manage aortic valve disease treatment?</h3>
-        <p>Medicover manages aortic valve disease treatment through a combination of medication, lifestyle changes, and surgical interventions, tailored to each patient's specific needs.</p>
 
 
 

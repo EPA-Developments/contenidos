@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the treatment options for acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for acyanotic congenital heart disease may include medications, minimally invasive procedures, or surgery to repair defects and improve heart function.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can acyanotic congenital heart disease be treated with medication?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, medication can be used to manage symptoms and improve heart function in acyanotic congenital heart disease, but surgical interventions may also be necessary for long-term treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the role of surgery in treating acyanotic CHD?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery plays a crucial role in correcting structural abnormalities in acyanotic congenital heart disease, improving heart function and overall health.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does interventional cardiology help in managing acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Interventional cardiology helps manage acyanotic congenital heart disease by performing procedures like catheterization to repair defects without open-heart surgery.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What lifestyle changes are recommended for individuals with acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with acyanotic congenital heart disease should maintain a healthy lifestyle by staying physically active, eating a balanced diet, avoiding smoking, and managing stress.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the treatment options for acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for acyanotic congenital heart disease may include medications, minimally invasive procedures, or surgery to repair defects and improve heart function.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in the management of acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover provides comprehensive care for acyanotic congenital heart disease through expert medical evaluation, diagnostic tests, treatment options, and ongoing monitoring.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can acyanotic congenital heart disease be treated with medication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medication can be used to manage symptoms and improve heart function in acyanotic congenital heart disease, but surgical interventions may also be necessary for long-term treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks associated with untreated acyanotic CHD?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risks of untreated acyanotic CHD include heart failure, arrhythmias, pulmonary hypertension, and decreased quality of life. Treatment is crucial for managing these risks.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is the role of surgery in treating acyanotic CHD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery plays a crucial role in correcting structural abnormalities in acyanotic congenital heart disease, improving heart function and overall health.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can acyanotic congenital heart disease be cured or only managed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Acyanotic congenital heart disease can be effectively managed through a combination of medications, lifestyle changes, and in some cases, surgical interventions. Cure is not always possible, but symptoms can be controlled.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does interventional cardiology help in managing acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interventional cardiology helps manage acyanotic congenital heart disease by performing procedures like catheterization to repair defects without open-heart surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How often should individuals with acyanotic congenital heart disease have followup appointments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Individuals with acyanotic congenital heart disease should have regular followup appointments at least once a year to monitor their condition and treatment plan.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What lifestyle changes are recommended for individuals with acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with acyanotic congenital heart disease should maintain a healthy lifestyle by staying physically active, eating a balanced diet, avoiding smoking, and managing stress.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do advancements in treatment improve the prognosis of acyanotic congenital heart disease?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Advancements in treatment for acyanotic congenital heart disease can improve outcomes by addressing defects early, reducing complications, and improving overall heart function.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the risks associated with untreated acyanotic CHD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risks of untreated acyanotic CHD include heart failure, arrhythmias, pulmonary hypertension, and decreased quality of life. Treatment is crucial for managing these risks.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can acyanotic congenital heart disease be cured or only managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acyanotic congenital heart disease can be effectively managed through a combination of medications, lifestyle changes, and in some cases, surgical interventions. Cure is not always possible, but symptoms can be controlled.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should individuals with acyanotic congenital heart disease have followup appointments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals with acyanotic congenital heart disease should have regular followup appointments at least once a year to monitor their condition and treatment plan.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do advancements in treatment improve the prognosis of acyanotic congenital heart disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Advancements in treatment for acyanotic congenital heart disease can improve outcomes by addressing defects early, reducing complications, and improving overall heart function.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -419,8 +391,6 @@
 
 
 
-        <h3>How does Medicover assist in the management of acyanotic congenital heart disease?</h3>
-        <p>Medicover provides comprehensive care for acyanotic congenital heart disease through expert medical evaluation, diagnostic tests, treatment options, and ongoing monitoring.</p>
 
 
 

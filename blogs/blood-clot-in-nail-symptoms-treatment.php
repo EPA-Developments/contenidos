@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the causes of blood clots under the nail?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots under the nail are typically caused by trauma or injury to the nail bed, leading to bleeding and clot formation.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can trauma lead to a nail blood clot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Trauma to the nail can cause blood vessels to rupture, leading to a blood clot forming underneath the nail. This can be painful and may require medical attention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What symptoms indicate a blood clot under the nail?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a blood clot under the nail include pain, swelling, bruising, and a dark discoloration of the nail. It may also feel warm to the touch.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can nail blood clots resolve on their own?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, nail blood clots can resolve on their own as the nail grows out. However, if there is pain or infection, it's best to seek medical attention for treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What treatments are available for blood clots in the nail?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for blood clots in the nail typically involves draining the clot, applying ice, elevating the hand or foot, and taking pain relievers if needed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the causes of blood clots under the nail?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots under the nail are typically caused by trauma or injury to the nail bed, leading to bleeding and clot formation.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are there specific medications for nail blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, there are no specific medications for nail blood clots. Treatment typically involves managing symptoms and allowing the clot to resolve on its own.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can trauma lead to a nail blood clot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trauma to the nail can cause blood vessels to rupture, leading to a blood clot forming underneath the nail. This can be painful and may require medical attention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help with nail blood clot treatments?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can provide professional treatment for nail blood clots, offering medical expertise and specialized care to address the issue effectively and efficiently.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What symptoms indicate a blood clot under the nail?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a blood clot under the nail include pain, swelling, bruising, and a dark discoloration of the nail. It may also feel warm to the touch.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What complications can result from untreated nail blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated nail blood clots can lead to infection, pain, and potential damage to the nail bed. It's important to seek medical attention for proper treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can nail blood clots resolve on their own?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, nail blood clots can resolve on their own as the nail grows out. However, if there is pain or infection, it's best to seek medical attention for treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can poor footwear contribute to nail blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, poor footwear can contribute to nail blood clots by causing trauma or pressure on the nail, leading to bleeding under the nail bed.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What treatments are available for blood clots in the nail?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for blood clots in the nail typically involves draining the clot, applying ice, elevating the hand or foot, and taking pain relievers if needed.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are followup visits necessary after treating a nail blood clot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, follow-up visits are necessary after treating a nail blood clot to ensure proper healing and monitor for any complications.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Are there specific medications for nail blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, there are no specific medications for nail blood clots. Treatment typically involves managing symptoms and allowing the clot to resolve on its own.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What complications can result from untreated nail blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated nail blood clots can lead to infection, pain, and potential damage to the nail bed. It's important to seek medical attention for proper treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can poor footwear contribute to nail blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, poor footwear can contribute to nail blood clots by causing trauma or pressure on the nail, leading to bleeding under the nail bed.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are followup visits necessary after treating a nail blood clot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, follow-up visits are necessary after treating a nail blood clot to ensure proper healing and monitor for any complications.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -443,8 +415,6 @@
 
 
 
-        <h3></h3>
-        <p>How can Medicover help with nail blood clot treatments?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Can blood clots in the brain be treated without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the brain can be treated without surgery using medications such as blood thinners or clot-busting drugs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the risks of not performing surgery on brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Without surgery, risks of brain blood clots include stroke, brain damage, and potential life-threatening complications. Surgery may be necessary for treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How are blood clots in the brain diagnosed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blood clots in the brain are diagnosed through imaging tests like CT or MRI scans. They can be treated without surgery using medications or clot-busting drugs.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What nonsurgical treatments are available for brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, nonsurgical treatments for brain blood clots include medications like blood thinners and clot-busting drugs, as well as monitoring and lifestyle changes.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover assist in the treatment of brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover offers minimally invasive procedures like thrombectomy to remove blood clots in the brain without surgery, providing effective treatment options for patients.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots in the brain be treated without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the brain can be treated without surgery using medications such as blood thinners or clot-busting drugs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "When is surgery necessary for brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgery for brain blood clots is necessary when they are large, causing severe symptoms, or putting pressure on the brain. Smaller clots may be treated without surgery.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks of not performing surgery on brain blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without surgery, risks of brain blood clots include stroke, brain damage, and potential life-threatening complications. Surgery may be necessary for treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the potential complications of untreated blood clots in the brain?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated blood clots in the brain can lead to stroke, brain damage, or even death. It's crucial to seek medical treatment promptly to prevent these complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How are blood clots in the brain diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blood clots in the brain are diagnosed through imaging tests like CT or MRI scans. They can be treated without surgery using medications or clot-busting drugs.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does medication help in managing brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medication can help dissolve blood clots in the brain without surgery, reducing the risk of complications and improving blood flow.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What nonsurgical treatments are available for brain blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, nonsurgical treatments for brain blood clots include medications like blood thinners and clot-busting drugs, as well as monitoring and lifestyle changes.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive measures can reduce the risk of brain blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Preventive measures such as staying hydrated, exercising regularly, quitting smoking, and managing underlying health conditions can reduce the risk of brain blood clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "When is surgery necessary for brain blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgery for brain blood clots is necessary when they are large, causing severe symptoms, or putting pressure on the brain. Smaller clots may be treated without surgery.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can brain blood clots resolve on their own without surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Brain blood clots can sometimes resolve on their own without surgery, but it's crucial to seek medical attention promptly to determine the best course of treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the potential complications of untreated blood clots in the brain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated blood clots in the brain can lead to stroke, brain damage, or even death. It's crucial to seek medical treatment promptly to prevent these complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does medication help in managing brain blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medication can help dissolve blood clots in the brain without surgery, reducing the risk of complications and improving blood flow.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive measures can reduce the risk of brain blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preventive measures such as staying hydrated, exercising regularly, quitting smoking, and managing underlying health conditions can reduce the risk of brain blood clots.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can brain blood clots resolve on their own without surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brain blood clots can sometimes resolve on their own without surgery, but it's crucial to seek medical attention promptly to determine the best course of treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -439,8 +411,6 @@
 
 
 
-        <h3>How does Medicover assist in the treatment of brain blood clots?</h3>
-        <p>Medicover offers minimally invasive procedures like thrombectomy to remove blood clots in the brain without surgery, providing effective treatment options for patients.</p>
 
 
 

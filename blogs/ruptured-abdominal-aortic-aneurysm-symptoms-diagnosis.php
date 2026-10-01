@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the signs of a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Signs of a ruptured abdominal aortic aneurysm include sudden and severe abdominal or back pain, dizziness, clammy skin, and a rapid heartbeat.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you tell if an abdominal aortic aneurysm is about to rupture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of a ruptured abdominal aortic aneurysm may include sudden, severe abdominal or back pain, dizziness, rapid heartbeat, and low blood pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What should you do if you experience symptoms of a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you experience symptoms of a ruptured abdominal aortic aneurysm, seek immediate medical attention by calling 911 or going to the nearest emergency room.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How is a ruptured abdominal aortic aneurysm treated?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A ruptured abdominal aortic aneurysm is treated through emergency surgery to repair the weakened artery and prevent life-threatening bleeding.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does Medicover manage a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover manages a ruptured abdominal aortic aneurysm through immediate surgery to repair the artery and prevent further complications. Early detection is crucial for successful treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the signs of a ruptured abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of a ruptured abdominal aortic aneurysm include sudden and severe abdominal or back pain, dizziness, clammy skin, and a rapid heartbeat.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the risks associated with a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Risks of a ruptured abdominal aortic aneurysm include internal bleeding, shock, and potentially fatal complications. Seek immediate medical attention if symptoms occur.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you tell if an abdominal aortic aneurysm is about to rupture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of a ruptured abdominal aortic aneurysm may include sudden, severe abdominal or back pain, dizziness, rapid heartbeat, and low blood pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the chances of survival after a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The chances of survival after a ruptured abdominal aortic aneurysm are low, with only about 10-25% of patients surviving if they receive prompt medical treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What should you do if you experience symptoms of a ruptured abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience symptoms of a ruptured abdominal aortic aneurysm, seek immediate medical attention by calling 911 or going to the nearest emergency room.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can a ruptured abdominal aortic aneurysm be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A ruptured abdominal aortic aneurysm cannot always be prevented, but early detection and monitoring by a healthcare provider can help reduce the risk.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How is a ruptured abdominal aortic aneurysm treated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A ruptured abdominal aortic aneurysm is treated through emergency surgery to repair the weakened artery and prevent life-threatening bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What tests are used to diagnose a ruptured abdominal aortic aneurysm?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests used to diagnose a ruptured abdominal aortic aneurysm include CT scans, ultrasounds, and blood tests to assess for internal bleeding and determine the severity.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the risks associated with a ruptured abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Risks of a ruptured abdominal aortic aneurysm include internal bleeding, shock, and potentially fatal complications. Seek immediate medical attention if symptoms occur.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How quickly should treatment be administered after a rupture?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment for a ruptured abdominal aortic aneurysm should be administered immediately to increase chances of survival. Time is of the essence in this emergency situation.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the chances of survival after a ruptured abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The chances of survival after a ruptured abdominal aortic aneurysm are low, with only about 10-25% of patients surviving if they receive prompt medical treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a ruptured abdominal aortic aneurysm be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A ruptured abdominal aortic aneurysm cannot always be prevented, but early detection and monitoring by a healthcare provider can help reduce the risk.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What tests are used to diagnose a ruptured abdominal aortic aneurysm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests used to diagnose a ruptured abdominal aortic aneurysm include CT scans, ultrasounds, and blood tests to assess for internal bleeding and determine the severity.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly should treatment be administered after a rupture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment for a ruptured abdominal aortic aneurysm should be administered immediately to increase chances of survival. Time is of the essence in this emergency situation.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -409,8 +381,6 @@
 
 
 
-        <h3>How does Medicover manage a ruptured abdominal aortic aneurysm?</h3>
-        <p>Medicover manages a ruptured abdominal aortic aneurysm through immediate surgery to repair the artery and prevent further complications. Early detection is crucial for successful treatment.</p>
 
 
 

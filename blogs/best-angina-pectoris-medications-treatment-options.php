@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What medications are commonly prescribed for angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common medications for angina pectoris include nitrates, beta-blockers, calcium channel blockers, and ranolazine. These help manage symptoms and improve blood flow to the heart.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do nitrates work to relieve angina symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Nitrates work by dilating blood vessels, increasing oxygen supply to the heart, and reducing the workload on the heart, which helps relieve angina symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do betablockers play in managing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Betablockers help manage angina pectoris by reducing heart rate and blood pressure, decreasing the heart's workload and oxygen demand.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are calcium channel blockers effective for treating angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, calcium channel blockers are effective for treating angina by helping relax and widen blood vessels to improve blood flow to the heart muscle.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aspirin help prevent angina pectoris symptoms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aspirin helps prevent angina pectoris symptoms by reducing blood clot formation and improving blood flow to the heart, which helps alleviate chest pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What medications are commonly prescribed for angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common medications for angina pectoris include nitrates, beta-blockers, calcium channel blockers, and ranolazine. These help manage symptoms and improve blood flow to the heart.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Medicover help in adjusting medications for optimal angina management?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Medicover can help adjust medications for optimal angina management. Our team of healthcare professionals can tailor treatment plans to meet individual needs.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do nitrates work to relieve angina symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nitrates work by dilating blood vessels, increasing oxygen supply to the heart, and reducing the workload on the heart, which helps relieve angina symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the side effects of medications used to treat angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common side effects of medications for angina pectoris include headache, dizziness, flushing, nausea, and constipation. Be sure to discuss any concerns with your healthcare provider.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do betablockers play in managing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Betablockers help manage angina pectoris by reducing heart rate and blood pressure, decreasing the heart's workload and oxygen demand.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do antiplatelet drugs benefit patients with angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antiplatelet drugs benefit patients with angina by preventing blood clots from forming, reducing the risk of heart attacks and improving blood flow to the heart.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are calcium channel blockers effective for treating angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, calcium channel blockers are effective for treating angina by helping relax and widen blood vessels to improve blood flow to the heart muscle.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the latest advancements in angina pectoris medications?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The latest advancements in angina pectoris medications include the use of newer antiplatelet drugs like Ticagrelor and novel oral anticoagulants to improve outcomes and reduce symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aspirin help prevent angina pectoris symptoms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aspirin helps prevent angina pectoris symptoms by reducing blood clot formation and improving blood flow to the heart, which helps alleviate chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can lifestyle modifications complement the effects of medications in managing angina pectoris?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Lifestyle modifications like exercise, healthy diet, quitting smoking, and stress management can enhance medication effectiveness in managing angina pectoris.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What are the side effects of medications used to treat angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common side effects of medications for angina pectoris include headache, dizziness, flushing, nausea, and constipation. Be sure to discuss any concerns with your healthcare provider.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do antiplatelet drugs benefit patients with angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antiplatelet drugs benefit patients with angina by preventing blood clots from forming, reducing the risk of heart attacks and improving blood flow to the heart.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the latest advancements in angina pectoris medications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The latest advancements in angina pectoris medications include the use of newer antiplatelet drugs like Ticagrelor and novel oral anticoagulants to improve outcomes and reduce symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can lifestyle modifications complement the effects of medications in managing angina pectoris?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lifestyle modifications like exercise, healthy diet, quitting smoking, and stress management can enhance medication effectiveness in managing angina pectoris.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -417,8 +389,6 @@
 
 
 
-        <h3>Can Medicover help in adjusting medications for optimal angina management?</h3>
-        <p>Yes, Medicover can help adjust medications for optimal angina management. Our team of healthcare professionals can tailor treatment plans to meet individual needs.</p>
 
 
 

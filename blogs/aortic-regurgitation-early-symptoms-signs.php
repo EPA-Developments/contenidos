@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What is aortic regurgitation and how does it affect the heart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation is a condition where the heart's aortic valve doesn't close properly, causing blood to leak back into the heart. This can lead to symptoms like fatigue and shortness of breath.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common early signs of aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common early signs of aortic regurgitation include shortness of breath, chest pain, fatigue, palpitations, and swollen ankles. Early detection is key for prompt treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you differentiate the symptoms of aortic regurgitation from other heart conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Symptoms of aortic regurgitation, like fatigue and shortness of breath, can help differentiate it from other heart conditions. Be aware of these signs for early detection.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does aortic regurgitation impact blood flow?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation causes blood to leak back into the heart, leading to decreased blood flow to the body. This can result in fatigue and shortness of breath.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can aortic regurgitation be detected early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation can be detected early through regular check-ups with a healthcare provider, listening for a heart murmur, and undergoing echocardiograms or other imaging tests.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What is aortic regurgitation and how does it affect the heart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation is a condition where the heart's aortic valve doesn't close properly, causing blood to leak back into the heart. This can lead to symptoms like fatigue and shortness of breath.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What tests are used to diagnose aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Tests used to diagnose aortic regurgitation include echocardiogram, MRI, CT scan, chest X-ray, and cardiac catheterization. Early detection is key for treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common early signs of aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common early signs of aortic regurgitation include shortness of breath, chest pain, fatigue, palpitations, and swollen ankles. Early detection is key for prompt treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the treatment options for aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Treatment options for aortic regurgitation include medication to manage symptoms, surgery to repair or replace the valve, and monitoring for any worsening of the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you differentiate the symptoms of aortic regurgitation from other heart conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of aortic regurgitation, like fatigue and shortness of breath, can help differentiate it from other heart conditions. Be aware of these signs for early detection.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover help detect and manage aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover uses advanced imaging tests like echocardiograms to detect aortic regurgitation early on. Treatment options may include medications or surgery to manage the condition.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does aortic regurgitation impact blood flow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation causes blood to leak back into the heart, leading to decreased blood flow to the body. This can result in fatigue and shortness of breath.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can aortic regurgitation be prevented?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic regurgitation cannot always be prevented, but managing conditions like high blood pressure can help reduce the risk of developing this heart valve problem.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can aortic regurgitation be detected early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation can be detected early through regular check-ups with a healthcare provider, listening for a heart murmur, and undergoing echocardiograms or other imaging tests.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How important is early intervention in managing aortic regurgitation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention is crucial in managing aortic regurgitation to prevent complications and preserve heart function. Recognizing symptoms and seeking medical attention promptly is key.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What tests are used to diagnose aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tests used to diagnose aortic regurgitation include echocardiogram, MRI, CT scan, chest X-ray, and cardiac catheterization. Early detection is key for treatment.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the treatment options for aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treatment options for aortic regurgitation include medication to manage symptoms, surgery to repair or replace the valve, and monitoring for any worsening of the condition.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can aortic regurgitation be prevented?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic regurgitation cannot always be prevented, but managing conditions like high blood pressure can help reduce the risk of developing this heart valve problem.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is early intervention in managing aortic regurgitation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention is crucial in managing aortic regurgitation to prevent complications and preserve heart function. Recognizing symptoms and seeking medical attention promptly is key.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -555,8 +527,6 @@
 
 
 
-        <h3>How does Medicover help detect and manage aortic regurgitation?</h3>
-        <p>Medicover uses advanced imaging tests like echocardiograms to detect aortic regurgitation early on. Treatment options may include medications or surgery to manage the condition.</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the early signs of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early signs of unstable angina include chest pain or discomfort, shortness of breath, nausea, fatigue, and sweating. It's important to seek medical attention if you experience these symptoms.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you differentiate between unstable angina and a heart attack?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina is chest pain that occurs at rest or with minimal exertion, while a heart attack involves prolonged chest pain that may radiate to the arm, jaw, or back.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the common triggers for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Common triggers for unstable angina include physical exertion, emotional stress, extreme temperatures, smoking, and a high-fat diet.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do chest pain and discomfort signal unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain and discomfort in unstable angina can be more severe, prolonged, or occur at rest, unlike stable angina. It may also be accompanied by shortness of breath or nausea.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can shortness of breath be related to unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Shortness of breath can be related to unstable angina as reduced blood flow to the heart can lead to inadequate oxygen supply, causing difficulty breathing.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the early signs of unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early signs of unstable angina include chest pain or discomfort, shortness of breath, nausea, fatigue, and sweating. It's important to seek medical attention if you experience these symptoms.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What should you do if you suspect unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect unstable angina, seek medical attention immediately. Call emergency services or go to the nearest hospital to get evaluated and treated promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you differentiate between unstable angina and a heart attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina is chest pain that occurs at rest or with minimal exertion, while a heart attack involves prolonged chest pain that may radiate to the arm, jaw, or back.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover assist in the early detection of unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover assists in early detection of unstable angina through regular check-ups, ECGs, stress tests, and cardiac imaging to monitor heart health and identify symptoms promptly.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the common triggers for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common triggers for unstable angina include physical exertion, emotional stress, extreme temperatures, smoking, and a high-fat diet.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can unstable angina symptoms appear suddenly or gradually?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unstable angina symptoms can appear suddenly or gradually. It is important to seek medical attention promptly if you experience any chest pain or discomfort.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do chest pain and discomfort signal unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain and discomfort in unstable angina can be more severe, prolonged, or occur at rest, unlike stable angina. It may also be accompanied by shortness of breath or nausea.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What is the importance of early intervention for unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention for unstable angina is crucial as it can prevent a heart attack. Recognizing symptoms promptly allows for timely treatment and better outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can shortness of breath be related to unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shortness of breath can be related to unstable angina as reduced blood flow to the heart can lead to inadequate oxygen supply, causing difficulty breathing.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can you prevent the worsening of unstable angina by recognizing symptoms early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recognizing symptoms like chest pain, shortness of breath, and fatigue early on can help prevent unstable angina from worsening. Seek medical help promptly for proper evaluation and treatment.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "What should you do if you suspect unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect unstable angina, seek medical attention immediately. Call emergency services or go to the nearest hospital to get evaluated and treated promptly.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can unstable angina symptoms appear suddenly or gradually?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unstable angina symptoms can appear suddenly or gradually. It is important to seek medical attention promptly if you experience any chest pain or discomfort.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the importance of early intervention for unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention for unstable angina is crucial as it can prevent a heart attack. Recognizing symptoms promptly allows for timely treatment and better outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can you prevent the worsening of unstable angina by recognizing symptoms early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recognizing symptoms like chest pain, shortness of breath, and fatigue early on can help prevent unstable angina from worsening. Seek medical help promptly for proper evaluation and treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -437,8 +409,6 @@
 
 
 
-        <h3></h3>
-        <p>How does Medicover assist in the early detection of unstable angina?</p>
 
 
 

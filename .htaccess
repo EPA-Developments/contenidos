@@ -6,6 +6,9 @@
     # Turnos: los formularios viejos (book-appointment*) se reemplazaron por /turnos,
     # que conecta con Recepción de Segunda Opinión Médica (include/som-turnos.php).
     RewriteRule ^book-appointment(-epa)?(\.php)?/?$ /turnos [R=301,L]
+    # Fichas de médicos de una plantilla de terceros (no son profesionales de EPA ni de SOM):
+    # borradas; sus URLs van al listado de médicos.
+    RewriteRule ^doctors/dr-(?!alejandro-dalessandro|alex-barbagelata|sergio-perrone)[a-z0-9-]+(\.php)?/?$ /doctors/ [R=301,L]
     # Remove .php extension
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f

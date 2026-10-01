@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Can you prevent rheumatic fever by treating strep throat early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, treating strep throat early with antibiotics can help prevent rheumatic fever, a serious complication that can result from untreated strep infections.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the best ways to prevent rheumatic fever in children?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best ways to prevent rheumatic fever in children include promptly treating strep throat infections with antibiotics and practicing good hygiene to reduce the spread of bacteria.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can a person reduce their risk of developing rheumatic fever after a strep throat infection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To reduce the risk of developing rheumatic fever after a strep throat infection, it's important to promptly treat strep throat with antibiotics as prescribed by a healthcare provider.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What role do antibiotics play in preventing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Antibiotics help prevent rheumatic fever by treating strep throat infections promptly, reducing the risk of developing complications that can lead to the condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does proper hygiene help prevent strep throat and rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Proper hygiene helps prevent strep throat by reducing the spread of bacteria that can cause it, ultimately lowering the risk of developing rheumatic fever.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can you prevent rheumatic fever by treating strep throat early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, treating strep throat early with antibiotics can help prevent rheumatic fever, a serious complication that can result from untreated strep infections.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can immunizations help prevent rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, immunizations can help prevent rheumatic fever by protecting against infections that can lead to the condition, such as streptococcal bacteria.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the best ways to prevent rheumatic fever in children?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best ways to prevent rheumatic fever in children include promptly treating strep throat infections with antibiotics and practicing good hygiene to reduce the spread of bacteria.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How effective is penicillin in preventing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Penicillin is highly effective in preventing rheumatic fever when taken as prescribed by healthcare professionals. It helps to treat strep throat infections which can lead to rheumatic fever.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can a person reduce their risk of developing rheumatic fever after a strep throat infection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To reduce the risk of developing rheumatic fever after a strep throat infection, it's important to promptly treat strep throat with antibiotics as prescribed by a healthcare provider.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can lifestyle changes or diet help in the prevention of rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, maintaining a healthy lifestyle with a balanced diet and regular exercise can help prevent rheumatic fever by reducing the risk of strep throat infections.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What role do antibiotics play in preventing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Antibiotics help prevent rheumatic fever by treating strep throat infections promptly, reducing the risk of developing complications that can lead to the condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What are the chances of preventing heart damage with early intervention for strep throat?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early intervention for strep throat can significantly reduce the chances of developing rheumatic fever and prevent heart damage.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does proper hygiene help prevent strep throat and rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper hygiene helps prevent strep throat by reducing the spread of bacteria that can cause it, ultimately lowering the risk of developing rheumatic fever.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does Medicover support patients in preventing rheumatic fever?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover supports patients in preventing rheumatic fever through education on early detection, timely treatment of strep throat, and regular follow-ups with healthcare providers.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "Can immunizations help prevent rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, immunizations can help prevent rheumatic fever by protecting against infections that can lead to the condition, such as streptococcal bacteria.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How effective is penicillin in preventing rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Penicillin is highly effective in preventing rheumatic fever when taken as prescribed by healthcare professionals. It helps to treat strep throat infections which can lead to rheumatic fever.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lifestyle changes or diet help in the prevention of rheumatic fever?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, maintaining a healthy lifestyle with a balanced diet and regular exercise can help prevent rheumatic fever by reducing the risk of strep throat infections.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the chances of preventing heart damage with early intervention for strep throat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early intervention for strep throat can significantly reduce the chances of developing rheumatic fever and prevent heart damage.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -438,8 +410,6 @@
 
 
 
-        <h3>How does Medicover support patients in preventing rheumatic fever?</h3>
-        <p>Medicover supports patients in preventing rheumatic fever through education on early detection, timely treatment of strep throat, and regular follow-ups with healthcare providers.</p>
 
 
 

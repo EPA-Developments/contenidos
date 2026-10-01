@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the best treatment options for blood clots in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The best treatment options for blood clots in the leg typically include blood thinners, compression stockings, and in severe cases, surgical intervention.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do doctors decide on a treatment plan for leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Doctors decide on a treatment plan for leg blood clots based on factors like clot size, location, and patient's overall health to ensure effective and safe treatment.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can blood clots in the leg be treated with medication alone?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, blood clots in the leg can be treated with medication alone, such as blood thinners, to help dissolve the clot and prevent it from getting larger.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are surgical options necessary for treating leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Surgical options are not always necessary for treating leg blood clots. Medication and lifestyle changes are often effective in managing this condition.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the success rates of different treatments for leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The success rates of different treatments for leg blood clots vary, but typically range from 80-95% with proper medical intervention and follow-up care.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the best treatment options for blood clots in the leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best treatment options for blood clots in the leg typically include blood thinners, compression stockings, and in severe cases, surgical intervention.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How long does recovery take after leg blood clot treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recovery time after leg blood clot treatment varies but typically takes a few weeks to several months. Follow-up care is crucial for a successful outcome.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do doctors decide on a treatment plan for leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctors decide on a treatment plan for leg blood clots based on factors like clot size, location, and patient's overall health to ensure effective and safe treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What followup care is needed after leg blood clot treatment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Follow up care after leg blood clot treatment may include medication, regular check-ups, compression stockings, and lifestyle changes to prevent future clots.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Can blood clots in the leg be treated with medication alone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, blood clots in the leg can be treated with medication alone, such as blood thinners, to help dissolve the clot and prevent it from getting larger.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can Medicover provide advanced treatments for blood clots in the leg?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, Medicover offers advanced treatments for blood clots in the leg, providing comprehensive care to help patients recover and prevent future complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are surgical options necessary for treating leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Surgical options are not always necessary for treating leg blood clots. Medication and lifestyle changes are often effective in managing this condition.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are lifestyle changes important after treating leg blood clots?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, lifestyle changes are important post-treatment for leg blood clots. This includes regular exercise, maintaining a healthy weight, and avoiding smoking.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the success rates of different treatments for leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The success rates of different treatments for leg blood clots vary, but typically range from 80-95% with proper medical intervention and follow-up care.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What precautions should patients take to prevent recurrence?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To prevent recurrence of blood clots in the leg, patients should wear compression stockings, stay active, avoid sitting for prolonged periods, and follow prescribed medication regimen.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How long does recovery take after leg blood clot treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recovery time after leg blood clot treatment varies but typically takes a few weeks to several months. Follow-up care is crucial for a successful outcome.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What followup care is needed after leg blood clot treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow up care after leg blood clot treatment may include medication, regular check-ups, compression stockings, and lifestyle changes to prevent future clots.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are lifestyle changes important after treating leg blood clots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lifestyle changes are important post-treatment for leg blood clots. This includes regular exercise, maintaining a healthy weight, and avoiding smoking.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What precautions should patients take to prevent recurrence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prevent recurrence of blood clots in the leg, patients should wear compression stockings, stay active, avoid sitting for prolonged periods, and follow prescribed medication regimen.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -438,8 +410,6 @@
 
 
 
-        <h3></h3>
-        <p>Can Medicover provide advanced treatments for blood clots in the leg?</p>
 
 
 

@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the longterm effects of untreated aortic ectasia on the body?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic ectasia can lead to serious complications like aortic dissection or rupture, potentially causing life-threatening consequences. Regular monitoring is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does untreated aortic ectasia increase the risk of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic ectasia can weaken the aortic wall, making it more prone to tearing or dissection, which can lead to life-threatening complications.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What happens if aortic ectasia is left untreated for many years?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If aortic ectasia is left untreated for many years, it can lead to serious complications such as aortic dissection, rupture, or other cardiovascular issues. Early detection and management are crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can untreated aortic ectasia impact heart function?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic ectasia can lead to the dilation of the aorta, which may weaken the walls of the heart, increasing the risk of aortic dissection or rupture.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What complications can arise from untreated aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Untreated aortic ectasia can lead to serious complications like aortic dissection, aneurysm rupture, and potentially life-threatening internal bleeding.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the longterm effects of untreated aortic ectasia on the body?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic ectasia can lead to serious complications like aortic dissection or rupture, potentially causing life-threatening consequences. Regular monitoring is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the size of the aorta affect the prognosis of untreated aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The size of the aorta is important in predicting the prognosis of untreated aortic ectasia. Larger aortic diameters are associated with a higher risk of complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does untreated aortic ectasia increase the risk of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic ectasia can weaken the aortic wall, making it more prone to tearing or dissection, which can lead to life-threatening complications.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Can untreated aortic ectasia lead to death?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, untreated aortic ectasia can potentially lead to serious complications such as aortic dissection or rupture, which can be life-threatening.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What happens if aortic ectasia is left untreated for many years?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If aortic ectasia is left untreated for many years, it can lead to serious complications such as aortic dissection, rupture, or other cardiovascular issues. Early detection and management are crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does early diagnosis help manage longterm outcomes for aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early diagnosis of aortic ectasia allows for timely monitoring and intervention, reducing the risk of complications and improving long-term outcomes.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can untreated aortic ectasia impact heart function?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic ectasia can lead to the dilation of the aorta, which may weaken the walls of the heart, increasing the risk of aortic dissection or rupture.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help minimize the risks of untreated aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help minimize risks of untreated aortic ectasia through regular check-ups, monitoring, and providing timely interventions to prevent complications.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What complications can arise from untreated aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated aortic ectasia can lead to serious complications like aortic dissection, aneurysm rupture, and potentially life-threatening internal bleeding.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does monitoring prevent the worsening of untreated aortic ectasia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Regular monitoring can catch changes in aortic ectasia early, allowing for timely intervention to prevent complications and worsening of the condition.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does the size of the aorta affect the prognosis of untreated aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The size of the aorta is important in predicting the prognosis of untreated aortic ectasia. Larger aortic diameters are associated with a higher risk of complications.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can untreated aortic ectasia lead to death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, untreated aortic ectasia can potentially lead to serious complications such as aortic dissection or rupture, which can be life-threatening.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does early diagnosis help manage longterm outcomes for aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early diagnosis of aortic ectasia allows for timely monitoring and intervention, reducing the risk of complications and improving long-term outcomes.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does monitoring prevent the worsening of untreated aortic ectasia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular monitoring can catch changes in aortic ectasia early, allowing for timely intervention to prevent complications and worsening of the condition.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -438,8 +410,6 @@
 
 
 
-        <h3>How can Medicover help minimize the risks of untreated aortic ectasia?</h3>
-        <p>Medicover can help minimize risks of untreated aortic ectasia through regular check-ups, monitoring, and providing timely interventions to prevent complications.</p>
 
 
 

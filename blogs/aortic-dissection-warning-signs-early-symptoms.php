@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the early warning signs of aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Early warning signs of aortic dissection include sudden, severe chest or back pain, shortness of breath, sweating, dizziness, and fainting. Prompt medical attention is crucial.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can chest pain indicate aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Chest pain from aortic dissection is often described as sudden, severe, and tearing. Seek immediate medical help if you experience this type of chest pain.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can aortic dissection symptoms change over time?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection symptoms can evolve rapidly, starting with sudden severe chest or back pain and progressing to other signs like difficulty breathing or fainting.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What are the key signs that you should seek medical help for a possible aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Key signs to seek medical help for a possible aortic dissection include sudden, severe chest or back pain, shortness of breath, and fainting.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How can you differentiate between a heart attack and aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A heart attack typically involves chest pain, while aortic dissection may present with sudden, severe chest or back pain that radiates.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the early warning signs of aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early warning signs of aortic dissection include sudden, severe chest or back pain, shortness of breath, sweating, dizziness, and fainting. Prompt medical attention is crucial.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does aortic dissection affect blood pressure and pulse?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection can cause sudden high blood pressure and weak or absent pulse on one side of the body. Seek immediate medical attention if you experience these symptoms.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can chest pain indicate aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chest pain from aortic dissection is often described as sudden, severe, and tearing. Seek immediate medical help if you experience this type of chest pain.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can aortic dissection symptoms be confused with other medical conditions?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Aortic dissection symptoms can be confused with other conditions like heart attack or stroke due to similar chest or back pain, making early detection crucial.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can aortic dissection symptoms change over time?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection symptoms can evolve rapidly, starting with sudden severe chest or back pain and progressing to other signs like difficulty breathing or fainting.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Why is it important to recognize the warning signs of aortic dissection early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Recognizing warning signs of aortic dissection early is crucial for prompt treatment, as it can lead to life-threatening complications if left untreated.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What are the key signs that you should seek medical help for a possible aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key signs to seek medical help for a possible aortic dissection include sudden, severe chest or back pain, shortness of breath, and fainting.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What diagnostic tests should you undergo if you suspect aortic dissection?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "If you suspect aortic dissection, get a CT scan, MRI, or echocardiogram for accurate diagnosis. Seek medical attention immediately for proper treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How can you differentiate between a heart attack and aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A heart attack typically involves chest pain, while aortic dissection may present with sudden, severe chest or back pain that radiates.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help you monitor for signs of aortic dissection in highrisk patients?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can offer regular check-ups and advanced imaging tests to help detect aortic dissection early in high-risk patients, ensuring timely treatment and management.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How does aortic dissection affect blood pressure and pulse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection can cause sudden high blood pressure and weak or absent pulse on one side of the body. Seek immediate medical attention if you experience these symptoms.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can aortic dissection symptoms be confused with other medical conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aortic dissection symptoms can be confused with other conditions like heart attack or stroke due to similar chest or back pain, making early detection crucial.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to recognize the warning signs of aortic dissection early?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recognizing warning signs of aortic dissection early is crucial for prompt treatment, as it can lead to life-threatening complications if left untreated.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What diagnostic tests should you undergo if you suspect aortic dissection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect aortic dissection, get a CT scan, MRI, or echocardiogram for accurate diagnosis. Seek medical attention immediately for proper treatment.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -465,8 +437,6 @@
 
 
 
-        <h3>How can Medicover help you monitor for signs of aortic dissection in highrisk patients?</h3>
-        <p>Medicover can offer regular check-ups and advanced imaging tests to help detect aortic dissection early in high-risk patients, ensuring timely treatment and management.</p>
 
 
 

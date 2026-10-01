@@ -40,113 +40,85 @@
     }
   </script>
   <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How do angina symptoms in women differ from men?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Women may experience atypical angina symptoms like nausea, fatigue, and shortness of breath, while men typically have chest pain or pressure.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What unique symptoms of angina should women watch for?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Unique symptoms of angina in women include nausea, vomiting, and extreme fatigue. Women may also experience pain in the back, jaw, or neck.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are women more likely to experience silent angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, women are more likely to experience silent angina, where they may have atypical symptoms or no symptoms at all, making diagnosis more challenging.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the risk of angina increase in postmenopausal women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The risk of angina increases in postmenopausal women due to hormonal changes, decreased estrogen, and higher rates of cardiovascular disease.
-    
-    "
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why is angina often misdiagnosed in women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Angina is often misdiagnosed in women because their symptoms may differ from men's, leading to delays in proper diagnosis and treatment.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How do angina symptoms in women differ from men?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Women may experience atypical angina symptoms like nausea, fatigue, and shortness of breath, while men typically have chest pain or pressure.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How can Medicover help diagnose angina in women early?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Medicover can help diagnose angina in women early through specialized tests like EKG, stress tests, and coronary angiography, tailored to detect symptoms unique to women.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "What unique symptoms of angina should women watch for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unique symptoms of angina in women include nausea, vomiting, and extreme fatigue. Women may also experience pain in the back, jaw, or neck.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How do hormonal changes affect angina symptoms in women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Hormonal changes can worsen angina symptoms in women by affecting blood vessel function, leading to increased chest pain or discomfort.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Are women more likely to experience silent angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, women are more likely to experience silent angina, where they may have atypical symptoms or no symptoms at all, making diagnosis more challenging.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "How does the management of angina differ for women?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Management of angina in women may involve tailored medication, stress management, and lifestyle changes due to differences in symptoms and risk factors.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "How does the risk of angina increase in postmenopausal women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The risk of angina increases in postmenopausal women due to hormonal changes, decreased estrogen, and higher rates of cardiovascular disease.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "Are women more likely to experience unstable angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, women are more likely to experience unstable angina due to unique symptoms such as shortness of breath, fatigue, nausea, and back or jaw pain.
-    
-    "
-          }
-        },
+      "@type": "Question",
+      "name": "Why is angina often misdiagnosed in women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Angina is often misdiagnosed in women because their symptoms may differ from men's, leading to delays in proper diagnosis and treatment.\n    \n    "
+      }
+    },
     {
-          "@type": "Question",
-          "name": "What preventive steps can women take to reduce the risk of angina?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Women can reduce angina risk by maintaining a healthy lifestyle with regular exercise, a balanced diet, not smoking, managing stress, and attending regular check-ups.
-    
-    "
-          }
-        }
-      ]
+      "@type": "Question",
+      "name": "How do hormonal changes affect angina symptoms in women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hormonal changes can worsen angina symptoms in women by affecting blood vessel function, leading to increased chest pain or discomfort.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the management of angina differ for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Management of angina in women may involve tailored medication, stress management, and lifestyle changes due to differences in symptoms and risk factors.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are women more likely to experience unstable angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, women are more likely to experience unstable angina due to unique symptoms such as shortness of breath, fatigue, nausea, and back or jaw pain.\n    \n    "
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What preventive steps can women take to reduce the risk of angina?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Women can reduce angina risk by maintaining a healthy lifestyle with regular exercise, a balanced diet, not smoking, managing stress, and attending regular check-ups.\n    \n    "
+      }
     }
-  </script>
+  ]
+}
+</script>
   <?php include '../include/header.php' ?>
 
 
@@ -420,8 +392,6 @@
 
 
 
-        <h3>How can Medicover help diagnose angina in women early?</h3>
-        <p>Medicover can help diagnose angina in women early through specialized tests like EKG, stress tests, and coronary angiography, tailored to detect symptoms unique to women.</p>
 
 
 
