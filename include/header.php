@@ -101,6 +101,7 @@ foreach ($languages as $hreflang => $path) {
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es.php" class="nav-link">Life Essential 8</a></li>
+                                <li class="nav-item"><a href="https://plataforma.epa-bienestar.com.ar/biblioteca/" class="nav-link">Biblioteca CKM</a></li>
 								<li class="nav-item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdhYiPSN56wuZ5OCYR6N3QB6-IFnrRkYzrK365ZR6TqfZ77IQ/viewform?usp=header" class="nav-link" target="_blank">Contact</a></li>
                             </ul>
                             <div class="others-options d-flex align-items-center" style="display: flex; gap: 20px;">  

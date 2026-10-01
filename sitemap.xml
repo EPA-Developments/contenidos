@@ -76,4 +76,74 @@
    <priority>0.9</priority>
 </url>
 
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.9</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/alimentacion-cardiosaludable</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/chocolate-y-cacao</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/especias-y-plantas-medicinales</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/estadios-ckm</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/grasas-y-aceites</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/miel-y-azucares-agregados</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/plan-bienestar-100-dias</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/prevent-riesgo-cardiovascular</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/semillas-y-frutos-secos</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/sindrome-ckm</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/suplementos-vitaminas-y-antioxidantes</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/te-jugos-y-detox</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/vinagre-y-bicarbonato</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
 </urlset>

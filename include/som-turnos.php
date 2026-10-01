@@ -63,7 +63,8 @@ if (!function_exists('som_slug_actual')) {
     /** Link de WhatsApp a Recepción con el mensaje ya escrito. */
     function som_url_whatsapp(string $tema = ''): string
     {
-        $tema = trim(mb_substr(strip_tags($tema), 0, 120));
+        $tema = strip_tags($tema);
+        $tema = trim(function_exists('mb_substr') ? mb_substr($tema, 0, 120) : substr($tema, 0, 120));
         $texto = 'Hola, quiero pedir un turno en Segunda Opinión Médica.'
             . ($tema !== '' ? " Vengo de leer: «{$tema}»." : '');
         return 'https://wa.me/' . SOM_WHATSAPP . '?text=' . rawurlencode($texto);
