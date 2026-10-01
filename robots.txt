@@ -4,9 +4,6 @@ Disallow: /*?
 Disallow: /*_*
 Disallow: /images/shape-1.webp
 Disallow: /images/shape-2.webp
-Disallow: /images/user2.webp
-Disallow: /images/user1.webp
-Disallow: /images/user3.webp
 
 
 Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.xml

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KNP92631R"></script>
@@ -11,30 +11,21 @@
   gtag('config', 'G-0KNP92631R');
 </script>
 <!-- Meta -->
-  <title>Best Cardiologists in Americas – Book Your Consultation Today!</title>
-    <meta property="og:title" content="EPA Bienestar | Plataforma Oficial">
-    <meta property="og:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/">
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="628">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@epabienestar">
-    <meta name="twitter:title" content="EPA Bienestar | Plataforma Oficial">
-    <meta name="twitter:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
-    <meta name="twitter:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
-</head>
-  <meta name="Description" content="Connect with Americas’s top heart specialists for expert care in cardiovascular health. Get personalized treatment plans for prevention and advanced procedures.">
-  <meta property="og:locale" content="en_US" />
+  <title>EPA Bienestar · Salud cardiovascular, renal y metabólica</title>
+  <meta name="description" content="Contenidos basados en la guía CKM 2026 y Life’s Essential 8 de la American Heart Association, y turnos con el equipo de Segunda Opinión Médica.">
+  <meta property="og:locale" content="es_AR" />
+  <meta property="og:title" content="EPA Bienestar | Plataforma Oficial">
+  <meta property="og:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Best Cardiologists in Americas – Book Your Consultation Today!">
-  <meta property="og:description" content="Connect with Americas’s top heart specialists for expert care in cardiovascular health. Get personalized treatment plans for prevention and advanced procedures.">
   <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
-  <meta property="og:image:width" content="40" />
-  <meta property="og:image:height" content="40" />
+  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@epabienestar">
+  <meta name="twitter:title" content="EPA Bienestar | Plataforma Oficial">
+  <meta name="twitter:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
+  <meta name="twitter:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/" />
 
@@ -44,14 +35,18 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 col-md-12">
                         <div class="main-banner-content-with-search" data-speed="0.06" data-revert="true">
-                            <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700">Best Cardiologists in Americas</h1>
-                            <p data-aos="fade-up" data-aos-delay="80" data-aos-duration="800">Connect with Americas’s top heart specialists for expert care in managing and treating cardiovascular diseases. From prevention to advanced procedures, our experienced doctors offer personalized treatment plans.</p>
+                            <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700">Tu salud cardiovascular, renal y metabólica</h1>
+                            <p data-aos="fade-up" data-aos-delay="80" data-aos-duration="800">Contenidos basados en la guía 2026 del síndrome cardiovascular-renal-metabólico y en Life’s Essential 8 de la American Heart Association, y turnos con el equipo de Segunda Opinión Médica.</p>
+                            <div class="why-choose-btn" data-aos="fade-up" data-aos-delay="90" data-aos-duration="800">
+                                <a href="https://plataforma.epa-bienestar.com.ar/biblioteca/" class="default-btn">Biblioteca CKM-LE8</a>
+                                <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
+                            </div>
                            
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-12">
                         <div class="main-banner-image-with-doctor" data-speed="0.06" data-revert="true">
-                            <img src="images/contenidos_2.jpg" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" alt="doctors" title="Best Cardiologists">
+                            <img src="images/contenidos_2.jpg" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" alt="EPA Bienestar" title="EPA Bienestar">
                             <div class="circle-pattern" data-aos="fade-down" data-aos-delay="900" data-aos-duration="900"></div>
                         </div>
                     </div>
@@ -136,53 +131,16 @@
 		
 		<div class="why-choose-area ptb-100">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="choose-fun-fact-item">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="choose-fun-fact horizontal">
-                                        <h3>
-                                            <span class="odometer" data-count="10"></span>M+
-                                        </h3>
-                                        <p>Patients Treated</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="choose-fun-fact bg-ef720c">
-                                        <h3>
-                                            <span class="odometer" data-count="25"></span>K+
-                                        </h3>
-                                        <p>Successful Surgeries</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="choose-fun-fact bg-ed2f16">
-                                        <h3>
-                                            <span class="odometer" data-count="150"></span>+
-                                        </h3>
-                                        <p>Cardiologists</p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="choose-fun-fact bg-16ed8f">
-                                        <h3>
-                                            <span class="odometer" data-count="50"></span>+
-                                        </h3>
-                                        <p>Heart Care Centers</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10 col-md-12">
                         <div class="why-choose-content">
-                            <h3>Why Choose Us?</h3>
-                            <p><strong>Top Cardiologists Network:</strong> We partner with highly experienced cardiologists across Americas who specialise in a wide range of heart care, from preventive treatments to advanced interventional procedures​.</p>
-                            <p><strong>Complete Care:</strong> Our platform provides end-to-end support, including emergency services, diagnostic tests, and aftercare, ensuring a seamless and supportive journey for every patient​.</p>
-							<p><strong>Patient-Centric Approach:</strong> With a commitment to transparency and compassion, doctors prioritize personalized treatment plans and a supportive experience that focuses on each patient’s unique needs​.</p>
+                            <h3>¿Por qué EPA Bienestar y Segunda Opinión Médica?</h3>
+                            <p><strong>Basado en guías:</strong> nuestros contenidos siguen la guía 2026 de la AHA, el ACC, la ADA y la ASN sobre el síndrome cardiovascular-renal-metabólico y Life’s Essential 8, y citan sus fuentes.</p>
+                            <p><strong>Un equipo para tu caso:</strong> en Segunda Opinión Médica te atienden especialistas en cardiología, clínica médica, diabetología, nutrición y otras especialidades, presencial o por teleconsulta.</p>
+                            <p><strong>Seguimiento:</strong> el Plan Bienestar 100 Días® acompaña tus cambios durante 100 días, según tu estadío CKM.</p>
                             <div class="why-choose-btn">
                                 <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
+                                <a href="https://plataforma.epa-bienestar.com.ar/biblioteca/plan-bienestar-100-dias" class="default-btn">Plan Bienestar 100 Días®</a>
                             </div>
                         </div>
                     </div>
@@ -329,86 +287,6 @@
                 </div>
             </div>
         </div>
-       <!-- Start Testimonials Area -->
-        <div class="testimonials-area ptb-100">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Patient Reviews</h2>
-                </div>
-
-                <div class="testimonials-slides owl-carousel owl-theme">
-                    <div class="testimonials-card-item">
-                        <div class="image">
-                            <img src="images/user1.webp" alt="image">
-                            <div class="double-quotes-icon">
-                                <i class="ri-double-quotes-l"></i>
-                            </div>
-                        </div>
-                        <div class="content">
-                            <p>The moment I entered in the hospital, I felt as though I am free from all ailments. Everything is good. Good hospitality at every place. All staff at reception, ICU and at operation theater are very good much helpful Special thanks to Dr Anil Krishna for his patient oriented service.</p>
-                            <div class="info">
-                                <h3>Sarathy Pingali</h3>
-                            </div>
-                        </div>
-                        <div class="testimonials-shape-1" data-speed="0.09" data-revert="true">
-                            <img src="images/vector.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="testimonials-card-item">
-                        <div class="image">
-                            <img src="images/user2.webp" alt="image">
-                            <div class="double-quotes-icon">
-                                <i class="ri-double-quotes-l"></i>
-                            </div>
-                        </div>
-                        <div class="content">
-                            <p>Brought my grandfather who suffered from severe chest pain, tiredness and breathing problems. He was diagnosed with artery blockage. Dr. Anil Krishna Sir did a great job and fixed my grandpa's heart within less than an hour. The doctor is kind, compassionate and very attentive to the patient. On behalf of the Somali community and my grandpa, we will forever be grateful for your service, doctor.</p>
-                            <div class="info">
-                                <h3>Mohamed M. Ahmed</h3>
-                            </div>
-                        </div>
-                        <div class="testimonials-shape-1" data-speed="0.09" data-revert="true">
-                            <img src="images/vector.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="testimonials-card-item">
-                        <div class="image">
-                            <img src="images/user3.webp" alt="image">
-                            <div class="double-quotes-icon">
-                                <i class="ri-double-quotes-l"></i>
-                            </div>
-                        </div>
-                        <div class="content">
-                            <p>We have had a great experience with Dr. Sharath Reddy who performed my wife's TAVI procedure. We could witness his professionalism, care, and kindness. Him along with his highly qualified team handled the entire procedure to our greatest satisfaction. We were at ease and comfortable at his handling such a complex procedure. We are thankful for him and his team. We recommend Dr. Sharath Reddy for any cardiology related consultation.</p>
-                            <div class="info">
-                                <h3>Sridharan Parthasarathy</h3>
-                            </div>
-                        </div>
-                        <div class="testimonials-shape-1" data-speed="0.09" data-revert="true">
-                            <img src="images/vector.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="testimonials-card-item">
-                        <div class="image">
-                            <img src="images/user3.webp" alt="image">
-                            <div class="double-quotes-icon">
-                                <i class="ri-double-quotes-l"></i>
-                            </div>
-                        </div>
-                        <div class="content">
-                            <p>First of all, I would really like to thank Dr. Sharath Reddy sir. He dealt my father's case with utmost care and patience. He explained each and every thing to us in detail of what's happening. The receiving and hospitality is at it's best. The junior doctors, nurses and the staff treated us very well. Overall we are extremely satisfied with the treatment and the services.</p>
-                            <div class="info">
-                                <h3>Sai Kiran Battula</h3>
-                            </div>
-                        </div>
-                        <div class="testimonials-shape-1" data-speed="0.09" data-revert="true">
-                            <img src="images/vector.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Testimonials Area -->
         <!-- Start Appointment Area: turnos con Segunda Opinión Médica (include/som-turnos.php) -->
         <div class="book-appointment-area">
             <div class="container">

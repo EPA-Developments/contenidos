@@ -4,8 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow" />
-<title>Leading Cardiologists in Americas - Schedule a Consultation Today!</title>
-<meta name="description" content="Connect with Americas’s top heart specialists for expert care in managing and treating cardiovascular diseases. From prevention to advanced procedures, our experienced doctors offer personalized treatment plans.">
 <link rel="icon" type="image/x-icon" href="https://plataforma.epa-bienestar.com.ar/favicon.ico" sizes="32x32">
 <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://plataforma.epa-bienestar.com.ar/css/aos.css">
