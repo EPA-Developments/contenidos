@@ -92,6 +92,21 @@
    <priority>0.8</priority>
 </url>
 <url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/colesterol-y-trigliceridos</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/enfermedad-coronaria</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/enfermedad-renal-cronica</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
    <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/especias-y-plantas-medicinales</loc>
    <changefreq>monthly</changefreq>
    <priority>0.8</priority>
@@ -102,7 +117,22 @@
    <priority>0.8</priority>
 </url>
 <url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/fibrilacion-auricular-y-acv</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
    <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/grasas-y-aceites</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/hipertension</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/insuficiencia-cardiaca</loc>
    <changefreq>monthly</changefreq>
    <priority>0.8</priority>
 </url>
@@ -112,7 +142,17 @@
    <priority>0.8</priority>
 </url>
 <url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/obesidad-y-grasa-abdominal</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
    <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/plan-bienestar-100-dias</loc>
+   <changefreq>monthly</changefreq>
+   <priority>0.8</priority>
+</url>
+<url>
+   <loc>https://plataforma.epa-bienestar.com.ar/biblioteca/prediabetes-y-diabetes-tipo-2</loc>
    <changefreq>monthly</changefreq>
    <priority>0.8</priority>
 </url>
