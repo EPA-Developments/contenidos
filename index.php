@@ -191,7 +191,7 @@
                             <p><strong>Complete Care:</strong> Our platform provides end-to-end support, including emergency services, diagnostic tests, and aftercare, ensuring a seamless and supportive journey for every patient​.</p>
 							<p><strong>Patient-Centric Approach:</strong> With a commitment to transparency and compassion, doctors prioritize personalized treatment plans and a supportive experience that focuses on each patient’s unique needs​.</p>
                             <div class="why-choose-btn">
-                                <a href="https://calendar.app.google/xPLKcx3pU9ofbZYZ8" class="default-btn">Book Appointment</a>
+                                <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
                             </div>
                         </div>
                     </div>
@@ -418,46 +418,15 @@
             </div>
         </div>
         <!-- End Testimonials Area -->
-        <!-- Start Appointment Form Area -->
+        <!-- Start Appointment Area: turnos con Segunda Opinión Médica (include/som-turnos.php) -->
         <div class="book-appointment-area">
             <div class="container">
                 <div class="book-appointment-inner-box ptb-100">
-                    <div class="row align-items-center">
-                        <div class="col-lg-3 col-md-12">
-                            <div class="book-appointment-title">
-                                <h3>Book an Appointment</h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-9 col-md-12">
-                           <form action="" class="book-appointment-form" onsubmit="submitForm(); return false;" method="post" autocomplete="off" id="dateForm">
-                                <div class="row justify-content-center">
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="form-group">
-                                            <input type="text" name="name" class="form-control" pattern="[a-zA-Z\s]*" maxlength="20" title="only characters are allowed" placeholder="Enter your Name" oninput="checkRepeatingCharacters(this)"/>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="form-group">
-                                            <input type="tel" class="form-control" maxlength="10" pattern="[6789][0-9]{9}" name="phone" id="phone" required placeholder="Phone Number*" title="only numbers are allowed">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6">
-                                        <div class="book-appointment-btn">
-                                            <button type="submit" class="default-btn">Book Now</button>
-                                            <input type="hidden" id="department" name="department" value="Cardiology" />
-                                            <input type="hidden" id="source" name="source" value="website" />
-                                            <input type="hidden" id="campaignid" name="campaignid" value="OTHERWEBS" />
-                                            <input type="hidden" id="url" name="url" value="https://plataforma.epa-bienestar.com.ar/" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
+                    <?php include_once __DIR__ . '/include/som-turnos.php'; echo som_cta_turno('', 'portada'); ?>
                 </div>
             </div>
         </div>
-        <!-- End Appointment Form Area -->
+        <!-- End Appointment Area -->
         
         <div class="blog-area ptb-100">
             <div class="container">
@@ -518,67 +487,5 @@
         </div>
 
 
-        <script>
-  // Function to validate name input for consecutive repeating characters
-  function checkRepeatingCharacters(input) {
-    const value = input.value.toLowerCase(); // Case-insensitive
-    const consecutiveRepeatsRegex = /([a-z])\1{2,}/; // Matches three or more consecutive letters
-    if (consecutiveRepeatsRegex.test(value)) {
-      alert("Please enter a name without consecutive repeating characters.");
-      input.value = "";
-    }
-  }
 
-  // Function to handle phone validation on blur
-  $(function () {
-    $("#phone").on("blur", function () {
-      const phone = $(this).val();
-      if (/^(\d)\1{9}$/.test(phone)) {
-        alert("Enter a valid phone number with different digits.");
-        $(this).val("").focus();
-      }
-    });
-  });
-
-// Function to handle form submission via fetch
-function submitForm() {
-    var formData = new FormData(document.getElementById('dateForm'));
-    fetch('https://emr.epa-bienestar.com.ar/apis/default/fhir', {
-        method: 'POST',
-        body: new URLSearchParams(formData),
-        redirect: 'follow'
-    })
-    .then(response => {
-        console.log('Fetch response status:', response.status);
-        return response.json();
-    })
-    .then(data => {
-        console.log('Response data:', data);
-        if (data.success) {
-            alert("You have been successfully submitted.");
-            window.top.location.href = 'thank-you'; 
-        } else {
-            if (data.error) {
-                alert(data.message);
-            } else {
-                console.error('Database insertion error:', data.message);
-                alert('An error occurred. Please try againnn.');
-            }
-        }
-    })
-    .catch(error => {
-       
-            // Clear all form input values
-    const form = document.getElementById("dateForm");
-    form.querySelectorAll("input").forEach(input => input.value = "");
-
-    // Show success message (even if there's an error, based on your code)
-    //alert("You have been successfully submitted.");
-
-    // Redirect to the thank-you page
-    window.top.location.href = 'thank-you';
-    });
-}
-
-</script>
 <?php include "include/footer.php" ?>

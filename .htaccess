@@ -3,6 +3,9 @@
     # www
     RewriteCond %{HTTP_HOST} ^epa-bienestar\.com.ar$ [NC]
     RewriteRule ^(.*)$ https://plataforma.epa-bienestar.com.ar/$1 [L,R=301]
+    # Turnos: los formularios viejos (book-appointment*) se reemplazaron por /turnos,
+    # que conecta con Recepción de Segunda Opinión Médica (include/som-turnos.php).
+    RewriteRule ^book-appointment(-epa)?(\.php)?/?$ /turnos [R=301,L]
     # Remove .php extension
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f
@@ -11,6 +14,22 @@
     RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.php\ HTTP
     RewriteRule ^([^.]+)\.php$ /$1 [R=301,L]
 </IfModule>
+# Archivos internos que nunca se sirven (notas, backups, volcados, configuración).
+<FilesMatch "\.(md|bak|save|orig|old|swp|sql|log|env|ini|sh)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+<FilesMatch "^epa-config\.php$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+</FilesMatch>
+
 <IfModule mod_headers.c>
     Header set Access-Control-Allow-Origin "*"
     Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"

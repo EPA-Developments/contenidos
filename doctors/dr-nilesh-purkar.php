@@ -51,7 +51,7 @@
                     </ul>
                     <p id="doctors-about"></p>
                    <div class="item d-flex align-items-center justify-content-between mb-4">
-              <a href="https://plataforma.epa-bienestar.com.ar/book-appointment" class="btn btn-primary"><i class="fa fa-calendar"></i> Book Appointment</a>
+              <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="btn btn-primary"><i class="fa fa-calendar"></i> Book Appointment</a>
 
               </div>
                         </div>

@@ -59,18 +59,22 @@
         <div class="row justify-content-center">
 
 <?php
-// Database credentials
-$servername = "localhost";
-$username = "aditya";
-$password = "aditya123";
-$dbname = "articles";
+// Credenciales de la base: fuera del repositorio (include/config.php: variable de entorno
+// o epa-config.php fuera de la carpeta pública). Nunca escribirlas acá.
+require_once __DIR__ . '/../include/config.php';
+$servername = epa_config('DB_HOST') ?? 'localhost';
+$username = epa_config('DB_USER') ?? '';
+$password = epa_config('DB_PASSWORD') ?? '';
+$dbname = epa_config('DB_NAME') ?? '';
 
 // Create a connection to the database
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check if the connection is successful
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    // El detalle va al log: en pantalla mostraría el servidor y el usuario de la base.
+    error_log('blogs/index.php: no se pudo conectar a la base: ' . $conn->connect_error);
+    die('No pudimos cargar los artículos en este momento.');
 }
 
 // Set the number of records per page (set this to 100)

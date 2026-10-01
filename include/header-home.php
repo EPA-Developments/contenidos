@@ -112,7 +112,7 @@ foreach ($languages as $hreflang => $path) {
                             <div class="others-options d-flex align-items-center" style="display: flex; gap: 20px;">  
 							<!-- Book Appointment Button -->
 							<div class="option-item">
-								<a href="https://calendar.app.google/BSEeG7soHGK52RJM8" class="default-btn">Book Appointment</a>
+								<a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
 							</div>
 
 							<!-- GTranslate Wrapper Styled as a Button -->
@@ -148,7 +148,7 @@ foreach ($languages as $hreflang => $path) {
 									<div class="gtranslate_wrapper"></div>
 								</div>
                                 <div class="option-item">
-                                    <a href="https://calendar.app.google/BSEeG7soHGK52RJM8" class="default-btn">Book Appointment</a>
+                                    <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
                                 </div>
                             </div>
                         </div>
