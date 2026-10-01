@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olive Oil for High Blood Pressure" />
     <meta property="og:description" content="Discover how olive oil can naturally help lower high blood pressure. Learn about its benefits for hypertension treatment." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Olive Oil for Hypertension Relief</h1>
-<p>Are you struggling to keep your blood pressure in check despite various efforts? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall quality of life. The good news is that there is a natural remedy that may help - olive oil. Let's explore how olive oil can be a beneficial addition to your hypertension management plan.</p>
+<p>Are you struggling to keep your blood pressure in check despite various efforts? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and overall quality of life. The good news is that there is a natural remedy that may help - olive oil. Let's explore how olive oil can be a beneficial addition to your hypertension management plan.</p>
 <h2 class="sec-scrl" id="olive-oil-hypertension-treatment">Olive Oil Hypertension Treatment</h2>
 <p>Olive oil is a key component of the Mediterranean diet, which has long been associated with numerous health benefits, including better heart health and lower rates of hypertension. Here's how olive oil may help in the treatment of high blood pressure:</p>
 <ul>
@@ -148,8 +148,8 @@
 <p>Healthy blood vessels are essential for maintaining optimal blood pressure levels and overall cardiovascular health. Here's how olive oil can help protect your blood vessels:</p>
 <ul>
 <li>Olive oil contains polyphenols that have been shown to improve endothelial function, which plays a key role in regulating blood vessel tone and blood flow.</li>
-<li>The anti-inflammatory properties of olive oil can help reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</li>
-<li>Regular consumption of olive oil can help prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> and promote better circulation throughout the body.</li>
+<li>The anti-inflammatory properties of olive oil can help reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</li>
+<li>Regular consumption of olive oil can help prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> and promote better circulation throughout the body.</li>
 </ul>
 <h2 class="sec-scrl" id="hypertensive-patients">Olive Oil Benefits for Hypertensive Patients</h2>
 <p>If you have been diagnosed with hypertension, adding olive oil to your daily diet can offer several benefits for managing your condition:</p>

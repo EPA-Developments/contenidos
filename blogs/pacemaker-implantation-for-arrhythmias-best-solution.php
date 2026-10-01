@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pacemaker Implantation for Arrhythmias: The Best Solution">
   <meta property="og:description" content="Discover why Pacemaker Implantation is frequently recommended as the most effective treatment for arrhythmias. Learn more about this life-saving procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pacemaker-implantation-for-arrhythmias-best-solution">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pacemaker-implantation-for-arrhythmias-best-solution">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pacemaker-implantation-for-arrhythmias-best-solution" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pacemaker-implantation-for-arrhythmias-best-solution" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pacemaker Implantation",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/pacemaker-implantation-for-arrhythmias-best-solution"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/pacemaker-implantation-for-arrhythmias-best-solution"  
       }]
     }
   </script>

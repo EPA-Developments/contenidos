@@ -10,12 +10,12 @@
     <meta property="og:title" content="Lettuce Boosts Blood Vessel Health" />
     <meta property="og:description" content="Explore how lettuce supports healthy blood vessels naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-blood-vessel-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lettuce-blood-vessel-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-blood-vessel-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lettuce-blood-vessel-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lettuce Blood Vessel Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lettuce-blood-vessel-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lettuce-blood-vessel-health"
         }
     ]
 }
@@ -137,12 +137,12 @@
 <p>How can lettuce specifically benefit the health of your blood vessels? Let's delve into the mechanisms behind this leafy green's impact on arterial health. Nitric oxide, a key molecule produced in the endothelial cells, plays a crucial role in blood vessel relaxation and dilation. By promoting nitric oxide production, lettuce supports the proper functioning of your blood vessels, allowing for improved blood flow and reduced risk of cardiovascular issues.</p>
 <ul>
 <li>Enhanced Endothelial Function: Lettuce consumption has been linked to improved endothelial function, which is essential for maintaining healthy blood vessels.</li>
-<li>Blood Vessel Relaxation: The nutrients in lettuce contribute to blood vessel relaxation, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</li>
+<li>Blood Vessel Relaxation: The nutrients in lettuce contribute to blood vessel relaxation, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</li>
 <li>Antioxidant Protection: The antioxidants in lettuce help combat oxidative stress in the blood vessels, preserving their structural integrity and function.</li>
 </ul>
 <p>By incorporating lettuce into your meals regularly, you can provide your body with the necessary nutrients to support healthy blood vessels and overall cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="lettuce-for-endothelial-function">Lettuce for Endothelial Function</h2>
-<p>Endothelial cells, the inner lining of blood vessels, play a crucial role in maintaining vascular health. How does lettuce contribute to the optimal function of these cells? The bioactive compounds in lettuce, such as flavonoids and polyphenols, have been shown to promote endothelial function and protect against <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>.</p>
+<p>Endothelial cells, the inner lining of blood vessels, play a crucial role in maintaining vascular health. How does lettuce contribute to the optimal function of these cells? The bioactive compounds in lettuce, such as flavonoids and polyphenols, have been shown to promote endothelial function and protect against <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>.</p>
 <p>Moreover, the fiber content in lettuce can help reduce inflammation in the blood vessels, further supporting endothelial health. By consuming lettuce regularly, you can aid in the prevention of endothelial damage and improve the overall function of your blood vessels.</p>
 <h2 class="sec-scrl" id="blood-vessel-protection">Blood Vessel Protection</h2>
 <p>What measures can you take to protect your blood vessels and promote cardiovascular health? Including lettuce in your diet is a simple yet effective way to support the health of your arteries and blood vessels. The combination of antioxidants, vitamins, and minerals found in lettuce can help combat oxidative stress, reduce inflammation, and promote proper blood vessel function.</p>

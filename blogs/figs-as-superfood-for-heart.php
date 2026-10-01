@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart-Healthy Figs: A Superfood Boost" />
     <meta property="og:description" content="Discover how figs, a nutrient-rich superfood, can boost heart vitality and support cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/figs-as-superfood-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/figs-as-superfood-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/figs-as-superfood-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/figs-as-superfood-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Figs As Superfood For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/figs-as-superfood-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/figs-as-superfood-for-heart"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Figs are nutrient-rich fruits that offer a wide array of health benefits, especially when it comes to supporting heart vitality. These sweet and versatile fruits are packed with essential nutrients that play a crucial role in protecting your heart and preventing cardiovascular diseases.</p>
 <ul>
 <li>Rich in dietary fiber, figs can help regulate cholesterol levels and improve heart health.</li>
-<li>High in potassium, figs support healthy blood pressure levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>High in potassium, figs support healthy blood pressure levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Loaded with antioxidants, figs combat inflammation and oxidative stress, both of which are linked to heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-benefits">What Cardiovascular Benefits do Figs Offer?</h2>

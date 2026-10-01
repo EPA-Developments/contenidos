@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Wooziness: Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing wooziness? Learn about causes, treatment, and management of wooziness, including its link to dizziness, dehydration, and low blood pressure. Know when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/wooziness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/wooziness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/wooziness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/wooziness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Wooziness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/wooziness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/wooziness"  
       }]
     }
   </script>
@@ -186,13 +186,13 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Wooziness: Causes, Treatment, and When to Seek Help</h1>
-<p>Wooziness is a sensation of light-headedness or unsteadiness that can make you feel off-balance or dizzy. It is often described as a spinning sensation, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a>, or experiencing a head rush.</p>
+<p>Wooziness is a sensation of light-headedness or unsteadiness that can make you feel off-balance or dizzy. It is often described as a spinning sensation, <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a>, or experiencing a head rush.</p>
 <p>Wooziness can be a temporary issue or a chronic condition that significantly impacts daily activities.</p>
 <h2 id="forms">What are the Forms of Wooziness?</h2>
-<p>There are different forms of wooziness, each with its specific symptoms and related concepts. These forms include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, feeling faint, spinning sensation, unsteadiness, head rush, and giddiness.</p>
+<p>There are different forms of wooziness, each with its specific symptoms and related concepts. These forms include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, feeling faint, spinning sensation, unsteadiness, head rush, and giddiness.</p>
 <p>While all these forms share similarities, they may have distinct triggers and effects on an individual's well-being.</p>
 <h2 id="causes">What are the Causes of Wooziness?</h2>
-<p>Wooziness can be caused by various factors, including dehydration, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, inner ear problems, anxiety, medication side effects, and more. Dehydration can disrupt the body's balance of fluids and electrolytes, leading to wooziness.</p>
+<p>Wooziness can be caused by various factors, including dehydration, <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, inner ear problems, anxiety, medication side effects, and more. Dehydration can disrupt the body's balance of fluids and electrolytes, leading to wooziness.</p>
 <p>Low blood pressure can result in reduced blood flow to the brain, causing dizziness and light-headedness.</p>
 <ul>
 <li>Inner ear problems such as benign paroxysmal positional vertigo (BPPV) can trigger episodes of dizziness and vertigo.</li>
@@ -206,7 +206,7 @@
 <p>The treatment for wooziness depends on its underlying cause. Medical interventions may include medications to manage symptoms like nausea or vertigo, physical therapy to improve balance and coordination, or surgical procedures for severe cases.</p>
 <p>Lifestyle changes such as staying hydrated, avoiding triggers, and practicing stress-reducing techniques can also help alleviate wooziness.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is crucial to seek medical help if wooziness is persistent, severe, or accompanied by concerning symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, slurred speech, or sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</p>
+<p>It is crucial to seek medical help if wooziness is persistent, severe, or accompanied by concerning symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, slurred speech, or sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</p>
 <p>Additionally, if wooziness interferes with daily activities or occurs without an apparent trigger, consulting a healthcare provider is recommended for proper evaluation and management.</p>
 <h2>Home Remedies for Wooziness</h2>
 <p>In addition to medical treatments, there are several home remedies that can help alleviate wooziness.</p>

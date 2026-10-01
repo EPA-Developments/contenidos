@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Fainting Spells: Causes, Treatment, and Symptoms" >
   <meta property="og:description" content="Fainting spells during exercise might be a warning sign of heart issues. Read on to learn about causes, symptoms, diagnosis and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Fainting Spells",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells"  
       }]
     }
   </script>
@@ -186,23 +186,23 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Fainting Spells: Diagnosis, Treatment, and Symptoms</h1>
-<p>Fainting spells, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, refer to a sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> or a temporary collapse due to a lack of blood flow to the brain. This can result in an individual passing out or experiencing near-fainting episodes.</p>
+<p>Fainting spells, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, refer to a sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> or a temporary collapse due to a lack of blood flow to the brain. This can result in an individual passing out or experiencing near-fainting episodes.</p>
 <p>Blackouts are another term used to describe these unconscious episodes, which are usually brief and resolve on their own.</p>
-<p>Symptoms of fainting spells include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, nausea, sweating, and a pale complexion. In some cases, individuals may experience blurred vision or a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> before losing consciousness.</p>
+<p>Symptoms of fainting spells include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, nausea, sweating, and a pale complexion. In some cases, individuals may experience blurred vision or a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> before losing consciousness.</p>
 <p>It is essential to differentiate fainting spells from other conditions like seizures, as the management and treatment vary significantly.</p>
 <h2 id="forms">What are the Forms of Fainting spells?</h2>
 <p>Fainting spells can manifest in various forms, each with its specific symptoms and triggers. Vasovagal syncope is the most common type, often triggered by fear, pain, or standing for long periods.</p>
-<p>Situational syncope occurs in response to specific triggers like coughing, laughing, or swallowing. Cardiac syncope is linked to heart disease, while <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a> involves a sudden drop in blood pressure upon standing.</p>
+<p>Situational syncope occurs in response to specific triggers like coughing, laughing, or swallowing. Cardiac syncope is linked to heart disease, while <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a> involves a sudden drop in blood pressure upon standing.</p>
 <p>Neurocardiogenic syncope is associated with an imbalance in the autonomic nervous system, leading to a sudden drop in blood pressure.</p>
 <p>Finally, carotid sinus syncope results from pressure on the carotid sinus, a sensitive area in the neck that regulates blood pressure.</p>
 <h2 id="causes">What are the Causes of Fainting spells?</h2>
-<p>Fainting spells can be caused by a variety of factors, including dehydration, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, heart conditions, and neurological issues. Dehydration reduces blood volume, leading to decreased blood flow to the brain and potential fainting episodes.</p>
+<p>Fainting spells can be caused by a variety of factors, including dehydration, <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, heart conditions, and neurological issues. Dehydration reduces blood volume, leading to decreased blood flow to the brain and potential fainting episodes.</p>
 <p>Low blood pressure, especially upon standing, can cause a sudden drop in cerebral perfusion, resulting in syncope.</p>
 <p>Heart diseases like arrhythmias, structural abnormalities, or valve disorders can disrupt blood flow and oxygen delivery to the brain, triggering fainting spells.</p>
 <p>Neurological conditions such as epilepsy, migraines, or transient ischemic attacks can also lead to syncope due to their impact on brain function.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Fainting spells?</h2>
 <p>Diagnosing fainting spells involves a thorough medical history review, physical examination, and possibly additional tests. Basic diagnostic methods include blood pressure monitoring, heart rate evaluation, and checking for signs of dehydration.</p>
-<p>Advanced techniques like tilt-table testing, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), echocardiogram, or MRI scans may be employed to identify underlying causes.</p>
+<p>Advanced techniques like tilt-table testing, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), echocardiogram, or MRI scans may be employed to identify underlying causes.</p>
 <p>Holter monitoring, which records heart activity over 24-48 hours, can detect arrhythmias or abnormal heart rhythms contributing to syncope. Head-up tilt testing assesses how changes in posture affect blood pressure and heart rate, aiding in the diagnosis of orthostatic hypotension.</p>
 <h2 id="treatment">What is the Treatment for Fainting spells?</h2>
 <p>Treatment for fainting spells depends on the underlying cause and may involve medical interventions, lifestyle modifications, or advanced therapies.</p>

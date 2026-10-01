@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Timothy Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Timothy Syndrome, a rare genetic disorder affecting the heart's electrical system. Discover symptoms, treatments, and research updates.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/timothy-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/timothy-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/timothy-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/timothy-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Timothy Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/timothy-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/timothy-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Timothy Syndrome</h1>
-<p>Timothy Syndrome is a rare genetic disorder affecting the heart's electrical system. It can lead to a life-threatening type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> called <a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a>, which increases the risk of fainting and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. This syndrome is extremely rare, with only a few documented cases worldwide. Understanding Timothy Syndrome's significance is crucial as it necessitates close monitoring and specialized care to manage potential complications. If you suspect any symptoms related to irregular heartbeats or fainting episodes, consult a healthcare provider promptly for a thorough evaluation.</p>
+<p>Timothy Syndrome is a rare genetic disorder affecting the heart's electrical system. It can lead to a life-threatening type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> called <a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a>, which increases the risk of fainting and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. This syndrome is extremely rare, with only a few documented cases worldwide. Understanding Timothy Syndrome's significance is crucial as it necessitates close monitoring and specialized care to manage potential complications. If you suspect any symptoms related to irregular heartbeats or fainting episodes, consult a healthcare provider promptly for a thorough evaluation.</p>
 <h2 id="causes">Causes of Timothy Syndrome</h2>
 <p>Certainly! Timothy Syndrome is influenced by various factors. These include:
 
@@ -188,8 +188,8 @@ The diagnostic process for Timothy Syndrome typically involves:
 
 <ul>
 <li>Physical examination and medical history review</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Holter monitoring for continuous ECG recording over 24-48 hours</li>
 <li>Exercise stress testing to assess heart response to physical activity</li>
@@ -206,7 +206,7 @@ The diagnostic process for Timothy Syndrome typically involves:
 </ul>
 <h3>Cardiac Interventions</h3>
 <ul>
-<li>Cardiac interventions may involve procedures like implanting a pacemaker or an implantable cardioverter-<a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillator">defibrillator</a> (ICD).</li>
+<li>Cardiac interventions may involve procedures like implanting a pacemaker or an implantable cardioverter-<a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillator">defibrillator</a> (ICD).</li>
 <li>These interventions aim to manage and correct heart rhythm abnormalities.</li>
 <li>The primary objective is to prevent sudden cardiac arrest and improve cardiac function.</li>
 <li>The steps may include pre-operative evaluation, the procedure itself, and post-operative care.</li>

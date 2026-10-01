@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Shortness of Breath: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Severe Shortness Of Breath Might Point To A Heart Problem. Find Out More About Its Causes, Diagnosis, Forms, Symptoms And Treatment Options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Shortness Of Breath",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Severe Shortness of Breath: Symptoms, Causes, and Diagnosis</h1>
-<p>Severe shortness of breath, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a distressing symptom characterized by extreme <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, intense <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>.</p>
-<p>Individuals experiencing severe shortness of breath may feel as though they are struggling to breathe, especially during exertion or sudden episodes of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</p>
+<p>Severe shortness of breath, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a distressing symptom characterized by extreme <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, intense <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>.</p>
+<p>Individuals experiencing severe shortness of breath may feel as though they are struggling to breathe, especially during exertion or sudden episodes of <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</p>
 <p>This condition can be alarming and may indicate an underlying health issue that requires prompt attention.</p>
 <h2 id="forms">What are the Forms of Severe shortness of breath?</h2>
 <p>There are various forms of severe shortness of breath, each with specific symptoms and related concepts.</p>
@@ -199,15 +199,15 @@
 <h2 id="causes">What are the Causes of Severe shortness of breath?</h2>
 <p>Severe shortness of breath can be caused by various factors, including:</p>
 <ul>
-<li>Heart conditions such as heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or arrhythmias.</li>
-<li>Lung conditions like asthma, COPD, or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</li>
+<li>Heart conditions such as heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or arrhythmias.</li>
+<li>Lung conditions like asthma, COPD, or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</li>
 <li>Anemia, which reduces the oxygen-carrying capacity of the blood.</li>
 <li>Obesity, which can strain the respiratory system and lead to breathing difficulties.</li>
 <li>Anxiety or panic attacks, which can manifest as severe shortness of breath.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Severe shortness of breath?</h2>
 <p>Diagnosing severe shortness of breath may involve basic methods like physical exams, medical history review, and lung function tests.</p>
-<p>Advanced techniques such as imaging studies (X-rays, CT scans) or cardiac tests (EKG, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>) may be necessary to determine the underlying cause accurately.</p>
+<p>Advanced techniques such as imaging studies (X-rays, CT scans) or cardiac tests (EKG, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>) may be necessary to determine the underlying cause accurately.</p>
 <h2 id="treatment">What is the Treatment for Severe shortness of breath?</h2>
 <p>Treatment for severe shortness of breath depends on the underlying cause and may include:</p>
 <ul>

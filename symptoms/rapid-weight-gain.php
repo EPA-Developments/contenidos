@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rapid Weight Gain: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing rapid weight gain? Learn about causes, symptoms, treatment, and when to seek help for managing rapid weight gain, including its link to heart disease and fluid retention.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-weight-gain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/rapid-weight-gain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-weight-gain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-weight-gain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rapid Weight Gain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/rapid-weight-gain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/rapid-weight-gain"  
       }]
     }
   </script>
@@ -227,7 +227,7 @@
 <li>Behavioral therapy - Cognitive-behavioral therapy (CBT) or counseling sessions can help individuals address emotional factors contributing to rapid weight gain and develop healthier coping strategies.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent or unexplained rapid weight gain, especially if it is accompanied by other concerning symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, swelling in the legs, or extreme fatigue.</p>
+<p>It is essential to seek medical attention if you experience persistent or unexplained rapid weight gain, especially if it is accompanied by other concerning symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, swelling in the legs, or extreme fatigue.</p>
 <p>Additionally, if rapid weight gain is impacting your daily activities, mental well-being, or quality of life, it is crucial to consult a healthcare provider for evaluation and appropriate management.</p>
 <h2>Home Remedies for Rapid weight gain</h2>
 <p>While addressing the underlying cause of rapid weight gain may require medical intervention, incorporating some home remedies can support overall health and weight management.</p>

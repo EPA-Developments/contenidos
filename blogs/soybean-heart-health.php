@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Soybean's Impact on Heart Health&quot;" />
     <meta property="og:description" content="Explore how soybean benefits heart health, lowers cholesterol levels, and provides cardiovascular protection. Learn more about the power of soy for a healthy heart!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/soybean-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/soybean-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/soybean-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/soybean-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Soybean Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/soybean-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/soybean-heart-health"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Can soybeans help prevent heart disease? Research suggests that incorporating soybeans into your diet may reduce the risk of heart disease. The plant-based compounds found in soybeans have been shown to lower cholesterol levels and improve overall cardiovascular health.</p>
 <p>Furthermore, soybeans contain phytochemicals that have anti-inflammatory properties, which can help protect your heart from various diseases. By including soybeans in your meals regularly, you can take a proactive step towards preventing heart issues in the future.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">Cholesterol Levels</h2>
-<p>Struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels? Soybeans could be a valuable addition to your diet. The soluble fiber in soybeans helps reduce cholesterol absorption in the gut, leading to lower LDL (bad) cholesterol levels.</p>
+<p>Struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels? Soybeans could be a valuable addition to your diet. The soluble fiber in soybeans helps reduce cholesterol absorption in the gut, leading to lower LDL (bad) cholesterol levels.</p>
 <p>Moreover, the isoflavones present in soybeans may also play a role in lowering cholesterol and triglyceride levels in the blood. By incorporating soybeans into your meals, you can support healthy cholesterol levels and reduce the risk of cardiovascular diseases.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cardiovascular Protection</h2>
 <p>How can soybeans protect your heart? The nutrients in soybeans, such as omega-3 fatty acids and fiber, support heart health by reducing inflammation and improving blood vessel function. These properties can help lower blood pressure and reduce the risk of heart attacks and strokes.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oats: Heart Health Science&quot;" />
     <meta property="og:description" content="Uncover the scientific benefits of oats for heart health. Explore how oats can help prevent heart disease and improve overall well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/scientific-benefits-of-oats" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/scientific-benefits-of-oats" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/scientific-benefits-of-oats" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/scientific-benefits-of-oats" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Scientific Benefits Of Oats",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/scientific-benefits-of-oats"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/scientific-benefits-of-oats"
         }
     ]
 }
@@ -148,7 +148,7 @@
 <h2 class="sec-scrl" id="Heart Health">How Can Oats Contribute to Overall Heart Health?</h2>
 <p>When it comes to heart health, oatmeal stands out as a nutrient-dense food that offers a range of benefits beyond just lowering cholesterol levels. From regulating blood pressure to improving blood sugar control, oats play a versatile role in supporting heart health.</p>
 <ul>
-<li>The high fiber content in oats aids in maintaining healthy blood pressure levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>The high fiber content in oats aids in maintaining healthy blood pressure levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Oats help stabilize blood sugar levels, making them a suitable choice for individuals with diabetes or those at risk of developing the condition.</li>
 <li>Incorporating oats into your diet can promote satiety and weight management, which are crucial factors in preventing heart disease.</li>
 </ul>
@@ -156,7 +156,7 @@
 <p>Clinical trials focused on oats have provided concrete evidence of their positive impact on heart health. These trials have highlighted the effectiveness of oats in reducing cardiovascular risk factors and improving overall heart function.</p>
 <ul>
 <li>Participants in oat-based clinical trials have shown significant improvements in their lipid profiles, with decreased LDL cholesterol and triglyceride levels.</li>
-<li>Oats have been found to enhance endothelial function, which is essential for maintaining healthy blood vessels and preventing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Oats have been found to enhance endothelial function, which is essential for maintaining healthy blood vessels and preventing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Long-term studies have demonstrated the sustained benefits of oat consumption in reducing the incidence of heart disease and related complications.</li>
 </ul>
 <h2 class="sec-scrl" id="Conclusion">In Conclusion</h2>

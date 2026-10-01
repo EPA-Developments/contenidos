@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potassium and Stroke Prevention: Vital Link" />
     <meta property="og:description" content="Learn how potassium impacts stroke prevention. Discover the link between potassium intake and reducing stroke risk." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-stroke-prevention"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="potassium-stroke-prevention">Potassium Stroke Prevention</h2>
 <p>Potassium is not just a mineral found in bananas; it is a key player in maintaining optimal health, especially when it comes to preventing strokes. By ensuring an adequate intake of potassium, you can significantly reduce your risk of experiencing a stroke.</p>
 <ul>
-<li>One of the primary ways potassium helps prevent strokes is by regulating blood pressure. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for strokes, and potassium helps lower blood pressure levels, reducing the strain on your cardiovascular system.</li>
+<li>One of the primary ways potassium helps prevent strokes is by regulating blood pressure. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for strokes, and potassium helps lower blood pressure levels, reducing the strain on your cardiovascular system.</li>
 <li>Additionally, potassium promotes proper functioning of blood vessels, ensuring that blood flows smoothly throughout your body. This vascular health is essential for preventing blockages that could lead to a stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="potassium-and-brain-health">Potassium and Brain Health</h2>
@@ -162,7 +162,7 @@
 <p>Potassium helps relax blood vessel walls, promoting better blood flow and reducing the risk of blood clots and blockages that could lead to strokes or heart attacks.</p>
 <ul>
 <li>In addition to its vasodilatory effects, potassium also helps regulate sodium levels in the body, further supporting healthy blood pressure levels and reducing the strain on the heart and blood vessels.</li>
-<li>Ensuring an adequate intake of potassium through diet or supplements can have a significant impact on your vascular health, protecting against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, stroke, and other cardiovascular conditions.</li>
+<li>Ensuring an adequate intake of potassium through diet or supplements can have a significant impact on your vascular health, protecting against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, stroke, and other cardiovascular conditions.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, potassium plays a vital role in preventing strokes by supporting vascular health, regulating blood pressure, and promoting optimal brain function. By incorporating potassium-rich foods into your diet and maintaining adequate potassium levels, you can significantly reduce your risk of experiencing a stroke and support overall cardiovascular protection. Remember to consult with your healthcare provider to determine the right level of potassium intake for your individual needs and to ensure a holistic approach to stroke prevention.</p>

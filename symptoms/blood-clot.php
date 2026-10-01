@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blood Clot Symptoms: Causes, Signs, Prevention and Treatment" >
   <meta property="og:description" content="A blood clot can block blood flow, leading to serious health issues. Know the symptoms, causes, and treatments and diagnosis." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blood Clot",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/blood-clot"  
       }]
     }
   </script>
@@ -189,11 +189,11 @@
 <p>A blood clot is a gel-like mass formed by coagulated blood that can occur in your veins or arteries. When the body senses injury or bleeding, it triggers a clotting process to prevent excessive blood loss.</p>
 <p>However, in some cases, blood clots can form abnormally and pose serious health risks.</p>
 <p>Blood clot symptoms can vary depending on the location of the clot. Common symptoms include swelling, redness, warmth, and pain in the affected area.</p>
-<p>If a blood clot breaks loose and travels to the lungs, it can lead to a life-threatening condition called pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>If a blood clot breaks loose and travels to the lungs, it can lead to a life-threatening condition called pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <p>Deep vein thrombosis (DVT) is a type of blood clot that typically forms in the legs. It can cause leg swelling, pain, and tenderness. DVT is a serious condition that requires prompt medical attention to prevent complications.</p>
 <h2 id="forms">What are the Forms of Blood Clot?</h2>
 <p>There are two main forms of blood clots: arterial and venous. Arterial blood clots occur in the arteries and can lead to heart attacks or strokes.</p>
-<p>Symptoms include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness in the face or limbs.</p>
+<p>Symptoms include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness in the face or limbs.</p>
 <p>Venous blood clots, such as DVT, occur in the veins and commonly affect the legs. Symptoms of DVT include swelling, pain, and redness in the affected leg. If left untreated, DVT can lead to serious complications like pulmonary embolism.</p>
 <h2 id="causes">What are the Causes of Blood Clot?</h2>
 <p>There are several factors that can increase the risk of developing blood clots.</p>
@@ -217,7 +217,7 @@
 <p>It's important to follow your doctor's recommendations and take prescribed medications as directed to reduce the risk of complications.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It's crucial to seek medical attention if you experience any symptoms of a blood clot, such as sudden swelling, pain, or redness in your leg.</p>
-<p>If you have chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, or coughing up blood, it could indicate a pulmonary embolism, which requires immediate medical intervention.</p>
+<p>If you have chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, or coughing up blood, it could indicate a pulmonary embolism, which requires immediate medical intervention.</p>
 <p>Additionally, if you have a history of clotting disorders or other risk factors for blood clots, it's essential to consult with your healthcare provider regularly to monitor your condition and take preventive measures.</p>
 <h2>Home Remedies for Blood Clot</h2>
 <p>While medical treatment is essential for managing blood clots, there are some home remedies that can help support your recovery and reduce the risk of developing new clots.</p>

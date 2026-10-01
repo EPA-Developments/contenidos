@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Figs for Heart Inflammation Relief&quot;" />
     <meta property="og:description" content="Discover how figs help reduce heart inflammation and protect cardiovascular health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-heart-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/figs-and-heart-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-heart-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/figs-and-heart-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Figs And Heart Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/figs-and-heart-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/figs-and-heart-inflammation"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Figs are a rich source of flavonoids, which are potent antioxidants that help combat free radicals in the body. These antioxidants play a crucial role in reducing vascular inflammation, a key factor in cardiovascular inflammation. By incorporating figs into your diet, you can benefit from their anti-inflammatory properties and support your heart health.</p>
 <p>In addition to flavonoids, figs contain fiber, which has been linked to lower levels of chronic inflammation in the body. This can further contribute to reducing the risk of heart disease and protecting your cardiovascular system.</p>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Understanding Cardiovascular Inflammation and Its Impact</h2>
-<p>Cardiovascular inflammation is a complex process that involves the body's immune response to various stimuli. Chronic inflammation in the cardiovascular system can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries. This buildup can restrict blood flow and increase the risk of heart attacks and strokes.</p>
+<p>Cardiovascular inflammation is a complex process that involves the body's immune response to various stimuli. Chronic inflammation in the cardiovascular system can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries. This buildup can restrict blood flow and increase the risk of heart attacks and strokes.</p>
 <p>By addressing cardiovascular inflammation, you can take proactive steps to protect your heart and improve your overall cardiovascular health. Figs, with their anti-inflammatory effects, can be a valuable addition to your diet to combat inflammation and support heart protection.</p>
 <h2 class="sec-scrl" id="chronic-inflammation">The Role of Figs in Reducing Chronic Inflammation</h2>
 <p>Chronic inflammation is a persistent immune response that can contribute to various health conditions, including heart disease. Research suggests that the phytochemicals found in figs have anti-inflammatory properties that can help reduce chronic inflammation in the body.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lentils for Lowering Blood Pressure: A Guide&quot;" />
     <meta property="og:description" content="Learn how lentils can naturally manage blood pressure. Discover the power of potassium-rich foods for healthy blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-lowering-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-lowering-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-lowering-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-lowering-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lentils For Lowering Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-lowering-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lentils-for-lowering-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Lentils for Blood Pressure Control</h1>
-<p>Are you looking for a natural way to manage your blood pressure? Have you considered the powerful impact that incorporating lentils into your diet could have on your health? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> affects millions of people worldwide, impacting daily activities and overall well-being. Discover how lentils, a humble legume, can play a significant role in helping you lower and manage your blood pressure effectively.</p>
+<p>Are you looking for a natural way to manage your blood pressure? Have you considered the powerful impact that incorporating lentils into your diet could have on your health? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> affects millions of people worldwide, impacting daily activities and overall well-being. Discover how lentils, a humble legume, can play a significant role in helping you lower and manage your blood pressure effectively.</p>
 <h2 class="sec-scrl" id="hypertension-management">Hypertension Management</h2>
-<p>When it comes to managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a condition that affects a large percentage of the population, lifestyle modifications, including dietary changes, can make a substantial difference. Lentils offer a natural and affordable way to help control high blood pressure. Here's how lentils contribute to hypertension management:</p>
+<p>When it comes to managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a condition that affects a large percentage of the population, lifestyle modifications, including dietary changes, can make a substantial difference. Lentils offer a natural and affordable way to help control high blood pressure. Here's how lentils contribute to hypertension management:</p>
 <ul>
 <li>Rich in Potassium: Lentils are a potassium-rich food, and potassium is known to help regulate blood pressure levels by counteracting the effects of sodium.</li>
 <li>Diuretic Properties: Lentils act as natural diuretics, promoting the removal of excess sodium and water from the body, which can help lower blood pressure.</li>

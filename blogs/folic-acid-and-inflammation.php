@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Folic Acid for Heart Health: Managing Inflammation&quot;" />
     <meta property="og:description" content="Explore how Folic Acid combats cardiovascular inflammation effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-inflammation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Folic Acid in Cardio Health</h1>
-<p>Folic acid is a vital nutrient that plays a crucial role in managing cardiovascular inflammation. Are you dealing with <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to support your heart health? Understanding how folic acid impacts inflammation in the cardiovascular system can be key to improving your daily activities and overall well-being.</p>
+<p>Folic acid is a vital nutrient that plays a crucial role in managing cardiovascular inflammation. Are you dealing with <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to support your heart health? Understanding how folic acid impacts inflammation in the cardiovascular system can be key to improving your daily activities and overall well-being.</p>
 <h2 class="sec-scrl" id="anti-inflammatory">The Anti-Inflammatory Power of Folic Acid</h2>
 <p>Folic acid possesses potent anti-inflammatory properties that can help combat inflammation in the cardiovascular system. By reducing inflammatory markers, folic acid aids in lowering the risk of cardiovascular diseases such as heart attacks and strokes. This essential nutrient works to modulate the immune response, keeping inflammation in check and promoting overall heart health.</p>
 <p>In addition to its anti-inflammatory effects, folic acid also plays a crucial role in reducing oxidative stress in the body. By neutralizing free radicals and supporting antioxidant defenses, folic acid helps protect the delicate endothelial lining of blood vessels, preventing inflammation and damage that can lead to heart issues.</p>
@@ -144,7 +144,7 @@
 <li>Helps maintain optimal heart function</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Folic Acid's Impact on Heart Inflammation</h2>
-<p>Heart inflammation, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Folic acid's anti-inflammatory properties can help reduce inflammation in the heart muscle, preventing complications and supporting recovery. By incorporating folic acid-rich foods or supplements into your diet, you can potentially lower the risk of heart inflammation and its associated risks.</p>
+<p>Heart inflammation, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, can have serious implications for cardiovascular health. Folic acid's anti-inflammatory properties can help reduce inflammation in the heart muscle, preventing complications and supporting recovery. By incorporating folic acid-rich foods or supplements into your diet, you can potentially lower the risk of heart inflammation and its associated risks.</p>
 <p>Furthermore, folic acid supports overall immune function, which is essential for combating infections and inflammation in the cardiovascular system. By strengthening the immune response, folic acid contributes to a healthier heart and a reduced risk of inflammatory conditions.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Folic acid plays a critical role in managing cardiovascular inflammation and protecting heart health. By harnessing its anti-inflammatory properties, folic acid can help reduce the risk of cardiovascular diseases and support overall well-being. Ensuring an adequate intake of folic acid through diet or supplementation is essential for maintaining a healthy heart and preventing inflammation-related issues. Incorporate folic acid-rich foods such as leafy greens, citrus fruits, and legumes into your diet to reap the benefits of this essential nutrient for your cardiovascular system.</p>

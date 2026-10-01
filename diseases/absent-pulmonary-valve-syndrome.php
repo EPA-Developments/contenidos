@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Absent Pulmonary Valve Syndrome: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Absent pulmonary valve syndrome affects heart function. Read more about its causes, symptoms, and available treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/absent-pulmonary-valve-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/absent-pulmonary-valve-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/absent-pulmonary-valve-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/absent-pulmonary-valve-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Absent Pulmonary Valve Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/absent-pulmonary-valve-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/absent-pulmonary-valve-syndrome"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>These factors can lead to structural defects in the heart, specifically affecting the development of the pulmonary valve.</p>
 <p>Secondary risk factors such as maternal smoking, poor nutrition during pregnancy, and certain medications can also increase the likelihood of developing Absent Pulmonary Valve Syndrome.</p>
 <h2 id="symptoms">Symptoms of Absent Pulmonary Valve Syndrome:</h2>
-<p>Symptoms of Absent Pulmonary Valve Syndrome can vary depending on the stage of the condition. Early-stage symptoms may include respiratory distress, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin), and feeding difficulties in infants.</p>
-<p>As the condition progresses, advanced symptoms such as heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>, heart failure, and arrhythmias may manifest. These symptoms can significantly impact an individual's quality of life, leading to physical limitations and emotional distress.</p>
+<p>Symptoms of Absent Pulmonary Valve Syndrome can vary depending on the stage of the condition. Early-stage symptoms may include respiratory distress, <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin), and feeding difficulties in infants.</p>
+<p>As the condition progresses, advanced symptoms such as heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>, heart failure, and arrhythmias may manifest. These symptoms can significantly impact an individual's quality of life, leading to physical limitations and emotional distress.</p>
 <h2>Diagnosis of Absent Pulmonary Valve Syndrome:</h2>
 <p>Diagnosing Absent Pulmonary Valve Syndrome typically involves a series of tests and evaluations to assess the structure and function of the heart.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, cardiac MRI, and CT scans are commonly used to visualize the heart and detect any abnormalities in the pulmonary valve. Additionally, electrocardiograms and stress tests may be performed to evaluate the heart's electrical activity and overall function.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, cardiac MRI, and CT scans are commonly used to visualize the heart and detect any abnormalities in the pulmonary valve. Additionally, electrocardiograms and stress tests may be performed to evaluate the heart's electrical activity and overall function.</p>
 <p>Early and accurate diagnosis is essential in determining the appropriate treatment and management strategies for individuals with Absent Pulmonary Valve Syndrome.</p>
 <h2 id="treatment">Treatment Options for Absent Pulmonary Valve Syndrome:</h2>
 <p>The treatment of Absent Pulmonary Valve Syndrome aims to address the underlying heart defects, manage symptoms, and improve overall cardiac function. Medications such as diuretics, beta-blockers, and anticoagulants may be prescribed to alleviate symptoms and prevent complications.</p>

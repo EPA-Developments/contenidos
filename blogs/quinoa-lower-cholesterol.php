@@ -10,12 +10,12 @@
     <meta property="og:title" content="Quinoa for Lowering Cholesterol: A Guide" />
     <meta property="og:description" content="Discover how quinoa can help lower cholesterol naturally and improve heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-lower-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/quinoa-lower-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-lower-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/quinoa-lower-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Quinoa Lower Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/quinoa-lower-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/quinoa-lower-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Quinoa on Cholesterol Levels</h1>
-<p>Are you looking for a natural way to improve your lipid profile and reduce cholesterol levels? Quinoa might be the answer you've been searching for. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can impact your daily activities and overall quality of life. Finding the right diet to help manage your cholesterol levels is crucial for maintaining a healthy heart. Let's explore how incorporating quinoa into your meals can contribute to cholesterol reduction and promote heart health.</p>
+<p>Are you looking for a natural way to improve your lipid profile and reduce cholesterol levels? Quinoa might be the answer you've been searching for. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can impact your daily activities and overall quality of life. Finding the right diet to help manage your cholesterol levels is crucial for maintaining a healthy heart. Let's explore how incorporating quinoa into your meals can contribute to cholesterol reduction and promote heart health.</p>
 <h2 class="sec-scrl" id="quinoa-lower-cholesterol">Quinoa Lower Cholesterol</h2>
 <p>Quinoa is a nutrient-dense whole grain that offers a range of health benefits, including its potential to lower cholesterol levels. Here's how quinoa can help in reducing cholesterol:</p>
 <ul>

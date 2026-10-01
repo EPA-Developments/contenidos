@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Extracorporeal Left Ventricular Assist Device: Insertion, Implantation, and Therapy">
   <meta property="og:description" content="Learn about extracorporeal left ventricular assist device insertion and LVAD implantation for heart support with extracorporeal LVAD therapy.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/extracorporeal-left-ventricular-assist-device">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/extracorporeal-left-ventricular-assist-device">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/extracorporeal-left-ventricular-assist-device" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/extracorporeal-left-ventricular-assist-device" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Extracorporeal left ventricular assist device",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/extracorporeal-left-ventricular-assist-device"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/extracorporeal-left-ventricular-assist-device"  
       }]
     }
   </script>

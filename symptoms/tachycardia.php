@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tachycardia Symptoms, Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Tachycardia or fast heart rate can indicate a heart issue. Know more about symptoms, causes, forms and treatment options for tachycardia." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/tachycardia"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Tachycardia Symptoms, Causes, Treatment, and Forms</h1>
-<p>Tachycardia is a condition characterized by a rapid heart rate, where the heart beats faster than normal at rest. This can manifest as a fast heartbeat, increased heart rate, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, racing pulse, or cardiac arrhythmia.</p>
-<p>Individuals with tachycardia may feel their <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a> in their chest, which can be concerning and uncomfortable.</p>
+<p>Tachycardia is a condition characterized by a rapid heart rate, where the heart beats faster than normal at rest. This can manifest as a fast heartbeat, increased heart rate, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, racing pulse, or cardiac arrhythmia.</p>
+<p>Individuals with tachycardia may feel their <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a> in their chest, which can be concerning and uncomfortable.</p>
 <p>Tachycardia can be a standalone condition or a symptom of an underlying health issue. It can occur intermittently or persistently, affecting people of all ages.</p>
 <p>While occasional episodes may not be a cause for concern, chronic tachycardia can lead to complications if left untreated.</p>
 <p>In some cases, tachycardia can be related to heart disease, such as heart failure, coronary artery disease, or heart valve disorders.</p>
@@ -195,17 +195,17 @@
 <h2 id="forms">What are the Forms of Tachycardia?</h2>
 <p>There are several forms of tachycardia, each with its own specific symptoms and characteristics.</p>
 <ul>
-<li>Atrial Fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>): an irregular and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> that can lead to stroke and other heart-related complications.</li>
+<li>Atrial Fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>): an irregular and <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> that can lead to stroke and other heart-related complications.</li>
 <li>Supraventricular Tachycardia (SVT): episodes of abnormally fast heart rate originating above the heart's ventricles.</li>
 <li>Ventricular Tachycardia: a rapid heartbeat originating in the heart's lower chambers, which can be life-threatening if sustained.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia">sinus tachycardia</a> : a fast heart rate within the normal range, commonly triggered by exercise, stress, or fever.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia">sinus tachycardia</a> : a fast heart rate within the normal range, commonly triggered by exercise, stress, or fever.</li>
 </ul>
 <p>Each form of tachycardia may present with slightly different symptoms and require specific management approaches. It is essential to identify the type of tachycardia accurately to determine the most appropriate treatment plan.</p>
 <h2 id="causes">What are the Causes of Tachycardia?</h2>
 <p>Tachycardia can have various causes, ranging from underlying medical conditions to lifestyle factors.</p>
 <ul>
 <li>Heart conditions such as heart disease, heart failure, coronary artery disease, or heart valve disorders.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, which can put additional strain on the heart and lead to increased heart rate.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, which can put additional strain on the heart and lead to increased heart rate.</li>
 <li>Thyroid disorders, such as hyperthyroidism, where the thyroid gland produces excess hormones that can affect heart function.</li>
 <li>Stress, anxiety, or panic attacks, which can stimulate the sympathetic nervous system and elevate heart rate.</li>
 <li>Stimulants like caffeine, nicotine, or certain medications that can act as triggers for tachycardia episodes.</li>
@@ -214,9 +214,9 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Tachycardia?</h2>
 <p>Diagnosing tachycardia typically involves a combination of medical history review, physical examination, and specific tests to assess heart function and rhythm.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): a test that records the heart's electrical activity to detect abnormalities in heart rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): a test that records the heart's electrical activity to detect abnormalities in heart rhythm.</li>
 <li>Holter monitor:a portable device worn for a day or more to continuously record heart activity and detect irregularities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> :an ultrasound of the heart that provides detailed images of heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> :an ultrasound of the heart that provides detailed images of heart structure and function.</li>
 <li>Stress test: a test conducted during physical exertion to monitor heart rate and rhythm changes.</li>
 <li>Blood tests :to check for underlying conditions like thyroid dysfunction or electrolyte imbalances.</li>
 </ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Masked Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Masked hypertension is a condition where blood pressure is normal in a medical setting but elevated outside of it. Know more about its symptoms and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/masked-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/masked-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/masked-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/masked-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Masked Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/masked-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/masked-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Masked Hypertension</h1>
-<p>Masked hypertension is when a person’s blood pressure readings are normal in clinical settings but high outside of those settings. This condition is significant because it can go undetected, leading to untreated <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and increased risk of heart disease, stroke, and other health issues. Studies suggest that masked hypertension affects around 10-15% of the population. It's crucial to be aware of this phenomenon as it can impact treatment decisions and overall health outcomes. Regular monitoring and ambulatory blood pressure monitoring can help detect masked hypertension.</p>
+<p>Masked hypertension is when a person’s blood pressure readings are normal in clinical settings but high outside of those settings. This condition is significant because it can go undetected, leading to untreated <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and increased risk of heart disease, stroke, and other health issues. Studies suggest that masked hypertension affects around 10-15% of the population. It's crucial to be aware of this phenomenon as it can impact treatment decisions and overall health outcomes. Regular monitoring and ambulatory blood pressure monitoring can help detect masked hypertension.</p>
 <h2 id="causes">Causes of Masked Hypertension</h2>
 <p><ul>
 <li>High stress levels</li>
@@ -176,10 +176,10 @@
 <ul>
 <li>Headaches</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 </ul></p>
 <h2>Diagnosis of Masked Hypertension</h2>
 <p>Masked hypertension, where blood pressure readings are normal in clinical settings but high outside, can go undetected and lead to serious health risks. Accurate diagnosis is crucial to prevent complications. The diagnostic process involves various methods:
@@ -202,7 +202,7 @@
 <h3>Lifestyle Modifications</h3>
 <ul>
 <li>Lifestyle changes focus on factors like diet, exercise, and stress management.</li>
-<li>The rationale is to address underlying causes of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and improve overall health.</li>
+<li>The rationale is to address underlying causes of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and improve overall health.</li>
 <li>The primary objective is to reduce blood pressure through healthy habits.</li>
 <li>This treatment may include dietary adjustments, increased physical activity, and stress-reduction techniques.</li>
 </ul>

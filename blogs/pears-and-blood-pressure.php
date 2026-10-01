@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pears for Lowering Blood Pressure&quot;" />
     <meta property="og:description" content="Discover how pears naturally lower blood pressure & support heart health with potassium. Learn effective natural remedies now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pears-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pears-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pears-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pears-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pears And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pears-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pears-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Pears for Blood Pressure Control</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and searching for a natural way to manage it effectively? The impact of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> on your daily activities can be overwhelming. From limiting your physical exertion to causing constant worry, high blood pressure can take a toll on your overall well-being. But what if there was a simple solution right in your fruit basket that could help you lower your blood pressure naturally?</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and searching for a natural way to manage it effectively? The impact of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> on your daily activities can be overwhelming. From limiting your physical exertion to causing constant worry, high blood pressure can take a toll on your overall well-being. But what if there was a simple solution right in your fruit basket that could help you lower your blood pressure naturally?</p>
 <h2 class="sec-scrl" id="natural-blood-pressure-remedies">Natural Blood Pressure Remedies</h2>
 <p>When it comes to managing hypertension, incorporating natural remedies into your daily routine can make a significant difference. Pears, with their abundance of essential nutrients, have been shown to be effective in lowering blood pressure levels. Here's how pears, a potassium-rich fruit, play a crucial role in promoting heart health and blood pressure control:</p>
 <ul>

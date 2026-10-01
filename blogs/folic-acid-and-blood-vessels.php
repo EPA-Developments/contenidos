@@ -10,12 +10,12 @@
     <meta property="og:title" content="Folic Acid Benefits for Blood Vessels" />
     <meta property="og:description" content="Discover how Folic Acid boosts vascular health and supports healthy blood vessels naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-vessels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-vessels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-vessels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-vessels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Blood Vessels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-vessels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-vessels"
         }
     ]
 }

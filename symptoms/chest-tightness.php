@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Tightness During Exercise: Causes and Diagnosis" >
   <meta property="og:description" content="Chest tightness may indicate heart issues. Know more about its causes, symptoms, diagnosis, and treatment options for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Tightness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness"  
       }]
     }
   </script>
@@ -187,25 +187,25 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Tightness During Exercise: Causes, Forms and Diagnosis</h1>
 <p>Chest tightness is a common sensation that many people experience at some point in their lives. It is often described as a feeling of pressure, heaviness, or constriction in the chest area.</p>
-<p>This sensation can be mild or severe and may be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, anxiety, or pain.</p>
-<p>Chest tightness can be a symptom of various underlying conditions, ranging from minor issues like indigestion or muscle strain to more serious medical emergencies like a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>This sensation can be mild or severe and may be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, anxiety, or pain.</p>
+<p>Chest tightness can be a symptom of various underlying conditions, ranging from minor issues like indigestion or muscle strain to more serious medical emergencies like a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <h2 id="forms">What are the Forms of Chest Tightness?</h2>
 <p>There are several forms of chest tightness that individuals may experience, each with its own set of symptoms and related concepts.</p>
 <ul>
 <li>Feeling of tightness in the chest</li>
 <li>Chest heaviness</li>
 <li>Pressure in the chest</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> with chest tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> with chest tightness</li>
 <li>Anxiety chest tightness</li>
 <li>Asthma-related tightness</li>
 <li>Constant or chronic chest tightness</li>
-<li>Tight <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li>Tight <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 </ul>
 <p>These forms may vary in intensity and duration, and it is essential to identify the specific symptoms associated with each to determine the underlying cause of chest tightness.</p>
 <h2 id="causes">What are the Causes of Chest Tightness?</h2>
 <p>Chest tightness can be caused by a wide range of factors, both physical and psychological.</p>
 <ul>
-<li>Heart conditions such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or heart attack</li>
+<li>Heart conditions such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or heart attack</li>
 <li>Respiratory issues like asthma or pneumonia</li>
 <li>Gastrointestinal problems such as acid reflux or hiatal hernia</li>
 <li>Muscle strain or injury</li>
@@ -222,7 +222,7 @@
 <li>Physical examination to assess vital signs and chest area</li>
 <li>Blood tests to check for signs of infection or inflammation</li>
 <li>Imaging tests such as chest X-rays or CT scans to evaluate the heart, lungs, or chest structures</li>
-<li>ECG or <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li>ECG or <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
 <li>Pulmonary function tests to evaluate lung health</li>
 <li>Stress tests to assess heart function under exertion</li>
 </ul>
@@ -243,7 +243,7 @@
 <p>While occasional chest tightness may not always be a cause for concern, certain symptoms or situations may warrant immediate medical attention.</p>
 <ul>
 <li>Sudden or severe chest pain or pressure</li>
-<li>Chest tightness with shortness of breath or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
+<li>Chest tightness with shortness of breath or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
 <li>Chest tightness lasting more than a few minutes</li>
 <li>Chest tightness associated with nausea, sweating, or palpitations</li>
 <li>Chest tightness after physical exertion or injury</li>

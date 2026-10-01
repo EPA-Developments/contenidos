@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fennel Seed: Heart Health Boost&quot;" />
     <meta property="og:description" content="Explore how fennel seed boosts heart health naturally.Discover its cardiovascular benefits on blood pressure, heart disease, and more!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-and-heart-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>By incorporating fennel seed into your diet, you can take advantage of these cardiovascular benefits and support your heart in the long run.</p>
 <h2 class="sec-scrl" id="blood-pressure">Managing Blood Pressure with Fennel Seed</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. Fennel seed can play a role in managing blood pressure levels due to its potassium content. Potassium helps regulate blood pressure by counteracting the effects of sodium and relaxing the walls of blood vessels, reducing strain on the heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. Fennel seed can play a role in managing blood pressure levels due to its potassium content. Potassium helps regulate blood pressure by counteracting the effects of sodium and relaxing the walls of blood vessels, reducing strain on the heart.</p>
 <p>Including fennel seed in your meals or consuming it as a tea can be a simple yet effective way to support healthy blood pressure and reduce the risk of cardiovascular issues.</p>
 <h2 class="sec-scrl" id="heart-disease">Protecting Against Heart Disease</h2>
 <p>Heart disease is a leading cause of death worldwide, making it crucial to take proactive steps to protect your heart. Fennel seed can be a valuable addition to your heart-healthy lifestyle. The antioxidants present in fennel seed help combat oxidative stress and inflammation in the cardiovascular system, reducing the risk of heart disease.</p>

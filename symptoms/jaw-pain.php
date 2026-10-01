@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Jaw Pain: Causes, Symptoms, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing jaw pain? Learn about causes, treatment, and when to seek help for symptoms like jaw pain and heart attack or bruxism. Manage your jaw pain effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/jaw-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/jaw-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/jaw-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/jaw-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Jaw Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/jaw-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/jaw-pain"  
       }]
     }
   </script>
@@ -210,7 +210,7 @@
 <p>Treatment for jaw pain may include medications such as pain relievers, muscle relaxants, or anti-inflammatory drugs to alleviate symptoms. Lifestyle modifications like stress management techniques, relaxation exercises, and dietary changes can also help reduce jaw pain.</p>
 <p>Advanced approaches such as physical therapy, splints or mouth guards, and in severe cases, surgery may be recommended to address underlying issues contributing to jaw pain.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if jaw pain is persistent, severe, or accompanied by other concerning symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, as these could indicate a more serious condition like a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>It is essential to seek medical attention if jaw pain is persistent, severe, or accompanied by other concerning symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, as these could indicate a more serious condition like a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>Additionally, if jaw pain interferes with daily activities, affects eating or speaking, or worsens over time, consulting a healthcare provider is recommended.</p>
 <h2>Home Remedies for Jaw pain</h2>
 <ul>

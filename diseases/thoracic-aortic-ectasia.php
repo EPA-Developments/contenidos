@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Thoracic Aortic Ectasia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Thoracic Aortic Ectasia leads to a weakened aorta. Know more about the causes, symptoms, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-ectasia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-ectasia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-ectasia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-ectasia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Thoracic Aortic Ectasia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/thoracic-aortic-ectasia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/thoracic-aortic-ectasia"
       }]
     }
   </script>
@@ -161,29 +161,29 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Thoracic Aortic Ectasia</h1>
-<p>Thoracic Aortic Ectasia is a condition where the aorta, the body's main artery, becomes wider than normal in the chest area. While not as severe as an aneurysm, it's significant because it can lead to complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>. This condition is less common than aortic aneurysms but can still pose health risks. It's important to monitor ectasia as it may progress over time. Regular check-ups and lifestyle adjustments can help manage this condition effectively.</p>
+<p>Thoracic Aortic Ectasia is a condition where the aorta, the body's main artery, becomes wider than normal in the chest area. While not as severe as an aneurysm, it's significant because it can lead to complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>. This condition is less common than aortic aneurysms but can still pose health risks. It's important to monitor ectasia as it may progress over time. Regular check-ups and lifestyle adjustments can help manage this condition effectively.</p>
 <h2 id="causes">Causes of Thoracic Aortic Ectasia</h2>
 <p>Thoracic Aortic Ectasia can develop due to various factors. Here are the main contributors:
 
 <ul>
 <li>Genetic predisposition</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Connective tissue disorders</li>
 <li>Aging</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Thoracic Aortic Ectasia</h2>
 <p>Recognizing the symptoms of Thoracic Aortic Ectasia is crucial as early detection significantly impacts outcomes. This condition involves the widening or bulging of the aorta in the chest area, which can lead to serious complications if not addressed promptly.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Coughing</li>
 <li>Hoarseness</li>
 <li>Difficulty swallowing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Fatigue</li>
 </ul>
 

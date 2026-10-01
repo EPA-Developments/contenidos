@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Digital Subtraction Angiography: Costs and Normal Range" property="og:title"/>
 <meta content="Digital subtraction angiography helps evaluate blood vessels. Know more about its purpose, costs, and normal Range for effective diagnostic results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-subtraction-angiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/digital-subtraction-angiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-subtraction-angiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/digital-subtraction-angiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Digital Subtraction Angiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-subtraction-angiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/digital-subtraction-angiography"  
       }]
     }
   </script>
@@ -180,11 +180,11 @@
 <p>By digitally subtracting the pre-contrast images from the post-contrast images, DSA creates a clear, detailed picture of the blood vessels without interference from surrounding tissues.</p>
 <p>DSA is commonly used for vascular imaging, particularly in diagnosing arterial blockages and assessing coronary artery disease.</p>
 <p>It provides detailed information about the blood flow within the vessels, helping doctors identify areas of narrowing or blockages that may be restricting blood flow to vital organs.</p>
-<p>Examples of scenarios where DSA may be used include planning surgical interventions for arterial disease, evaluating the effectiveness of treatments such as stents or <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, and monitoring the progression of vascular conditions over time.</p>
+<p>Examples of scenarios where DSA may be used include planning surgical interventions for arterial disease, evaluating the effectiveness of treatments such as stents or <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, and monitoring the progression of vascular conditions over time.</p>
 <p>DSA is considered a valuable tool in interventional radiology and cardiology for its ability to provide real-time visualization of blood vessels during minimally invasive procedures.</p>
 <h2 id="purpose">What is the Purpose of Performing a Digital Subtraction Angiography Test?</h2>
 <p>The primary purpose of performing a Digital Subtraction Angiography test is to diagnose and evaluate conditions affecting the blood vessels.</p>
-<p>DSA plays a crucial role in detecting arterial blockages, aneurysms, <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-malformations">vascular malformations</a>, and other abnormalities that can impact blood flow and circulation.</p>
+<p>DSA plays a crucial role in detecting arterial blockages, aneurysms, <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-malformations">vascular malformations</a>, and other abnormalities that can impact blood flow and circulation.</p>
 <p>Benefits of DSA include its ability to provide high-resolution images of blood vessels in real-time, allowing healthcare providers to accurately assess the extent and location of vascular lesions.</p>
 <p>This information is essential for planning appropriate treatment strategies and interventions to restore normal blood flow and prevent complications.</p>
 <p>In the case of coronary artery disease, DSA can help cardiologists identify the presence of blockages in the arteries supplying the heart muscle.</p>
@@ -213,9 +213,9 @@
 </ul>
 <h2>What Do High Digital Subtraction Angiography Levels Indicate?</h2>
 <p>High Digital Subtraction Angiography levels may indicate the presence of arterial blockages, aneurysms, or other vascular abnormalities that are restricting blood flow.</p>
-<p>These elevated levels can be a sign of underlying conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, thrombosis, or vasculitis, which require prompt medical attention and intervention.</p>
+<p>These elevated levels can be a sign of underlying conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, thrombosis, or vasculitis, which require prompt medical attention and intervention.</p>
 <p>Causes of high Digital Subtraction Angiography levels include the buildup of plaque within the arteries, leading to narrowing or occlusion of the blood vessels.</p>
-<p>Risks associated with high DSA levels include an increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, stroke, or peripheral artery disease if left untreated. Healthcare providers may recommend further diagnostic tests or treatments based on the severity of the findings.</p>
+<p>Risks associated with high DSA levels include an increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, stroke, or peripheral artery disease if left untreated. Healthcare providers may recommend further diagnostic tests or treatments based on the severity of the findings.</p>
 <p>In some cases, high Digital Subtraction Angiography levels may necessitate urgent surgical interventions, such as angioplasty or bypass surgery, to restore normal blood flow and prevent complications.</p>
 <p>Patients with elevated DSA levels should follow their healthcare provider's recommendations for follow-up care and monitoring to ensure optimal vascular health.</p>
 <h2>What Do Low Digital Subtraction Angiography Levels Indicate?</h2>

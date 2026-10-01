@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Ranges and Values of Contrast Echocardiography" property="og:title"/>
 <meta content="Contrast echocardiography improves heart image clarity. Read more about its purpose, costs, and normal Range to enhance heart evaluation." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/contrast-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/contrast-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/contrast-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/contrast-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Contrast Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/contrast-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/contrast-echocardiography"  
       }]
     }
   </script>
@@ -156,7 +156,7 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Measurement Values for Contrast Echocardiography</h1>
-<p>Contrast <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a specialized imaging technique that involves the use of contrast agents to enhance the visualization of the heart chambers and surrounding structures during an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>.</p>
+<p>Contrast <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a specialized imaging technique that involves the use of contrast agents to enhance the visualization of the heart chambers and surrounding structures during an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>.</p>
 <p>These contrast agents are typically microbubbles filled with gas that can be injected intravenously to improve the clarity of the ultrasound images.</p>
 <p>By introducing these microbubbles into the bloodstream, contrast echocardiography allows for better delineation of the heart's anatomy, particularly in patients with suboptimal image quality due to poor acoustic windows or technical limitations.</p>
 <p>This technique can provide valuable information about cardiac function, blood flow, and potential abnormalities in the heart muscle.</p>

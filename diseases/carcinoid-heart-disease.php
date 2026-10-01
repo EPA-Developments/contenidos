@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Carcinoid Heart Disease: Symptoms, Causes, Treatment">
   <meta property="og:description" content="Carcinoid heart disease damages heart valves due to tumor chemicals. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/carcinoid-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/carcinoid-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/carcinoid-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/carcinoid-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carcinoid Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/carcinoid-heart-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/carcinoid-heart-disease"
       }]
     }
   </script>
@@ -195,11 +195,11 @@
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Edema: Swelling of the legs and feet due to fluid retention can indicate advanced heart involvement and impaired circulation.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>: Fainting episodes may occur as a result of decreased cardiac output and compromised blood flow to the brain.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>: Fainting episodes may occur as a result of decreased cardiac output and compromised blood flow to the brain.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Carcinoid Heart Disease:</h2>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging test is crucial for evaluating heart structure and function, identifying valve abnormalities associated with Carcinoid Heart Disease.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging test is crucial for evaluating heart structure and function, identifying valve abnormalities associated with Carcinoid Heart Disease.</li>
 <li>Blood Tests: Measurement of biomarkers associated with heart damage can provide valuable insights into the extent of cardiac involvement.</li>
 <li>Cardiac MRI: This advanced imaging technique can offer detailed information about cardiac anatomy and function, aiding in the diagnosis of Carcinoid Heart Disease.</li>
 <li>Biopsy: In some cases, a tissue biopsy may be necessary to confirm the presence of carcinoid tumors in the heart.</li>

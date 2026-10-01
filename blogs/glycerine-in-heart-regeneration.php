@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glycerine in Heart Regeneration: A Comprehensive Guide&quot;" />
     <meta property="og:description" content="Discover the impact of glycerine on heart regeneration and tissue repair in this insightful blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-in-heart-regeneration" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glycerine-in-heart-regeneration" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-in-heart-regeneration" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glycerine-in-heart-regeneration" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glycerine In Heart Regeneration",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glycerine-in-heart-regeneration"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glycerine-in-heart-regeneration"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Glycerine in Heart Regeneration</h1>
 <p>Are you or a loved one struggling with the aftermath of a heart condition, wondering if there is a way to support your heart's natural healing mechanisms? Daily activities can become daunting when heart health is compromised. What if there was a natural element that could aid in heart cell regeneration and tissue repair, potentially enhancing the healing process? Let's delve into the potential of glycerine in supporting cardiovascular regeneration.</p>
 <h2 class="sec-scrl" id="heart-cell-regeneration">Heart Cell Regeneration</h2>
-<p>When the heart experiences damage, such as in the case of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>), the ability of the heart cells to regenerate and repair is crucial for recovery. Glycerine, a simple polyol compound, has shown promising potential in promoting the regeneration of heart cells. Research suggests that glycerine can stimulate the growth and proliferation of cardiac cells, aiding in the restoration of cardiac tissue.</p>
+<p>When the heart experiences damage, such as in the case of a <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>), the ability of the heart cells to regenerate and repair is crucial for recovery. Glycerine, a simple polyol compound, has shown promising potential in promoting the regeneration of heart cells. Research suggests that glycerine can stimulate the growth and proliferation of cardiac cells, aiding in the restoration of cardiac tissue.</p>
 <p>One of the key mechanisms by which glycerine supports heart cell regeneration is by enhancing the survival of existing heart cells and promoting the differentiation of stem cells into specialized cardiac cells. This dual action not only helps in replacing damaged cells but also in strengthening the overall structure and function of the heart.</p>
 <h2 class="sec-scrl" id="tissue-repair">Tissue Repair</h2>
 <p>In addition to its role in heart cell regeneration, glycerine plays a significant part in heart tissue repair. Following a cardiac event, the healing process involves not only the regeneration of cardiac cells but also the repair of the surrounding tissue to ensure proper function. Glycerine has been shown to possess anti-inflammatory and antioxidant properties that can help reduce inflammation in the heart tissue and protect it from further damage.</p>

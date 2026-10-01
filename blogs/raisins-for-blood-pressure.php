@@ -10,12 +10,12 @@
     <meta property="og:title" content="Raisins for Blood Pressure: Key Facts" />
     <meta property="og:description" content="Learn how raisins can help regulate blood pressure naturally. Discover the benefits of this natural remedy for hypertension control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/raisins-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/raisins-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Raisins For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/raisins-for-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Raisins and Blood Pressure: Essential Insights</h1>
-<p>Are you looking for a natural remedy to help with blood pressure regulation? Have you considered the potential benefits of incorporating raisins into your daily routine? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities, from feeling fatigued and lightheaded to affecting your overall productivity and quality of life. Let's explore how raisins, a simple and delicious snack, may offer a solution to this common health concern.</p>
+<p>Are you looking for a natural remedy to help with blood pressure regulation? Have you considered the potential benefits of incorporating raisins into your daily routine? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities, from feeling fatigued and lightheaded to affecting your overall productivity and quality of life. Let's explore how raisins, a simple and delicious snack, may offer a solution to this common health concern.</p>
 <h2 class="sec-scrl" id="hypertension-control">Can Raisins Help Control Hypertension?</h2>
-<p>Raisins are packed with essential nutrients that can contribute to cardiovascular protection and aid in <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> control. Here's how raisins may positively impact your blood pressure:</p>
+<p>Raisins are packed with essential nutrients that can contribute to cardiovascular protection and aid in <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> control. Here's how raisins may positively impact your blood pressure:</p>
 <ul>
 <li><strong>Potassium:</strong> Raisins are a good source of potassium, a mineral known for its role in vasodilation, which helps relax blood vessels and lower blood pressure.</li>
 <li><strong>Antioxidants:</strong> The antioxidants in raisins help reduce oxidative stress and inflammation in the body, supporting overall heart health and potentially lowering blood pressure.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bradycardia and Pregnancy: Effects and Expectations">
   <meta property="og:description" content="Learn how bradycardia and pregnancy are connected and what to expect during this time. Understand the effects on your heart rate and health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bradycardia-and-pregnancy-effects-expectations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bradycardia-and-pregnancy-effects-expectations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bradycardia-and-pregnancy-effects-expectations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bradycardia-and-pregnancy-effects-expectations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bradycardia And Pregnancy: Effects And Expectations",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/bradycardia-and-pregnancy-effects-expectations"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/bradycardia-and-pregnancy-effects-expectations"  
       }]
     }
   </script>

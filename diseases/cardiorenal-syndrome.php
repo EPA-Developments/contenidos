@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiorenal Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiorenal syndrome affects the heart and kidneys, leading to serious complications. Know more about its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiorenal-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiorenal-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiorenal-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiorenal-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiorenal Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiorenal-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiorenal-syndrome"
       }]
     }
   </script>
@@ -175,9 +175,9 @@
 <p>Recognizing the symptoms of Cardiorenal Syndrome early is crucial as it can significantly impact outcomes and quality of life. This syndrome occurs when heart and kidney dysfunction are interlinked, worsening each other's conditions. Identifying these symptoms promptly can lead to timely interventions and better management.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Decreased urine output</li>
 <li>Nausea or vomiting</li>
 </ul></p>
@@ -187,7 +187,7 @@
 <ul>
 <li>Physical examination</li>
 <li>Blood tests to assess kidney function and electrolyte levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart function</li>
 <li>Urinalysis to check for protein or blood in the urine</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Cardiorenal Syndrome</h2>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Benefits and Risks of Percutaneous Coronary Intervention for Coronary Artery Disease">
   <meta property="og:description" content="Learn about Percutaneous Coronary Intervention (PCI) procedure for coronary artery disease, benefits, risks, recovery, and post-PCI care. Compare PCI vs coronary artery bypass surgery for heart attack treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-coronary-intervention">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-coronary-intervention">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-coronary-intervention" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-coronary-intervention" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Percutaneous Coronary Intervention",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-coronary-intervention"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/percutaneous-coronary-intervention"  
       }]
     }
   </script>

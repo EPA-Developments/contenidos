@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Arrhythmia: Symptoms, Causes, Treatment" >
   <meta property="og:description" content="Atrial Arrhythmia disrupts heart rhythm, leading to complications. Know its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrial-arrhythmia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrial-arrhythmia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrial-arrhythmia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrial-arrhythmia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrial Arrhythmia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrial-arrhythmia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrial-arrhythmia"
       }]
     }
   </script>
@@ -168,15 +168,15 @@
 <h1>Symptoms andTreatment of Atrial Arrhythmia</h1>
 <p>Atrial arrhythmias are abnormal heart rhythms originating in the upper chambers of the heart, called the atria. These irregular heartbeats can significantly impact cardiovascular function, leading to various health complications if left untreated.</p>
 <p>The prevalence of atrial arrhythmias is noteworthy, affecting millions of individuals worldwide. The condition's significance lies in its potential to cause serious health issues, including stroke, heart failure, and even death.</p>
-<p>In the short term, atrial arrhythmia can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue. However, in the long term, untreated atrial arrhythmia may lead to more severe consequences such as blood clots, heart muscle damage, and increased risk of stroke.</p>
+<p>In the short term, atrial arrhythmia can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue. However, in the long term, untreated atrial arrhythmia may lead to more severe consequences such as blood clots, heart muscle damage, and increased risk of stroke.</p>
 <p>One of the challenges with atrial arrhythmia is its asymptomatic nature in the early stages, making early detection crucial for effective management and prevention of complications.</p>
 <p>Regular screenings and monitoring are essential for individuals at risk or with a history of heart conditions.</p>
 <h2 id="causes">Causes of Atrial Arrhythmia:</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as heart valve issues or congenital heart defects, can disrupt the heart's electrical system, leading to atrial arrhythmias. Over time, these structural changes can create irregular electrical impulses in the atria, causing arrhythmias.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as heart valve issues or congenital heart defects, can disrupt the heart's electrical system, leading to atrial arrhythmias. Over time, these structural changes can create irregular electrical impulses in the atria, causing arrhythmias.</li>
 <li>Age-Related Changes: As individuals age, the heart's electrical system may undergo alterations, increasing the risk of atrial arrhythmias. Physiological changes in the aging heart can disrupt the normal conduction of electrical signals, predisposing individuals to arrhythmias.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>): Hypertension is a significant risk factor for atrial arrhythmias. The increased pressure in the blood vessels can strain the heart's electrical system, promoting irregular heart rhythms. Statistics show that individuals with uncontrolled hypertension are more likely to develop atrial arrhythmias.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>): Hypertension is a significant risk factor for atrial arrhythmias. The increased pressure in the blood vessels can strain the heart's electrical system, promoting irregular heart rhythms. Statistics show that individuals with uncontrolled hypertension are more likely to develop atrial arrhythmias.</li>
 <li>Thyroid Disorders: Conditions affecting the thyroid gland, such as hyperthyroidism, can disrupt the body's hormonal balance, including the heart's electrical activity. Thyroid disorders can directly influence the heart rate and rhythm, contributing to the development of atrial arrhythmias.</li>
 </ul>
 <h3>Secondary Causes:</h3>
@@ -193,8 +193,8 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Advanced atrial arrhythmias can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, affecting physical well-being and emotional health due to the distress associated with breathing difficulties.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Severe cases of atrial arrhythmias may present with chest pain, signaling potential heart muscle strain and the need for immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Advanced atrial arrhythmias can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, affecting physical well-being and emotional health due to the distress associated with breathing difficulties.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Severe cases of atrial arrhythmias may present with chest pain, signaling potential heart muscle strain and the need for immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Atrial Arrhythmia:</h2>
 <p>Electrocardiogram (ECG): An ECG is a primary diagnostic tool that records the heart's electrical activity, helping identify abnormal rhythms like atrial arrhythmias.</p>

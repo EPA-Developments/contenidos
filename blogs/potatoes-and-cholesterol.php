@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Potatoes: Cholesterol-Lowering Benefits&quot;" />
     <meta property="og:description" content="Discover how potatoes can help lower cholesterol levels naturally. Learn about the benefits of heart-healthy potatoes in your diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potatoes-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potatoes-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potatoes-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potatoes-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potatoes And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potatoes-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potatoes-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Potatoes in Lowering Cholesterol</h1>
-<p>Are you looking for ways to improve your heart health and lower your cholesterol levels naturally? Have you ever wondered how incorporating potatoes into your diet could benefit your lipid levels and overall well-being? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a common concern for many individuals and can significantly impact daily activities. Let's explore the connection between potatoes and cholesterol and how this humble tuber can play a vital role in promoting heart health.</p>
+<p>Are you looking for ways to improve your heart health and lower your cholesterol levels naturally? Have you ever wondered how incorporating potatoes into your diet could benefit your lipid levels and overall well-being? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a common concern for many individuals and can significantly impact daily activities. Let's explore the connection between potatoes and cholesterol and how this humble tuber can play a vital role in promoting heart health.</p>
 <h2 class="sec-scrl" id="heart-healthy-potatoes">Heart Healthy Potatoes</h2>
 <p>Potatoes, often vilified for their association with unhealthy fried foods, can actually be a valuable addition to a low cholesterol diet when prepared in a heart-healthy manner. These versatile tubers are rich in potassium, an essential mineral known for its role in blood pressure regulation and heart function. Additionally, potatoes are a good source of fiber, which can help lower cholesterol levels by reducing the absorption of cholesterol in the bloodstream.</p>
 <p>When boiled or baked instead of fried, potatoes retain their nutritional value while minimizing added fats and calories. By enjoying potatoes in their natural state or by lightly seasoning them with herbs and spices, you can harness their cholesterol-lowering benefits without compromising your heart health goals.</p>

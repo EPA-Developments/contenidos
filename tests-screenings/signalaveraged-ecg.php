@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Signalaveraged Ecg: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Signal-averaged ECG detects hidden heart rhythm issues. Read more about its purpose, cost, and normal Range for accurate diagnosis and better heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/signalaveraged-ecg" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/signalaveraged-ecg" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/signalaveraged-ecg" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/signalaveraged-ecg" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Signal-Averaged ECG",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/signalaveraged-ecg"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/signalaveraged-ecg"  
       }]
     }
   </script>
@@ -193,7 +193,7 @@
 <h2 id="purpose">What is the Purpose of Performing a Signal-Averaged ECG Test?</h2>
 <p>The primary purpose of performing a signal-averaged ECG test is to detect and assess arrhythmias, particularly ventricular arrhythmias, which originate in the heart's lower chambers.</p>
 <p>These abnormal heart rhythms can increase the risk of complications such as sudden cardiac death, making early detection crucial for effective intervention and management.</p>
-<p>Signal-averaged ECG is also valuable in assessing myocardial damage, which can result from conditions like heart attacks or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
+<p>Signal-averaged ECG is also valuable in assessing myocardial damage, which can result from conditions like heart attacks or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
 <p>By evaluating the heart's electrical activity in detail, this test can help healthcare providers determine the extent of damage to the heart muscle and guide appropriate treatment strategies.</p>
 <p>Another essential purpose of signal-averaged ECG is to predict the risk of sudden cardiac death, a life-threatening event that can occur without warning in individuals with certain cardiac conditions.</p>
 <p>By identifying individuals at higher risk of sudden cardiac death, healthcare providers can implement preventive measures such as implantable cardioverter-defibrillators (ICDs) to reduce the risk of a fatal arrhythmic event.</p>
@@ -219,8 +219,8 @@
 <h2>What Do High Signal-Averaged ECG Levels Indicate?</h2>
 <p>High signal-averaged ECG levels can indicate various underlying cardiac abnormalities or conditions that may increase the risk of arrhythmias or other cardiac complications.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-hypertrophy">left ventricular hypertrophy</a> (LVH)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-hypertrophy">left ventricular hypertrophy</a> (LVH)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>)</li>
 <li>Cardiomyopathy</li>
 <li>Coronary artery disease</li>
 <li>Heart failure</li>
@@ -231,16 +231,16 @@
 <p>Low signal-averaged ECG levels may indicate certain conditions or abnormalities that affect the heart's electrical activity and function.</p>
 <ul>
 <li>Conduction abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome">sick sinus syndrome</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome">sick sinus syndrome</a></li>
 <li>Drug-induced arrhythmias</li>
 <li>Hypothyroidism</li>
 <li>Electrolyte imbalances</li>
 </ul>
-<p>Individuals with low signal-averaged ECG levels may be at risk of developing bradyarrhythmias, which are abnormally slow heart rhythms that can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, or fainting.</p>
+<p>Individuals with low signal-averaged ECG levels may be at risk of developing bradyarrhythmias, which are abnormally slow heart rhythms that can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, or fainting.</p>
 <p>It is crucial for healthcare providers to identify the underlying cause of low signal-averaged ECG levels and initiate appropriate management to address any potential cardiac issues.</p>
 <p>In conclusion, signal-averaged ECG is a valuable diagnostic tool for detecting arrhythmias, assessing myocardial damage, predicting sudden cardiac death, and evaluating the electrical activity of the heart.</p>
 <p>By analyzing the heart's electrical signals in more detail, healthcare providers can identify subtle abnormalities that may indicate underlying cardiac conditions and guide appropriate management strategies.</p>
-<p>If you have any concerns about your heart health or are experiencing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, dizziness, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, speak to your healthcare provider about whether a signal-averaged ECG test may be beneficial for you.</p>
+<p>If you have any concerns about your heart health or are experiencing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, dizziness, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, speak to your healthcare provider about whether a signal-averaged ECG test may be beneficial for you.</p>
 <p>
 
                  </p>

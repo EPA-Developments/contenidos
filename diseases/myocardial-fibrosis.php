@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myocardial Fibrosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Myocardial fibrosis leads to scarring in the heart tissue. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-fibrosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myocardial-fibrosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-fibrosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-fibrosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Myocardial Fibrosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myocardial-fibrosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myocardial-fibrosis"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Myocardial Fibrosis</h1>
-<p>Myocardial fibrosis is a condition where excessive fibrous tissue forms in the heart muscle, affecting its structure and function. This can lead to stiffness in the heart chambers, impairing its ability to pump blood effectively. Myocardial fibrosis is significant as it can contribute to heart failure, arrhythmias, and even sudden cardiac death. It is prevalent in various heart conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, heart attacks, and cardiomyopathies. Understanding and managing myocardial fibrosis is crucial for preventing complications and maintaining heart health.</p>
+<p>Myocardial fibrosis is a condition where excessive fibrous tissue forms in the heart muscle, affecting its structure and function. This can lead to stiffness in the heart chambers, impairing its ability to pump blood effectively. Myocardial fibrosis is significant as it can contribute to heart failure, arrhythmias, and even sudden cardiac death. It is prevalent in various heart conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, heart attacks, and cardiomyopathies. Understanding and managing myocardial fibrosis is crucial for preventing complications and maintaining heart health.</p>
 <h2 id="causes">Causes of Myocardial Fibrosis</h2>
 <p>Myocardial fibrosis, a condition where excessive fibrous tissue forms in the heart muscle, can result from various factors:
 
 <ul>
-<li>Chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a></li>
 <li>Repetitive heart injuries</li>
 <li>Genetic predisposition</li>
 </ul></p>
@@ -176,10 +176,10 @@
 <p>Recognizing the symptoms of Myocardial Fibrosis early on is crucial as it can lead to better outcomes and improved management of the condition. Symptoms of Myocardial Fibrosis may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swelling in the legs, ankles, or feet</li>
 </ul>
 
@@ -188,7 +188,7 @@ Being aware of these signs and symptoms can prompt timely medical intervention, 
 <p>Accurate diagnosis of Myocardial Fibrosis is crucial for timely intervention and management. The diagnostic process typically involves a combination of tests to confirm the condition. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart function and structure.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart function and structure.</li>
 <li>Cardiac MRI for detailed imaging of the heart tissue.</li>
 <li>Blood tests to check for biomarkers indicating heart damage.</li>
 <li>Endomyocardial biopsy for a definitive diagnosis in some cases.</li>

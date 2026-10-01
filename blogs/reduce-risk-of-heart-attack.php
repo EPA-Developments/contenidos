@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Reduce Risk of Heart Attack: Lifestyle Changes Guide">
   <meta property="og:description" content="Learn how to reduce your risk of heart attack with lifestyle changes. Discover practical tips for improving your heart health today.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/reduce-risk-of-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/reduce-risk-of-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/reduce-risk-of-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/reduce-risk-of-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Reduce Risk Of Heart Attack: Lifestyle Changes Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/reduce-risk-of-heart-attack"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/reduce-risk-of-heart-attack"  
       }]
     }
   </script>

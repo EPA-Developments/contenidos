@@ -10,12 +10,12 @@
     <meta property="og:title" content="Onion's Heart Health Benefits: Anti Inflammatory Effects" />
     <meta property="og:description" content="Discover how onions benefit cardiovascular health by fighting inflammation. Learn more about the anti-inflammatory effects of onions." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-and-inflammation"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Onions are not only a flavorful addition to various dishes but also contain powerful compounds that can help combat inflammation in the body. Quercetin, a potent antioxidant found in onions, has been shown to reduce inflammatory markers and support vascular health. By incorporating onions into your meals, you can take advantage of their anti-inflammatory properties to promote overall well-being.</p>
 <p>Furthermore, the sulfur compounds present in onions have been linked to reduced inflammation and improved immune response. These compounds work synergistically to combat chronic inflammation, which is a key driver of many cardiovascular diseases. Including onions in your diet can be a simple yet effective way to support your heart health and reduce the risk of developing inflammatory conditions.</p>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Cardiovascular Inflammation: Impact on Heart Health</h2>
-<p>Chronic inflammation plays a significant role in the development and progression of cardiovascular diseases. When the body's immune response becomes dysregulated, it can lead to inflammation in the blood vessels, increasing the risk of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. By consuming anti-inflammatory foods such as onions, you can help mitigate this inflammation and protect your heart health.</p>
+<p>Chronic inflammation plays a significant role in the development and progression of cardiovascular diseases. When the body's immune response becomes dysregulated, it can lead to inflammation in the blood vessels, increasing the risk of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. By consuming anti-inflammatory foods such as onions, you can help mitigate this inflammation and protect your heart health.</p>
 <ul>
 <li>Onions contain organosulfur compounds that have been shown to reduce inflammation in the cardiovascular system.</li>
 <li>Quercetin, a flavonoid in onions, can help lower inflammatory markers and improve overall vascular function.</li>

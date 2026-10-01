@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Harmful Link: Smoking and Atherosclerosis" />
     <meta property="og:description" content="Learn how smoking accelerates atherosclerosis. Discover the impact on arterial health, heart disease risk, and more. Find out why quitting is crucial." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-atherosclerosis"
         }
     ]
 }
@@ -137,9 +137,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Link Between Smoking and Atherosclerosis</h1>
-<p>Are you aware of the silent threat that smoking poses to your heart? The link between smoking and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> is a crucial yet often underestimated health concern. Do you find yourself short of breath more often than before? Is climbing a flight of stairs leaving you exhausted? These could be early signs of atherosclerosis caused by smoking.</p>
+<p>Are you aware of the silent threat that smoking poses to your heart? The link between smoking and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> is a crucial yet often underestimated health concern. Do you find yourself short of breath more often than before? Is climbing a flight of stairs leaving you exhausted? These could be early signs of atherosclerosis caused by smoking.</p>
 <h2 class="sec-scrl" id="Coronary Artery Disease">The Relationship Between Smoking and Coronary Artery Disease</h2>
-<p>Smoking is a major risk factor for coronary artery disease (CAD), a condition where plaque builds up inside the coronary arteries, leading to restricted blood flow to the heart muscle. The chemicals in tobacco smoke can damage the lining of blood vessels, making them more prone to atherosclerosis. Over time, the arterial plaque formed can rupture, leading to a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>Smoking is a major risk factor for coronary artery disease (CAD), a condition where plaque builds up inside the coronary arteries, leading to restricted blood flow to the heart muscle. The chemicals in tobacco smoke can damage the lining of blood vessels, making them more prone to atherosclerosis. Over time, the arterial plaque formed can rupture, leading to a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <ul>
 <li>Smoking accelerates the process of plaque accumulation within the arteries.</li>
 <li>Nicotine in cigarettes constricts blood vessels, increasing the workload on the heart.</li>
@@ -172,7 +172,7 @@
 <ul>
 <li>Smokers are two to four times more likely to suffer a heart attack compared to non-smokers.</li>
 <li>Smoking cessation can lead to a rapid reduction in the risk of heart attack and improve overall cardiovascular health.</li>
-<li>Immediate medical attention is crucial if you experience symptoms of a heart attack, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>.</li>
+<li>Immediate medical attention is crucial if you experience symptoms of a heart attack, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="Conclusion">In Conclusion</h2>
 <p>Smoking and atherosclerosis are intertwined in a dangerous dance that can have grave consequences for your heart health. By understanding the impact of smoking on arterial health and taking proactive steps to quit smoking and adopt a heart-healthy lifestyle, you can significantly reduce the risk of atherosclerosis, plaque build-up, and the associated risk of heart attack. Remember, it's never too late to quit smoking and embark on a journey towards better vascular health.</p>

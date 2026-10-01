@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Difference Between Angina Pectoris and Myocardial Infarction: Explained">
   <meta property="og:description" content="Learn the key differences between angina pectoris and myocardial infarction. Understand the symptoms, causes, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/difference-angina-pectoris-myocardial-infarction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/difference-angina-pectoris-myocardial-infarction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/difference-angina-pectoris-myocardial-infarction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/difference-angina-pectoris-myocardial-infarction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Difference Between Angina Pectoris And Myocardial Infarction: Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/difference-angina-pectoris-myocardial-infarction"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/difference-angina-pectoris-myocardial-infarction"  
       }]
     }
   </script>

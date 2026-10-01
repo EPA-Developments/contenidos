@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="White Coat Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="White Coat Hypertension causes high blood pressure in medical settings. Know more about its causes, symptoms, and treatment for heart stability." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/white-coat-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/white-coat-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/white-coat-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/white-coat-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "White Coat Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/white-coat-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/white-coat-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>White Coat Hypertension: Symptoms and Treatment</h1>
-<p>White Coat Hypertension is when your blood pressure readings are higher in a medical setting, like a doctor's office, than they are at home. This phenomenon can be due to the anxiety or stress some people feel during medical visits, causing a temporary spike in blood pressure. While it may not always indicate an underlying health issue, it's essential to address because prolonged <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can lead to heart problems. About 15-30% of people diagnosed with high blood pressure may have White Coat Hypertension. Regular monitoring and lifestyle changes can help manage it effectively.</p>
+<p>White Coat Hypertension is when your blood pressure readings are higher in a medical setting, like a doctor's office, than they are at home. This phenomenon can be due to the anxiety or stress some people feel during medical visits, causing a temporary spike in blood pressure. While it may not always indicate an underlying health issue, it's essential to address because prolonged <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can lead to heart problems. About 15-30% of people diagnosed with high blood pressure may have White Coat Hypertension. Regular monitoring and lifestyle changes can help manage it effectively.</p>
 <h2 id="causes">Causes of White Coat Hypertension</h2>
 <p>White Coat Hypertension, where blood pressure readings are higher in a medical setting than at home, can be influenced by various factors such as:
 
@@ -181,7 +181,7 @@
 <li>Flushed face</li>
 </ul>
 
-Spotting these signs can prompt further evaluation to distinguish between temporary stress-induced <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and underlying chronic high blood pressure, guiding appropriate management strategies. Regular monitoring outside clinical settings can help confirm the diagnosis and avoid unnecessary overtreatment.</p>
+Spotting these signs can prompt further evaluation to distinguish between temporary stress-induced <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and underlying chronic high blood pressure, guiding appropriate management strategies. Regular monitoring outside clinical settings can help confirm the diagnosis and avoid unnecessary overtreatment.</p>
 <h2>Diagnosis of White Coat Hypertension</h2>
 <p>White Coat Hypertension is a condition where a person's blood pressure is higher when measured in a medical setting than it is when taken at home. Accurate diagnosis is crucial to prevent unnecessary treatment with medications. The diagnostic process for White Coat Hypertension typically involves:
 

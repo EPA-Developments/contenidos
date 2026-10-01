@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tomatoes: Cholesterol Impact Guide" />
     <meta property="og:description" content="Discover how tomatoes affect cholesterol levels and improve heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-cholesterol-levels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-cholesterol-levels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-cholesterol-levels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-cholesterol-levels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tomatoes And Cholesterol Levels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-cholesterol-levels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-cholesterol-levels"
         }
     ]
 }
@@ -141,14 +141,14 @@
 <p>Protecting your heart health is essential for overall well-being, and tomatoes offer several benefits that can support a healthy heart. The powerful antioxidants present in tomatoes, including the well-known compound lycopene, have been associated with cardiovascular protection.</p>
 <p>Tomato Lycopene: Lycopene is a carotenoid pigment that gives tomatoes their red color. This antioxidant has been linked to a reduced risk of heart disease and may help lower LDL cholesterol levels while supporting HDL cholesterol levels.</p>
 <ul>
-<li>Studies suggest that lycopene may prevent the oxidation of LDL cholesterol, which is a key step in the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Studies suggest that lycopene may prevent the oxidation of LDL cholesterol, which is a key step in the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Regular consumption of lycopene-rich foods like tomatoes may contribute to improved heart health and reduce the risk of cardiovascular issues.</li>
 </ul>
 <h2 class="sec-scrl" id="Dietary Fiber">Dietary Fiber Benefits</h2>
 <p>In addition to supporting cholesterol management, the dietary fiber in tomatoes offers a range of benefits for overall health and digestion. Including fiber-rich foods like tomatoes in your diet can have a positive impact on various aspects of your well-being.</p>
 <p>Blood Lipid Profile: High levels of LDL cholesterol and triglycerides in the blood can increase the risk of heart disease. By incorporating tomatoes, a low-calorie and nutrient-dense food, you can help improve your blood lipid profile and promote better heart health.</p>
 <ul>
-<li>The fiber in tomatoes can help regulate blood sugar levels and reduce cholesterol absorption, which is beneficial for individuals with diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>.</li>
+<li>The fiber in tomatoes can help regulate blood sugar levels and reduce cholesterol absorption, which is beneficial for individuals with diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>.</li>
 <li>Adding tomatoes to salads, sandwiches, or sauces is an easy way to boost your fiber intake and enhance the nutritional quality of your meals.</li>
 </ul>
 <h2 class="sec-scrl" id="Blood Lipid Profile">The Impact on Blood Lipid Profile</h2>

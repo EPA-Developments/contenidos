@@ -9,12 +9,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Life's Essential 8™ - Salud Cardiovascular Óptima">
   <meta property="og:description" content="Descubre las 8 métricas esenciales de la AHA para prevención cardiovascular. Sistema de puntuación 0-100 con evidencia científica comprobada." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/life-essential-8-es">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/life-essential-8-logo.webp">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/life-essential-8-es">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/life-essential-8-logo.webp">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/life-essential-8-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/life-essential-8-es" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/life-essential-8-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/life-essential-8-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/life-essential-8-es" />
   
   <script type="application/ld+json">
     {
@@ -24,17 +24,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Inicio",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Prevención Cardiovascular",
-        "item": "https://plataforma.epa-bienestar.com.ar/prevencion/"
+        "item": "https://contenidos.segundaopinionmedica.org/prevencion/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Life's Essential 8",
-        "item": "https://plataforma.epa-bienestar.com.ar/life-essential-8-es"
+        "item": "https://contenidos.segundaopinionmedica.org/life-essential-8-es"
       }]
     }
   </script>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Regurgitation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic regurgitation happens when the aortic valve doesn’t close properly. Read more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Regurgitation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Aortic Regurgitation</h1>
-<p>Aortic Regurgitation, also known as aortic insufficiency, occurs when the aortic valve doesn't close properly, allowing blood to leak back into the heart. This condition can strain the heart over time, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> and fatigue. It can be caused by various factors like valve abnormalities or infections. Aortic Regurgitation is not uncommon and can affect people of all ages. If left untreated, it can lead to serious complications, so early detection and management are crucial for maintaining heart health.</p>
+<p>Aortic Regurgitation, also known as aortic insufficiency, occurs when the aortic valve doesn't close properly, allowing blood to leak back into the heart. This condition can strain the heart over time, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> and fatigue. It can be caused by various factors like valve abnormalities or infections. Aortic Regurgitation is not uncommon and can affect people of all ages. If left untreated, it can lead to serious complications, so early detection and management are crucial for maintaining heart health.</p>
 <h2 id="causes">Causes of Aortic Regurgitation</h2>
 <p>Aortic Regurgitation can develop due to various factors, such as:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> damaging the aortic valve</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> damaging the aortic valve</li>
 <li>Connective tissue disorders affecting valve structure</li>
-<li>Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> weakening the valve</li>
+<li>Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> weakening the valve</li>
 <li>Age-related wear and tear on the valve</li>
 <li>History of valve surgery or other heart conditions</li>
 </ul></p>
@@ -177,10 +177,10 @@
 
 <ul>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 </ul>
 
 If you experience any of these symptoms, especially if they worsen over time, it's essential to seek medical attention promptly. Early detection and management of Aortic Regurgitation can significantly improve outcomes and prevent further damage to the heart.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Brown Rice for Heart Health: A Guide" />
     <meta property="og:description" content="Discover the benefits of including brown rice in your heart-healthy diet plan. Prioritize heart health with this nutritious whole grain." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-in-diet-plans" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-in-diet-plans" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-in-diet-plans" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-in-diet-plans" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Brown Rice In Diet Plans",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-in-diet-plans"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/brown-rice-in-diet-plans"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>Discover how brown rice plays a vital role in preventing heart disease:</p>
 <ul>
 <li><strong>Lower Cholesterol Levels:</strong> The soluble fiber in brown rice can help reduce LDL cholesterol levels, which is beneficial for heart health.</li>
-<li><strong>Reduced Risk of Hypertension:</strong> The magnesium and potassium content in brown rice can help regulate blood pressure, lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li><strong>Reduced Risk of Hypertension:</strong> The magnesium and potassium content in brown rice can help regulate blood pressure, lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li><strong>Antioxidant Properties:</strong> Brown rice contains antioxidants that can protect the heart from oxidative stress and inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="whole-grains">Why Choose Whole Grains like Brown Rice?</h2>

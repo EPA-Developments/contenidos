@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Beals Syndrome: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Learn about Beals Syndrome a rare genetic connective tissue disorder causing joint hypermobility & distinctive physical features. Symptoms & management discussed.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/beals-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/beals-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/beals-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/beals-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Beals Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/beals-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/beals-syndrome"
       }]
     }
   </script>
@@ -173,8 +173,8 @@
 <p>Beals Syndrome primarily affects connective tissues, which play a crucial role in supporting and structurally connecting different parts of the body. Connective tissues provide strength and elasticity to various organs and structures.</p>
 <p>In individuals with Beals Syndrome, the connective tissues are abnormally developed, leading to issues such as joint contractures, long, slender fingers (arachnodactyly), and aortic dilation. These abnormalities can impact heart function, muscle strength, joint mobility, and overall physical well-being.</p>
 <h2 id="symptoms">Short-Term and Long-Term Health Risks:</h2>
-<p>Untreated Beals Syndrome can pose several health risks, both in the short and long term. In the short term, individuals may experience joint pain, muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and limited mobility due to joint contractures.</p>
-<p>Long-term risks include the development of aortic aneurysms, which can lead to life-threatening complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a> if left untreated. Additionally, individuals with Beals Syndrome may be at higher risk for other cardiovascular conditions and musculoskeletal issues.</p>
+<p>Untreated Beals Syndrome can pose several health risks, both in the short and long term. In the short term, individuals may experience joint pain, muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and limited mobility due to joint contractures.</p>
+<p>Long-term risks include the development of aortic aneurysms, which can lead to life-threatening complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a> if left untreated. Additionally, individuals with Beals Syndrome may be at higher risk for other cardiovascular conditions and musculoskeletal issues.</p>
 <h2>Asymptomatic Nature and Call for Early Detection:</h2>
 <p>Beals Syndrome is often asymptomatic in the early stages, making it challenging to diagnose without specialized tests. Early detection through genetic testing or imaging studies is crucial to identify the syndrome before complications arise.</p>
 <p>Regular screenings for individuals with a family history of connective tissue disorders or known genetic mutations associated with Beals Syndrome can help in early intervention and management of the condition.</p>
@@ -199,7 +199,7 @@
 <h2>Diagnosis of Beals Syndrome:</h2>
 <ul>
 <li>Genetic Testing: Genetic testing can identify mutations in the FBN2 gene associated with Beals Syndrome.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Imaging studies like echocardiography can detect aortic dilation and assess cardiac function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Imaging studies like echocardiography can detect aortic dilation and assess cardiac function.</li>
 <li>Physical Examination: A physical examination can reveal characteristic features such as joint contractures and arachnodactyly.</li>
 <li>MRI or CT Scans: Imaging studies can provide detailed information on connective tissue abnormalities and help in monitoring disease progression.</li>
 </ul>

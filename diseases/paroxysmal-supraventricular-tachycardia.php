@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Paroxysmal Supraventricular Tachycardia: Causes and Treatment" >
   <meta property="og:description" content="Paroxysmal supraventricular tachycardia is a rapid heart rhythm disorder. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-supraventricular-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-supraventricular-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-supraventricular-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-supraventricular-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Paroxysmal Supraventricular Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/paroxysmal-supraventricular-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/paroxysmal-supraventricular-tachycardia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment for Paroxysmal Supraventricular Tachycardia</h1>
-<p>Paroxysmal Supraventricular Tachycardia (PSVT) is a sudden rapid heart rate originating above the heart's ventricles. It's significant because it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fainting. PSVT affects about 1 in 250 people and can occur at any age. Understanding its symptoms and triggers is crucial for timely management. If you experience sudden racing heartbeats, seek medical attention. Treatment options like vagal maneuvers, medications, or procedures can help control PSVT and improve your quality of life.</p>
+<p>Paroxysmal Supraventricular Tachycardia (PSVT) is a sudden rapid heart rate originating above the heart's ventricles. It's significant because it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fainting. PSVT affects about 1 in 250 people and can occur at any age. Understanding its symptoms and triggers is crucial for timely management. If you experience sudden racing heartbeats, seek medical attention. Treatment options like vagal maneuvers, medications, or procedures can help control PSVT and improve your quality of life.</p>
 <h2 id="causes">Causes of Paroxysmal Supraventricular Tachycardia</h2>
 <p>Paroxysmal Supraventricular Tachycardia (PSVT) can be triggered by various factors. Here are the main contributors to its development:
 
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Paroxysmal Supraventricular Tachycardia (PSVT) is crucial as early detection can significantly improve outcomes. PSVT is a type of arrhythmia that originates above the heart's ventricles and can lead to complications if not managed promptly.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> (palpitations)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> (palpitations)</li>
 <li>Chest pain or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>)</li>
 <li>Fatigue or weakness</li>
 </ul>
 

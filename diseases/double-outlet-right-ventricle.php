@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Double Outlet Right Ventricle: Symptoms, Causes, Treatment">
   <meta property="og:description" content="Double Outlet Right Ventricle disrupts normal blood circulation. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/double-outlet-right-ventricle">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/double-outlet-right-ventricle">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/double-outlet-right-ventricle" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/double-outlet-right-ventricle" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Double Outlet Right Ventricle",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/double-outlet-right-ventricle"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/double-outlet-right-ventricle"
       }]
     }
   </script>
@@ -167,7 +167,7 @@
             <div class="article-content">
 <h1>Symptoms, Treatment of Double Outlet Right Ventricle</h1>
 <p>Double Outlet Right Ventricle (DORV) is a congenital heart defect where both the aorta and the pulmonary artery arise from the right ventricle. This condition is significant due to its impact on heart function and overall health.</p>
-<p>DORV accounts for approximately 1-3% of all congenital heart defects. In DORV, oxygen-rich and oxygen-poor blood mix in the heart, leading to reduced oxygen supply to the body. This can result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and other symptoms.</p>
+<p>DORV accounts for approximately 1-3% of all congenital heart defects. In DORV, oxygen-rich and oxygen-poor blood mix in the heart, leading to reduced oxygen supply to the body. This can result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and other symptoms.</p>
 <p>The long-term risks of untreated DORV include heart failure, arrhythmias, and an increased risk of infections due to poor oxygenation. Early stages of DORV can be asymptomatic, making detection challenging without regular screenings.</p>
 <p>Therefore, early detection through prenatal ultrasounds or infancy screenings is crucial for timely intervention and management. Regular monitoring and follow-ups are essential to prevent complications and improve outcomes.</p>
 <h2 id="causes">Causes of Double Outlet Right Ventricle</h2>
@@ -193,20 +193,20 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue and shortness of breath with exertion may limit physical activities and affect energy levels, leading to decreased exercise tolerance and endurance.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> or bluish discoloration of the skin may be a sign of inadequate oxygenation, which can sometimes be misunderstood or attributed to other causes, delaying diagnosis and treatment.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> or bluish discoloration of the skin may be a sign of inadequate oxygenation, which can sometimes be misunderstood or attributed to other causes, delaying diagnosis and treatment.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> can indicate worsening heart function and may cause distress, affecting both physical comfort and emotional well-being.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> can indicate worsening heart function and may cause distress, affecting both physical comfort and emotional well-being.</li>
 <li>Swelling in the legs and abdomen due to fluid retention can signal heart failure, impacting mobility and quality of life.</li>
 </ul>
 <h2>Diagnosis of Double Outlet Right Ventricle</h2>
 <p>The diagnosis of DORV involves a series of tests and evaluations to assess the structure and function of the heart accurately. Each diagnostic test plays a critical role in confirming the presence of DORV and guiding treatment decisions.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a primary imaging tool used to visualize the heart's structures and blood flow patterns, allowing for the detection of DORV and associated abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> provides detailed information about the heart's chambers and vessels, helping to assess the severity of DORV and plan for potential interventions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a primary imaging tool used to visualize the heart's structures and blood flow patterns, allowing for the detection of DORV and associated abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> provides detailed information about the heart's chambers and vessels, helping to assess the severity of DORV and plan for potential interventions.</li>
 <li>Magnetic resonance imaging (MRI) can offer high-resolution images of the heart, aiding in the identification of complex anatomical features associated with DORV.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiography">electrocardiography</a> (ECG) measures the heart's electrical activity, helping to identify arrhythmias and conduction abnormalities commonly seen in DORV patients.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiography">electrocardiography</a> (ECG) measures the heart's electrical activity, helping to identify arrhythmias and conduction abnormalities commonly seen in DORV patients.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Double Outlet Right Ventricle</h2>
 <p>The treatment approach for DORV aims to optimize heart function, improve oxygenation, and prevent complications. The management of DORV may involve a combination of medications, lifestyle modifications, and, in some cases, surgical interventions.</p>

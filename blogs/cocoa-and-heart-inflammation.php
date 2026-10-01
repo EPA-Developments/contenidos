@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cocoa's Role in Heart Inflammation&quot;" />
     <meta property="og:description" content="Learn how cocoa fights heart inflammation naturally. Discover the benefits of cocoa's anti-inflammatory properties for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa And Heart Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-and-heart-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-and-heart-inflammation"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <p>Studies have shown that cocoa consumption is associated with a decrease in inflammation markers in the body. By modulating the body's inflammatory response, cocoa can help protect the heart and reduce the risk of cardiovascular inflammation.</p>
 <p>Furthermore, the antioxidants present in cocoa help neutralize free radicals that contribute to inflammation and oxidative stress. By fighting oxidative damage, cocoa plays a vital role in maintaining heart health and reducing inflammation.</p>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Cardiovascular Inflammation</h2>
-<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Cocoa's anti-inflammatory properties can help mitigate this inflammation and support overall cardiovascular health.</p>
+<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Cocoa's anti-inflammatory properties can help mitigate this inflammation and support overall cardiovascular health.</p>
 <ul>
 <li>Incorporating cocoa into a balanced diet may help reduce the risk of developing inflammation-related heart diseases.</li>
 <li>The flavonoids in cocoa have been linked to improved endothelial function, which is essential for healthy blood vessel function and reduced inflammation.</li>

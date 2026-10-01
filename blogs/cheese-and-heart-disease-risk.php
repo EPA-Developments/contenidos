@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cheese Impact on Heart Risk Factors&quot;" />
     <meta property="og:description" content="Explore the impact of cheese on heart disease risk factors. Discover how dairy may influence cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cheese-and-heart-disease-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cheese-and-heart-disease-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cheese-and-heart-disease-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cheese-and-heart-disease-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cheese And Heart Disease Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cheese-and-heart-disease-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cheese-and-heart-disease-risk"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Monitor portions: Be mindful of serving sizes to control calorie and fat intake.</li>
 </ul>
 <h2 class="sec-scrl" id="risk-factors-for-heart-disease">Risk Factors for Heart Disease</h2>
-<p>When it comes to heart disease prevention, understanding the risk factors is crucial. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, obesity, and diabetes are just a few of the factors that can increase your risk of developing heart disease. How does cheese consumption fit into this equation?</p>
+<p>When it comes to heart disease prevention, understanding the risk factors is crucial. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, obesity, and diabetes are just a few of the factors that can increase your risk of developing heart disease. How does cheese consumption fit into this equation?</p>
 <p>Studies have shown that excessive consumption of high-fat dairy products, including cheese, may contribute to elevated cholesterol levels and weight gain, both of which are significant risk factors for heart disease. However, incorporating moderate amounts of cheese as part of a balanced diet may not necessarily pose a threat to heart health.</p>
 <ul>
 <li>Focus on balance: Include a variety of foods in your diet to meet nutritional needs.</li>

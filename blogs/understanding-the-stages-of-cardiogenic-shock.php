@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Stages of Cardiogenic Shock: A Detailed Overview">
   <meta property="og:description" content="Learn about the stages of cardiogenic shock in this detailed guide. Understand the progression and symptoms of stages of cardiogenic shock.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-stages-of-cardiogenic-shock">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-the-stages-of-cardiogenic-shock">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-stages-of-cardiogenic-shock" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-the-stages-of-cardiogenic-shock" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Stages Of Cardiogenic Shock: A Detailed Overview",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-stages-of-cardiogenic-shock"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-the-stages-of-cardiogenic-shock"  
       }]
     }
   </script>

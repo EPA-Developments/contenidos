@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Infiltrative Cardiomyopathy: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Infiltrative cardiomyopathy is when abnormal substances affect the heart muscle. Read more on symptoms, causes, and treatment for healthier heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/infiltrative-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/infiltrative-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/infiltrative-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/infiltrative-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Infiltrative Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/infiltrative-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/infiltrative-cardiomyopathy"
       }]
     }
   </script>
@@ -166,10 +166,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, and Treatment of Infiltrative Cardiomyopathy</h1>
-<p>Overview of Infiltrative Cardiomyopathy Infiltrative cardiomyopathy is a rare form of <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> characterized by the abnormal deposition of substances, such as amyloid proteins or sarcoid granulomas, in the heart muscle.</p>
+<p>Overview of Infiltrative Cardiomyopathy Infiltrative cardiomyopathy is a rare form of <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> characterized by the abnormal deposition of substances, such as amyloid proteins or sarcoid granulomas, in the heart muscle.</p>
 <p>This infiltration leads to structural changes in the heart, affecting its ability to pump blood effectively. Despite its rarity, infiltrative cardiomyopathy poses a significant threat to cardiovascular health due to its impact on heart function.</p>
 <p>Prevalence rates vary depending on the underlying cause, with conditions like amyloidosis being more common in older adults.</p>
-<p>Infiltrative cardiomyopathy can have a profound impact on both short-term and long-term health. In the short term, it can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and exercise intolerance.</p>
+<p>Infiltrative cardiomyopathy can have a profound impact on both short-term and long-term health. In the short term, it can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and exercise intolerance.</p>
 <p>If left untreated, infiltrative cardiomyopathy can progress to more severe complications, including heart failure, arrhythmias, and even sudden cardiac death. One of the challenges in diagnosing infiltrative cardiomyopathy is its asymptomatic nature in the early stages.</p>
 <p>This underscores the importance of early detection through regular screenings, especially in high-risk individuals.</p>
 <h2 id="causes">Causes of Infiltrative Cardiomyopathy </h2>
@@ -178,17 +178,17 @@
 <li>Amyloidosis: Amyloid proteins accumulate in the heart muscle, leading to stiffness and impaired function over time.</li>
 <li>Sarcoidosis: Sarcoid granulomas form in the heart, disrupting normal heart function and potentially causing arrhythmias.</li>
 <li>Hemochromatosis: Excess iron deposition in the heart can result in cardiomyopathy and heart failure.</li>
-<li>Infiltrative disorders: Rare genetic disorders like <a href="https://plataforma.epa-bienestar.com.ar/diseases/fabry">fabry</a> disease can also lead to infiltrative cardiomyopathy.</li>
+<li>Infiltrative disorders: Rare genetic disorders like <a href="https://contenidos.segundaopinionmedica.org/diseases/fabry">fabry</a> disease can also lead to infiltrative cardiomyopathy.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Infiltrative Cardiomyopathy </h2>
 <p>Symptoms of infiltrative cardiomyopathy can vary depending on the stage of the disease. In the early stages, patients may experience subtle symptoms such as fatigue, exercise intolerance, and mild shortness of breath.</p>
 <p>These symptoms can often be overlooked or attributed to other causes, delaying diagnosis and treatment.</p>
-<p>As the disease progresses, more advanced symptoms may manifest, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and swelling in the legs and abdomen. These symptoms can significantly impact daily activities, emotional well-being, and overall quality of life.</p>
+<p>As the disease progresses, more advanced symptoms may manifest, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and swelling in the legs and abdomen. These symptoms can significantly impact daily activities, emotional well-being, and overall quality of life.</p>
 <p>It is essential for individuals experiencing these symptoms to seek medical attention promptly for proper evaluation and management.</p>
 <h2>Diagnosis of Infiltrative Cardiomyopathy</h2>
 <p> Diagnosing infiltrative cardiomyopathy typically involves a multi-step approach to assess heart structure and function accurately. Various tests may be conducted to determine the underlying cause of cardiomyopathy and its severity.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging technique allows for the visualization of the heart's structure and function, helping to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging technique allows for the visualization of the heart's structure and function, helping to detect abnormalities.</li>
 <li>Cardiac MRI: Magnetic resonance imaging provides detailed images of the heart, aiding in the diagnosis of infiltrative cardiomyopathy.</li>
 <li>Endomyocardial biopsy: This invasive procedure involves taking a small sample of heart tissue to identify the presence of abnormal substances.</li>
 <li>Genetic testing: In cases where a genetic disorder is suspected, genetic testing can help confirm the diagnosis and guide treatment decisions.</li>
@@ -201,7 +201,7 @@
 <li>Dietary modifications: Limiting sodium intake and avoiding certain foods can help reduce fluid retention and alleviate symptoms.</li>
 <li>Physical activity: Regular exercise under the guidance of a healthcare provider can improve cardiovascular fitness and overall well-being.</li>
 </ul>
-<p>In more advanced cases of infiltrative cardiomyopathy, advanced treatments such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> or implantation of a ventricular assist device may be considered. These interventions are reserved for severe cases where other treatment options have been exhausted.</p>
+<p>In more advanced cases of infiltrative cardiomyopathy, advanced treatments such as <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> or implantation of a ventricular assist device may be considered. These interventions are reserved for severe cases where other treatment options have been exhausted.</p>
 </div>
           </div>
         </div>

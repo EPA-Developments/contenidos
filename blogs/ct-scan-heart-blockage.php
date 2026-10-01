@@ -10,12 +10,12 @@
     <meta property="og:title" content="CT Scan Heart Blockage Risks & Benefits" />
     <meta property="og:description" content="Explore the risks and benefits of CT scans for heart blockages. Uncover the advantages and potential drawbacks of this diagnostic procedure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/ct-scan-heart-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/ct-scan-heart-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/ct-scan-heart-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/ct-scan-heart-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Ct Scan Heart Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/ct-scan-heart-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/ct-scan-heart-blockage"
         }
     ]
 }
@@ -187,7 +187,7 @@
 </ul>
 <p>Consulting with your healthcare provider and discussing your medical history can help determine if a CT angiogram is the right choice for evaluating heart blockages.</p>
 <h2 class="sec-scrl" id="heart scan blockage test">Heart Scan Blockage Test: What to Expect?</h2>
-<p>Before undergoing a <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-scan">heart scan</a> blockage test, it's natural to have concerns about the procedure and its implications. Here's what you can expect during a heart scan for blockages:</p>
+<p>Before undergoing a <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-scan">heart scan</a> blockage test, it's natural to have concerns about the procedure and its implications. Here's what you can expect during a heart scan for blockages:</p>
 <ul>
 <li>You may need to fast for a few hours before the test to ensure accurate results.</li>
 <li>A contrast dye will be administered intravenously to enhance the visibility of blood vessels.</li>
@@ -198,7 +198,7 @@
 <p>Once the CT scan for coronary blockages is complete, the images will be interpreted by radiologists or cardiologists to assess the presence of any blockages in the heart arteries. Based on the findings, further follow-up tests or treatments may be recommended:</p>
 <ul>
 <li>If significant blockages are detected, your healthcare provider may suggest lifestyle changes or medications to manage your condition.</li>
-<li>In some cases, additional invasive procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery may be necessary to restore blood flow to the heart.</li>
+<li>In some cases, additional invasive procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery may be necessary to restore blood flow to the heart.</li>
 <li>Regular follow-up appointments and monitoring are essential to track your heart health and response to treatment.</li>
 </ul>
 <h2 class="sec-scrl" id="heart artery CT">Heart Artery CT: Making Informed Decisions</h2>

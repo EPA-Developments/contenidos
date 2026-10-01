@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tricuspid Valve Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Tricuspid Valve Disease affects blood flow in the heart. Know more about its causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Tricuspid Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-valve-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/tricuspid-valve-disease"
       }]
     }
   </script>
@@ -167,18 +167,18 @@
 <ul>
 <li>Previous heart conditions</li>
 <li>Age-related degeneration</li>
-<li>History of <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
-<li>Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
+<li>History of <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li>Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
 <li>Structural abnormalities from birth</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Tricuspid Valve Disease</h2>
 <p>Recognizing the symptoms of Tricuspid Valve Disease is crucial as early detection can significantly improve outcomes. By being aware of the signs, individuals can seek timely medical intervention, leading to better management of the condition. Here are some symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Swelling in the legs or abdomen</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Enlarged liver</li>
 <li>Chest discomfort or pain</li>
 </ul>
@@ -189,8 +189,8 @@ If you experience any of these symptoms, especially if they persist or worsen ov
 
 <ul>
 <li> Physical examination to detect signs of heart failure</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the structure and function of the tricuspid valve</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the structure and function of the tricuspid valve</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
 <li> Cardiac MRI or CT scan for detailed imaging of the heart</li>
 <li> Right heart catheterization to measure pressures in the heart chambers</li>
 </ul></p>
@@ -209,7 +209,7 @@ If you experience any of these symptoms, especially if they persist or worsen ov
 <li>Involves repairing the tricuspid valve to restore proper function.</li>
 <li>Used for severe cases where valve repair is feasible.</li>
 <li>Objective is to restore proper valve function and improve heart function.</li>
-<li>May include techniques like <a href="https://plataforma.epa-bienestar.com.ar/procedures/annuloplasty">annuloplasty</a> or leaflet repair.</li>
+<li>May include techniques like <a href="https://contenidos.segundaopinionmedica.org/procedures/annuloplasty">annuloplasty</a> or leaflet repair.</li>
 </ul>
 <h3>Valve Replacement</h3>
 <ul>
@@ -234,7 +234,7 @@ If you experience any of these symptoms, especially if they persist or worsen ov
 <li>Following up on any symptoms such as shortness of breath, fatigue, or swelling in the legs.</li>
 <h3>Supportive Care:</h3>
 <ul>
-<li>Managing underlying conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or atrial fibrillation to reduce strain on the heart.</li>
+<li>Managing underlying conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or atrial fibrillation to reduce strain on the heart.</li>
 <li>Seeking emotional support through counseling or support groups to cope with the challenges of living with a heart condition.</li>
 <li>Following your healthcare provider's recommendations for medications, lifestyle changes, and treatment plans.</li></ul></ul></p>
 <p>If you’ve been having any symptoms or worries about Tricuspid Valve Disease, please reach out to our doctors. They will listen to your concerns, answer your questions and guide you through the next steps.</p>

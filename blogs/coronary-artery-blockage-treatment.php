@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coronary Artery Blockage Treatment: Risks & Benefits" />
     <meta property="og:description" content="Explore the risks and benefits of coronary artery blockage treatment to make informed decisions about your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coronary-artery-blockage-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coronary-artery-blockage-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coronary-artery-blockage-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coronary-artery-blockage-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coronary Artery Blockage Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coronary-artery-blockage-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coronary-artery-blockage-treatment"
         }
     ]
 }
@@ -169,9 +169,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Understanding Coronary Artery Blockage Treatment Benefits</h1>
-<p>Are you concerned about the impact of coronary artery blockage on your daily life? The limitations it poses on your activities, such as climbing stairs, walking short distances, or even experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> during everyday tasks, can be worrisome. Understanding the risks and benefits of coronary artery blockage treatment is crucial in managing your condition effectively.</p>
+<p>Are you concerned about the impact of coronary artery blockage on your daily life? The limitations it poses on your activities, such as climbing stairs, walking short distances, or even experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> during everyday tasks, can be worrisome. Understanding the risks and benefits of coronary artery blockage treatment is crucial in managing your condition effectively.</p>
 <h2 class="sec-scrl" id="coronary-artery-treatment-options">Coronary Artery Treatment Options</h2>
-<p>When it comes to coronary artery blockage treatment, several options are available. These include medications, lifestyle changes, <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>. The choice of treatment depends on the severity of the blockages and your overall health condition.</p>
+<p>When it comes to coronary artery blockage treatment, several options are available. These include medications, lifestyle changes, <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, and <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a>. The choice of treatment depends on the severity of the blockages and your overall health condition.</p>
 <ul>
 <li>Medications: Your doctor may prescribe medications to manage your cholesterol levels, blood pressure, and reduce the risk of blood clots.</li>
 <li>Lifestyle Changes: Adopting a healthy lifestyle with a balanced diet, regular exercise, and avoiding smoking can significantly improve your heart health.</li>
@@ -182,8 +182,8 @@
 <p>Seeking treatment for coronary artery blockages can offer various benefits that improve your quality of life and reduce the risk of heart-related complications. Some of the benefits include:</p>
 <ul>
 <li>Improved Blood Flow: Treatment interventions can help restore proper blood flow to the heart muscle, reducing the risk of heart attacks.</li>
-<li>Symptom Relief: Addressing blockages can alleviate symptoms like chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue, allowing you to engage in daily activities more comfortably.</li>
-<li>Reduced Risk of Complications: Managing artery blockages can lower the risk of serious complications such as heart failure or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</li>
+<li>Symptom Relief: Addressing blockages can alleviate symptoms like chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue, allowing you to engage in daily activities more comfortably.</li>
+<li>Reduced Risk of Complications: Managing artery blockages can lower the risk of serious complications such as heart failure or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="risks-of-coronary-artery-procedures">Risks of Coronary Artery Procedures</h2>
 <p>While coronary artery procedures can be beneficial, they also come with certain risks that need to be considered. Some of the potential risks associated with these procedures include:</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiorrhexis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiorrhexis is a rare heart rupture that can be life-threatening. Read more about its causes, symptoms, and available treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiorrhexis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiorrhexis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiorrhexis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiorrhexis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiorrhexis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiorrhexis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiorrhexis"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Cardiorrhexis</h1>
-<p>Cardiorrhexis is a rare but serious condition that refers to the rupture of the heart muscle or blood vessels. This can lead to life-threatening complications such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-tamponade">cardiac tamponade</a> (compression of the heart by fluid accumulation in the pericardial sac) or massive internal bleeding. While uncommon, it is crucial to recognize the signs and symptoms promptly to seek immediate medical attention. Cardiorrhexis requires urgent intervention to prevent severe consequences. If you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-chest-pain">sudden chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fainting, seek medical help immediately.</p>
+<p>Cardiorrhexis is a rare but serious condition that refers to the rupture of the heart muscle or blood vessels. This can lead to life-threatening complications such as <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-tamponade">cardiac tamponade</a> (compression of the heart by fluid accumulation in the pericardial sac) or massive internal bleeding. While uncommon, it is crucial to recognize the signs and symptoms promptly to seek immediate medical attention. Cardiorrhexis requires urgent intervention to prevent severe consequences. If you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-chest-pain">sudden chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fainting, seek medical help immediately.</p>
 <h2 id="causes">Causes of Cardiorrhexis</h2>
 <p>Cardiorrhexis, the rupture of the heart muscle, can be caused by various factors. Here are the main contributors to its development:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Coronary artery disease</li>
 <li>Heart attacks</li>
 <li>Trauma to the chest</li>
@@ -177,9 +177,9 @@
 
 <h3>Symptoms of Cardiorrhexis include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fainting episodes</li>
 <li>Excessive sweating</li>
 <li>Extreme fatigue</li>
@@ -192,7 +192,7 @@ If you experience any of these symptoms, especially chest pain and shortness of 
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
 <li>ECG to evaluate heart rhythm abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart structure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart structure</li>
 <li>Blood tests to check for cardiac enzymes</li>
 <li>CT scan or MRI for detailed imaging of the heart</li>
 </ul> 

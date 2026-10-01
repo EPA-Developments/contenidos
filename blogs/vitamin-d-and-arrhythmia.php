@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Low Vitamin D on Heart Rhythm" />
     <meta property="og:description" content="Explore how low levels of Vitamin D impact heart rhythm in our informative blog post on Vitamin D and Arrhythmia." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-arrhythmia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-arrhythmia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-arrhythmia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-arrhythmia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Arrhythmia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-arrhythmia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-arrhythmia"
         }
     ]
 }
@@ -130,20 +130,20 @@
             <div class="article-content">
               <h1>The Impact of Low Vitamin D on Heart Rhythm</h1>
 <p>Are you struggling with irregular heartbeats? Does your heart rhythm feel off, affecting your daily activities and overall well-being?</p>
-<p>When it comes to heart rhythm disorders, the role of Vitamin D often goes unnoticed. In this article, we will explore the connection between Vitamin D deficiency and arrhythmia, shedding light on how low Vitamin D levels can impact your heart's electrical activity and lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> patterns.</p>
+<p>When it comes to heart rhythm disorders, the role of Vitamin D often goes unnoticed. In this article, we will explore the connection between Vitamin D deficiency and arrhythmia, shedding light on how low Vitamin D levels can impact your heart's electrical activity and lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> patterns.</p>
 <h2 class="sec-scrl" id="heart-rhythm-disorders">Heart Rhythm Disorders</h2>
 <p>Heart rhythm disorders, also known as arrhythmias, occur when the electrical impulses that coordinate your heartbeats don't function properly, causing your heart to beat too fast, too slow, or irregularly. While some arrhythmias are harmless, others can pose serious health risks.</p>
 <p>Common types of arrhythmias include:</p>
 <ul>
 <li>Atrial Fibrillation: Characterized by rapid, irregular heartbeats.</li>
-<li>Ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>: A fast heart rate starting in the heart's lower chambers.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>: When your heart rate is slower than normal.</li>
+<li>Ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>: A fast heart rate starting in the heart's lower chambers.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>: When your heart rate is slower than normal.</li>
 </ul>
 <h2 class="sec-scrl" id="irregular-heartbeat">Irregular Heartbeat</h2>
-<p>An irregular heartbeat, also known as cardiac arrhythmia, can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, fluttering sensations, or an accelerated heart rate. Vitamin D deficiency has been linked to an increased risk of developing arrhythmias, highlighting the importance of maintaining optimal Vitamin D levels for heart health.</p>
+<p>An irregular heartbeat, also known as cardiac arrhythmia, can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, fluttering sensations, or an accelerated heart rate. Vitamin D deficiency has been linked to an increased risk of developing arrhythmias, highlighting the importance of maintaining optimal Vitamin D levels for heart health.</p>
 <p>Low Vitamin D levels can disrupt the balance of electrolytes in your body, affecting the function of sodium channels, calcium ions, and pacemaker cells responsible for regulating heart conductivity. These disruptions can lead to abnormalities in the heart's electrical signals, resulting in irregular heart rhythms.</p>
 <h2 class="sec-scrl" id="qt-interval">QT Interval</h2>
-<p>The QT interval is a crucial component of the heart's electrical cycle, representing the time it takes for the heart's ventricles to depolarize and repolarize during each heartbeat. Prolongation of the QT interval can increase the risk of ventricular arrhythmias, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/torsades-de-pointes">torsades de pointes</a>, a potentially life-threatening form of irregular heartbeat.</p>
+<p>The QT interval is a crucial component of the heart's electrical cycle, representing the time it takes for the heart's ventricles to depolarize and repolarize during each heartbeat. Prolongation of the QT interval can increase the risk of ventricular arrhythmias, including <a href="https://contenidos.segundaopinionmedica.org/diseases/torsades-de-pointes">torsades de pointes</a>, a potentially life-threatening form of irregular heartbeat.</p>
 <p>Studies have shown that Vitamin D plays a role in regulating the QT interval, with lower Vitamin D levels associated with QT prolongation. By ensuring adequate Vitamin D intake, you can help maintain a healthy QT interval and reduce the risk of arrhythmias.</p>
 <h2 class="sec-scrl" id="electrolyte-imbalance">Electrolyte Imbalance</h2>
 <p>Electrolytes, such as sodium, potassium, calcium, and magnesium, play a vital role in maintaining the heart's electrical stability and muscle function. Vitamin D deficiency can contribute to electrolyte imbalances, disrupting the heart's normal rhythm and increasing the likelihood of arrhythmias.</p>

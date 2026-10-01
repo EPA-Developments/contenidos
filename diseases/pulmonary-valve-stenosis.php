@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Valve Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pulmonary valve stenosis causes narrowing of the valve. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulmonary Valve Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Pulmonary Valve Stenosis</h1>
-<p>Pulmonary valve stenosis is a heart condition where the pulmonary valve is narrow, restricting blood flow from the heart to the lungs. This can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fainting. It is essential to monitor and treat this condition to prevent complications like heart failure. Pulmonary valve stenosis is a relatively common congenital heart defect, affecting about 8 out of every 10,000 births. Early detection and appropriate management are crucial in ensuring the best possible outcomes for individuals with pulmonary valve stenosis.</p>
+<p>Pulmonary valve stenosis is a heart condition where the pulmonary valve is narrow, restricting blood flow from the heart to the lungs. This can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fainting. It is essential to monitor and treat this condition to prevent complications like heart failure. Pulmonary valve stenosis is a relatively common congenital heart defect, affecting about 8 out of every 10,000 births. Early detection and appropriate management are crucial in ensuring the best possible outcomes for individuals with pulmonary valve stenosis.</p>
 <h2 id="causes">Causes of Pulmonary Valve Stenosis</h2>
 <p><ul>
 <li>Genetic factors play a role in the development of Pulmonary Valve Stenosis.</li>
 <li>It can be a congenital heart defect present at birth.</li>
-<li>Previous infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a> can contribute to its development.</li>
+<li>Previous infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a> can contribute to its development.</li>
 <li>Some cases may result from radiation exposure or carcinoid tumors.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Pulmonary Valve Stenosis</h2>
@@ -176,19 +176,19 @@
 <ul>
 <li>Chest pain</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during exercise</li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during exercise</li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 </ul></p>
 <h2>Diagnosis of Pulmonary Valve Stenosis</h2>
 <p>Accurate diagnosis of Pulmonary Valve Stenosis is crucial for timely intervention and management. The diagnostic process typically involves a combination of clinical evaluation and various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect any abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect any abnormal heart rhythms</li>
 <li>Cardiac MRI or CT scan for detailed imaging of the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressure gradients and assess the severity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressure gradients and assess the severity</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Pulmonary Valve Stenosis</h2>
 <p>When it comes to treating Pulmonary Valve Stenosis, personalized care is crucial to ensure the best outcomes. Here are the main approaches to treating this condition:

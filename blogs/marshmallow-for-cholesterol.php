@@ -10,12 +10,12 @@
     <meta property="og:title" content="Marshmallow for Cholesterol Control: The Science" />
     <meta property="og:description" content="Explore how Marshmallow can help lower cholesterol levels. Discover the science behind this herbal solution for effective cholesterol control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Marshmallow For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/marshmallow-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Science of Marshmallow for Lowering Cholesterol</h1>
-<p>Are you struggling to manage your cholesterol levels effectively? Do you find it challenging to incorporate herbal solutions into your daily routine for better lipid control? The impact of <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> on your daily activities can be significant, affecting your overall well-being and increasing your risk of heart disease. But what if there was a natural remedy like marshmallow that could help you in your cholesterol management journey?</p>
+<p>Are you struggling to manage your cholesterol levels effectively? Do you find it challenging to incorporate herbal solutions into your daily routine for better lipid control? The impact of <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> on your daily activities can be significant, affecting your overall well-being and increasing your risk of heart disease. But what if there was a natural remedy like marshmallow that could help you in your cholesterol management journey?</p>
 <h2 class="sec-scrl" id="what-is-marshmallow-for-cholesterol">What is Marshmallow for Cholesterol?</h2>
 <p>Marshmallow, known scientifically as Althaea officinalis, is a plant that has been used for centuries in traditional medicine to treat various ailments. It is rich in mucilage, a sticky substance that coats and soothes the throat and stomach. Apart from its traditional uses, recent studies have shown that marshmallow may also have benefits for lowering cholesterol levels.</p>
 <p>When it comes to cholesterol control, marshmallow works by binding to cholesterol in the gut, preventing its absorption into the bloodstream. This action helps reduce the overall lipid levels in the body, contributing to better heart health and lower risk of heart disease.</p>

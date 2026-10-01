@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vibrating Chest: Symptoms, Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Vibrating chest sensations could indicate heart problems. Know more about forms, causes, diagnosis, and treatments for better care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/vibrating-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/vibrating-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/vibrating-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/vibrating-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Vibrating Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/vibrating-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/vibrating-chest"  
       }]
     }
   </script>
@@ -198,7 +198,7 @@
 <h2 id="causes">What are the Causes of Vibrating chest?</h2>
 <p>The causes of vibrating chest can vary widely and may include both physical and psychological factors.</p>
 <ul>
-<li>Heart conditions such as arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li>Heart conditions such as arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Anxiety and panic disorders</li>
 <li>Respiratory issues like asthma or chronic obstructive pulmonary disease (COPD)</li>
 <li>Stress and tension</li>
@@ -212,11 +212,11 @@
 <h2 id="treatment">What is the Treatment for Vibrating chest?</h2>
 <p>The treatment for vibrating chest depends on the underlying cause of the symptom. In cases where the vibrating chest is related to heart issues, medications to regulate heart rhythm or address underlying conditions may be prescribed.</p>
 <p>Lifestyle changes such as stress management techniques, regular exercise, and a healthy diet can also help alleviate symptoms of vibrating chest.</p>
-<p>In some cases, advanced treatments such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a> or implantable devices may be necessary to address underlying heart conditions.</p>
+<p>In some cases, advanced treatments such as <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a> or implantable devices may be necessary to address underlying heart conditions.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of vibrating chest.</p>
-<p>If you have a history of heart disease, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or other risk factors for heart conditions, it is especially important to consult with a healthcare provider promptly.</p>
-<p>Other symptoms to watch for include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, or palpitations. If you experience any of these symptoms along with vibrating chest, seek immediate medical attention.</p>
+<p>If you have a history of heart disease, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or other risk factors for heart conditions, it is especially important to consult with a healthcare provider promptly.</p>
+<p>Other symptoms to watch for include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, or palpitations. If you experience any of these symptoms along with vibrating chest, seek immediate medical attention.</p>
 <h2>Home Remedies for Vibrating chest</h2>
 <p>In addition to medical treatment, there are some home remedies that may help alleviate the symptoms of vibrating chest.</p>
 <ul>

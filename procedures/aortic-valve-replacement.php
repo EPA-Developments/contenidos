@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Valve Replacement Procedure: Heart Valve Surgery">
   <meta property="og:description" content="Looking for information on aortic valve replacement surgery? Learn about the aortic valve replacement procedure and cardiac valve treatment options here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/aortic-valve-replacement">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/aortic-valve-replacement">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/aortic-valve-replacement" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/aortic-valve-replacement" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Aortic Valve Replacement",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/aortic-valve-replacement"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/aortic-valve-replacement"  
       }]
     }
   </script>

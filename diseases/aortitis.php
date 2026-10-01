@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortitis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortitis is a condition where the aorta, the body's largest artery, becomes inflamed. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortitis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortitis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortitis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortitis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortitis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortitis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortitis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Aortitis</h1>
-<p>Aortitis is the inflammation of the aorta, the body's main artery. It's a condition that can weaken the aortic wall, leading to potential complications like aneurysm or <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>. While aortitis is rare, it's crucial to diagnose and treat it promptly to prevent serious consequences. This condition can affect individuals of any age but is more common in older adults. If you experience symptoms like chest or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>, fever, or weight loss, it's essential to seek medical attention for proper evaluation and management.</p>
+<p>Aortitis is the inflammation of the aorta, the body's main artery. It's a condition that can weaken the aortic wall, leading to potential complications like aneurysm or <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>. While aortitis is rare, it's crucial to diagnose and treat it promptly to prevent serious consequences. This condition can affect individuals of any age but is more common in older adults. If you experience symptoms like chest or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>, fever, or weight loss, it's essential to seek medical attention for proper evaluation and management.</p>
 <h2 id="causes">Causes of Aortitis</h2>
 <p>Aortitis, or inflammation of the aorta, can be caused by various factors. Here are the main contributors:
 
@@ -175,14 +175,14 @@
 <p>Recognizing the symptoms of Aortitis is crucial as early detection can significantly improve outcomes. Aortitis, the inflammation of the aorta, can lead to serious complications if left untreated. Some common symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
 <li>Fever</li>
 <li>Fatigue</li>
 <li>Weight loss</li>
 <li>Night sweats</li>
 <li>Joint or muscle pain</li>
 <li>Loss of appetite</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they persist or worsen, seek medical attention promptly. Early diagnosis and treatment are key in managing Aortitis effectively and improving patient outcomes.</p>

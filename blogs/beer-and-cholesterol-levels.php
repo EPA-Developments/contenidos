@@ -10,12 +10,12 @@
     <meta property="og:title" content="Beer and Cholesterol: What's the Link?" />
     <meta property="og:description" content="Discover how beer impacts cholesterol levels and heart health. Get insights on HDL and LDL cholesterol effects." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cholesterol-levels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beer-and-cholesterol-levels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cholesterol-levels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beer-and-cholesterol-levels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beer And Cholesterol Levels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cholesterol-levels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beer-and-cholesterol-levels"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Alcohol, including beer, in moderate amounts, has been associated with certain heart health benefits. Moderate alcohol consumption is linked to a lower risk of heart disease, mainly due to its potential to increase HDL cholesterol levels and reduce the formation of blood clots. However, it is essential to note that excessive alcohol consumption can have detrimental effects on heart health, including increasing blood pressure and the risk of cardiovascular diseases.</p>
 <p>When it comes to beer and heart health, moderation is key. Enjoying a beer occasionally as part of a balanced lifestyle may have some positive effects on heart health, but excessive or regular consumption can negate these benefits and pose risks to cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="HDL-cholesterol">The Role of HDL Cholesterol</h2>
-<p>HDL cholesterol plays a crucial role in cholesterol metabolism by transporting cholesterol from the peripheral tissues back to the liver for excretion. This process, known as reverse cholesterol transport, helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
+<p>HDL cholesterol plays a crucial role in cholesterol metabolism by transporting cholesterol from the peripheral tissues back to the liver for excretion. This process, known as reverse cholesterol transport, helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</p>
 <p>While beer consumption may lead to a modest increase in HDL cholesterol levels, it is essential to remember that lifestyle factors such as diet, exercise, and overall alcohol intake also influence HDL levels. Maintaining a healthy lifestyle that includes regular physical activity and a balanced diet rich in fruits, vegetables, and whole grains is essential for optimizing HDL cholesterol levels and supporting heart health.</p>
 <h2 class="sec-scrl" id="LDL-cholesterol">Understanding LDL Cholesterol</h2>
 <p>LDL cholesterol is often referred to as "bad" cholesterol because high levels of LDL can lead to the accumulation of cholesterol in the arteries, forming plaque that can restrict blood flow and increase the risk of heart disease. While moderate alcohol consumption, including beer, may have some benefits for HDL cholesterol levels, it is crucial to monitor LDL cholesterol levels to maintain heart health.</p>

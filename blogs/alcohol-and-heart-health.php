@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Alcohol on Heart Health" />
     <meta property="og:description" content="Discover the impact of alcohol on heart health: risks, benefits, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-health"
         }
     ]
 }
@@ -144,7 +144,7 @@
 <ul>
 <li>Alcohol can lead to the development of irregular heart rhythms, such as atrial fibrillation.</li>
 <li>Excessive drinking can elevate triglyceride levels, a risk factor for heart disease.</li>
-<li>Heavy alcohol consumption is linked to an increased likelihood of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
+<li>Heavy alcohol consumption is linked to an increased likelihood of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="Alcohol Effects">Alcohol Effects</h2>
 <p>How does alcohol specifically impact the heart and its overall function? Understanding the direct effects of alcohol on cardiac function is essential for comprehending its impact on heart health.</p>
@@ -158,7 +158,7 @@
 <p>What is the broader cardiovascular impact of alcohol consumption beyond the immediate effects on the heart? Recognizing how alcohol influences the entire cardiovascular system sheds light on the comprehensive implications for heart health.</p>
 <p>Here are some ways in which alcohol consumption can impact overall cardiovascular health:</p>
 <ul>
-<li>Excessive alcohol intake can elevate cholesterol levels, potentially leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Excessive alcohol intake can elevate cholesterol levels, potentially leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Alcohol abuse is associated with an increased risk of developing peripheral artery disease.</li>
 <li>Heavy drinking can trigger inflammation in blood vessels, compromising vascular function.</li>
 </ul>

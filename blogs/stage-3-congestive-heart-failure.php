@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Stage 3 Congestive Heart Failure Life Expectancy: What to Expect">
   <meta property="og:description" content="Learn about stage 3 congestive heart failure life expectancy and what to expect in terms of prognosis and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/stage-3-congestive-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/stage-3-congestive-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/stage-3-congestive-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/stage-3-congestive-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stage 3 Congestive Heart Failure Life Expectancy: What To Expect",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/stage-3-congestive-heart-failure"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/stage-3-congestive-heart-failure"  
       }]
     }
   </script>

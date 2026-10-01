@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Potassium Benefits for Healthy Arteries&quot;" />
     <meta property="og:description" content="Discover how potassium promotes healthy arteries, reduces arterial plaque, and enhances blood flow for optimal vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-healthy-arteries" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-for-healthy-arteries" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-healthy-arteries" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-for-healthy-arteries" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium For Healthy Arteries",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-for-healthy-arteries"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-for-healthy-arteries"
         }
     ]
 }
@@ -131,11 +131,11 @@
               <h1>The Importance of Potassium for Healthy Arteries</h1>
 <p>Are you aware of the impact potassium can have on maintaining healthy arteries? Many individuals overlook the crucial role of potassium in supporting artery health, but its effects are significant. Imagine struggling with reduced blood flow due to narrowed arteries, affecting your daily activities and energy levels. Could potassium be the missing element in your quest for healthier arteries?</p>
 <h2 class="sec-scrl" id="potassium-and-vascular-health">Potassium and Vascular Health</h2>
-<p>Potassium plays a vital role in vascular health by helping to regulate blood pressure. It counteracts the effects of sodium, a mineral that can contribute to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and damage arterial walls. By increasing potassium intake, you can promote vasodilation, the widening of blood vessels, which leads to improved blood flow and reduced strain on the arteries.</p>
+<p>Potassium plays a vital role in vascular health by helping to regulate blood pressure. It counteracts the effects of sodium, a mineral that can contribute to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and damage arterial walls. By increasing potassium intake, you can promote vasodilation, the widening of blood vessels, which leads to improved blood flow and reduced strain on the arteries.</p>
 <p>Additionally, potassium supports the function of endothelial cells that line the inner walls of blood vessels. These cells play a crucial role in maintaining vascular health by regulating blood clotting, inflammation, and vasodilation. Adequate potassium levels help ensure the optimal function of these cells, promoting overall vascular health.</p>
 <h2 class="sec-scrl" id="reducing-arterial-plaque-with-potassium">Reducing Arterial Plaque with Potassium</h2>
 <p>Arterial plaque, a buildup of cholesterol, fat, and other substances in the arteries, can narrow the arterial walls and restrict blood flow. Potassium has been shown to help prevent the formation of arterial plaque and even reduce existing plaque deposits.</p>
-<p>By incorporating potassium-rich foods into your diet, you can potentially slow down the progression of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, the hardening and narrowing of arteries due to plaque buildup. Potassium's ability to combat oxidative stress and inflammation in the arteries plays a key role in reducing the risk of plaque formation and supporting artery health.</p>
+<p>By incorporating potassium-rich foods into your diet, you can potentially slow down the progression of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, the hardening and narrowing of arteries due to plaque buildup. Potassium's ability to combat oxidative stress and inflammation in the arteries plays a key role in reducing the risk of plaque formation and supporting artery health.</p>
 <h2 class="sec-scrl" id="potassium-and-blood-flow">Potassium and Blood Flow</h2>
 <p>Optimal blood flow is crucial for delivering oxygen and nutrients to all parts of the body, including the heart and brain. Potassium helps maintain healthy blood flow by supporting proper muscle function, including the smooth muscle cells in the walls of blood vessels.</p>
 <ul>
@@ -143,7 +143,7 @@
 <li>Improved circulation to vital organs</li>
 <li>Reduced risk of blood clots</li>
 </ul>
-<p>By ensuring an adequate intake of potassium, you can help support optimal blood flow throughout your body, reducing the risk of cardiovascular issues associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</p>
+<p>By ensuring an adequate intake of potassium, you can help support optimal blood flow throughout your body, reducing the risk of cardiovascular issues associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</p>
 <h2 class="sec-scrl" id="potassium-for-heart-circulation">Potassium for Heart Circulation</h2>
 <p>The heart relies on healthy arteries for proper circulation of oxygenated blood to nourish its tissues. Potassium plays a crucial role in maintaining heart health by supporting efficient circulation and reducing the workload on the heart.</p>
 <p>Moreover, potassium helps regulate heart rhythm and contraction, ensuring that the heart functions optimally. By including potassium-rich foods in your diet, you can support your heart's circulation and overall cardiovascular health.</p>

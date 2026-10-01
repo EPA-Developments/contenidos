@@ -10,12 +10,12 @@
     <meta property="og:title" content="Quinoa vs Whole Grains: Heart Health Guide" />
     <meta property="og:description" content=""Discover the best whole grains for heart health: Quinoa vs. alternatives like oats, brown rice, barley, and rye. Make heart-healthy choices today!"" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-vs-whole-grains" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/quinoa-vs-whole-grains" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/quinoa-vs-whole-grains" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/quinoa-vs-whole-grains" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Quinoa Vs Whole Grains",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/quinoa-vs-whole-grains"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/quinoa-vs-whole-grains"
         }
     ]
 }

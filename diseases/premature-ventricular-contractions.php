@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Premature Ventricular Contractions: Causes and Treatment" >
   <meta property="og:description" content="Premature ventricular contractions are irregular heartbeats. Read more about their symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/premature-ventricular-contractions">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/premature-ventricular-contractions">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/premature-ventricular-contractions" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/premature-ventricular-contractions" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Premature Ventricular Contractions",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/premature-ventricular-contractions"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/premature-ventricular-contractions"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Premature Ventricular Contractions (PVCs) is crucial as early detection can lead to improved outcomes. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> (feeling like your heart is skipping a beat)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> (feeling like your heart is skipping a beat)</li>
 <li>Chest discomfort or pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul>
 
 Early identification of these symptoms can prompt timely medical evaluation and management, potentially preventing complications associated with PVCs. If you experience any of these symptoms, it's essential to seek medical attention promptly for proper diagnosis and treatment.</p>
@@ -189,9 +189,9 @@ Early identification of these symptoms can prompt timely medical evaluation and 
 
 <ul>
 <li>Physical examination to assess overall health</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect PVC patterns</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect PVC patterns</li>
 <li>Holter monitor for continuous ECG monitoring over 24-48 hours</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Stress test to assess heart function during physical activity</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Premature Ventricular Contractions</h2>

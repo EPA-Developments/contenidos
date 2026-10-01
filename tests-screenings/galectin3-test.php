@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Costs, Purpose, and Normal Range of Galectin3 Test" property="og:title"/>
 <meta content="Galectin3 test measures a protein related to heart failure. Know more about the purpose, costs, and normal Range for better heart health monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/galectin3-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/galectin3-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/galectin3-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/galectin3-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Galectin-3 Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/galectin3-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/galectin3-test"  
       }]
     }
   </script>

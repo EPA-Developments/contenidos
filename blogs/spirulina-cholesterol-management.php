@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Spirulina for Heart Health: Managing Cholesterol&quot;" />
     <meta property="og:description" content="Learn how spirulina can help manage cholesterol for a healthier heart. Boost HDL, reduce LDL, and fight heart disease naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/spirulina-cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/spirulina-cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/spirulina-cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Spirulina Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/spirulina-cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/spirulina-cholesterol-management"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>HDL increase: By boosting HDL cholesterol, spirulina promotes the removal of excess cholesterol from the bloodstream, further protecting against heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-prevention">Can Spirulina Help Prevent Heart Attacks?</h2>
-<p>Heart attacks are often linked to <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and plaque buildup in the arteries. Spirulina's cholesterol-lowering properties can play a vital role in preventing heart attacks by keeping your lipid profile in check. Additionally, spirulina's antioxidant and anti-inflammatory effects contribute to overall cardiovascular health, reducing the risk of cardiac events.</p>
+<p>Heart attacks are often linked to <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and plaque buildup in the arteries. Spirulina's cholesterol-lowering properties can play a vital role in preventing heart attacks by keeping your lipid profile in check. Additionally, spirulina's antioxidant and anti-inflammatory effects contribute to overall cardiovascular health, reducing the risk of cardiac events.</p>
 <h2 class="sec-scrl" id="triglycerides">Managing Triglyceride Levels with Spirulina</h2>
 <p>High triglyceride levels are another risk factor for heart disease. Spirulina has been found to be effective in lowering triglyceride levels in the blood, further enhancing its role in cardiovascular health. By incorporating spirulina into your diet, you can take proactive steps towards managing your triglycerides and safeguarding your heart.</p>
 <h2 class="sec-scrl" id="spirulina-effect">Understanding the Impact of Spirulina on Heart Health</h2>

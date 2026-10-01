@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Total Anomalous Pulmonary Venous Return: Causes and Treatment" >
   <meta property="og:description" content="Total Anomalous Pulmonary venous return is a congenital defect. Know more about its symptoms, causes, and treatments for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/total-anomalous-pulmonary-venous-return">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/total-anomalous-pulmonary-venous-return">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/total-anomalous-pulmonary-venous-return" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/total-anomalous-pulmonary-venous-return" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Total Anomalous Pulmonary Venous Return",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/total-anomalous-pulmonary-venous-return"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/total-anomalous-pulmonary-venous-return"
       }]
     }
   </script>
@@ -168,7 +168,7 @@
 <h1>Causes, Symptoms, Treatment of TAPVR</h1>
 <p>Total Anomalous Pulmonary Venous Return (TAPVR) is a rare congenital heart defect where the pulmonary veins, which normally bring oxygen-rich blood from the lungs to the left atrium of the heart, do not connect correctly to the left atrium.</p>
 <p>Instead, they connect abnormally to another blood vessel or the right side of the heart. This condition significantly impacts circulation and oxygenation in the body. TAPVR is a critical condition that requires prompt diagnosis and intervention.</p>
-<p>In untreated cases, TAPVR can lead to severe health complications, including heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and even death. Early detection through regular screenings is crucial due to the asymptomatic nature of TAPVR in its early stages.</p>
+<p>In untreated cases, TAPVR can lead to severe health complications, including heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and even death. Early detection through regular screenings is crucial due to the asymptomatic nature of TAPVR in its early stages.</p>
 <p>The causes of TAPVR are primarily genetic and occur during fetal development.</p>
 <ul>
 <li>Genetic mutations affecting heart development can lead to abnormal connections of pulmonary veins, disrupting oxygenated blood flow.</li>
@@ -186,18 +186,18 @@
 <p>Symptoms of TAPVR can vary depending on the severity of the defect.</p>
 <ul>
 <li>Fatigue and poor feeding due to inadequate oxygen supply.</li>
-<li>Mild <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> or bluish discoloration of the skin due to decreased oxygen levels in the blood.</li>
+<li>Mild <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> or bluish discoloration of the skin due to decreased oxygen levels in the blood.</li>
 </ul>
 <p>Advanced-stage symptoms of TAPVR may include:</p>
 <ul>
-<li>Severe respiratory distress and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a> due to worsening oxygenation.</li>
+<li>Severe respiratory distress and <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a> due to worsening oxygenation.</li>
 <li>Heart failure symptoms like swelling in the legs or abdomen due to fluid accumulation.</li>
 </ul>
 <h2 id="symptoms">Diagnosis of Total Anomalous Pulmonary Venous Return</h2>
 <p>Diagnosis of TAPVR involves a series of tests to confirm the condition and determine its severity.</p>
 <ul>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and blood flow patterns.</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures in the heart chambers and blood vessels.</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and blood flow patterns.</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures in the heart chambers and blood vessels.</li>
 <li>Magnetic resonance imaging (MRI) to provide detailed images of the heart and pulmonary vasculature.</li>
 <li>Oxygen saturation studies to assess the oxygen levels in different heart chambers and blood vessels.</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Bananas and Cholesterol: Impact Explained" />
     <meta property="og:description" content="Discover the impact of bananas on cholesterol levels for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Bananas on Cholesterol Levels</h1>
-<p>Are you looking for a natural way to improve your cholesterol levels? Do you wonder if adding bananas to your daily diet could make a difference in managing your cholesterol? Many people struggle with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, impacting their daily activities and overall well-being. Let's explore the potential benefits of bananas on cholesterol and how they might positively affect your health.</p>
+<p>Are you looking for a natural way to improve your cholesterol levels? Do you wonder if adding bananas to your daily diet could make a difference in managing your cholesterol? Many people struggle with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, impacting their daily activities and overall well-being. Let's explore the potential benefits of bananas on cholesterol and how they might positively affect your health.</p>
 <h2 class="sec-scrl" id="effects">The Effects of Bananas on Cholesterol Levels</h2>
 <p>Bananas are not only delicious and convenient to eat but also offer various health benefits, including potential effects on cholesterol levels. Here is how bananas may impact your cholesterol profile:</p>
 <ul>

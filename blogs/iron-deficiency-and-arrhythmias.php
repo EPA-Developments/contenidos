@@ -10,12 +10,12 @@
     <meta property="og:title" content="Iron Deficiency and Arrhythmias Connection" />
     <meta property="og:description" content="Explore how iron deficiency can lead to irregular heartbeat in this informative blog post. Understand the connection and its impact on your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-arrhythmias" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-arrhythmias" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-arrhythmias" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-arrhythmias" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron Deficiency And Arrhythmias",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-arrhythmias"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-arrhythmias"
         }
     ]
 }
@@ -129,23 +129,23 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Iron Deficiency and Arrhythmias Connection</h1>
-<p>Have you ever experienced an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> that leaves you feeling fatigued and short of breath? Does this affect your daily activities, making even simple tasks challenging?</p>
+<p>Have you ever experienced an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> that leaves you feeling fatigued and short of breath? Does this affect your daily activities, making even simple tasks challenging?</p>
 <p>Iron deficiency and arrhythmias can have a significant impact on your overall well-being, influencing everything from energy levels to heart health. Understanding the connection between these two conditions is crucial for managing symptoms and improving quality of life.</p>
 <h2 class="sec-scrl" id="iron-deficiency-symptoms">Iron Deficiency Symptoms</h2>
 <p>Iron deficiency can manifest in various ways, affecting different systems in the body. Some common symptoms include:</p>
 <ul>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Pale skin and brittle nails</li>
 </ul>
 <p>Recognizing these signs can prompt you to seek medical advice and potentially prevent complications like cardiac arrhythmias.</p>
 <h2 class="sec-scrl" id="irregular-heartbeat">Irregular Heartbeat: A Sign of Trouble</h2>
 <p>Irregular heartbeat, also known as cardiac arrhythmia, is a condition where the heart beats too quickly, too slowly, or with an irregular pattern. This can lead to:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Dizziness or fainting</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Shortness of breath</li>
 </ul>
 <p>Understanding the relationship between iron deficiency and arrhythmias is essential, as addressing the root cause can help in managing heart rhythm problems effectively.</p>
@@ -163,7 +163,7 @@
 <li>Monitoring heart health through regular check-ups and tests like electrocardiograms</li>
 <li>Implementing lifestyle modifications to support heart function</li>
 </ul>
-<p>By taking proactive steps to manage iron deficiency and its impact on heart rhythm, you can reduce the risk of complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> and improve your overall quality of life.</p>
+<p>By taking proactive steps to manage iron deficiency and its impact on heart rhythm, you can reduce the risk of complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> and improve your overall quality of life.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Iron deficiency can have far-reaching effects on heart health, potentially leading to cardiac arrhythmias and other complications. Recognizing the symptoms, addressing the underlying cause, and working towards maintaining optimal iron levels are essential steps in safeguarding your cardiovascular well-being.</p>
 <p>By staying informed and proactive about your health, you can mitigate the risks associated with iron deficiency and promote a healthy heart rhythm for years to come.</p>

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Transesophageal Echocardiogram: Costs and Normal Range" property="og:title"/>
 <meta content="Transesophageal echocardiogram provides a detailed heart view. Know more about its purpose, cost, and normal Range for better diagnosis." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/transesophageal-echocardiogram" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/transesophageal-echocardiogram" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/transesophageal-echocardiogram" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/transesophageal-echocardiogram" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Transesophageal Echocardiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/transesophageal-echocardiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/transesophageal-echocardiogram"  
       }]
     }
   </script>
@@ -156,9 +156,9 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs and Normal Range of Transesophageal Echocardiogram</h1>
-<p>A Transesophageal <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> (TEE) is a specialized imaging test that allows detailed visualization of the heart's internal structures using sound waves.</p>
+<p>A Transesophageal <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> (TEE) is a specialized imaging test that allows detailed visualization of the heart's internal structures using sound waves.</p>
 <p>Unlike a standard echocardiogram performed on the chest wall, a TEE involves inserting a probe with an ultrasound transducer through the mouth and into the esophagus, providing clearer and more detailed images of the heart.</p>
-<p>TEE is commonly used to evaluate <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a>, detect blood clots or emboli, assess aortic aneurysms, and monitor cardiac function.</p>
+<p>TEE is commonly used to evaluate <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a>, detect blood clots or emboli, assess aortic aneurysms, and monitor cardiac function.</p>
 <p>It is particularly useful in cases where a traditional echocardiogram may not provide sufficient information due to factors like obesity, lung disease, or chest wall abnormalities.</p>
 <p>The TEE procedure is typically performed in a hospital or specialized imaging facility by a trained cardiologist or cardiac sonographer.</p>
 <p>Patients are often given a sedative to help them relax during the procedure, which usually takes about 30-60 minutes to complete.</p>
@@ -167,7 +167,7 @@
 <p>This imaging technique is invaluable in diagnosing and monitoring various heart conditions, including heart valve disease, blood clots, aortic aneurysms, and cardiac function abnormalities.</p>
 <p>TEE plays a crucial role in guiding treatment decisions and interventions for patients with complex cardiovascular issues.</p>
 <p>For example, in cases of suspected heart valve disease, TEE can provide precise measurements of the valve's function and anatomy, helping cardiologists determine the most appropriate treatment approach.</p>
-<p>Additionally, TEE is used to assess the presence of thrombus or <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a> in patients at risk of stroke or other cardiovascular events. By detecting these potentially life-threatening conditions early, TEE can help prevent serious complications and guide appropriate treatment strategies.</p>
+<p>Additionally, TEE is used to assess the presence of thrombus or <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a> in patients at risk of stroke or other cardiovascular events. By detecting these potentially life-threatening conditions early, TEE can help prevent serious complications and guide appropriate treatment strategies.</p>
 <h2 id="costs">What are the Costs of Transesophageal Echocardiogram Tests in Americas?</h2>
 <p>The cost of a Transesophageal Echocardiogram test in Americas can vary depending on several factors, including the location of the facility, the expertise of the healthcare provider, and the specific indications for the test.</p>
 <p>On average, the price range for a TEE test in Americas is between U$S 10,000 to U$S 30,000.</p>

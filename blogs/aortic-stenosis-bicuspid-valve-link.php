@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="The Link Between Aortic Stenosis and Bicuspid Valve">
   <meta property="og:description" content="Discover the connection between aortic stenosis and bicuspid valve in this informative article. Learn about symptoms, causes, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aortic-stenosis-bicuspid-valve-link">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aortic-stenosis-bicuspid-valve-link">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aortic-stenosis-bicuspid-valve-link" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aortic-stenosis-bicuspid-valve-link" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "The Link Between Aortic Stenosis And Bicuspid Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/aortic-stenosis-bicuspid-valve-link"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/aortic-stenosis-bicuspid-valve-link"  
       }]
     }
   </script>

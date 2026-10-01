@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Carotid Angioplasty: Lifesaving Stroke Prevention">
   <meta property="og:description" content="Learn about carotid angioplasty, a lifesaving procedure for stroke prevention. Find out how this minimally invasive treatment can save lives.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carotid-angioplasty-stroke-prevention">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carotid-angioplasty-stroke-prevention">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carotid-angioplasty-stroke-prevention" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carotid-angioplasty-stroke-prevention" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carotid Angioplasty: Lifesaving Stroke Prevention",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/carotid-angioplasty-stroke-prevention"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/carotid-angioplasty-stroke-prevention"  
       }]
     }
   </script>

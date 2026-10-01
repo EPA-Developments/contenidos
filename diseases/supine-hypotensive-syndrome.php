@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Supine Hypotensive Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Supine Hypotensive Syndrome: causes, symptoms, and management. Find expert insights on this condition. Understand how to prevent and treat it effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/supine-hypotensive-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/supine-hypotensive-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/supine-hypotensive-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/supine-hypotensive-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Supine Hypotensive Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/supine-hypotensive-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/supine-hypotensive-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Supine Hypotensive Syndrome: Symptoms, Causes, and Treatment</h1>
-<p>Supine Hypotensive Syndrome occurs when a pregnant woman lies on her back, causing the uterus to compress a major vein, reducing blood flow back to the heart. This can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, nausea, and a drop in blood pressure. It's significant because it can affect both the mother and baby by reducing oxygen supply. This syndrome is relatively common, affecting about 8-10% of pregnant women. It's essential to recognize the symptoms and avoid lying flat on the back during pregnancy to prevent complications.</p>
+<p>Supine Hypotensive Syndrome occurs when a pregnant woman lies on her back, causing the uterus to compress a major vein, reducing blood flow back to the heart. This can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, nausea, and a drop in blood pressure. It's significant because it can affect both the mother and baby by reducing oxygen supply. This syndrome is relatively common, affecting about 8-10% of pregnant women. It's essential to recognize the symptoms and avoid lying flat on the back during pregnancy to prevent complications.</p>
 <h2 id="causes">Causes of Supine Hypotensive Syndrome</h2>
 <p>Certainly! Here are the main factors contributing to the development of Supine Hypotensive Syndrome:
 
@@ -179,12 +179,12 @@
 <li>Nausea</li>
 <li>Light-headedness</li>
 <li>Pale skin</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 </ul>
 
 If you experience these symptoms, especially when lying on your back, it's essential to change position immediately to prevent complications. Early recognition and management of Supine Hypotensive Syndrome can help avoid serious consequences for both the mother and the baby.</p>
 <h2>Diagnosis of Supine Hypotensive Syndrome</h2>
-<p>Supine Hypotensive Syndrome, a condition in pregnant women when lying flat causes <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, is crucial to diagnose accurately due to potential risks to both mother and baby. Diagnostic methods include:
+<p>Supine Hypotensive Syndrome, a condition in pregnant women when lying flat causes <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, is crucial to diagnose accurately due to potential risks to both mother and baby. Diagnostic methods include:
 
 <ul>
 <li> Reviewing symptoms and medical history</li>
@@ -214,7 +214,7 @@ Accurate diagnosis ensures timely intervention to prevent complications like red
 <h3>Compression Stockings</h3>
 <ul>
 <li>Wearing compression stockings helps prevent blood pooling in the lower extremities.</li>
-<li>Compression promotes venous return and reduces the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>.</li>
+<li>Compression promotes venous return and reduces the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>.</li>
 <li>The primary objective is to enhance venous circulation and maintain blood pressure stability.</li>
 <li>Patient instructions include wearing compression stockings daily and ensuring they fit properly.</li>
 </ul></p>

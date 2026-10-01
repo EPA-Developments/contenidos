@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Homocysteine Test: Purpose,Costs and Normal Range" property="og:title"/>
 <meta content="Homocysteine test measures risk for heart disease. Know more about its purpose, costs, and normal Range for effective cardiovascular health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/homocysteine-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/homocysteine-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/homocysteine-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/homocysteine-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Homocysteine Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/homocysteine-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/homocysteine-test"  
       }]
     }
   </script>
@@ -178,7 +178,7 @@
 <h1>Purpose,Costs, and Normal Range of Homocysteine Test</h1>
 <p>The Homocysteine Test is a diagnostic pathology test that measures the level of homocysteine in the blood. Homocysteine is an amino acid that plays a crucial role in various metabolic processes within the body.</p>
 <p>When the levels of homocysteine in the blood are too high, it can indicate an increased risk of developing cardiovascular diseases such as heart disease and stroke.</p>
-<p>The Homocysteine Test is usually recommended for individuals who have a family history of heart disease, those with a history of stroke, or individuals who have risk factors for cardiovascular diseases such as smoking, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>The Homocysteine Test is usually recommended for individuals who have a family history of heart disease, those with a history of stroke, or individuals who have risk factors for cardiovascular diseases such as smoking, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <p>By measuring the homocysteine levels in the blood, healthcare providers can assess an individual's risk of developing cardiovascular diseases and take proactive measures to prevent or manage these conditions.</p>
 <h2 id="purpose">What is the Purpose of Performing a Homocysteine Test Test?</h2>
 <p>The primary purpose of performing a Homocysteine Test is to assess an individual's risk of developing cardiovascular diseases, particularly heart disease and stroke.</p>
@@ -203,7 +203,7 @@
 <p>Healthcare providers will analyze the results in conjunction with other risk factors to assess an individual's overall cardiovascular risk.</p>
 <h2>What Do High Homocysteine Test Levels Indicate?</h2>
 <p>High homocysteine levels in the blood can indicate an increased risk of developing cardiovascular diseases such as heart disease and stroke.</p>
-<p>Elevated homocysteine levels are associated with the formation of plaque in the arteries, which can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and increase the risk of heart attacks and strokes.</p>
+<p>Elevated homocysteine levels are associated with the formation of plaque in the arteries, which can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and increase the risk of heart attacks and strokes.</p>
 <p>Causes of high homocysteine levels include genetic factors, poor dietary habits, smoking, and certain medical conditions such as kidney disease and hypothyroidism.</p>
 <p>Individuals with high homocysteine levels may be advised to make lifestyle modifications such as quitting smoking, adopting a healthy diet, and increasing physical activity to reduce their risk of developing cardiovascular diseases.</p>
 <h2>What Do Low Homocysteine Test Levels Indicate?</h2>

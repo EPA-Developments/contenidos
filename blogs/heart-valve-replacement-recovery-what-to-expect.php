@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Valve Replacement Recovery: What to Expect">
   <meta property="og:description" content="Recover smoothly after heart valve replacement surgery with our guide on what to expect during heart valve replacement recovery. Get expert tips now.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-recovery-what-to-expect">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-recovery-what-to-expect">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-recovery-what-to-expect" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-recovery-what-to-expect" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Valve Replacement Recovery: What To Expect",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-recovery-what-to-expect"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-recovery-what-to-expect"  
       }]
     }
   </script>

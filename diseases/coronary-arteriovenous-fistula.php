@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Arteriovenous Fistula: Causes and Symptoms" >
   <meta property="og:description" content="Coronary Arteriovenous Fistula forms an abnormal connection between arteries and veins. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-arteriovenous-fistula">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-arteriovenous-fistula">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-arteriovenous-fistula" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-arteriovenous-fistula" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Coronary Arteriovenous Fistula",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-arteriovenous-fistula"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-arteriovenous-fistula"
       }]
     }
   </script>
@@ -161,9 +161,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Coronary Arteriovenous Fistula</h1>
-<p>Coronary arteriovenous fistula is an uncommon heart condition where an abnormal connection forms between a coronary artery and a cardiac chamber or a large blood vessel. This can lead to blood bypassing the capillaries, impacting the heart's function. While rare, it can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and heart failure. Despite its low prevalence, early detection is crucial to prevent complications. If you experience any unusual heart symptoms, seek medical advice promptly to ensure timely diagnosis and treatment.</p>
+<p>Coronary arteriovenous fistula is an uncommon heart condition where an abnormal connection forms between a coronary artery and a cardiac chamber or a large blood vessel. This can lead to blood bypassing the capillaries, impacting the heart's function. While rare, it can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and heart failure. Despite its low prevalence, early detection is crucial to prevent complications. If you experience any unusual heart symptoms, seek medical advice promptly to ensure timely diagnosis and treatment.</p>
 <h2 id="causes">Causes of Coronary Arteriovenous Fistula</h2>
-<p>Coronary arteriovenous fistula, an abnormal connection between a coronary artery and a cardiac chamber or a great vessel, can develop due to various factors. These may include congenital heart defects, trauma or injury to the chest, complications from <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>, or as a result of procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>. In some cases, it may also be associated with conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> or inflammation of the blood vessels. Early detection and appropriate management are crucial in treating this condition effectively. 
+<p>Coronary arteriovenous fistula, an abnormal connection between a coronary artery and a cardiac chamber or a great vessel, can develop due to various factors. These may include congenital heart defects, trauma or injury to the chest, complications from <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>, or as a result of procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>. In some cases, it may also be associated with conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> or inflammation of the blood vessels. Early detection and appropriate management are crucial in treating this condition effectively. 
 
 <ul>
 <li>Congenital heart defects</li>
@@ -177,10 +177,10 @@
 
 <ul>
 <li>Chest pain or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 <li>Enlarged heart</li>
 <li>Blue-tinged skin (cyanosis)</li>
 </ul>

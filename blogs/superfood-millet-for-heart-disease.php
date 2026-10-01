@@ -10,12 +10,12 @@
     <meta property="og:title" content="Superfood Millet for Heart Disease: Cardio Protection" />
     <meta property="og:description" content="Discover how millet can supercharge your heart health and protect against cardiovascular issues. Boost your well-being with this heart-healthy superfood!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/superfood-millet-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/superfood-millet-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/superfood-millet-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/superfood-millet-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Superfood Millet For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/superfood-millet-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/superfood-millet-for-heart-disease"
         }
     ]
 }
@@ -149,7 +149,7 @@
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-benefits">Cardiovascular Benefits</h2>
 <p>The cardiovascular benefits of consuming millet go beyond just heart disease prevention. Millet is a good source of magnesium, a mineral crucial for maintaining healthy blood pressure levels. By including millet in your diet, you can support optimal blood pressure and reduce the strain on your heart.</p>
-<p>Additionally, the potassium content in millet helps counteract the effects of sodium in the body, further contributing to heart health. Keeping your sodium-potassium balance in check is essential for preventing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
+<p>Additionally, the potassium content in millet helps counteract the effects of sodium in the body, further contributing to heart health. Keeping your sodium-potassium balance in check is essential for preventing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
 <ul>
 <li>Rich in magnesium for healthy blood pressure</li>
 <li>Potassium content supports sodium balance</li>

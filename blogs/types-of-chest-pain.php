@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Chest Pain in Heart Disease" />
     <meta property="og:description" content="Explore the significance of chest pain in identifying heart disease. Understand different types of chest pain and their implications." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/types-of-chest-pain" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/types-of-chest-pain" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/types-of-chest-pain" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/types-of-chest-pain" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Types Of Chest Pain",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/types-of-chest-pain"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/types-of-chest-pain"
         }
     ]
 }
@@ -169,15 +169,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Significance of Chest Pain in Heart Disease Detection</h1>
-<p>Are you experiencing different types of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and wondering what it could mean? Chest pain can impact your daily activities, making even simple tasks challenging. Understanding the various types of chest pain can help you recognize potential signs of heart disease and seek appropriate medical attention.</p>
+<p>Are you experiencing different types of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and wondering what it could mean? Chest pain can impact your daily activities, making even simple tasks challenging. Understanding the various types of chest pain can help you recognize potential signs of heart disease and seek appropriate medical attention.</p>
 <h2 class="sec-scrl" id="sharpchestpain">Sharp Chest Pain</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain">sharp chest pain</a> can be alarming and may feel like a stabbing sensation in your chest. This type of pain is often sudden and intense, making it difficult to ignore. Sharp chest pain may indicate a serious condition such as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or a pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
-<p>It is crucial to seek immediate medical help if you experience sharp chest pain, especially if it is accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or nausea.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain">sharp chest pain</a> can be alarming and may feel like a stabbing sensation in your chest. This type of pain is often sudden and intense, making it difficult to ignore. Sharp chest pain may indicate a serious condition such as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or a pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
+<p>It is crucial to seek immediate medical help if you experience sharp chest pain, especially if it is accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or nausea.</p>
 <h2 class="sec-scrl" id="dullchestpain">Dull Chest Pain</h2>
-<p>Unlike sharp chest pain, dull chest pain is more subtle and persistent. It may feel like a heaviness or discomfort in your chest that comes and goes. Dull chest pain can be a sign of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, a condition caused by reduced blood flow to the heart.</p>
+<p>Unlike sharp chest pain, dull chest pain is more subtle and persistent. It may feel like a heaviness or discomfort in your chest that comes and goes. Dull chest pain can be a sign of <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, a condition caused by reduced blood flow to the heart.</p>
 <p>If you frequently experience dull chest pain, especially during physical exertion or stress, it is essential to consult a healthcare provider to evaluate your heart health.</p>
 <h2 class="sec-scrl" id="burningchestpain">Burning Chest Pain</h2>
-<p>Burning chest pain is often associated with acid reflux or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a>. It can cause a sensation of heat or burning in the chest that may worsen after eating or lying down. While burning chest pain is typically benign, it can sometimes be confused with heart-related issues.</p>
+<p>Burning chest pain is often associated with acid reflux or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a>. It can cause a sensation of heat or burning in the chest that may worsen after eating or lying down. While burning chest pain is typically benign, it can sometimes be confused with heart-related issues.</p>
 <p>If you experience persistent burning chest pain or if it is accompanied by other concerning symptoms such as sweating or lightheadedness, it is advisable to seek medical advice.</p>
 <h2 class="sec-scrl" id="tightchestpain">Tight Chest Pain</h2>
 <p>Tight chest pain is characterized by a feeling of pressure or squeezing in the chest area. It may be a symptom of coronary artery disease or a heart attack. Tight chest pain can also radiate to the arms, back, neck, or jaw.</p>

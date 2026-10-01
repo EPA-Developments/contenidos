@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Arrest Medications: Effective Treatments & Mechanisms">
   <meta property="og:description" content="Discover the most effective cardiac arrest medications and learn why they work. Explore treatment options for cardiac arrest medications now.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-medications-effective-treatments-mechanisms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-medications-effective-treatments-mechanisms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-medications-effective-treatments-mechanisms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-medications-effective-treatments-mechanisms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Arrest Medications: Effective Treatments & Mechanisms",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiac-arrest-medications-effective-treatments-mechanisms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiac-arrest-medications-effective-treatments-mechanisms"  
       }]
     }
   </script>

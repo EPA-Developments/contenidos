@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes,Diagnosis and Treatment for Swelling in Feet" >
   <meta property="og:description" content="Swelling in feet can be caused by heart problems. Know more about causes, symptoms, and treatment options for swelling in your feet." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-feet">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-feet">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-feet" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-feet" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Swelling In Feet",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-feet"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-feet"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms, Diagnosis and Treatment for Swelling in Feet</h1>
 <p>Swelling in feet, also known as foot edema, is a common condition characterized by an abnormal buildup of fluid in the tissues of the feet and ankles.</p>
-<p>This can result in swollen feet, fluid retention in feet, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema">peripheral edema</a>, swollen extremities, foot puffiness, and leg swelling. The swelling may vary in severity, from mild puffiness to more pronounced enlargement of the feet and ankles.</p>
+<p>This can result in swollen feet, fluid retention in feet, <a href="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema">peripheral edema</a>, swollen extremities, foot puffiness, and leg swelling. The swelling may vary in severity, from mild puffiness to more pronounced enlargement of the feet and ankles.</p>
 <p>It can occur in one foot or both feet.</p>
 <h2 id="forms">What are the Forms of Swelling in feet?</h2>
 <p>There are various forms of swelling in feet, each with specific symptoms and related concepts:</p>
@@ -207,7 +207,7 @@
 <li>Injury or trauma: Sprains, fractures, or other injuries can cause swelling.</li>
 <li>Pregnancy: Hormonal changes and increased pressure on blood vessels can result in swollen feet.</li>
 <li>Obesity: Excess weight can put pressure on the veins, leading to swelling.</li>
-<li>Venous insufficiency: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> can cause fluid buildup in the feet.</li>
+<li>Venous insufficiency: <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> can cause fluid buildup in the feet.</li>
 <li>Heart disease: Conditions like heart failure can lead to swelling in the lower extremities.</li>
 <li>Kidney disease: Impaired kidney function can result in fluid retention and swelling.</li>
 <li>Medications: Certain drugs may cause side effects like swelling in the feet.</li>
@@ -218,7 +218,7 @@
 <li>Blood tests: To check for underlying conditions like kidney disease or heart problems.</li>
 <li>Imaging tests: Such as ultrasound or MRI to assess the extent of fluid buildup.</li>
 <li>Doppler ultrasound: To evaluate blood flow and detect any blockages in the veins.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To assess heart function and identify any issues contributing to foot swelling.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To assess heart function and identify any issues contributing to foot swelling.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Swelling in feet?</h2>
 <p>Treatment for swelling in feet may include:</p>
@@ -236,7 +236,7 @@
 <li>Severe pain or discomfort.</li>
 <li>Redness, warmth, or tenderness in the swollen area.</li>
 <li>Pitting edema (indentation left after pressing on the skin).</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 <li>Sudden weight gain or changes in urination.</li>
 </ul>
 <h2>Home Remedies for Swelling in feet</h2>

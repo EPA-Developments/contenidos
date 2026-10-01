@@ -10,12 +10,12 @@
     <meta property="og:title" content="Amylase and Aging Heart Health: Risks in Seniors" />
     <meta property="og:description" content="Explore the link between amylase and cardiovascular risk in older adults. Learn about aging heart health and enzyme function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-aging-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-aging-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-aging-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-aging-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Amylase And Aging Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-aging-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/amylase-and-aging-heart-health"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about the impact of aging on your heart health? How does amylase, an essential enzyme, play a role in the cardiovascular health of older adults? As we age, our bodies undergo changes that can affect various aspects of our health, including the function of crucial enzymes like amylase. Let's explore the connection between amylase and aging heart health and understand its significance in maintaining overall well-being and quality of life.</p>
 <h2 class="sec-scrl" id="age-related-heart-disease">Age Related Heart Disease</h2>
 <p>Heart disease is a significant concern as we grow older, with age being a major risk factor for various cardiovascular issues. The prevalence of heart disease increases substantially in older adults, leading to complications that can impact daily life. Understanding the role of enzymes like amylase in the context of age-related heart disease is crucial for effective prevention and management.</p>
-<p>As individuals age, their cardiovascular system undergoes changes that make them more susceptible to conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and heart failure. These age-related alterations can compromise heart function and increase the risk of developing serious heart issues.</p>
+<p>As individuals age, their cardiovascular system undergoes changes that make them more susceptible to conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and heart failure. These age-related alterations can compromise heart function and increase the risk of developing serious heart issues.</p>
 <ul>
 <li>Regular exercise and a heart-healthy diet can help mitigate the effects of age-related heart disease.</li>
 <li>Monitoring enzyme levels, including amylase, can provide valuable insights into heart health status.</li>
@@ -160,7 +160,7 @@
 <ul>
 <li>Engage in cardiovascular exercises such as brisk walking, swimming, or cycling to support heart health and circulation.</li>
 <li>Manage stress through relaxation techniques like meditation, yoga, or deep breathing exercises to reduce the impact of stress on heart function.</li>
-<li>Seek medical advice if experiencing symptoms of heart disease, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, for prompt evaluation and treatment.</li>
+<li>Seek medical advice if experiencing symptoms of heart disease, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, for prompt evaluation and treatment.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, the relationship between amylase and aging heart health is intricate and multifaceted. Understanding how enzyme function, especially amylase, influences cardiovascular aging and overall heart health in older adults is crucial for promoting longevity and well-being. By prioritizing heart-healthy habits, monitoring enzyme levels, and seeking timely medical advice, individuals can proactively manage age-related heart disease and support optimal heart function as they age.</p>

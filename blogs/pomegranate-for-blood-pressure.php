@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pomegranate Benefits for High Blood Pressure&quot;" />
     <meta property="og:description" content="Learn how pomegranate can naturally lower high blood pressure and promote heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pomegranate-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pomegranate For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pomegranate-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pomegranate-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Pomegranate for Lowering Blood Pressure</h1>
-<p>Are you tired of struggling to keep your blood pressure under control? Do you find it challenging to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> despite trying various remedies? The good news is that nature may hold the key to helping you regulate your blood pressure more effectively. Pomegranate, with its potential health benefits, could be the solution you've been searching for. Let's explore how pomegranate can play a role in reducing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and improving your overall cardiovascular health.</p>
+<p>Are you tired of struggling to keep your blood pressure under control? Do you find it challenging to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> despite trying various remedies? The good news is that nature may hold the key to helping you regulate your blood pressure more effectively. Pomegranate, with its potential health benefits, could be the solution you've been searching for. Let's explore how pomegranate can play a role in reducing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and improving your overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="hypertension remedies">Can Pomegranate Help Manage Hypertension?</h2>
 <p>High blood pressure, or hypertension, is a common condition that affects millions of people worldwide. If left uncontrolled, hypertension can lead to serious health complications such as heart disease and stroke. While lifestyle changes and medication are often recommended to manage blood pressure, incorporating natural remedies like pomegranate into your daily routine may offer additional benefits. Here's how pomegranate may help regulate blood pressure:</p>
 <ul>
@@ -141,7 +141,7 @@
 <p>Healthy blood vessels are essential for maintaining optimal blood pressure levels and overall cardiovascular function. Pomegranate offers several benefits that can support the health of your blood vessels, including:</p>
 <ul>
 <li>Enhanced nitric oxide production: Pomegranate polyphenols have been found to stimulate the production of nitric oxide, a molecule that helps relax blood vessels and improve blood flow.</li>
-<li>Antioxidant protection: The antioxidant properties of pomegranate can help prevent damage to the lining of blood vessels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular diseases.</li>
+<li>Antioxidant protection: The antioxidant properties of pomegranate can help prevent damage to the lining of blood vessels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular diseases.</li>
 </ul>
 <p>By promoting healthy blood vessel function, pomegranate may help reduce the risk of developing hypertension and other related conditions.</p>
 <h2 class="sec-scrl" id="pomegranate polyphenols for BP">The Role of Pomegranate Polyphenols in Blood Pressure Management</h2>

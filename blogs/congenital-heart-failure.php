@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Surgical Solutions for Congenital Heart Failure&quot;" />
     <meta property="og:description" content="Explore surgical solutions for congenital heart failure patients. Learn about treatment options, heart transplants, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Congenital Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/congenital-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/congenital-heart-failure"
         }
     ]
 }
@@ -171,11 +171,11 @@
               <h1>Surgical Treatments for Congenital Heart Failure</h1>
 <p>Are you or your loved one facing the challenges of congenital heart failure? Living with this condition can significantly impact your daily activities, making even simple tasks feel overwhelming. The good news is that there are advanced surgical options available to help manage congenital heart failure effectively. Let's dive into the various surgical solutions and treatment options that can improve your quality of life.</p>
 <h2 class="sec-scrl" id="congenital-heart-failure-surgery">Congenital Heart Failure Surgery</h2>
-<p>When it comes to congenital heart failure, surgery is often a necessary treatment option. Congenital <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-failure-surgery">heart failure surgery</a> aims to repair structural defects in the heart that are present since birth. These surgeries can help improve blood flow, reduce symptoms, and enhance overall heart function. Some common congenital heart surgeries include:</p>
+<p>When it comes to congenital heart failure, surgery is often a necessary treatment option. Congenital <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-failure-surgery">heart failure surgery</a> aims to repair structural defects in the heart that are present since birth. These surgeries can help improve blood flow, reduce symptoms, and enhance overall heart function. Some common congenital heart surgeries include:</p>
 <ul>
 <li>Ventricular Septal Defect (VSD) repair</li>
 <li>Atrial Septal Defect (ASD) repair</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot">tetralogy of fallot</a> repair</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot">tetralogy of fallot</a> repair</li>
 </ul>
 <p>These procedures are crucial in managing congenital heart failure and can significantly improve the prognosis for patients with these conditions.</p>
 <h2 class="sec-scrl" id="heart-failure-treatment-options">Heart Failure Treatment Options</h2>
@@ -187,7 +187,7 @@
 </ul>
 <p>By combining these treatments with surgical interventions, individuals with congenital heart failure can lead fulfilling lives and manage their condition effectively.</p>
 <h2 class="sec-scrl" id="surgical-solutions-for-heart-failure">Surgical Solutions for Heart Failure</h2>
-<p>For those with severe congenital heart conditions, surgical solutions offer hope and improved outcomes. Advanced surgical techniques, such as heart valve repair or replacement, can address specific issues within the heart and restore proper function. Additionally, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> for congenital failure may be recommended in cases where other treatments have been ineffective.</p>
+<p>For those with severe congenital heart conditions, surgical solutions offer hope and improved outcomes. Advanced surgical techniques, such as heart valve repair or replacement, can address specific issues within the heart and restore proper function. Additionally, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> for congenital failure may be recommended in cases where other treatments have been ineffective.</p>
 <p>Collaboration between cardiac surgeons, cardiologists, and other healthcare professionals is essential in determining the most appropriate surgical solution for each individual with congenital heart failure.</p>
 <h2 class="sec-scrl" id="congenital-heart-condition-surgery">Congenital Heart Condition Surgery</h2>
 <p>Individuals born with congenital heart conditions often require specialized surgical procedures to correct anomalies and improve heart function. Congenital heart condition surgery aims to address structural issues, optimize blood flow, and enhance the overall health of the heart. These surgeries are tailored to each patient's unique needs and may involve complex interventions to ensure the best possible outcome.</p>

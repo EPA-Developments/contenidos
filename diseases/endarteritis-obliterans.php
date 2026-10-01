@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endarteritis Obliterans: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Discover the causes, symptoms, and treatment options for Endarteritis Obliterans. Learn how this condition affects blood flow in the arteries.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endarteritis-obliterans">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endarteritis-obliterans">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endarteritis-obliterans" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endarteritis-obliterans" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endarteritis Obliterans",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endarteritis-obliterans"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endarteritis-obliterans"
       }]
     }
   </script>
@@ -182,7 +182,7 @@
 </ul>
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can exacerbate the development and progression of Endarteritis Obliterans.</p>
 <ul>
-<li>Poor Diet: A diet high in saturated fats, cholesterol, and processed foods can contribute to <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a> and arterial inflammation, worsening the symptoms of Endarteritis Obliterans. Adopting a healthy, balanced diet rich in fruits, vegetables, whole grains, and lean proteins can help improve vascular health and reduce the risk of complications.</li>
+<li>Poor Diet: A diet high in saturated fats, cholesterol, and processed foods can contribute to <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a> and arterial inflammation, worsening the symptoms of Endarteritis Obliterans. Adopting a healthy, balanced diet rich in fruits, vegetables, whole grains, and lean proteins can help improve vascular health and reduce the risk of complications.</li>
 <li>Sedentary Lifestyle: Lack of physical activity and sedentary behavior can impair blood circulation and increase the risk of cardiovascular diseases, including Endarteritis Obliterans. Regular exercise and physical activity promote blood flow, strengthen the cardiovascular system, and support overall vascular health. Incorporating moderate-intensity exercise into daily routines can help mitigate the effects of Endarteritis Obliterans.</li>
 <li>Diabetes: Individuals with diabetes are at a higher risk of developing vascular complications, including Endarteritis Obliterans. Persistent high blood sugar levels can damage blood vessels and impair circulation, predisposing diabetic individuals to arterial inflammation and thrombosis. Proper management of diabetes through medication, diet, and lifestyle modifications is essential in preventing the progression of Endarteritis Obliterans.</li>
 </ul>
@@ -190,8 +190,8 @@
 <p>The symptoms of Endarteritis Obliterans can vary depending on the stage of the disease and the extent of vascular involvement. Recognizing these symptoms is crucial for early detection and timely intervention to prevent complications and preserve limb function.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a>: Claudication, or muscle pain and cramping in the legs during physical activity, is a common early symptom of Endarteritis Obliterans. This symptom is caused by reduced blood flow to the muscles, resulting in inadequate oxygen supply and metabolic waste removal. Claudication can significantly impact daily activities, limiting mobility and exercise tolerance.</li>
-<li>Raynaud's Phenomenon: Raynaud's phenomenon, characterized by cold-induced color changes in the fingers and toes, can be an early sign of vascular dysfunction in Endarteritis Obliterans. This symptom may be misunderstood or overlooked as a benign reaction to cold temperatures, delaying the diagnosis of the underlying <a href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease">vascular disease</a>. Proper evaluation and diagnostic testing are essential to differentiate Raynaud's phenomenon from more serious conditions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a>: Claudication, or muscle pain and cramping in the legs during physical activity, is a common early symptom of Endarteritis Obliterans. This symptom is caused by reduced blood flow to the muscles, resulting in inadequate oxygen supply and metabolic waste removal. Claudication can significantly impact daily activities, limiting mobility and exercise tolerance.</li>
+<li>Raynaud's Phenomenon: Raynaud's phenomenon, characterized by cold-induced color changes in the fingers and toes, can be an early sign of vascular dysfunction in Endarteritis Obliterans. This symptom may be misunderstood or overlooked as a benign reaction to cold temperatures, delaying the diagnosis of the underlying <a href="https://contenidos.segundaopinionmedica.org/diseases/vascular-disease">vascular disease</a>. Proper evaluation and diagnostic testing are essential to differentiate Raynaud's phenomenon from more serious conditions.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
@@ -201,7 +201,7 @@
 <h2>Diagnosis of Endarteritis Obliterans</h2>
 <p>The diagnosis of Endarteritis Obliterans involves a comprehensive evaluation of clinical symptoms, imaging studies, and vascular tests to assess arterial blood flow and vascular integrity. Early and accurate diagnosis is essential for initiating appropriate treatment and preventing disease progression.</p>
 <ul>
-<li>Ankle-Brachial Index (ABI) Test: The ABI test compares the blood pressure in the ankle with that in the arm to assess <a href="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-arterial-disease">peripheral arterial disease</a>. A lower ABI value indicates impaired blood flow to the lower extremities, suggestive of Endarteritis Obliterans. This non-invasive test is a valuable screening tool for detecting early vascular abnormalities and monitoring disease progression</li>
+<li>Ankle-Brachial Index (ABI) Test: The ABI test compares the blood pressure in the ankle with that in the arm to assess <a href="https://contenidos.segundaopinionmedica.org/diseases/peripheral-arterial-disease">peripheral arterial disease</a>. A lower ABI value indicates impaired blood flow to the lower extremities, suggestive of Endarteritis Obliterans. This non-invasive test is a valuable screening tool for detecting early vascular abnormalities and monitoring disease progression</li>
 </ul>
 </div>
           </div>

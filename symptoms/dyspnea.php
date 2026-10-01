@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dyspnea: Causes, Symptoms, Diagnosis and Treatment" >
   <meta property="og:description" content="Dyspnea, or shortness of breath, may be caused by heart conditions. Know more about its causes, diagnosis, and treatment to improve heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dyspnea",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/dyspnea"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Dyspnea: Causes, Symptoms, Treatment and Diagnosis</h1>
-<p>Dyspnea, commonly known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, is a condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or a sensation of not getting enough air.</p>
-<p>It can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, or respiratory distress, making it challenging for individuals to breathe comfortably.</p>
+<p>Dyspnea, commonly known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, is a condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or a sensation of not getting enough air.</p>
+<p>It can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, or respiratory distress, making it challenging for individuals to breathe comfortably.</p>
 <p>Dyspnea can be a temporary response to physical exertion or a symptom of underlying health issues, such as heart or lung conditions.</p>
 <p>Individuals experiencing dyspnea may feel like they are unable to catch their breath, leading to feelings of anxiety or panic. This symptom can vary in intensity from mild to severe, depending on the underlying cause.</p>
 <p>It is essential to pay attention to dyspnea as it can indicate a serious medical condition that requires prompt evaluation and treatment.</p>
@@ -198,14 +198,14 @@
 <li>Breathing difficulty: Experiencing challenges in inhaling or exhaling air, leading to discomfort.</li>
 <li>Labored breathing: Breathing that requires more effort than usual, often accompanied by wheezing or coughing.</li>
 <li>Chest tightness: Sensation of pressure or constriction in the chest, making it difficult to breathe deeply.</li>
-<li>Respiratory distress: Severe difficulty breathing, often associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a> and a sense of impending doom.</li>
+<li>Respiratory distress: Severe difficulty breathing, often associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a> and a sense of impending doom.</li>
 </ul>
 <p>Understanding the specific form of dyspnea can help healthcare providers determine the underlying cause and tailor appropriate treatment strategies for individuals experiencing these symptoms.</p>
 <h2 id="causes">What are the Causes of Dyspnea?</h2>
 <p>Dyspnea can have a wide range of causes, including both acute and chronic conditions.</p>
 <ul>
 <li>Heart disease: Conditions such as heart failure, coronary artery disease, or arrhythmias can lead to dyspnea due to decreased cardiac function.</li>
-<li>Lung conditions: Chronic obstructive pulmonary disease (COPD), asthma, pneumonia, or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a> can cause dyspnea by affecting respiratory function.</li>
+<li>Lung conditions: Chronic obstructive pulmonary disease (COPD), asthma, pneumonia, or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a> can cause dyspnea by affecting respiratory function.</li>
 <li>Anemia: Low levels of red blood cells can result in reduced oxygen delivery to tissues, leading to dyspnea.</li>
 <li>Obesity: Excess weight can put pressure on the diaphragm and lungs, making it harder to breathe properly.</li>
 <li>Anxiety or panic disorders: Psychological factors can contribute to dyspnea by triggering hyperventilation or breath-holding episodes.</li>
@@ -214,11 +214,11 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Dyspnea?</h2>
 <p>Diagnosing dyspnea involves a comprehensive evaluation of the individual's medical history, physical examination, and diagnostic tests.</p>
 <ul>
-<li>Physical examination: Assessing vital signs, lung function, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> to identify any abnormalities.</li>
+<li>Physical examination: Assessing vital signs, lung function, and <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> to identify any abnormalities.</li>
 <li>Blood tests: Measuring oxygen levels, red blood cell count, and other markers to detect underlying conditions like anemia or infection.</li>
 <li>Imaging tests: Chest X-rays, CT scans, or MRI scans can help visualize the heart, lungs, and surrounding structures for abnormalities.</li>
 <li>Pulmonary function tests: Assessing lung function through spirometry or other tests to evaluate respiratory capacity and efficiency.</li>
-<li>Cardiac tests: ECG, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, or stress tests may be performed to evaluate heart function and detect any abnormalities.</li>
+<li>Cardiac tests: ECG, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, or stress tests may be performed to evaluate heart function and detect any abnormalities.</li>
 </ul>
 <p>By using a combination of these diagnostic methods, healthcare providers can pinpoint the cause of dyspnea and recommend appropriate treatment options based on the underlying condition.</p>
 <h2 id="treatment">What is the Treatment for Dyspnea?</h2>

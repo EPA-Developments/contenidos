@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Postural Hypotension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Postural hypotension involves a sudden drop in blood pressure when standing. Know more about its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/postural-hypotension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/postural-hypotension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/postural-hypotension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/postural-hypotension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Postural Hypotension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/postural-hypotension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/postural-hypotension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Postural Hypotension</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/postural-hypotension">postural hypotension</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, is when a person's blood pressure drops significantly when they stand up from sitting or lying down. This sudden drop can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, or even fainting. It's essential to address as it can increase the risk of falls, especially in older adults. Postural hypotension is quite common, affecting about 5-10% of the population. If you or someone you know experiences frequent dizziness when changing positions, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/postural-hypotension">postural hypotension</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, is when a person's blood pressure drops significantly when they stand up from sitting or lying down. This sudden drop can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, or even fainting. It's essential to address as it can increase the risk of falls, especially in older adults. Postural hypotension is quite common, affecting about 5-10% of the population. If you or someone you know experiences frequent dizziness when changing positions, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Postural Hypotension</h2>
 <p>Postural hypotension, or orthostatic hypotension, can sneak up on you when you least expect it. Several factors can contribute to this sudden drop in blood pressure when you stand up:
 
@@ -176,7 +176,7 @@
 
 <ul>
 <li>Dizziness or lightheadedness when standing up</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a> or actually fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a> or actually fainting</li>
 <li>Blurred vision</li>
 <li>Nausea</li>
 <li>Fatigue</li>

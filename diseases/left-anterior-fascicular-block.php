@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Anterior Fascicular Block: Symptoms and Treatment" >
   <meta property="og:description" content="Left Anterior Fascicular Block affects the heart's electrical system. Know more about its symptoms, causes, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-anterior-fascicular-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-anterior-fascicular-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-anterior-fascicular-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-anterior-fascicular-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Anterior Fascicular Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-anterior-fascicular-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-anterior-fascicular-block"
       }]
     }
   </script>
@@ -167,19 +167,19 @@
 
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Left Anterior Fascicular Block</h2>
 <p>Left Anterior Fascicular Block (LAFB) is a conduction abnormality in the heart's electrical system that can affect how the heart beats. Recognizing the symptoms of LAFB is crucial for early detection and better outcomes. 
 
 <h3>Symptoms of Left Anterior Fascicular Block include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or fatigue</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 
 Early identification of these symptoms can lead to prompt medical evaluation and appropriate management, potentially reducing the risk of complications associated with LAFB. If you experience any of these symptoms, it is essential to consult a healthcare provider for further evaluation and guidance.</p>

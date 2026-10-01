@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pleuropericarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pleuropericarditis is inflammation of both the lung and heart lining. Know more about its symptoms, causes, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pleuropericarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pleuropericarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pleuropericarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pleuropericarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pleuropericarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pleuropericarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pleuropericarditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Pleuropericarditis</h1>
-<p>Pleuropericarditis is the inflammation of the pleura (lining around the lungs) and the pericardium (sac around the heart). This condition is significant as it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, and other discomforts. While not extremely common, it can occur in various conditions like infections or autoimmune diseases. Understanding its symptoms and seeking timely medical attention is crucial for proper management. If you experience chest pain or breathing difficulties, it's essential to consult a healthcare provider for an accurate diagnosis and appropriate treatment.</p>
+<p>Pleuropericarditis is the inflammation of the pleura (lining around the lungs) and the pericardium (sac around the heart). This condition is significant as it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, and other discomforts. While not extremely common, it can occur in various conditions like infections or autoimmune diseases. Understanding its symptoms and seeking timely medical attention is crucial for proper management. If you experience chest pain or breathing difficulties, it's essential to consult a healthcare provider for an accurate diagnosis and appropriate treatment.</p>
 <h2 id="causes">Causes of Pleuropericarditis</h2>
 <p><ul>
 <li>Viruses, bacteria, or fungi infecting the pericardium and pleura</li>
@@ -175,7 +175,7 @@
 
 <ul>
 <li>Chest pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fever</li>
 <li>Cough</li>
 <li>Fatigue</li>
@@ -186,7 +186,7 @@
 
 <ul>
 <li>Chest X-ray to assess for any abnormalities in the chest cavity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate the heart's structure and function.</li>
 <li>Blood tests to check for markers of inflammation or infection.</li>
 <li>CT scan or MRI for detailed imaging of the chest and heart.</li>
 </ul></p>
@@ -203,7 +203,7 @@
 <h3>Colchicine</h3>
 <ul>
 <li>Colchicine inhibits inflammatory processes.</li>
-<li>It helps prevent recurrent <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a> and pleuritis.</li>
+<li>It helps prevent recurrent <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a> and pleuritis.</li>
 <li>The main objective is to reduce recurrence rates.</li>
 <li>Treatment usually involves an initial loading dose followed by a maintenance phase.</li>
 </ul>

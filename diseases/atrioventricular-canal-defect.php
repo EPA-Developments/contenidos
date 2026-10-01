@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrioventricular Canal Defect: Symptoms & Treatment">
   <meta property="og:description" content="Atrioventricular Canal Defect affects heart chambers, causing circulation issues. Know its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-canal-defect">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-canal-defect">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-canal-defect" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-canal-defect" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrioventricular Canal Defect",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrioventricular-canal-defect"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrioventricular-canal-defect"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Atrioventricular Canal Defect (AVCD) is a congenital heart defect characterized by an abnormality in the heart's structure, particularly affecting the atrial and ventricular septa and the valves that control blood flow between the atria and ventricles.</p>
 <p>This defect is significant as it can lead to abnormal blood flow patterns, resulting in inadequate oxygenation of the body's tissues. AVCD is one of the most common congenital heart defects, accounting for about 7-10% of all congenital heart diseases.</p>
 <p>The impact of AVCD on health is substantial, affecting essential functions such as oxygenation of tissues, circulation, and overall cardiac performance.</p>
-<p>In the short term, untreated AVCD can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and poor growth in infants. Long-term risks include <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and an increased risk of infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>.</p>
+<p>In the short term, untreated AVCD can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and poor growth in infants. Long-term risks include <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart failure, and an increased risk of infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>.</p>
 <p>It is essential to note that AVCD can be asymptomatic in its early stages, emphasizing the importance of early detection and regular screenings to prevent complications and ensure timely intervention.</p>
 <h2 id="causes">Causes of Atrioventricular Canal Defect</h2>
 <p>Primary Causes of Atrioventricular Canal Defect</p>
@@ -194,20 +194,20 @@
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Shortness of Breath: As AVCD progresses, individuals may develop shortness of breath, especially during exertion, indicating worsening heart function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>: In severe cases, cyanosis or bluish discoloration of the skin and mucous membranes may occur, signaling inadequate oxygen levels in the blood.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>: In severe cases, cyanosis or bluish discoloration of the skin and mucous membranes may occur, signaling inadequate oxygen levels in the blood.</li>
 </ul>
 <h2>Diagnosis of Atrioventricular Canal Defect</h2>
 <p>Diagnostic Process for AVCD</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This non-invasive imaging test allows visualization of the heart's structure and function, helping identify abnormalities in the atrioventricular septum and valves characteristic of AVCD.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, detecting any irregularities in the heart rhythm or conduction, which can indicate the presence of AVCD.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure involving the insertion of a catheter into the heart to measure pressures and obtain detailed imaging, aiding in the diagnosis of structural defects like AVCD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This non-invasive imaging test allows visualization of the heart's structure and function, helping identify abnormalities in the atrioventricular septum and valves characteristic of AVCD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, detecting any irregularities in the heart rhythm or conduction, which can indicate the presence of AVCD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure involving the insertion of a catheter into the heart to measure pressures and obtain detailed imaging, aiding in the diagnosis of structural defects like AVCD.</li>
 <li>MRI or CT Scan: These imaging techniques provide detailed images of the heart's anatomy, allowing for a comprehensive assessment of AVCD and its impact on cardiac function.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Atrioventricular Canal Defect</h2>
 <ul>
 <li>Medications: Depending on the severity of symptoms, medications such as diuretics, ACE inhibitors, and beta-blockers may be prescribed to manage heart failure, control blood pressure, and improve cardiac function.</li>
-<li>Surgical Repair: For severe cases of AVCD, surgical intervention may be necessary to correct the structural abnormalities in the heart, including patch closure of the atrial and <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects">ventricular septal defects</a> and repair or replacement of the affected valves.</li>
+<li>Surgical Repair: For severe cases of AVCD, surgical intervention may be necessary to correct the structural abnormalities in the heart, including patch closure of the atrial and <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects">ventricular septal defects</a> and repair or replacement of the affected valves.</li>
 <li>Lifestyle Modifications: Adopting a heart-healthy lifestyle, including maintaining a balanced diet, regular exercise, and avoiding smoking and excessive alcohol consumption, can help improve overall cardiovascular health and reduce the risk of complications associated with AVCD.</li>
 </ul>
 <p>By understanding the causes, symptoms, diagnosis, and treatment options for AVCD, healthcare professionals can provide comprehensive care for individuals affected by this condition, promoting better heart health and quality of life.</p>

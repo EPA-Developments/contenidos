@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Frequent Urination at Night: Causes, Symptoms, and Management">
   <meta property="og:description" content="Experiencing frequent urination at night? Learn about causes, symptoms, treatment options, and when to seek help for managing this symptom.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/frequent-urination-at-night">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/frequent-urination-at-night">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/frequent-urination-at-night" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/frequent-urination-at-night" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Frequent Urination At Night",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/frequent-urination-at-night"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/frequent-urination-at-night"  
       }]
     }
   </script>

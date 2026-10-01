@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Reduced Energy: Causes, Treatment, and Management Tips">
   <meta property="og:description" content="Struggling with reduced energy? Learn about causes, treatment, and management options for reduced energy, from sleep problems to heart disease, including depression.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/reduced-energy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/reduced-energy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/reduced-energy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/reduced-energy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Reduced Energy",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/reduced-energy"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/reduced-energy"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Reduced Energy: Causes, Treatment, and Management Tips</h1>
-<p>Reduced energy, also known as low energy or fatigue, is a common condition characterized by a lack of physical or mental vitality. Individuals experiencing reduced energy often feel general <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, exhaustion, and a decreased ability to perform daily tasks.</p>
+<p>Reduced energy, also known as low energy or fatigue, is a common condition characterized by a lack of physical or mental vitality. Individuals experiencing reduced energy often feel general <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, exhaustion, and a decreased ability to perform daily tasks.</p>
 <p>This condition can significantly impact one's quality of life, making even simple activities challenging to complete.</p>
 <p>Reduced energy can manifest in various forms, ranging from mild tiredness to severe fatigue. Some individuals may experience a constant feeling of low energy, while others may notice fluctuations throughout the day.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/lack-of-stamina">lack of stamina</a> and energy deficiency are also common symptoms associated with reduced energy.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/lack-of-stamina">lack of stamina</a> and energy deficiency are also common symptoms associated with reduced energy.</p>
 <h2 id="forms">What are the Forms of Reduced energy?</h2>
 <p>There are several forms of reduced energy, each with its specific symptoms and related concepts:</p>
 <ul>
@@ -197,7 +197,7 @@
 <li>Exhaustion: Extreme fatigue that can be both physical and mental, leading to a complete lack of energy.</li>
 <li>Decreased vitality: Reduced overall energy levels and a sense of being drained or depleted.</li>
 <li>Lack of stamina: Difficulty sustaining physical or mental exertion over time due to low energy levels.</li>
-<li>Energy deficiency: Insufficient energy to carry out daily activities, resulting in fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">lethargy</a>.</li>
+<li>Energy deficiency: Insufficient energy to carry out daily activities, resulting in fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">lethargy</a>.</li>
 </ul>
 <h2 id="causes">What are the Causes of Reduced energy?</h2>
 <p>Reduced energy can have various underlying causes, including:</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Abdominal Swelling: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing abdominal swelling? Learn about causes, symptoms, and treatment options for managing abdominal swelling, including liver disease and fluid buildup.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/abdominal-swelling">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/abdominal-swelling">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/abdominal-swelling" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/abdominal-swelling" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Abdominal Swelling",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/abdominal-swelling"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/abdominal-swelling"  
       }]
     }
   </script>
@@ -235,7 +235,7 @@
 <p>While occasional abdominal swelling may not be a cause for concern, certain symptoms or signs indicate the need for medical attention.</p>
 <ul>
 <li>Persistent or severe abdominal swelling that does not improve with home remedies.</li>
-<li>Sudden onset of abdominal swelling accompanied by severe pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
+<li>Sudden onset of abdominal swelling accompanied by severe pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>.</li>
 <li>Changes in bowel habits, such as diarrhea or constipation, along with abdominal distension.</li>
 <li>Unexplained weight loss, fatigue, or loss of appetite in conjunction with abdominal swelling.</li>
 <li>Symptoms of jaundice, such as yellowing of the skin or eyes, along with abdominal distension.</li>

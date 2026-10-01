@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms and Treatment for Lack of Stamina" >
   <meta property="og:description" content="Lack of stamina could be a heart concern. Read more about its symptoms, causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/lack-of-stamina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/lack-of-stamina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/lack-of-stamina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/lack-of-stamina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lack Of Stamina",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/lack-of-stamina"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/lack-of-stamina"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Diagnosis, Symptoms and Treatment for Lack of Stamina</h1>
-<p>Lack of stamina, also known as low stamina or endurance issues, refers to the inability to sustain physical activity or exertion for extended periods. Individuals experiencing this condition often feel physical exhaustion, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and fatigue during activities that require stamina.</p>
+<p>Lack of stamina, also known as low stamina or endurance issues, refers to the inability to sustain physical activity or exertion for extended periods. Individuals experiencing this condition often feel physical exhaustion, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and fatigue during activities that require stamina.</p>
 <p>It can manifest as reduced physical capability, energy depletion, and an overall feeling of being unable to keep up with daily tasks or exercise routines.</p>
 <p>Symptoms of lack of stamina may include feeling tired quickly during physical activity, struggling to complete tasks that require endurance, and experiencing a general lack of energy throughout the day.</p>
 <p>This condition can impact a person's overall quality of life, making it difficult to engage in physical exercise, work, or even simple daily activities.</p>
@@ -233,8 +233,8 @@
 <p>It is essential to seek medical attention if you experience persistent lack of stamina that interferes with your daily activities, work performance, or exercise routine.</p>
 <ul>
 <li>Severe fatigue that does not improve with rest.</li>
-<li>Sudden onset of weakness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> during physical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during exertion.</li>
+<li>Sudden onset of weakness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> during physical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during exertion.</li>
 <li>Unexplained weight loss or changes in appetite.</li>
 <li>Chronic insomnia or sleep disturbances impacting energy levels.</li>
 </ul>

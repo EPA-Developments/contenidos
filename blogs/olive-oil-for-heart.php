@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olive Oil Benefits Heart: A Guide" />
     <meta property="og:description" content="Discover the heart-healthy advantages of olive oil. Learn how this Mediterranean staple can promote heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-heart"
         }
     ]
 }
@@ -144,7 +144,7 @@
 <p>Research suggests that the Mediterranean diet, rich in olive oil, fruits, vegetables, and whole grains, can significantly reduce the risk of heart diseases. The anti-inflammatory properties of olive oil, along with its high levels of antioxidants, play a vital role in protecting the heart and blood vessels from damage.</p>
 <ul>
 <li>Including olive oil in your diet as a part of the Mediterranean lifestyle can lower the incidence of heart diseases.</li>
-<li>Regular consumption of olive oil may help prevent the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart attacks.</li>
+<li>Regular consumption of olive oil may help prevent the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart attacks.</li>
 </ul>
 <h2 class="sec-scrl" id="mediterranean-diet">Is the Mediterranean Diet with Olive Oil the Key to Heart Health?</h2>
 <p>The Mediterranean diet, featuring olive oil as a primary source of healthy fats, has been associated with numerous health benefits, especially in terms of heart health. This diet emphasizes whole foods, lean proteins, and plant-based fats, making it a heart-healthy choice for individuals looking to improve their cardiovascular well-being.</p>

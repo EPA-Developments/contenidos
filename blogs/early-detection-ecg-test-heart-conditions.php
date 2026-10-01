@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Early Detection with ECG Test for Heart Conditions">
   <meta property="og:description" content="Learn how an ECG test can aid in early detection of heart conditions. Discover the importance of ECG testing for monitoring cardiac health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/early-detection-ecg-test-heart-conditions">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/early-detection-ecg-test-heart-conditions">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/early-detection-ecg-test-heart-conditions" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/early-detection-ecg-test-heart-conditions" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Early Detection With Ecg Test For Heart Conditions",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/early-detection-ecg-test-heart-conditions"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/early-detection-ecg-test-heart-conditions"  
       }]
     }
   </script>

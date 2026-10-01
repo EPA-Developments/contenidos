@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cherries for Heart Health: Inflammation Reduction" />
     <meta property="og:description" content="Explore how cherries can reduce inflammation and promote heart health effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherries-for-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherries-for-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherries-for-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherries-for-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherries For Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherries-for-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherries-for-inflammation"
         }
     ]
 }
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="blood-vessels">How Do Cherry Compounds Support Blood Vessel Health?</h2>
 <p>Anthocyanins, the pigments responsible for the vibrant red color of cherries, play a crucial role in maintaining the health of blood vessels. These compounds have been shown to improve endothelial function, the inner lining of blood vessels, by enhancing nitric oxide production.</p>
-<p>Nitric oxide helps in relaxing blood vessels, reducing blood pressure, and improving overall circulation. By supporting endothelial function, cherry compounds contribute to better cardiovascular health and may help in preventing conditions related to impaired blood vessel function, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Nitric oxide helps in relaxing blood vessels, reducing blood pressure, and improving overall circulation. By supporting endothelial function, cherry compounds contribute to better cardiovascular health and may help in preventing conditions related to impaired blood vessel function, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <h2 class="sec-scrl" id="oxidative-stress">Can Cherries Combat Oxidative Stress and Heart Disease?</h2>
 <p>Oxidative stress, caused by an imbalance between free radicals and antioxidants in the body, is a significant factor in the development of heart disease. Cherries, packed with antioxidants like vitamin C and E, help in neutralizing free radicals and reducing oxidative damage to cells.</p>
 <ul>

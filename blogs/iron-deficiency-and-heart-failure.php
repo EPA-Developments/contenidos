@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron Deficiency Impact on Heart Failure&quot;" />
     <meta property="og:description" content="Learn how iron deficiency impacts heart failure & daily life. Discover solutions for chronic fatigue & low energy. Iron supplementation key." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron Deficiency And Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-heart-failure"
         }
     ]
 }
@@ -138,17 +138,17 @@ Iron plays a crucial role in maintaining the body's overall health, including th
 
 Iron is essential for the production of hemoglobin, a protein in red blood cells that helps transport oxygen throughout the body. Inadequate iron levels can result in anemia, leading to reduced blood volume and, consequently, decreased oxygen delivery to tissues, including the heart. This can strain the heart, causing it to work harder to meet the body's oxygen demands, ultimately affecting cardiac output.
 
-Additionally, iron deficiency can impair the heart muscle's ability to contract effectively, further compromising its pumping efficiency. As a result, you may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue, which can significantly impact your daily activities.
+Additionally, iron deficiency can impair the heart muscle's ability to contract effectively, further compromising its pumping efficiency. As a result, you may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue, which can significantly impact your daily activities.
 
 <h2 class="sec-scrl" id="anemiasymptoms">What Are the Symptoms of Anemia Due to Iron Deficiency?</h2>
 
-Anemia resulting from iron deficiency can manifest in various ways, including chronic fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, pale skin, and shortness of breath. These symptoms can be particularly challenging for individuals with pre-existing heart conditions, as they may exacerbate the effects of heart failure. If you are experiencing persistent tiredness and reduced exercise tolerance, it is essential to consult your healthcare provider for proper evaluation and management.
+Anemia resulting from iron deficiency can manifest in various ways, including chronic fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, pale skin, and shortness of breath. These symptoms can be particularly challenging for individuals with pre-existing heart conditions, as they may exacerbate the effects of heart failure. If you are experiencing persistent tiredness and reduced exercise tolerance, it is essential to consult your healthcare provider for proper evaluation and management.
 
 In heart failure patients, identifying and addressing iron deficiency early is crucial to improving symptoms and overall heart function. Iron supplementation may be recommended to restore optimal iron levels and support the heart's ability to pump blood effectively.
 
 <h2 class="sec-scrl" id="ironsupplementation">The Role of Iron Supplementation in Managing Heart Failure</h2>
 
-Iron supplementation can play a vital role in managing heart failure patients with iron deficiency. By replenishing iron stores in the body, supplementation can help improve symptoms such as fatigue, weakness, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-intolerance">exercise intolerance</a>. This, in turn, can enhance the heart's pumping efficiency and overall function.
+Iron supplementation can play a vital role in managing heart failure patients with iron deficiency. By replenishing iron stores in the body, supplementation can help improve symptoms such as fatigue, weakness, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/exercise-intolerance">exercise intolerance</a>. This, in turn, can enhance the heart's pumping efficiency and overall function.
 
 It is essential to work closely with your healthcare provider to determine the appropriate dosage and duration of iron supplementation based on your individual needs. Monitoring iron levels regularly and adjusting treatment as necessary can help optimize the benefits of supplementation and improve your quality of life.
 

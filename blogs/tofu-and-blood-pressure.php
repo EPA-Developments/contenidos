@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Tofu for Lowering Blood Pressure&quot;" />
     <meta property="og:description" content="Learn how tofu can naturally lower blood pressure and improve your heart health. Discover the benefits of incorporating tofu into your diet today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tofu And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tofu-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Tofu for Blood Pressure Control</h1>
-<p>Are you looking for a natural way to manage your blood pressure without relying solely on medications? Have you considered the impact of incorporating tofu into your diet on your blood pressure levels? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly affect your daily life, leading to complications and limiting your activities. Understanding how tofu, a plant-based source of nutrients, can potentially help lower blood pressure naturally may provide you with an effective strategy to improve your health.</p>
+<p>Are you looking for a natural way to manage your blood pressure without relying solely on medications? Have you considered the impact of incorporating tofu into your diet on your blood pressure levels? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly affect your daily life, leading to complications and limiting your activities. Understanding how tofu, a plant-based source of nutrients, can potentially help lower blood pressure naturally may provide you with an effective strategy to improve your health.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">How Does Tofu Contribute to Blood Pressure Control?</h2>
 <p>Tofu, a popular soy product, is rich in proteins, vitamins, and minerals that play a crucial role in maintaining overall health. Here's how tofu can help in managing blood pressure:</p>
 <ul>

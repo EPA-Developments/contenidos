@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="An aortic aneurysm is an abnormal bulge in the aorta. Know more about its symptoms, causes, and treatment methods for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm"
       }]
     }
   </script>
@@ -166,8 +166,8 @@
 <p>Aortic aneurysms can develop due to various factors, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (build-up of plaque in the arteries)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (build-up of plaque in the arteries)</li>
 <li>Family history of aneurysms</li>
 <li>Smoking</li>
 <li>Advancing age</li>
@@ -176,13 +176,13 @@
 <p>Recognizing the symptoms of an Aortic Aneurysm is crucial as early detection can significantly improve outcomes. Symptoms may not always be obvious, making awareness vital. Some key symptoms to watch for include:
 
 <ul>
-<li>Chest or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Chest or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Difficulty swallowing</li>
 <li>Hoarseness</li>
 <li>Pulsating lump in the abdomen</li>
 <li>Rapid heart rate</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
 <li>Sweating</li>
 </ul>
 

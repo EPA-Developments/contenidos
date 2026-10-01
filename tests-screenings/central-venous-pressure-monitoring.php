@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Central Venous Pressure Monitoring: Costs and Purpose" property="og:title"/>
 <meta content="Central venous pressure monitoring checks heart function and blood flow. Know more about its purpose, costs, and normal Range for accurate results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/central-venous-pressure-monitoring" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/central-venous-pressure-monitoring" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/central-venous-pressure-monitoring" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/central-venous-pressure-monitoring" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Central Venous Pressure Monitoring",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/central-venous-pressure-monitoring"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/central-venous-pressure-monitoring"  
       }]
     }
   </script>
@@ -185,7 +185,7 @@
 <p>CVP monitoring is a valuable tool for ensuring patient safety and optimizing outcomes in intensive care units.</p>
 <p>The use of CVP monitoring for heart failure management is crucial in assessing the severity of heart failure, guiding treatment strategies, and monitoring response to therapy.</p>
 <p>By monitoring central venous pressure levels, healthcare providers can make informed decisions to improve patient outcomes and quality of life.</p>
-<p>Central venous pressure monitoring for evaluating right heart function is essential in diagnosing conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart valve disorders, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure">right heart failure</a>.</p>
+<p>Central venous pressure monitoring for evaluating right heart function is essential in diagnosing conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, heart valve disorders, and <a href="https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure">right heart failure</a>.</p>
 <p>By measuring CVP levels, healthcare providers can assess the function of the right side of the heart and tailor treatment plans to address specific cardiac issues.</p>
 <h2 id="purpose">What is the Purpose of Performing a Central Venous Pressure Monitoring Test?</h2>
 <p>The primary purpose of performing a Central Venous Pressure Monitoring test is to assess the hemodynamic status of a patient and provide valuable information about cardiac function, fluid balance, and right heart function.</p>
@@ -198,7 +198,7 @@
 <li>Guiding treatment decisions for heart failure</li>
 <li>Optimizing outcomes in intensive care settings</li>
 </ul>
-<p>Scenarios where a Central Venous Pressure Monitoring test may be necessary include patients with septic shock, acute respiratory distress syndrome, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a>, and those requiring vasopressor therapy.</p>
+<p>Scenarios where a Central Venous Pressure Monitoring test may be necessary include patients with septic shock, acute respiratory distress syndrome, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a>, and those requiring vasopressor therapy.</p>
 <h2 id="costs">What are the Costs of Central Venous Pressure Monitoring Tests in Americas?</h2>
 <p>The costs of Central Venous Pressure Monitoring tests in Americas can vary depending on the healthcare facility, location, and specific requirements of the test.</p>
 <p>Generally, the price ranges for CVP monitoring tests in Americas can range from U$S 2000 to U$S 5000.</p>
@@ -221,10 +221,10 @@
 <li>Fluid overload</li>
 <li>Right heart failure</li>
 <li>Pulmonary hypertension</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-tamponade">cardiac tamponade</a></li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-tamponade">cardiac tamponade</a></li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a></li>
 </ul>
-<p>Risks associated with high Central Venous Pressure Monitoring levels include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/pulmonary-edema">pulmonary edema</a>, decreased cardiac output, and increased risk of cardiovascular events. Healthcare providers should carefully monitor patients with high CVP levels and intervene promptly to prevent complications.</p>
+<p>Risks associated with high Central Venous Pressure Monitoring levels include <a href="https://contenidos.segundaopinionmedica.org/symptoms/pulmonary-edema">pulmonary edema</a>, decreased cardiac output, and increased risk of cardiovascular events. Healthcare providers should carefully monitor patients with high CVP levels and intervene promptly to prevent complications.</p>
 <p>Possible implications of high CVP levels include the need for diuretic therapy, vasodilators, inotropic support, or other interventions to reduce fluid overload, improve cardiac function, and optimize hemodynamic status.</p>
 <h2>What Do Low Central Venous Pressure Monitoring Levels Indicate?</h2>
 <p>Low Central Venous Pressure Monitoring levels indicate a decreased pressure in the central veins, which can be a sign of hypovolemia, dehydration, hemorrhage, or other conditions affecting fluid balance.</p>

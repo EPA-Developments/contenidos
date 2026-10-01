@@ -10,12 +10,12 @@
     <meta property="og:title" content="Green Tea's Effect on Cholesterol Levels" />
     <meta property="og:description" content="Discover how green tea impacts cholesterol levels & promotes heart health. Learn more about LDL reduction & HDL increase." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/green-tea-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/green-tea-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Green Tea Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/green-tea-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/green-tea-cholesterol"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <p>Not only does green tea help lower LDL cholesterol, but it may also have a positive impact on HDL cholesterol levels. HDL cholesterol is often referred to as "good" cholesterol because it helps remove LDL cholesterol from the arteries, reducing the risk of plaque buildup and heart disease. Studies suggest that the catechins in green tea may help increase the levels of HDL cholesterol in the body, further supporting heart health.</p>
 <p>By incorporating green tea into your daily routine, you may be able to achieve a more favorable balance of LDL and HDL cholesterol, reducing your overall risk of cardiovascular disease.</p>
 <h2 class="sec-scrl" id="Heart Disease Prevention">Is Green Tea Effective in Preventing Heart Disease?</h2>
-<p>Green tea's impact on cholesterol levels plays a crucial role in preventing heart disease. By lowering LDL cholesterol and increasing HDL cholesterol, green tea helps maintain a healthy lipid profile, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart attacks. The beneficial effects of green tea on cholesterol levels, coupled with its anti-inflammatory and antioxidant properties, make it a powerful ally in heart disease prevention.</p>
+<p>Green tea's impact on cholesterol levels plays a crucial role in preventing heart disease. By lowering LDL cholesterol and increasing HDL cholesterol, green tea helps maintain a healthy lipid profile, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart attacks. The beneficial effects of green tea on cholesterol levels, coupled with its anti-inflammatory and antioxidant properties, make it a powerful ally in heart disease prevention.</p>
 <ul>
 <li>Regular consumption of green tea may help reduce the risk of developing heart disease.</li>
 <li>The antioxidants in green tea protect the heart from oxidative stress and inflammation.</li>

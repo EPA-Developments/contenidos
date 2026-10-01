@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Exercise Fatigue: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Excessive fatigue during exercise can signal heart problems. Read more to know about the causes, diagnosis, and treatment options to stay active and healthy." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-fatigue">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/exercise-fatigue">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/exercise-fatigue" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/exercise-fatigue" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Exercise Fatigue",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/exercise-fatigue"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/exercise-fatigue"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Exercise Fatigue: Causes, Symptoms, and Diagnosis</h1>
-<p>Exercise fatigue, also known as post-exercise fatigue, is a common condition characterized by feelings of tiredness, exhaustion, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> after physical activity.</p>
+<p>Exercise fatigue, also known as post-exercise fatigue, is a common condition characterized by feelings of tiredness, exhaustion, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> after physical activity.</p>
 <p>This fatigue can range from mild tiredness to severe exhaustion, impacting an individual's ability to perform daily tasks or continue exercising.</p>
 <p>Post-workout exhaustion is a normal response to physical exertion, but when it becomes excessive or persistent, it may indicate an underlying issue.</p>
 <p>Fatigue from physical activity can manifest as exertion fatigue, exercise-related tiredness, or physical fatigue, affecting individuals of all fitness levels. It is crucial to differentiate between normal post-exercise tiredness and excessive fatigue that may signal an underlying health problem.</p>
@@ -227,7 +227,7 @@
 <h2>When to Visit a Doctor?</h2>
 <p>While mild tiredness after exercise is normal, individuals should seek medical attention if they experience persistent or severe exercise fatigue that interferes with daily activities or does not improve with rest.</p>
 <p>Certain symptoms or warning signs may indicate a more serious underlying health issue requiring prompt medical evaluation.</p>
-<p>Individuals should consult a healthcare provider if they experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, or unexplained weight loss in conjunction with exercise fatigue.</p>
+<p>Individuals should consult a healthcare provider if they experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, or unexplained weight loss in conjunction with exercise fatigue.</p>
 <p>These symptoms may suggest a potential heart condition, thyroid disorder, or other medical issue that requires immediate attention.</p>
 <p>It is essential to prioritize health and well-being by seeking medical advice when experiencing concerning symptoms or changes in exercise fatigue patterns. Early detection and intervention can help prevent complications and improve overall outcomes.</p>
 <h2>Home Remedies for Exercise fatigue</h2>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arterial Tortuosity Syndrome: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Arterial Tortuosity Syndrome twists arteries, affecting blood flow. Read more about the symptoms, causes, and available treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arterial-tortuosity-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arterial-tortuosity-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arterial-tortuosity-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arterial-tortuosity-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Arterial Tortuosity Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arterial-tortuosity-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arterial-tortuosity-syndrome"
       }]
     }
   </script>
@@ -184,7 +184,7 @@
 <p>Additionally, secondary risk factors or lifestyle contributors can exacerbate the development and progression of ATS.</p>
 <ul>
 <li>Smoking: Tobacco use can further damage arterial walls and worsen the tortuosity of arteries.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the arteries, potentially worsening their tortuous nature.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the arteries, potentially worsening their tortuous nature.</li>
 <li>Sedentary Lifestyle: Lack of physical activity can contribute to poor cardiovascular health, potentially exacerbating ATS symptoms.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Arterial Tortuosity Syndrome</h2>
@@ -192,11 +192,11 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue: Individuals with ATS may experience fatigue due to reduced blood flow efficiency, impacting daily activities and energy levels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort may be a common early symptom of ATS, often misunderstood or overlooked as a sign of other conditions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort may be a common early symptom of ATS, often misunderstood or overlooked as a sign of other conditions.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Severe arterial tortuosity can lead to breathing difficulties, affecting both physical and emotional health.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Severe arterial tortuosity can lead to breathing difficulties, affecting both physical and emotional health.</li>
 <li>Cardiac Arrhythmias: Irregular heart rhythms may develop in advanced stages of ATS, posing significant health risks if left untreated.</li>
 </ul>
 <h2>Diagnosis of Arterial Tortuosity Syndrome</h2>
@@ -204,7 +204,7 @@
 <ul>
 <li>Genetic Testing: Genetic testing can identify specific mutations associated with ATS, aiding in confirming a genetic basis for the syndrome.</li>
 <li>Imaging Studies: Imaging techniques like MRI or CT scans can visualize the tortuous nature of the arteries, helping in the diagnosis and assessment of ATS.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Echocardiograms can provide detailed information on the structure and function of the heart and arteries, aiding in the detection of arterial abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Echocardiograms can provide detailed information on the structure and function of the heart and arteries, aiding in the detection of arterial abnormalities.</li>
 <li>Angiography: Angiographic procedures involve injecting contrast dye into the arteries to visualize their structure and identify any abnormalities contributing to ATS.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Arterial Tortuosity Syndrome</h2>

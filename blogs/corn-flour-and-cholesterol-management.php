@@ -10,12 +10,12 @@
     <meta property="og:title" content="Corn Flour for Cholesterol Control" />
     <meta property="og:description" content="Learn how corn flour aids in managing cholesterol levels effectively. Discover the benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-and-cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/corn-flour-and-cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-and-cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/corn-flour-and-cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Corn Flour And Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-and-cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/corn-flour-and-cholesterol-management"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Fiber plays a crucial role in managing cholesterol levels. Corn flour is a good source of dietary fiber, which can help lower cholesterol levels by binding to bile acids in the gut and aiding in their excretion. This process reduces the amount of cholesterol reabsorbed into the bloodstream, leading to improved heart health.</p>
 <p>Including corn flour in your diet can increase your fiber intake, promoting satiety and reducing the absorption of cholesterol from other foods. By incorporating corn flour into your recipes, you can boost your fiber consumption and support healthy cholesterol levels.</p>
 <h2 class="sec-scrl" id="Heart disease risk">Reducing Heart Disease Risk</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. By using corn flour as a cholesterol-friendly alternative in your meals, you can help reduce this risk. The nutrients in corn flour, such as magnesium and potassium, play a role in maintaining heart health and regulating blood pressure.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. By using corn flour as a cholesterol-friendly alternative in your meals, you can help reduce this risk. The nutrients in corn flour, such as magnesium and potassium, play a role in maintaining heart health and regulating blood pressure.</p>
 <ul>
 <li>Choose corn flour for baking and cooking to lower your intake of cholesterol-raising ingredients.</li>
 <li>Pair corn flour with heart-healthy foods like fruits, vegetables, and lean proteins for a well-rounded diet.</li>

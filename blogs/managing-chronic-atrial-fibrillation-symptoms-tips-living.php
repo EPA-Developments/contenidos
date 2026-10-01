@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Managing Chronic Atrial Fibrillation Symptoms: Tips for Living with AFib">
   <meta property="og:description" content="Learn how to effectively manage the symptoms of Chronic Atrial Fibrillation with practical tips and strategies. Find relief and improve your quality of life.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Managing Chronic Atrial Fibrillation Symptoms: Tips For Living With Afib",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-atrial-fibrillation-symptoms-tips-living"  
       }]
     }
   </script>

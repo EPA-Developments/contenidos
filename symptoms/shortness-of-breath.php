@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Shortness of Breath: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Shortness of breath can occur due to heart-related conditions. Know more about the causes, diagnosis and treatments of this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Shortness Of Breath",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath"  
       }]
     }
   </script>
@@ -166,16 +166,16 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Shortness of Breath: Causes, Symptoms, and Forms</h1>
-<p>Shortness of breath, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a common symptom that many people experience at some point in their lives.</p>
+<p>Shortness of breath, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a common symptom that many people experience at some point in their lives.</p>
 <p>It is characterized by a feeling of not being able to get enough air into the lungs, leading to a sensation of suffocation or discomfort.</p>
-<p>Symptoms of shortness of breath may vary from person to person but often include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, shallow breathing, and a feeling of tightness in the chest.</p>
-<p>Individuals with shortness of breath may also experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, or an inability to catch their breath, especially during physical exertion.</p>
+<p>Symptoms of shortness of breath may vary from person to person but often include <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, shallow breathing, and a feeling of tightness in the chest.</p>
+<p>Individuals with shortness of breath may also experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, or an inability to catch their breath, especially during physical exertion.</p>
 <p>Shortness of breath can be a temporary and harmless occurrence, such as during intense exercise or high altitude. However, persistent or chronic shortness of breath can be a sign of an underlying medical condition that requires attention.</p>
 <h2 id="forms">What are the Forms of Shortness of Breath?</h2>
 <p>There are various forms of shortness of breath, each with its specific set of symptoms and related concepts.</p>
 <ul>
 <li>Anxiety shortness of breath - Shortness of breath can be a common symptom of anxiety or panic attacks, where individuals may feel like they can't catch their breath even though there is no physical obstruction.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> at night - Some people may experience shortness of breath primarily at night, which can be related to conditions such as sleep apnea or heart failure.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> at night - Some people may experience shortness of breath primarily at night, which can be related to conditions such as sleep apnea or heart failure.</li>
 <li>Exertion breathlessness - This form occurs during physical activity or exertion and may indicate poor cardiovascular health or lung function.</li>
 <li>Chronic shortness of breath - Individuals with chronic conditions like asthma, COPD, or heart disease may experience ongoing shortness of breath as a result of their underlying health issues.</li>
 </ul>
@@ -195,7 +195,7 @@
 <li>Pulmonary function tests to measure lung capacity and airflow.</li>
 <li>Imaging tests such as chest X-rays, CT scans, or MRI to identify any structural abnormalities.</li>
 <li>Blood tests to check for signs of infection, inflammation, or underlying medical conditions.</li>
-<li>Cardiac tests like ECG, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, or stress tests to evaluate heart function and blood flow.</li>
+<li>Cardiac tests like ECG, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, or stress tests to evaluate heart function and blood flow.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Shortness of Breath?</h2>
 <p>Treatment for shortness of breath depends on the underlying cause and may involve a combination of medical, lifestyle, and advanced approaches.</p>
@@ -204,12 +204,12 @@
 <li>Oxygen therapy to improve oxygen levels in the blood and alleviate breathing difficulties.</li>
 <li>Pulmonary rehabilitation programs to help improve lung function and endurance through exercise and education.</li>
 <li>Lifestyle changes such as quitting smoking, maintaining a healthy weight, or avoiding triggers that worsen shortness of breath.</li>
-<li>Surgical interventions like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, stent placement, or lung transplant for severe cases that do not respond to other treatments.</li>
+<li>Surgical interventions like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, stent placement, or lung transplant for severe cases that do not respond to other treatments.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>While occasional shortness of breath may not be cause for concern, certain symptoms or stages warrant immediate medical attention.</p>
 <ul>
-<li>Sudden onset of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a> without an obvious cause.</li>
+<li>Sudden onset of <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a> without an obvious cause.</li>
 <li>Chest pain, dizziness, fainting, or confusion along with breathing difficulties.</li>
 <li>Persistent cough, wheezing, or coughing up blood in addition to shortness of breath.</li>
 <li>Shortness of breath that worsens with exertion or does not improve with rest.</li>

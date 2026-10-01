@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="St Elevation in Cardiology: Symptoms, Causes, Treatment">
   <meta property="og:description" content="ST elevation is a finding on an electrocardiogram that indicates an abnormally elevated ST segment. Know more about its symptoms, causes, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/st-elevation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/st-elevation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/st-elevation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/st-elevation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "St Elevation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/st-elevation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/st-elevation"
       }]
     }
   </script>
@@ -166,19 +166,19 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of St Elevation in Cardiology</h1>
-<p>St Elevation, also known as ST segment elevation, is a crucial electrocardiographic finding indicating potential myocardial injury or <a href="https://plataforma.epa-bienestar.com.ar/diseases/infarction">infarction</a>. It is a significant marker used in diagnosing various cardiac conditions.</p>
-<p>The prevalence of St Elevation varies depending on the underlying cause but is commonly associated with acute coronary syndromes like <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>.</p>
+<p>St Elevation, also known as ST segment elevation, is a crucial electrocardiographic finding indicating potential myocardial injury or <a href="https://contenidos.segundaopinionmedica.org/diseases/infarction">infarction</a>. It is a significant marker used in diagnosing various cardiac conditions.</p>
+<p>The prevalence of St Elevation varies depending on the underlying cause but is commonly associated with acute coronary syndromes like <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>.</p>
 <p>The impact of St Elevation on health is profound, as it reflects the disruption in the electrical activity of the heart muscle, leading to compromised cardiac function.</p>
 <p>The essential functions affected by St Elevation include the proper contraction and relaxation of the heart muscle, which are essential for maintaining normal blood flow and oxygen delivery to the body's tissues.</p>
-<p>In the short term, untreated St Elevation can progress to a complete blockage of blood flow to the heart muscle, resulting in a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Long-term risks include heart failure, arrhythmias, and even sudden cardiac death if left unaddressed.</p>
+<p>In the short term, untreated St Elevation can progress to a complete blockage of blood flow to the heart muscle, resulting in a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Long-term risks include heart failure, arrhythmias, and even sudden cardiac death if left unaddressed.</p>
 <p>In the early stages, St Elevation may be asymptomatic, making it challenging to detect without proper screening. Therefore, early detection through regular electrocardiograms and screenings is crucial to prevent complications and initiate timely interventions.</p>
 <h2 id="causes">Causes of St Elevation</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li>Acute Myocardial Infarction (AMI): AMI is a leading cause of St Elevation, characterized by the sudden blockage of a coronary artery, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-ischemia">myocardial ischemia</a> and subsequent injury.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a>: Inflammation of the pericardium can result in St Elevation due to the involvement of the outer layer of the heart.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/prinzmetal-angina">prinzmetal angina</a>: A type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> caused by coronary artery vasospasm, leading to transient St Elevation.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-aneurysm">ventricular aneurysm</a>: Structural abnormalities in the heart, such as ventricular aneurysms, can cause persistent St Elevation.</li>
+<li>Acute Myocardial Infarction (AMI): AMI is a leading cause of St Elevation, characterized by the sudden blockage of a coronary artery, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-ischemia">myocardial ischemia</a> and subsequent injury.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a>: Inflammation of the pericardium can result in St Elevation due to the involvement of the outer layer of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/prinzmetal-angina">prinzmetal angina</a>: A type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> caused by coronary artery vasospasm, leading to transient St Elevation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-aneurysm">ventricular aneurysm</a>: Structural abnormalities in the heart, such as ventricular aneurysms, can cause persistent St Elevation.</li>
 </ul>
 <h3>Secondary Causes:</h3>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Idiopathic Dilated Cardiomyopathy: Causes and Treatment" >
   <meta property="og:description" content="Iidiopathic dilated cardiomyopathy weakens the heart muscle. Know more about its causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-dilated-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/idiopathic-dilated-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-dilated-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/idiopathic-dilated-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Idiopathic Dilated Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-dilated-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/idiopathic-dilated-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Idiopathic Dilated Cardiomyopathy</h1>
-<p>Idiopathic Dilated Cardiomyopathy is a condition where the heart's main pumping chamber becomes enlarged and weakened without a clear cause. This can lead to heart failure and other serious complications. It affects people of all ages and is a significant cause of heart failure, often requiring medical intervention like medications, lifestyle changes, or even <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> in severe cases. While the exact prevalence is unknown, it is estimated to affect around 1 in 250 people. Early detection and management are crucial for improving outcomes and quality of life.</p>
+<p>Idiopathic Dilated Cardiomyopathy is a condition where the heart's main pumping chamber becomes enlarged and weakened without a clear cause. This can lead to heart failure and other serious complications. It affects people of all ages and is a significant cause of heart failure, often requiring medical intervention like medications, lifestyle changes, or even <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> in severe cases. While the exact prevalence is unknown, it is estimated to affect around 1 in 250 people. Early detection and management are crucial for improving outcomes and quality of life.</p>
 <h2 id="causes">Causes of Idiopathic Dilated Cardiomyopathy</h2>
 <p>Idiopathic Dilated Cardiomyopathy, a condition where the heart's main pumping chamber becomes enlarged and weakened, can develop due to various factors. These can include:
 
@@ -178,11 +178,11 @@ Understanding these factors can help in managing and treating this condition eff
 <p>Recognizing the symptoms of Idiopathic Dilated Cardiomyopathy early is crucial for better outcomes. This condition weakens the heart muscle, affecting its ability to pump blood efficiently. Symptoms to watch for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during activity or when lying flat</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during activity or when lying flat</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Swelling in the legs, ankles, feet, or abdomen</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, or fainting</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, or fainting</li>
 <li>Unexplained weight gain</li>
 </ul> 
 
@@ -191,8 +191,8 @@ If you experience these symptoms, seeking prompt medical attention is vital for 
 <p>Diagnosing Idiopathic Dilated Cardiomyopathy is crucial for timely intervention and management. Accurate diagnosis helps determine the most effective treatment plan and improves patient outcomes. The diagnostic process typically involves a combination of tests to assess heart function and rule out other conditions. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>
 <li>Blood tests to check for biomarkers indicating heart damage</li>
 <li>Cardiac catheterization to measure pressure and assess blood flow in the heart</li>

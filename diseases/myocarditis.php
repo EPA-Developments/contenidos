@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myocarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Myocarditis is inflammation of the heart muscle. Know more about its causes, symptoms, and treatment for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Myocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myocarditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Myocarditis</h1>
-<p>Myocarditis is an inflammation of the heart muscle that can affect people of all ages. It is a significant condition as it can weaken the heart, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. While it can occur at any age, it is most common in young adults. Myocarditis can be caused by viral infections, autoimmune diseases, or certain medications. It's essential to seek medical attention if you experience symptoms to prevent complications and receive appropriate treatment.</p>
+<p>Myocarditis is an inflammation of the heart muscle that can affect people of all ages. It is a significant condition as it can weaken the heart, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. While it can occur at any age, it is most common in young adults. Myocarditis can be caused by viral infections, autoimmune diseases, or certain medications. It's essential to seek medical attention if you experience symptoms to prevent complications and receive appropriate treatment.</p>
 <h2 id="causes">Causes of Myocarditis</h2>
 <p>Myocarditis, inflammation of the heart muscle, can be caused by various factors. Here are the main contributors to its development: 
 
@@ -180,7 +180,7 @@
 <li>Shortness of breath</li>
 <li>Fatigue</li>
 <li>Swelling in the legs, ankles, or feet</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fever</li>
 <li>Joint pain</li>
 <li>Flu-like symptoms</li>
@@ -191,8 +191,8 @@
 <ul>
 <li>Physical exam and medical history review</li>
 <li>Blood tests to check for inflammation and cardiac enzymes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Cardiac MRI or CT scan for detailed imaging of the heart</li>
 <li>Endomyocardial biopsy to confirm inflammation in the heart muscle</li>
 </ul></p>

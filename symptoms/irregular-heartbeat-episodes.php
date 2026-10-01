@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Symptoms and Causes of Irregular Heartbeat Episodes" >
   <meta property="og:description" content="Irregular heartbeat episodes can signal heart issues. Read more about symptoms, diagnosis, and treatment for this condition for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat-episodes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat-episodes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat-episodes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat-episodes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Irregular Heartbeat Episodes",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat-episodes"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat-episodes"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Diagnosis and Causes of Irregular Heartbeat Episodes</h1>
-<p>Irregular heartbeat episodes, also known as arrhythmia, refer to abnormal heart rhythms that can manifest as a variety of symptoms. These episodes can include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, heart racing, fluttering sensations, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, or a feeling of a pounding heart.</p>
+<p>Irregular heartbeat episodes, also known as arrhythmia, refer to abnormal heart rhythms that can manifest as a variety of symptoms. These episodes can include <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, heart racing, fluttering sensations, <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, or a feeling of a pounding heart.</p>
 <p>Arrhythmic heartbeats can occur due to disruptions in the heart's electrical system, leading to irregular heart rhythms.</p>
 <p>Arrhythmias can range from harmless to potentially life-threatening conditions. Some individuals may experience occasional irregular heartbeats with no underlying health issues, while others may have chronic arrhythmias that require medical intervention.</p>
 <p>It is essential to understand the symptoms and forms of irregular heartbeat episodes to effectively manage and treat the condition.</p>
@@ -194,15 +194,15 @@
 <p>There are several forms of irregular heartbeat episodes, each with unique symptoms and implications.</p>
 <ul>
 <li>Heart rhythm irregularities: These irregularities can manifest as a racing heart, slow heart rate, skipped beats, or fluttering sensations.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> episodes: Palpitations are the sensation of a rapid, fluttering, or pounding heart that can be felt in the chest, throat, or neck.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> episodes: Palpitations are the sensation of a rapid, fluttering, or pounding heart that can be felt in the chest, throat, or neck.</li>
 <li>Irregular heart rhythms: These rhythms can be erratic, fast, slow, or irregular, affecting the heart's ability to pump blood effectively.</li>
-<li>Heartbeat disturbances: Disturbances in the heart's electrical system can lead to abnormal heart rhythms, causing symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li>Heartbeat disturbances: Disturbances in the heart's electrical system can lead to abnormal heart rhythms, causing symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 </ul>
 <h2 id="causes">What are the Causes of Irregular heartbeat episodes?</h2>
 <p>Irregular heartbeat episodes can be caused by various factors, including:</p>
 <ul>
-<li>Heart disease: Conditions such as coronary artery disease, heart valve disorders, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> can disrupt the heart's electrical system.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can strain the heart and lead to arrhythmias.</li>
+<li>Heart disease: Conditions such as coronary artery disease, heart valve disorders, or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> can disrupt the heart's electrical system.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can strain the heart and lead to arrhythmias.</li>
 <li>Thyroid disorders: Hyperthyroidism or hypothyroidism can affect the heart's function and rhythm.</li>
 <li>Medications: Certain medications, such as beta-blockers, can cause arrhythmias as a side effect.</li>
 <li>Stress and anxiety: Emotional stress or anxiety can trigger irregular heart rhythms in some individuals.</li>

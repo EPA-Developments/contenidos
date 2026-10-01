@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="ST-segment Elevation Myocardial Infarction: Treatment" >
   <meta property="og:description" content="A STEMI is a life-threatening heart attack that occurs when a coronary artery is completely blocked. Know more about its symptoms, causes, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/stemi-heart-attack">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/stemi-heart-attack">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/stemi-heart-attack" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/stemi-heart-attack" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stemi Heart Attack",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/stemi-heart-attack"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/stemi-heart-attack"
       }]
     }
   </script>
@@ -166,20 +166,20 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment for ST-segment Elevation Myocardial Infarction</h1>
-<p>A ST-elevation <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (STEMI) is a severe type of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> that occurs when a coronary artery becomes completely blocked, leading to a significant portion of the heart muscle being deprived of oxygen-rich blood.</p>
+<p>A ST-elevation <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (STEMI) is a severe type of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> that occurs when a coronary artery becomes completely blocked, leading to a significant portion of the heart muscle being deprived of oxygen-rich blood.</p>
 <p>This condition is a medical emergency and requires immediate intervention to prevent irreversible damage to the heart muscle and potential fatality.</p>
 <p>STEMI heart attacks are prevalent globally and have a significant impact on health due to their potential to cause severe complications, including heart failure, arrhythmias, and even sudden cardiac death.</p>
-<p>In the short term, untreated STEMI heart attacks can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a>, where the heart's pumping function is severely compromised, resulting in inadequate blood flow to vital organs. This can cause organ damage and failure.</p>
+<p>In the short term, untreated STEMI heart attacks can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a>, where the heart's pumping function is severely compromised, resulting in inadequate blood flow to vital organs. This can cause organ damage and failure.</p>
 <p>In the long term, individuals who have experienced a STEMI heart attack are at a higher risk of developing complications such as recurrent heart attacks, heart failure, and decreased quality of life.</p>
 <p>One of the challenges with STEMI heart attacks is their asymptomatic nature in the early stages, where individuals may not experience noticeable symptoms until the condition has progressed significantly.</p>
-<p>This highlights the importance of early detection through regular screenings, especially in individuals with risk factors such as smoking, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, and a family history of heart disease.</p>
+<p>This highlights the importance of early detection through regular screenings, especially in individuals with risk factors such as smoking, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, and a family history of heart disease.</p>
 <h2 id="causes">Causes of Stemi Heart Attack</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis is a major cause of STEMI heart attacks, involving the buildup of plaque within the coronary arteries. Over time, this plaque can rupture, leading to the formation of a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> that blocks blood flow to the heart muscle.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm">coronary artery spasm</a>: Coronary artery spasms can restrict blood flow to the heart, triggering a STEMI heart attack. These spasms are often related to underlying conditions such as drug use or emotional stress.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis is a major cause of STEMI heart attacks, involving the buildup of plaque within the coronary arteries. Over time, this plaque can rupture, leading to the formation of a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> that blocks blood flow to the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm">coronary artery spasm</a>: Coronary artery spasms can restrict blood flow to the heart, triggering a STEMI heart attack. These spasms are often related to underlying conditions such as drug use or emotional stress.</li>
 <li>Coronary Artery Dissection: In rare cases, a tear in the inner layer of the coronary artery can lead to a STEMI heart attack by disrupting blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-embolism">coronary embolism</a>: Coronary embolisms occur when a blood clot or other material travels through the bloodstream and lodges in a coronary artery, obstructing blood flow to the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-embolism">coronary embolism</a>: Coronary embolisms occur when a blood clot or other material travels through the bloodstream and lodges in a coronary artery, obstructing blood flow to the heart.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>

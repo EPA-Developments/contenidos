@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of High Glucose on Arteries" />
     <meta property="og:description" content="Discover how high glucose levels impact arterial health & increase cardiovascular risks. Learn more about blood sugar damage & atherosclerosis." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-arterial-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-arterial-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-arterial-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-arterial-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glucose And Arterial Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-arterial-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glucose-and-arterial-health"
         }
     ]
 }
@@ -131,16 +131,16 @@
               <h1>The Impact of Glucose on Arterial Health</h1>
 <p>Are you worried about how your blood sugar levels may be affecting your arteries? High glucose levels can have a significant impact on your arterial health, potentially leading to serious cardiovascular risks. Do you find yourself wondering how this could be affecting your daily activities and overall well-being?</p>
 <h2 class="sec-scrl" id="blood-sugar-damage">The Effects of High Glucose Levels on Arterial Health</h2>
-<p>When your blood sugar levels are consistently elevated, it can lead to damage to your blood vessels, a condition often referred to as blood sugar damage. This damage occurs as a result of the excess glucose in your bloodstream, which can cause inflammation and oxidative stress in your arteries. Over time, this damage can contribute to the development of arterial plaque, a major risk factor for <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>When your blood sugar levels are consistently elevated, it can lead to damage to your blood vessels, a condition often referred to as blood sugar damage. This damage occurs as a result of the excess glucose in your bloodstream, which can cause inflammation and oxidative stress in your arteries. Over time, this damage can contribute to the development of arterial plaque, a major risk factor for <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>High levels of glucose in the blood can also increase the production of certain molecules that promote the formation of arterial plaque. This plaque is a mixture of fat, cholesterol, calcium, and other substances found in your blood. As plaque builds up in your arteries, it can restrict blood flow and increase the risk of cardiovascular events such as heart attacks and strokes.</p>
 <h2 class="sec-scrl" id="arterial-plaque">Understanding Arterial Plaque Formation</h2>
 <p>Arterial plaque is a sticky, waxy substance that can build up inside your arteries over time. When there is damage to the inner layers of the arteries, cholesterol, calcium, and other substances in the blood can collect at the site of the injury, forming plaque. This process, known as atherosclerosis, can narrow the arteries and restrict blood flow to vital organs like the heart and brain.</p>
 <ul>
 <li>Arterial plaque can harden and become unstable, increasing the risk of blood clots that can block blood flow.</li>
-<li>Plaque can also rupture, leading to the formation of a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> that can trigger a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or stroke.</li>
+<li>Plaque can also rupture, leading to the formation of a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> that can trigger a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="atherosclerosis">The Progression of Atherosclerosis Due to High Glucose Levels</h2>
-<p>High levels of glucose in the blood can accelerate the progression of atherosclerosis, increasing the risk of cardiovascular complications. As arterial plaque continues to build up, the arteries become narrower, making it harder for blood to flow smoothly. This can result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, putting additional strain on the heart and increasing the risk of heart disease.</p>
+<p>High levels of glucose in the blood can accelerate the progression of atherosclerosis, increasing the risk of cardiovascular complications. As arterial plaque continues to build up, the arteries become narrower, making it harder for blood to flow smoothly. This can result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, putting additional strain on the heart and increasing the risk of heart disease.</p>
 <p>Furthermore, the presence of arterial plaque can also lead to the development of blood clots, which can block blood flow to critical organs and cause life-threatening events such as heart attacks or strokes.</p>
 <h2 class="sec-scrl" id="cardiovascular-risks">Mitigating Cardiovascular Risks Associated with High Glucose Levels</h2>
 <p>Managing your blood sugar levels is crucial in reducing the risk of cardiovascular complications associated with high glucose levels. By monitoring your blood sugar regularly and making lifestyle changes such as following a healthy diet and engaging in regular physical activity, you can help prevent the progression of atherosclerosis and reduce the risk of heart disease.</p>

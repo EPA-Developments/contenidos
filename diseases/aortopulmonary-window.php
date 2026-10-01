@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortopulmonary Window: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Aortopulmonary window is a rare heart defect. Know more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortopulmonary-window">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortopulmonary-window">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortopulmonary-window" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortopulmonary-window" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Aortopulmonary Window",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortopulmonary-window"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortopulmonary-window"
       }]
     }
   </script>
@@ -170,8 +170,8 @@
 <p>This connection allows blood to flow abnormally between these two major blood vessels, leading to potential complications and affecting the normal functioning of the heart.</p>
 <p>While the prevalence of Aortopulmonary Window is relatively low compared to other congenital heart defects, its impact on health can be significant if left untreated.</p>
 <p>The essential functions affected by Aortopulmonary Window include proper oxygenation of blood, efficient circulation throughout the body, and maintaining optimal cardiac output.</p>
-<p>The abnormal flow of blood through the aortopulmonary window can disrupt these functions, leading to potential short-term risks such as heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>.</p>
-<p>In the long term, untreated Aortopulmonary Window can result in irreversible damage to the heart muscle, decreased exercise tolerance, and a higher risk of developing complications such as arrhythmias or infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>.</p>
+<p>The abnormal flow of blood through the aortopulmonary window can disrupt these functions, leading to potential short-term risks such as heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>.</p>
+<p>In the long term, untreated Aortopulmonary Window can result in irreversible damage to the heart muscle, decreased exercise tolerance, and a higher risk of developing complications such as arrhythmias or infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>.</p>
 <p>One of the challenges in diagnosing Aortopulmonary Window is its asymptomatic nature in the early stages. Patients may not exhibit noticeable symptoms, making early detection crucial for timely intervention.</p>
 <p>Regular screenings, especially in newborns and infants, can help identify the defect early and prevent potential complications.</p>
 <h2 id="causes">Causes of Aortopulmonary Window</h2>
@@ -195,19 +195,19 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Mild Fatigue: Patients with Aortopulmonary Window may experience mild fatigue or reduced energy levels, especially during physical activity. This early symptom can impact daily activities and may be attributed to other factors if the defect is undiagnosed.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>: Early-stage Aortopulmonary Window can lead to mild breathlessness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, particularly during exertion. This symptom may be misunderstood as normal fatigue and overlooked, delaying diagnosis and intervention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>: Early-stage Aortopulmonary Window can lead to mild breathlessness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, particularly during exertion. This symptom may be misunderstood as normal fatigue and overlooked, delaying diagnosis and intervention.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a>: As the defect progresses or complications arise, patients may experience severe shortness of breath even at rest. This advanced symptom can significantly impair physical activities and may indicate worsening heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a>: As the defect progresses or complications arise, patients may experience severe shortness of breath even at rest. This advanced symptom can significantly impair physical activities and may indicate worsening heart function.</li>
 <li>Cyanosis: In advanced stages of Aortopulmonary Window, cyanosis or bluish discoloration of the skin may occur due to inadequate oxygenation of the blood. This visible sign of oxygen deficiency can have both physical and emotional implications for patients.</li>
 </ul>
 <h2>Diagnosis of Aortopulmonary Window</h2>
 <p>The diagnosis of Aortopulmonary Window typically involves a multi-step approach to confirm the presence of the defect and assess its severity.</p>
 <p>Various diagnostic tests are utilized to evaluate heart structure, blood flow patterns, and overall cardiac function, aiding in accurate diagnosis and early intervention.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Echocardiography is a key diagnostic tool used to visualize the heart structures and assess blood flow patterns. This non-invasive imaging technique can identify the presence of Aortopulmonary Window and provide detailed information about the defect's size and location.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: In some cases, cardiac catheterization may be performed to obtain more precise measurements of the Aortopulmonary Window and assess the pressure changes within the heart chambers. This invasive procedure helps in confirming the diagnosis and guiding treatment decisions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Echocardiography is a key diagnostic tool used to visualize the heart structures and assess blood flow patterns. This non-invasive imaging technique can identify the presence of Aortopulmonary Window and provide detailed information about the defect's size and location.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: In some cases, cardiac catheterization may be performed to obtain more precise measurements of the Aortopulmonary Window and assess the pressure changes within the heart chambers. This invasive procedure helps in confirming the diagnosis and guiding treatment decisions.</li>
 <li>MRI or CT Scan: Magnetic resonance imaging (MRI) or computed tomography (CT) scans may be used to obtain detailed images of the heart and blood vessels, aiding in the assessment of Aortopulmonary Window and associated abnormalities. These imaging modalities provide valuable information for treatment planning.</li>
 <li>Electrocardiogram (ECG): An electrocardiogram may be performed to evaluate the electrical activity of the heart and detect any arrhythmias or conduction abnormalities associated with Aortopulmonary Window. This test helps in assessing the overall cardiac function and identifying potential complications.</li>
 </ul>

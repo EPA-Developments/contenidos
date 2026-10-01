@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Papaya for Blood Pressure: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover how papaya can naturally help lower blood pressure and support heart health. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/papaya-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/papaya-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/papaya-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/papaya-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Papaya For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/papaya-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/papaya-for-blood-pressure"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Healing Power of Papaya for Blood Pressure</h1>
-<p>Are you seeking a natural way to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and improve your heart health? Have you considered the potential benefits of incorporating papaya into your diet? High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your daily life, affecting activities as simple as climbing stairs or even enjoying a leisurely walk. Fortunately, papaya, a delicious tropical fruit, may offer a simple yet effective solution to help regulate your blood pressure and support your heart function.</p>
+<p>Are you seeking a natural way to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and improve your heart health? Have you considered the potential benefits of incorporating papaya into your diet? High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your daily life, affecting activities as simple as climbing stairs or even enjoying a leisurely walk. Fortunately, papaya, a delicious tropical fruit, may offer a simple yet effective solution to help regulate your blood pressure and support your heart function.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Papaya Aids in Blood Pressure Regulation</h2>
 <p>Papaya is rich in essential nutrients, including vitamin C, vitamin A, potassium, and fiber, which are all beneficial for heart health. Potassium, in particular, plays a crucial role in regulating blood pressure levels. This mineral helps counteract the effects of sodium, which can contribute to hypertension. By including papaya in your diet, you can increase your potassium intake naturally and support healthy blood pressure levels.</p>
 <p>In addition to potassium, papaya contains papain and chymopapain, two enzymes known for their anti-inflammatory properties. Chronic inflammation can damage blood vessels and lead to heart disease. The anti-inflammatory effects of these enzymes may help reduce inflammation in the cardiovascular system, promoting overall heart health.</p>
 <h2 class="sec-scrl" id="papaya-enzymes">The Role of Papaya Enzymes in Heart Function</h2>
-<p>Furthermore, the papain and chymopapain enzymes found in papaya may contribute to improved heart function. These enzymes have been associated with reduced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation, which is essential for preventing conditions such as heart attacks and strokes. By supporting healthy blood flow and circulation, papaya enzymes can help maintain optimal heart function and reduce the risk of cardiovascular events.</p>
+<p>Furthermore, the papain and chymopapain enzymes found in papaya may contribute to improved heart function. These enzymes have been associated with reduced <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation, which is essential for preventing conditions such as heart attacks and strokes. By supporting healthy blood flow and circulation, papaya enzymes can help maintain optimal heart function and reduce the risk of cardiovascular events.</p>
 <ul>
 <li>Enhances heart function</li>
 <li>Reduces blood clot formation</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognize and Treat Different Forms of Carditis | Comprehensive Guide">
   <meta property="og:description" content="Learn to identify and manage various types of carditis with our comprehensive guide. Discover symptoms, causes, and treatments for carditis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/recognize-and-treat-different-forms-of-carditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/recognize-and-treat-different-forms-of-carditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/recognize-and-treat-different-forms-of-carditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/recognize-and-treat-different-forms-of-carditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/recognize-and-treat-different-forms-of-carditis"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/recognize-and-treat-different-forms-of-carditis"  
       }]
     }
   </script>

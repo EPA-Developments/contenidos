@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vitamin E and Heart Inflammation: A Powerful Duo&quot;" />
     <meta property="og:description" content="Discover how Vitamin E reduces heart inflammation and supports cardiovascular health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin E And Heart Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-e-and-heart-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-e-and-heart-inflammation"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Vitamin E in Heart Inflammation</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to improve your heart health? The role of Vitamin E in reducing heart inflammation might be the solution you need. Heart inflammation can significantly impact your daily activities, leading to fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and overall decreased quality of life.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to improve your heart health? The role of Vitamin E in reducing heart inflammation might be the solution you need. Heart inflammation can significantly impact your daily activities, leading to fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and overall decreased quality of life.</p>
 <h2 class="sec-scrl" id="inflammatory-response">Inflammatory Response</h2>
 <p>When your body experiences an injury or infection, it triggers an inflammatory response as a defense mechanism. However, chronic inflammation, especially in the cardiovascular system, can have detrimental effects on your heart health. Vitamin E plays a crucial role in modulating this inflammatory response, helping to reduce the risk of heart diseases associated with inflammation.</p>
 <p>One of the key mechanisms through which Vitamin E combats inflammation is by inhibiting the production of pro-inflammatory molecules, such as cytokines and chemokines. By regulating these inflammatory mediators, Vitamin E helps prevent excessive inflammation in the heart and blood vessels.</p>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Cardiovascular Inflammation</h2>
-<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Vitamin E acts as a potent antioxidant, protecting the heart tissues from oxidative stress and inflammation. This antioxidant property helps in reducing the damage caused by free radicals and inflammatory processes in the cardiovascular system.</p>
+<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Vitamin E acts as a potent antioxidant, protecting the heart tissues from oxidative stress and inflammation. This antioxidant property helps in reducing the damage caused by free radicals and inflammatory processes in the cardiovascular system.</p>
 <p>Studies have shown that Vitamin E supplementation can lead to a significant decrease in markers of cardiovascular inflammation, such as C-reactive protein (CRP) levels. By lowering these inflammation markers, Vitamin E can improve heart function and reduce the risk of heart disease development.</p>
 <h2 class="sec-scrl" id="antioxidant-role-in-inflammation">Antioxidant Role in Inflammation</h2>
 <p>Antioxidants play a crucial role in combating inflammation by neutralizing harmful free radicals that contribute to oxidative stress and tissue damage. Vitamin E, being a powerful antioxidant, scavenges free radicals and protects the heart from inflammatory damage.</p>

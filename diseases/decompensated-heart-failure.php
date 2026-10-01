@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Decompensated Heart Failure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Decompensated heart failure weakens heart function, causing fluid buildup. Know more about its symptoms, causes, and treatment for improved heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/decompensated-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/decompensated-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/decompensated-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/decompensated-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Decompensated Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/decompensated-heart-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/decompensated-heart-failure"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Decompensated Heart Failure</h1>
-<p>Decompensated heart failure occurs when the heart is unable to pump blood effectively, leading to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, swelling, and fatigue. It is a serious condition that requires prompt medical attention. Decompensated heart failure is prevalent among older adults and individuals with underlying heart conditions. Understanding the signs and seeking timely treatment is crucial to managing this condition effectively. If you or a loved one experience worsening heart failure symptoms, seek medical help immediately to prevent complications and improve quality of life.</p>
+<p>Decompensated heart failure occurs when the heart is unable to pump blood effectively, leading to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, swelling, and fatigue. It is a serious condition that requires prompt medical attention. Decompensated heart failure is prevalent among older adults and individuals with underlying heart conditions. Understanding the signs and seeking timely treatment is crucial to managing this condition effectively. If you or a loved one experience worsening heart failure symptoms, seek medical help immediately to prevent complications and improve quality of life.</p>
 <h2 id="causes">Causes of Decompensated Heart Failure</h2>
 <p><h3>Main Factors Contributing to Decompensated Heart Failure:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">heart valve disease</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">heart valve disease</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Irregular heart rhythms</li>
 <li>Infections affecting the heart</li>
 <li>Excessive alcohol consumption</li>
@@ -180,9 +180,9 @@
 
 <ul>
 <li>Shortness of breath</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Persistent cough or wheezing</li>
 <li>Increased need to urinate at night</li>
 <li>Sudden weight gain</li>
@@ -194,8 +194,8 @@ Prompt identification of these symptoms can lead to timely intervention, prevent
 
 <ul>
 <li>Physical examination to assess symptoms and signs of heart failure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and detect any abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm and detect any abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
 <li>Blood tests to measure B-type natriuretic peptide (BNP) levels</li>
 <li>Chest X-ray to check for signs of fluid buildup in the lungs</li>
 </ul></p>

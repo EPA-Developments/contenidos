@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Signs of Aortic Regurgitation: Diagnosis Guide">
   <meta property="og:description" content="Learn about the importance of recognizing peripheral signs of aortic regurgitation for accurate diagnosis and treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Signs Of Aortic Regurgitation: Diagnosis Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/peripheral-signs-aortic-regurgitation-diagnosis-guide"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fennel Seed: Inflammation Reduction&quot;" />
     <meta property="og:description" content="Explore how Fennel Seed reduces inflammation naturally. Unlock its anti-inflammatory benefits for improved health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fennel Seed For Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fennel-seed-for-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fennel-seed-for-inflammation"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Regular consumption of fennel seeds may help reduce the risk of cardiovascular inflammation, promoting heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-protection">Fennel Seed: Heart Protection Through Inflammation Reduction</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> can have serious consequences on your overall health and well-being. Fennel seeds offer a natural way to protect your heart by reducing inflammation and supporting cardiovascular health. By adding fennel seeds to your meals or brewing them into a soothing tea, you can take proactive steps to safeguard your heart against inflammatory damage.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> can have serious consequences on your overall health and well-being. Fennel seeds offer a natural way to protect your heart by reducing inflammation and supporting cardiovascular health. By adding fennel seeds to your meals or brewing them into a soothing tea, you can take proactive steps to safeguard your heart against inflammatory damage.</p>
 <p>The heart-healthy benefits of fennel seeds extend beyond inflammation reduction:</p>
 <ul>
 <li>Fennel seeds contain potassium, a mineral essential for maintaining healthy blood pressure and heart function.</li>

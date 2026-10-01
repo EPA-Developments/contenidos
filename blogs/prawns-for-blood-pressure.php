@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Prawns for Blood Pressure: Health Benefits Revealed&quot;" />
     <meta property="og:description" content="Discover the benefits of prawns for blood pressure and heart health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/prawns-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/prawns-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/prawns-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/prawns-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Prawns For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/prawns-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/prawns-for-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Prawns on Blood Pressure: A Guide</h1>
 <p>Are you struggling to keep your blood pressure in check? Do daily activities feel like a challenge due to fluctuations in your blood pressure levels? If you're looking for natural ways to support your blood pressure regulation, consider the impact of prawns on your cardiovascular health.</p>
 <h2 class="sec-scrl" id="hypertension-diet">How Can Prawns Contribute to a Hypertension Diet?</h2>
-<p>Prawns are a low-calorie, high-protein seafood option that can be beneficial for individuals looking to manage their blood pressure. Here's how prawns can be a valuable addition to your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> diet:</p>
+<p>Prawns are a low-calorie, high-protein seafood option that can be beneficial for individuals looking to manage their blood pressure. Here's how prawns can be a valuable addition to your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> diet:</p>
 <ul>
 <li>Rich in Omega-3 Fatty Acids: Prawns are a good source of Omega-3 fatty acids, which have been linked to lower blood pressure levels.</li>
 <li>Low in Saturated Fat: Compared to other protein sources, prawns are low in saturated fat, making them heart-friendly.</li>

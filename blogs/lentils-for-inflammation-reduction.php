@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lentils for Heart Health: Inflammation Reduction&quot;" />
     <meta property="og:description" content="Discover how lentils reduce inflammation and lower heart disease risk naturally. Learn about the powerful benefits of lentils today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-inflammation-reduction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-inflammation-reduction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-inflammation-reduction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-inflammation-reduction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lentils For Inflammation Reduction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-inflammation-reduction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lentils-for-inflammation-reduction"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <p>Chronic inflammation is a key driver of cardiovascular diseases like heart attacks and strokes. When the body's inflammatory response is out of balance, it can lead to the buildup of plaque in the arteries, restricting blood flow and increasing the risk of heart disease. Incorporating anti-inflammatory foods like lentils into your diet can help counteract this process and promote heart health.</p>
 <ul>
 <li>**Inflammatory Markers:** Studies have shown that a diet rich in lentils can reduce levels of C-reactive protein (CRP) and other inflammatory markers linked to heart disease.</li>
-<li>**<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>:** By lowering inflammation, lentils may help prevent the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart attacks.</li>
+<li>**<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>:** By lowering inflammation, lentils may help prevent the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart attacks.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-risk">Heart Disease Risk: How Lentils Can Make a Difference</h2>
 <p>High levels of inflammation in the body are associated with an increased risk of developing heart disease. The chronic inflammatory state can damage blood vessels, promote the formation of blood clots, and contribute to the progression of atherosclerosis. Including lentils in your meals regularly can help mitigate these risks and protect your heart.</p>

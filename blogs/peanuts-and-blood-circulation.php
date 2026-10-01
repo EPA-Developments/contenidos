@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peanuts: Boosting Blood Flow Naturally&quot;" />
     <meta property="og:description" content="Discover how peanuts boost blood flow naturally for improved circulation and heart health. Learn more about the benefits of peanuts for your vascular system." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peanuts And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-blood-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Peanuts for Blood Circulation</h1>
-<p>Are you looking to boost your blood circulation naturally? Do you often feel fatigued or struggle with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet? The health of your blood circulation is crucial for overall well-being, affecting how you feel and function in your daily activities.</p>
+<p>Are you looking to boost your blood circulation naturally? Do you often feel fatigued or struggle with <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet? The health of your blood circulation is crucial for overall well-being, affecting how you feel and function in your daily activities.</p>
 <h2 class="sec-scrl" id="Blood flow">The Role of Peanuts in Improving Blood Flow</h2>
 <p>When it comes to supporting healthy blood flow, peanuts are a powerhouse of nutrients that can make a significant difference. Peanuts contain a variety of compounds that promote circulation improvement, including...</p>
 <ul>

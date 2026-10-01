@@ -6,9 +6,9 @@ Disallow: /images/shape-1.webp
 Disallow: /images/shape-2.webp
 
 
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.xml
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.tests-screenings.xml
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.symptoms.xml
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.procedures.xml
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.blogs.xml
-Sitemap: https://plataformar.epa-bienestar.com.ar/sitemap.diseases.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.tests-screenings.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.symptoms.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.procedures.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.blogs.xml
+Sitemap: https://contenidos.segundaopinionmedica.org/sitemap.diseases.xml

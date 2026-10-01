@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Salti-Salem Syndrome: Symptoms, Treatment, and More">
   <meta property="og:description" content="Saltisalem syndrome leads to heart rhythm disturbances. Read more about causes, symptoms, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/saltisalem-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/saltisalem-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/saltisalem-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/saltisalem-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Salti–Salem Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/saltisalem-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/saltisalem-syndrome"
       }]
     }
   </script>
@@ -167,16 +167,16 @@
             <div class="article-content">
 <h1>Symptoms and Treatment of Salti-Salem Syndrome</h1>
 <p>Salti-Salem Syndrome is a rare cardiac condition that impacts heart function and overall health. While its prevalence is low compared to more common heart conditions, its significance lies in its potential to cause serious health complications if left untreated.</p>
-<p>The syndrome can affect essential functions of the heart, such as pumping blood efficiently, regulating blood pressure, and maintaining proper circulation. In the short term, untreated Salti-Salem Syndrome can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort.</p>
+<p>The syndrome can affect essential functions of the heart, such as pumping blood efficiently, regulating blood pressure, and maintaining proper circulation. In the short term, untreated Salti-Salem Syndrome can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort.</p>
 <p>In the long term, it may result in more severe complications like heart failure, arrhythmias, or even sudden cardiac death.</p>
 <p>One challenge in detecting Salti-Salem Syndrome is its asymptomatic nature in the early stages, emphasizing the importance of early detection through regular screenings for at-risk individuals.</p>
 <h2 id="causes">Causes of Salti-Salem Syndrome</h2>
 <h3>Primary Causes</h3>
 <ul>
 <li>Genetic Factors: Genetic mutations can play a significant role in predisposing individuals to Salti-Salem Syndrome. These mutations can affect the structure and function of the heart over time, leading to abnormalities in cardiac performance and increasing the risk of developing the syndrome.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: Chronic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can exert excessive strain on the heart, causing it to work harder to pump blood throughout the body. This increased workload can lead to cardiac remodeling and dysfunction, contributing to the development of Salti-Salem Syndrome.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: Chronic <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can exert excessive strain on the heart, causing it to work harder to pump blood throughout the body. This increased workload can lead to cardiac remodeling and dysfunction, contributing to the development of Salti-Salem Syndrome.</li>
 <li>Obesity: Excess body weight can lead to metabolic changes and inflammation that negatively impact cardiovascular health. Obesity is associated with an increased risk of conditions like hypertension, diabetes, and dyslipidemia, all of which can contribute to the onset of Salti-Salem Syndrome.</li>
-<li>Smoking: Tobacco smoke contains harmful chemicals that can damage blood vessels, increase blood pressure, and promote the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Smoking is a major risk factor for cardiovascular diseases, including Salti-Salem Syndrome.</li>
+<li>Smoking: Tobacco smoke contains harmful chemicals that can damage blood vessels, increase blood pressure, and promote the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Smoking is a major risk factor for cardiovascular diseases, including Salti-Salem Syndrome.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
@@ -192,8 +192,8 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Advanced Salti-Salem Syndrome can cause chest pain or discomfort, indicating decreased blood flow to the heart muscle. This symptom can significantly impact both physical well-being and emotional health, leading to anxiety and reduced quality of life.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: Individuals with advanced Salti-Salem Syndrome may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, or other irregular heart rhythms. These disturbances can be alarming and may signal a more severe progression of the syndrome.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Advanced Salti-Salem Syndrome can cause chest pain or discomfort, indicating decreased blood flow to the heart muscle. This symptom can significantly impact both physical well-being and emotional health, leading to anxiety and reduced quality of life.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: Individuals with advanced Salti-Salem Syndrome may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, or other irregular heart rhythms. These disturbances can be alarming and may signal a more severe progression of the syndrome.</li>
 </ul>
 <h2>Diagnosis of Salti-Salem Syndrome</h2>
 <h3>Diagnostic Tests</h3>

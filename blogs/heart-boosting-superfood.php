@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Papaya: Heart-Healthy Superfood Benefits&quot;" />
     <meta property="og:description" content="Discover the heart-boosting powers of papaya and its health benefits in this insightful article." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-superfood" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-superfood" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-superfood" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-superfood" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Boosting Superfood",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-superfood"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-superfood"
         }
     ]
 }
@@ -155,7 +155,7 @@
 <p>When it comes to preventing cardiovascular diseases, incorporating papaya into your diet can be a proactive step towards better heart health. Here's how papaya's nutritional profile supports cardiovascular disease prevention:</p>
 <ul>
 <li>Inflammation Management: The anti-inflammatory properties of papaya can help reduce chronic inflammation, a key risk factor for heart disease.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> Prevention: Certain compounds in papaya may have antiplatelet effects, potentially reducing the formation of blood clots that can lead to heart attacks or strokes.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> Prevention: Certain compounds in papaya may have antiplatelet effects, potentially reducing the formation of blood clots that can lead to heart attacks or strokes.</li>
 <li>Overall Heart Function: By promoting healthy blood flow, supporting cholesterol balance, and reducing oxidative stress, papaya contributes to optimal heart function.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

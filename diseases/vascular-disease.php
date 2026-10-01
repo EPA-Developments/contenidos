@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vascular Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Vascular Disease affects blood vessels, impacting circulation. Read more about its causes, symptoms, and treatment for improved vascular health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/vascular-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/vascular-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Vascular Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/vascular-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/vascular-disease"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Vascular Disease: Symptoms and Treatment</h1>
-<p>Vascular disease refers to conditions that affect the blood vessels, like arteries and veins, impacting blood flow throughout the body. It's crucial because restricted blood flow can lead to serious health issues like heart attacks and strokes. Vascular disease is prevalent worldwide, affecting millions of people, especially those with diabetes, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or a history of smoking. Understanding its risks and symptoms is vital for early detection and effective management to prevent complications and improve overall health.</p>
+<p>Vascular disease refers to conditions that affect the blood vessels, like arteries and veins, impacting blood flow throughout the body. It's crucial because restricted blood flow can lead to serious health issues like heart attacks and strokes. Vascular disease is prevalent worldwide, affecting millions of people, especially those with diabetes, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or a history of smoking. Understanding its risks and symptoms is vital for early detection and effective management to prevent complications and improve overall health.</p>
 <h2 id="causes">Causes of Vascular Disease</h2>
 <p>Several factors contribute to the development of Vascular Disease. These include:
 <ul>
 <li>High blood pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
 <li>Diabetes</li>
 <li>Obesity</li>
@@ -179,13 +179,13 @@
 
 <ul>
 <li>Leg pain or cramping</li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in extremities</li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in extremities</li>
 <li>Coldness in hands or feet</li>
 <li>Changes in skin color or texture</li>
 <li>Slow-healing wounds</li>
 <li>Erectile dysfunction in men</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Sudden severe headache</li>
 </ul>
 
@@ -219,7 +219,7 @@ If you experience any of these symptoms, especially if they persist or worsen, i
 </ul>
 <h3>Surgical Interventions</h3>
 <ul>
-<li>Surgical procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery aim to restore proper blood flow.</li>
+<li>Surgical procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery aim to restore proper blood flow.</li>
 <li>The rationale is to open blocked or narrowed blood vessels to improve circulation.</li>
 <li>The primary objective is to reduce symptoms like pain and prevent severe complications.</li>
 <li>The steps typically involve pre-operative evaluations, the surgical procedure, and post-operative care.</li>
@@ -235,7 +235,7 @@ If you experience any of these symptoms, especially if they persist or worsen, i
 </ul>
 <h3>Regular Screenings:</h3>
 <ul>
-<li>Undergoing routine blood pressure checks to monitor for <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a risk factor for Vascular Disease.</li>
+<li>Undergoing routine blood pressure checks to monitor for <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a risk factor for Vascular Disease.</li>
 <li>Getting regular cholesterol screenings to manage lipid levels and reduce the risk of plaque buildup in arteries.</li>
 <li>Scheduling regular check-ups with a healthcare provider to assess overall cardiovascular health.</li>
 <h3>Supportive Care:</h3>

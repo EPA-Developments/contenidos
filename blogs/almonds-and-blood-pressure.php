@@ -10,12 +10,12 @@
     <meta property="og:title" content="Almonds: Natural Blood Pressure Regulator" />
     <meta property="og:description" content="Discover how almonds can effectively lower blood pressure and improve heart health naturally. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Almonds And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/almonds-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Almonds for Blood Pressure</h1>
-<p>Are you searching for a natural way to manage your blood pressure effectively? Have you considered the remarkable benefits of incorporating almonds into your diet to support your heart health and overall well-being? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and quality of life. Fortunately, almonds, with their potent properties, can play a vital role in regulating blood pressure levels and promoting cardiovascular wellness. Let's explore how these nutrient-dense nuts can make a difference in your health journey.</p>
+<p>Are you searching for a natural way to manage your blood pressure effectively? Have you considered the remarkable benefits of incorporating almonds into your diet to support your heart health and overall well-being? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your daily activities and quality of life. Fortunately, almonds, with their potent properties, can play a vital role in regulating blood pressure levels and promoting cardiovascular wellness. Let's explore how these nutrient-dense nuts can make a difference in your health journey.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Almonds Support Blood Pressure Regulation</h2>
 <p>Almonds are rich in magnesium, a mineral essential for various physiological processes, including blood pressure regulation. Magnesium helps relax blood vessels, promoting smooth blood circulation and reducing strain on the heart. By incorporating magnesium-rich almonds into your diet, you can support healthy blood pressure levels naturally.</p>
 <p>In addition to magnesium, almonds are a good source of potassium, another key nutrient for heart health. Potassium helps counterbalance the effects of sodium in the body, aiding in the maintenance of healthy blood pressure. Including potassium-rich foods like almonds in your daily meals can contribute to better blood pressure management.</p>

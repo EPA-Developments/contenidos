@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypertension Crisis Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Hypertension crisis symptoms can lead to serious complications. Read more about symptoms, causes, iagnosis, and treatment for this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/hypertension-crisis-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/hypertension-crisis-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/hypertension-crisis-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/hypertension-crisis-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Hypertension Crisis Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/hypertension-crisis-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/hypertension-crisis-symptoms"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Hypertension Crisis Causes, Treatment, and Symptoms</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> crisis, also known as a hypertensive emergency, occurs when blood pressure spikes to dangerously high levels. This condition requires immediate medical attention to prevent serious complications such as stroke, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or organ damage.</p>
-<p>Symptoms of hypertension crisis can include severe headache, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, blurred vision, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and confusion.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> crisis, also known as a hypertensive emergency, occurs when blood pressure spikes to dangerously high levels. This condition requires immediate medical attention to prevent serious complications such as stroke, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or organ damage.</p>
+<p>Symptoms of hypertension crisis can include severe headache, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, blurred vision, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and confusion.</p>
 <h2 id="forms">What are the Forms of Hypertension crisis symptoms?</h2>
 <p>There are two forms of hypertension crisis: hypertensive urgency and hypertensive emergency. Hypertensive urgency is when blood pressure is severely high, but there are no signs of immediate organ damage. Symptoms may include severe headache, nosebleeds, and shortness of breath.</p>
 <p>Hypertensive emergency is a more severe condition where blood pressure is dangerously high and there is evidence of organ damage. Symptoms can include chest pain, confusion, seizures, and severe headache.</p>
@@ -203,7 +203,7 @@
 <li>Preeclampsia in pregnant women</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Hypertension crisis symptoms?</h2>
-<p>Diagnosing hypertension crisis involves measuring blood pressure and assessing symptoms. In a medical setting, healthcare providers may perform additional tests such as blood tests, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, or imaging studies to evaluate organ damage.</p>
+<p>Diagnosing hypertension crisis involves measuring blood pressure and assessing symptoms. In a medical setting, healthcare providers may perform additional tests such as blood tests, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, or imaging studies to evaluate organ damage.</p>
 <h2 id="treatment">What is the Treatment for Hypertension crisis symptoms?</h2>
 <p>Treatment for hypertension crisis typically involves hospitalization to lower blood pressure gradually and prevent complications. Medications such as intravenous drugs may be administered to bring blood pressure down quickly.</p>
 <p>Lifestyle changes, including reducing salt intake, exercising regularly, and managing stress, are also essential for long-term management.</p>

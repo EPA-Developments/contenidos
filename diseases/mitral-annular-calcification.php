@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mitral Annular Calcification: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Mitral Annular Calcification causes valve stiffness. Know more about its causes, symptoms, and treatment for improved heart performance." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mitral-annular-calcification">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mitral-annular-calcification">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-annular-calcification" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mitral-annular-calcification" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mitral Annular Calcification",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mitral-annular-calcification"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mitral-annular-calcification"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Mitral Annular Calcification</h1>
-<p>Mitral Annular Calcification occurs when calcium deposits build up in the fibrous ring around the mitral valve in the heart. While often benign, it can sometimes lead to complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-regurgitation">mitral valve regurgitation</a>. This condition is more common in older individuals, especially women. It's important to monitor this condition as it can impact heart function over time. Regular check-ups and monitoring by a healthcare provider are crucial to manage any associated risks effectively.</p>
+<p>Mitral Annular Calcification occurs when calcium deposits build up in the fibrous ring around the mitral valve in the heart. While often benign, it can sometimes lead to complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-regurgitation">mitral valve regurgitation</a>. This condition is more common in older individuals, especially women. It's important to monitor this condition as it can impact heart function over time. Regular check-ups and monitoring by a healthcare provider are crucial to manage any associated risks effectively.</p>
 <h2 id="causes">Causes of Mitral Annular Calcification</h2>
 <p>Mitral Annular Calcification can develop due to various factors. Let's break it down for you:
 
@@ -170,17 +170,17 @@
 <li>Calcium deposits on the mitral valve annulus</li>
 <li>Chronic kidney disease</li>
 <li>Metabolic disorders like diabetes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>)</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Mitral Annular Calcification</h2>
 <p>Recognizing the symptoms of Mitral Annular Calcification (MAC) is crucial for early detection and improved outcomes. MAC is a condition where calcium deposits form on the fibrous ring around the mitral valve in the heart.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Irregular heartbeat</li>
 </ul>
 

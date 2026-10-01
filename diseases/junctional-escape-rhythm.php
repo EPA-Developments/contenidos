@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Junctional Escape Rhythm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Junctional escape rhythm is a slow heart rate originating from the AV junction due to a failure of the sinus node. Know more about its symptoms and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-rhythm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-rhythm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-rhythm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-rhythm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Junctional Escape Rhythm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/junctional-escape-rhythm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/junctional-escape-rhythm"
       }]
     }
   </script>
@@ -174,10 +174,10 @@
 <p>Recognizing the symptoms of Junctional Escape Rhythm is crucial as early detection can significantly improve outcomes. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 <li>Chest discomfort or pain</li>
 </ul> 
 
@@ -186,9 +186,9 @@ Early identification of these symptoms can lead to prompt medical evaluation and
 <p>Junctional Escape Rhythm diagnosis is crucial as it can indicate underlying heart conditions or electrolyte imbalances. To accurately diagnose this rhythm, various methods are employed by healthcare providers:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Detects irregular heart rhythms.</li>
 <li>Holter monitor: Records heart activity over 24-48 hours.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Junctional Escape Rhythm</h2>
 <p>When managing Junctional Escape Rhythm, a personalized approach is crucial for effective treatment. Here are the main approaches to consider:
@@ -202,7 +202,7 @@ Early identification of these symptoms can lead to prompt medical evaluation and
 </ul>
 <h3>Cardioversion</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a> is a procedure that delivers a synchronized electrical shock to the heart to restore normal rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a> is a procedure that delivers a synchronized electrical shock to the heart to restore normal rhythm.</li>
 <li>Rationale: It helps reset the heart's electrical activity and establish a normal rhythm.</li>
 <li>Objective: To convert the abnormal rhythm to a normal sinus rhythm.</li>
 <li>Steps: The patient is sedated, and a controlled electrical shock is delivered to the heart.</li>

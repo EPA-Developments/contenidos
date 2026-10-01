@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Beriberi Deficiency: Impact on Health">
   <meta property="og:description" content="Learn about the impact of beriberi deficiency on your health and how to recognize its symptoms. Find out how to prevent and treat this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-beriberi-deficiency-impact-on-health">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-beriberi-deficiency-impact-on-health">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-beriberi-deficiency-impact-on-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-beriberi-deficiency-impact-on-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Beriberi Deficiency: Impact On Health",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-beriberi-deficiency-impact-on-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-beriberi-deficiency-impact-on-health"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Collapse During Activity: Causes, Symptoms, and Treatment for Heart Disease">
   <meta property="og:description" content="Experiencing collapse during activity? Learn about causes, symptoms, treatment, and when to seek help. Find out how to manage collapse during activity effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/collapse-during-activity">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/collapse-during-activity">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/collapse-during-activity" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/collapse-during-activity" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Collapse During Activity",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/collapse-during-activity"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/collapse-during-activity"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Collapse During Activity: Causes, Symptoms, and Treatment for Heart Disease</h1>
-<p>Collapse during activity refers to the sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> or inability to remain upright while engaging in physical exertion. This condition can be alarming and may have various underlying causes.</p>
-<p>Symptoms of collapse during activity can include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, fainting, and even loss of consciousness. It is crucial to understand the different forms of collapse during activity to identify the specific triggers and seek appropriate treatment.</p>
+<p>Collapse during activity refers to the sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> or inability to remain upright while engaging in physical exertion. This condition can be alarming and may have various underlying causes.</p>
+<p>Symptoms of collapse during activity can include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, fainting, and even loss of consciousness. It is crucial to understand the different forms of collapse during activity to identify the specific triggers and seek appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Collapse during activity?</h2>
-<p>Forms of collapse during activity can vary and may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-during-exercise">fainting during exercise</a>, sudden collapse while moving, and loss of consciousness during physical exertion.</p>
+<p>Forms of collapse during activity can vary and may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-during-exercise">fainting during exercise</a>, sudden collapse while moving, and loss of consciousness during physical exertion.</p>
 <p>Activity-induced collapse can be triggered by factors such as dehydration, low blood sugar levels, or underlying heart conditions. Recognizing the specific symptoms associated with each form of collapse during activity is essential for effective management.</p>
 <h2 id="causes">What are the Causes of Collapse during activity?</h2>
 <ul>
@@ -203,7 +203,7 @@
 <p>Collapse during activity can have various causes, ranging from mild issues like dehydration and low blood sugar levels to more severe conditions such as underlying heart disease or arrhythmias.</p>
 <p>Overexertion without adequate rest or nutrition can also contribute to collapse during activity. Understanding the root cause of the collapse is crucial for appropriate treatment and prevention strategies.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Collapse during activity?</h2>
-<p>Diagnosing collapse during activity typically involves a thorough medical history review, physical examination, and possibly further tests such as blood work, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), or <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>.</p>
+<p>Diagnosing collapse during activity typically involves a thorough medical history review, physical examination, and possibly further tests such as blood work, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), or <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>.</p>
 <p>These diagnostic methods help healthcare providers determine the underlying cause of the collapse, whether it be related to dehydration, heart issues, or other factors. Advanced techniques like stress testing or Holter monitoring may be necessary in some cases.</p>
 <h2 id="treatment">What is the Treatment for Collapse during activity?</h2>
 <ul>
@@ -216,7 +216,7 @@
 <p>Treatment for collapse during activity focuses on addressing the underlying cause of the condition. This may include staying hydrated, maintaining proper electrolyte balance, and eating balanced meals to stabilize blood sugar levels.</p>
 <p>If the collapse is related to underlying heart conditions, medication or procedures may be necessary. Resting and avoiding overexertion during physical activity are also essential components of treatment.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is crucial to seek medical attention if you experience recurrent collapses during activity, especially if accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or palpitations.</p>
+<p>It is crucial to seek medical attention if you experience recurrent collapses during activity, especially if accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or palpitations.</p>
 <p>Additionally, if you have a known heart condition or risk factors for heart disease, it is important to consult a healthcare provider for further evaluation and management. Seeking timely medical help can prevent complications and ensure proper treatment.</p>
 <h2>Home Remedies for Collapse during activity.</h2>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="The Connection Between Buerger's Disease and Kidney Health">
   <meta property="og:description" content="Discover the connection between Buerger's disease and kidney health. Learn how this condition impacts renal function and what steps can be taken for proper management.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/connection-between-buergers-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/connection-between-buergers-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/connection-between-buergers-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/connection-between-buergers-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "The Connection Between Buerger'S Disease And Kidney Health",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/connection-between-buergers-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/connection-between-buergers-disease"  
       }]
     }
   </script>

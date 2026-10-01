@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognize Cardiac Asthma Symptoms: Signs to Watch For">
   <meta property="og:description" content="Learn to identify cardiac asthma symptoms quickly with our comprehensive guide. Discover key signs and when to seek medical help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/recognize-cardiac-asthma-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/recognize-cardiac-asthma-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/recognize-cardiac-asthma-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/recognize-cardiac-asthma-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,18 +25,18 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Recognize Cardiac Asthma Symptoms: Signs To Watch For",
         "item": 
-    "https://plataforma.epa-bienestar.com.ar/blogs/recognize-cardiac-asthma-symptoms"  
+    "https://contenidos.segundaopinionmedica.org/blogs/recognize-cardiac-asthma-symptoms"  
       }]
     }
   </script>

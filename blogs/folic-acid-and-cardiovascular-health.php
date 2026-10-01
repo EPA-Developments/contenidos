@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Folic Acid for Heart Health&quot;" />
     <meta property="og:description" content="Discover the impact of Folic Acid on heart health and cardiovascular disease prevention. Learn about the benefits of vitamin B9 for your heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-cardiovascular-health"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>Here are some key ways in which folic acid supports blood vessel health:</p>
 <ul>
 <li>Promotes the synthesis of nitric oxide, a molecule that relaxes blood vessels and supports healthy blood pressure.</li>
-<li>Reduces inflammation in blood vessels, lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other heart-related conditions.</li>
+<li>Reduces inflammation in blood vessels, lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other heart-related conditions.</li>
 <li>Enhances the flexibility and elasticity of blood vessels, improving overall circulation.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-prevention">Can Folic Acid Help in Preventing Heart Disease?</h2>

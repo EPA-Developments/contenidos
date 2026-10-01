@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Dissection: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic dissection is a tear in the wall of the aorta, the body's main artery. Read more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Dissection",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
 <p>Certainly! Here are the main factors contributing to the development of Aortic Dissection:
 
 <ul>
-<li>Persistent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Persistent <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Connective tissue disorders</li>
 <li>Trauma or injury to the chest</li>
 <li>Aging</li>
@@ -176,12 +176,12 @@
 <p>Recognizing the symptoms of Aortic Dissection is crucial as early detection can significantly improve outcomes. Aortic Dissection is a serious condition where there is a tear in the inner layer of the aorta, the large blood vessel branching off the heart. Symptoms of Aortic Dissection include:
 
 <ul>
-<li>Sudden, severe chest or upper <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Sudden, severe chest or upper <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Pain that may radiate to the neck, jaw, back, or arms</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a></li>
 <li>Sweating</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Anxiety</li>
 </ul>
 
@@ -191,12 +191,12 @@ If you or someone you know experiences these symptoms, seek immediate medical at
 
 <ul>
 <li>Medical History Assessment: Inquiring about symptoms, risk factors, and past medical conditions.</li>
-<li>Physical Examination: Checking for signs like differences in blood pressure between arms, heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>, or abnormal pulse.</li>
+<li>Physical Examination: Checking for signs like differences in blood pressure between arms, heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>, or abnormal pulse.</li>
 <li>Imaging Tests: 
     <ul>
 <li>CT Scan: Provides detailed images of the aorta.</li>
 <li>MRI: Offers high-resolution images for accurate diagnosis.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Helps visualize the structure and function of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Helps visualize the structure and function of the heart.</li>
 </ul>
 </li>
 </ul></p>
@@ -212,7 +212,7 @@ If you or someone you know experiences these symptoms, seek immediate medical at
 </ul>
 <h3>Surgical Intervention</h3>
 <ul>
-<li>Surgical intervention typically involves repairing the torn aorta through open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> or endovascular techniques.</li>
+<li>Surgical intervention typically involves repairing the torn aorta through open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> or endovascular techniques.</li>
 <li>The rationale is to prevent aortic rupture and restore normal blood flow.</li>
 <li>The primary objective is to repair the aorta and prevent complications such as organ damage or stroke.</li>
 <li>This may require a team of cardiac surgeons and interventional cardiologists working together.</li>

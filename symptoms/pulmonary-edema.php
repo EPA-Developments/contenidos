@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Edema: Symptoms, Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Pulmonary edema affects the lungs. Check out the symptoms, causes, diagnosis, and treatment options. Know more to protect your health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pulmonary-edema">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pulmonary-edema">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pulmonary-edema" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pulmonary-edema" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Edema",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pulmonary-edema"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pulmonary-edema"  
       }]
     }
   </script>
@@ -187,11 +187,11 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Pulmonary Edema: Symptoms, Causes and Treatment</h1>
 <p>Pulmonary edema is a condition characterized by the accumulation of fluid in the lungs. This buildup of fluid can make it difficult for the lungs to oxygenate blood properly, leading to breathing difficulties and other serious symptoms.</p>
-<p>When fluid accumulates in the lungs, it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-congestion">chest congestion</a>, breathing difficulty, and even lung swelling. This condition can be life-threatening if not treated promptly.</p>
-<p>Symptoms of pulmonary edema include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially when lying down, coughing up pink, frothy sputum, wheezing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, and a feeling of anxiety or restlessness.</p>
+<p>When fluid accumulates in the lungs, it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-congestion">chest congestion</a>, breathing difficulty, and even lung swelling. This condition can be life-threatening if not treated promptly.</p>
+<p>Symptoms of pulmonary edema include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially when lying down, coughing up pink, frothy sputum, wheezing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, and a feeling of anxiety or restlessness.</p>
 <p>In severe cases, individuals may experience a bluish tint to their skin due to lack of oxygen.</p>
 <h2 id="forms">What are the Forms of Pulmonary Edema?</h2>
-<p>There are two main forms of pulmonary edema: cardiogenic and non-cardiogenic. <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-pulmonary-edema">cardiogenic pulmonary edema</a> is typically caused by heart failure, where the heart is unable to pump blood effectively, leading to fluid buildup in the lungs.</p>
+<p>There are two main forms of pulmonary edema: cardiogenic and non-cardiogenic. <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-pulmonary-edema">cardiogenic pulmonary edema</a> is typically caused by heart failure, where the heart is unable to pump blood effectively, leading to fluid buildup in the lungs.</p>
 <p>Non-cardiogenic pulmonary edema, on the other hand, is often caused by factors other than heart failure, such as kidney failure, pneumonia, or inhaling toxic fumes.</p>
 <p>Symptoms of cardiogenic pulmonary edema may include fluid in the lungs, chest congestion due to fluid, and breathing difficulty with fluid buildup. Non-cardiogenic pulmonary edema may present with similar symptoms but have different underlying causes.</p>
 <h2 id="causes">What are the Causes of Pulmonary Edema?</h2>
@@ -205,7 +205,7 @@
 <li>Inhaling toxic fumes</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Pulmonary Edema?</h2>
-<p>Diagnosing pulmonary edema typically involves a physical examination, medical history review, and various tests. A chest X-ray can show the presence of fluid in the lungs, while an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> can help evaluate heart function.</p>
+<p>Diagnosing pulmonary edema typically involves a physical examination, medical history review, and various tests. A chest X-ray can show the presence of fluid in the lungs, while an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> can help evaluate heart function.</p>
 <p>Blood tests may be done to check for underlying conditions such as kidney failure or infection.</p>
 <p>In more advanced cases, a pulmonary artery catheter may be used to measure pressure in the heart and lungs. This can help determine the severity of the condition and guide treatment decisions.</p>
 <h2 id="treatment">What is the Treatment for Pulmonary Edema?</h2>
@@ -213,9 +213,9 @@
 <p>Diuretics can help remove excess fluid from the body, reducing fluid buildup in the lungs.</p>
 <p>Lifestyle changes such as reducing salt intake, quitting smoking, and maintaining a healthy weight can also help manage pulmonary edema. In more severe cases, oxygen therapy or mechanical ventilation may be necessary to support breathing.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience symptoms of pulmonary edema, such as shortness of breath with fluid in the lungs, chest congestion, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>.</p>
+<p>It is essential to seek medical attention if you experience symptoms of pulmonary edema, such as shortness of breath with fluid in the lungs, chest congestion, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>.</p>
 <p>If you have a history of heart failure, kidney disease, or other risk factors for pulmonary edema, it is important to monitor your symptoms closely and seek help if they worsen.</p>
-<p>Prompt treatment can help prevent complications and improve outcomes for individuals with pulmonary edema. If you are struggling to breathe, feel lightheaded, or have a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, do not hesitate to seek emergency medical care.</p>
+<p>Prompt treatment can help prevent complications and improve outcomes for individuals with pulmonary edema. If you are struggling to breathe, feel lightheaded, or have a <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, do not hesitate to seek emergency medical care.</p>
 <h2>Home Remedies for Pulmonary Edema</h2>
 <p>While medical treatment is essential for managing pulmonary edema, certain home remedies may help alleviate symptoms and support overall health. Drinking plenty of water can help thin mucus and reduce congestion in the lungs.</p>
 <p>Elevating your head while sleeping can also help improve breathing and reduce fluid buildup in the lungs.</p>

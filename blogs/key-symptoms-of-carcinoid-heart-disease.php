@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Key Symptoms of Carcinoid Heart Disease: A Comprehensive Guide">
   <meta property="og:description" content="Discover the key symptoms of carcinoid heart disease and learn how to recognize this rare condition early for proper treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/key-symptoms-of-carcinoid-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/key-symptoms-of-carcinoid-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/key-symptoms-of-carcinoid-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/key-symptoms-of-carcinoid-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Carcinoid Heart Disease ",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/key-symptoms-of-carcinoid-heart-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/key-symptoms-of-carcinoid-heart-disease"  
       }]
     }
   </script>

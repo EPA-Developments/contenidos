@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lavender Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Discover the benefits of lavender for heart health - a natural remedy for heart support and blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lavender-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lavender-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lavender-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lavender-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lavender For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lavender-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lavender-for-heart-health"
         }
     ]
 }
@@ -156,7 +156,7 @@
 </ul>
 <p>By understanding how lavender supports your heart, you can make informed decisions about incorporating this natural remedy into your heart health regimen.</p>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure: Managing with Lavender</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease. Can lavender help manage blood pressure levels naturally? Let's explore how lavender can play a role in keeping your blood pressure in check:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease. Can lavender help manage blood pressure levels naturally? Let's explore how lavender can play a role in keeping your blood pressure in check:</p>
 <ul>
 <li>Lavender aromatherapy has been linked to lower blood pressure readings in some studies.</li>
 <li>The relaxation induced by lavender can help reduce stress, a common trigger for elevated blood pressure.</li>

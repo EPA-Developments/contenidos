@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Valve Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart valve disease occurs when the heart's valves are damaged or don't open and close properly. Know more about its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease"
       }]
     }
   </script>
@@ -161,25 +161,25 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Heart Valve Disease</h1>
-<p>Heart valve disease occurs when one or more of the heart's valves do not work properly, affecting blood flow in the heart. This can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. It's crucial because untreated, it can lead to serious complications like heart failure or stroke. Around 5 million adults in the U.S. are affected by heart valve disease, making it a common condition that requires attention and care. Regular check-ups and timely interventions can help manage this condition effectively.</p>
+<p>Heart valve disease occurs when one or more of the heart's valves do not work properly, affecting blood flow in the heart. This can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. It's crucial because untreated, it can lead to serious complications like heart failure or stroke. Around 5 million adults in the U.S. are affected by heart valve disease, making it a common condition that requires attention and care. Regular check-ups and timely interventions can help manage this condition effectively.</p>
 <h2 id="causes">Causes of Heart Valve Disease</h2>
 <p>Heart valve disease can develop due to various factors. These include:
 
 <ul>
 <li>Age-related wear and tear on the heart valves</li>
-<li>History of infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li>History of infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 <li>Previous heart attacks or heart conditions</li>
 <li>Congenital heart defects present at birth</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the heart</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the heart</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Heart Valve Disease</h2>
 <p>Recognizing the symptoms of Heart Valve Disease is crucial as early detection can significantly improve outcomes. Common symptoms to watch out for include:
 <ul>
 <li>Shortness of breath, especially during physical activity or when lying down</li>
 <li>Chest pain or tightness</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Swollen ankles or feet</li>
 </ul> 
 
@@ -188,7 +188,7 @@ Being aware of these symptoms and seeking timely medical attention can lead to b
 <p>Accurate diagnosis of Heart Valve Disease is crucial for determining the severity of the condition and guiding appropriate treatment. The diagnostic process typically involves various tests to evaluate the heart's structure and function. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
 <li>Electrocardiogram (ECG): Records the heart's electrical activity.</li>
 <li>Cardiac MRI: Provides detailed images of the heart's structure.</li>
 <li>Cardiac CT scan: Produces detailed cross-sectional images of the heart.</li>

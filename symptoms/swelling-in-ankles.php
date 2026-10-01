@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Swelling in Ankles: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Swelling in ankles may point to heart failure or circulation issues. Read more to Know about symptoms, causes, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-ankles">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-ankles">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-ankles" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-ankles" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Swelling In Ankles",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/swelling-in-ankles"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/swelling-in-ankles"  
       }]
     }
   </script>
@@ -196,7 +196,7 @@
 <li>Ankle edema: This is the most common form of ankle swelling, characterized by the accumulation of fluid in the tissues surrounding the ankle joint.</li>
 <li>Swollen ankles: This term refers to the visible enlargement of the ankle area due to fluid retention.</li>
 <li>Fluid retention in ankles: This form of swelling is caused by an imbalance in the body's fluid regulation system, leading to the accumulation of excess fluid in the ankle tissues.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/peripheral-edema">peripheral edema</a>: This type of swelling affects the lower extremities, including the ankles, feet, and legs, and can be caused by various factors such as heart failure or venous insufficiency.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/peripheral-edema">peripheral edema</a>: This type of swelling affects the lower extremities, including the ankles, feet, and legs, and can be caused by various factors such as heart failure or venous insufficiency.</li>
 </ul>
 <h2 id="causes">What are the Causes of Swelling in ankles?</h2>
 <p>Swelling in ankles can be caused by a variety of factors, including:</p>
@@ -224,7 +224,7 @@
 <li>Advanced treatments: In severe cases, procedures such as lymphatic drainage or surgery may be recommended to address the underlying cause of ankle swelling.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent or severe swelling in the ankles, especially if accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or sudden weight gain.</p>
+<p>It is essential to seek medical attention if you experience persistent or severe swelling in the ankles, especially if accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or sudden weight gain.</p>
 <p>Additionally, if the swelling is sudden and unexplained, it is crucial to consult a healthcare provider to rule out any serious underlying conditions.</p>
 <h2>Home Remedies for Swelling in ankles</h2>
 <p>In addition to medical treatments, there are several home remedies that can help alleviate swelling in the ankles:</p>

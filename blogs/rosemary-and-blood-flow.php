@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Blood Flow with Rosemary" />
     <meta property="og:description" content="Discover how rosemary boosts blood flow naturally for improved circulation and vascular health. Learn the benefits of this herbal remedy today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-and-blood-flow" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rosemary-and-blood-flow" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-and-blood-flow" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rosemary-and-blood-flow" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rosemary And Blood Flow",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rosemary-and-blood-flow"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rosemary-and-blood-flow"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Enhancing Blood Flow with Rosemary</h1>
-<p>Are you struggling with poor blood circulation and looking for a natural way to enhance your vascular health? Do you often feel <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet or experience numbness and tingling in your extremities due to circulation issues? These common problems can significantly impact your daily activities, making it essential to find effective solutions to boost blood flow throughout your body.</p>
+<p>Are you struggling with poor blood circulation and looking for a natural way to enhance your vascular health? Do you often feel <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet or experience numbness and tingling in your extremities due to circulation issues? These common problems can significantly impact your daily activities, making it essential to find effective solutions to boost blood flow throughout your body.</p>
 <h2 class="sec-scrl" id="benefits">The Benefits of Rosemary for Blood Circulation</h2>
 <p>Rosemary, a fragrant herb commonly used in cooking, has been valued for centuries for its medicinal properties. When it comes to blood circulation, rosemary offers a range of benefits:</p>
 <ul>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Pulsation: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Chest pulsation can be linked to heart issues. Find out more about symptoms, causes, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pulsation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-pulsation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pulsation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pulsation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Pulsation",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-pulsation"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-pulsation"  
       }]
     }
   </script>
@@ -186,8 +186,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Chest Pulsation: Symptoms, Causes, Forms and Treatment</h1>
-<p>Chest pulsation refers to the sensation of a rhythmic throbbing or pounding in the chest area. It is often described as a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/visible-chest-pulse">visible chest pulse</a> or a feeling of the heart beating strongly within the chest.</p>
-<p>People experiencing chest pulsation may feel a pulsing sensation in the chest, a throbbing discomfort, or a sensation of the <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a>. This condition can be alarming and may cause anxiety due to its association with the heart.</p>
+<p>Chest pulsation refers to the sensation of a rhythmic throbbing or pounding in the chest area. It is often described as a <a href="https://contenidos.segundaopinionmedica.org/symptoms/visible-chest-pulse">visible chest pulse</a> or a feeling of the heart beating strongly within the chest.</p>
+<p>People experiencing chest pulsation may feel a pulsing sensation in the chest, a throbbing discomfort, or a sensation of the <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a>. This condition can be alarming and may cause anxiety due to its association with the heart.</p>
 <h2 id="forms">What are the Forms of Chest pulsation?</h2>
 <p>There are various forms of chest pulsation that individuals may experience:</p>
 <ul>
@@ -196,7 +196,7 @@
 <li>Pulsing sensation in chest - Feeling a rhythmic throbbing or pulsing in the chest area.</li>
 <li>Chest throbbing - A discomforting sensation of the chest pulsating or throbbing.</li>
 <li>Beating heart sensation - Feeling the heart beating rapidly or forcefully in the chest.</li>
-<li>Pulsating <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> - Chest pain accompanied by a pulsating sensation.</li>
+<li>Pulsating <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> - Chest pain accompanied by a pulsating sensation.</li>
 <li>Heartbeat in chest - Sensation of the heart beating within the chest cavity.</li>
 </ul>
 <h2 id="causes">What are the Causes of Chest pulsation?</h2>
@@ -204,7 +204,7 @@
 <ul>
 <li>Heart disease - Conditions such as arrhythmias, heart valve disorders, or heart failure can lead to chest pulsation.</li>
 <li>Anxiety and stress - Emotional distress can trigger physical symptoms, including chest pulsation.</li>
-<li>Excessive caffeine or stimulant intake - Consuming high amounts of caffeine or stimulants can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> and chest pulsation.</li>
+<li>Excessive caffeine or stimulant intake - Consuming high amounts of caffeine or stimulants can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> and chest pulsation.</li>
 <li>Arrhythmia - Irregular heart rhythms can result in chest pulsation.</li>
 <li>Physical exertion - Strenuous exercise or physical activity can lead to an increase in heart rate and chest pulsation.</li>
 <li>Medications - Certain medications may cause palpitations and chest pulsation as a side effect.</li>
@@ -214,10 +214,10 @@
 <p>Diagnosing chest pulsation typically involves a thorough medical history review, physical examination, and diagnostic tests.</p>
 <ul>
 <li>Physical examination - A healthcare provider will listen to the heart and lungs, check for palpitations, and assess overall health.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) - A test that records the electrical activity of the heart to detect any irregularities in heart rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) - A test that records the electrical activity of the heart to detect any irregularities in heart rhythm.</li>
 <li>Blood tests - To check for potential underlying conditions such as thyroid disorders or electrolyte imbalances.</li>
 <li>Holter monitor - A portable device worn to continuously record heart rhythms over a period of time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> - An ultrasound of the heart to assess its structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> - An ultrasound of the heart to assess its structure and function.</li>
 </ul>
 <p>Advanced diagnostic methods may include:</p>
 <ul>
@@ -233,13 +233,13 @@
 <li>Limiting caffeine and stimulants - Avoiding excessive intake of substances that can trigger palpitations.</li>
 <li>Medication adjustments - Changing or discontinuing medications that may be causing chest pulsation as a side effect.</li>
 <li>Lifestyle modifications - Adopting a heart-healthy diet, regular exercise, and stress reduction techniques can improve heart health and reduce chest pulsation.</li>
-<li>Cardiac procedures - In severe cases, procedures such as ablation, <a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a>, or valve repair may be necessary to address chest pulsation.</li>
+<li>Cardiac procedures - In severe cases, procedures such as ablation, <a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a>, or valve repair may be necessary to address chest pulsation.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience the following symptoms in addition to chest pulsation:</p>
 <ul>
 <li>Chest pain or discomfort that radiates to the arms, neck, jaw, or back.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, dizziness, lightheadedness, or fainting.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, dizziness, lightheadedness, or fainting.</li>
 <li>Irregular heartbeats or a racing heart rate.</li>
 <li>Severe fatigue, weakness, or difficulty performing daily activities.</li>
 <li>Chest pulsation that persists or worsens over time.</li>

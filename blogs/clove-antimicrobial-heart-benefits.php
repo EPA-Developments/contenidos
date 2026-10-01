@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Clove Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Explore Clove's antimicrobial properties for a healthy heart. Discover the benefits of clove in preventing infections and inflammation." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/clove-antimicrobial-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/clove-antimicrobial-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/clove-antimicrobial-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/clove-antimicrobial-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Clove Antimicrobial Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/clove-antimicrobial-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/clove-antimicrobial-heart-benefits"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <li>Adding clove to your diet or consuming clove tea regularly can help prevent bacterial infections that may impact your heart.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-inflammation">Managing Heart Inflammation with Clove</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> can lead to serious cardiovascular issues. Clove's anti-inflammatory properties can help manage heart inflammation effectively:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> can lead to serious cardiovascular issues. Clove's anti-inflammatory properties can help manage heart inflammation effectively:</p>
 <ul>
 <li>Clove contains eugenol, a compound known for its anti-inflammatory effects, which can help reduce inflammation in the heart.</li>
 <li>Regular consumption of clove may help lower the risk of developing heart conditions related to chronic inflammation.</li>

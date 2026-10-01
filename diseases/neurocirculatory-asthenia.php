@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Neurocirculatory Asthenia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Discover symptoms, causes, and treatments for Neurocirculatory Asthenia on our cardiology website. Learn how to manage this condition effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/neurocirculatory-asthenia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/neurocirculatory-asthenia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/neurocirculatory-asthenia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/neurocirculatory-asthenia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Neurocirculatory Asthenia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/neurocirculatory-asthenia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/neurocirculatory-asthenia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Neurocirculatory Asthenia: Symptoms, Causes, and Treatment</h1>
-<p>Neurocirculatory asthenia, also known as effort syndrome, is a condition characterized by fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> upon exertion. While not life-threatening, it can significantly impact a person's quality of life. This condition is more prevalent in individuals who are under chronic stress or have anxiety disorders. Understanding the symptoms and seeking medical advice can help manage this condition effectively. If you experience these symptoms regularly, consulting a healthcare provider is essential for proper diagnosis and management.</p>
+<p>Neurocirculatory asthenia, also known as effort syndrome, is a condition characterized by fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> upon exertion. While not life-threatening, it can significantly impact a person's quality of life. This condition is more prevalent in individuals who are under chronic stress or have anxiety disorders. Understanding the symptoms and seeking medical advice can help manage this condition effectively. If you experience these symptoms regularly, consulting a healthcare provider is essential for proper diagnosis and management.</p>
 <h2 id="causes">Causes of Neurocirculatory Asthenia</h2>
 <p>Neurocirculatory asthenia, also known as Da Costa's syndrome, is influenced by various factors:
 
@@ -175,22 +175,22 @@
 <p>Recognizing the symptoms of Neurocirculatory Asthenia early on is crucial for improving outcomes. This condition affects the autonomic nervous system and can lead to a variety of symptoms. By being aware of these signs, individuals can seek timely medical attention and management. Some common symptoms of Neurocirculatory Asthenia include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
 <li>Dizziness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Anxiety</li>
 <li>Palpitations</li>
 </ul>
 
 Early detection of these symptoms can prompt proper evaluation and treatment, potentially preventing complications and promoting better heart health. If you experience any of these symptoms, it is essential to consult a healthcare provider for a thorough assessment and appropriate care.</p>
 <h2>Diagnosis of Neurocirculatory Asthenia</h2>
-<p>Neurocirculatory Asthenia, a condition causing fatigue, palpitations, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, requires an accurate diagnosis to tailor appropriate treatment plans and improve patient outcomes. The diagnostic process typically involves a thorough medical history review, physical examination, and various tests to rule out other conditions. Diagnostic methods for Neurocirculatory Asthenia include:
+<p>Neurocirculatory Asthenia, a condition causing fatigue, palpitations, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, requires an accurate diagnosis to tailor appropriate treatment plans and improve patient outcomes. The diagnostic process typically involves a thorough medical history review, physical examination, and various tests to rule out other conditions. Diagnostic methods for Neurocirculatory Asthenia include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Tilt table test to assess autonomic nervous system function</li>
 <li>Blood tests to check for anemia or thyroid issues</li>
 </ul></p>

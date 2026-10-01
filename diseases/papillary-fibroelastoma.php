@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Papillary Fibroelastoma: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Papillary fibroelastoma is a benign heart tumor causing blood flow obstruction. Know more about its symptoms, causes, and available treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/papillary-fibroelastoma">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/papillary-fibroelastoma">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/papillary-fibroelastoma" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/papillary-fibroelastoma" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Papillary Fibroelastoma",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/papillary-fibroelastoma"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/papillary-fibroelastoma"
       }]
     }
   </script>
@@ -182,23 +182,23 @@
 <p>Smoking can exacerbate endothelial damage and inflammation within the heart, potentially contributing to PFE development.</p>
 <ul>
 <li>Obesity: Excess body weight and obesity can strain the heart and increase the risk of developing cardiac abnormalities, potentially including PFE. Maintaining a healthy weight through diet and exercise is crucial in reducing this risk.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can put additional stress on the heart's valves, potentially leading to endothelial damage and the development of conditions like PFE. Controlling blood pressure through lifestyle modifications and medication can help mitigate this risk.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can put additional stress on the heart's valves, potentially leading to endothelial damage and the development of conditions like PFE. Controlling blood pressure through lifestyle modifications and medication can help mitigate this risk.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Papillary Fibroelastoma</h2>
 <p>The symptoms of PFE can vary depending on the tumor's size, location, and impact on cardiac function.</p>
 <ul>
 <li>Fatigue: Early-stage PFE may present with symptoms of fatigue due to the heart's compromised ability to pump blood efficiently. This fatigue may be persistent and not relieved by rest.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Patients with PFE may experience palpitations or irregular heartbeats, indicating disruptions in the heart's electrical conduction system.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Patients with PFE may experience palpitations or irregular heartbeats, indicating disruptions in the heart's electrical conduction system.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: In advanced stages, PFE can lead to symptoms of shortness of breath, especially during physical exertion. This may indicate significant impairment of cardiac function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Advanced PFE may cause chest pain or discomfort, potentially due to reduced blood flow to the heart muscle. This symptom should not be ignored and warrants immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: In advanced stages, PFE can lead to symptoms of shortness of breath, especially during physical exertion. This may indicate significant impairment of cardiac function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Advanced PFE may cause chest pain or discomfort, potentially due to reduced blood flow to the heart muscle. This symptom should not be ignored and warrants immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Papillary Fibroelastoma</h2>
 <p>Diagnosing PFE involves a multi-step approach to confirm the presence of the tumor and assess its impact on cardiac function.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Echocardiograms are commonly used to visualize cardiac structures and identify abnormalities like PFE. This imaging test provides detailed information on the tumor's size, location, and impact on blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Echocardiograms are commonly used to visualize cardiac structures and identify abnormalities like PFE. This imaging test provides detailed information on the tumor's size, location, and impact on blood flow.</li>
 <li>Cardiac MRI: Cardiac magnetic resonance imaging (MRI) offers high-resolution images of the heart, allowing for a comprehensive evaluation of PFE and its effects on surrounding tissues.</li>
 <li>Transesophageal Echocardiography: In cases where traditional echocardiograms may not provide sufficient detail, transesophageal echocardiography is utilized to obtain more precise images of the heart and valves.</li>
 <li>Surgical Biopsy: In some instances, a surgical biopsy may be necessary to confirm the diagnosis of PFE definitively. This invasive procedure involves the removal of a small tissue sample for pathological examination.</li>

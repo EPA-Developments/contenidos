@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peanuts: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover the cardiovascular benefits of peanuts for heart health: healthy fats, cholesterol reduction, and more. Learn how peanuts promote a healthy heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peanuts For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-heart"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>One of the key reasons why peanuts are beneficial for heart health is their high content of healthy fats. Omega-3 fatty acids, in particular, are essential for maintaining a healthy heart and reducing the risk of heart disease. While peanuts are not as rich in Omega-3s as fish, they still provide a good amount of these essential fatty acids.</p>
 <p>Consuming foods rich in healthy fats like peanuts can help improve blood circulation, lower blood pressure, and reduce inflammation in the body. By including peanuts in your diet, you can take a simple step towards protecting your heart and overall cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="cholesterol reduction">Cholesterol Reduction with Peanuts</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a common concern when it comes to heart health. Peanuts offer a natural solution to lowering cholesterol levels and improving your heart health. The combination of healthy fats, fiber, and plant sterols in peanuts can help reduce LDL cholesterol, also known as bad cholesterol, while increasing HDL cholesterol, the good kind.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a common concern when it comes to heart health. Peanuts offer a natural solution to lowering cholesterol levels and improving your heart health. The combination of healthy fats, fiber, and plant sterols in peanuts can help reduce LDL cholesterol, also known as bad cholesterol, while increasing HDL cholesterol, the good kind.</p>
 <p>Studies have shown that including peanuts in a balanced diet can lead to improvements in lipid profiles, which are essential for reducing the risk of heart disease and maintaining overall heart health. The fiber content in peanuts also plays a role in cholesterol management by binding to cholesterol and promoting its excretion from the body.</p>
 <h2 class="sec-scrl" id="heart health">Maintaining Heart Health</h2>
 <p>When it comes to maintaining heart health, a balanced diet plays a crucial role. Peanuts are a nutrient-dense food that can be a valuable addition to a heart-healthy diet. In addition to their healthy fats and cholesterol-lowering properties, peanuts also provide essential nutrients like magnesium, potassium, and folate, which are important for heart function.</p>

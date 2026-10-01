@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Sinus Tachycardia Causes">
   <meta property="og:description" content="Learn about sinus tachycardia causes and triggers in this informative article. Find out what factors can lead to this common heart condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sinus-tachycardia-causes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sinus-tachycardia-causes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sinus-tachycardia-causes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sinus-tachycardia-causes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sinus Tachycardia Causes",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/sinus-tachycardia-causes"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/sinus-tachycardia-causes"  
       }]
     }
   </script>

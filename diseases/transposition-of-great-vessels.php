@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transposition of Great Vessels: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Transposition of great vessels is a congenital heart defect. Know more about the symptoms, causes, and treatments for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/transposition-of-great-vessels">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/transposition-of-great-vessels">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/transposition-of-great-vessels" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/transposition-of-great-vessels" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Transposition Of Great Vessels",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/transposition-of-great-vessels"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/transposition-of-great-vessels"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>It is a critical congenital heart defect and requires prompt medical attention. The prevalence of Transposition of Great Vessels is estimated to be around 1 in every 3,300 live births.</p>
 <p>Without treatment, this condition can lead to severe health complications, affecting both short-term and long-term health outcomes.</p>
 <p>In Transposition of Great Vessels, the essential functions of the heart, including oxygenation of blood and circulation, are compromised.</p>
-<p>The heart's ability to pump oxygen-rich blood to the body and oxygen-poor blood to the lungs is disrupted, leading to inadequate oxygen supply to the body's tissues. This can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>, poor growth, and fatigue.</p>
+<p>The heart's ability to pump oxygen-rich blood to the body and oxygen-poor blood to the lungs is disrupted, leading to inadequate oxygen supply to the body's tissues. This can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>, poor growth, and fatigue.</p>
 <p>In the long term, untreated Transposition of Great Vessels can lead to heart failure, arrhythmias, and even death.</p>
 <p>In early stages, Transposition of Great Vessels may be asymptomatic, making it crucial for early detection through regular screenings, especially in newborns and infants.</p>
 <p>Timely diagnosis and intervention can significantly improve outcomes and reduce the risk of complications associated with this condition.</p>
@@ -191,18 +191,18 @@
 <h2 id="symptoms">Symptoms of Transposition Of Great Vessels</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li>Cyanosis: The baby may have <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> due to inadequate oxygen supply in the blood, especially noticeable around the lips and fingertips.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>: Infants with Transposition of Great Vessels may breathe faster than usual to compensate for the lack of oxygen in their blood.</li>
+<li>Cyanosis: The baby may have <a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> due to inadequate oxygen supply in the blood, especially noticeable around the lips and fingertips.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>: Infants with Transposition of Great Vessels may breathe faster than usual to compensate for the lack of oxygen in their blood.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Fatigue: Children with untreated Transposition of Great Vessels may experience fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> due to the heart's inability to pump blood effectively.</li>
-<li>Heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a>: Abnormal <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> may be present due to the structural abnormalities in the heart associated with Transposition of Great Vessels.</li>
+<li>Fatigue: Children with untreated Transposition of Great Vessels may experience fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> due to the heart's inability to pump blood effectively.</li>
+<li>Heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a>: Abnormal <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> may be present due to the structural abnormalities in the heart associated with Transposition of Great Vessels.</li>
 </ul>
 <h2>Diagnosis of Transposition Of Great Vessels</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></p>
 <p>An echocardiogram uses sound waves to create images of the heart's structure and function, allowing healthcare providers to visualize the positioning of the great vessels and diagnose Transposition of Great Vessels.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a></p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a></p>
 <p>Cardiac catheterization involves inserting a thin tube into a blood vessel and threading it to the heart to assess blood flow, pressure, and oxygen levels, providing valuable diagnostic information for Transposition of Great Vessels.</p>
 <p>MRI or CT Scan</p>
 <p>MRI or CT scans can provide detailed images of the heart and great vessels, helping to identify any structural abnormalities associated with Transposition of Great Vessels.</p>

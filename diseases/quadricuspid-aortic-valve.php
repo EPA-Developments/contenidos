@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Quadricuspid Aortic Valve: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Quadricuspid aortic valve is a rare heart condition. Know more about its causes, symptoms, and treatment for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/quadricuspid-aortic-valve">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/quadricuspid-aortic-valve">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/quadricuspid-aortic-valve" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/quadricuspid-aortic-valve" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Quadricuspid Aortic Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/quadricuspid-aortic-valve"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/quadricuspid-aortic-valve"
       }]
     }
   </script>
@@ -174,13 +174,13 @@
 <p>The causes of Quadricuspid Aortic Valve can be both genetic and acquired. Understanding these causes is crucial for identifying individuals at risk and implementing appropriate management strategies.</p>
 <ul>
 <li>Genetic Factors: Some cases of QAV are linked to genetic abnormalities that affect heart development. These genetic mutations can lead to the formation of an additional valve leaflet, disrupting the normal structure and function of the aortic valve over time.</li>
-<li>Inflammatory Processes: Inflammation of the aortic valve can result from conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a>, leading to structural changes that contribute to the development of QAV.</li>
+<li>Inflammatory Processes: Inflammation of the aortic valve can result from conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a>, leading to structural changes that contribute to the development of QAV.</li>
 <li>Congenital Anomalies: Certain congenital heart defects, such as bicuspid aortic valve, may predispose individuals to QAV. Patients with pre-existing heart conditions are at an increased risk of developing this rare valve anomaly.</li>
 <li>Age and Degenerative Changes: Aging and wear-and-tear on the heart valves can also contribute to the development of QAV. As individuals grow older, the risk of structural abnormalities in the aortic valve increases, potentially leading to QAV.</li>
 </ul>
-<p>Secondary risk factors or lifestyle contributors that may exacerbate the development of QAV include factors such as chronic <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, smoking, and a sedentary lifestyle. These lifestyle choices can impact heart health and contribute to the progression of valve abnormalities.</p>
+<p>Secondary risk factors or lifestyle contributors that may exacerbate the development of QAV include factors such as chronic <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, smoking, and a sedentary lifestyle. These lifestyle choices can impact heart health and contribute to the progression of valve abnormalities.</p>
 <ul>
-<li>Hypertension: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can exert excessive force on the heart valves, potentially leading to malformations or abnormalities in the aortic valve.</li>
+<li>Hypertension: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can exert excessive force on the heart valves, potentially leading to malformations or abnormalities in the aortic valve.</li>
 <li>Smoking: Tobacco use is associated with increased cardiovascular risk and can accelerate the progression of valve diseases like QAV.</li>
 <li>Sedentary Lifestyle: Lack of physical activity and poor cardiovascular fitness may compromise overall heart health, increasing the likelihood of developing valve disorders like QAV.</li>
 </ul>
@@ -189,12 +189,12 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fatigue: Individuals with QAV may experience persistent fatigue due to inefficient blood circulation and reduced cardiac output. This fatigue can impact daily activities and energy levels, affecting overall quality of life.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may occur in individuals with QAV, signaling underlying cardiac abnormalities. These symptoms may be misunderstood or overlooked, highlighting the importance of thorough cardiovascular evaluation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may occur in individuals with QAV, signaling underlying cardiac abnormalities. These symptoms may be misunderstood or overlooked, highlighting the importance of thorough cardiovascular evaluation.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: As QAV progresses, patients may develop <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> or shortness of breath, especially during physical exertion. This symptom can significantly impact physical well-being and may indicate worsening heart function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain can occur in advanced stages of QAV, reflecting potential complications such as heart failure or valve dysfunction. The severity of chest pain may vary, necessitating immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: As QAV progresses, patients may develop <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> or shortness of breath, especially during physical exertion. This symptom can significantly impact physical well-being and may indicate worsening heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain can occur in advanced stages of QAV, reflecting potential complications such as heart failure or valve dysfunction. The severity of chest pain may vary, necessitating immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Quadricuspid Aortic Valve</h2>
 <p>Diagnosing Quadricuspid Aortic Valve involves a comprehensive evaluation of cardiac structure and function to confirm the presence of QAV and assess associated complications.</p>

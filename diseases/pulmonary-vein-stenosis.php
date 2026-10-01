@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Vein Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Pulmonary Vein Stenosis: causes, symptoms, diagnosis, and treatment options. Find expert insights on managing this condition effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-vein-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-vein-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-vein-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-vein-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulmonary Vein Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-vein-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-vein-stenosis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Pulmonary Vein Stenosis: Symptoms, Causes, and Treatment</h1>
-<p>Pulmonary vein stenosis is a condition where the blood vessels carrying oxygen-rich blood from the lungs back to the heart become narrow, restricting blood flow. This can lead to serious heart and lung issues. While not very common, it can significantly impact a person's health. It's crucial to diagnose and manage this condition early to prevent complications. If you notice symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or fatigue, seek medical attention promptly for proper evaluation and treatment.</p>
+<p>Pulmonary vein stenosis is a condition where the blood vessels carrying oxygen-rich blood from the lungs back to the heart become narrow, restricting blood flow. This can lead to serious heart and lung issues. While not very common, it can significantly impact a person's health. It's crucial to diagnose and manage this condition early to prevent complications. If you notice symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or fatigue, seek medical attention promptly for proper evaluation and treatment.</p>
 <h2 id="causes">Causes of Pulmonary Vein Stenosis</h2>
 <p>Certainly! Pulmonary Vein Stenosis can develop due to various factors. Here are the main contributors:
 
@@ -177,7 +177,7 @@
 
 <ul>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Fatigue</li>
 <li>Coughing</li>
 <li>Wheezing</li>
@@ -189,9 +189,9 @@
 <ul>
 <li>Medical history review and physical examination</li>
 <li>Chest X-ray to check for abnormalities</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
 <li>Cardiac MRI or CT scan for detailed images</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> for precise measurements</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> for precise measurements</li>
 </ul>
 
 Early and accurate diagnosis is vital to initiate appropriate treatment and improve outcomes for individuals with Pulmonary Vein Stenosis.</p>
@@ -207,7 +207,7 @@ Early and accurate diagnosis is vital to initiate appropriate treatment and impr
 </ul>
 <h3>2. Balloon Angioplasty</h3>
 <ul>
-<li>Balloon <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> is a minimally invasive procedure that involves inflating a balloon in the narrowed vein to widen it and improve blood flow.</li>
+<li>Balloon <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> is a minimally invasive procedure that involves inflating a balloon in the narrowed vein to widen it and improve blood flow.</li>
 <li>The rationale behind balloon angioplasty is to relieve the blockage in the pulmonary vein and restore normal blood flow.</li>
 <li>The primary objective is to improve symptoms and prevent further complications.</li>
 <li>The procedure may need to be repeated over time if the stenosis recurs.</li>

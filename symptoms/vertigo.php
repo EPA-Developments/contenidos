@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vertigo Symptoms, Causes, Treatment and Management - When to Seek Help">
   <meta property="og:description" content="Experiencing vertigo? Learn about causes, treatment, managing symptoms, and when to seek help for vertigo and related ear and balance disorders.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/vertigo">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/vertigo">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/vertigo" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/vertigo" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Vertigo",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/vertigo"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/vertigo"  
       }]
     }
   </script>
@@ -186,16 +186,16 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Vertigo Symptoms, Causes, Treatment and Management - When to Seek Help</h1>
-<p>Vertigo is a condition characterized by a sensation of spinning or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, often accompanied by other symptoms like nausea, vomiting, and unsteadiness.</p>
+<p>Vertigo is a condition characterized by a sensation of spinning or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, often accompanied by other symptoms like nausea, vomiting, and unsteadiness.</p>
 <p>It can be distressing and disruptive to daily life, impacting one's ability to perform tasks that require balance and coordination.</p>
 <p>People experiencing vertigo may feel like the room is spinning around them or that they are spinning themselves.</p>
 <p>This sensation can be triggered by various factors, including changes in head position, inner ear problems, or issues with the central nervous system.</p>
-<p>In addition to the spinning sensation, individuals with vertigo may also experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, feeling unsteady, giddiness, and loss of balance. These symptoms can vary in intensity and duration, depending on the underlying cause of the vertigo.</p>
+<p>In addition to the spinning sensation, individuals with vertigo may also experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, feeling unsteady, giddiness, and loss of balance. These symptoms can vary in intensity and duration, depending on the underlying cause of the vertigo.</p>
 <h2 id="forms">What are the Forms of Vertigo?</h2>
 <p>There are different forms of vertigo, each with its own set of symptoms and triggers. The two main types of vertigo are peripheral vertigo and central vertigo.</p>
 <ul>
 <li>Peripheral vertigo is usually caused by problems in the inner ear, such as benign paroxysmal positional vertigo (BPPV), vestibular neuritis, or Meniere's disease. Symptoms may include dizziness triggered by changes in head position, nausea, and difficulty with balance.</li>
-<li>Central vertigo, on the other hand, is often linked to issues in the brain or central nervous system, such as migraines, brain tumors, or multiple sclerosis. Symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-dizziness">severe dizziness</a> that persists even when the head is still, double vision, and difficulty walking.</li>
+<li>Central vertigo, on the other hand, is often linked to issues in the brain or central nervous system, such as migraines, brain tumors, or multiple sclerosis. Symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-dizziness">severe dizziness</a> that persists even when the head is still, double vision, and difficulty walking.</li>
 </ul>
 <h2 id="causes">What are the Causes of Vertigo?</h2>
 <p>Vertigo can be caused by a variety of factors, ranging from inner ear problems to more serious underlying health conditions.</p>
@@ -223,8 +223,8 @@
 <ul>
 <li>Sudden onset of vertigo without an obvious trigger.</li>
 <li>Double vision or trouble speaking.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness in the arms or legs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> or fainting.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness in the arms or legs.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> or fainting.</li>
 </ul>
 <p>Additionally, if vertigo interferes with your daily activities or quality of life, it is advisable to consult a healthcare provider for proper evaluation and treatment.</p>
 <h2>Home Remedies for Vertigo</h2>

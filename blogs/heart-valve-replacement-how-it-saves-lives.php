@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="What Is Heart Valve Replacement: How It Saves Lives">
   <meta property="og:description" content="Learn what heart valve replacement is, how it saves lives, and why it's a crucial procedure for those with heart valve issues.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-how-it-saves-lives">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-how-it-saves-lives">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-how-it-saves-lives" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-how-it-saves-lives" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "What Is Heart Valve Replacement: How It Saves Lives",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-replacement-how-it-saves-lives"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-valve-replacement-how-it-saves-lives"  
       }]
     }
   </script>

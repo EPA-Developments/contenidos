@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Skipped Beats: Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="Skipped Heartbeats could signal arrhythmia or other heart-related problems. Find out more about what causes skipped beats and how they’re treated." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Skipped Beats",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats"  
       }]
     }
   </script>
@@ -188,12 +188,12 @@
             <div class="article-content"><h1>Skipped Beats: Symptoms, Causes, Diagnosis and Forms</h1>
 <p>Skipped beats, also known as premature heartbeats or premature contractions, are irregularities in the heart's rhythm. This condition can manifest as a feeling that your heart has skipped a beat, fluttered, or added an extra beat.</p>
 <p>While occasional skipped beats are common and typically harmless, frequent or persistent occurrences may indicate an underlying issue with the heart's electrical system.</p>
-<p>Symptoms of skipped beats may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, a sensation of fluttering in the chest, a racing heart, or discomfort in the chest.</p>
+<p>Symptoms of skipped beats may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, a sensation of fluttering in the chest, a racing heart, or discomfort in the chest.</p>
 <p>These irregularities can be sporadic or continuous, leading to varying levels of concern and discomfort for individuals experiencing them.</p>
 <h2 id="forms">What are the Forms of Skipped beats?</h2>
 <p>Skipped beats can present in different forms, each with its specific symptoms and related concepts:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: The heart's rhythm is disrupted, causing abnormal contractions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: The heart's rhythm is disrupted, causing abnormal contractions.</li>
 <li>Heart palpitations: Sensations of rapid or irregular heartbeats.</li>
 <li>Cardiac arrhythmia: Abnormal heart rhythms that can lead to skipped beats.</li>
 <li>Fluttering in the chest: A sensation of rapid, irregular movements in the chest.</li>
@@ -216,10 +216,10 @@
 <p>Diagnosing skipped beats typically involves a combination of:</p>
 <ul>
 <li>Physical examination: Checking for irregularities in the heart's rhythm and rate.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
 <li>Holter monitor: A portable device worn to monitor heart activity over an extended period.</li>
 <li>Stress test: Evaluating heart function during physical exertion.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Using sound waves to create images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Using sound waves to create images of the heart's structure and function.</li>
 <li>Blood tests: Checking for underlying conditions or imbalances that may contribute to skipped beats.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Skipped beats?</h2>
@@ -227,8 +227,8 @@
 <ul>
 <li>Lifestyle changes: Managing stress, avoiding triggers like caffeine and alcohol, and maintaining a healthy diet and exercise routine.</li>
 <li>Medications: Beta-blockers or anti-arrhythmic drugs may be prescribed to regulate heart rhythm.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a>: A procedure to restore normal heart rhythm using electrical shocks.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a>: Destroying abnormal heart tissue that causes irregularities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a>: A procedure to restore normal heart rhythm using electrical shocks.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a>: Destroying abnormal heart tissue that causes irregularities.</li>
 <li>Implantable devices: Pacemakers or defibrillators to regulate heart rhythm.</li>
 <li>Counseling: Therapy to address underlying anxiety or stress contributing to skipped beats.</li>
 <li>Surgery: In severe cases, surgical interventions may be necessary to correct underlying heart conditions.</li>
@@ -237,8 +237,8 @@
 <p>It's essential to seek medical attention if you experience:</p>
 <ul>
 <li>Frequent or persistent skipped beats.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort accompanying irregular heartbeats.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, lightheadedness, or fainting spells.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort accompanying irregular heartbeats.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, lightheadedness, or fainting spells.</li>
 <li>Shortness of breath or difficulty breathing.</li>
 <li>Unexplained fatigue or weakness.</li>
 <li>Family history of heart disease or sudden cardiac events.</li>

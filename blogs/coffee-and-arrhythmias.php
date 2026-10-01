@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coffee and Arrhythmias: What You Need to Know" />
     <meta property="og:description" content="Explore the impact of coffee on heart rhythm in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-arrhythmias" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-arrhythmias" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-arrhythmias" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-arrhythmias" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coffee And Arrhythmias",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-arrhythmias"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coffee-and-arrhythmias"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="arrhythmia-triggers">Arrhythmia Triggers</h2>
 <p>What are the common triggers of arrhythmias related to coffee intake? Identifying these triggers can help you manage your coffee consumption better and reduce the risk of irregular heartbeats. Here are some factors to be aware of:</p>
 <ul>
-<li>Caffeine can stimulate the heart and lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> in sensitive individuals.</li>
+<li>Caffeine can stimulate the heart and lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> in sensitive individuals.</li>
 <li>Excessive coffee consumption may trigger premature heartbeats or atrial fibrillation.</li>
 <li>Individuals with existing heart conditions should be cautious about their coffee intake to avoid arrhythmia episodes.</li>
 </ul>

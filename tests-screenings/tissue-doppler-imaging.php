@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Tissue Doppler Imaging: Purpose, Costs and Normal Range" property="og:title"/>
 <meta content="Tissue Doppler imaging measures heart muscle movement. Read more about its purpose, cost, and normal Range for better heart function." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/tissue-doppler-imaging" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/tissue-doppler-imaging" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/tissue-doppler-imaging" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/tissue-doppler-imaging" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tissue Doppler Imaging",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/tissue-doppler-imaging"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/tissue-doppler-imaging"  
       }]
     }
   </script>
@@ -160,14 +160,14 @@
 <p>This imaging modality provides valuable information about the function of the heart muscle and can help diagnose various heart conditions.</p>
 <p>In Tissue Doppler Imaging, different colors represent the direction and speed of tissue movement. For example, red indicates movement towards the transducer, while blue signifies movement away from it.</p>
 <p>By analyzing these color patterns, healthcare providers can evaluate the contraction and relaxation of the heart muscle.</p>
-<p>Tissue Doppler Imaging is often used in conjunction with other imaging modalities such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to provide a comprehensive assessment of heart function.</p>
-<p>This non-invasive technique is essential for detecting abnormalities in myocardial motion and diagnosing conditions like heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, and valvular heart disease.</p>
+<p>Tissue Doppler Imaging is often used in conjunction with other imaging modalities such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to provide a comprehensive assessment of heart function.</p>
+<p>This non-invasive technique is essential for detecting abnormalities in myocardial motion and diagnosing conditions like heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, and valvular heart disease.</p>
 <h2 id="purpose">What is the Purpose of Performing a Tissue Doppler Imaging Test?</h2>
 <p>The primary purpose of performing a Tissue Doppler Imaging test is to evaluate the motion and function of the heart muscle.</p>
 <p>By measuring the velocity of myocardial movement, healthcare providers can assess the contractility of the heart and detect any abnormalities in tissue motion.</p>
 <p>Tissue Doppler Imaging plays a crucial role in assessing myocardial motion, evaluating heart function, detecting heart disease, assessing heart valve function, and evaluating cardiac tissue movement and strain.</p>
 <p>This imaging technique provides valuable insights into the mechanical properties of the heart and helps guide treatment decisions for patients with cardiac conditions.</p>
-<p>Tissue Doppler Imaging is particularly useful in monitoring patients with heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, and other cardiovascular diseases.</p>
+<p>Tissue Doppler Imaging is particularly useful in monitoring patients with heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, and other cardiovascular diseases.</p>
 <p>It allows healthcare providers to track changes in myocardial function over time, assess the effectiveness of treatment interventions, and provide personalized care to patients with heart-related issues.</p>
 <h2 id="costs">What are the Costs of Tissue Doppler Imaging Tests in Americas?</h2>
 <p>The cost of Tissue Doppler Imaging tests in Americas can vary depending on various factors such as the location of the healthcare facility, the expertise of the healthcare provider, and the specific requirements of the test.</p>

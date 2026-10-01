@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dos and Don'ts for Managing Cardiac Asthma: Expert Tips for Better Health">
   <meta property="og:description" content="Learn the essential dos and don'ts for managing cardiac asthma effectively. Discover expert tips to improve your condition and quality of life.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dos And Don'Ts For Managing Cardiac Asthma: Expert Tips For Better Health",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/dos-and-donts-for-managing-cardiac-asthma-expert-tips-for-better-health"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin C and Heart Surgery Recovery: A Guide" />
     <meta property="og:description" content="Discover how Vitamin C supports heart surgery recovery: Post-surgery healing, immune system support, inflammation reduction, and nutritional aid." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-surgery-recovery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-surgery-recovery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-surgery-recovery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-surgery-recovery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Heart Surgery Recovery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-heart-surgery-recovery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-heart-surgery-recovery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Vitamin C for Heart Surgery Recovery</h1>
-<p>Are you looking to enhance your post-surgery healing process after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>? The role of Vitamin C in your recovery journey can be crucial. From daily activities to overall well-being, the impact of Vitamin C on surgical recovery is significant.</p>
+<p>Are you looking to enhance your post-surgery healing process after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>? The role of Vitamin C in your recovery journey can be crucial. From daily activities to overall well-being, the impact of Vitamin C on surgical recovery is significant.</p>
 <h2 class="sec-scrl" id="post-surgery-healing">Post Surgery Healing</h2>
 <p>Post-operative care plays a vital role in the healing process after heart surgery. Vitamin C, known for its immune-boosting properties, can aid in faster recovery by supporting your body's natural healing mechanisms. Here's how Vitamin C contributes to post-surgery healing:</p>
 <ul>

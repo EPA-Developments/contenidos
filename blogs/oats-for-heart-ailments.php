@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oats for Heart Health: Natural Remedy Guide&quot;" />
     <meta property="og:description" content="Discover how oats can naturally help with heart ailments & cholesterol for a healthier heart. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-heart-ailments" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oats-for-heart-ailments" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-heart-ailments" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oats-for-heart-ailments" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oats For Heart Ailments",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oats-for-heart-ailments"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oats-for-heart-ailments"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <li>Enhance the body's immune response, protecting against inflammation that can lead to heart complications.</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-control">Cholesterol Control</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a major risk factor for heart disease and stroke. Including oats in your diet can be a simple yet effective way to manage cholesterol levels and support heart health. Oats contain a specific type of fiber that helps reduce the absorption of cholesterol into the bloodstream, leading to improved lipid profiles.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a major risk factor for heart disease and stroke. Including oats in your diet can be a simple yet effective way to manage cholesterol levels and support heart health. Oats contain a specific type of fiber that helps reduce the absorption of cholesterol into the bloodstream, leading to improved lipid profiles.</p>
 <p>Here's how oats can help control cholesterol:</p>
 <ul>
 <li>The beta-glucans in oats bind to cholesterol in the gut, preventing it from being fully absorbed.</li>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cyanosis in Lips: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Cyanosis in the lips could indicate heart-related issues. Read more to learn about its causes, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis-in-lips">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis-in-lips">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis-in-lips" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis-in-lips" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cyanosis In Lips",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis-in-lips"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/cyanosis-in-lips"  
       }]
     }
   </script>
@@ -199,7 +199,7 @@
 <li>Discolored lips</li>
 <li>Oxygen deficiency in lips</li>
 <li>Purple lips</li>
-<li>Lip <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a></li>
+<li>Lip <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a></li>
 <li>Bluish tint to lips</li>
 </ul>
 <p>Each form may present with slightly different symptoms, but they all point to the same underlying issue of decreased oxygen saturation in the blood vessels near the lips.</p>
@@ -207,7 +207,7 @@
 <h2 id="causes">What are the Causes of Cyanosis in lips?</h2>
 <p>Cyanosis in lips can have various causes, ranging from mild to severe.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a></li>
 <li>Cold temperatures</li>
 <li>Heart or lung conditions</li>
 <li>Anemia</li>
@@ -246,7 +246,7 @@
 <p>By addressing the root cause of the condition, healthcare providers can effectively treat cyanosis in lips and improve overall health.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent cyanosis in lips or notice a sudden change in lip color.</p>
-<p>If your lips are turning blue or you have <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, it is crucial to visit a doctor immediately. These symptoms may indicate a more serious underlying health issue that requires prompt evaluation and treatment.</p>
+<p>If your lips are turning blue or you have <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, it is crucial to visit a doctor immediately. These symptoms may indicate a more serious underlying health issue that requires prompt evaluation and treatment.</p>
 <p>Additionally, if you have a history of heart or lung conditions, anemia, or exposure to toxins that could contribute to cyanosis in lips, it is important to consult with a healthcare provider.</p>
 <p>Early detection and treatment of the underlying cause of lip discoloration can help prevent complications and improve outcomes.</p>
 <p>Do not ignore persistent blue lips or lips turning blue, as they may be a sign of a significant health problem that needs to be addressed promptly.</p>

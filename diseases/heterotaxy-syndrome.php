@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heterotaxy Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heterotaxy Syndrome involves abnormal organ placement. Know more about its causes, symptoms, and treatment for improved well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heterotaxy-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heterotaxy-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heterotaxy-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heterotaxy-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heterotaxy Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heterotaxy-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heterotaxy-syndrome"
       }]
     }
   </script>
@@ -174,11 +174,11 @@
 <p>Recognizing the symptoms of Heterotaxy Syndrome early on is crucial as it can significantly impact outcomes for individuals affected by this condition. By being aware of the signs and symptoms, healthcare providers can promptly diagnose and manage the condition, leading to better overall health and quality of life for patients.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Fatigue</li>
 <li>Poor weight gain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color)</li>
 <li>Issues with feeding</li>
 <li>Abnormal positioning of organs</li>
 <li>Jaundice</li>
@@ -192,9 +192,9 @@ Diagnostic methods for Heterotaxy Syndrome include:
 
 <ul>
 <li>Physical examination and medical history review</li>
-<li>Imaging tests like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> and MRI</li>
+<li>Imaging tests like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> and MRI</li>
 <li>Genetic testing to identify associated genetic mutations</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
 <li>Consultation with specialists like cardiologists and geneticists</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Heterotaxy Syndrome</h2>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Raisins: Heart Health Benefits'" />
     <meta property="og:description" content="Discover the heart-healthy advantages of raisins, from antioxidants to blood pressure support. Unlock the power of this natural remedy today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/raisins-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/raisins-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Raisins For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/raisins-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/raisins-for-heart-health"
         }
     ]
 }
@@ -149,13 +149,13 @@
 <li>Antioxidants in raisins combat oxidative stress and inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Regulating Blood Pressure</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the potassium content in raisins can help lower blood pressure levels naturally. Potassium acts as a vasodilator, relaxing blood vessels and improving circulation, which in turn reduces the strain on your heart. By including raisins in your diet, you can support healthy blood pressure and lower your risk of heart-related issues.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the potassium content in raisins can help lower blood pressure levels naturally. Potassium acts as a vasodilator, relaxing blood vessels and improving circulation, which in turn reduces the strain on your heart. By including raisins in your diet, you can support healthy blood pressure and lower your risk of heart-related issues.</p>
 <ul>
 <li>Potassium in raisins acts as a natural way to lower blood pressure.</li>
 <li>Raisins help relax blood vessels and improve circulation.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-prevention">Preventing Heart Disease</h2>
-<p>Regular consumption of raisins can contribute to the prevention of heart disease due to their impressive nutrient profile. Their high fiber content helps lower cholesterol levels, while their antioxidants protect against <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions. By making raisins a part of your daily diet, you can take proactive steps towards safeguarding your heart health.</p>
+<p>Regular consumption of raisins can contribute to the prevention of heart disease due to their impressive nutrient profile. Their high fiber content helps lower cholesterol levels, while their antioxidants protect against <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions. By making raisins a part of your daily diet, you can take proactive steps towards safeguarding your heart health.</p>
 <ul>
 <li>Raisins aid in lowering cholesterol levels with their high fiber content.</li>
 <li>Antioxidants in raisins protect against atherosclerosis and heart disease.</li>

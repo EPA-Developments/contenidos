@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Saffron for Improved Blood Flow&quot;" />
     <meta property="og:description" content="Unlock the power of saffron for better blood circulation and vascular health. Boost your overall well-being today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/saffron-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/saffron-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/saffron-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/saffron-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Saffron And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/saffron-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/saffron-and-blood-circulation"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <h2 class="sec-scrl" id="peripheral-circulation">Can Saffron Support Peripheral Circulation?</h2>
 <p>Peripheral circulation refers to the blood flow in the extremities, such as the hands and feet, and plays a vital role in maintaining proper temperature regulation and tissue health. Saffron's ability to enhance peripheral circulation can have positive effects on your comfort and mobility.</p>
 <ul>
-<li>By promoting vasodilation, saffron can improve blood flow to the extremities, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet.</li>
+<li>By promoting vasodilation, saffron can improve blood flow to the extremities, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet.</li>
 <li>Enhanced peripheral circulation may also aid in wound healing and overall tissue repair, supporting optimal health in these areas.</li>
 <li>Regular intake of saffron may help maintain healthy peripheral circulation, contributing to your overall well-being and quality of life.</li>
 </ul>

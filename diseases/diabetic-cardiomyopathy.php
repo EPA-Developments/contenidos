@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Diabetic Cardiomyopathy: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Diabetic Cardiomyopathy weakens the heart in diabetes patients. Know more about its causes, symptoms, and treatment to maintain heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/diabetic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/diabetic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/diabetic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/diabetic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Diabetic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/diabetic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/diabetic-cardiomyopathy"
       }]
     }
   </script>
@@ -184,20 +184,20 @@
 <p>Symptoms of diabetic cardiomyopathy can vary depending on the stage of the condition.</p>
 <ul>
 <li>Fatigue: Increased fatigue due to reduced cardiac efficiency can impact daily activities and energy levels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, may be misunderstood or overlooked as a common sign of aging or deconditioning.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, may be misunderstood or overlooked as a common sign of aging or deconditioning.</li>
 </ul>
 <p>As the condition progresses to advanced stages, symptoms may include:</p>
 <ul>
 <li>Edema: Swelling in the legs and ankles due to fluid retention can signify advanced heart failure and have significant physical and emotional implications.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain, especially during exertion, can indicate worsening heart function and the need for immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort or pain, especially during exertion, can indicate worsening heart function and the need for immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Diabetic Cardiomyopathy</h2>
 <p>Diagnosing diabetic cardiomyopathy involves a comprehensive evaluation to assess cardiac structure and function accurately.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging test provides detailed information about the heart's structure and function, helping detect abnormalities associated with diabetic cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging test provides detailed information about the heart's structure and function, helping detect abnormalities associated with diabetic cardiomyopathy.</li>
 <li>Cardiac MRI: A cardiac MRI can reveal specific changes in the heart muscle, such as fibrosis, that are characteristic of diabetic cardiomyopathy.</li>
 <li>Blood Tests: Biomarkers related to heart function, inflammation, and oxidative stress can provide additional diagnostic information to support the diagnosis of diabetic cardiomyopathy.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can detect abnormal heart rhythms and conduction disturbances that may accompany diabetic cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG can detect abnormal heart rhythms and conduction disturbances that may accompany diabetic cardiomyopathy.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Diabetic Cardiomyopathy</h2>
 <p>The management of diabetic cardiomyopathy focuses on controlling blood sugar levels, optimizing heart function, and reducing cardiovascular risk.</p>

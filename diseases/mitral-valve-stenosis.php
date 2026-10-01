@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mitral Valve Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Mitral Valve Stenosis narrows the heart valve. Know more about its symptoms, causes, and treatment for healthier heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mitral Valve Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-stenosis"
       }]
     }
   </script>
@@ -161,28 +161,28 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Mitral Valve Stenosis</h1>
-<p>Mitral Valve Stenosis is a condition where the mitral valve in the heart narrows, making it harder for blood to flow through. This can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. It's a significant condition because it can affect the heart's ability to pump blood effectively. Mitral Valve Stenosis is more common in older adults but can also occur due to certain infections or congenital heart defects. It's essential to diagnose and treat this condition early to prevent complications and improve quality of life.</p>
+<p>Mitral Valve Stenosis is a condition where the mitral valve in the heart narrows, making it harder for blood to flow through. This can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. It's a significant condition because it can affect the heart's ability to pump blood effectively. Mitral Valve Stenosis is more common in older adults but can also occur due to certain infections or congenital heart defects. It's essential to diagnose and treat this condition early to prevent complications and improve quality of life.</p>
 <h2 id="causes">Causes of Mitral Valve Stenosis</h2>
 <p>Mitral Valve Stenosis, a condition where the mitral valve in the heart narrows, often develops due to several factors, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 <li>Calcium buildup on the valve leaflets</li>
 <li>Age-related degeneration</li>
-<li>History of infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
+<li>History of infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Mitral Valve Stenosis</h2>
 <p>Recognizing the symptoms of Mitral Valve Stenosis is crucial as early detection can significantly improve outcomes by allowing prompt intervention and management. This condition occurs when the mitral valve narrows, obstructing blood flow from the left atrium to the left ventricle.
 
 <ul>
 <li>Shortness of breath, especially during physical activity or when lying flat</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, even with mild exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, even with mild exertion</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Cough, possibly with blood-tinged sputum</li>
 <li>Chest pain or discomfort, often worsened by physical activity or stress</li>
 </ul></p>
 <h2>Diagnosis of Mitral Valve Stenosis</h2>
-<p>Accurate diagnosis of Mitral Valve Stenosis is crucial for timely intervention to prevent complications. The diagnostic process involves various methods to confirm the condition accurately. Firstly, a thorough physical exam and medical history review are conducted. Subsequently, diagnostic tests such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, electrocardiogram (ECG), chest X-ray, and cardiac catheterization are performed. These tests help evaluate the severity of the stenosis and its impact on heart function. Prompt and precise diagnosis enables healthcare providers to tailor appropriate treatment plans and improve patient outcomes. 
+<p>Accurate diagnosis of Mitral Valve Stenosis is crucial for timely intervention to prevent complications. The diagnostic process involves various methods to confirm the condition accurately. Firstly, a thorough physical exam and medical history review are conducted. Subsequently, diagnostic tests such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, electrocardiogram (ECG), chest X-ray, and cardiac catheterization are performed. These tests help evaluate the severity of the stenosis and its impact on heart function. Prompt and precise diagnosis enables healthcare providers to tailor appropriate treatment plans and improve patient outcomes. 
 
 <ul>
 <li>Physical exam and medical history review</li>

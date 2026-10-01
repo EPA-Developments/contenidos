@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="High Blood Pressure Symptoms, Causes and Diagnosis" >
   <meta property="og:description" content="High blood pressure can strain your heart. Know more about symptoms, causes, diagnosis, and effective treatment options for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "High Blood Pressure",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure"  
       }]
     }
   </script>
@@ -166,8 +166,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>High Blood Pressure Symptoms, Causes and Treatment</h1>
-<p>High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition where the force of blood against the walls of your arteries is consistently too high. This elevation in pressure can lead to serious health issues if left untreated.</p>
-<p>Symptoms of high blood pressure may include headaches, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and vision problems. However, in many cases, hypertension is known as the silent killer because it often presents no noticeable symptoms.</p>
+<p>High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition where the force of blood against the walls of your arteries is consistently too high. This elevation in pressure can lead to serious health issues if left untreated.</p>
+<p>Symptoms of high blood pressure may include headaches, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and vision problems. However, in many cases, hypertension is known as the silent killer because it often presents no noticeable symptoms.</p>
 <p>High blood pressure can be classified into two main forms - essential hypertension and secondary hypertension. Essential hypertension is the most common type, with no identifiable cause.</p>
 <p>Secondary hypertension, on the other hand, is caused by an underlying condition such as kidney disease, thyroid problems, or sleep apnea.</p>
 <h2 id="forms">What are the Forms of High Blood Pressure?</h2>
@@ -193,7 +193,7 @@
 <ul>
 <li>Medications: Your doctor may prescribe medications such as diuretics, beta-blockers, ACE inhibitors, or calcium channel blockers to help lower your blood pressure.</li>
 <li>Lifestyle changes: Adopting a healthy diet, regular exercise routine, stress management techniques, and limiting alcohol and tobacco consumption can help control hypertension.</li>
-<li>Advanced therapies: In some cases, advanced therapies such as renal denervation or baroreflex activation therapy may be recommended for severe or <a href="https://plataforma.epa-bienestar.com.ar/diseases/resistant-hypertension">resistant hypertension</a>.</li>
+<li>Advanced therapies: In some cases, advanced therapies such as renal denervation or baroreflex activation therapy may be recommended for severe or <a href="https://contenidos.segundaopinionmedica.org/diseases/resistant-hypertension">resistant hypertension</a>.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent symptoms of high blood pressure, such as severe headaches, chest pain, shortness of breath, or vision changes.</p>

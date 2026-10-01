@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Difficulty Lying Flat: Symptoms, Causes, Treatment" >
   <meta property="og:description" content="Difficulty lying flat could be a sign of heart trouble. Read more to learn about its causes, symptoms, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-lying-flat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-lying-flat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-lying-flat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-lying-flat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Difficulty Lying Flat",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-lying-flat"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/difficulty-lying-flat"  
       }]
     }
   </script>
@@ -186,9 +186,9 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Difficulty Lying Flat: Symptoms, Causes, Diagnosis</h1>
-<p>Difficulty lying flat, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/orthopnea">orthopnea</a>, is a condition where individuals struggle to breathe comfortably when lying flat on their back. This can lead to feelings of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, discomfort, and even panic.</p>
+<p>Difficulty lying flat, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/orthopnea">orthopnea</a>, is a condition where individuals struggle to breathe comfortably when lying flat on their back. This can lead to feelings of <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, discomfort, and even panic.</p>
 <p>It is often a sign of an underlying health issue, particularly related to the heart or lungs.</p>
-<p>Symptoms of difficulty lying flat may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> when lying down, trouble sleeping on the back, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> when prone, breathlessness while lying flat, discomfort lying down, lying flat triggering <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, and sleeping difficulty due to breathing issues.</p>
+<p>Symptoms of difficulty lying flat may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> when lying down, trouble sleeping on the back, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> when prone, breathlessness while lying flat, discomfort lying down, lying flat triggering <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, and sleeping difficulty due to breathing issues.</p>
 <h2 id="forms">What are the Forms of Difficulty lying flat?</h2>
 <p>There are various forms of difficulty lying flat, each with its specific symptoms and related concepts.</p>
 <p>These forms may include trouble sleeping on the back, shortness of breath when lying down, difficulty breathing when prone, breathlessness while lying flat, discomfort lying down, lying flat triggering dyspnea, and sleeping difficulty due to breathing issues.</p>
@@ -216,7 +216,7 @@
 <li>Smoking cessation</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent difficulty lying flat, especially if it is accompanied by other symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>.</p>
+<p>It is essential to seek medical attention if you experience persistent difficulty lying flat, especially if it is accompanied by other symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>.</p>
 <p>If orthopnea worsens over time or interferes with your daily activities, it is crucial to consult a healthcare professional for a proper evaluation and treatment plan.</p>
 <h2>Home Remedies for Difficulty lying flat</h2>
 <p>There are some effective home remedies that can help alleviate symptoms of difficulty lying flat. These remedies aim to improve breathing and overall comfort when lying down.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Broccoli: Lowering LDL Cholesterol Naturally&quot;" />
     <meta property="og:description" content="Discover how broccoli can help lower LDL cholesterol levels naturally. Learn more about broccoli and heart health benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-heart-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Broccoli is packed with antioxidants, such as vitamin C, beta-carotene, and selenium, which help combat oxidative stress in the body. Oxidative stress can lead to damage to blood vessels and increase the risk of cardiovascular disease. By including broccoli in your diet, you can boost your antioxidant intake and protect your heart from harmful free radicals.</p>
 <p>In addition to antioxidants, broccoli contains sulforaphane, a powerful compound that has been shown to reduce inflammation and improve heart health. Sulforaphane works by activating a specific protein that helps lower blood pressure and improve overall cardiovascular function.</p>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure: The Impact of Broccoli Consumption</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease. The good news is that broccoli contains nutrients, such as magnesium, potassium, and fiber, that can help regulate blood pressure levels. Potassium, in particular, plays a crucial role in maintaining healthy blood pressure by counteracting the effects of sodium in the body.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease. The good news is that broccoli contains nutrients, such as magnesium, potassium, and fiber, that can help regulate blood pressure levels. Potassium, in particular, plays a crucial role in maintaining healthy blood pressure by counteracting the effects of sodium in the body.</p>
 <p>By incorporating broccoli into your meals regularly, you can support optimal blood pressure levels and reduce the strain on your heart. Whether steamed, roasted, or added to salads, broccoli is a versatile vegetable that can easily be included in a heart-healthy diet.</p>
 <h2 class="sec-scrl" id="cardiovascular-disease">Cardiovascular Disease: Broccoli's Role in Prevention</h2>
 <p>Cardiovascular disease encompasses a range of conditions that affect the heart and blood vessels. Broccoli, with its rich array of nutrients, can help lower the risk of developing these conditions. The fiber content in broccoli aids in reducing cholesterol levels, especially LDL cholesterol, which is a major contributor to heart disease.</p>

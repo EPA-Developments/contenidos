@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oranges: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Explore how oranges can reduce heart inflammation naturally. Discover the anti-inflammatory effects of oranges and their benefits for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-oranges" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-oranges" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-oranges" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-oranges" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anti Inflammatory Effects Of Oranges",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-oranges"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-oranges"
         }
     ]
 }
@@ -146,14 +146,14 @@
 <li>Combined with vitamin C, flavonoids in oranges provide a powerful defense against inflammation and its harmful effects on the heart.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-and-inflammation">Heart Disease and Inflammation</h2>
-<p>Heart disease is a leading cause of death worldwide, with inflammation playing a significant role in its development and progression. Chronic inflammation can damage blood vessels, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular issues. By addressing inflammation through dietary interventions like consuming oranges, individuals can potentially lower their risk of heart disease and improve heart function.</p>
+<p>Heart disease is a leading cause of death worldwide, with inflammation playing a significant role in its development and progression. Chronic inflammation can damage blood vessels, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular issues. By addressing inflammation through dietary interventions like consuming oranges, individuals can potentially lower their risk of heart disease and improve heart function.</p>
 <ul>
 <li>Inflammation in the heart can contribute to conditions like coronary artery disease and heart failure.</li>
 <li>Reducing inflammation through a diet rich in anti-inflammatory foods like oranges can help prevent heart disease and its complications.</li>
 <li>Regular intake of oranges may support healthy cholesterol levels and reduce inflammation in the arteries, promoting better heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="reducing-heart-inflammation-naturally">Reducing Heart Inflammation Naturally</h2>
-<p>When it comes to reducing <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> naturally, dietary choices can make a significant impact on overall cardiovascular health. Oranges offer a convenient and tasty way to incorporate anti-inflammatory compounds into your daily routine. By including oranges in a well-rounded diet, individuals can support heart health, reduce inflammation, and lower the risk of heart disease.</p>
+<p>When it comes to reducing <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> naturally, dietary choices can make a significant impact on overall cardiovascular health. Oranges offer a convenient and tasty way to incorporate anti-inflammatory compounds into your daily routine. By including oranges in a well-rounded diet, individuals can support heart health, reduce inflammation, and lower the risk of heart disease.</p>
 <p>Ways to naturally reduce heart inflammation with oranges:</p>
 <ul>
 <li>Enjoy fresh oranges as a snack or add them to salads and smoothies for a burst of flavor and health benefits.</li>

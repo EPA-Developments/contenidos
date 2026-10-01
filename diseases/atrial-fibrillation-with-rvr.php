@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Fibrillation With RVR: Symptoms, and Treatments" >
   <meta property="og:description" content="Atrial Fibrillation with RVR speeds up heart rate, causing risks. Read more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrial-fibrillation-with-rvr">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrial-fibrillation-with-rvr">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrial-fibrillation-with-rvr" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrial-fibrillation-with-rvr" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrial Fibrillation With Rvr",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrial-fibrillation-with-rvr"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrial-fibrillation-with-rvr"
       }]
     }
   </script>
@@ -172,9 +172,9 @@
 <h2 id="causes">Causes of Atrial Fibrillation With RVR</h2>
 <p>Atrial Fibrillation with RVR can be caused by various factors, both primary and secondary.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 </ul>
-<p>Hypertension, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, can lead to structural changes in the heart over time, making it more susceptible to developing arrhythmias like Atrial Fibrillation with RVR.</p>
+<p>Hypertension, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, can lead to structural changes in the heart over time, making it more susceptible to developing arrhythmias like Atrial Fibrillation with RVR.</p>
 <ul>
 <li>Heart valve disorders</li>
 </ul>
@@ -189,14 +189,14 @@
 <p>Coronary artery disease, characterized by narrowed or blocked arteries supplying the heart, can compromise cardiac function and increase the likelihood of developing atrial fibrillation with RVR.</p>
 <p>Secondary risk factors or lifestyle contributors may include obesity, excessive alcohol consumption, and sleep apnea, all of which can exacerbate the underlying cardiac conditions leading to atrial fibrillation with RVR.</p>
 <h2 id="symptoms">Symptoms of Atrial Fibrillation With RVR</h2>
-<p>Early-stage symptoms of Atrial Fibrillation with RVR may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. These symptoms can impact daily activities and energy levels, potentially leading to decreased exercise tolerance and overall quality of life.</p>
-<p>In advanced stages, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fainting episodes, which can significantly affect physical and emotional well-being, leading to anxiety and reduced quality of life.</p>
+<p>Early-stage symptoms of Atrial Fibrillation with RVR may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. These symptoms can impact daily activities and energy levels, potentially leading to decreased exercise tolerance and overall quality of life.</p>
+<p>In advanced stages, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fainting episodes, which can significantly affect physical and emotional well-being, leading to anxiety and reduced quality of life.</p>
 <h2>Diagnosis of Atrial Fibrillation With RVR</h2>
 <p>The diagnosis of Atrial Fibrillation with RVR typically involves a series of tests to accurately identify and evaluate the condition.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): This non-invasive test records the heart's electrical activity, helping detect irregular rhythms like Atrial Fibrillation with RVR.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): This non-invasive test records the heart's electrical activity, helping detect irregular rhythms like Atrial Fibrillation with RVR.</li>
 <li>Holter monitor: A portable device worn by the patient to monitor heart rhythms continuously over 24-48 hours, aiding in the detection of intermittent arrhythmias.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, helping identify any underlying abnormalities associated with Atrial Fibrillation with RVR.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function, helping identify any underlying abnormalities associated with Atrial Fibrillation with RVR.</li>
 <li>Blood tests: These tests can assess thyroid function, electrolyte levels, and other biomarkers that may contribute to the development of atrial fibrillation with RVR.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Atrial Fibrillation With RVR</h2>

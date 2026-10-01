@@ -10,12 +10,12 @@
     <meta property="og:title" content="Prevent & Manage Peripheral Heart Disease: Tips & Treatments" />
     <meta property="og:description" content="Learn effective strategies to prevent and manage peripheral heart disease for better vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peripheral-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peripheral-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peripheral Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peripheral-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peripheral-heart-disease"
         }
     ]
 }
@@ -194,7 +194,7 @@
 <h2 class="sec-scrl" id="treatment-options-for-peripheral-heart-disease">Treatment Options for Peripheral Heart Disease</h2>
 <p>When conservative measures are not sufficient, various treatment options are available to address peripheral heart disease. These may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> and stenting: In cases of severe artery blockages, these procedures can help restore blood flow and alleviate symptoms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> and stenting: In cases of severe artery blockages, these procedures can help restore blood flow and alleviate symptoms.</li>
 <li>Bypass surgery: For complex blockages, bypass surgery may be recommended to create new pathways for blood to reach the affected areas.</li>
 <li>Medications: Different medications can be prescribed to manage symptoms, prevent clot formation, and improve overall cardiovascular health.</li>
 </ul>
@@ -202,8 +202,8 @@
 <p>Understanding the risk factors associated with PAD is crucial for prevention and early intervention. Some common risk factors include:</p>
 <ul>
 <li>Diabetes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a></li>
 </ul>
 <p>To reduce your risk of developing PAD, it's essential to address these risk factors through lifestyle modifications, regular screenings, and proactive management of underlying health conditions.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>

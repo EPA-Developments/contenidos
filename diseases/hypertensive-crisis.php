@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypertensive Crisis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hypertensive Crisis can lead to severe health problems. Know more about its causes, symptoms, and treatment for better health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hypertensive-crisis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hypertensive-crisis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hypertensive-crisis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hypertensive-crisis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hypertensive Crisis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hypertensive-crisis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hypertensive-crisis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Hypertensive Crisis</h1>
-<p>A Hypertensive Crisis is when blood pressure skyrockets to dangerous levels, posing immediate health risks. This condition is crucial to address promptly as it can lead to severe complications like stroke or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. While less common than regular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, it requires urgent medical attention. If you experience symptoms like severe headache, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, seek help immediately. Regular monitoring of blood pressure can help prevent such crises, emphasizing the importance of routine check-ups.</p>
+<p>A Hypertensive Crisis is when blood pressure skyrockets to dangerous levels, posing immediate health risks. This condition is crucial to address promptly as it can lead to severe complications like stroke or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. While less common than regular <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, it requires urgent medical attention. If you experience symptoms like severe headache, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, seek help immediately. Regular monitoring of blood pressure can help prevent such crises, emphasizing the importance of routine check-ups.</p>
 <h2 id="causes">Causes of Hypertensive Crisis</h2>
 <p><h3>Main Factors Contributing to the Development of Hypertensive Crisis:</h3>
 <ul>
@@ -192,8 +192,8 @@ Prompt identification of these symptoms can lead to timely medical intervention,
 <ul>
 <li>Physical examination to check for symptoms like severe headache or chest pain</li>
 <li>Blood tests to evaluate organ function and detect any underlying conditions</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Imaging tests like CT scans or MRIs to check for organ damage</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Hypertensive Crisis</h2>
@@ -206,7 +206,7 @@ Prompt identification of these symptoms can lead to timely medical intervention,
 <li>Adopting a healthy diet rich in fruits, vegetables, whole grains, and lean proteins.</li>
 <li>Limiting salt intake to help control blood pressure.</li>
 <li>Engaging in regular physical activity to improve heart health.</li>
-<li>Maintaining a healthy weight to reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Maintaining a healthy weight to reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 </ul>
 <h3>Regular Screenings:</h3>
 <ul>

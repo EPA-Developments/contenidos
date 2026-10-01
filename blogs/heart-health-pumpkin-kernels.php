@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pumpkin Seed Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Discover how pumpkin kernels can boost heart health with their nutrient-rich seeds, antioxidants, and omega-3 content. Improve cardiovascular health naturally!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-pumpkin-kernels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-health-pumpkin-kernels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-pumpkin-kernels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-health-pumpkin-kernels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Health  Pumpkin Kernels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-health-pumpkin-kernels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-health-pumpkin-kernels"
         }
     ]
 }
@@ -155,7 +155,7 @@
 </ul>
 <p>By including pumpkin kernels in your meals or snacks, you can take proactive steps towards maintaining a healthy heart.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">Cholesterol Levels</h2>
-<p>One of the key benefits of pumpkin seeds for heart health is their ability to help manage cholesterol levels. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a risk factor for heart disease, and incorporating pumpkin seeds into your diet can help lower LDL (bad) cholesterol levels and increase HDL (good) cholesterol levels.</p>
+<p>One of the key benefits of pumpkin seeds for heart health is their ability to help manage cholesterol levels. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a risk factor for heart disease, and incorporating pumpkin seeds into your diet can help lower LDL (bad) cholesterol levels and increase HDL (good) cholesterol levels.</p>
 <ul>
 <li>Contain phytosterols that help lower cholesterol</li>
 <li>Rich in fiber that aids in cholesterol management</li>

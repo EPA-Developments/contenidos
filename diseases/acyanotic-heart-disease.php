@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acyanotic Heart Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Acyanotic means without cyanosis, which is a bluish tint to the skin, lips, and nail beds. Read more about its causes, symptoms, and treatments" >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/acyanotic-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/acyanotic-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/acyanotic-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/acyanotic-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Acyanotic Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/acyanotic-heart-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/acyanotic-heart-disease"
       }]
     }
   </script>
@@ -176,8 +176,8 @@
 <p>Recognizing the symptoms of Acyanotic Heart Disease early on is crucial for improving outcomes and initiating timely interventions. Identifying these symptoms promptly can lead to better management of the condition and prevent potential complications. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Fatigue</li>
 <li>Poor feeding (in infants)</li>
 <li>Difficulty gaining weight</li>
@@ -187,10 +187,10 @@
 <p>Accurate diagnosis of Acyanotic Heart Disease is crucial for timely intervention and treatment planning. The diagnostic process typically involves a combination of medical history review, physical examination, and various tests. Diagnostic methods may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity.</li>
 <li>Chest X-ray to examine the heart and lungs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> for detailed assessment of heart chambers and vessels.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> for detailed assessment of heart chambers and vessels.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Acyanotic Heart Disease</h2>
 <p>When managing Acyanotic Heart Disease, personalized care is crucial for the best outcomes. Treatment approaches may include medication, procedures, or surgery. 

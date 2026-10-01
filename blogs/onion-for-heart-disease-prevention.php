@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Onion: Heart Disease Prevention Power&quot;" />
     <meta property="og:description" content="Discover the potent benefits of using onion for heart disease prevention. Improve heart health naturally with this powerful remedy." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Onion For Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/onion-for-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/onion-for-heart-disease-prevention"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>Looking for natural ways to promote heart health? Incorporating onions into your diet can be a simple yet effective strategy. Here are some heart health remedies that onions offer:</p>
 <ul>
 <li>Onions contain allicin, a compound known for its cholesterol-lowering effects, aiding in maintaining a healthy lipid profile.</li>
-<li>The anti-inflammatory properties of onions may help prevent the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease.</li>
+<li>The anti-inflammatory properties of onions may help prevent the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a major risk factor for heart disease.</li>
 <li>Regular consumption of onions may help improve endothelial function, supporting arterial health and overall cardiovascular well-being.</li>
 </ul>
 <h2 class="sec-scrl" id="natural-heart-care">Natural Heart Care</h2>

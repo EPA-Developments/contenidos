@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Folic Acid and Blood Pressure Control&quot;" />
     <meta property="og:description" content="Explore how Folic Acid influences blood pressure regulation. Learn about hypertension, folate supplementation, and vascular health benefits." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Impact of Folic Acid on Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure levels effectively? Have you ever wondered about the role of folic acid in regulating blood pressure? The connection between folic acid and blood pressure may hold the key to better vascular health and improved blood pressure management. Let's delve into the impact of folic acid on your blood pressure and how it affects your daily life.</p>
 <h2 class="sec-scrl" id="hypertension">Can Folic Acid Help Control Hypertension?</h2>
-<p>Folic acid, also known as folate or vitamin B9, plays a crucial role in supporting healthy blood flow and vascular relaxation. Increased folic acid levels in the body have been linked to improved nitric oxide production, a key molecule that helps dilate blood vessels and promote optimal blood circulation. By enhancing nitric oxide synthesis, folic acid may help lower blood pressure and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Folic acid, also known as folate or vitamin B9, plays a crucial role in supporting healthy blood flow and vascular relaxation. Increased folic acid levels in the body have been linked to improved nitric oxide production, a key molecule that helps dilate blood vessels and promote optimal blood circulation. By enhancing nitric oxide synthesis, folic acid may help lower blood pressure and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <p>Furthermore, studies have shown that folate supplementation can lead to a decrease in systolic and diastolic blood pressure levels, particularly in individuals with hypertension. Including an adequate amount of folic acid in your diet or taking supplements as recommended by your healthcare provider could potentially contribute to better blood pressure control.</p>
 <h2 class="sec-scrl" id="folate-supplementation">The Benefits of Folate Supplementation for Vascular Health</h2>
 <p>In addition to its role in blood pressure regulation, folate supplementation offers a range of benefits for vascular health. Folic acid helps in the formation of red blood cells and supports the proper functioning of the cardiovascular system. By promoting healthy blood circulation and optimal oxygen delivery to tissues, folic acid contributes to overall vascular well-being.</p>

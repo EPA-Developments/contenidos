@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Irregular Pulse: Causes, Symptoms, and Treatment Options" >
   <meta property="og:description" content="An irregular pulse can indicate heart problems. Know more about its symptoms, causes, diagnosis, and treatment for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-pulse">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/irregular-pulse">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-pulse" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-pulse" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Irregular Pulse",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/irregular-pulse"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/irregular-pulse"  
       }]
     }
   </script>
@@ -186,10 +186,10 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Irregular Pulse: Diagnosis, Symptoms, and Treatment Options</h1>
-<p>Irregular pulse, also known as an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or arrhythmia, refers to a heart rhythm that is not steady or regular.</p>
-<p>This condition can manifest in various ways, such as abnormal heartbeat, uneven pulse, erratic pulse, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a>, arrhythmia, irregular heart rhythm, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>.</p>
+<p>Irregular pulse, also known as an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or arrhythmia, refers to a heart rhythm that is not steady or regular.</p>
+<p>This condition can manifest in various ways, such as abnormal heartbeat, uneven pulse, erratic pulse, <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a>, arrhythmia, irregular heart rhythm, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>.</p>
 <p>It occurs when the electrical signals that coordinate your heartbeats do not function properly, causing your heart to beat too fast, too slow, or irregularly.</p>
-<p>Symptoms of irregular pulse may vary from person to person but commonly include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, fluttering in the chest, a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/racing-heartbeat">racing heartbeat</a>, chest discomfort, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, or fainting.</p>
+<p>Symptoms of irregular pulse may vary from person to person but commonly include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, fluttering in the chest, a <a href="https://contenidos.segundaopinionmedica.org/symptoms/racing-heartbeat">racing heartbeat</a>, chest discomfort, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, or fainting.</p>
 <p>It is essential to note that occasional irregular heartbeats are common and usually harmless. However, persistent or severe irregularities may indicate an underlying heart condition that requires medical attention.</p>
 <h2 id="forms">What are the Forms of Irregular pulse?</h2>
 <p>There are several forms of irregular pulse, each with its specific symptoms and related concepts. These forms include abnormal heartbeat, uneven pulse, erratic pulse, skipped beats, arrhythmia, irregular heart rhythm, and heart palpitation.</p>

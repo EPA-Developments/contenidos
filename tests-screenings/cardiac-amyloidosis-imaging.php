@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Cardiac Amyloidosis Imaging: Purpose and Normal Range" property="og:title"/>
 <meta content="Cardiac amyloidosis imaging detects protein buildup in the heart. Know more about its purpose, costs, and normal Range for early diagnosis." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-amyloidosis-imaging" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-amyloidosis-imaging" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-amyloidosis-imaging" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-amyloidosis-imaging" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Amyloidosis Imaging",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-amyloidosis-imaging"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-amyloidosis-imaging"  
       }]
     }
   </script>
@@ -156,7 +156,7 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range for Cardiac Amyloidosis Imaging and Purpose</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-amyloidosis">cardiac amyloidosis</a> imaging is a diagnostic test used to detect the presence of amyloid deposits in the heart. Amyloidosis is a condition where abnormal proteins called amyloids build up in tissues and organs, including the heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-amyloidosis">cardiac amyloidosis</a> imaging is a diagnostic test used to detect the presence of amyloid deposits in the heart. Amyloidosis is a condition where abnormal proteins called amyloids build up in tissues and organs, including the heart.</p>
 <p>Imaging techniques such as cardiac MRI and PET scans are used to visualize these deposits and assess the extent of heart involvement.</p>
 <p>Cardiac amyloidosis imaging is crucial for diagnosing heart involvement in patients with amyloidosis. By detecting amyloid deposits in the heart, healthcare providers can determine the severity of the condition and develop an appropriate treatment plan.</p>
 <p>Imaging also helps differentiate cardiac amyloidosis from other heart diseases with similar symptoms, ensuring accurate diagnosis and timely intervention.</p>
@@ -167,7 +167,7 @@
 <p>By visualizing amyloid deposits, healthcare providers can determine the severity of cardiac involvement and tailor treatment strategies accordingly.</p>
 <p>Cardiac amyloidosis imaging is also used to monitor disease progression and response to treatment. By conducting follow-up imaging tests at regular intervals, healthcare providers can track changes in amyloid deposition and assess the effectiveness of therapeutic interventions.</p>
 <p>Imaging plays a crucial role in managing cardiac amyloidosis and optimizing patient outcomes.</p>
-<p>Additionally, cardiac amyloidosis imaging helps differentiate cardiac amyloidosis from other heart diseases, such as hypertrophic <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or heart failure.</p>
+<p>Additionally, cardiac amyloidosis imaging helps differentiate cardiac amyloidosis from other heart diseases, such as hypertrophic <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or heart failure.</p>
 <p>By identifying specific patterns of amyloid deposition in the heart, healthcare providers can make an accurate diagnosis and provide appropriate care for patients with cardiac amyloidosis.</p>
 <h2 id="costs">What are the Costs of Cardiac Amyloidosis Imaging Tests in Americas?</h2>
 <p>The costs of cardiac amyloidosis imaging tests in Americas can vary depending on the type of imaging modality used, the healthcare facility, and the location.</p>

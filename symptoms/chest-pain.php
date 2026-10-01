@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chest Pain: Causes, Symptoms, and Treatment Options" >
   <meta property="og:description" content="Chest pain can indicate serious heart issues. Learn more about its causes, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/chest-pain"  
       }]
     }
   </script>
@@ -192,8 +192,8 @@
 <h2 id="forms">What are the Forms of Chest Pain?</h2>
 <p>There are different forms of chest pain, each with specific symptoms and related concepts:</p>
 <ul>
-<li>Heart-related chest pain: Often described as a squeezing or pressure sensation in the chest, usually caused by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain">sharp chest pain</a>: Sharp, stabbing pain that worsens with deep breaths or movement, may indicate a rib or muscle injury.</li>
+<li>Heart-related chest pain: Often described as a squeezing or pressure sensation in the chest, usually caused by <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain">sharp chest pain</a>: Sharp, stabbing pain that worsens with deep breaths or movement, may indicate a rib or muscle injury.</li>
 <li>Chest pain and anxiety: Chest pain can be a symptom of anxiety or panic attacks, causing a sense of impending doom or fear.</li>
 <li>Right-side chest pain: Pain on the right side of the chest can be due to conditions like gallbladder issues or lung infections.</li>
 </ul>
@@ -203,7 +203,7 @@
 <li>Angina: Reduced blood flow to the heart muscle, leading to chest pain or discomfort.</li>
 <li>Muscle strain: Overuse or injury to the chest muscles or ribs.</li>
 <li>Gastroesophageal reflux disease (GERD): Acid reflux into the esophagus, causing burning chest pain.</li>
-<li>Panic attacks: Intense fear or anxiety leading to chest pain and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li>Panic attacks: Intense fear or anxiety leading to chest pain and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Chest Pain?</h2>
 <p>To diagnose the cause of chest pain, healthcare providers may use various methods:</p>
@@ -211,7 +211,7 @@
 <li>Physical examination: Checking for signs of heart or lung issues.</li>
 <li>Imaging tests: X-rays, CT scans, or MRI to visualize the chest area.</li>
 <li>Blood tests: Checking for markers of heart damage or inflammation.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Recording the heart's electrical activity to detect abnormalities.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Chest Pain?</h2>
 <p>Treatment for chest pain depends on the underlying cause and may include:</p>
@@ -223,7 +223,7 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience the following symptoms:</p>
 <ul>
-<li>Chest pain with shortness of breath, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or nausea.</li>
+<li>Chest pain with shortness of breath, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or nausea.</li>
 <li>Chest pain that radiates to the arms, neck, jaw, or back.</li>
 <li>Chest pain lasting more than a few minutes or recurring frequently.</li>
 </ul>
@@ -232,7 +232,7 @@
 <ul>
 <li>Deep breathing exercises to reduce anxiety and stress.</li>
 <li>Applying a warm compress to the chest to relieve muscle tension.</li>
-<li>Avoiding trigger foods that worsen acid reflux or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a>.</li>
+<li>Avoiding trigger foods that worsen acid reflux or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a>.</li>
 <li>Practicing relaxation techniques like meditation or yoga to calm the mind and body.</li>
 </ul>
 <p>In conclusion, chest pain can be a concerning symptom that requires prompt evaluation to determine its cause and appropriate treatment.</p>

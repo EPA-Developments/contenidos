@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Persistent Low Blood Pressure: Causes, Symptoms, and Diagnosis" >
   <meta property="og:description" content="Persistent low blood pressure can affect your heart. Read more about its causes, symptoms, diagnosis, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-low-blood-pressure" >
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/persistent-low-blood-pressure" >
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-low-blood-pressure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/persistent-low-blood-pressure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Persistent Low Blood Pressure",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/persistent-low-blood-pressure"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/persistent-low-blood-pressure"  
       }]
     }
   </script>
@@ -186,12 +186,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Persistent Low Blood Pressure: Causes, Symptoms, and Treatment</h1>
-<p>Persistent low blood pressure, also known as chronic hypotension or long-term <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, refers to consistently low blood pressure readings over an extended period.</p>
+<p>Persistent low blood pressure, also known as chronic hypotension or long-term <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, refers to consistently low blood pressure readings over an extended period.</p>
 <p>It is characterized by a systolic blood pressure below 90 mm Hg and a diastolic blood pressure below 60 mm Hg.</p>
-<p>This condition can lead to ongoing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, and fainting episodes due to inadequate blood flow to vital organs.</p>
+<p>This condition can lead to ongoing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, and fainting episodes due to inadequate blood flow to vital organs.</p>
 <h2 id="forms">What are the Forms of Persistent low blood pressure?</h2>
 <p>There are various forms of persistent low blood pressure, including continuous low BP, consistently low blood pressure, and low blood pressure all the time.</p>
-<p>These forms can present with symptoms such as persistent dizziness due to low BP, ongoing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, and a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. It is essential to differentiate these forms to determine the underlying cause and appropriate treatment approach.</p>
+<p>These forms can present with symptoms such as persistent dizziness due to low BP, ongoing <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, and a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. It is essential to differentiate these forms to determine the underlying cause and appropriate treatment approach.</p>
 <h2 id="causes">What are the Causes of Persistent low blood pressure?</h2>
 <p>Persistent low blood pressure can be caused by several factors, including dehydration, heart conditions, endocrine disorders, severe infections, and neurological conditions. Other causes may include nutritional deficiencies, prolonged bed rest, certain medications, or underlying genetic factors.</p>
 <p>Understanding the root cause of persistent low blood pressure is crucial for effective management and treatment.</p>
@@ -203,7 +203,7 @@
 <p>Medical interventions may include medications to increase blood volume or constrict blood vessels, lifestyle modifications like staying hydrated and avoiding prolonged standing, and advanced approaches such as physical therapy or biofeedback techniques.</p>
 <p>It is essential to work closely with healthcare providers to tailor a treatment plan that suits individual needs.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is crucial to seek medical attention for persistent low blood pressure if you experience severe symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, confusion, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>.</p>
+<p>It is crucial to seek medical attention for persistent low blood pressure if you experience severe symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, confusion, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>.</p>
 <p>Additionally, if you have a history of heart disease or other underlying conditions, it is important to consult a healthcare provider for proper evaluation and management.</p>
 <p>Regular monitoring and follow-up appointments are essential for tracking progress and adjusting treatment as needed.</p>
 <h2>Home Remedies for Persistent low blood pressure</h2>

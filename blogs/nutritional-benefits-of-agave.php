@@ -10,12 +10,12 @@
     <meta property="og:title" content="Agave Nutrition: Heart Health Benefits" />
     <meta property="og:description" content="Explore the heart-healthy advantages of agave - a nutritious addition to your diet for optimal well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nutritional-benefits-of-agave" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nutritional-benefits-of-agave" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nutritional-benefits-of-agave" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nutritional-benefits-of-agave" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nutritional Benefits Of Agave",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nutritional-benefits-of-agave"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nutritional-benefits-of-agave"
         }
     ]
 }
@@ -140,7 +140,7 @@
 </ul>
 <h2 class="sec-scrl" id="heart-friendly-nutrients">Heart Friendly Nutrients</h2>
 <p>When it comes to heart health, certain nutrients are particularly beneficial. Agave contains a unique combination of nutrients that can support a healthy heart and reduce the risk of cardiovascular issues.</p>
-<p>One key nutrient found in agave is potassium, which helps regulate blood pressure and prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a major risk factor for heart disease. Additionally, magnesium in agave plays a role in maintaining a steady heartbeat and supporting overall heart function.</p>
+<p>One key nutrient found in agave is potassium, which helps regulate blood pressure and prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a major risk factor for heart disease. Additionally, magnesium in agave plays a role in maintaining a steady heartbeat and supporting overall heart function.</p>
 <p>Moreover, the low glycemic index of agave makes it a suitable sweetener for individuals looking to manage their blood sugar levels, which is essential for heart health.</p>
 <h2 class="sec-scrl" id="vitamins-and-minerals-in-agave">Vitamins and Minerals in Agave</h2>
 <p>Aside from its fiber and antioxidant content, agave also provides a range of essential vitamins and minerals that are vital for heart health.</p>

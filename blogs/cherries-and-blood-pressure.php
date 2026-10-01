@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cherries Lower Blood Pressure Naturally" />
     <meta property="og:description" content="Learn how cherries can help lower blood pressure naturally. Discover the link between cherries and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherries And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherries-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Can Cherries Lower Blood Pressure?</h1>
-<p>Are you looking for natural ways to manage your blood pressure levels effectively? Have you ever considered adding cherries to your daily diet to help with this common health concern? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities and overall well-being. Fortunately, cherries, with their unique properties, may offer a delicious solution to support your heart health. Let's explore the relationship between cherries and blood pressure and how this fruit can potentially benefit you.</p>
+<p>Are you looking for natural ways to manage your blood pressure levels effectively? Have you ever considered adding cherries to your daily diet to help with this common health concern? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily activities and overall well-being. Fortunately, cherries, with their unique properties, may offer a delicious solution to support your heart health. Let's explore the relationship between cherries and blood pressure and how this fruit can potentially benefit you.</p>
 <h2 class="sec-scrl" id="heart-health">The Role of Cherries in Promoting Heart Health</h2>
 <p>Cherries are not only a tasty treat but also a valuable addition to your diet when it comes to cardiovascular wellness. Here's how cherries can contribute to your heart health:</p>
 <ul>
@@ -153,7 +153,7 @@
 <p>Healthy circulation is vital for overall well-being, and cherries can play a role in improving this essential bodily function. Here's how cherries can enhance your circulation:</p>
 <ul>
 <li>Nitric Oxide Boost: The nitric oxide produced by cherries can relax blood vessels, reducing resistance to blood flow and supporting circulation.</li>
-<li>Reduced <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> Risk: By incorporating cherries into your diet, you may lower your risk of hypertension, a condition linked to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Reduced <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> Risk: By incorporating cherries into your diet, you may lower your risk of hypertension, a condition linked to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Cherries offer a delightful way to potentially lower blood pressure levels naturally. With their potassium content, vasodilation support, nitric oxide production, and impact on arterial function, cherries can be a beneficial addition to a heart-healthy diet. By promoting healthy blood vessel tone and enhancing circulation, cherries may help you maintain optimal blood pressure and reduce the risk of hypertension. Consider adding these vibrant fruits to your meals to enjoy not only their sweet taste but also their potential cardiovascular benefits.</p>

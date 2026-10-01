@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Ldl Cholesterol Test: Costs and Normal Range" property="og:title"/>
 <meta content="LDL cholesterol test measures bad cholesterol. Know more about the purpose, costs, and normal Range to manage heart disease risks." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/ldl-cholesterol-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/ldl-cholesterol-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/ldl-cholesterol-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/ldl-cholesterol-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "LDL cholesterol test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/ldl-cholesterol-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/ldl-cholesterol-test"  
       }]
     }
   </script>
@@ -176,7 +176,7 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs and Normal Range of LDL Cholesterol Test</h1>
-<p>LDL <a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cholesterol-test">cholesterol test</a>, also known as a bad cholesterol test, is a diagnostic pathology test that measures the levels of low-density lipoprotein (LDL) cholesterol in the blood.</p>
+<p>LDL <a href="https://contenidos.segundaopinionmedica.org/tests-screenings/cholesterol-test">cholesterol test</a>, also known as a bad cholesterol test, is a diagnostic pathology test that measures the levels of low-density lipoprotein (LDL) cholesterol in the blood.</p>
 <p>LDL cholesterol is considered the "bad" cholesterol because high levels of LDL can lead to a buildup of plaque in the arteries, increasing the risk of heart disease, stroke, and other cardiovascular conditions.</p>
 <p>The LDL cholesterol test is an essential tool in assessing heart disease risk and managing cholesterol levels.</p>
 <p>It provides valuable information about a person's lipid profile, helping healthcare providers make informed decisions about treatment and lifestyle modifications to improve cardiovascular health.</p>
@@ -185,7 +185,7 @@
 <h2 id="purpose">What is the Purpose of Performing an LDL Cholesterol Test?</h2>
 <p>The primary purpose of performing an LDL cholesterol test is to assess an individual's risk of heart disease and other cardiovascular conditions.</p>
 <ul>
-<li>Identify individuals at high risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</li>
+<li>Identify individuals at high risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</li>
 <li>Monitor the effectiveness of cholesterol-lowering medications and lifestyle changes.</li>
 <li>Customize treatment plans to reduce the risk of heart attacks and strokes.</li>
 <li>Educate patients about the importance of maintaining healthy cholesterol levels.</li>
@@ -213,7 +213,7 @@
 <p>High LDL cholesterol levels indicate an increased risk of atherosclerosis, a condition characterized by the buildup of plaque in the arteries.</p>
 <p>This can lead to narrowed or blocked arteries, restricting blood flow to vital organs and increasing the risk of heart attacks and strokes.</p>
 <p>Causes of high LDL cholesterol levels include genetics, poor diet, lack of physical activity, obesity, smoking, and certain medical conditions.</p>
-<p>Individuals with high LDL cholesterol levels may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue, indicating underlying cardiovascular issues.</p>
+<p>Individuals with high LDL cholesterol levels may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue, indicating underlying cardiovascular issues.</p>
 <p>Risks associated with high LDL cholesterol levels include coronary artery disease, peripheral artery disease, stroke, and heart failure. Healthcare providers may recommend lifestyle modifications, cholesterol-lowering medications, and regular monitoring to reduce the risk of complications and improve heart health.</p>
 <h2>What Do Low LDL Cholesterol Test Levels Indicate?</h2>
 <p>Low LDL cholesterol levels are generally considered beneficial for heart health, as they reduce the risk of atherosclerosis and cardiovascular diseases. However, excessively low LDL cholesterol levels may also have implications for overall health and well-being.</p>

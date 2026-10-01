@@ -8,10 +8,10 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Glucosa en Sangre - Life's Essential 8™">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-glucosa-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-glucosa-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-glucose-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-glucosa-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-glucosa-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-glucosa-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-glucose-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-glucosa-es" />
 
   <?php include 'include/header.php' ?>
 

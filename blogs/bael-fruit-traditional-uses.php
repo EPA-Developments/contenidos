@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Bael Fruit Traditional Uses: Ancient Remedies'" />
     <meta property="og:description" content="Explore the ancient remedies and holistic healing benefits of Bael Fruit in Ayurvedic medicine, herbal teas, dietary supplements, and natural remedies." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bael-fruit-traditional-uses" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bael-fruit-traditional-uses" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bael-fruit-traditional-uses" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bael-fruit-traditional-uses" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bael Fruit Traditional Uses",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bael-fruit-traditional-uses"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bael-fruit-traditional-uses"
         }
     ]
 }

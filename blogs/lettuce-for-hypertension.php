@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Lettuce for High Blood Pressure Relief&quot;" />
     <meta property="og:description" content="Discover how lettuce can help naturally lower blood pressure and improve heart health. Learn more about using lettuce for hypertension." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lettuce-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lettuce-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lettuce For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lettuce-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lettuce-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Using Lettuce for Hypertension Control</h1>
-<p>Are you looking for a simple and effective way to manage your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> without relying solely on medications? Have you ever considered the potential benefits of incorporating lettuce into your diet to help regulate your blood pressure levels? Hypertension, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, affects millions of individuals worldwide and can significantly impact your daily activities and overall well-being. Let's explore how lettuce, a commonly overlooked vegetable, can play a role in naturally controlling hypertension.</p>
+<p>Are you looking for a simple and effective way to manage your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> without relying solely on medications? Have you ever considered the potential benefits of incorporating lettuce into your diet to help regulate your blood pressure levels? Hypertension, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, affects millions of individuals worldwide and can significantly impact your daily activities and overall well-being. Let's explore how lettuce, a commonly overlooked vegetable, can play a role in naturally controlling hypertension.</p>
 <h2 class="sec-scrl" id="lettuce-and-blood-pressure-regulation">How Lettuce Aids in Blood Pressure Regulation</h2>
 <p>Lettuce is a low-calorie, nutrient-dense vegetable that is rich in potassium, a mineral known for its ability to help regulate blood pressure levels. Potassium works by counteracting the effects of sodium in the body, which can contribute to high blood pressure. By increasing your potassium intake through foods like lettuce, you can support healthy blood pressure regulation and improve overall cardiovascular health.</p>
 <ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Detect Heart Disease Early with Coronary Angiograms">
   <meta property="og:description" content="Learn how Coronary Angiograms can detect heart disease early, helping you take proactive steps towards a healthier heart. Schedule yours today.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-early-with-coronary-angiograms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-early-with-coronary-angiograms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-early-with-coronary-angiograms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-early-with-coronary-angiograms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Angiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-early-with-coronary-angiograms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-early-with-coronary-angiograms"  
       }]
     }
   </script>

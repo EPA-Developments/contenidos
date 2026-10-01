@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="L-Transposition Of The Great Arteries: Symptoms and Treatment" >
   <meta property="og:description" content="L-Transposition of the Great Arteries is a serious congenital heart defect. Know more about its causes, symptoms, and available treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/l-transposition-of-the-great-arteries">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/l-transposition-of-the-great-arteries">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/l-transposition-of-the-great-arteries" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/l-transposition-of-the-great-arteries" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "L-Transposition Of The Great Arteries",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/l-transposition-of-the-great-arteries"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/l-transposition-of-the-great-arteries"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of L-Transposition of the Great Arteries is crucial for early detection and better outcomes. This rare congenital heart defect requires prompt medical attention. Symptoms may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color)</li>
 <li>Fatigue</li>
 <li>Poor feeding</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 </ul> 
 
 Early identification of these symptoms can lead to timely interventions and improved management of L-Transposition of the Great Arteries. If you notice any of these signs in yourself or a loved one, seek medical help promptly.</p>
@@ -188,10 +188,10 @@ Early identification of these symptoms can lead to timely interventions and impr
 <p>Accurate diagnosis of L-Transposition of the Great Arteries is crucial for timely intervention and management. The diagnostic process typically involves various tests to confirm the condition. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize heart structures and blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize heart structures and blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and electrical activity.</li>
 <li>Chest X-ray to look for heart size and lung congestion.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> for detailed heart evaluation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> for detailed heart evaluation.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for L-Transposition Of The Great Arteries</h2>
 <p>When it comes to treating L-Transposition Of The Great Arteries, individualized care is crucial to ensure the best outcomes for patients. Here are the main approaches to treating this condition:
@@ -206,7 +206,7 @@ Early identification of these symptoms can lead to timely interventions and impr
 <h3>Atrial Switch Procedure</h3>
 <ul>
 <li>This procedure redirects the flow of blood through baffles to improve oxygenation.</li>
-<li>It is used when an <a href="https://plataforma.epa-bienestar.com.ar/procedures/arterial-switch-operation">arterial switch operation</a> is not feasible or has not been previously performed.</li>
+<li>It is used when an <a href="https://contenidos.segundaopinionmedica.org/procedures/arterial-switch-operation">arterial switch operation</a> is not feasible or has not been previously performed.</li>
 <li>The primary objective is to improve oxygen levels in the blood.</li>
 <li>The procedure involves creating a baffle to direct blood flow appropriately.</li>
 </ul>

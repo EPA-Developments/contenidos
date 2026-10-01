@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Angiogram: A Guide to Heart Disease Treatment">
   <meta property="og:description" content="Learn how Coronary Angiograms can provide valuable insights to help guide treatment for heart disease. Understand the importance of this diagnostic procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coronary-angiogram">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coronary-angiogram">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coronary-angiogram" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coronary-angiogram" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Angiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/coronary-angiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/coronary-angiogram"  
       }]
     }
   </script>

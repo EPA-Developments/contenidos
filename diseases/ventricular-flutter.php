@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Flutter: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Ventricular Flutter leads to fast, abnormal heartbeats. Know more about its symptoms, causes, and treatment for better heart rhythm." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-flutter">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-flutter">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-flutter" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-flutter" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ventricular Flutter",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-flutter"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-flutter"
       }]
     }
   </script>
@@ -169,19 +169,19 @@
 <p>Ventricular Flutter, a type of abnormal heart rhythm or arrhythmia, is a serious condition that can have significant implications for one's health if left untreated.</p>
 <p>It is characterized by rapid and disorganized electrical activity in the lower chambers of the heart, known as the ventricles.</p>
 <p>This can lead to a fast and inefficient heartbeat, compromising the heart's ability to pump blood effectively to the rest of the body.</p>
-<p>Ventricular Flutter is a less common arrhythmia compared to other types like atrial fibrillation but is associated with a higher risk of complications, including sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>Ventricular Flutter is a less common arrhythmia compared to other types like atrial fibrillation but is associated with a higher risk of complications, including sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <h2 id="causes">Causes of Ventricular Flutter</h2>
 <p>The primary causes of Ventricular Flutter are varied and can stem from underlying heart conditions, lifestyle factors, or other medical issues.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> could be structural heart abnormalities, such as scar tissue from a previous <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, which can disrupt the heart's electrical pathways and lead to abnormal rhythms.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> could be structural heart abnormalities, such as scar tissue from a previous <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, which can disrupt the heart's electrical pathways and lead to abnormal rhythms.</p>
 <p>Nausea might involve electrolyte imbalances, especially low levels of potassium or magnesium, which are essential for proper heart function.</p>
-<p>Additionally could be related to genetic factors, as certain inherited conditions can predispose individuals to arrhythmias like Ventricular Flutter,Lastly  may involve heart disease risk factors like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, diabetes, or obesity, which can increase the likelihood of developing arrhythmias.</p>
+<p>Additionally could be related to genetic factors, as certain inherited conditions can predispose individuals to arrhythmias like Ventricular Flutter,Lastly  may involve heart disease risk factors like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, diabetes, or obesity, which can increase the likelihood of developing arrhythmias.</p>
 <p>Secondary risk factors or lifestyle contributors may include smoking, excessive alcohol consumption, and high-stress levels. Smoking can constrict blood vessels and reduce oxygen supply to the heart, exacerbating arrhythmias.</p>
 <p>Excessive alcohol intake can disrupt the heart's electrical activity, while chronic stress can trigger hormonal changes that impact heart rhythm stability.</p>
 <h2 id="symptoms">Symptoms of Ventricular Flutter</h2>
-<p>Early symptoms of Ventricular Flutter may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, dizziness, or fatigue, which can impact daily activities and energy levels.</p>
-<p>Palpitations, or a rapid and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, may cause discomfort and anxiety, affecting one's ability to concentrate or engage in physical activities. Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> can lead to falls or accidents, especially when standing up quickly.</p>
+<p>Early symptoms of Ventricular Flutter may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, dizziness, or fatigue, which can impact daily activities and energy levels.</p>
+<p>Palpitations, or a rapid and <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, may cause discomfort and anxiety, affecting one's ability to concentrate or engage in physical activities. Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> can lead to falls or accidents, especially when standing up quickly.</p>
 <p>Fatigue, a common symptom of arrhythmias, can result in decreased productivity and overall quality of life.</p>
-<p>Advanced symptoms of Ventricular Flutter may manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, shortness of breath, or fainting episodes. Chest pain or discomfort can be a sign of inadequate blood flow to the heart muscle, posing a risk of heart attack.</p>
+<p>Advanced symptoms of Ventricular Flutter may manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, shortness of breath, or fainting episodes. Chest pain or discomfort can be a sign of inadequate blood flow to the heart muscle, posing a risk of heart attack.</p>
 <p>Shortness of breath, especially during exertion, can limit physical activity and lead to a sedentary lifestyle. Fainting episodes, or syncope, may indicate a lack of oxygen reaching the brain, posing a serious risk of injury or accidents.</p>
 <h2>Diagnosis of Ventricular Flutter</h2>
 <p>Diagnosing Ventricular Flutter typically involves a series of tests to evaluate the heart's electrical activity and structure. An electrocardiogram (ECG) is a common initial test that records the heart's electrical signals and can detect abnormal rhythms like Ventricular Flutter.</p>

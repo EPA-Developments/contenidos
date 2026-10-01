@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Best Postural Orthostatic Tachycardia Syndrome Treatment">
   <meta property="og:description" content="Discover the most effective postural orthostatic tachycardia syndrome treatment options. Find out what works best for managing POTS symptoms.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/postural-orthostatic-tachycardia-syndrome-treatment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/postural-orthostatic-tachycardia-syndrome-treatment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/postural-orthostatic-tachycardia-syndrome-treatment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/postural-orthostatic-tachycardia-syndrome-treatment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Postural Orthostatic Tachycardia Syndrome Treatment",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/postural-orthostatic-tachycardia-syndrome-treatment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/postural-orthostatic-tachycardia-syndrome-treatment"  
       }]
     }
   </script>

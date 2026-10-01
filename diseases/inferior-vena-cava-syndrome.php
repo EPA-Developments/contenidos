@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Inferior Vena Cava Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Inferior vena cava syndrome affects blood flow to the heart. Know more about its causes, symptoms, and treatment for better circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/inferior-vena-cava-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/inferior-vena-cava-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/inferior-vena-cava-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/inferior-vena-cava-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Inferior Vena Cava Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/inferior-vena-cava-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/inferior-vena-cava-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Inferior Vena Cava Syndrome</h1>
-<p>Inferior Vena Cava Syndrome occurs when the inferior vena cava, a large vein that carries blood from the lower body to the heart, gets compressed or blocked. This can lead to swelling in the legs, lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>, and even <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation. While not extremely common, it's significant because it can cause serious complications if left untreated. It's essential to recognize the symptoms early and seek medical attention promptly to prevent further issues.</p>
+<p>Inferior Vena Cava Syndrome occurs when the inferior vena cava, a large vein that carries blood from the lower body to the heart, gets compressed or blocked. This can lead to swelling in the legs, lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>, and even <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation. While not extremely common, it's significant because it can cause serious complications if left untreated. It's essential to recognize the symptoms early and seek medical attention promptly to prevent further issues.</p>
 <h2 id="causes">Causes of Inferior Vena Cava Syndrome</h2>
 <p>Inferior Vena Cava Syndrome develops due to various factors such as:
 
@@ -178,8 +178,8 @@
 <ul>
 <li>Leg swelling</li>
 <li>Abdominal pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Fatigue</li>
 <li>Feeling of fullness in the abdomen</li>
 </ul>
@@ -217,7 +217,7 @@ If you experience any of these symptoms, especially if they are persistent or wo
 <li>Endovascular therapy involves minimally invasive procedures to open up blockages in the vena cava.</li>
 <li>It aims to improve blood flow and reduce symptoms associated with the syndrome.</li>
 <li>The primary objective is to restore normal vena cava function.</li>
-<li>Procedures may include <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or stent placement to widen the vena cava.</li>
+<li>Procedures may include <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or stent placement to widen the vena cava.</li>
 </ul></p>
 <h2>Prevention and Management of Inferior Vena Cava Syndrome</h2>
 <p>To prevent or manage Inferior Vena Cava Syndrome, incorporating lifestyle changes and proactive measures is crucial. These steps can help improve symptoms and reduce the risk of complications. Let's look at some key strategies:

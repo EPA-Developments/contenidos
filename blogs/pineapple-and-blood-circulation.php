@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pineapple Benefits for Heart and Circulation&quot;" />
     <meta property="og:description" content="Explore how pineapple impacts blood circulation and heart health. Learn about the benefits of pineapple enzymes for a healthy heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pineapple And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-blood-circulation"
         }
     ]
 }
@@ -132,17 +132,17 @@
 <p>Have you ever wondered how pineapple can impact your blood circulation? Does the thought of improving your circulatory system with a tropical fruit intrigue you? Picture a life with better heart health and enhanced circulation. How would that change your daily activities and overall well-being?</p>
 <h2 class="sec-scrl" id="pineapple-blood-circulation">Pineapple and Blood Circulation</h2>
 <p>Pineapple, a delicious tropical fruit, contains a myriad of nutrients that can positively affect your circulatory system. One key component of pineapple that contributes to improved blood flow is Bromelain, an enzyme known for its anti-inflammatory properties. This enzyme not only aids in reducing inflammation in the body but also helps in maintaining smooth blood circulation.</p>
-<p>Bromelain works by breaking down fibrin, a protein involved in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation. By reducing the levels of fibrin, Bromelain promotes better blood flow through the blood vessels, supporting overall circulatory health.</p>
+<p>Bromelain works by breaking down fibrin, a protein involved in <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation. By reducing the levels of fibrin, Bromelain promotes better blood flow through the blood vessels, supporting overall circulatory health.</p>
 <h2 class="sec-scrl" id="circulatory-system">How Does Pineapple Impact the Circulatory System?</h2>
 <p>When you consume pineapple regularly, the Bromelain present in the fruit can help in maintaining healthy blood vessels. The enzymes in pineapple can also assist in reducing the risk of developing cardiovascular diseases by improving circulation and lowering inflammation within the circulatory system.</p>
 <ul>
 <li>Enhanced Blood Flow: The enzymes in pineapple contribute to the dilation of blood vessels, allowing for improved blood flow throughout the body.</li>
 <li>Reduced Inflammation: Inflammation is a common factor in heart disease. Pineapple's anti-inflammatory properties can help in reducing inflammation within the circulatory system, promoting better heart health.</li>
-<li>Supports Vascular Health: Regular consumption of pineapple can support the health of your blood vessels, reducing the risk of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Supports Vascular Health: Regular consumption of pineapple can support the health of your blood vessels, reducing the risk of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease">Can Pineapple Help Prevent Heart Disease?</h2>
 <p>Heart disease is a leading cause of mortality worldwide, making it crucial to adopt heart-healthy habits. Pineapple, with its beneficial effects on blood circulation and heart health, can be a valuable addition to your diet to reduce the risk of heart disease.</p>
-<p>The potassium content in pineapple helps in regulating blood pressure, which is essential in preventing conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a major risk factor for heart disease. Additionally, the presence of antioxidants in pineapple can protect the heart from oxidative stress and damage.</p>
+<p>The potassium content in pineapple helps in regulating blood pressure, which is essential in preventing conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a major risk factor for heart disease. Additionally, the presence of antioxidants in pineapple can protect the heart from oxidative stress and damage.</p>
 <h2 class="sec-scrl" id="healthy-heart">Maintaining a Healthy Heart with Pineapple</h2>
 <p>Aside from its impact on the circulatory system, pineapple offers various benefits for maintaining a healthy heart. Including pineapple in your diet can help in:</p>
 <ul>

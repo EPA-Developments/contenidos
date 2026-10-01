@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Uhl Anomaly: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Uhl Anomaly is a rare heart disorder that weakens the right ventricle. Know more about its causes, symptoms, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/uhl-anomaly">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/uhl-anomaly">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/uhl-anomaly" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/uhl-anomaly" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Uhl Anomaly",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/uhl-anomaly"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/uhl-anomaly"
       }]
     }
   </script>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Uhl Anomaly is crucial for early detection and improved outcomes. This rare congenital heart defect affects the right ventricle, leading to potential complications if left untreated. Being aware of the following symptoms can prompt timely medical intervention:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Poor weight gain in infants</li>
-<li>Pale or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Pale or <a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color (<a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 </ul>
 
 Early recognition of these symptoms can lead to prompt diagnosis and appropriate management, potentially improving the long-term prognosis for individuals with Uhl Anomaly.</p>
@@ -188,8 +188,8 @@ Early recognition of these symptoms can lead to prompt diagnosis and appropriate
 <p>Accurate diagnosis of Uhl Anomaly is crucial for proper management and treatment planning. The diagnostic process typically involves a combination of clinical evaluation and various tests to confirm the condition. Diagnostic methods may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To visualize the heart's structure and function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): To assess the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To visualize the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): To assess the heart's electrical activity.</li>
 <li>Cardiac MRI: To provide detailed images of the heart.</li>
 <li>Genetic testing: To identify underlying genetic abnormalities.</li>
 </ul>
@@ -207,7 +207,7 @@ These tests help in determining the extent of heart damage and guiding healthcar
 </ul>
 <h3>Surgical Interventions</h3>
 <ul>
-<li>Surgical options may include <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> or implantation of a ventricular assist device.</li>
+<li>Surgical options may include <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> or implantation of a ventricular assist device.</li>
 <li>Surgery is considered in severe cases where medical management is insufficient.</li>
 <li>The main objective is to improve cardiac function and overall quality of life.</li>
 <li>Heart transplant involves replacing the diseased heart with a healthy donor heart.</li>

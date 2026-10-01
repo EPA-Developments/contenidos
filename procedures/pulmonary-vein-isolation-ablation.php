@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Vein Isolation Ablation: Procedure for Cardiac Isolation">
   <meta property="og:description" content="Looking for a reliable pulmonary vein isolation treatment? Learn about the Pulmonary Vein Isolation Ablation procedure for cardiac isolation ablation.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-isolation-ablation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-isolation-ablation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-isolation-ablation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-isolation-ablation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary vein isolation ablation",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-isolation-ablation"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-isolation-ablation"  
       }]
     }
   </script>

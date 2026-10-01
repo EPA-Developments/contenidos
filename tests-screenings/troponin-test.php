@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Troponin Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Troponin test detects heart damage by measuring protein levels. Read more about its purpose, cost, and normal Range for early heart risk detection." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/troponin-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/troponin-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/troponin-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/troponin-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Troponin Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/troponin-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/troponin-test"  
       }]
     }
   </script>
@@ -159,7 +159,7 @@
 <p>The Troponin test is a diagnostic pathology test used to measure the levels of troponin proteins in the blood.</p>
 <p>Troponin is a group of proteins found in cardiac muscle cells and is released into the bloodstream when there is damage to the heart muscle.</p>
 <p>Troponin test is primarily used to diagnose heart attacks or myocardial infarctions by detecting elevated levels of troponin in the blood. It is a highly sensitive and specific test that helps in assessing myocardial injury.</p>
-<p>When a person experiences <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or other symptoms suggestive of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, doctors may order a Troponin test along with other cardiac tests to confirm the diagnosis.</p>
+<p>When a person experiences <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or other symptoms suggestive of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, doctors may order a Troponin test along with other cardiac tests to confirm the diagnosis.</p>
 <p>Elevated troponin levels indicate damage to the heart muscle, which is a sign of acute coronary syndrome.</p>
 <p>The Troponin test plays a crucial role in diagnosing heart attacks promptly and accurately. It helps healthcare providers in determining the extent of heart damage and guiding appropriate treatment measures for the patient.</p>
 <h2 id="purpose">What is the Purpose of Performing a Troponin Test?</h2>

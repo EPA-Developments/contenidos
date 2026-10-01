@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Attack First Aid: Key Immediate Actions to Take">
   <meta property="og:description" content="Learn essential steps for heart attack first aid in this guide. Discover immediate actions to take during a heart attack emergency.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-first-aid-key-immediate-actions-to-take">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-first-aid-key-immediate-actions-to-take">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-first-aid-key-immediate-actions-to-take" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-first-aid-key-immediate-actions-to-take" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Attack First Aid: Key Immediate Actions To Take",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-first-aid-key-immediate-actions-to-take"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-attack-first-aid-key-immediate-actions-to-take"  
       }]
     }
   </script>

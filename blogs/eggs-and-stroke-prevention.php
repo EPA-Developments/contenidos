@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Eggs for Stroke Prevention: A Healthy Choice&quot;" />
     <meta property="og:description" content="Learn how eggs may reduce stroke risk. Uncover the link between eggs and stroke prevention here." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/eggs-and-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/eggs-and-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/eggs-and-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/eggs-and-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Eggs And Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/eggs-and-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/eggs-and-stroke-prevention"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <li>These essential fatty acids also support the maintenance of proper cholesterol levels, further reducing the risk of plaque buildup in arteries.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-vessels">How Do Eggs Support Healthy Blood Vessels?</h2>
-<p>The nutrients in eggs, such as vitamin D and antioxidants like lutein, promote vascular health and function. Vitamin D plays a crucial role in maintaining blood vessel elasticity and regulating blood pressure. Lutein, on the other hand, helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>The nutrients in eggs, such as vitamin D and antioxidants like lutein, promote vascular health and function. Vitamin D plays a crucial role in maintaining blood vessel elasticity and regulating blood pressure. Lutein, on the other hand, helps prevent the buildup of plaque in the arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>By consuming eggs regularly, you can support the health of your blood vessels, ensuring proper blood flow and reducing the likelihood of blockages that can lead to a stroke.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Eggs can be a valuable addition to a balanced diet aimed at reducing the risk of stroke. Their nutrient profile, including choline, omega-3 fatty acids, and antioxidants, provides crucial support for brain health, blood clotting mechanisms, and overall cardiovascular function. By incorporating eggs into your meals, you can take a proactive step towards improving your health and potentially lowering your risk of experiencing a stroke.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Protein's Impact on Heart Health'" />
     <meta property="og:description" content="Explore how protein impacts heart health. Learn about protein sources, heart disease prevention, intake for cardiovascular health, and risks of deficiency." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-heart-health"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
 <p>Can protein intake help prevent heart disease? Studies suggest that a diet rich in protein, particularly lean sources, can contribute to a lower risk of heart disease. Here's how protein intake can aid in heart disease prevention:</p>
 <ul>
-<li>Protein helps maintain healthy cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</li>
+<li>Protein helps maintain healthy cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</li>
 <li>Consuming protein-rich foods can help control blood pressure, a significant risk factor for heart disease.</li>
 <li>Proteins play a role in repairing damaged tissues in the heart and blood vessels, promoting overall cardiovascular health.</li>
 </ul>

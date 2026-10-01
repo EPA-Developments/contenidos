@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Role of Stress Amylase in Heart Health" />
     <meta property="og:description" content="Uncover how stress amylase impacts cardiac conditions." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Amylase And Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/amylase-and-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/amylase-and-heart-failure"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Chronic heart failure is a debilitating condition that affects millions worldwide. When the heart muscle is unable to pump blood efficiently, it leads to a cascade of symptoms that can severely limit your ability to perform routine tasks. Understanding the role of enzymes like amylase in heart failure progression is crucial for managing the condition effectively.</p>
 <p>Amidst the complex web of enzyme biomarkers associated with heart failure, amylase stands out for its unique function in the body. This enzyme plays a vital role in breaking down carbohydrates and facilitating energy production, essential for the heart muscle's optimal functioning. Moreover, amylase levels can provide valuable insights into the severity and progression of heart failure.</p>
 <h2 class="sec-scrl" id="chronic-heart-failure">Chronic Heart Failure</h2>
-<p>Living with chronic heart failure can significantly impact your quality of life. The constant fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and limited exercise capacity can make even simple tasks challenging. However, by monitoring enzyme biomarkers like amylase, healthcare providers can better assess the extent of heart muscle damage and tailor treatment plans accordingly.</p>
+<p>Living with chronic heart failure can significantly impact your quality of life. The constant fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and limited exercise capacity can make even simple tasks challenging. However, by monitoring enzyme biomarkers like amylase, healthcare providers can better assess the extent of heart muscle damage and tailor treatment plans accordingly.</p>
 <ul>
 <li>Regular monitoring of amylase levels can help track changes in heart function over time.</li>
 <li>Elevated amylase levels may indicate increased stress on the heart muscle, signaling potential worsening of heart failure.</li>

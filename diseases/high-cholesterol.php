@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="High Cholesterol: Causes, Symptoms and Treatment">
   <meta property="og:description" content="High Cholesterol can lead to heart disease. Know more about its causes, symptoms, and treatment for maintaining a healthy heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "High Cholesterol",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol"
       }]
     }
   </script>
@@ -176,9 +176,9 @@
 <p>Recognizing the symptoms of High Cholesterol is crucial as early detection can significantly improve outcomes. While High Cholesterol often doesn't present obvious symptoms, being aware of certain signs can prompt early intervention. Here are some symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in extremities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in extremities</li>
 <li>Yellowish patches around the eyes</li>
 <li>Xanthomas (fatty deposits under the skin)</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus Benefits for Cholesterol Health&quot;" />
     <meta property="og:description" content="Explore how hibiscus influences cholesterol levels for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Hibiscus Effect on Cholesterol Levels</h1>
-<p>Are you looking to manage your cholesterol levels naturally? Have you wondered about the benefits of hibiscus in improving your lipid profile? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your daily activities and overall well-being. Understanding the role of hibiscus in cholesterol management can be a game-changer for your heart health. Let's delve into the impact of hibiscus on cholesterol levels.</p>
+<p>Are you looking to manage your cholesterol levels naturally? Have you wondered about the benefits of hibiscus in improving your lipid profile? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your daily activities and overall well-being. Understanding the role of hibiscus in cholesterol management can be a game-changer for your heart health. Let's delve into the impact of hibiscus on cholesterol levels.</p>
 <h2 class="sec-scrl" id="heart-health">Heart Health</h2>
 <p>Hibiscus, a vibrant flower commonly used in teas, has been linked to various heart health benefits. Studies suggest that hibiscus may help lower LDL cholesterol levels, also known as the "bad" cholesterol, which can contribute to plaque buildup in the arteries. By reducing LDL cholesterol, hibiscus can potentially decrease the risk of heart disease and stroke.</p>
 <p>In addition to lowering LDL cholesterol, hibiscus may also have a positive effect on HDL cholesterol levels. HDL cholesterol, often referred to as the "good" cholesterol, helps remove LDL cholesterol from the bloodstream, reducing the risk of heart disease. By promoting the increase of HDL cholesterol, hibiscus can further support heart health.</p>
@@ -138,7 +138,7 @@
 <p>Moreover, hibiscus contains antioxidants that can help reduce inflammation and oxidative stress in the blood vessels. By protecting against damage to the arteries, hibiscus contributes to better overall circulatory health and may lower the risk of developing cardiovascular conditions.</p>
 <h2 class="sec-scrl" id="fatty-acids">Effect on Fatty Acids and Blood Lipids</h2>
 <p>Research suggests that hibiscus may impact the metabolism of fats in the body, particularly triglycerides. Triglycerides are a type of fat found in the blood that can increase the risk of heart disease when elevated. Hibiscus consumption has been associated with lower triglyceride levels, which is beneficial for maintaining a healthy lipid profile.</p>
-<p>In addition to triglycerides, hibiscus may also influence overall blood lipid levels. By promoting a healthy balance of cholesterol and fats in the bloodstream, hibiscus can help improve lipid profiles and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries.</p>
+<p>In addition to triglycerides, hibiscus may also influence overall blood lipid levels. By promoting a healthy balance of cholesterol and fats in the bloodstream, hibiscus can help improve lipid profiles and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>In conclusion, hibiscus can have a positive impact on cholesterol levels and overall cardiovascular health. By lowering LDL cholesterol, increasing HDL cholesterol, improving circulation, and regulating blood lipid levels, hibiscus offers a natural approach to managing cholesterol levels and reducing the risk of heart disease. Incorporating hibiscus into your daily routine, such as enjoying hibiscus tea, can be a simple yet effective way to support your heart health. Consult with your healthcare provider to explore how hibiscus can fit into your cholesterol management plan.</p>
             </div>

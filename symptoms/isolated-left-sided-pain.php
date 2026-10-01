@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Isolated Left-Sided Pain: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Isolated left-sided pain can indicate heart issues. Know more about its symptoms, causes, diagnosis, and treatment options for better care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/isolated-left-sided-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/isolated-left-sided-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/isolated-left-sided-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/isolated-left-sided-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Isolated Left-Sided Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/isolated-left-sided-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/isolated-left-sided-pain"  
       }]
     }
   </script>
@@ -171,11 +171,11 @@
 <p>It is essential to pay attention to isolated left-sided pain as it can be a symptom of underlying health issues, including heart disease, muscle strain, or gastrointestinal problems.</p>
 <h2 id="forms">What are the Forms of Isolated left-sided pain?</h2>
 <p>Forms of isolated left-sided pain can vary in intensity and location.</p>
-<p>Some common forms include left side <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, left-sided discomfort, localized left chest pain, sharp pain on the left side, unilateral left pain, and left arm pain with chest discomfort.</p>
+<p>Some common forms include left side <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, left-sided discomfort, localized left chest pain, sharp pain on the left side, unilateral left pain, and left arm pain with chest discomfort.</p>
 <p>Each form may present with specific symptoms, such as a squeezing sensation in the chest or a sharp, stabbing pain that worsens with movement.</p>
 <p>Understanding the different forms of isolated left-sided pain can help in identifying the underlying cause and seeking appropriate treatment.</p>
 <h2 id="causes">What are the Causes of Isolated left-sided pain?</h2>
-<p>Isolated left-sided pain can have various causes, including heart disease, muscle strain, gastrointestinal issues, respiratory problems, or even psychological factors. Heart-related causes such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a> can manifest as left-sided chest pain.</p>
+<p>Isolated left-sided pain can have various causes, including heart disease, muscle strain, gastrointestinal issues, respiratory problems, or even psychological factors. Heart-related causes such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a> can manifest as left-sided chest pain.</p>
 <p>Muscle strain or injury to the chest wall muscles can also result in localized left-sided pain. Gastrointestinal issues like acid reflux or gastritis may cause discomfort on the left side of the abdomen.</p>
 <p>Respiratory conditions like pneumonia or pleurisy can lead to left-sided chest pain as well.</p>
 <ul>
@@ -187,7 +187,7 @@
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Isolated left-sided pain?</h2>
 <p>Diagnosing isolated left-sided pain involves a thorough medical history, physical examination, and possibly diagnostic tests. Basic diagnostic methods may include a review of symptoms, checking vital signs, and assessing the location and intensity of the pain.</p>
-<p>Advanced diagnostic techniques such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), chest X-ray, MRI, CT scan, or blood tests may be conducted to determine the underlying cause of the pain.</p>
+<p>Advanced diagnostic techniques such as <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), chest X-ray, MRI, CT scan, or blood tests may be conducted to determine the underlying cause of the pain.</p>
 <p>It is essential to consult a healthcare professional for an accurate diagnosis and appropriate management of isolated left-sided pain.</p>
 <h2 id="treatment">What is the Treatment for Isolated left-sided pain?</h2>
 <p>The treatment for isolated left-sided pain depends on the underlying cause. Medical interventions may include medications to relieve pain or treat the specific condition causing the pain.</p>
@@ -195,7 +195,7 @@
 <p>It is important to follow the healthcare provider's recommendations for the most effective treatment approach.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is crucial to seek medical attention if you experience persistent or severe isolated left-sided pain.</p>
-<p>If the pain is accompanied by symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, it may indicate a more serious underlying condition like a heart attack.</p>
+<p>If the pain is accompanied by symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, it may indicate a more serious underlying condition like a heart attack.</p>
 <p>If the pain worsens with activity or does not improve with rest, it is advisable to consult a healthcare professional promptly. Early diagnosis and treatment can help prevent complications and ensure optimal recovery.</p>
 <h2>Home Remedies for Isolated left-sided pain</h2>
 <p>In addition to medical treatment, there are some home remedies that can help alleviate isolated left-sided pain. Resting and avoiding activities that worsen the pain can provide relief.</p>

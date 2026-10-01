@@ -10,12 +10,12 @@
     <meta property="og:title" content="Potassium Benefits for Heart Health" />
     <meta property="og:description" content="Discover the role of potassium in bananas for a healthy heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/potassium-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/potassium-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Potassium And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/potassium-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/potassium-and-cardiovascular-health"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Ensuring an adequate intake of potassium-rich foods can help prevent electrolyte imbalances that may lead to cardiovascular issues.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Potassium Regulates Blood Pressure</h2>
-<p>One of potassium's key roles in cardiovascular health is its impact on blood pressure regulation. Potassium helps counteract the effects of sodium in the body, promoting lower blood pressure levels and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a major risk factor for heart disease.</p>
+<p>One of potassium's key roles in cardiovascular health is its impact on blood pressure regulation. Potassium helps counteract the effects of sodium in the body, promoting lower blood pressure levels and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a major risk factor for heart disease.</p>
 <ul>
 <li>By promoting vasodilation, potassium helps relax the walls of blood vessels, reducing pressure on the arteries and improving blood flow.</li>
 <li>A diet rich in potassium-rich foods can help maintain healthy blood pressure levels and decrease the likelihood of developing hypertension.</li>
@@ -155,7 +155,7 @@
 <li>Vegetables such as spinach, sweet potatoes, and tomatoes are also rich in potassium and can be included in soups, stir-fries, or as side dishes.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">The Impact of Potassium on Cardiovascular Health</h2>
-<p>In conclusion, potassium plays a vital role in supporting cardiovascular health by regulating blood pressure, maintaining healthy heart rhythm, and ensuring proper electrolyte balance. By incorporating potassium-rich foods into your diet, you can actively promote a healthy heart and reduce the risk of cardiovascular conditions like hypertension and <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>. Remember, a balanced diet rich in potassium is key to keeping your heart and arteries healthy and functioning optimally.</p>
+<p>In conclusion, potassium plays a vital role in supporting cardiovascular health by regulating blood pressure, maintaining healthy heart rhythm, and ensuring proper electrolyte balance. By incorporating potassium-rich foods into your diet, you can actively promote a healthy heart and reduce the risk of cardiovascular conditions like hypertension and <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>. Remember, a balanced diet rich in potassium is key to keeping your heart and arteries healthy and functioning optimally.</p>
             </div>
           </div>
         </div>

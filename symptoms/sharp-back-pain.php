@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sharp Back Pain: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing sharp back pain? Learn about causes, symptoms, treatment, and when to seek help for sharp back pain, including links to heart disease and muscle strain.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-back-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sharp-back-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-back-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-back-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sharp Back Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sharp-back-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sharp-back-pain"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Sharp Back Pain: Causes, Symptoms, and Treatment Options</h1>
-<p>Sharp <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a> refers to a sudden, intense discomfort in the back that may be felt as a stabbing or shooting sensation. It can occur in the upper back, lower back, or even in specific areas of the spine.</p>
+<p>Sharp <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a> refers to a sudden, intense discomfort in the back that may be felt as a stabbing or shooting sensation. It can occur in the upper back, lower back, or even in specific areas of the spine.</p>
 <p>This type of pain can be debilitating and may limit your ability to move or perform daily activities.</p>
 <p>Symptoms of sharp back pain can include intense back pain that comes on suddenly, acute backache that worsens with movement, sudden back pain that may radiate to other areas of the body, back spasms that cause muscle contractions and stiffness, upper back pain that affects the area from the base of your neck to the bottom of your rib cage, lower back discomfort that can be localized or spread across the lower back, and stabbing pain in the back that feels like a sharp, piercing sensation.</p>
 <h2 id="forms">What are the Forms of Sharp back pain?</h2>
@@ -217,7 +217,7 @@
 <p>Lifestyle modifications, such as maintaining a healthy weight, practicing good posture, and avoiding activities that exacerbate the pain, can also help manage sharp back pain in the long term.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent sharp back pain that does not improve with rest, over-the-counter medications, or home remedies.</p>
-<p>Additionally, if you have sharp back pain accompanied by other symptoms such as numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the legs, difficulty walking, loss of bladder or bowel control, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, seek immediate medical help.</p>
+<p>Additionally, if you have sharp back pain accompanied by other symptoms such as numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the legs, difficulty walking, loss of bladder or bowel control, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, seek immediate medical help.</p>
 <p>If sharp back pain is severe, lasts longer than a few days, or significantly impacts your daily activities, it is recommended to consult a healthcare provider for a proper diagnosis and treatment plan.</p>
 <p>Early intervention can prevent further complications and improve your quality of life.</p>
 <h2>Home Remedies for Sharp back pain</h2>

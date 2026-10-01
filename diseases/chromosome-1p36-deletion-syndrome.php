@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chromosome 1p36 Deletion Syndrome: Causes and Symptoms">
   <meta property="og:description" content="Learn about Chromosome 1p36 Deletion Syndrome - causes, symptoms, and management. Get insights on this rare genetic condition affecting children.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/chromosome-1p36-deletion-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/chromosome-1p36-deletion-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/chromosome-1p36-deletion-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/chromosome-1p36-deletion-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Chromosome 1P36 Deletion Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/chromosome-1p36-deletion-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/chromosome-1p36-deletion-syndrome"
       }]
     }
   </script>
@@ -184,7 +184,7 @@
 <h3>Secondary Risk Factors</h3>
 <ul>
 <li>Maternal Age: Advanced maternal age is associated with an increased risk of chromosomal abnormalities in offspring, including Chromosome 1p36 Deletion Syndrome.</li>
-<li>Maternal Health: Maternal health conditions such as diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can influence the risk of chromosomal deletions in the developing fetus.</li>
+<li>Maternal Health: Maternal health conditions such as diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can influence the risk of chromosomal deletions in the developing fetus.</li>
 <li>Lifestyle Factors: Unhealthy lifestyle choices such as smoking, alcohol consumption, or poor nutrition during pregnancy can impact fetal development and increase the likelihood of chromosomal abnormalities.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Chromosome 1p36 Deletion Syndrome</h2>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Impact of Tetralogy of Fallot on Heart Function and Health">
   <meta property="og:description" content="Learn about how Tetralogy of Fallot impacts heart function and overall health. Understand the implications of this condition on the heart.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tetralogy-fallot-impact-heart-function-health">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tetralogy-fallot-impact-heart-function-health">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tetralogy-fallot-impact-heart-function-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tetralogy-fallot-impact-heart-function-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Impact Of Tetralogy Of Fallot On Heart Function And Health",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/tetralogy-fallot-impact-heart-function-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/tetralogy-fallot-impact-heart-function-health"  
       }]
     }
   </script>

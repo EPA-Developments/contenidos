@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bradycardia Symptoms, Causes, Diagnosis, and Treatment" >
   <meta property="og:description" content="Bradycardia symptoms include slow heart rate and dizziness. Know more about its causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bradycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/bradycardia"  
       }]
     }
   </script>
@@ -187,12 +187,12 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Bradycardia: Treatment, Diagnosis, Causes and Symptoms</h1>
 <p>Bradycardia is a condition characterized by a slow heart rate, also known as a low pulse rate. It occurs when the heart rate drops below the normal range, typically less than 60 beats per minute.</p>
-<p>Bradycardia can be a result of cardiac <a href="https://plataforma.epa-bienestar.com.ar/diseases/bradyarrhythmia">bradyarrhythmia</a>, where the heart's electrical system malfunctions, causing the heart to beat too slowly. This delayed heartbeat can lead to reduced circulation of blood and oxygen to the body's organs and tissues.</p>
-<p>Symptoms of bradycardia may include fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Individuals with bradycardia may experience heart slowing during periods of rest or sleep, as well as during physical activity.</p>
+<p>Bradycardia can be a result of cardiac <a href="https://contenidos.segundaopinionmedica.org/diseases/bradyarrhythmia">bradyarrhythmia</a>, where the heart's electrical system malfunctions, causing the heart to beat too slowly. This delayed heartbeat can lead to reduced circulation of blood and oxygen to the body's organs and tissues.</p>
+<p>Symptoms of bradycardia may include fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Individuals with bradycardia may experience heart slowing during periods of rest or sleep, as well as during physical activity.</p>
 <p>It is essential to monitor heart rate below normal to detect any abnormalities and seek medical attention if necessary.</p>
 <h2 id="forms">What are the Forms of Bradycardia?</h2>
-<p>There are several forms of bradycardia, each with specific symptoms and related concepts. Some common forms include <a href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-bradycardia">sinus bradycardia</a>, where the heart's natural pacemaker slows down, leading to a low heart rate.</p>
-<p>Another form is <a href="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, where the heart alternates between fast and slow rhythms.</p>
+<p>There are several forms of bradycardia, each with specific symptoms and related concepts. Some common forms include <a href="https://contenidos.segundaopinionmedica.org/diseases/sinus-bradycardia">sinus bradycardia</a>, where the heart's natural pacemaker slows down, leading to a low heart rate.</p>
+<p>Another form is <a href="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, where the heart alternates between fast and slow rhythms.</p>
 <ul>
 <li>Slow heart rate can be a symptom of bradycardia.</li>
 <li>Low pulse rate is a common indicator of bradycardia.</li>
@@ -202,9 +202,9 @@
 <li>Reduced heart rate can be a sign of bradycardia.</li>
 </ul>
 <h2 id="causes">What are the Causes of Bradycardia?</h2>
-<p>Bradycardia can be caused by various factors, including age-related changes in the heart's electrical system, underlying heart conditions such as heart disease or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, medication side effects, thyroid disorders, electrolyte imbalances, and sleep apnea.</p>
+<p>Bradycardia can be caused by various factors, including age-related changes in the heart's electrical system, underlying heart conditions such as heart disease or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, medication side effects, thyroid disorders, electrolyte imbalances, and sleep apnea.</p>
 <p>In some cases, athletes and individuals who are very physically fit may have a naturally low resting heart rate.</p>
-<p>Bradycardia can also be a result of damage to the heart's electrical pathways due to certain medical procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> or catheter ablation. It is crucial to identify the underlying cause of bradycardia to determine the appropriate treatment plan.</p>
+<p>Bradycardia can also be a result of damage to the heart's electrical pathways due to certain medical procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> or catheter ablation. It is crucial to identify the underlying cause of bradycardia to determine the appropriate treatment plan.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Bradycardia?</h2>
 <p>Diagnosing bradycardia involves a series of tests to evaluate the heart's electrical activity and function. A basic diagnostic method includes an electrocardiogram (ECG) to measure the heart's rhythm and rate.</p>
 <p>An ambulatory ECG monitor may be used to record the heart's activity over a 24-hour period to capture any irregularities.</p>

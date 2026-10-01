@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Olive Oil Benefits for Cholesterol Health&quot;" />
     <meta property="og:description" content="Discover how olive oil reduces cholesterol levels naturally, promoting heart health. Learn more about its benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Olive Oil for Cholesterol</h1>
-<p>Are you looking for a natural way to improve your cholesterol levels and promote heart health? Have you considered the benefits of incorporating olive oil into your daily diet? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your well-being and daily activities. Finding effective ways to manage your cholesterol levels is crucial for maintaining a healthy lifestyle.</p>
+<p>Are you looking for a natural way to improve your cholesterol levels and promote heart health? Have you considered the benefits of incorporating olive oil into your daily diet? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your well-being and daily activities. Finding effective ways to manage your cholesterol levels is crucial for maintaining a healthy lifestyle.</p>
 <h2 class="sec-scrl" id="olive-oil-for-cholesterol">Olive Oil for Cholesterol</h2>
 <p>Olive oil is a staple of the Mediterranean diet and has long been praised for its numerous health benefits, including its ability to lower cholesterol levels. The monounsaturated fats present in olive oil can help reduce LDL cholesterol, also known as the "bad" cholesterol, while increasing HDL cholesterol, the "good" cholesterol.</p>
 <p>Here are some ways in which olive oil can aid in cholesterol reduction:</p>

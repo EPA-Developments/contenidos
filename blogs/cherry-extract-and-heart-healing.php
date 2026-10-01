@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cherry Extract for Heart Health&quot;" />
     <meta property="og:description" content="Explore how Cherry Extract boosts heart health with antioxidants, aids artery repair, and improves endothelial function. Learn more!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherry-extract-and-heart-healing" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherry-extract-and-heart-healing" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherry-extract-and-heart-healing" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherry-extract-and-heart-healing" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherry Extract And Heart Healing",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherry-extract-and-heart-healing"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherry-extract-and-heart-healing"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Enhancement of overall heart health and function</li>
 </ul>
 <h2 class="sec-scrl" id="inflammation">Combatting Inflammation for Heart Wellness</h2>
-<p>Inflammation is a common factor in many cardiovascular diseases, contributing to the progression of conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart failure. Cherry Extract contains anti-inflammatory properties that can help reduce inflammation in the arteries and promote better circulation. By addressing inflammation, Cherry Extract supports overall heart wellness and aids in the prevention of heart-related complications.</p>
+<p>Inflammation is a common factor in many cardiovascular diseases, contributing to the progression of conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart failure. Cherry Extract contains anti-inflammatory properties that can help reduce inflammation in the arteries and promote better circulation. By addressing inflammation, Cherry Extract supports overall heart wellness and aids in the prevention of heart-related complications.</p>
 <ul>
 <li>Reduction of arterial inflammation for improved blood flow</li>
 <li>Support for the body's natural inflammatory response</li>

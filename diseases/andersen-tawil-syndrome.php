@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Andersen Tawil Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Andersen-Tawil syndrome is a genetic disorder affecting heart and muscle. Know more about its symptoms, causes, and treatment methods." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/andersen-tawil-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/andersen-tawil-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/andersen-tawil-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/andersen-tawil-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Andersen Tawil Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/andersen-tawil-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/andersen-tawil-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Andersen Tawil Syndrome</h1>
-<p>Andersen-Tawil syndrome is a rare genetic disorder that affects muscles and the heart. It can lead to episodes of muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, irregular heart rhythms, and physical abnormalities. This syndrome is significant because it can impact a person's quality of life and requires specialized medical care. It is estimated to affect around 1 in 100,000 individuals. Understanding the signs and symptoms of Andersen-Tawil syndrome is crucial for early diagnosis and management of the condition. If you suspect you or a loved one may have this syndrome, seeking medical advice is essential.</p>
+<p>Andersen-Tawil syndrome is a rare genetic disorder that affects muscles and the heart. It can lead to episodes of muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, irregular heart rhythms, and physical abnormalities. This syndrome is significant because it can impact a person's quality of life and requires specialized medical care. It is estimated to affect around 1 in 100,000 individuals. Understanding the signs and symptoms of Andersen-Tawil syndrome is crucial for early diagnosis and management of the condition. If you suspect you or a loved one may have this syndrome, seeking medical advice is essential.</p>
 <h2 id="causes">Causes of Andersen Tawil Syndrome</h2>
 <p><h3>Main Factors Contributing to Andersen Tawil Syndrome:</h3>
 <ul>
@@ -187,7 +187,7 @@
 
 <ul>
 <li>Genetic testing to identify mutations in the KCNJ2 gene</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect characteristic features like prolonged QT interval</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect characteristic features like prolonged QT interval</li>
 <li>MRI or CT scans to assess cardiac structure and function</li>
 <li>Family history assessment to identify potential genetic links</li>
 </ul></p>
@@ -210,7 +210,7 @@
 </ul>
 <h3>Surgical Interventions</h3>
 <ul>
-<li>Surgical procedures like implanting a <a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillator">defibrillator</a> may be recommended in severe cases.</li>
+<li>Surgical procedures like implanting a <a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillator">defibrillator</a> may be recommended in severe cases.</li>
 <li>The rationale is to provide a safety mechanism to restore normal heart rhythm if needed.</li>
 <li>The primary objective is to prevent sudden cardiac death in high-risk individuals.</li>
 <li>This may involve pre-operative evaluations and post-operative monitoring for optimal outcomes.</li>

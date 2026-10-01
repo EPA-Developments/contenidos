@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Signs of Bicuspid Valve Defect: Early Indicators&quot;" />
     <meta property="og:description" content="Learn about early signs of bicuspid valve defect & protect your heart. Early detection is key. Discover symptoms now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-valve-defect" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bicuspid-valve-defect" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-valve-defect" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bicuspid-valve-defect" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bicuspid Valve Defect",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-valve-defect"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bicuspid-valve-defect"
         }
     ]
 }
@@ -169,11 +169,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Recognizing Bicuspid Valve Defect Signs</h1>
-<p>Have you been experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> that interferes with your daily activities? These could be signs of a bicuspid valve defect, a common congenital heart condition that affects the normal function of the heart's valve. Understanding the early symptoms of bicuspid valve defect is crucial for timely diagnosis and treatment. Let's explore the key indicators to watch for.</p>
+<p>Have you been experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> that interferes with your daily activities? These could be signs of a bicuspid valve defect, a common congenital heart condition that affects the normal function of the heart's valve. Understanding the early symptoms of bicuspid valve defect is crucial for timely diagnosis and treatment. Let's explore the key indicators to watch for.</p>
 <h2 class="sec-scrl" id="bicuspid valve defect symptoms">Common Symptoms of Bicuspid Valve Defect</h2>
 <p>Individuals with a bicuspid valve defect may experience a range of symptoms, including:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a></li>
 <li>Chest pain or tightness</li>
 <li>Fatigue, especially during physical activity</li>
 <li>Shortness of breath</li>
@@ -183,7 +183,7 @@
 <p>What are the early signs that could indicate a problem with your heart valve? Keep an eye out for the following symptoms:</p>
 <ul>
 <li>Unexplained weight gain or swelling</li>
-<li>Frequent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Frequent <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Difficulty during physical exertion</li>
 <li>Inability to perform regular activities due to fatigue</li>
 </ul>
@@ -191,7 +191,7 @@
 <h2 class="sec-scrl" id="recognizing valve defects">Recognizing Common Valve Defects</h2>
 <p>Valve defects, such as bicuspid valve abnormalities, can present with various symptoms that may overlap with other heart conditions. Some key signs indicating potential valve defects include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or irregular heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or irregular heart rhythms</li>
 <li>Cyanosis (bluish discoloration of the skin)</li>
 <li>Coughing or wheezing, especially at night</li>
 <li>Swelling in the ankles, feet, or abdomen</li>

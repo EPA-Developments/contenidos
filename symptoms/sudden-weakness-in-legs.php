@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment of Sudden Weakness in Legs" >
   <meta property="og:description" content="Sudden Weakness in legs could be a sign of heart problems. Read more about causes, symptoms, and treatments to Know this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-weakness-in-legs">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sudden-weakness-in-legs">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-weakness-in-legs" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-weakness-in-legs" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sudden Weakness In Legs",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sudden-weakness-in-legs"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sudden-weakness-in-legs"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes and Diagnosis of Sudden Weakness in Legs</h1>
 <p>Sudden weakness in legs is a condition characterized by a rapid onset of loss of strength in the lower limbs, leading to difficulty in supporting weight or maintaining stability while standing or walking.</p>
-<p>This sudden onset of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> can be alarming and may occur without any warning signs or prior symptoms.</p>
+<p>This sudden onset of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> can be alarming and may occur without any warning signs or prior symptoms.</p>
 <p>Symptoms of sudden weakness in legs may include a feeling of instability, difficulty in walking, or a sudden inability to stand or support weight with the legs. This can impact daily activities and significantly reduce mobility and independence.</p>
 <h2 id="forms">What are the Forms of Sudden weakness in legs?</h2>
 <p>There are different forms of sudden weakness in legs, each with specific symptoms and related concepts.</p>

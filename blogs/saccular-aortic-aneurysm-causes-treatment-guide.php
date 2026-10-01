@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Saccular Aortic Aneurysm: Causes and Treatment Guide">
   <meta property="og:description" content="Learn about the causes and treatment of saccular aortic aneurysms in this informative guide. Understand the risks and options for managing this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/saccular-aortic-aneurysm-causes-treatment-guide">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/saccular-aortic-aneurysm-causes-treatment-guide">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/saccular-aortic-aneurysm-causes-treatment-guide" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/saccular-aortic-aneurysm-causes-treatment-guide" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Saccular Aortic Aneurysm: Causes And Treatment Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/saccular-aortic-aneurysm-causes-treatment-guide"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/saccular-aortic-aneurysm-causes-treatment-guide"  
       }]
     }
   </script>

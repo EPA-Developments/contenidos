@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Circulation Problem Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="Circulation problems can affect heart health. Know more about symptoms, causes, diagnosis, and available treatments for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/circulation-problem">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/circulation-problem">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/circulation-problem" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/circulation-problem" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Circulation Problem",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/circulation-problem"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/circulation-problem"  
       }]
     }
   </script>
@@ -189,11 +189,11 @@
 <p>Circulation problems refer to issues with the flow of blood throughout the body. Poor blood circulation can lead to a variety of symptoms and complications, particularly in the extremities like the legs and hands.</p>
 <p>When blood flow is restricted or sluggish, it can result in numbness, tingling, coldness, and even pain in the affected areas.</p>
 <p>Circulation issues in the legs are quite common and can be caused by a variety of factors, including lifestyle choices, underlying health conditions, or genetic predispositions. Understanding the symptoms of circulation problems is crucial for timely intervention and management.</p>
-<p>Circulation boosters, such as exercise, proper hydration, and a balanced diet, can help improve blood flow and alleviate symptoms associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>. It is essential to address circulation issues promptly to prevent further complications and maintain overall vascular health.</p>
+<p>Circulation boosters, such as exercise, proper hydration, and a balanced diet, can help improve blood flow and alleviate symptoms associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>. It is essential to address circulation issues promptly to prevent further complications and maintain overall vascular health.</p>
 <h2 id="forms">What are the Forms of Circulation Problem?</h2>
 <p>Poor circulation can manifest in various forms, each with its unique set of symptoms and challenges.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet due to restricted blood flow</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet due to restricted blood flow</li>
 <li>Numbness and tingling in extremities from poor circulation</li>
 <li>Sluggish blood flow leading to discomfort and pain</li>
 <li>Lack of circulation causing skin discoloration and swelling</li>
@@ -204,7 +204,7 @@
 <ul>
 <li>Blocked veins or arteries impeding blood flow</li>
 <li>Circulatory system issues such as blood clots or plaque buildup</li>
-<li>Poor vascular health due to underlying conditions like diabetes or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Poor vascular health due to underlying conditions like diabetes or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Lifestyle factors like smoking, lack of physical activity, or poor diet choices</li>
 </ul>
 <p>Identifying the root cause of circulation problems is essential for effective treatment and prevention of future complications. Addressing underlying health issues and adopting a healthy lifestyle can significantly improve blood flow and overall vascular health.</p>

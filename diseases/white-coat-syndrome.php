@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="White Coat Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="White Coat Syndrome leads to temporary blood pressure spikes. Know more about its symptoms, causes, and treatment for better control." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/white-coat-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/white-coat-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/white-coat-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/white-coat-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "White Coat Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/white-coat-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/white-coat-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>White Coat Syndrome: Symptoms and Treatment</h1>
-<p>White Coat Syndrome, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/white-coat-hypertension">white coat hypertension</a>, is when a person experiences elevated blood pressure readings in a medical setting due to anxiety or stress. This condition is significant because it can lead to misdiagnosis of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and unnecessary treatments. It is prevalent in about 15-30% of the general population. Understanding White Coat Syndrome can help individuals and healthcare providers differentiate between true <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and temporary spikes caused by stress, ensuring accurate diagnosis and appropriate management.</p>
+<p>White Coat Syndrome, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/white-coat-hypertension">white coat hypertension</a>, is when a person experiences elevated blood pressure readings in a medical setting due to anxiety or stress. This condition is significant because it can lead to misdiagnosis of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and unnecessary treatments. It is prevalent in about 15-30% of the general population. Understanding White Coat Syndrome can help individuals and healthcare providers differentiate between true <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and temporary spikes caused by stress, ensuring accurate diagnosis and appropriate management.</p>
 <h2 id="causes">Causes of White Coat Syndrome</h2>
 <p>White Coat Syndrome, also known as white coat hypertension, is primarily caused by the following factors:
 

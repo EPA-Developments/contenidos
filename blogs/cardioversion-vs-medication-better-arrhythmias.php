@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardioversion vs. Medication: Which is Better for Arrhythmias?">
   <meta property="og:description" content="Discover the pros and cons of cardioversion vs. medication for arrhythmias. Learn which treatment option may be better for your condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-medication-better-arrhythmias">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-medication-better-arrhythmias">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-medication-better-arrhythmias" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-medication-better-arrhythmias" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardioversion Vs. Medication: Which Is Better For Arrhythmias?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-medication-better-arrhythmias"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-medication-better-arrhythmias"  
       }]
     }
   </script>

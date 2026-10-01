@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transthyretin Amyloidosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Transthyretin Amyloidosis, its symptoms, diagnosis, and treatment options on our cardiology-focused website. Stay informed and take control of your health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloidosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloidosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloidosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloidosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Transthyretin Amyloidosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/transthyretin-amyloidosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/transthyretin-amyloidosis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Transthyretin Amyloidosis: Symptoms, Causes, and Treatment</h1>
-<p>Transthyretin Amyloidosis is a rare but serious condition where abnormal proteins called amyloids build up in the body's organs and tissues. This can lead to organ damage and disrupt normal function. Although uncommon, its impact can be severe. It affects around 50,000 people worldwide, often striking later in life. Recognizing its symptoms and seeking early diagnosis is crucial for managing the condition effectively. If you or a loved one experience unexplained symptoms like numbness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, or heart issues, consult a healthcare provider promptly.</p>
+<p>Transthyretin Amyloidosis is a rare but serious condition where abnormal proteins called amyloids build up in the body's organs and tissues. This can lead to organ damage and disrupt normal function. Although uncommon, its impact can be severe. It affects around 50,000 people worldwide, often striking later in life. Recognizing its symptoms and seeking early diagnosis is crucial for managing the condition effectively. If you or a loved one experience unexplained symptoms like numbness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, or heart issues, consult a healthcare provider promptly.</p>
 <h2 id="causes">Causes of Transthyretin Amyloidosis</h2>
 <p>Transthyretin Amyloidosis develops due to various factors:
 
@@ -181,15 +181,15 @@
 <li>Gastrointestinal issues such as constipation or diarrhea</li>
 <li>Unexplained weight loss</li>
 <li>Carpal tunnel syndrome</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a></li>
 </ul></p>
 <h2>Diagnosis of Transthyretin Amyloidosis</h2>
-<p>Transthyretin Amyloidosis diagnosis is crucial for timely management. Symptoms like neuropathy, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, and carpal tunnel syndrome can mimic other conditions, emphasizing the need for accurate diagnosis. Diagnostic methods include:
+<p>Transthyretin Amyloidosis diagnosis is crucial for timely management. Symptoms like neuropathy, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, and carpal tunnel syndrome can mimic other conditions, emphasizing the need for accurate diagnosis. Diagnostic methods include:
 
 <ul>
 <li>Genetic testing to identify specific mutations.</li>
 <li>Biopsy of affected tissues to detect amyloid deposits.</li>
-<li>Imaging studies like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> or MRI for organ involvement assessment.</li>
+<li>Imaging studies like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> or MRI for organ involvement assessment.</li>
 <li>Blood tests to measure TTR protein levels.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Transthyretin Amyloidosis</h2>

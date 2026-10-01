@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bradycardia: Causes, Symptoms, and Treatments">
   <meta property="og:description" content="Bradycardia is a condition where your heart rate is abnormally slow, usually below 60 beats per minute. Know its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bradycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bradycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bradycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bradycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Bradycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bradycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bradycardia"
       }]
     }
   </script>
@@ -166,16 +166,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatments of Bradycardia</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>, a condition characterized by a slower than normal heart rate, is a significant cardiac issue that can have profound effects on overall health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>, a condition characterized by a slower than normal heart rate, is a significant cardiac issue that can have profound effects on overall health.</p>
 <p>While a normal heart rate typically falls between 60 to 100 beats per minute, bradycardia is diagnosed when the heart rate drops below 60 beats per minute.</p>
 <p>This condition can impact essential bodily functions such as oxygen delivery, blood circulation, and organ perfusion.</p>
-<p>In the short term, bradycardia can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting, while untreated bradycardia in the long term may increase the risk of more serious cardiovascular events like heart failure, stroke, or even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>In the short term, bradycardia can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting, while untreated bradycardia in the long term may increase the risk of more serious cardiovascular events like heart failure, stroke, or even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>Bradycardia often presents an asymptomatic nature in its early stages, making it challenging to detect without proper screenings. Therefore, early detection through regular cardiac evaluations and screenings is crucial to prevent potential health complications.</p>
 <p>Individuals with risk factors such as advanced age, heart disease, or a family history of cardiac issues should be especially vigilant in monitoring their heart health to catch bradycardia early and initiate appropriate interventions.</p>
 <h2 id="causes">Causes of Bradycardia</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li>Sinus Node Dysfunction: Sinus node dysfunction, often referred to as <a href="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, occurs when the heart's natural pacemaker, the sinus node, malfunctions. This can result in episodes of slow heart rate or pauses in heartbeats, leading to bradycardia over time.</li>
+<li>Sinus Node Dysfunction: Sinus node dysfunction, often referred to as <a href="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome">sick sinus syndrome</a>, occurs when the heart's natural pacemaker, the sinus node, malfunctions. This can result in episodes of slow heart rate or pauses in heartbeats, leading to bradycardia over time.</li>
 <li>Heart Block: Heart block refers to a condition where the electrical signals that control the heartbeat are delayed or blocked as they move through the heart. This disruption can cause bradycardia by slowing down the heart rate and affecting its rhythm.</li>
 <li>Aging: As individuals age, changes in the heart's electrical system can occur, making them more susceptible to bradycardia. The aging process can lead to fibrosis and scarring within the heart's conduction system, disrupting the normal heart rate.</li>
 <li>Medication Side Effects: Certain medications, such as beta-blockers or calcium channel blockers used to treat various medical conditions, can inadvertently lower the heart rate, potentially causing bradycardia.</li>
@@ -190,10 +190,10 @@
 <ul>
 <li>Early Symptoms:</li>
 <li>Fatigue: Individuals may experience persistent tiredness or a lack of energy due to reduced oxygen delivery to tissues.</li>
-<li>Dizziness: Episodes of dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> can occur as a result of inadequate blood flow to the brain.</li>
+<li>Dizziness: Episodes of dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> can occur as a result of inadequate blood flow to the brain.</li>
 <li>Advanced Symptoms:</li>
-<li>Fainting: Severe bradycardia can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, indicating a significant drop in heart rate and impaired cardiac function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: In advanced stages, bradycardia may cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion or stress.</li>
+<li>Fainting: Severe bradycardia can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, indicating a significant drop in heart rate and impaired cardiac function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: In advanced stages, bradycardia may cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion or stress.</li>
 </ul>
 <h2>Diagnosis of Bradycardia</h2>
 <ul>

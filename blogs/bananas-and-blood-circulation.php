@@ -10,12 +10,12 @@
     <meta property="og:title" content="Bananas: Boosting Circulation Naturally" />
     <meta property="og:description" content="Discover how bananas boost circulation naturally for better heart health and vitality." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-and-blood-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Bananas for Circulation</h1>
-<p>Do you often feel tired, with swollen legs and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-feet">cold feet</a>? Are you looking for a natural way to boost your blood circulation and enhance your overall health? The answer might be as simple as adding bananas to your diet. Let's explore how bananas can play a crucial role in improving your blood circulation and well-being.</p>
+<p>Do you often feel tired, with swollen legs and <a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-feet">cold feet</a>? Are you looking for a natural way to boost your blood circulation and enhance your overall health? The answer might be as simple as adding bananas to your diet. Let's explore how bananas can play a crucial role in improving your blood circulation and well-being.</p>
 <h2 class="sec-scrl" id="bananas-and-blood-circulation">Bananas and Blood Circulation</h2>
 <p>Bananas are not only a delicious and convenient snack but also a powerful fruit that can positively impact your circulation. They are rich in potassium, a vital mineral that helps regulate blood pressure and optimize heart function. Potassium is essential for maintaining healthy circulation, as it aids in relaxing the walls of blood vessels, reducing the risk of clot formation, and promoting proper blood flow.</p>
 <p>Additionally, bananas are a good source of dietary fiber, which supports digestive health. A healthy digestive system is closely linked to improved circulation, as it ensures efficient nutrient absorption and waste removal, contributing to overall vascular health.</p>
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="potassium">Potassium and Vascular Health</h2>
 <p>How does potassium contribute to vascular health, and why is it essential for blood circulation? Potassium is a key mineral that plays a crucial role in maintaining the balance of fluids in the body and supporting muscle function, including the smooth muscles in blood vessels.</p>
-<p>By consuming potassium-rich foods like bananas, you can help relax the walls of blood vessels, reducing tension and improving blood flow. This relaxation effect on the arteries and veins not only promotes healthy circulation but also lowers the risk of developing conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and peripheral artery disease.</p>
+<p>By consuming potassium-rich foods like bananas, you can help relax the walls of blood vessels, reducing tension and improving blood flow. This relaxation effect on the arteries and veins not only promotes healthy circulation but also lowers the risk of developing conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and peripheral artery disease.</p>
 <ul>
 <li>Include potassium-rich foods like bananas in your diet to promote vascular health and support optimal blood circulation.</li>
 <li>Potassium helps regulate blood pressure and reduce the risk of arterial stiffness, enhancing overall cardiovascular function.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Root Vegetables for Lower Blood Pressure&quot;" />
     <meta property="og:description" content="Discover the top root vegetables to lower blood pressure naturally. Optimize your diet for hypertension management with high potassium options." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vegetables To Lower Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vegetables-to-lower-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vegetables-to-lower-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Best Root Vegetables for Lowering Blood Pressure</h1>
-<p>Are you looking for natural ways to manage your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> through diet? Wondering how you can incorporate vegetables to lower your blood pressure levels effectively? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, from limiting your food choices to feeling fatigued and stressed about your health. Luckily, focusing on the right types of vegetables can be a game-changer in your journey to better blood pressure management. Let's explore the best root vegetables that can help you achieve lower blood pressure levels and improve your overall well-being.</p>
+<p>Are you looking for natural ways to manage your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> through diet? Wondering how you can incorporate vegetables to lower your blood pressure levels effectively? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, from limiting your food choices to feeling fatigued and stressed about your health. Luckily, focusing on the right types of vegetables can be a game-changer in your journey to better blood pressure management. Let's explore the best root vegetables that can help you achieve lower blood pressure levels and improve your overall well-being.</p>
 <h2 class="sec-scrl" id="high-potassium-vegetables">High Potassium Vegetables</h2>
 <p>High potassium vegetables are excellent additions to your diet if you're aiming to lower your blood pressure naturally. Potassium is a vital mineral that helps your body regulate fluid balance, muscle contractions, and nerve signals. By increasing your potassium intake through vegetables, you can counter the effects of sodium and reduce the risk of hypertension. Some of the best high potassium vegetables include:</p>
 <ul>

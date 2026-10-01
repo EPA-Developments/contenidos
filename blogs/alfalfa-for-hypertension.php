@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alfalfa for Hypertension: Natural Blood Pressure Control" />
     <meta property="og:description" content="Discover how Alfalfa helps manage high blood pressure naturally. Learn about its benefits and effectiveness in controlling hypertension." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alfalfa-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alfalfa For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alfalfa-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alfalfa-for-hypertension"
         }
     ]
 }
@@ -129,8 +129,8 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Benefits of Alfalfa for High Blood Pressure</h1>
-<p>Are you struggling to keep your blood pressure in check? Does the constant worry about <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> affect your daily activities and quality of life?</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common health issue that affects many individuals worldwide. While prescription medications are often used to manage this condition, exploring natural remedies like alfalfa could offer a promising alternative. Let's dive into how alfalfa can play a role in controlling high blood pressure.</p>
+<p>Are you struggling to keep your blood pressure in check? Does the constant worry about <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> affect your daily activities and quality of life?</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common health issue that affects many individuals worldwide. While prescription medications are often used to manage this condition, exploring natural remedies like alfalfa could offer a promising alternative. Let's dive into how alfalfa can play a role in controlling high blood pressure.</p>
 <h2 class="sec-scrl" id="Alfalfa for Hypertension">Alfalfa for Hypertension</h2>
 <p>Alfalfa, also known as Medicago sativa, is a nutrient-rich herb that has been used for centuries in traditional medicine for its various health benefits. When it comes to managing hypertension, alfalfa's unique properties make it a valuable addition to your diet. Here's how alfalfa can help:</p>
 <ul>

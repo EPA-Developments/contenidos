@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sweet Potato Nutrients for Heart Health" />
     <meta property="og:description" content="Discover heart-healthy nutrients in sweet potatoes for a healthier heart. Fiber, vitamin A, magnesium, and antioxidants support heart protection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-sweet-potatoes" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-sweet-potatoes" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-sweet-potatoes" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-sweet-potatoes" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nutrients In Sweet Potatoes",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nutrients-in-sweet-potatoes"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nutrients-in-sweet-potatoes"
         }
     ]
 }
@@ -141,8 +141,8 @@
 <h2 class="sec-scrl" id="fiber-content">How Does the Fiber Content in Sweet Potatoes Benefit Your Heart?</h2>
 <p>Dietary fiber is known for its heart-protective properties, and sweet potatoes are an excellent source of this essential nutrient. Here's how the fiber content in sweet potatoes can benefit your heart:</p>
 <ul>
-<li>**Regulates Cholesterol Levels:** Soluble fiber in sweet potatoes helps lower LDL cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
-<li>**Controls Blood Pressure:** Fiber-rich foods like sweet potatoes help regulate blood pressure, promoting cardiovascular health and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>**Regulates Cholesterol Levels:** Soluble fiber in sweet potatoes helps lower LDL cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
+<li>**Controls Blood Pressure:** Fiber-rich foods like sweet potatoes help regulate blood pressure, promoting cardiovascular health and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>**Aids in Weight Management:** High-fiber foods increase satiety, helping you feel full for longer and potentially aiding in weight management, which is beneficial for heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="vitamin-A">How Does Vitamin A in Sweet Potatoes Support Heart Protection?</h2>

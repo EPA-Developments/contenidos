@@ -10,12 +10,12 @@
     <meta property="og:title" content="Fish Oil Benefits for Heart Health" />
     <meta property="og:description" content="Discover how fish oil can boost heart health naturally. Learn more about its benefits for your cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fish Oil For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <ul>
 <li>Reducing inflammation in the body, which can lower the risk of heart disease</li>
 <li>Supporting healthy cholesterol levels and promoting better overall heart function</li>
-<li>Helping to maintain normal blood pressure, thus reducing the likelihood of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Helping to maintain normal blood pressure, thus reducing the likelihood of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 </ul>
 <p>Adding omega-3s to your diet through fish oil supplementation can be a simple yet effective way to support your heart's well-being.</p>
 <h2 class="sec-scrl" id="triglycerides">Triglycerides and Heart Health</h2>

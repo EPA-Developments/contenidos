@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Heart Disease Treatment Options">
   <meta property="og:description" content="Discover effective coronary heart disease treatment options to improve your heart health. Find the best treatments to manage and prevent heart disease.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coronary-heart-disease-treatment-options">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coronary-heart-disease-treatment-options">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coronary-heart-disease-treatment-options" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coronary-heart-disease-treatment-options" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Heart Disease Treatment Options",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/coronary-heart-disease-treatment-options"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/coronary-heart-disease-treatment-options"  
       }]
     }
   </script>

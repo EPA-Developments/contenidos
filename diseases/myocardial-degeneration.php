@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myocardial Degeneration: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Myocardial Degeneration causes heart muscle damage. Know more about its symptoms, causes, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-degeneration">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myocardial-degeneration">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-degeneration" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-degeneration" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Myocardial Degeneration",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myocardial-degeneration"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myocardial-degeneration"
       }]
     }
   </script>
@@ -169,19 +169,19 @@
 <p>Myocardial degeneration refers to the progressive damage and weakening of the heart muscle, leading to impaired cardiac function.</p>
 <p>This condition is significant due to its impact on overall health, as the heart plays a crucial role in pumping blood and delivering oxygen and nutrients to the body's tissues.</p>
 <p>The prevalence of myocardial degeneration is increasing globally, with aging populations and rising rates of cardiovascular risk factors contributing to its incidence.</p>
-<p>In the early stages, myocardial degeneration may be asymptomatic, making it challenging to detect without proper screening. However, as the condition progresses, individuals may experience symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>.</p>
+<p>In the early stages, myocardial degeneration may be asymptomatic, making it challenging to detect without proper screening. However, as the condition progresses, individuals may experience symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>.</p>
 <p>Untreated myocardial degeneration can result in serious complications, including heart failure, arrhythmias, and even sudden cardiac death. Therefore, early detection through regular screenings is essential to prevent long-term health risks.</p>
 <h2 id="causes">Causes of Myocardial Degeneration</h2>
 <p>The primary causes of myocardial degeneration can be attributed to various factors that impact heart health over time.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart muscle, leading to hypertrophy and eventual weakening of the myocardium.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart muscle, leading to hypertrophy and eventual weakening of the myocardium.</li>
 <li>Coronary Artery Disease: Blockages in the coronary arteries restrict blood flow to the heart, causing damage to the myocardial tissue.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>: Inflammation of the heart muscle can result from infections, autoimmune diseases, or toxic exposures, leading to myocardial degeneration.</li>
-<li>Genetic Factors: Inherited conditions such as dilated <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> can predispose individuals to myocardial degeneration.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>: Inflammation of the heart muscle can result from infections, autoimmune diseases, or toxic exposures, leading to myocardial degeneration.</li>
+<li>Genetic Factors: Inherited conditions such as dilated <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> can predispose individuals to myocardial degeneration.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors include obesity, smoking, excessive alcohol consumption, and a sedentary lifestyle, all of which can exacerbate myocardial degeneration by increasing strain on the heart muscle.</p>
 <h2 id="symptoms">Symptoms of Myocardial Degeneration</h2>
-<p>Early-stage symptoms of myocardial degeneration may include mild fatigue, exercise intolerance, and occasional <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. These symptoms can impact daily activities by reducing energy levels and causing discomfort during physical exertion.</p>
+<p>Early-stage symptoms of myocardial degeneration may include mild fatigue, exercise intolerance, and occasional <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. These symptoms can impact daily activities by reducing energy levels and causing discomfort during physical exertion.</p>
 <p>In advanced stages, individuals may experience severe shortness of breath, chest pain, edema, and irregular heart rhythms, significantly affecting their physical and emotional well-being.</p>
 <h2>Diagnosis of Myocardial Degeneration</h2>
 <p>The diagnostic process for myocardial degeneration typically involves a series of tests to assess heart function and structure.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Top Heart-Healthy Food Choices&quot;" />
     <meta property="og:description" content="Learn which foods to avoid for heart health, such as mayonnaise. Discover how these choices impact heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/foods-to-avoid-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/foods-to-avoid-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/foods-to-avoid-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/foods-to-avoid-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Foods To Avoid For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/foods-to-avoid-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/foods-to-avoid-for-heart-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>Opt for lean protein sources, low-fat dairy alternatives, and healthier cooking methods like baking or grilling to reduce your consumption of harmful fats.</p>
 <h2 class="sec-scrl" id="processed-foods">Processed Foods: Hidden Dangers for Your Heart</h2>
-<p>Processed foods are often packed with sodium, preservatives, and unhealthy fats, making them a triple threat to your heart health. These convenient but harmful options can increase your risk of developing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and cardiovascular issues. Keep your heart happy by avoiding processed foods such as:</p>
+<p>Processed foods are often packed with sodium, preservatives, and unhealthy fats, making them a triple threat to your heart health. These convenient but harmful options can increase your risk of developing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and cardiovascular issues. Keep your heart happy by avoiding processed foods such as:</p>
 <ul>
 <li>Store-bought baked goods like cookies and pastries</li>
 <li>Canned soups and sauces loaded with added salt</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Detect Irregular Heartbeats with an ECG Test">
   <meta property="og:description" content="Learn how an ECG test can detect irregular heartbeats. Discover the importance of ECG tests in monitoring heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/detect-irregular-heartbeats-ecg-test">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/detect-irregular-heartbeats-ecg-test">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/detect-irregular-heartbeats-ecg-test" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/detect-irregular-heartbeats-ecg-test" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Detect Irregular Heartbeats With An Ecg Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/detect-irregular-heartbeats-ecg-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/detect-irregular-heartbeats-ecg-test"  
       }]
     }
   </script>

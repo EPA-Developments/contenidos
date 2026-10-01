@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Triple Bypass Surgery: Procedure, Benefits, Risks, and Recovery">
   <meta property="og:description" content="Learn about the benefits, risks, procedure, recovery, and post-surgery care of triple bypass surgery for coronary artery disease. Compare with angioplasty.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/triple-bypass-surgery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/triple-bypass-surgery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/triple-bypass-surgery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/triple-bypass-surgery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Triple Bypass Surgery",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/triple-bypass-surgery"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/triple-bypass-surgery"  
       }]
     }
   </script>

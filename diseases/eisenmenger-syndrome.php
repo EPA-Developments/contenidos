@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Eisenmenger Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Eisenmenger Syndrome causes abnormal blood flow in the heart. Know more about its symptoms, causes, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/eisenmenger-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/eisenmenger-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/eisenmenger-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/eisenmenger-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Eisenmenger Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/eisenmenger-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/eisenmenger-syndrome"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Eisenmenger Syndrome</h1>
-<p>Eisenmenger Syndrome is a serious condition where a large hole in the heart leads to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the lungs. This increase in pressure can cause irreversible damage to the blood vessels in the lungs, making the condition life-threatening. It most commonly occurs in people born with heart defects. While once considered rare, advances in medical care have increased survival rates, leading to more cases being diagnosed. Early detection and management are crucial in improving outcomes for individuals living with Eisenmenger Syndrome.</p>
+<p>Eisenmenger Syndrome is a serious condition where a large hole in the heart leads to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the lungs. This increase in pressure can cause irreversible damage to the blood vessels in the lungs, making the condition life-threatening. It most commonly occurs in people born with heart defects. While once considered rare, advances in medical care have increased survival rates, leading to more cases being diagnosed. Early detection and management are crucial in improving outcomes for individuals living with Eisenmenger Syndrome.</p>
 <h2 id="causes">Causes of Eisenmenger Syndrome</h2>
 <p>Eisenmenger Syndrome usually develops due to a congenital heart defect that causes increased blood flow to the lungs. Here are the main factors contributing to its development:
 
 <ul>
 <li>Untreated or poorly managed congenital heart defects</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a> leading to increased pressure in the lungs</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a> leading to increased pressure in the lungs</li>
 <li>Irreversible changes in the blood vessels of the lungs</li>
 <li>Shunting of blood from right to left side of the heart</li>
 </ul></p>
@@ -175,12 +175,12 @@
 <p>Recognizing the symptoms of Eisenmenger Syndrome is crucial as early detection can significantly improve outcomes. This rare condition occurs when a large hole in the heart leads to high pressures in the lungs, causing irreversible damage. Symptoms of Eisenmenger Syndrome include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
-<li>Bluish or purple tint to the lips, skin, or nails (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>)</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li>Bluish or purple tint to the lips, skin, or nails (<a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>)</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 <li>Swelling in the legs or abdomen</li>
 </ul>
 

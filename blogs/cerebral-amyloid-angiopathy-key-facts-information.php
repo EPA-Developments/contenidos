@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Cerebral Amyloid Angiopathy: Key Facts & Information">
   <meta property="og:description" content="Learn important facts about cerebral amyloid angiopathy, a condition affecting blood vessels in the brain, including symptoms, causes, and treatments.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cerebral-amyloid-angiopathy-key-facts-information">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cerebral-amyloid-angiopathy-key-facts-information">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cerebral-amyloid-angiopathy-key-facts-information" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cerebral-amyloid-angiopathy-key-facts-information" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Cerebral Amyloid Angiopathy: Key Facts & Information",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cerebral-amyloid-angiopathy-key-facts-information"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cerebral-amyloid-angiopathy-key-facts-information"  
       }]
     }
   </script>

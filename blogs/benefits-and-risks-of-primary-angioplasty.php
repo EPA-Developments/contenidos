@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Benefits and Risks of Primary Angioplasty">
   <meta property="og:description" content="Learn all about primary angioplasty, including its benefits and risks. Understand how this procedure can help with heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/benefits-and-risks-of-primary-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/benefits-and-risks-of-primary-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/benefits-and-risks-of-primary-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/benefits-and-risks-of-primary-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Benefits And Risks Of Primary Angioplasty",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/benefits-and-risks-of-primary-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/benefits-and-risks-of-primary-angioplasty"  
       }]
     }
   </script>

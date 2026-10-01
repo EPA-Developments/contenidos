@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Caffeine Impact on Heart Rate&quot;" />
     <meta property="og:description" content="Explore how caffeine impacts heart rate. Learn about measuring, tolerance, overconsumption, and monitoring pulse." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/caffeine-and-heart-rate" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/caffeine-and-heart-rate" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/caffeine-and-heart-rate" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/caffeine-and-heart-rate" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Caffeine And Heart Rate",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/caffeine-and-heart-rate"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/caffeine-and-heart-rate"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Over time, frequent consumption of caffeine can lead to the development of tolerance in some individuals. This means that your body becomes accustomed to the effects of caffeine, requiring higher doses to achieve the same stimulating effect. As your tolerance increases, you may notice that your heart rate is not as significantly affected by moderate amounts of caffeine as it used to be.</p>
 <p>Individuals with high caffeine tolerance may consume large quantities of caffeinated beverages without experiencing a substantial increase in heart rate. However, it is essential to be mindful of the potential long-term effects of consuming excessive amounts of caffeine, even if your heart rate seems unaffected.</p>
 <h2 class="sec-scrl" id="caffeine-overconsumption">Caffeine Overconsumption</h2>
-<p>Excessive consumption of caffeine can have adverse effects on your heart rate and overall health. When consumed in large amounts, caffeine can lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, and even irregular heart rhythms. These effects are more pronounced in individuals who are not regular caffeine consumers or have underlying heart conditions.</p>
+<p>Excessive consumption of caffeine can have adverse effects on your heart rate and overall health. When consumed in large amounts, caffeine can lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, and even irregular heart rhythms. These effects are more pronounced in individuals who are not regular caffeine consumers or have underlying heart conditions.</p>
 <p>If you experience a sudden and significant increase in your heart rate after consuming caffeine, it may be a sign of overconsumption. In such cases, it is advisable to reduce your caffeine intake and consult a healthcare professional if you continue to experience abnormal heart rate patterns.</p>
 <h2 class="sec-scrl" id="monitoring-pulse">Monitoring Pulse</h2>
 <p>Monitoring your pulse regularly is essential, especially if you are a regular consumer of caffeinated products. Changes in your pulse rate can indicate how your heart is responding to the stimulant effects of caffeine. If you notice persistent elevations in your heart rate after consuming caffeine, it may be a signal to reconsider your caffeine consumption habits.</p>

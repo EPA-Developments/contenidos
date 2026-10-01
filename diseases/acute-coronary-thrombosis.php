@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acute Coronary Thrombosis: Symptoms, Causes, Treatment">
   <meta property="og:description" content="Acute coronary thrombosis can block blood flow to the heart. Know about its symptoms, causes, and treatment methods for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/acute-coronary-thrombosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/acute-coronary-thrombosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/acute-coronary-thrombosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/acute-coronary-thrombosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atypical Hemolytic Uremic Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/acute-coronary-thrombosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/acute-coronary-thrombosis"
       }]
     }
   </script>
@@ -166,8 +166,8 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Treatment of Acute Coronary Thrombosis</h1>
-<p>Acute Coronary Thrombosis is a critical condition characterized by the sudden formation of a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> in the coronary arteries, leading to a blockage of blood flow to the heart muscle.</p>
-<p>This condition is of utmost significance due to its potential to cause a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, posing severe risks to an individual's health and life.</p>
+<p>Acute Coronary Thrombosis is a critical condition characterized by the sudden formation of a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> in the coronary arteries, leading to a blockage of blood flow to the heart muscle.</p>
+<p>This condition is of utmost significance due to its potential to cause a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, posing severe risks to an individual's health and life.</p>
 <p>Acute Coronary Thrombosis is a prevalent issue globally, contributing significantly to cardiovascular morbidity and mortality rates. The impact of Acute Coronary Thrombosis on health is profound, affecting essential functions such as heart function, blood circulation, and overall cardiac health.</p>
 <p>In the short term, untreated Acute Coronary Thrombosis can result in a sudden and potentially fatal heart attack. Long-term risks include chronic heart conditions, reduced quality of life, and an increased likelihood of recurrent cardiac events.</p>
 <p>One significant challenge in the early stages of Acute Coronary Thrombosis is its often asymptomatic nature, where individuals may not experience noticeable symptoms until a heart attack occurs.</p>
@@ -175,9 +175,9 @@
 <h2 id="causes">Causes of Acute Coronary Thrombosis</h2>
 <h3>Primary Causes</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis is a primary cause of Acute Coronary Thrombosis, involving the gradual buildup of plaque in the arteries, leading to narrowing and potential blockages. Over time, this process restricts blood flow to the heart, increasing the risk of thrombosis and heart attack.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hyperlipidemia">hyperlipidemia</a>: Elevated levels of cholesterol and triglycerides in the blood can contribute to the formation of plaques in the arteries, promoting thrombus formation and impeding normal heart function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> exerts excessive force on the arterial walls, damaging them over time and creating conditions favorable for blood clot formation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis is a primary cause of Acute Coronary Thrombosis, involving the gradual buildup of plaque in the arteries, leading to narrowing and potential blockages. Over time, this process restricts blood flow to the heart, increasing the risk of thrombosis and heart attack.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hyperlipidemia">hyperlipidemia</a>: Elevated levels of cholesterol and triglycerides in the blood can contribute to the formation of plaques in the arteries, promoting thrombus formation and impeding normal heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> exerts excessive force on the arterial walls, damaging them over time and creating conditions favorable for blood clot formation.</li>
 <li>Smoking: Tobacco use is a significant risk factor for Acute Coronary Thrombosis, as it not only damages the blood vessels but also promotes inflammation and platelet aggregation, increasing the likelihood of clot formation.</li>
 </ul>
 <h3>Secondary Risk Factors</h3>
@@ -189,7 +189,7 @@
 <h2 id="symptoms">Symptoms of Acute Coronary Thrombosis</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li>Chest Discomfort: Early on, individuals may experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort that can radiate to the arms, back, neck, or jaw, impacting their ability to engage in physical activities or causing fatigue.</li>
+<li>Chest Discomfort: Early on, individuals may experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort that can radiate to the arms, back, neck, or jaw, impacting their ability to engage in physical activities or causing fatigue.</li>
 <li>Shortness of Breath: Breathlessness, especially during exertion, can be a subtle early symptom of compromised heart function that may be overlooked or attributed to other causes.</li>
 </ul>
 <h3>Advanced Symptoms</h3>

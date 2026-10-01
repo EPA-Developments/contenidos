@@ -10,12 +10,12 @@
     <meta property="og:title" content="Dates for Atherosclerosis Prevention" />
     <meta property="og:description" content="Discover how dates can help prevent atherosclerosis and promote heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-for-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-for-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates For Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-for-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-for-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Dates for Atherosclerosis</h1>
-<p>Are you looking for natural ways to protect your heart and arteries? Do you want to learn how dates can help prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and support your vascular health? Imagine being able to incorporate a delicious and nutritious fruit into your diet that not only tastes great but also has significant benefits for your heart health and overall well-being. Let's explore the incredible potential of dates in combating atherosclerosis and promoting a healthy cardiovascular system.</p>
+<p>Are you looking for natural ways to protect your heart and arteries? Do you want to learn how dates can help prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and support your vascular health? Imagine being able to incorporate a delicious and nutritious fruit into your diet that not only tastes great but also has significant benefits for your heart health and overall well-being. Let's explore the incredible potential of dates in combating atherosclerosis and promoting a healthy cardiovascular system.</p>
 <h2 class="sec-scrl" id="artery-health">Artery Health</h2>
 <p>Dates are packed with essential nutrients that support the health of your arteries. The high levels of potassium in dates help regulate blood pressure, reducing strain on the blood vessels and lowering the risk of developing atherosclerosis. Additionally, dates contain significant amounts of magnesium, a mineral crucial for maintaining the elasticity of arteries and preventing stiffening, which can contribute to the development of cardiovascular diseases.</p>
 <ul>

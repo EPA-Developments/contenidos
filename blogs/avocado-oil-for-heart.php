@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Avocado Oil: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Explore how avocado oil can benefit your heart health with its rich source of monounsaturated fats, antioxidants, and potential to lower cholesterol levels." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/avocado-oil-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/avocado-oil-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/avocado-oil-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/avocado-oil-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Avocado Oil For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/avocado-oil-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/avocado-oil-for-heart"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you looking for a natural way to support your heart health? Have you ever wondered how a simple dietary addition could potentially transform your well-being and daily activities? Avocado oil might hold the key to improving your heart health in a delicious and convenient way.</p>
 <h2 class="sec-scrl" id="monounsaturated fats">The Power of Monounsaturated Fats in Avocado Oil</h2>
 <p>One of the key components that make avocado oil a heart-healthy choice is its high concentration of monounsaturated fats. These healthy fats can help lower bad cholesterol levels in your blood, reducing the risk of heart disease and promoting overall cardiovascular health.</p>
-<p>In addition to supporting heart health, monounsaturated fats in avocado oil can also contribute to better blood circulation, reducing inflammation in the body and lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>In addition to supporting heart health, monounsaturated fats in avocado oil can also contribute to better blood circulation, reducing inflammation in the body and lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <h2 class="sec-scrl" id="cholesterol levels">Maintaining Healthy Cholesterol Levels with Avocado Oil</h2>
 <p>Avocado oil is a natural source of antioxidants that can help protect your body from oxidative stress and inflammation, both of which are key factors in heart disease development. By incorporating avocado oil into your diet, you can potentially lower your cholesterol levels and improve your heart health over time.</p>
 <p>Studies have shown that the monounsaturated fats in avocado oil can help increase good cholesterol levels while decreasing bad cholesterol levels, creating a healthier balance that supports heart disease prevention.</p>

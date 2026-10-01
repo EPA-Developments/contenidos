@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Artery Calcification: Symptoms and Treatment" >
   <meta property="og:description" content="Coronary Artery Calcification hardens arteries, affecting blood flow. Know more about its causes, symptoms, and treatment to support heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-calcification">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-calcification">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-calcification" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-calcification" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Artery Calcification",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-calcification"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-calcification"
       }]
     }
   </script>
@@ -169,14 +169,14 @@
 <p>Coronary Artery Calcification (CAC) is a condition characterized by the buildup of calcium deposits in the coronary arteries, which supply oxygen-rich blood to the heart muscle.</p>
 <p>These calcifications can narrow the arteries, reducing blood flow to the heart and increasing the risk of heart disease and related complications.</p>
 <p>Understanding the significance, prevalence, and impact of CAC on health is crucial for early detection and intervention to prevent adverse outcomes.</p>
-<p>In the early stages, Coronary Artery Calcification may be asymptomatic, making it challenging to detect without specialized tests. However, as the condition progresses, individuals may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
+<p>In the early stages, Coronary Artery Calcification may be asymptomatic, making it challenging to detect without specialized tests. However, as the condition progresses, individuals may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
 <p>Untreated CAC can lead to serious health risks, including heart attacks, strokes, and heart failure. Therefore, regular screenings and early detection are essential to manage the condition effectively.</p>
 <h2 id="causes">Causes of Coronary Artery Calcification</h2>
 <p>The development of Coronary Artery Calcification is influenced by various factors, including lifestyle choices and underlying health conditions. Understanding the primary causes and associated risk factors is crucial in preventing the progression of CAC.</p>
 <p>Primary Causes:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> - A primary cause of CAC, atherosclerosis is the buildup of plaque in the arteries, leading to inflammation and narrowing of the blood vessels over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> - <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can cause damage to the arterial walls, promoting the deposition of calcium in the coronary arteries.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> - A primary cause of CAC, atherosclerosis is the buildup of plaque in the arteries, leading to inflammation and narrowing of the blood vessels over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> - <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can cause damage to the arterial walls, promoting the deposition of calcium in the coronary arteries.</li>
 <li>Diabetes - Individuals with diabetes are at an increased risk of developing CAC due to elevated blood sugar levels and associated metabolic changes.</li>
 <li>Genetic Predisposition - Family history of heart disease and genetic factors can contribute to the development of CAC.</li>
 </ul>
@@ -195,8 +195,8 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Shortness of Breath - <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during activity, can indicate advanced Coronary Artery Calcification.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> - Irregular heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> may signal significant blockages in the coronary arteries.</li>
+<li>Shortness of Breath - <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during activity, can indicate advanced Coronary Artery Calcification.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> - Irregular heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> may signal significant blockages in the coronary arteries.</li>
 </ul>
 <h2>Diagnosis of Coronary Artery Calcification</h2>
 <p>Diagnosing Coronary Artery Calcification involves a series of tests to evaluate the extent of calcium deposits in the coronary arteries and assess overall heart health.</p>

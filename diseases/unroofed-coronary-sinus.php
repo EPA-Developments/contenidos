@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Unroofed Coronary Sinus: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Unroofed Coronary Sinus is a heart defect affecting blood circulation. Know more about its causes, symptoms, and treatment for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/unroofed-coronary-sinus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/unroofed-coronary-sinus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/unroofed-coronary-sinus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/unroofed-coronary-sinus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Unroofed Coronary Sinus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/unroofed-coronary-sinus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/unroofed-coronary-sinus"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Unroofed Coronary Sinus: Symptoms and Treatment</h1>
-<p>Unroofed Coronary Sinus is a rare congenital heart defect where the wall separating the coronary sinus from the left atrium is either partially or completely absent. This condition can lead to abnormal blood flow and potential complications like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> due to lack of oxygen). Although rare, it's crucial to diagnose and manage Unroofed Coronary Sinus early to prevent further heart issues. While its prevalence is low, early detection and appropriate treatment are vital for maintaining heart health and overall well-being.</p>
+<p>Unroofed Coronary Sinus is a rare congenital heart defect where the wall separating the coronary sinus from the left atrium is either partially or completely absent. This condition can lead to abnormal blood flow and potential complications like <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> due to lack of oxygen). Although rare, it's crucial to diagnose and manage Unroofed Coronary Sinus early to prevent further heart issues. While its prevalence is low, early detection and appropriate treatment are vital for maintaining heart health and overall well-being.</p>
 <h2 id="causes">Causes of Unroofed Coronary Sinus</h2>
 <p>Unroofed Coronary Sinus occurs when there's a communication between the coronary sinus and the left atrium due to the absence of the normal tissue that separates them. Main contributing factors include:
 
@@ -175,9 +175,9 @@
 <p>Recognizing symptoms of Unroofed Coronary Sinus early is crucial for better outcomes. Symptoms include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Exercise intolerance</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Easy fatigability</li>
 <li>Increased risk of infections</li>
 </ul>
@@ -187,7 +187,7 @@ Early detection allows for timely intervention, preventing complications and imp
 <p>Accurate diagnosis of an Unroofed Coronary Sinus is crucial for proper management and preventing complications. The diagnostic process typically involves a combination of imaging studies and clinical assessments. Various diagnostic methods may be used to confirm this condition, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a></li>
 <li>Cardiac MRI</li>
 <li>Cardiac CT scan</li>
 </ul>
@@ -213,7 +213,7 @@ These imaging techniques help visualize the heart's structure and blood flow, al
 <h3>Catheter-based Interventions</h3>
 <ul>
 <li>This approach involves minimally invasive procedures using catheters to repair the defect.</li>
-<li>It aims to avoid open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> and reduce recovery time.</li>
+<li>It aims to avoid open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> and reduce recovery time.</li>
 <li>The primary objective is to close the unroofed coronary sinus and improve heart function.</li>
 <li>Techniques may include device closure or transcatheter interventions.</li>
 </ul></p>

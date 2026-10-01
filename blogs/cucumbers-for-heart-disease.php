@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cucumbers for Heart Health: A Natural Prevention&quot;" />
     <meta property="og:description" content="Discover the benefits of cucumbers in preventing heart disease. Learn how this simple vegetable can support your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cucumbers For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-heart-disease"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Cucumbers for Heart Disease Prevention</h1>
 <p>Are you looking for a simple way to boost your heart health and keep cardiovascular issues at bay? Have you ever considered the humble cucumber as a potential ally in the fight against heart disease? The impact of heart problems on your daily life can be significant, affecting everything from your energy levels to your ability to engage in physical activities. Let's explore how incorporating cucumbers into your diet can play a vital role in promoting heart health.</p>
 <h2 class="sec-scrl" id="cardiovascular-disease">How do Cucumbers Help Combat Cardiovascular Disease?</h2>
-<p>Cucumbers are packed with antioxidants that help reduce inflammation in the body, a key factor in the development of cardiovascular disease. These antioxidants work to neutralize harmful free radicals, preventing damage to blood vessels and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Cucumbers are packed with antioxidants that help reduce inflammation in the body, a key factor in the development of cardiovascular disease. These antioxidants work to neutralize harmful free radicals, preventing damage to blood vessels and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <p>In addition to their antioxidant properties, cucumbers are rich in nutrients like potassium and magnesium, which play a crucial role in maintaining healthy blood pressure levels. By keeping blood pressure in check, cucumbers support overall heart function and reduce the risk of heart disease.</p>
 <h2 class="sec-scrl" id="blood-circulation">Improving Blood Circulation with Cucumbers</h2>
 <p>One of the essential benefits of cucumbers for heart health is their ability to improve blood circulation. The high water content in cucumbers helps keep you hydrated, which is vital for maintaining optimal blood flow throughout the body. Improved blood circulation ensures that all parts of the body receive an adequate supply of oxygen and nutrients, supporting heart function and overall well-being.</p>

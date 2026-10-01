@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sugar Impact on Cholesterol & Heart Health&quot;" />
     <meta property="og:description" content="Discover the impact of sugar on cholesterol levels and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sugar-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sugar-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sugar-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sugar-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sugar And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sugar-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sugar-and-cholesterol"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <li>Incorporating regular physical activity into your routine can also help reduce triglycerides and support heart function.</li>
 </ul>
 <h2 class="sec-scrl" id="ldl-cholesterol">Understanding LDL Cholesterol</h2>
-<p>LDL cholesterol, commonly known as "bad" cholesterol, plays a crucial role in the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in the arteries. Excessive sugar consumption can elevate LDL cholesterol levels, leading to the accumulation of plaque and narrowing of the arteries.</p>
+<p>LDL cholesterol, commonly known as "bad" cholesterol, plays a crucial role in the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in the arteries. Excessive sugar consumption can elevate LDL cholesterol levels, leading to the accumulation of plaque and narrowing of the arteries.</p>
 <p>Reducing sugar intake and opting for healthier alternatives can help lower LDL cholesterol levels and reduce the risk of cardiovascular complications. Choosing whole foods and minimizing processed sugars can have a positive impact on your heart health.</p>
 <h2 class="sec-scrl" id="hdl-cholesterol">Importance of HDL Cholesterol</h2>
 <p>HDL cholesterol, often referred to as "good" cholesterol, plays a protective role in heart health by transporting excess cholesterol from the bloodstream to the liver for excretion. Sugar consumption can lower HDL cholesterol levels, impairing this crucial function and increasing the risk of heart disease.</p>

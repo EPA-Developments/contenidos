@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tricuspid Valve Repair Surgery: Procedure and Treatment">
   <meta property="og:description" content="Learn about tricuspid valve repair, a minimally invasive heart valve surgery to treat tricuspid valve issues. Find out more about the repair of tricuspid valve and the tricuspid valve treatment surgery process.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/tricuspid-valve-repair">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/tricuspid-valve-repair">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/tricuspid-valve-repair" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/tricuspid-valve-repair" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tricuspid valve repair",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/tricuspid-valve-repair"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/tricuspid-valve-repair"  
       }]
     }
   </script>

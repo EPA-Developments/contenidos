@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Breathlessness at Rest: Symptoms, Causes and Treatment" >
   <meta property="og:description" content="Breathlessness at rest can be a sign of heart issues. Learn more about symptoms, causes, diagnosis, and treatment options for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-at-rest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-at-rest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-at-rest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-at-rest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Breathlessness At Rest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness-at-rest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/breathlessness-at-rest"  
       }]
     }
   </script>
@@ -166,8 +166,8 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Breathlessness at Rest: Treatment, Causes and Symptoms</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> at rest, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> while resting, is a condition where individuals experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> even when they are not exerting themselves physically.</p>
-<p>This sensation of breathlessness can be distressing and may feel like a struggle to get enough air into the lungs. It is often accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, respiratory distress, and overall discomfort in breathing.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> at rest, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> while resting, is a condition where individuals experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> even when they are not exerting themselves physically.</p>
+<p>This sensation of breathlessness can be distressing and may feel like a struggle to get enough air into the lungs. It is often accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, respiratory distress, and overall discomfort in breathing.</p>
 <h2 id="forms">What are the Forms of Breathlessness at rest?</h2>
 <p>There are various forms of breathlessness at rest, each with specific symptoms and related concepts.</p>
 <ul>
@@ -189,11 +189,11 @@
 <ul>
 <li>Chest X-ray: To assess the condition of the lungs and heart.</li>
 <li>Pulmonary function tests: To measure lung function and capacity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart rhythm and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): To evaluate heart rhythm and function.</li>
 </ul>
 <p>Advanced diagnostic techniques may involve:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To assess the structure and function of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To assess the structure and function of the heart.</li>
 <li>Blood tests: To check for underlying conditions such as anemia or infection.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Breathlessness at rest?</h2>
@@ -205,7 +205,7 @@
 <li>Pulmonary rehabilitation: Programs to help improve lung function and breathing techniques.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent breathlessness at rest, especially if it is accompanied by symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, dizziness, or fainting.</p>
+<p>It is essential to seek medical attention if you experience persistent breathlessness at rest, especially if it is accompanied by symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, dizziness, or fainting.</p>
 <p>If the breathlessness worsens or interferes with daily activities, it is crucial to consult a healthcare provider for a proper evaluation and treatment.</p>
 <h2>Home Remedies for Breathlessness at rest</h2>
 <p>Home remedies can help alleviate mild cases of breathlessness at rest and include:</p>

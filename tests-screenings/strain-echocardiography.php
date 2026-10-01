@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Strain Echocardiography: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Strain echocardiography measures heart muscle strength. Know more about its purpose, cost, and normal Range for better heart care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/strain-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/strain-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/strain-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/strain-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Strain Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/strain-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/strain-echocardiography"  
       }]
     }
   </script>
@@ -176,7 +176,7 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of Strain Echocardiography</h1>
-<p>Strain <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive imaging technique used to assess myocardial deformation, providing valuable information about the function of the heart muscle.</p>
+<p>Strain <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive imaging technique used to assess myocardial deformation, providing valuable information about the function of the heart muscle.</p>
 <p>This test measures the strain, or deformation, of the heart muscle as it contracts and relaxes, allowing doctors to evaluate the performance of the cardiac muscle.</p>
 <p>By analyzing the strain imaging, healthcare providers can detect abnormalities in the heart muscle function that may not be apparent with traditional echocardiography.</p>
 <p>Strain echocardiography is particularly useful in evaluating left ventricular function, detecting early signs of heart failure, and identifying subclinical heart disease.</p>
@@ -212,7 +212,7 @@
 <p>Regular monitoring of strain values over time can help track changes in heart muscle performance and guide treatment decisions.</p>
 <p>Overall, understanding the normal range and values of strain echocardiography is essential for healthcare providers to assess myocardial deformation accurately, evaluate heart muscle function, and monitor cardiac performance in patients with various heart conditions.</p>
 <h2>What Do High Strain Echocardiography Levels Indicate?</h2>
-<p>High strain echocardiography levels may indicate increased myocardial deformation, which can be caused by various factors such as increased cardiac workload, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or cardiac hypertrophy.</p>
+<p>High strain echocardiography levels may indicate increased myocardial deformation, which can be caused by various factors such as increased cardiac workload, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or cardiac hypertrophy.</p>
 <p>These high strain values may suggest increased contractility of the heart muscle, potentially leading to improved cardiac function.</p>
 <ul>
 <li>Causes of high strain echocardiography levels:</li>
@@ -227,7 +227,7 @@
 <p>Healthcare providers may recommend lifestyle modifications, medication adjustments, or other interventions to address the underlying cause of high strain values and prevent potential complications.</p>
 <p>Overall, high strain echocardiography levels may indicate increased myocardial deformation and potential strain on the heart muscle, requiring further evaluation and tailored treatment strategies to optimize cardiac function and prevent adverse outcomes.</p>
 <h2>What Do Low Strain Echocardiography Levels Indicate?</h2>
-<p>Low strain echocardiography levels may indicate decreased myocardial deformation, which can be associated with various cardiac conditions such as heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
+<p>Low strain echocardiography levels may indicate decreased myocardial deformation, which can be associated with various cardiac conditions such as heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
 <p>These low strain values may suggest impaired contractility of the heart muscle, leading to reduced cardiac function.</p>
 <ul>
 <li>Reasons for low strain echocardiography levels:</li>
@@ -236,7 +236,7 @@
 <li>Cardiomyopathy</li>
 <li>Ischemic heart disease</li>
 </ul>
-<p>Patients with low strain echocardiography levels may experience symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, indicating compromised cardiac function.</p>
+<p>Patients with low strain echocardiography levels may experience symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, indicating compromised cardiac function.</p>
 <p>Healthcare providers may recommend further diagnostic tests, such as cardiac imaging or blood tests, to assess the extent of myocardial deformation and determine the underlying cause.</p>
 <p>Conditions associated with low strain echocardiography levels pose a higher risk of adverse cardiovascular events, including heart failure exacerbation, arrhythmias, or sudden cardiac death.</p>
 <p>Early detection and management of low strain values are essential to prevent disease progression and improve patient outcomes.</p>

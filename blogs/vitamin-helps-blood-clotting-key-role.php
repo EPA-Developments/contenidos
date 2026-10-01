@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Which Vitamin Helps in Blood Clotting: Key Role Explained">
   <meta property="og:description" content="Discover which vitamin helps in blood clotting and plays a crucial role in maintaining a healthy blood flow. Find out more about its importance here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-helps-blood-clotting-key-role">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-helps-blood-clotting-key-role">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-helps-blood-clotting-key-role" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-helps-blood-clotting-key-role" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Which Vitamin Helps In Blood Clotting: Key Role Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-helps-blood-clotting-key-role"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-helps-blood-clotting-key-role"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cold Hands: Diagnosis, Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Cold hands may indicate circulation issues or heart conditions. Know more about the symptoms, diagnosis, causes, and treatments for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cold Hands",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/cold-hands"  
       }]
     }
   </script>
@@ -189,7 +189,7 @@
 <p>Cold hands refer to a condition where the hands feel unusually cold compared to the rest of the body. It can be a common occurrence due to environmental factors or underlying health issues.</p>
 <p>Symptoms of cold hands may include a noticeable drop in hand temperature, pale hands, and a feeling of chilliness or numbness.</p>
 <h2 id="forms">What are the Forms of Cold hands?</h2>
-<p>There are various forms of cold hands, each with specific symptoms and related concepts. These include cold extremities, frozen hands, chilled hands, cold fingers, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> in hands.</p>
+<p>There are various forms of cold hands, each with specific symptoms and related concepts. These include cold extremities, frozen hands, chilled hands, cold fingers, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> in hands.</p>
 <p>Cold extremities refer to an overall feeling of coldness in the hands, feet, or other extremities. Frozen hands indicate an extreme cold sensation in the hands, often accompanied by stiffness.</p>
 <p>Chilled hands refer to a constant feeling of coldness in the hands, regardless of the ambient temperature.</p>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Tamarind for Atherosclerosis: Natural Remedy Guide&quot;" />
     <meta property="og:description" content="Discover the power of Tamarind for atherosclerosis: natural remedy for artery plaque, blood flow, heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamarind For Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Tamarind Remedy for Atherosclerosis</h1>
-<p>Are you worried about the health of your heart and arteries? Do you want to find a natural way to prevent and manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? The answer might lie in the humble tamarind. Let's explore how tamarind, with its potential benefits for artery plaque and blood flow, can be a valuable addition to your daily routine.</p>
+<p>Are you worried about the health of your heart and arteries? Do you want to find a natural way to prevent and manage <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? The answer might lie in the humble tamarind. Let's explore how tamarind, with its potential benefits for artery plaque and blood flow, can be a valuable addition to your daily routine.</p>
 <h2 class="sec-scrl" id="artery-plaque">Artery Plaque</h2>
 <p>Artery plaque, a hallmark of atherosclerosis, occurs when fatty deposits build up in the arteries, leading to blockages and restricted blood flow. Tamarind, rich in antioxidants and fiber, may help reduce the accumulation of plaque by lowering cholesterol levels and inhibiting inflammation in the arterial walls.</p>
 <ul>

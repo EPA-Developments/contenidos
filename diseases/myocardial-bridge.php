@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Myocardial Bridge: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Myocardial Bridge affects heart muscle fibers. Know more about its symptoms, causes, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-bridge">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/myocardial-bridge">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-bridge" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-bridge" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Myocardial Bridge",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/myocardial-bridge"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/myocardial-bridge"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Myocardial Bridge</h1>
-<p>A Myocardial Bridge is when a heart artery tunnels through the heart muscle instead of resting on top. It can compress the artery, affecting blood flow and causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Though usually harmless, in some cases it may lead to serious heart problems. Myocardial Bridges are found in about 25% of people during autopsies, but only cause symptoms in a small percentage. If you experience chest pain or other symptoms, consult a healthcare provider for proper evaluation and management.</p>
+<p>A Myocardial Bridge is when a heart artery tunnels through the heart muscle instead of resting on top. It can compress the artery, affecting blood flow and causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Though usually harmless, in some cases it may lead to serious heart problems. Myocardial Bridges are found in about 25% of people during autopsies, but only cause symptoms in a small percentage. If you experience chest pain or other symptoms, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Myocardial Bridge</h2>
 <p>Myocardial Bridge occurs when a coronary artery tunnels through the heart muscle instead of resting on top. Several factors contribute to its development:
 
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Myocardial Bridge early is crucial for improving outcomes. This condition, where a coronary artery tunnels through the heart muscle instead of resting on its surface, can lead to chest pain and other issues. Symptoms to watch out for include:
 
 <ul>
-<li>Chest pain (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li>Chest pain (<a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or fainting</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or fainting</li>
 </ul> 
 
 Early detection of these symptoms allows for timely intervention and management, potentially preventing complications associated with Myocardial Bridge. If you experience any of these symptoms, it's essential to seek medical attention promptly to receive the necessary evaluation and care.</p>
@@ -190,8 +190,8 @@ Early detection of these symptoms allows for timely intervention and management,
 <ul>
 <li>Medical history review to assess symptoms and risk factors.</li>
 <li>Physical examination to check for signs of heart issues.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize heart structure and function.</li>
 <li>Coronary angiography to confirm the presence and severity of the bridge.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Myocardial Bridge</h2>

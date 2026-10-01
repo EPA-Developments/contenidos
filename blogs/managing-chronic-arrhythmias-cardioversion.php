@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Managing Chronic Arrhythmias with Cardioversion">
   <meta property="og:description" content="Learn why cardioversion is a crucial tool for managing chronic arrhythmias. Discover how cardioversion can help restore normal heart rhythm.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-arrhythmias-cardioversion">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-arrhythmias-cardioversion">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-arrhythmias-cardioversion" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-arrhythmias-cardioversion" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Managing Chronic Arrhythmias With Cardioversion",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/managing-chronic-arrhythmias-cardioversion"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/managing-chronic-arrhythmias-cardioversion"  
       }]
     }
   </script>

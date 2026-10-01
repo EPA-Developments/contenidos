@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endocardial Cushion Defect: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Endocardial Cushion Defect impacts heart structure and function. Know more about its causes, symptoms, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endocardial-cushion-defect">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endocardial-cushion-defect">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endocardial-cushion-defect" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endocardial-cushion-defect" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endocardial Cushion Defect",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endocardial-cushion-defect"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endocardial-cushion-defect"
       }]
     }
   </script>
@@ -172,7 +172,7 @@
 <p>This defect can lead to mixing of oxygen-rich and oxygen-poor blood, causing various complications.</p>
 <p>The prevalence of ECD is relatively low, occurring in about 1 in every 1,000 live births. However, its impact on health can be severe if left untreated.</p>
 <p>ECD affects essential functions of the heart, including proper circulation of oxygenated blood to the body and the lungs, as well as maintaining adequate pressure within the heart chambers.</p>
-<p>In the short term, untreated ECD can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color), and poor growth in infants. Long-term risks include heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and an increased risk of infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>.</p>
+<p>In the short term, untreated ECD can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color), and poor growth in infants. Long-term risks include heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and an increased risk of infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>.</p>
 <p>One challenge with ECD is its asymptomatic nature in the early stages, making early detection crucial for timely interventions. Regular screenings, especially in infants and young children, can help identify ECD before serious complications arise.</p>
 <p>Early diagnosis and appropriate management can significantly improve outcomes and quality of life for individuals with ECD.</p>
 <h2 id="symptoms">Causes of Endocardial Cushion Defect</h2>
@@ -189,14 +189,14 @@
 <li>Poor Growth: In infants, ECD can impair normal growth and development, leading to delays in weight gain and milestones.</li>
 <li>Advanced Symptoms:</li>
 <li>Cyanosis: Bluish discoloration of the skin or lips due to inadequate oxygenation of the blood, indicating a severe lack of oxygen in the body.</li>
-<li>Heart Failure: Advanced ECD can result in heart failure, characterized by symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fluid retention, and decreased exercise tolerance.</li>
+<li>Heart Failure: Advanced ECD can result in heart failure, characterized by symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fluid retention, and decreased exercise tolerance.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Endocardial Cushion Defect</h2>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create detailed images of the heart's structures and can help identify abnormalities in the endocardial cushions.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: In this procedure, a thin, flexible tube is inserted into a blood vessel and guided to the heart to measure pressures and evaluate blood flow abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create detailed images of the heart's structures and can help identify abnormalities in the endocardial cushions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: In this procedure, a thin, flexible tube is inserted into a blood vessel and guided to the heart to measure pressures and evaluate blood flow abnormalities.</li>
 <li>MRI or CT Scan: These imaging tests provide detailed images of the heart's anatomy, allowing healthcare providers to assess the extent of the endocardial cushion defect.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can help detect abnormal rhythms or conduction disturbances associated with ECD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can help detect abnormal rhythms or conduction disturbances associated with ECD.</li>
 </ul>
 <h2>Treatment Options for Endocardial Cushion Defect</h2>
 <ul>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heartburn: Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="Heartburn symptoms include burning pain, chest discomfort, and acid reflux. Know more about its causes, diagnosis, and treatment options for better results." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heartburn",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heartburn"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heartburn"  
       }]
     }
   </script>
@@ -209,7 +209,7 @@
 <ul>
 <li>Heartburn persists for more than two weeks.</li>
 <li>Symptoms interfere with daily activities or sleep.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> is accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, sweating, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> is accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, sweating, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>.</li>
 <li>Over-the-counter medications are not effective in relieving symptoms.</li>
 </ul>
 <p>Seeking medical attention promptly can help diagnose underlying conditions and prevent potential complications associated with chronic heartburn.</p>

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose of Performing a Nuclear Cardiac Stress Test" property="og:title"/>
 <meta content="Nuclear cardiac stress test evaluates heart function under stress. Read more about its purpose, costs, and normal Range for heart care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/nuclear-cardiac-stress-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/nuclear-cardiac-stress-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/nuclear-cardiac-stress-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/nuclear-cardiac-stress-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Nuclear Cardiac Stress Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/nuclear-cardiac-stress-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/nuclear-cardiac-stress-test"  
       }]
     }
   </script>
@@ -156,7 +156,7 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Nuclear Cardiac Stress Test Purpose andCosts</h1>
-<p>A Nuclear Cardiac Stress Test is a diagnostic imaging test that evaluates the blood flow to the heart muscle. It is commonly used to diagnose coronary artery disease, assess heart function, and detect <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-ischemia">myocardial ischemia</a>.</p>
+<p>A Nuclear Cardiac Stress Test is a diagnostic imaging test that evaluates the blood flow to the heart muscle. It is commonly used to diagnose coronary artery disease, assess heart function, and detect <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-ischemia">myocardial ischemia</a>.</p>
 <p>During the test, a small amount of radioactive tracer is injected into the bloodstream, and special cameras capture images of the heart at rest and during stress.</p>
 <p>The stress can be induced by exercise on a treadmill or with medications if the patient is unable to exercise.</p>
 <p>The images obtained during the test help doctors identify areas of the heart that may not be receiving enough blood flow, indicating possible blockages in the coronary arteries.</p>

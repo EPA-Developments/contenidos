@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Familial Hypertrophic Cardiomyopathy: Causes and Treatment" >
   <meta property="og:description" content="Familial Hypertrophic Cardiomyopathy causes heart muscle thickening. Know more about its causes, symptoms, and treatment for a healthier heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertrophic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/familial-hypertrophic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertrophic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/familial-hypertrophic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Familial Hypertrophic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertrophic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/familial-hypertrophic-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Familial Hypertrophic Cardiomyopathy</h1>
-<p>Familial Hypertrophic Cardiomyopathy (FHC) is an inherited heart condition where the heart muscle becomes abnormally thick. It is a significant concern as it can lead to various heart problems and even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> in some cases. FHC is more common than previously thought, affecting about 1 in 500 people. Understanding this condition is crucial for timely diagnosis and management to prevent complications. If you have a family history of heart disease or experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, consult a healthcare professional for evaluation.</p>
+<p>Familial Hypertrophic Cardiomyopathy (FHC) is an inherited heart condition where the heart muscle becomes abnormally thick. It is a significant concern as it can lead to various heart problems and even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> in some cases. FHC is more common than previously thought, affecting about 1 in 500 people. Understanding this condition is crucial for timely diagnosis and management to prevent complications. If you have a family history of heart disease or experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, consult a healthcare professional for evaluation.</p>
 <h2 id="causes">Causes of Familial Hypertrophic Cardiomyopathy</h2>
 <p>Familial Hypertrophic Cardiomyopathy can be influenced by various factors such as genetics, mutations in specific genes like MYH7 or MYBPC3, family history of the condition, and an autosomal dominant inheritance pattern. These factors can lead to the thickening of the heart muscle, affecting its ability to pump blood effectively. Understanding these contributors is crucial in diagnosing and managing this condition effectively. 
 
@@ -177,9 +177,9 @@
 <ul>
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath, especially during exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue, especially during physical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Fainting or near-fainting episodes</li>
 </ul> 
 
@@ -189,7 +189,7 @@ Early detection allows for timely interventions, such as monitoring, medications
 
 <ul>
 <li>Medical history review and physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Echocardiogram to evaluate heart structure and function</li>
 <li>Genetic testing to identify specific gene mutations</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>

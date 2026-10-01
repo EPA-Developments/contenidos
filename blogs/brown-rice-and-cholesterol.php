@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improving Cholesterol with Brown Rice" />
     <meta property="og:description" content="Learn how brown rice boosts heart health by lowering cholesterol levels naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Brown Rice And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/brown-rice-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/brown-rice-and-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Improving Cholesterol with Brown Rice</h1>
-<p>Are you looking to manage your cholesterol levels naturally? Wondering how brown rice can help improve your heart health? Many people struggle with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, which can significantly impact daily activities and overall well-being. Fortunately, making simple dietary changes, like incorporating brown rice into your meals, can have a positive effect on your cholesterol levels.</p>
+<p>Are you looking to manage your cholesterol levels naturally? Wondering how brown rice can help improve your heart health? Many people struggle with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, which can significantly impact daily activities and overall well-being. Fortunately, making simple dietary changes, like incorporating brown rice into your meals, can have a positive effect on your cholesterol levels.</p>
 <h2 class="sec-scrl" id="cholesterol-reduction">Cholesterol Reduction</h2>
 <p>Brown rice is a nutritious whole grain known for its cholesterol-lowering properties. Here's how it can help reduce your cholesterol levels:</p>
 <ul>

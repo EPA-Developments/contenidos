@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Patent Ductus Arteriosus: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Patent ductus arteriosus is a heart defect where a fetal blood vessel remains open. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Patent Ductus Arteriosus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/patent-ductus-arteriosus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/patent-ductus-arteriosus"
       }]
     }
   </script>
@@ -171,7 +171,7 @@
 <p>It is one of the most common congenital heart defects, with a prevalence of around 8 in every 1,000 live births. P: In a healthy heart, the ductus arteriosus closes shortly after birth to redirect blood flow.</p>
 <p>However, in PDA, this passage remains open, causing oxygen-rich blood from the aorta to mix with oxygen-poor blood from the pulmonary artery.</p>
 <p>This abnormal circulation can strain the heart and lungs, affecting vital functions such as oxygenation of tissues and proper circulation. Untreated PDA can lead to short-term risks like respiratory infections, heart failure, and slow weight gain in infants.</p>
-<p>In the long term, it may result in complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>, and even heart failure. P: An alarming aspect of PDA is its asymptomatic nature in the early stages, making early detection crucial.</p>
+<p>In the long term, it may result in complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>, and even heart failure. P: An alarming aspect of PDA is its asymptomatic nature in the early stages, making early detection crucial.</p>
 <p>Regular screenings and prompt intervention are essential to prevent potential health risks associated with untreated PDA. Parents and healthcare providers should be vigilant for any signs or symptoms that may indicate the presence of this condition.</p>
 <h2 id="causes">Causes of Patent Ductus Arteriosus</h2>
 <p>Several factors can contribute to the development of Patent Ductus Arteriosus. Understanding these causes is essential in managing and treating the condition effectively.</p>
@@ -190,19 +190,19 @@
 <p>Recognizing the symptoms associated with PDA is crucial for timely diagnosis and intervention. Symptoms can vary depending on the severity of the condition and the age of the individual.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>: Infants with PDA may exhibit rapid breathing or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during feeding or physical activity. This increased respiratory rate can impact their energy levels and overall comfort.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>: Infants with PDA may exhibit rapid breathing or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during feeding or physical activity. This increased respiratory rate can impact their energy levels and overall comfort.</li>
 <li>Poor Weight Gain: Babies with untreated PDA may struggle with feeding and have difficulty gaining weight. The extra workload on the heart can affect their ability to thrive and grow properly.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a>: As PDA progresses, a heart murmur may become audible during a physical examination. This abnormal sound is caused by turbulent blood flow through the patent ductus arteriosus and can indicate a more severe form of the condition.</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>: Advanced-stage PDA can lead to fatigue and weakness due to the increased strain on the heart. Individuals may experience reduced exercise tolerance and overall stamina, affecting their quality of life.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a>: As PDA progresses, a heart murmur may become audible during a physical examination. This abnormal sound is caused by turbulent blood flow through the patent ductus arteriosus and can indicate a more severe form of the condition.</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>: Advanced-stage PDA can lead to fatigue and weakness due to the increased strain on the heart. Individuals may experience reduced exercise tolerance and overall stamina, affecting their quality of life.</li>
 </ul>
 <h2>Diagnosis of Patent Ductus Arteriosus</h2>
 <p>Diagnosing PDA involves a comprehensive evaluation to assess the structure and function of the heart. Various diagnostic tests are utilized to confirm the presence of a patent ductus arteriosus and determine the appropriate course of treatment.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a primary imaging test used to visualize the heart's structure and blood flow. This non-invasive test provides detailed information about the presence and characteristics of a PDA, allowing healthcare providers to assess the severity of the condition.</li>
-<li>Chest X-ray: A chest X-ray may be performed to evaluate the size and shape of the heart and lungs. This imaging study can reveal any abnormalities associated with PDA, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/enlarged-heart">enlarged heart</a> chambers or increased pulmonary blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a primary imaging test used to visualize the heart's structure and blood flow. This non-invasive test provides detailed information about the presence and characteristics of a PDA, allowing healthcare providers to assess the severity of the condition.</li>
+<li>Chest X-ray: A chest X-ray may be performed to evaluate the size and shape of the heart and lungs. This imaging study can reveal any abnormalities associated with PDA, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/enlarged-heart">enlarged heart</a> chambers or increased pulmonary blood flow.</li>
 <li>Cardiac Catheterization: Cardiac catheterization is an invasive procedure used to directly assess the heart's blood vessels and pressures. It can accurately measure the size and location of the PDA, providing essential information for treatment planning.</li>
 <li>MRI or CT Scan: Advanced imaging techniques like magnetic resonance imaging (MRI) or computed tomography (CT) scans may be utilized to further evaluate the anatomy and function of the heart. These imaging modalities offer detailed 3D images of the heart and surrounding structures, aiding in the diagnosis of PDA.</li>
 </ul>

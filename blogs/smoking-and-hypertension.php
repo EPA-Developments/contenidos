@@ -10,12 +10,12 @@
     <meta property="og:title" content="Smoking and Hypertension: The Connection" />
     <meta property="og:description" content="Explore how smoking impacts high blood pressure & vascular health in this informative blog. Learn about the risks & management strategies." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-hypertension"
         }
     ]
 }
@@ -129,8 +129,8 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Connection Between Smoking and High Blood Pressure</h1>
-<p>Are you aware of the connection between smoking and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? How does this common habit impact your daily life and overall health?</p>
-<p>Smoking and hypertension are closely linked, with smoking being a significant risk factor for <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. In this article, we will delve into the intricate relationship between smoking and hypertension, exploring how smoking affects blood pressure management, damages blood vessels, increases the risk of hypertension, and leads to vascular damage.</p>
+<p>Are you aware of the connection between smoking and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? How does this common habit impact your daily life and overall health?</p>
+<p>Smoking and hypertension are closely linked, with smoking being a significant risk factor for <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. In this article, we will delve into the intricate relationship between smoking and hypertension, exploring how smoking affects blood pressure management, damages blood vessels, increases the risk of hypertension, and leads to vascular damage.</p>
 <h2 class="sec-scrl" id="blood-pressure-management">How Does Smoking Affect Blood Pressure Management?</h2>
 <p>Smoking plays a detrimental role in blood pressure management by causing an immediate increase in heart rate and blood pressure. Nicotine, a key component of cigarettes, constricts blood vessels, leading to reduced blood flow and higher blood pressure levels. Additionally, the chemicals in tobacco can damage the lining of blood vessels, making them less flexible and more prone to constrictions.</p>
 <ul>
@@ -138,7 +138,7 @@
 <li>Quitting smoking can lead to a significant reduction in blood pressure levels.</li>
 </ul>
 <h2 class="sec-scrl" id="smoking-and-blood-vessels">How Does Smoking Impact Blood Vessels?</h2>
-<p>Smoking has a profound effect on blood vessels, causing inflammation and oxidative stress that contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. This condition involves the buildup of plaque in the arteries, narrowing the blood vessels and increasing blood pressure. The toxic substances in tobacco smoke directly damage the endothelium, the inner lining of blood vessels, leading to arterial stiffness and reduced elasticity.</p>
+<p>Smoking has a profound effect on blood vessels, causing inflammation and oxidative stress that contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. This condition involves the buildup of plaque in the arteries, narrowing the blood vessels and increasing blood pressure. The toxic substances in tobacco smoke directly damage the endothelium, the inner lining of blood vessels, leading to arterial stiffness and reduced elasticity.</p>
 <ul>
 <li>Continuous smoking accelerates the progression of vascular damage.</li>
 <li>Long-term smoking can result in irreversible harm to blood vessels.</li>

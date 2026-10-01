@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Hdl Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="HDL test measures the amount of HDL cholesterol in your blood. Know more about the purpose, costs, and normal Range to manage cholesterol levels." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/hdl-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/hdl-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/hdl-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/hdl-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "HDL test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/hdl-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/hdl-test"  
       }]
     }
   </script>

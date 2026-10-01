@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Niacinamide Cardio Benefits Explained&quot;" />
     <meta property="og:description" content="Explore the remarkable cardiovascular benefits of niacinamide backed by science." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/niacinamide-cardiovascular-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/niacinamide-cardiovascular-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/niacinamide-cardiovascular-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/niacinamide-cardiovascular-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Niacinamide Cardiovascular Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/niacinamide-cardiovascular-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/niacinamide-cardiovascular-benefits"
         }
     ]
 }
@@ -157,7 +157,7 @@
 <p>Niacinamide has been linked to a decreased risk of heart disease through:</p>
 <ul>
 <li>Improving lipid profiles: By influencing cholesterol levels, Niacinamide helps to maintain a healthy lipid profile, which is crucial for heart health.</li>
-<li>Enhancing blood flow: The vasodilatory effects of Niacinamide support proper blood circulation, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and related heart conditions.</li>
+<li>Enhancing blood flow: The vasodilatory effects of Niacinamide support proper blood circulation, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and related heart conditions.</li>
 </ul>
 <p>By incorporating Niacinamide into your daily supplementation, you can take proactive steps to reduce your risk of heart disease and safeguard your cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="Conclusion">In Conclusion</h2>

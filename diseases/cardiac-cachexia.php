@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Cachexia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac cachexia leads to severe weight loss in heart disease. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-cachexia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-cachexia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-cachexia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-cachexia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Cachexia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-cachexia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-cachexia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Cardiac Cachexia</h1>
-<p>Cardiac Cachexia is a serious condition where patients with heart failure experience severe weight loss, muscle wasting, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. It can significantly impact their quality of life and worsen their prognosis. This condition affects approximately 10% of individuals with heart failure. Recognizing the signs of cardiac cachexia is crucial for timely intervention and management to improve outcomes. If you or a loved one with heart failure are experiencing unexplained weight loss or weakness, it's essential to consult a healthcare provider for proper evaluation and care.</p>
+<p>Cardiac Cachexia is a serious condition where patients with heart failure experience severe weight loss, muscle wasting, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. It can significantly impact their quality of life and worsen their prognosis. This condition affects approximately 10% of individuals with heart failure. Recognizing the signs of cardiac cachexia is crucial for timely intervention and management to improve outcomes. If you or a loved one with heart failure are experiencing unexplained weight loss or weakness, it's essential to consult a healthcare provider for proper evaluation and care.</p>
 <h2 id="causes">Causes of Cardiac Cachexia</h2>
 <p>Cardiac cachexia, a condition involving severe weight loss and muscle wasting, can be influenced by various factors. These include:
 
@@ -191,7 +191,7 @@ Understanding these contributors can help in managing and addressing cardiac cac
 <ul>
 <li>Physical examination to assess weight loss and muscle wasting</li>
 <li>Reviewing medical history to identify cardiac issues</li>
-<li>Cardiac imaging tests like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to evaluate heart function</li>
+<li>Cardiac imaging tests like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to evaluate heart function</li>
 <li>Blood tests to check for markers of inflammation and heart failure</li>
 <li>Dietary assessment to rule out other causes of weight loss</li>
 </ul></p>

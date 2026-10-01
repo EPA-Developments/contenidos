@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Resistant Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Resistant hypertension is hard-to-treat high blood pressure. Read more about its causes, symptoms, and treatments for better control." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/resistant-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/resistant-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/resistant-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/resistant-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Resistant Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/resistant-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/resistant-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Resistant Hypertension</h1>
-<p>Resistant hypertension is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> that remains above target levels despite using three or more antihypertensive medications. This condition is significant as it increases the risk of heart disease, stroke, and other complications. It affects around 10-15% of people with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. If you find it challenging to control your blood pressure despite taking multiple medications, it's essential to consult your healthcare provider for proper evaluation and management of resistant hypertension to reduce the risk of associated complications.</p>
+<p>Resistant hypertension is <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> that remains above target levels despite using three or more antihypertensive medications. This condition is significant as it increases the risk of heart disease, stroke, and other complications. It affects around 10-15% of people with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. If you find it challenging to control your blood pressure despite taking multiple medications, it's essential to consult your healthcare provider for proper evaluation and management of resistant hypertension to reduce the risk of associated complications.</p>
 <h2 id="causes">Causes of Resistant Hypertension</h2>
 <p>Resistant hypertension can be tricky to manage due to several factors contributing to its development. Here are the main culprits:
 
@@ -177,8 +177,8 @@
 
 <ul>
 <li>Severe headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Visual changes</li>
 <li>Fatigue</li>
 </ul>

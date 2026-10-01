@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olive Oil Benefits for Heart Health" />
     <meta property="og:description" content="Learn how Olive Oil helps prevent Cardiovascular Disease. Discover its benefits and improve your heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cardiovascular-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cardiovascular-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cardiovascular-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cardiovascular-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil For Cardiovascular Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-cardiovascular-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-cardiovascular-disease"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Regular consumption of olive oil can reduce inflammation in the body, a key factor in the development of heart disease.</li>
 </ul>
 <h2 class="sec-scrl" id="olive-oil-antioxidants">Olive Oil Antioxidants</h2>
-<p>The antioxidants in olive oil play a crucial role in promoting cardiovascular health. These compounds help combat oxidative stress and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
+<p>The antioxidants in olive oil play a crucial role in promoting cardiovascular health. These compounds help combat oxidative stress and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries.</p>
 <p>Key Points:</p>
 <ul>
 <li>Polyphenols, a type of antioxidant found in olive oil, have anti-inflammatory properties that benefit arterial health.</li>

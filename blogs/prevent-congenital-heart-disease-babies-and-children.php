@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Prevent Congenital Heart Disease in Babies and Children">
   <meta property="og:description" content="Learn about congenital heart disease prevention in babies and children to protect their heart health. Find out how to reduce the risk with expert tips.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/prevent-congenital-heart-disease-babies-and-children">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/prevent-congenital-heart-disease-babies-and-children">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/prevent-congenital-heart-disease-babies-and-children" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/prevent-congenital-heart-disease-babies-and-children" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Prevent Congenital Heart Disease In Babies And Children",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/prevent-congenital-heart-disease-babies-and-children"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/prevent-congenital-heart-disease-babies-and-children"  
       }]
     }
   </script>

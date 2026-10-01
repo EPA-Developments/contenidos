@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Thoracic Aortic Dissection Repair: Saving Lives">
   <meta property="og:description" content="Learn how thoracic aortic dissection repair is a life-saving procedure that can prevent serious complications and improve patient outcomes.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/thoracic-aortic-dissection-repair-saving-lives">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/thoracic-aortic-dissection-repair-saving-lives">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/thoracic-aortic-dissection-repair-saving-lives" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/thoracic-aortic-dissection-repair-saving-lives" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Thoracic Aortic Dissection Repair: Saving Lives",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/thoracic-aortic-dissection-repair-saving-lives"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/thoracic-aortic-dissection-repair-saving-lives"  
       }]
     }
   </script>

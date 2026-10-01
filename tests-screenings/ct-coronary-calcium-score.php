@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Ct Coronary Calcium Score: Normal Range, Costs and Purpose" property="og:title"/>
 <meta content="CT coronary calcium score helps assess heart disease risks. Read more about its purpose, costs, and normal Range for better health care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/ct-coronary-calcium-score" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/ct-coronary-calcium-score" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/ct-coronary-calcium-score" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/ct-coronary-calcium-score" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "CT Coronary Calcium Score",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/ct-coronary-calcium-score"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/ct-coronary-calcium-score"  
       }]
     }
   </script>
@@ -157,7 +157,7 @@
 <div class="article-content">
 <h1>CT Coronary Calcium Score Purpose and Normal Levels</h1>
 <p>CT Coronary Calcium Score is a specialized diagnostic imaging test that utilizes a computed tomography (CT) scan to measure the amount of calcium deposits in the coronary arteries.</p>
-<p>These calcium deposits are known as coronary artery calcifications and are a marker of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, narrowing them and potentially leading to heart disease.</p>
+<p>These calcium deposits are known as coronary artery calcifications and are a marker of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up in the arteries, narrowing them and potentially leading to heart disease.</p>
 <p>The CT Coronary Calcium Score provides a numerical value that reflects the extent of calcification in the coronary arteries. This score helps healthcare providers assess an individual's risk of developing cardiovascular disease, including heart attacks and strokes.</p>
 <p>For example, a CT Coronary Calcium Score of zero indicates no detectable calcium in the coronary arteries, suggesting a low risk of heart disease.</p>
 <p>On the other hand, higher scores indicate a greater amount of calcification and a higher risk of cardiovascular events.</p>

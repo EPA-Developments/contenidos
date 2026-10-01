@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Revolutionizing Critical Care Treatment with ECMO">
   <meta property="og:description" content="Discover how ECMO is transforming critical care treatment with this informative guide. Learn about the benefits and advancements of ECMO technology.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/revolutionizing-critical-care-treatment-with-ecmo">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/revolutionizing-critical-care-treatment-with-ecmo">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/revolutionizing-critical-care-treatment-with-ecmo" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/revolutionizing-critical-care-treatment-with-ecmo" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Revolutionizing Critical Care Treatment With Ecmo",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/revolutionizing-critical-care-treatment-with-ecmo"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/revolutionizing-critical-care-treatment-with-ecmo"  
       }]
     }
   </script>

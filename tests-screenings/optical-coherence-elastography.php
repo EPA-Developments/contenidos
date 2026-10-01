@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Optical Coherence Elastography: Purpose, and Normal Range" property="og:title"/>
 <meta content="Optical coherence elastography measures tissue stiffness. Know more about its purpose, costs, and normal Range for accurate diagnostics." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/optical-coherence-elastography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/optical-coherence-elastography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/optical-coherence-elastography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/optical-coherence-elastography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Optical Coherence Elastography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/optical-coherence-elastography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/optical-coherence-elastography"  
       }]
     }
   </script>

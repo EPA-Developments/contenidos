@@ -10,12 +10,12 @@
     <meta property="og:title" content="Genetic Cholesterol Risk: Vital Insights" />
     <meta property="og:description" content="Explore the impact of genetic factors on cholesterol levels and familial hypercholesterolemia in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/genetic-cholesterol-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/genetic-cholesterol-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/genetic-cholesterol-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/genetic-cholesterol-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Genetic Cholesterol Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/genetic-cholesterol-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/genetic-cholesterol-risk"
         }
     ]
 }
@@ -129,10 +129,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Understanding Genetic Cholesterol Risk</h1>
-<p>Are you concerned about your genetic cholesterol risk? How does it impact your daily life and activities? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are often attributed to lifestyle choices, but what role do genetics play in this equation? Let's delve into the world of genetic cholesterol risk and explore its implications on your health.</p>
+<p>Are you concerned about your genetic cholesterol risk? How does it impact your daily life and activities? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are often attributed to lifestyle choices, but what role do genetics play in this equation? Let's delve into the world of genetic cholesterol risk and explore its implications on your health.</p>
 <h2 class="sec-scrl" id="familial-hypercholesterolemia">Familial Hypercholesterolemia</h2>
 <p>Familial hypercholesterolemia is an inherited condition that leads to exceptionally high levels of LDL cholesterol, often referred to as "bad" cholesterol. This genetic disorder significantly increases the risk of early-onset heart disease and stroke. Individuals with familial hypercholesterolemia inherit a faulty gene from one or both parents, affecting their body's ability to process cholesterol effectively.</p>
-<p>Common symptoms of familial hypercholesterolemia include xanthomas (fatty deposits under the skin), cholesterol deposits around the eyes, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>. Early diagnosis through genetic testing is crucial to effectively manage this condition and reduce the risk of cardiovascular complications.</p>
+<p>Common symptoms of familial hypercholesterolemia include xanthomas (fatty deposits under the skin), cholesterol deposits around the eyes, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>. Early diagnosis through genetic testing is crucial to effectively manage this condition and reduce the risk of cardiovascular complications.</p>
 <h2 class="sec-scrl" id="hereditary-heart-disease">Hereditary Heart Disease</h2>
 <p>Did you know that hereditary heart disease can be linked to genetic cholesterol factors? Certain gene mutations can predispose individuals to heart conditions, irrespective of their lifestyle choices. Understanding your genetic predisposition to heart disease can empower you to make informed decisions about your health.</p>
 <p>Inherited conditions such as familial hypercholesterolemia can significantly increase the risk of developing heart disease at a young age. By conducting genetic testing and assessing your cholesterol genetics, healthcare providers can tailor interventions to mitigate this risk effectively.</p>

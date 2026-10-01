@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coarctation of the Aorta: Symptoms, Causes, Treatment">
   <meta property="og:description" content="Coarctation of the Aorta, this heart defect narrows the aorta, affecting blood flow. Know more about its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coarctation-of-the-aorta">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coarctation-of-the-aorta">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coarctation-of-the-aorta" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coarctation-of-the-aorta" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coarctation Of The Aorta",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coarctation-of-the-aorta"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coarctation-of-the-aorta"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>Coarctation of the aorta is a congenital heart defect where the aorta, the main artery that carries oxygen-rich blood from the heart to the body, is narrowed.</p>
 <p>This narrowing restricts blood flow, leading to increased pressure in the heart and reduced blood supply to the lower part of the body. Coarctation of the aorta is a significant condition that affects approximately 5-8% of all congenital heart defects.</p>
 <p>The impact on health can be severe if left untreated, affecting essential functions such as blood circulation, heart function, and overall cardiovascular health.</p>
-<p>In the short term, untreated coarctation of the aorta can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, heart failure, and even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, complications such as aneurysms, stroke, premature coronary artery disease, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a> may arise.</p>
+<p>In the short term, untreated coarctation of the aorta can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, heart failure, and even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. In the long term, complications such as aneurysms, stroke, premature coronary artery disease, and <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a> may arise.</p>
 <p>It is essential to note that coarctation of the aorta can be asymptomatic in its early stages, making early detection through regular screenings crucial for timely intervention and management.</p>
 <h2 id="symptoms">Causes of Coarctation Of The Aorta</h2>
 <p>Coarctation of the aorta can have various causes, both primary and secondary, contributing to its development.</p>
@@ -189,18 +189,18 @@
 <h2>Symptoms of Coarctation Of The Aorta</h2>
 <p>Early-stage symptoms of coarctation of the aorta may include:</p>
 <ul>
-<li>Early Symptom 1: Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, as the narrowed aorta restricts blood flow to the lower body, affecting energy levels and daily activities.</li>
-<li>Early Symptom 2: High blood pressure in the arms but normal or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a> in the legs, which can be easily overlooked or misinterpreted, delaying diagnosis and treatment.</li>
+<li>Early Symptom 1: Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, as the narrowed aorta restricts blood flow to the lower body, affecting energy levels and daily activities.</li>
+<li>Early Symptom 2: High blood pressure in the arms but normal or <a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a> in the legs, which can be easily overlooked or misinterpreted, delaying diagnosis and treatment.</li>
 </ul>
 <p>Advanced-stage symptoms of coarctation of the aorta may include:</p>
 <ul>
-<li>Advanced Symptom 1: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, indicating severe aortic narrowing and compromised heart function, impacting physical and emotional well-being.</li>
+<li>Advanced Symptom 1: <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, indicating severe aortic narrowing and compromised heart function, impacting physical and emotional well-being.</li>
 <li>Advanced Symptom 2: Headaches, nosebleeds, and leg cramps, highlighting the strain on the cardiovascular system and the potential complications associated with untreated coarctation of the aorta.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Coarctation Of The Aorta</h2>
 <p>Diagnosing coarctation of the aorta typically involves a series of tests to accurately assess the severity of the condition and plan appropriate treatment.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive imaging test that uses sound waves to create a detailed picture of the heart and aorta, helping detect any structural abnormalities or narrowing.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive imaging test that uses sound waves to create a detailed picture of the heart and aorta, helping detect any structural abnormalities or narrowing.</li>
 <li>Magnetic resonance imaging (MRI) can provide a more comprehensive view of the aorta and surrounding structures, aiding in the diagnosis of coarctation and assessment of blood flow dynamics.</li>
 <li>Cardiac catheterization involves inserting a thin tube into the heart and aorta to measure blood pressure and obtain detailed images, revealing the extent of the coarctation and any associated complications.</li>
 <li>Computed tomography (CT) angiography is a specialized imaging technique that combines CT scanning with contrast dye to visualize blood flow in the aorta and identify areas of narrowing or obstruction.</li>

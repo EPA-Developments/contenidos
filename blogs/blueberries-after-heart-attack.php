@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Blueberries for Heart Repair: Post-Attack Recovery&quot;" />
     <meta property="og:description" content="Discover how blueberries aid in post-heart attack recovery with their powerful antioxidants and anti-inflammatory properties." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-after-heart-attack" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blueberries-after-heart-attack" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-after-heart-attack" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blueberries-after-heart-attack" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blueberries After Heart Attack",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blueberries-after-heart-attack"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blueberries-after-heart-attack"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Healing Power of Blueberries After a Heart Attack</h1>
-<p>Are you looking for natural ways to aid your heart repair after a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? Blueberries might be the small but mighty addition you need. The journey to recovery can be challenging, impacting your daily activities and overall well-being. Let's explore how incorporating blueberries into your diet can contribute to your heart rehabilitation.</p>
+<p>Are you looking for natural ways to aid your heart repair after a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? Blueberries might be the small but mighty addition you need. The journey to recovery can be challenging, impacting your daily activities and overall well-being. Let's explore how incorporating blueberries into your diet can contribute to your heart rehabilitation.</p>
 <h2 class="sec-scrl" id="recovery foods">Why Are Blueberries Essential Recovery Foods?</h2>
 <p>Blueberries are packed with antioxidants that play a crucial role in reducing oxidative stress and inflammation, both of which are common after a heart attack. These small fruits are not only delicious but also offer a wide range of benefits for your cardiovascular system.</p>
 <ul>

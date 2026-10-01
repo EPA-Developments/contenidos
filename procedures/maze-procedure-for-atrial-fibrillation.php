@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Maze Procedure for Atrial Fibrillation: Surgical Treatment for AFib">
   <meta property="og:description" content="Learn about the Maze Procedure for Atrial Fibrillation, a highly effective AFib surgical treatment that restores heart rhythm. Find out about atrial fibrillation maze surgery and how this procedure can help with this heart rhythm disorder.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/maze-procedure-for-atrial-fibrillation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/maze-procedure-for-atrial-fibrillation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/maze-procedure-for-atrial-fibrillation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/maze-procedure-for-atrial-fibrillation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Maze Procedure for Atrial Fibrillation",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/maze-procedure-for-atrial-fibrillation"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/maze-procedure-for-atrial-fibrillation"  
       }]
     }
   </script>

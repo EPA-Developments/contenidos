@@ -10,12 +10,12 @@
     <meta property="og:title" content="Natural Ways Tamarind Lowers Cholesterol" />
     <meta property="og:description" content="Discover how tamarind naturally lowers cholesterol levels for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamarind For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Tamarind for Lowering Cholesterol Levels</h1>
-<p>Are you looking for a natural way to lower your cholesterol levels and promote heart health? Have you considered the benefits of incorporating tamarind into your diet? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can impact your daily life by increasing the risk of heart disease and other health issues. But what if there was a delicious solution that could help you manage your lipid profile and support overall heart health?</p>
+<p>Are you looking for a natural way to lower your cholesterol levels and promote heart health? Have you considered the benefits of incorporating tamarind into your diet? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can impact your daily life by increasing the risk of heart disease and other health issues. But what if there was a delicious solution that could help you manage your lipid profile and support overall heart health?</p>
 <h2 class="sec-scrl" id="tamarind-benefits">The Power of Tamarind for Cholesterol Control</h2>
 <p>Tamarind, a tangy fruit native to tropical regions, is not only a flavorful addition to various dishes but also offers significant health benefits. When it comes to cholesterol management, tamarind can be a game-changer. Here's how tamarind can help you reduce LDL cholesterol, commonly known as the 'bad' cholesterol:</p>
 <ul>

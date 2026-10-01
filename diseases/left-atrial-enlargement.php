@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Atrial Enlargement: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Left Atrial Enlargement is a condition where the heart's left atrium becomes larger. Know more about its causes, symptoms, and possible treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-atrial-enlargement">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-atrial-enlargement">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-atrial-enlargement" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-atrial-enlargement" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Atrial Enlargement",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-atrial-enlargement"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-atrial-enlargement"
       }]
     }
   </script>
@@ -161,9 +161,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Left Atrial Enlargement</h1>
-<p>Left atrial enlargement occurs when the left atrium of the heart becomes enlarged. This can happen due to conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or heart valve problems. An enlarged left atrium is significant because it can lead to heart rhythm abnormalities and increase the risk of stroke. It is a common finding in people with heart disease, affecting a significant number of individuals worldwide. Regular check-ups and managing underlying heart conditions are essential in addressing left atrial enlargement to prevent complications.</p>
+<p>Left atrial enlargement occurs when the left atrium of the heart becomes enlarged. This can happen due to conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or heart valve problems. An enlarged left atrium is significant because it can lead to heart rhythm abnormalities and increase the risk of stroke. It is a common finding in people with heart disease, affecting a significant number of individuals worldwide. Regular check-ups and managing underlying heart conditions are essential in addressing left atrial enlargement to prevent complications.</p>
 <h2 id="causes">Causes of Left Atrial Enlargement</h2>
-<p>Left Atrial Enlargement can be influenced by various factors. These include high blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, which can increase the workload on the heart over time. Heart valve diseases such as mitral stenosis or regurgitation can also lead to left atrial enlargement. Additionally, conditions like atrial fibrillation, where the heart's upper chambers beat irregularly, can contribute to this enlargement. Other factors may include obesity, sleep apnea, and certain congenital heart defects. It's essential to manage these conditions to prevent or slow down the progression of left atrial enlargement. 
+<p>Left Atrial Enlargement can be influenced by various factors. These include high blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, which can increase the workload on the heart over time. Heart valve diseases such as mitral stenosis or regurgitation can also lead to left atrial enlargement. Additionally, conditions like atrial fibrillation, where the heart's upper chambers beat irregularly, can contribute to this enlargement. Other factors may include obesity, sleep apnea, and certain congenital heart defects. It's essential to manage these conditions to prevent or slow down the progression of left atrial enlargement. 
 
 <ul>
 <li>High blood pressure (hypertension)</li>
@@ -178,11 +178,11 @@
 
 Symptoms of Left Atrial Enlargement may include:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
 </ul>
 
 If you experience any of these symptoms, especially if they are persistent or severe, it's essential to seek medical attention promptly. Early diagnosis and management of Left Atrial Enlargement can help prevent further heart damage and improve overall heart health.</p>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 <p>Left atrial enlargement is crucial to diagnose accurately as it can indicate underlying heart conditions. The diagnostic process typically involves a combination of methods to confirm the enlargement and its underlying cause. Methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities.</li>
 <li>Echocardiogram to visualize the heart's structure and function.</li>
 <li>Chest X-ray to evaluate heart size and detect any abnormalities.</li>
 <li>Cardiac MRI for detailed images of the heart's chambers.</li>

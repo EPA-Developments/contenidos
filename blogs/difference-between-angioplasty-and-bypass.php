@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Difference Between Angioplasty and Bypass: Which Is Right for You?">
   <meta property="og:description" content="Learn the key difference between angioplasty and bypass surgery to determine which heart procedure is the best fit for your health needs.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/difference-between-angioplasty-and-bypass">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/difference-between-angioplasty-and-bypass">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/difference-between-angioplasty-and-bypass" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/difference-between-angioplasty-and-bypass" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Difference Between Angioplasty And Bypass: Which Is Right For You?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/difference-between-angioplasty-and-bypass"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/difference-between-angioplasty-and-bypass"  
       }]
     }
   </script>

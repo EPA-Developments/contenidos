@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Sweating with Chest Pain: Causes, and Treatment" >
   <meta property="og:description" content="Severe Sweating With Chest Pain Is A Serious Symptom. Know More About The Causes, Forms, Diagnosis, Treatment And Potential Heart Issues." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-sweating-with-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-sweating-with-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-sweating-with-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-sweating-with-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Sweating With Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-sweating-with-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-sweating-with-chest-pain"  
       }]
     }
   </script>
@@ -188,9 +188,9 @@
             <div class="article-content"><h1>Severe Sweating with Chest Pain: Causes, and Diagnosis</h1>
 <p>Severe sweating with chest pain is a condition characterized by excessive sweating accompanied by discomfort or pain in the chest area.</p>
 <p>This combination of symptoms can be alarming and may indicate a serious underlying health issue, particularly related to the heart.</p>
-<p>The symptoms of severe sweating with chest pain can vary from person to person but commonly include profuse sweating, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, pressure, or discomfort.</p>
-<p>In some cases, individuals may experience cold sweats along with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, which can be a sign of a more severe condition.</p>
-<p>It is essential to understand that severe sweating with chest pain should not be ignored or taken lightly, as it could be a warning sign of a potentially life-threatening situation, such as a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or other cardiac-related issues.</p>
+<p>The symptoms of severe sweating with chest pain can vary from person to person but commonly include profuse sweating, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, pressure, or discomfort.</p>
+<p>In some cases, individuals may experience cold sweats along with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, which can be a sign of a more severe condition.</p>
+<p>It is essential to understand that severe sweating with chest pain should not be ignored or taken lightly, as it could be a warning sign of a potentially life-threatening situation, such as a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or other cardiac-related issues.</p>
 <h2 id="forms">What are the Forms of Severe sweating with chest pain?</h2>
 <p>- Sweating with chest discomfort</p>
 <ul>
@@ -199,13 +199,13 @@
 <li>Sweating during a heart attack</li>
 <li>Sweating due to a heart condition</li>
 <li>Profuse sweating with chest tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-sweating">sudden sweating</a> with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-sweating">sudden sweating</a> with <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a></li>
 </ul>
 <h2 id="causes">What are the Causes of Severe sweating with chest pain?</h2>
 <p>Severe sweating with chest pain can be caused by various factors, including:</p>
 <ul>
 <li>Heart attack or other heart-related conditions</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> (chest pain due to reduced blood flow to the heart)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> (chest pain due to reduced blood flow to the heart)</li>
 <li>Panic attacks or anxiety disorders</li>
 <li>Hyperthyroidism (overactive thyroid gland)</li>
 <li>Medications that may cause sweating or chest pain</li>
@@ -218,7 +218,7 @@
 <ul>
 <li>Physical examination</li>
 <li>Blood tests to check for cardiac enzymes or thyroid function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function</li>
 <li>Chest X-ray or other imaging tests</li>
 <li>Stress tests to evaluate heart health under exertion</li>
 <li>Holter monitor for continuous heart monitoring</li>

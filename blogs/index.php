@@ -8,12 +8,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blogs">
   <meta property="og:description" content="Stay informed with the latest health tips, expert advice, and articles on wellness, medical trends, and healthy living.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/" />
 <?php include "../include/header.php" ?>
 <style>
 .pagination {

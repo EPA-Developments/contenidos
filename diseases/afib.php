@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Fibrillation: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="AFib (atrial fibrillation) causes an irregular heartbeat. Learn more about its symptoms, causes, and treatment for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/afib">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/afib">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/afib" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/afib" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Afib",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/afib"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/afib"
       }]
     }
   </script>
@@ -169,14 +169,14 @@
 <p>Atrial Fibrillation (Afib) is a common cardiac arrhythmia characterized by irregular electrical activity in the heart's upper chambers, known as the atria. This irregularity disrupts the heart's normal rhythm, leading to inefficient blood pumping.</p>
 <p>Afib is significant due to its high prevalence and impact on health, affecting approximately 33.5 million people worldwide. It significantly increases the risk of stroke, heart failure, and other cardiovascular complications.</p>
 <p>The essential functions of the heart, such as maintaining proper blood flow and oxygenation to the body's organs, are compromised in Afib.</p>
-<p>The <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> in Afib can lead to blood pooling in the atria, increasing the risk of clot formation. If these clots dislodge and travel to the brain, they can cause a stroke.</p>
+<p>The <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> in Afib can lead to blood pooling in the atria, increasing the risk of clot formation. If these clots dislodge and travel to the brain, they can cause a stroke.</p>
 <p>In the long term, untreated Afib can result in heart failure, chronic fatigue, and reduced quality of life. Afib often starts asymptomatic, making early detection crucial.</p>
 <p>Regular screenings, especially for individuals at higher risk, can help identify Afib before complications arise, emphasizing the importance of early intervention in managing the condition.</p>
 <h2 id="causes">Causes of Afib:</h2>
 <h3>Primary Causes:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as enlarged chambers or scarring, can disrupt the heart's electrical signals, leading to Afib over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart, causing changes in the heart's structure and function, making Afib more likely to occur.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a>: Structural abnormalities in the heart, such as enlarged chambers or scarring, can disrupt the heart's electrical signals, leading to Afib over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart, causing changes in the heart's structure and function, making Afib more likely to occur.</li>
 <li>Age: The risk of developing Afib increases with age, with statistics showing a higher prevalence in older individuals due to age-related changes in the heart's electrical system.</li>
 <li>Obesity: Excess body weight can increase the strain on the heart and contribute to conditions like sleep apnea, both of which are risk factors for Afib.</li>
 </ul>
@@ -189,13 +189,13 @@
 <h2 id="symptoms">Symptoms of Afib:</h2>
 <h3>Early Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Irregular heartbeat sensations can disrupt daily activities and cause anxiety.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Irregular heartbeat sensations can disrupt daily activities and cause anxiety.</li>
 <li>Fatigue: Persistent tiredness can affect energy levels and productivity, often mistaken for aging or stress.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> can impact physical exertion and quality of life.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Chest discomfort can be alarming and may indicate more severe heart complications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> can impact physical exertion and quality of life.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Chest discomfort can be alarming and may indicate more severe heart complications.</li>
 </ul>
 <h2>Diagnosis of Afib:</h2>
 <p>The diagnostic process for Afib involves several tests to confirm the condition accurately:</p>

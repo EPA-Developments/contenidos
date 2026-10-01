@@ -10,12 +10,12 @@
     <meta property="og:title" content="Fish Diet for Heart Disease: Prevention Guide" />
     <meta property="og:description" content="Learn how a fish diet can protect your heart. Discover the benefits of fish for heart health and prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fish-diet-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fish-diet-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fish-diet-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fish-diet-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fish Diet For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fish-diet-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fish-diet-for-heart-disease"
         }
     ]
 }
@@ -147,7 +147,7 @@
 </ul>
 <p>By including antioxidant-rich fish like trout, tuna, and herring in your diet, you can fortify your heart against oxidative damage and support its optimal functioning.</p>
 <h2 class="sec-scrl" id="hypertension">Managing Hypertension with a Fish Diet</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease. Fortunately, the nutrients present in fish can help manage blood pressure levels effectively. Here's how a fish diet can benefit individuals with hypertension:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a significant risk factor for heart disease. Fortunately, the nutrients present in fish can help manage blood pressure levels effectively. Here's how a fish diet can benefit individuals with hypertension:</p>
 <ul>
 <li>The potassium content in fish can help regulate blood pressure and counteract the effects of sodium.</li>
 <li>Omega-3 fatty acids have been shown to lower blood pressure and improve overall heart health.</li>

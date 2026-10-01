@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Low Blood Pressure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Low Blood Pressure can lead to dizziness and fainting. Know more about its causes, symptoms, and how it can be treated effectively." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/low-blood-pressure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/low-blood-pressure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/low-blood-pressure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/low-blood-pressure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Low Blood Pressure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/low-blood-pressure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/low-blood-pressure"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Low Blood Pressure</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a>, or hypotension, happens when your blood pressure drops below normal levels. It can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, and fainting. While not as talked about as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, low blood pressure is still significant and can impact your daily life. It's more common in older adults, but anyone can experience it. Understanding the signs and causes can help manage this condition effectively. If you're feeling dizzy or lightheaded often, it's essential to consult a healthcare provider for proper evaluation and guidance.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a>, or hypotension, happens when your blood pressure drops below normal levels. It can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, and fainting. While not as talked about as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, low blood pressure is still significant and can impact your daily life. It's more common in older adults, but anyone can experience it. Understanding the signs and causes can help manage this condition effectively. If you're feeling dizzy or lightheaded often, it's essential to consult a healthcare provider for proper evaluation and guidance.</p>
 <h2 id="causes">Causes of Low Blood Pressure</h2>
 <p>Low blood pressure can stem from various factors, such as:
 
@@ -177,7 +177,7 @@
 
 <ul>
 <li>Dizziness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Fainting</li>
 <li>Fatigue</li>
 <li>Nausea</li>

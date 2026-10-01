@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Short Qt Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Short QT syndrome is a rare genetic disease that causes an abnormally short QT interval on an electrocardiogram. Know more about its causes and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/short-qt-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/short-qt-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/short-qt-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/short-qt-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Short Qt Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/short-qt-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/short-qt-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Short Qt Syndrome</h1>
-<p>Short QT syndrome (SQTS) is a rare heart condition where the heart muscle takes less time to recharge between beats, leading to abnormal heart rhythms. This can increase the risk of sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> or fainting. While not as common as other heart conditions, SQTS is significant due to its potential for serious complications. It is essential to recognize the symptoms and seek medical attention promptly. Early diagnosis and management are crucial in improving outcomes for individuals with Short QT syndrome.</p>
+<p>Short QT syndrome (SQTS) is a rare heart condition where the heart muscle takes less time to recharge between beats, leading to abnormal heart rhythms. This can increase the risk of sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> or fainting. While not as common as other heart conditions, SQTS is significant due to its potential for serious complications. It is essential to recognize the symptoms and seek medical attention promptly. Early diagnosis and management are crucial in improving outcomes for individuals with Short QT syndrome.</p>
 <h2 id="causes">Causes of Short Qt Syndrome</h2>
 <p><h3>Main Factors Contributing to Short QT Syndrome Development:</h3>
 <ul>
@@ -175,11 +175,11 @@
 <p>Recognizing the symptoms of Short QT Syndrome early is crucial for improving outcomes. This rare heart condition can lead to serious complications if left undiagnosed. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul> 
 
 If you experience any of these symptoms or have a family history of sudden cardiac events, it's essential to seek medical attention promptly. Early detection through symptom recognition can lead to timely interventions and better management of Short QT Syndrome.</p>
@@ -190,8 +190,8 @@ The diagnostic process for SQTS typically involves:
 
 <ul>
 <li>Thorough medical history review and physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate the heart's structure and function</li>
 <li>Genetic testing to identify specific gene mutations linked to SQTS</li>
 <li>Exercise stress testing to assess heart function during physical activity</li>
 </ul></p>

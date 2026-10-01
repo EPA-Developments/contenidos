@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Murmur: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart Murmur is an unusual sound in the heart that's heard when blood flows abnormally through the heart. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart Murmur",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-murmur"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Heart Murmur</h1>
-<p>A heart murmur is a whooshing or swishing sound heard during your heartbeat. It's not a disease but a symptom of an underlying heart problem like valve issues. While many <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a> are harmless, some may indicate heart conditions needing medical attention. They're quite common among children and can occur in adults too. Regular check-ups help detect and monitor heart murmurs. If you have one, don't panic; your doctor can guide you on the best steps forward.</p>
+<p>A heart murmur is a whooshing or swishing sound heard during your heartbeat. It's not a disease but a symptom of an underlying heart problem like valve issues. While many <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a> are harmless, some may indicate heart conditions needing medical attention. They're quite common among children and can occur in adults too. Regular check-ups help detect and monitor heart murmurs. If you have one, don't panic; your doctor can guide you on the best steps forward.</p>
 <h2 id="causes">Causes of Heart Murmur</h2>
 <p>Certainly! Here are the main factors contributing to the development of a heart murmur:
 
 <ul>
 <li>Structural abnormalities in the heart valves</li>
 <li>Damage to the heart muscle from infections or heart attacks</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> leading to turbulent blood flow</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> leading to turbulent blood flow</li>
 <li>Thyroid problems affecting heart function</li>
 <li>Birth defects affecting heart development</li>
 </ul></p>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of a Heart Murmur is crucial as early detection can significantly improve outcomes. Symptoms may vary depending on the underlying cause. Here are common signs to watch for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Swelling in the legs, ankles, or feet</li>
 </ul>
 

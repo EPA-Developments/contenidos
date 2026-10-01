@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognizing Unstable Angina Symptoms: Early Signs & Detection">
   <meta property="og:description" content="Learn to recognize unstable angina symptoms early for prompt treatment. Understand the signs and symptoms of unstable angina for better health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-symptoms-early-signs-detection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-symptoms-early-signs-detection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-symptoms-early-signs-detection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-symptoms-early-signs-detection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Recognizing Unstable Angina Symptoms: Early Signs & Detection",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/unstable-angina-symptoms-early-signs-detection"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/unstable-angina-symptoms-early-signs-detection"  
       }]
     }
   </script>

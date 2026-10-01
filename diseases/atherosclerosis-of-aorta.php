@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aorta Atherosclerosis: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Atherosclerosis of Aorta narrows arteries, limiting blood flow. Know its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis-of-aorta">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis-of-aorta">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis-of-aorta" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis-of-aorta" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atherosclerosis Of Aorta",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis-of-aorta"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis-of-aorta"
       }]
     }
   </script>
@@ -166,16 +166,16 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Treatment of Aorta Atherosclerosis</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> of the aorta is a significant medical condition characterized by the buildup of plaque in the walls of the aorta, the body's main artery. This condition is prevalent worldwide and can have a profound impact on an individual's health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> of the aorta is a significant medical condition characterized by the buildup of plaque in the walls of the aorta, the body's main artery. This condition is prevalent worldwide and can have a profound impact on an individual's health.</p>
 <p>The aorta plays a crucial role in the circulatory system, as it is responsible for carrying oxygen-rich blood from the heart to the rest of the body.</p>
 <p>When atherosclerosis affects the aorta, it can disrupt this essential function, leading to various short-term and long-term health risks if left untreated.</p>
-<p>In the early stages, atherosclerosis of the aorta is often asymptomatic, making it challenging to detect without proper screening. However, as the condition progresses, individuals may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
+<p>In the early stages, atherosclerosis of the aorta is often asymptomatic, making it challenging to detect without proper screening. However, as the condition progresses, individuals may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
 <p>Untreated atherosclerosis of the aorta can increase the risk of life-threatening events such as heart attacks and strokes. Therefore, early detection through regular screenings is crucial in managing the condition effectively.</p>
 <h2 id="causes">Causes of Atherosclerosis of Aorta</h2>
 <p>Atherosclerosis of the aorta can be attributed to several primary causes, each contributing to the development and progression of the condition:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> Levels: Elevated levels of cholesterol in the blood can lead to the formation of plaque in the aorta, narrowing the artery and impeding blood flow over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can damage the inner lining of the aorta, making it more susceptible to plaque buildup and atherosclerosis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> Levels: Elevated levels of cholesterol in the blood can lead to the formation of plaque in the aorta, narrowing the artery and impeding blood flow over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can damage the inner lining of the aorta, making it more susceptible to plaque buildup and atherosclerosis.</li>
 <li>Smoking: Tobacco use can accelerate the formation of plaque in the arteries, including the aorta, increasing the risk of atherosclerosis.</li>
 <li>Diabetes: Individuals with diabetes are at a higher risk of developing atherosclerosis of the aorta due to metabolic changes that promote plaque formation.</li>
 </ul>
@@ -188,8 +188,8 @@
 <li>Chest discomfort: Mild chest pain or tightness that may worsen with physical activity.</li>
 <li>Fatigue: Feeling tired or lacking energy, especially after exertion.</li>
 <li>Advanced Symptoms:</li>
-<li>Shortness of breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, particularly during physical exertion.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Irregular heartbeat or sensations of fluttering in the chest.</li>
+<li>Shortness of breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, particularly during physical exertion.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Irregular heartbeat or sensations of fluttering in the chest.</li>
 </ul>
 <p>These symptoms can significantly impact an individual's daily life, physical well-being, and emotional health, underscoring the importance of timely diagnosis and intervention.</p>
 <h2>Diagnosis of Atherosclerosis of Aorta</h2>

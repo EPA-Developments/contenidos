@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Types of Bradyarrhythmias">
   <meta property="og:description" content="Learn about the different types of bradyarrhythmias and their implications in our comprehensive guide. Get the essential information you need to know.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-types-of-bradyarrhythmias">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-the-types-of-bradyarrhythmias">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-types-of-bradyarrhythmias" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-the-types-of-bradyarrhythmias" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Types Of Bradyarrhythmias",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-types-of-bradyarrhythmias"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-the-types-of-bradyarrhythmias"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes of Chest Tightness: Symptoms and Treatment" >
   <meta property="og:description" content="Tightness in chest may signal a heart condition. Read more to know about causes, symptoms, and treatments related to chest tightness." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/tightness-in-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/tightness-in-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/tightness-in-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/tightness-in-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tightness In Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/tightness-in-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/tightness-in-chest"  
       }]
     }
   </script>
@@ -187,13 +187,13 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes of Chest Tightness: Symptoms and Forms</h1>
 <p>Tightness in the chest is a sensation of pressure or squeezing in the chest area that can be caused by various underlying conditions.</p>
-<p>It is often described as a feeling of heaviness or discomfort that may be accompanied by pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a> can be a symptom of a wide range of issues, from minor muscle strain to serious heart problems.</p>
+<p>It is often described as a feeling of heaviness or discomfort that may be accompanied by pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a> can be a symptom of a wide range of issues, from minor muscle strain to serious heart problems.</p>
 <h2 id="forms">What are the Forms of Tightness in chest?</h2>
 <p>There are different forms of chest tightness, each with its specific symptoms and related concepts:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> symptoms: Chest tightness may be associated with sharp, stabbing pain in the chest that can radiate to the arms, back, neck, or jaw.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Difficulty breathing or feeling like you can't catch your breath may accompany chest tightness.</li>
-<li>Cardiac symptoms: Chest tightness can be a sign of heart-related issues, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> symptoms: Chest tightness may be associated with sharp, stabbing pain in the chest that can radiate to the arms, back, neck, or jaw.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Difficulty breathing or feeling like you can't catch your breath may accompany chest tightness.</li>
+<li>Cardiac symptoms: Chest tightness can be a sign of heart-related issues, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</li>
 <li>Chest constriction: Some people may feel like their chest is being squeezed or constricted, making it hard to take deep breaths.</li>
 </ul>
 <h2 id="causes">What are the Causes of Tightness in chest?</h2>
@@ -209,7 +209,7 @@
 <ul>
 <li>Physical examination: A healthcare provider will assess your symptoms, medical history, and perform a physical exam.</li>
 <li>Imaging tests: X-rays, CT scans, or MRI scans can help identify any structural issues in the chest.</li>
-<li>ECG/EKG: <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> can detect abnormal heart rhythms or signs of a heart attack.</li>
+<li>ECG/EKG: <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> can detect abnormal heart rhythms or signs of a heart attack.</li>
 <li>Stress test: This test evaluates how your heart functions during physical activity to detect any underlying heart conditions.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Tightness in chest?</h2>
@@ -217,7 +217,7 @@
 <ul>
 <li>Medications: Pain relievers, antacids, bronchodilators, or heart medications may be prescribed.</li>
 <li>Lifestyle changes: Managing stress, quitting smoking, and maintaining a healthy diet and exercise routine can help alleviate chest tightness.</li>
-<li>Advanced approaches: In severe cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, stent placement, or surgery may be necessary.</li>
+<li>Advanced approaches: In severe cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, stent placement, or surgery may be necessary.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience:</p>

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Muga Scan: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="MUGA scan evaluates heart function through imaging. Know more about its purpose, costs, and normal Range for heart health monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/muga-scan" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/muga-scan" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/muga-scan" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/muga-scan" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Muga Scan",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/muga-scan"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/muga-scan"  
       }]
     }
   </script>
@@ -183,9 +183,9 @@
 <p>Muga scans are commonly used to evaluate the ejection fraction, which is the percentage of blood pumped out of the heart with each contraction.</p>
 <p>This test provides valuable information about the heart's ability to pump blood efficiently and can help identify any abnormalities in cardiac function.</p>
 <h2 id="purpose">What is the Purpose of Performing a Muga Scan Test?</h2>
-<p>The primary purpose of performing a Muga scan is to assess the heart's pump function and ejection fraction. This information is crucial in diagnosing and monitoring various heart conditions, such as heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, and coronary artery disease.</p>
+<p>The primary purpose of performing a Muga scan is to assess the heart's pump function and ejection fraction. This information is crucial in diagnosing and monitoring various heart conditions, such as heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, and coronary artery disease.</p>
 <p>Muga scan for assessing heart pump function is essential in evaluating the heart's ability to pump blood effectively. By measuring the ejection fraction, healthcare providers can determine the severity of heart dysfunction and tailor treatment plans accordingly.</p>
-<p>Additionally, the role of Muga scan in evaluating ejection fraction is vital in monitoring cardiac health during chemotherapy. Cancer treatments, such as chemotherapy, can have adverse effects on the heart, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiotoxicity">cardiotoxicity</a>.</p>
+<p>Additionally, the role of Muga scan in evaluating ejection fraction is vital in monitoring cardiac health during chemotherapy. Cancer treatments, such as chemotherapy, can have adverse effects on the heart, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiotoxicity">cardiotoxicity</a>.</p>
 <p>Muga scans can help oncologists assess the impact of chemotherapy on the heart and adjust treatment regimens to minimize cardiac damage.</p>
 <h2 id="costs">What are the Costs of Muga Scan Tests in Americas?</h2>
 <p>The costs of Muga scan tests in Americas can vary depending on several factors, including the location of the healthcare facility, the expertise of the healthcare providers, and the specific requirements of the patient.</p>
@@ -208,7 +208,7 @@
 <p>Individuals with high ejection fraction values may be at risk for developing arrhythmias, heart failure, or other cardiovascular issues.</p>
 <h2>What Do Low Muga Scan Levels Indicate?</h2>
 <p>Low Muga scan levels, or ejection fraction values below 50%, can indicate impaired cardiac function and potential heart disease. Conditions such as heart failure, cardiomyopathy, coronary artery disease, or previous heart attacks can contribute to reduced ejection fraction values.</p>
-<p>Individuals with low Muga scan levels may experience symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or swelling in the legs.</p>
+<p>Individuals with low Muga scan levels may experience symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or swelling in the legs.</p>
 <p>It is crucial for healthcare providers to identify the underlying cause of low ejection fraction values and develop appropriate treatment plans to improve heart function.</p>
 <p>In conclusion, Muga scan is a valuable diagnostic tool for assessing heart function and ejection fraction. By accurately measuring the heart's pumping ability, Muga scans play a crucial role in diagnosing and monitoring various cardiac conditions.</p>
 <p>Whether used to evaluate heart pump function, monitor cardiac health during chemotherapy, or detect heart damage, Muga scans provide essential information for healthcare providers to deliver optimal care to patients.</p>

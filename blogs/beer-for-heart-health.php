@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beer for Heart Health: Facts and Benefits&quot;" />
     <meta property="og:description" content="Explore the potential cardiovascular benefits of beer consumption and its effects on heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beer-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beer-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beer-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beer-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beer For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beer-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beer-for-heart-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Beer, when consumed in moderate amounts, can offer several advantages for heart health. Here's how beer can potentially contribute to a healthy heart:</p>
 <ul>
 <li>Rich in Antioxidants: Beer contains antioxidants like polyphenols that may help reduce oxidative stress and inflammation in the body, potentially benefiting heart health.</li>
-<li>Heart Disease Prevention: Some studies suggest that moderate beer consumption could lower the risk of developing heart disease by improving cholesterol levels and reducing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation.</li>
+<li>Heart Disease Prevention: Some studies suggest that moderate beer consumption could lower the risk of developing heart disease by improving cholesterol levels and reducing <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation.</li>
 <li>Improved Blood Flow: Certain compounds in beer, such as alcohol and polyphenols, might promote better blood flow and circulation, which is essential for heart function.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-prevention">Can Beer Help Prevent Heart Disease?</h2>
@@ -147,7 +147,7 @@
 <p>Alcohol, including beer, can have both positive and negative effects on heart health. Understanding this relationship is crucial for making informed decisions about alcohol consumption. Here's how alcohol interacts with the heart:</p>
 <ul>
 <li>Cardiovascular Benefits: Moderate drinking of beer has been linked to potential cardiovascular benefits, such as reduced risk of heart disease, improved heart function, and lower blood pressure.</li>
-<li>Risks of Excessive Consumption: On the other hand, excessive alcohol intake, including beer, can lead to negative consequences for the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, arrhythmias, and increased risk of stroke.</li>
+<li>Risks of Excessive Consumption: On the other hand, excessive alcohol intake, including beer, can lead to negative consequences for the heart, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, arrhythmias, and increased risk of stroke.</li>
 </ul>
 <h2 class="sec-scrl" id="moderate-consumption">Is Moderate Drinking Key for Heart Health?</h2>
 <p>When it comes to heart health, moderation is key. Moderate beer consumption, along with a healthy lifestyle, can support heart health in the following ways:</p>

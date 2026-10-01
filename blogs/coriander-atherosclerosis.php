@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coriander's Role in Atherosclerosis Prevention" />
     <meta property="og:description" content="Explore how coriander can help prevent atherosclerosis and promote heart health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coriander-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coriander-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coriander-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coriander-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coriander Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coriander-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coriander-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Coriander in Atherosclerosis Prevention</h1>
-<p>Are you concerned about the health of your arteries and looking for natural ways to prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? Wondering how you can reduce plaque buildup and support your circulatory system effectively? Let's dive into the potential benefits of coriander in maintaining vascular health and reducing arterial stiffness.</p>
+<p>Are you concerned about the health of your arteries and looking for natural ways to prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? Wondering how you can reduce plaque buildup and support your circulatory system effectively? Let's dive into the potential benefits of coriander in maintaining vascular health and reducing arterial stiffness.</p>
 <h2 class="sec-scrl" id="coriander-atherosclerosis">Coriander and Atherosclerosis: What You Need to Know</h2>
 <p>Coriander, also known as cilantro or Chinese parsley, is a popular herb used in various cuisines worldwide. Apart from adding flavor to dishes, coriander has been studied for its potential health benefits, including its role in preventing atherosclerosis. Atherosclerosis is a condition characterized by the accumulation of cholesterol plaque in the arteries, leading to arterial stiffness and an increased risk of heart disease.</p>
 <p>Research suggests that coriander contains compounds that may help reduce plaque buildup in the arteries and support heart health. Here's how coriander may contribute to preventing atherosclerosis:</p>
@@ -141,8 +141,8 @@
 <h2 class="sec-scrl" id="arteries">The Impact of Atherosclerosis on Arteries</h2>
 <p>When cholesterol plaque accumulates in the arteries, it can narrow the blood vessels and restrict blood flow to vital organs. This can lead to various health issues, including:</p>
 <ul>
-<li>Increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>)</li>
+<li>Increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>)</li>
 <li>Peripheral artery disease</li>
 </ul>
 <p>By incorporating coriander into your diet, you may be able to support the health of your arteries and reduce the risk of these complications associated with atherosclerosis.</p>

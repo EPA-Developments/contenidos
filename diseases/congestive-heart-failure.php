@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Congestive Heart Failure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Congestive Heart Failure weakens the heart’s pumping ability. Read more about its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Congestive Heart Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/congestive-heart-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/congestive-heart-failure"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Congestive Heart Failure</h1>
-<p>Congestive heart failure occurs when the heart can't pump enough blood to meet the body's needs. It's a serious condition that affects millions of people worldwide. This condition can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling in the legs. It's crucial to manage congestive heart failure with medication, lifestyle changes, and regular check-ups to improve quality of life and prevent complications. If you experience symptoms, seek medical help promptly to receive the necessary care and support.</p>
+<p>Congestive heart failure occurs when the heart can't pump enough blood to meet the body's needs. It's a serious condition that affects millions of people worldwide. This condition can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling in the legs. It's crucial to manage congestive heart failure with medication, lifestyle changes, and regular check-ups to improve quality of life and prevent complications. If you experience symptoms, seek medical help promptly to receive the necessary care and support.</p>
 <h2 id="causes">Causes of Congestive Heart Failure</h2>
 <p><h3>Main Factors Contributing to Congestive Heart Failure:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Coronary artery disease</li>
 <li>Heart valve disorders</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> (heart muscle disease)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> (heart muscle disease)</li>
 <li>Previous heart attacks</li>
 <li>Diabetes</li>
 <li>Obesity</li>
@@ -180,8 +180,8 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Swelling in the ankles, legs, or abdomen</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Persistent cough or wheezing</li>
 </ul>
 
@@ -190,8 +190,8 @@ If you or a loved one experience any of these symptoms, especially if they persi
 <p>Accurate diagnosis of congestive heart failure is crucial for initiating timely treatment and improving patient outcomes. The diagnostic process typically involves a combination of medical history review, physical examination, and various tests. These tests may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and electrical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm and electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Blood tests to check for biomarkers like B-type natriuretic peptide (BNP)</li>
 <li>Chest X-ray to look for signs of heart enlargement or fluid buildup</li>
 </ul></p>

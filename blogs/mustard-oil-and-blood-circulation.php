@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard Oil Benefits for Blood Circulation" />
     <meta property="og:description" content="Discover how mustard oil boosts blood circulation for improved heart wellness and overall health. Learn more about mustard oil consumption benefits." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard Oil And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-blood-circulation"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="blood-flow">Enhancing Blood Flow with Mustard Oil Consumption</h2>
 <p>Regular consumption of Mustard Oil can positively impact blood flow by preventing the formation of blood clots. The omega-3 fatty acids present in Mustard Oil help maintain the flexibility of blood vessels, reducing the risk of blockages that can impede proper circulation. By including Mustard Oil in your diet, you can support the smooth flow of blood and nutrients throughout your body.</p>
 <ul>
-<li>Omega-3 fatty acids in Mustard Oil prevent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation.</li>
+<li>Omega-3 fatty acids in Mustard Oil prevent <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation.</li>
 <li>Flexible blood vessels promote unhindered blood flow.</li>
 <li>Regular consumption supports nutrient transport to vital organs.</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cranberries for Heart Health: Prevention Benefits&quot;" />
     <meta property="og:description" content="Discover how cranberries combat heart disease with their powerful benefits. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cranberries For Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cranberries-for-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cranberries-for-heart-disease-prevention"
         }
     ]
 }
@@ -130,10 +130,10 @@
             <div class="article-content">
               <h1>The Power of Cranberries for Heart Health</h1>
 <p>Do you often worry about your heart health and the risks of cardiovascular diseases? Wondering how you can protect your heart and live a healthier life? Cranberries might just be the superfood you need to incorporate into your diet to lower the risk of heart disease and improve your overall well-being.</p>
-<p>Every day, our hearts work tirelessly to keep us going, pumping blood throughout our bodies to sustain life. However, factors like poor diet, lack of exercise, and stress can contribute to the development of heart issues. Understanding how cranberries can play a role in preventing heart disease is crucial for maintaining a healthy heart and reducing the risk of serious conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</p>
+<p>Every day, our hearts work tirelessly to keep us going, pumping blood throughout our bodies to sustain life. However, factors like poor diet, lack of exercise, and stress can contribute to the development of heart issues. Understanding how cranberries can play a role in preventing heart disease is crucial for maintaining a healthy heart and reducing the risk of serious conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</p>
 <h2 class="sec-scrl" id="arterial-health">How Do Cranberries Support Arterial Health?</h2>
 <p>Cranberries are packed with antioxidants that help protect the arteries from damage caused by free radicals. These antioxidants prevent the oxidation of LDL cholesterol, which is a key factor in the development of plaque in the arteries. By reducing oxidative stress and inflammation in the arterial walls, cranberries promote better blood flow and overall heart health.</p>
-<p>In addition to antioxidants, cranberries contain compounds that support healthy blood pressure levels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a significant cardiovascular risk factor. Consuming cranberries regularly can help maintain optimal blood pressure and prevent strain on the heart.</p>
+<p>In addition to antioxidants, cranberries contain compounds that support healthy blood pressure levels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a significant cardiovascular risk factor. Consuming cranberries regularly can help maintain optimal blood pressure and prevent strain on the heart.</p>
 <h2 class="sec-scrl" id="blood-sugar">Can Cranberries Help Regulate Blood Sugar?</h2>
 <p>High blood sugar levels are associated with an increased risk of cardiovascular diseases. Cranberries have been shown to have a positive impact on blood sugar regulation, making them beneficial for individuals with diabetes or those at risk of developing the condition. The unique bioactive compounds in cranberries help improve insulin sensitivity and reduce blood sugar spikes after meals.</p>
 <p>Incorporating cranberries into a balanced diet can aid in managing blood sugar levels and lowering the risk of complications related to diabetes, such as heart disease and stroke. These tart berries offer a natural way to support overall metabolic health and reduce cardiovascular risk.</p>

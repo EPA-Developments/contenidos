@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin C and Stroke Prevention: Key Connection" />
     <meta property="og:description" content="Discover how Vitamin C may help prevent strokes and support brain and heart health. Learn more about this crucial connection today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-stroke-prevention"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>One of the key ways Vitamin C supports stroke prevention is by enhancing vascular health. Vitamin C acts as an antioxidant, protecting your blood vessels from damage and promoting optimal blood flow throughout your body. By maintaining healthy blood pressure levels, Vitamin C reduces the risk of blood clots and blockages that can lead to a stroke.</p>
 <p>In addition to its role in vascular health, Vitamin C also provides neural protection. The antioxidant properties of Vitamin C help combat oxidative stress in the brain, reducing inflammation and supporting healthy cognitive function. By protecting your brain cells from damage, Vitamin C lowers the risk of neurological issues that can contribute to stroke development.</p>
 <h2 class="sec-scrl" id="blood-flow">How Does Vitamin C Support Healthy Blood Flow?</h2>
-<p>Vitamin C plays a crucial role in maintaining healthy blood flow by supporting the flexibility and strength of your blood vessels. This essential nutrient helps prevent the buildup of plaque in your arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular issues that can impair blood circulation. By promoting vasodilation, Vitamin C helps ensure that your blood flows smoothly, decreasing the likelihood of blood clots that can trigger a stroke.</p>
+<p>Vitamin C plays a crucial role in maintaining healthy blood flow by supporting the flexibility and strength of your blood vessels. This essential nutrient helps prevent the buildup of plaque in your arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular issues that can impair blood circulation. By promoting vasodilation, Vitamin C helps ensure that your blood flows smoothly, decreasing the likelihood of blood clots that can trigger a stroke.</p>
 <ul>
 <li>Enhances vascular health</li>
 <li>Reduces plaque buildup in arteries</li>

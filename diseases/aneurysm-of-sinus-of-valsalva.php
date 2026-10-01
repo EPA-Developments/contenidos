@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aneurysm Of Sinus Of Valsalva: Causes, Symptoms and Treatment">
   <meta property="og:description" content="An aneurysm of the sinus of Valsalva can affect heart valves. Read more about its causes, symptoms, and treatments for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aneurysm-of-sinus-of-valsalva">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aneurysm-of-sinus-of-valsalva">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aneurysm-of-sinus-of-valsalva" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aneurysm-of-sinus-of-valsalva" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aneurysm Of Sinus Of Valsalva",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aneurysm-of-sinus-of-valsalva"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aneurysm-of-sinus-of-valsalva"
       }]
     }
   </script>
@@ -167,20 +167,20 @@
 
 <ul>
 <li> Congenital heart defects</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
-<li> Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
+<li> Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
 <li> Trauma to the chest</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aneurysm Of Sinus Of Valsalva</h2>
 <p>Recognizing the symptoms of an Aneurysm of the sinus of Valsalva is crucial for timely intervention and improved outcomes. Early detection can prevent complications and guide appropriate treatment. Common symptoms include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swelling in the abdomen or lower extremities</li>
 </ul>
 

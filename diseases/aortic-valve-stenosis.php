@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Valve Stenosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic valve stenosis causes narrowing of the heart valve. Read more about its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Valve Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-stenosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-stenosis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Aortic Valve Stenosis</h1>
-<p>Aortic Valve Stenosis occurs when the heart's aortic valve narrows, hindering blood flow. This condition is significant as it can strain the heart and lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting. Aortic Valve Stenosis is common among older adults, with a higher prevalence in individuals above 65 years old. Early detection and management are crucial in preventing complications and improving quality of life. If you experience symptoms, seek medical attention promptly for proper evaluation and treatment.</p>
+<p>Aortic Valve Stenosis occurs when the heart's aortic valve narrows, hindering blood flow. This condition is significant as it can strain the heart and lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting. Aortic Valve Stenosis is common among older adults, with a higher prevalence in individuals above 65 years old. Early detection and management are crucial in preventing complications and improving quality of life. If you experience symptoms, seek medical attention promptly for proper evaluation and treatment.</p>
 <h2 id="causes">Causes of Aortic Valve Stenosis</h2>
 <p>Aortic Valve Stenosis can develop due to various factors. Here are the main contributors:
 
@@ -169,18 +169,18 @@
 <li>Calcium buildup on the valve</li>
 <li>Aging process</li>
 <li>Genetic predisposition</li>
-<li>History of <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li>History of <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 <li>Damage from infections</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Valve Stenosis</h2>
 <p>Recognizing the symptoms of Aortic Valve Stenosis early is crucial as it can significantly impact treatment outcomes and overall prognosis. Detecting the condition promptly allows for timely intervention, reducing the risk of complications and improving the quality of life for individuals affected. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
 <li>Chest pain or tightness, especially during exertion</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, even with mild activity</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, even with mild activity</li>
 <li>Fainting or dizziness, particularly with exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul>
 
 Being aware of these symptoms and seeking medical attention if you experience any of them can lead to early diagnosis and appropriate management, potentially preventing complications associated with Aortic Valve Stenosis.</p>
@@ -188,7 +188,7 @@ Being aware of these symptoms and seeking medical attention if you experience an
 <p>Accurate diagnosis of Aortic Valve Stenosis is crucial for timely intervention and management. The diagnostic process typically involves various tests to assess the severity and impact of the condition. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: To visualize the aortic valve and assess blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: To visualize the aortic valve and assess blood flow.</li>
 <li>Electrocardiogram (ECG): To check for abnormal heart rhythms.</li>
 <li>Chest X-ray: To examine the heart and lungs for signs of disease.</li>
 <li>Cardiac MRI or CT scan: To provide detailed images of the heart structures.</li>

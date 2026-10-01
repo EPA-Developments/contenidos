@@ -10,12 +10,12 @@
     <meta property="og:title" content="Crab Meat for Heart Health: Expert Insights" />
     <meta property="og:description" content="Explore the heart-healthy benefits of crab meat from a cardiologist's viewpoint. Learn about its role in managing heart disease and lowering cholesterol." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/crab-meat-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/crab-meat-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/crab-meat-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/crab-meat-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Crab Meat For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/crab-meat-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/crab-meat-for-heart-health"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <li>Incorporating seafood like crab meat into your diet can provide a wide range of health benefits beyond just heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-management">How Does Crab Meat Aid in Heart Disease Management?</h2>
-<p>For individuals managing heart disease, including crab meat in their diet can be highly beneficial. The nutrients present in crab meat can help in managing various risk factors associated with heart disease, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>For individuals managing heart disease, including crab meat in their diet can be highly beneficial. The nutrients present in crab meat can help in managing various risk factors associated with heart disease, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <p>By consuming crab meat as part of a well-rounded diet, individuals can take proactive steps towards managing their heart condition and improving their overall quality of life.</p>
 <h2 class="sec-scrl" id="cholesterol-reduction">Can Crab Meat Help in Cholesterol Reduction?</h2>
 <p>Cholesterol reduction is a key aspect of heart health maintenance. The good news is that crab meat can contribute to lowering cholesterol levels in the body. The combination of omega-3 fatty acids and other nutrients in crab meat can help in reducing LDL cholesterol levels, also known as "bad" cholesterol.</p>

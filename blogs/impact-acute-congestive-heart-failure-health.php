@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Impact of Acute Congestive Heart Failure on Health">
   <meta property="og:description" content="Learn how acute congestive heart failure impacts your health and discover ways to manage this condition effectively. Understand the symptoms and risks.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/impact-acute-congestive-heart-failure-health">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/impact-acute-congestive-heart-failure-health">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/impact-acute-congestive-heart-failure-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/impact-acute-congestive-heart-failure-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Impact Of Acute Congestive Heart Failure On Health",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/impact-acute-congestive-heart-failure-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/impact-acute-congestive-heart-failure-health"  
       }]
     }
   </script>

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Platelet Aggregation Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Platelet aggregation test evaluates blood clotting function. Know more about the purpose, costs, and normal Range to manage heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/platelet-aggregation-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/platelet-aggregation-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/platelet-aggregation-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/platelet-aggregation-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Platelet Aggregation Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/platelet-aggregation-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/platelet-aggregation-test"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
 <h2 id="purpose">What is the Purpose of Performing a Platelet Aggregation Test Test?</h2>
 <p>The primary purpose of performing a Platelet Aggregation Test is to assess the blood clotting function by evaluating the ability of platelets to form clots effectively.</p>
 <p>Platelet aggregation tests are essential in identifying platelet function abnormalities that may lead to excessive bleeding or clotting disorders.</p>
-<p>This test is particularly useful in assessing the risk of thrombosis, a condition where blood clots form abnormally in the blood vessels, leading to potentially life-threatening complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or stroke.</p>
+<p>This test is particularly useful in assessing the risk of thrombosis, a condition where blood clots form abnormally in the blood vessels, leading to potentially life-threatening complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or stroke.</p>
 <p>Platelet aggregation testing is also valuable in evaluating the effects of antiplatelet therapy, such as aspirin or clopidogrel, in patients with cardiovascular diseases to ensure optimal treatment outcomes.</p>
 <h2 id="costs">What are the Costs of Platelet Aggregation Test Tests in Americas?</h2>
 <p>The cost of Platelet Aggregation Tests in Americas can vary depending on the healthcare facility, location, and specific type of test performed.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Boost Circulation with Figs" />
     <meta property="og:description" content="Learn how figs enhance blood circulation naturally. Improve vascular health with this nutrient-packed fruit." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/figs-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/figs-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Figs And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/figs-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/figs-and-blood-circulation"
         }
     ]
 }
@@ -131,10 +131,10 @@
               <h1>The Power of Figs for Circulation Boost</h1>
 <p>Are you looking for a natural way to enhance your blood circulation and promote overall vascular health? Do you struggle with issues related to blood flow, such as cold extremities or fatigue? If so, incorporating figs into your diet may be a simple yet effective solution to support your circulatory system and prevent potential complications. Let's explore the benefits of figs for your blood circulation and how they can positively impact your daily life.</p>
 <h2 class="sec-scrl" id="oxygen-transport">How Do Figs Enhance Oxygen Transport in the Body?</h2>
-<p>Figs are a rich source of nutrients that play a crucial role in supporting optimal oxygen transport throughout your circulatory system. The iron content in figs helps in the production of hemoglobin, the protein in red blood cells that carries oxygen from the lungs to the rest of the body. This means that including figs in your diet can help prevent conditions like anemia, which can lead to fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</p>
+<p>Figs are a rich source of nutrients that play a crucial role in supporting optimal oxygen transport throughout your circulatory system. The iron content in figs helps in the production of hemoglobin, the protein in red blood cells that carries oxygen from the lungs to the rest of the body. This means that including figs in your diet can help prevent conditions like anemia, which can lead to fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</p>
 <p>In addition to iron, figs also contain vitamin K, which is essential for proper blood clotting and maintaining healthy blood vessels. By ensuring adequate vitamin K levels, figs contribute to efficient oxygen transport and overall vascular health.</p>
 <h2 class="sec-scrl" id="arterial-dilation">Can Figs Support Arterial Dilation for Better Blood Flow?</h2>
-<p>Arterial dilation refers to the widening of blood vessels, which allows for improved blood flow and reduced strain on the heart. Figs contain nutrients like potassium and magnesium, which have vasodilatory effects, meaning they help relax and widen the arteries. This, in turn, promotes better circulation and lowers the risk of conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Arterial dilation refers to the widening of blood vessels, which allows for improved blood flow and reduced strain on the heart. Figs contain nutrients like potassium and magnesium, which have vasodilatory effects, meaning they help relax and widen the arteries. This, in turn, promotes better circulation and lowers the risk of conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <ul>
 <li>Potassium in figs helps regulate blood pressure and counteracts the effects of sodium, which can contribute to arterial constriction.</li>
 <li>Magnesium supports muscle relaxation, including the smooth muscles in blood vessel walls, leading to improved arterial dilation and blood flow.</li>

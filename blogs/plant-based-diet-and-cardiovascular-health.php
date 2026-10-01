@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cardiology Benefits of Plant-Based Diet" />
     <meta property="og:description" content="Discover the impact of a plant-based diet on cardiology for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/plant-based-diet-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/plant-based-diet-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/plant-based-diet-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/plant-based-diet-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Plant Based Diet And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/plant-based-diet-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/plant-based-diet-and-cardiovascular-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Increased consumption of fiber-rich foods for better digestion and cholesterol management</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-management">Effective Cholesterol Management</h2>
-<p>One of the primary reasons for heart disease is <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels. A plant-based diet can play a crucial role in managing and reducing cholesterol, especially the harmful LDL cholesterol. Plant foods contain healthy fats and phytosterols that actively work to lower cholesterol levels in your body, protecting your heart from potential risks.</p>
+<p>One of the primary reasons for heart disease is <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels. A plant-based diet can play a crucial role in managing and reducing cholesterol, especially the harmful LDL cholesterol. Plant foods contain healthy fats and phytosterols that actively work to lower cholesterol levels in your body, protecting your heart from potential risks.</p>
 <p>Here's how a plant-based diet supports cholesterol management:</p>
 <ul>
 <li>Replacing saturated fats with healthy fats from plant sources</li>
@@ -150,12 +150,12 @@
 <p>Prevention is always better than cure, especially when it comes to heart disease. A plant-based diet offers a natural and effective way to prevent heart disease by addressing various risk factors. By nourishing your body with plant-based foods, you can protect your heart and overall health in the long run.</p>
 <p>Plant-based diets contribute to heart disease prevention through:</p>
 <ul>
-<li>Lowering blood pressure and reducing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> risks</li>
+<li>Lowering blood pressure and reducing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> risks</li>
 <li>Enhancing overall cardiovascular protection with a variety of nutrients</li>
 <li>Improving blood sugar levels and reducing the risk of diabetes, a major heart disease risk factor</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-risk">Reducing Heart Attack Risk</h2>
-<p>Heart attacks can be life-threatening and are often linked to underlying heart conditions and poor lifestyle choices. By adopting a plant-based diet, you can significantly reduce your risk of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Plant foods provide essential nutrients that support heart health and lower the chances of cardiovascular events.</p>
+<p>Heart attacks can be life-threatening and are often linked to underlying heart conditions and poor lifestyle choices. By adopting a plant-based diet, you can significantly reduce your risk of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Plant foods provide essential nutrients that support heart health and lower the chances of cardiovascular events.</p>
 <p>Ways in which a plant-based diet lowers heart attack risk include:</p>
 <ul>
 <li>Reducing inflammation and oxidative stress in the body</li>

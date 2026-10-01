@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis and Treatment of Clicking Sound in Heart" >
   <meta property="og:description" content="Clicking sound in the heart could be a sign of heart issues. Know more about its causes, diagnosis, and treatment options for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/clicking-sound-in-heart">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/clicking-sound-in-heart">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/clicking-sound-in-heart" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/clicking-sound-in-heart" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Clicking Sound In Heart",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/clicking-sound-in-heart"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/clicking-sound-in-heart"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Diagnosis, Causes and Treatment of Clicking Sound in Heart</h1>
 <p>Clicking sound in the heart refers to an abnormal noise produced during the cardiac cycle. This sound can be heard as a clicking, snapping, or popping noise and is often associated with specific heart conditions.</p>
 <p>It is not a normal occurrence and may indicate an underlying issue with the heart's structure or function.</p>
-<p>Symptoms of clicking sound in the heart may include irregular heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fainting. These symptoms can vary depending on the underlying cause of the clicking sound.</p>
+<p>Symptoms of clicking sound in the heart may include irregular heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fainting. These symptoms can vary depending on the underlying cause of the clicking sound.</p>
 <p>It is essential to consult a healthcare provider if you experience any of these symptoms.</p>
 <h2 id="forms">What are the Forms of Clicking sound in heart?</h2>
 <p>Clicking sound in the heart can manifest in different forms, each associated with specific symptoms and related concepts.</p>
@@ -204,12 +204,12 @@
 <li>Structural heart defects</li>
 <li>Inflammation of the heart muscle</li>
 </ul>
-<p>Other less common causes of clicking sound in the heart may include congenital heart defects, infections, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or coronary artery disease.</p>
+<p>Other less common causes of clicking sound in the heart may include congenital heart defects, infections, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or coronary artery disease.</p>
 <p>It is crucial to determine the specific cause of the clicking sound to initiate appropriate treatment and management.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Clicking sound in heart?</h2>
 <p>Diagnosis of clicking sound in the heart involves a comprehensive evaluation by a healthcare provider, including a physical examination, medical history review, and diagnostic tests.</p>
 <p>Basic diagnostic methods may include listening to the heart with a stethoscope to identify abnormal sounds and rhythms.</p>
-<p>Advanced diagnostic techniques, such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), cardiac MRI, or <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>, may be used to assess the heart's structure and function in detail. These tests help determine the underlying cause of the clicking sound and guide treatment decisions.</p>
+<p>Advanced diagnostic techniques, such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), cardiac MRI, or <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>, may be used to assess the heart's structure and function in detail. These tests help determine the underlying cause of the clicking sound and guide treatment decisions.</p>
 <h2 id="treatment">What is the Treatment for Clicking sound in heart?</h2>
 <p>Treatment for clicking sound in the heart depends on the underlying cause and severity of the condition. Medical interventions may include medications to manage heart rhythm abnormalities, reduce inflammation, or control blood pressure.</p>
 <p>Lifestyle modifications, such as maintaining a healthy diet, regular exercise, stress management, and avoiding tobacco and alcohol, can help improve heart health and reduce the risk of complications.</p>

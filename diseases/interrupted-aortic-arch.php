@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Interrupted Aortic Arch: Causes, Symptoms & Treatment">
   <meta property="og:description" content="Interrupted aortic arch is a congenital heart defect. Know more about its symptoms, causes, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/interrupted-aortic-arch">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/interrupted-aortic-arch">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/interrupted-aortic-arch" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/interrupted-aortic-arch" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Interrupted Aortic Arch",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/interrupted-aortic-arch"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/interrupted-aortic-arch"
       }]
     }
   </script>
@@ -172,7 +172,7 @@
 <h2 id="causes">Causes of Interrupted Aortic Arch</h2>
 <p>Interrupted Aortic Arch can have various causes, both primary and secondary, that contribute to its development. Primary causes of Interrupted Aortic Arch include genetic factors, maternal health issues during pregnancy, chromosomal abnormalities, and environmental influences.</p>
 <p>Genetic factors may lead to abnormal development of the aortic arch during fetal growth, resulting in the interruption of the aortic continuity.</p>
-<p>Maternal health issues such as diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can impact fetal development, including the formation of the aortic arch. Chromosomal abnormalities, such as DiGeorge syndrome, can also play a role in the occurrence of Interrupted Aortic Arch.</p>
+<p>Maternal health issues such as diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can impact fetal development, including the formation of the aortic arch. Chromosomal abnormalities, such as DiGeorge syndrome, can also play a role in the occurrence of Interrupted Aortic Arch.</p>
 <p>Environmental factors like exposure to toxins or radiation during pregnancy can further increase the risk of this condition.</p>
 <ul>
 <li>Inadequate prenatal care: Insufficient prenatal care can lead to undetected maternal health issues that may contribute to Interrupted Aortic Arch.</li>
@@ -181,15 +181,15 @@
 </ul>
 <h2 id="symptoms">Symptoms of Interrupted Aortic Arch</h2>
 <p>Symptoms of Interrupted Aortic Arch can vary depending on the severity of the condition and the age of the individual. In early stages, symptoms may be subtle or non-specific, making diagnosis challenging.</p>
-<p>Early symptoms may include poor feeding, failure to thrive, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin). These symptoms can impact a child's energy levels, ability to gain weight, and overall well-being.</p>
+<p>Early symptoms may include poor feeding, failure to thrive, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin). These symptoms can impact a child's energy levels, ability to gain weight, and overall well-being.</p>
 <ul>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>:</b> Advanced Interrupted Aortic Arch can lead to decreased oxygen supply to the body, causing difficulty in breathing and physical exertion.</li>
-<li><b><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: </b>Chest pain can occur as a result of the heart working harder to compensate for the interrupted blood flow, impacting both physical and emotional well-being.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>:</b> Advanced Interrupted Aortic Arch can lead to decreased oxygen supply to the body, causing difficulty in breathing and physical exertion.</li>
+<li><b><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: </b>Chest pain can occur as a result of the heart working harder to compensate for the interrupted blood flow, impacting both physical and emotional well-being.</li>
 </ul>
 <h2>Diagnosis of Interrupted Aortic Arch</h2>
 <p>Diagnosing Interrupted Aortic Arch typically involves a series of tests and evaluations to assess the structure and function of the heart and blood vessels.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is often the initial diagnostic test used to visualize the heart's anatomy and blood flow patterns. Cardiac MRI or CT scans may provide more detailed imaging of the aortic arch and surrounding structures.</p>
-<p>A <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> procedure can help measure blood pressure and oxygen levels within the heart chambers and vessels. Additionally, genetic testing may be recommended to identify any underlying chromosomal abnormalities or genetic mutations associated with Interrupted Aortic Arch.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is often the initial diagnostic test used to visualize the heart's anatomy and blood flow patterns. Cardiac MRI or CT scans may provide more detailed imaging of the aortic arch and surrounding structures.</p>
+<p>A <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> procedure can help measure blood pressure and oxygen levels within the heart chambers and vessels. Additionally, genetic testing may be recommended to identify any underlying chromosomal abnormalities or genetic mutations associated with Interrupted Aortic Arch.</p>
 <ul>
 <li><b>Echocardiography: </b>This non-invasive imaging test allows for the visualization of the heart's structure and function, aiding in the diagnosis of Interrupted Aortic Arch.</li>
 <li><b>Cardiac MRI/CT: </b>These imaging modalities provide detailed pictures of the heart and blood vessels, assisting in the accurate assessment of Interrupted Aortic Arch.</li>

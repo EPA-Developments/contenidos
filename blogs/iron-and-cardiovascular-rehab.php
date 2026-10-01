@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron's Vital Role in Cardio Rehab&quot;" />
     <meta property="og:description" content="Explore the vital role of iron in cardiovascular rehab for enhanced recovery and heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-cardiovascular-rehab" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-and-cardiovascular-rehab" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-cardiovascular-rehab" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-and-cardiovascular-rehab" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron And Cardiovascular Rehab",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-and-cardiovascular-rehab"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-and-cardiovascular-rehab"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Iron in Cardio Rehab</h1>
-<p>Do you struggle with fatigue and lack of energy after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>? Are you finding it challenging to regain your strength and endurance during cardiac recovery? One essential nutrient that could be playing a crucial role in your rehabilitation journey is iron. Let's explore the significance of iron levels in post-heart surgery recovery and how it impacts your rehab program.</p>
+<p>Do you struggle with fatigue and lack of energy after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>? Are you finding it challenging to regain your strength and endurance during cardiac recovery? One essential nutrient that could be playing a crucial role in your rehabilitation journey is iron. Let's explore the significance of iron levels in post-heart surgery recovery and how it impacts your rehab program.</p>
 <h2 class="sec-scrl" id="iron-levels">Why are Iron Levels Important for Cardiovascular Rehab?</h2>
 <p>Iron is a vital mineral that plays a key role in maintaining healthy blood count and oxygen transport in the body. In the context of cardiovascular rehabilitation, adequate iron levels are essential for optimal recovery and endurance. Here's why iron is crucial for your post-heart surgery journey:</p>
 <ul>
 <li>Iron is necessary for the production of hemoglobin, a protein in red blood cells that transports oxygen to tissues and organs.</li>
-<li>Low iron levels can lead to anemia, resulting in fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and reduced exercise capacity.</li>
+<li>Low iron levels can lead to anemia, resulting in fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and reduced exercise capacity.</li>
 <li>Iron supports muscle function and energy metabolism, helping you build strength and improve cardiac performance.</li>
 </ul>
 <h2 class="sec-scrl" id="rehab-program">How Does Iron Support Your Rehab Program?</h2>

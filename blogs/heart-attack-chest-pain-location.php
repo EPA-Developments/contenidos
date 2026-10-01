@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Attack Chest Pain Location: Everything You Need to Know">
   <meta property="og:description" content="Discover the key facts about heart attack chest pain location. Learn what you need to know about recognizing symptoms and seeking medical help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-chest-pain-location">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-chest-pain-location">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-chest-pain-location" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-attack-chest-pain-location" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Attack Chest Pain Location: Everything You Need To Know",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-attack-chest-pain-location"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-attack-chest-pain-location"  
       }]
     }
   </script>

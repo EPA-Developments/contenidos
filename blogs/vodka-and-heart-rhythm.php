@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vodka's Effect on Heart Rhythm&quot;" />
     <meta property="og:description" content="Learn how alcohol, especially vodka, affects heart rhythm. Explore arrhythmia, tachycardia, bradycardia, and irregular heartbeat caused by alcohol." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-rhythm" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-rhythm" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-rhythm" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-rhythm" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vodka And Heart Rhythm",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vodka-and-heart-rhythm"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vodka-and-heart-rhythm"
         }
     ]
 }
@@ -133,19 +133,19 @@
 <h2 class="sec-scrl" id="arrhythmia">Alcohol-Induced Arrhythmia: The Disruption in Heart Rhythm</h2>
 <p>When it comes to heart health, maintaining a normal rhythm is essential for proper functioning. However, excessive alcohol consumption, including vodka, can lead to arrhythmia – a condition characterized by irregular heartbeats. Alcohol-induced arrhythmias can manifest as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li>Increased heart rate (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>)</li>
-<li>Decreased heart rate (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Increased heart rate (<a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>)</li>
+<li>Decreased heart rate (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a>)</li>
 </ul>
-<p>These irregularities in heart rhythm can have a significant impact on your daily life, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</p>
+<p>These irregularities in heart rhythm can have a significant impact on your daily life, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</p>
 <h2 class="sec-scrl" id="tachycardia">Tachycardia: When Alcohol Speeds Up Your Heart Rate</h2>
-<p>One of the common effects of vodka on heart rhythm is tachycardia, a condition where your heart beats faster than normal. Excessive alcohol consumption, especially when consumed rapidly, can trigger tachycardia episodes. The <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> associated with tachycardia can be alarming and may lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, chest discomfort, and feelings of anxiety.</p>
+<p>One of the common effects of vodka on heart rhythm is tachycardia, a condition where your heart beats faster than normal. Excessive alcohol consumption, especially when consumed rapidly, can trigger tachycardia episodes. The <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> associated with tachycardia can be alarming and may lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, chest discomfort, and feelings of anxiety.</p>
 <p>If you experience frequent episodes of tachycardia after drinking vodka, it's essential to consult with a healthcare provider to assess your heart health and make necessary lifestyle modifications.</p>
 <h2 class="sec-scrl" id="bradycardia">Bradycardia: When Alcohol Slows Down Your Heart Rate</h2>
 <p>On the flip side, alcohol, including vodka, can also have the opposite effect on heart rhythm, leading to bradycardia – a condition characterized by a slower than normal heart rate. While moderate alcohol consumption may not typically cause bradycardia, excessive drinking can disrupt the electrical signals that regulate your heart rate.</p>
 <p>Bradycardia can result in symptoms such as fatigue, dizziness, fainting, and shortness of breath. If you notice persistent bradycardia symptoms, seek medical attention promptly to determine the underlying cause and appropriate management strategies.</p>
 <h2 class="sec-scrl" id="alcohol-induced-irregular-heartbeat">Alcohol-Induced Irregular Heartbeat: Understanding the Risks</h2>
-<p>Alcohol-induced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, or arrhythmia, can pose serious risks to your heart health. The effects of alcohol on the heart's electrical system can disrupt the coordinated contractions necessary for efficient blood circulation. This disruption can lead to:</p>
+<p>Alcohol-induced <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, or arrhythmia, can pose serious risks to your heart health. The effects of alcohol on the heart's electrical system can disrupt the coordinated contractions necessary for efficient blood circulation. This disruption can lead to:</p>
 <ul>
 <li>Atrial fibrillation</li>
 <li>Increased risk of stroke</li>

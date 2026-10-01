@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Beriberi: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Discover the causes, symptoms, and treatment of Beriberi, a condition caused by thiamine deficiency. Learn how to recognize and manage this condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/beriberi">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/beriberi">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/beriberi" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/beriberi" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Beriberi",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/beriberi"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/beriberi"
       }]
     }
   </script>
@@ -168,19 +168,19 @@
 <h1>Beriberi: Causes, Symptoms, and Treatment</h1>
 <p>Beriberi is a condition caused by a deficiency of thiamine (vitamin B1), leading to impaired functioning of various bodily systems.</p>
 <p>Despite being rare in developed countries due to thiamine fortification in foods, it still poses a significant health risk in certain populations globally, especially in regions where malnutrition is prevalent.</p>
-<p>The impact of Beriberi on health is profound, affecting essential functions such as cardiovascular health, nervous system function, and metabolism. In the short term, untreated Beriberi can result in symptoms like fatigue, muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and heart complications.</p>
+<p>The impact of Beriberi on health is profound, affecting essential functions such as cardiovascular health, nervous system function, and metabolism. In the short term, untreated Beriberi can result in symptoms like fatigue, muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and heart complications.</p>
 <p>However, in the long term, it can lead to severe neurological damage and even death if left unaddressed.</p>
 <p>One challenge in diagnosing Beriberi is its asymptomatic nature in the early stages, highlighting the importance of early detection through regular screenings to prevent serious complications.</p>
 <h2 id="causes">Causes of Beriberi</h2>
 <p>Beriberi can be caused by various factors, with the primary ones being inadequate dietary intake of thiamine, alcohol abuse leading to poor thiamine absorption, chronic illnesses affecting thiamine utilization, and genetic predispositions impacting thiamine metabolism.</p>
-<p>Inadequate thiamine intake directly affects heart function over time, leading to conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/wet-beriberi">wet beriberi</a> characterized by heart failure. Alcohol abuse interferes with thiamine absorption in the intestine, impairing its utilization in vital cellular processes.</p>
+<p>Inadequate thiamine intake directly affects heart function over time, leading to conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/wet-beriberi">wet beriberi</a> characterized by heart failure. Alcohol abuse interferes with thiamine absorption in the intestine, impairing its utilization in vital cellular processes.</p>
 <p>Chronic illnesses like HIV/AIDS or gastrointestinal disorders can disrupt thiamine metabolism, contributing to thiamine deficiency. Genetic factors influencing thiamine metabolism can increase the risk of developing Beriberi.</p>
 <p>Secondary risk factors such as poor diet, excessive consumption of processed foods, and certain medications can further exacerbate thiamine deficiency, leading to Beriberi.</p>
 <h2 id="symptoms">Symptoms of Beriberi</h2>
 <p>Early-stage symptoms of Beriberi may include fatigue, irritability, and muscle weakness, impacting daily activities and energy levels. These symptoms are often subtle and can be overlooked, leading to delayed diagnosis.</p>
-<p>Advanced-stage symptoms, such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, swelling in the lower extremities, and cognitive impairment, can significantly affect physical well-being and emotional health, causing distress and functional limitations.</p>
+<p>Advanced-stage symptoms, such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, swelling in the lower extremities, and cognitive impairment, can significantly affect physical well-being and emotional health, causing distress and functional limitations.</p>
 <h2>Diagnosis of Beriberi</h2>
-<p>Diagnosing Beriberi involves a multi-step process that includes a thorough medical history review, physical examination, blood tests to assess thiamine levels, and cardiac evaluations like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to detect heart abnormalities associated with Beriberi.</p>
+<p>Diagnosing Beriberi involves a multi-step process that includes a thorough medical history review, physical examination, blood tests to assess thiamine levels, and cardiac evaluations like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to detect heart abnormalities associated with Beriberi.</p>
 <p>These tests are crucial for confirming the diagnosis, determining the extent of thiamine deficiency, and initiating appropriate treatment promptly.</p>
 <h2 id="treatment">Treatment Options for Beriberi</h2>
 <p>Treatment for Beriberi typically involves thiamine supplementation through oral or intravenous routes to correct the deficiency and improve symptoms. In severe cases, hospitalization may be necessary for intravenous thiamine administration.</p>

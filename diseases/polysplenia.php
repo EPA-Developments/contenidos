@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Polysplenia: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Learn about Polysplenia, a rare congenital condition affecting the spleen. Discover its symptoms, causes, diagnosis, and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/polysplenia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/polysplenia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/polysplenia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/polysplenia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Polysplenia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/polysplenia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/polysplenia"
       }]
     }
   </script>
@@ -183,7 +183,7 @@
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
-<li>Maternal Health: Maternal health conditions such as diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can impact fetal development and increase the risk of congenital anomalies like polysplenia.</li>
+<li>Maternal Health: Maternal health conditions such as diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can impact fetal development and increase the risk of congenital anomalies like polysplenia.</li>
 <li>Maternal Lifestyle: Factors like smoking, alcohol consumption, or inadequate prenatal care can also contribute to developmental abnormalities in the fetus, including polysplenia.</li>
 <li>Nutritional Deficiencies: Inadequate maternal nutrition during pregnancy can affect fetal organ development, potentially leading to conditions like polysplenia.</li>
 </ul>
@@ -195,7 +195,7 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Abdominal Pain: Advanced polysplenia can present with abdominal pain due to complications like splenic <a href="https://plataforma.epa-bienestar.com.ar/diseases/infarction">infarction</a> or splenic abscesses, affecting both physical and emotional health.</li>
+<li>Abdominal Pain: Advanced polysplenia can present with abdominal pain due to complications like splenic <a href="https://contenidos.segundaopinionmedica.org/diseases/infarction">infarction</a> or splenic abscesses, affecting both physical and emotional health.</li>
 <li>Hematological Complications: Severe cases of polysplenia can lead to hematological issues like thrombocytopenia or hemolytic anemia, causing significant health implications.</li>
 </ul>
 <h2>Diagnosis of Polysplenia</h2>

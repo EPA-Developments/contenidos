@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Right Heart Catheterization: Costs and Normal Range" property="og:title"/>
 <meta content="Right heart catheterization measures heart pressure and function. Know more about its purpose, cost, and normal Range for accurate results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/right-heart-catheterization" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/right-heart-catheterization" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/right-heart-catheterization" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/right-heart-catheterization" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Right Heart Catheterization",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/right-heart-catheterization"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/right-heart-catheterization"  
       }]
     }
   </script>
@@ -179,9 +179,9 @@
 <p>Right heart catheterization is a diagnostic procedure used to evaluate the pressure within the pulmonary artery and right side of the heart.</p>
 <p>During this test, a thin, flexible tube called a catheter is inserted into a blood vessel in the arm, neck, or groin and guided to the heart.</p>
 <p>Once in place, the catheter can measure various pressures in the heart chambers and blood vessels.</p>
-<p>Examples of conditions that may require right heart catheterization include heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, congenital heart defects, and complex cardiac conditions.</p>
+<p>Examples of conditions that may require right heart catheterization include heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, congenital heart defects, and complex cardiac conditions.</p>
 <p>This test provides valuable information about the function of the heart and the pressure within the pulmonary arteries, helping healthcare providers make accurate diagnoses and develop appropriate treatment plans.</p>
-<p>Related concepts to right heart catheterization include <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>, a broader term that includes both left and right heart catheterization.</p>
+<p>Related concepts to right heart catheterization include <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>, a broader term that includes both left and right heart catheterization.</p>
 <p>While left heart catheterization focuses on the arteries supplying blood to the heart muscle, right heart catheterization specifically assesses the right side of the heart and pulmonary artery pressures.</p>
 <h2 id="purpose">What is the Purpose of Performing a Right Heart Catheterization Test?</h2>
 <p>The primary purpose of right heart catheterization is to assess pulmonary artery pressure and right ventricular function. By measuring these pressures, healthcare providers can diagnose conditions such as pulmonary hypertension, heart failure, and congenital heart defects accurately.</p>
@@ -194,7 +194,7 @@
 </ul>
 <p>Scenarios where right heart catheterization is useful include:</p>
 <ul>
-<li>Evaluating patients with unexplained <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or exercise intolerance.</li>
+<li>Evaluating patients with unexplained <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or exercise intolerance.</li>
 <li>Assessing patients with known or suspected heart failure.</li>
 <li>Diagnosing and monitoring pulmonary hypertension.</li>
 <li>Managing complex cardiac conditions requiring detailed hemodynamic assessment.</li>
@@ -218,7 +218,7 @@
 <ul>
 <li>Pulmonary hypertension</li>
 <li>Heart failure</li>
-<li>Pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a></li>
+<li>Pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a></li>
 <li>Valvular heart disease</li>
 </ul>
 <p>Risks associated with high right heart catheterization levels include:</p>
@@ -233,9 +233,9 @@
 <p>Low right heart catheterization levels may also indicate underlying health issues that require attention.</p>
 <ul>
 <li>Hypovolemia (low blood volume)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a></li>
 <li>Severe heart failure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/valvular-regurgitation">valvular regurgitation</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/valvular-regurgitation">valvular regurgitation</a></li>
 </ul>
 <p>Associated conditions with low right heart catheterization levels include:</p>
 <ul>

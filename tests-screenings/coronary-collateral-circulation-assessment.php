@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Coronary Collateral Circulation Assessment: Purpose and Costs" property="og:title"/>
 <meta content="Coronary collateral circulation assessment evaluates alternative blood flow. Read more about its purpose, costs, and normal Range for heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-collateral-circulation-assessment" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-collateral-circulation-assessment" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-collateral-circulation-assessment" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-collateral-circulation-assessment" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Collateral Circulation Assessment",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/coronary-collateral-circulation-assessment"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/coronary-collateral-circulation-assessment"  
       }]
     }
   </script>
@@ -182,7 +182,7 @@
 <p>When this occurs, collateral circulation can play a crucial role in maintaining adequate blood flow to the heart muscle, reducing the risk of heart attacks and other complications.</p>
 <p>The assessment of coronary collateral circulation involves various imaging techniques, such as angiography or Doppler ultrasound, to visualize the presence of collateral vessels and assess their capacity to provide blood flow to the heart.</p>
 <p>By evaluating the integrity and efficiency of collateral circulation, healthcare providers can better understand the extent of coronary artery disease and tailor treatment plans accordingly.</p>
-<p>For example, a patient with significant collateral circulation may have a lower risk of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, as the collateral vessels can compensate for blocked arteries and maintain adequate blood supply to the heart muscle.</p>
+<p>For example, a patient with significant collateral circulation may have a lower risk of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, as the collateral vessels can compensate for blocked arteries and maintain adequate blood supply to the heart muscle.</p>
 <p>On the other hand, a patient with poor collateral circulation may be at higher risk of complications and may require more aggressive treatment strategies to prevent adverse outcomes.</p>
 <h2 id="purpose">What is the Purpose of Performing a Coronary Collateral Circulation Assessment Test?</h2>
 <p>The primary purpose of performing a coronary collateral circulation assessment test is to evaluate the functional capacity of collateral blood vessels in the heart and assess their role in maintaining adequate blood supply to the heart muscle.</p>
@@ -194,7 +194,7 @@
 <li>Tailor treatment plans to optimize blood flow to the heart and reduce the risk of adverse outcomes.</li>
 </ul>
 <p>In scenarios where a patient has significant collateral circulation, healthcare providers may choose a more conservative approach to treatment, focusing on lifestyle modifications and medication management to support the existing collateral vessels.</p>
-<p>Conversely, in cases of poor collateral circulation, more aggressive interventions, such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery, may be necessary to restore adequate blood flow to the heart.</p>
+<p>Conversely, in cases of poor collateral circulation, more aggressive interventions, such as <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery, may be necessary to restore adequate blood flow to the heart.</p>
 <p>Overall, the purpose of performing a coronary collateral circulation assessment test is to provide valuable insights into the patient's cardiovascular health, guide treatment decisions, and improve outcomes for individuals with heart disease.</p>
 <h2 id="costs">What are the Costs of Coronary Collateral Circulation Assessment Tests in Americas?</h2>
 <p>The costs of coronary collateral circulation assessment tests in Americas can vary depending on several factors, including the type of test, the healthcare facility where the test is performed, and the region in which the facility is located.</p>
@@ -232,7 +232,7 @@
 <p>Regular monitoring of collateral circulation can help track changes in blood flow dynamics and adjust treatment plans accordingly.</p>
 <h2>What Do High Coronary Collateral Circulation Assessment Levels Indicate?</h2>
 <p>High coronary collateral circulation assessment levels typically indicate robust blood flow through collateral vessels, providing an alternative route for oxygenated blood to reach the heart muscle.</p>
-<p>In cases where collateral circulation is well-developed, patients may experience fewer symptoms of ischemia or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> and have a lower risk of heart attacks.</p>
+<p>In cases where collateral circulation is well-developed, patients may experience fewer symptoms of ischemia or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> and have a lower risk of heart attacks.</p>
 <p>Causes of high coronary collateral circulation assessment levels may include:</p>
 <ul>
 <li>Chronic coronary artery disease with gradual development of collateral vessels to compensate for blocked arteries.</li>
@@ -256,13 +256,13 @@
 <p>Reasons for low coronary collateral circulation assessment levels may include:</p>
 <ul>
 <li>Acute coronary artery blockages that have not allowed sufficient time for collateral vessel development.</li>
-<li>Underlying health conditions, such as diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, that impair collateral vessel formation.</li>
+<li>Underlying health conditions, such as diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, that impair collateral vessel formation.</li>
 <li>Sedentary lifestyle and poor dietary habits that contribute to cardiovascular risk factors and inhibit collateral vessel growth.</li>
 <li>Previous heart procedures that may have disrupted existing collateral circulation or compromised blood flow to the heart.</li>
 </ul>
 <p>Associated conditions with low coronary collateral circulation assessment levels may include:</p>
 <ul>
-<li>Increased risk of heart attacks, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, and sudden cardiac death.</li>
+<li>Increased risk of heart attacks, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, and sudden cardiac death.</li>
 <li>Progressive worsening of angina symptoms and reduced exercise capacity.</li>
 <li>Higher likelihood of requiring invasive interventions, such as angioplasty or bypass surgery, to restore blood flow to the heart.</li>
 <li>Poor prognosis for individuals with advanced coronary artery disease and limited collateral vessel support.</li>

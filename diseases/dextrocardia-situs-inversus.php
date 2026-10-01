@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dextrocardia Situs Inversus: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Dextrocardia Situs Inversus places the heart on the right side. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/dextrocardia-situs-inversus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/dextrocardia-situs-inversus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/dextrocardia-situs-inversus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/dextrocardia-situs-inversus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dextrocardia Situs Inversus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/dextrocardia-situs-inversus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/dextrocardia-situs-inversus"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Dextrocardia Situs Inversus is a rare congenital condition where the heart is positioned on the right side of the chest rather than the left, and the internal organs are mirrored from their typical placement.</p>
 <p>This anomaly holds significant importance due to its impact on cardiac function and overall health. While Dextrocardia Situs Inversus occurs in about 1 in 12,000 live births, its prevalence may vary in different populations.</p>
 <p>The heart plays a vital role in pumping oxygenated blood throughout the body, and its abnormal positioning in Dextrocardia Situs Inversus can affect its essential functions.</p>
-<p>The condition may lead to disruptions in blood flow, potentially causing short-term issues like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting.</p>
+<p>The condition may lead to disruptions in blood flow, potentially causing short-term issues like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting.</p>
 <p>In the long term, untreated Dextrocardia Situs Inversus can result in more severe complications such as heart failure, arrhythmias, and increased risk of cardiovascular diseases.</p>
 <p>Dextrocardia Situs Inversus is often asymptomatic in its early stages, making it challenging to detect without proper screening.</p>
 <p>Therefore, early detection through diagnostic tests and regular screenings is crucial for managing the condition effectively and preventing potential health risks in the future.</p>
@@ -196,14 +196,14 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Advanced Symptom 1: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> can significantly impact physical activities and emotional well-being, requiring prompt medical attention for proper management.</li>
-<li>Advanced Symptom 2: Irregular heart rhythms or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> may indicate more severe complications of Dextrocardia Situs Inversus, necessitating close monitoring and intervention.</li>
+<li>Advanced Symptom 1: <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> can significantly impact physical activities and emotional well-being, requiring prompt medical attention for proper management.</li>
+<li>Advanced Symptom 2: Irregular heart rhythms or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> may indicate more severe complications of Dextrocardia Situs Inversus, necessitating close monitoring and intervention.</li>
 </ul>
 <h2>Diagnosis of Dextrocardia Situs Inversus</h2>
 <p>Diagnosing Dextrocardia Situs Inversus typically involves a series of tests to accurately assess the heart's structure and function, allowing for appropriate management and intervention.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive test that uses sound waves to create detailed images of the heart, helping detect any abnormalities in heart structure associated with Dextrocardia Situs Inversus.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) records the heart's electrical activity, identifying any irregularities in heart rhythm that may be indicative of Dextrocardia Situs Inversus.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive test that uses sound waves to create detailed images of the heart, helping detect any abnormalities in heart structure associated with Dextrocardia Situs Inversus.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) records the heart's electrical activity, identifying any irregularities in heart rhythm that may be indicative of Dextrocardia Situs Inversus.</li>
 <li>Chest X-ray can reveal the positioning of the heart and internal organs, aiding in the diagnosis of Dextrocardia Situs Inversus and assessing any related complications.</li>
 <li>Cardiac MRI provides detailed images of the heart's structure and function, offering valuable information for diagnosing Dextrocardia Situs Inversus and planning appropriate treatment strategies.</li>
 </ul>

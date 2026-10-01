@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Healthy Olive Oil: Benefits & More" />
     <meta property="og:description" content="Discover the heart-healthy benefits of olive oil for cardiovascular wellness and cholesterol reduction." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-olive-oil" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-olive-oil" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-olive-oil" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-olive-oil" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Healthy Olive Oil",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-olive-oil"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-olive-oil"
         }
     ]
 }
@@ -136,7 +136,7 @@
 <ul>
 <li>Olive oil contains antioxidants that can protect your blood vessels.</li>
 <li>Regular consumption of olive oil can help lower blood pressure levels.</li>
-<li>Adding olive oil to your diet may reduce the risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Adding olive oil to your diet may reduce the risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="olive-oil-benefits">Olive Oil Benefits</h2>
 <p>What are the specific benefits of incorporating olive oil into your daily meals? Olive oil offers a wide range of advantages that go beyond just cardiovascular health. Let's take a look at some of the key benefits:</p>

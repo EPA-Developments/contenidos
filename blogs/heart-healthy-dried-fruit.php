@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Healthy Dried Fruit Benefits" />
     <meta property="og:description" content="Discover the benefits of heart-healthy dried fruit for a nutritious diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-dried-fruit" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-dried-fruit" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-dried-fruit" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-dried-fruit" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Healthy Dried Fruit",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-healthy-dried-fruit"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-healthy-dried-fruit"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>By including dried fruits in your diet, you can enjoy a delicious treat while taking care of your heart health.</p>
 <h2 class="sec-scrl" id="low-sodium-dried-fruits">Low Sodium Dried Fruits</h2>
-<p>One of the key benefits of dried fruits is that they are naturally low in sodium, making them an ideal snack for individuals looking to reduce their sodium intake. High sodium consumption is linked to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, which is a risk factor for heart disease. By choosing low-sodium dried fruits, you can enjoy a flavorful snack without worrying about increasing your sodium levels.</p>
+<p>One of the key benefits of dried fruits is that they are naturally low in sodium, making them an ideal snack for individuals looking to reduce their sodium intake. High sodium consumption is linked to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, which is a risk factor for heart disease. By choosing low-sodium dried fruits, you can enjoy a flavorful snack without worrying about increasing your sodium levels.</p>
 <p>Some popular low-sodium dried fruits include apricots, prunes, and raisins. These fruits are not only delicious but also provide essential nutrients that support heart health.</p>
 <h2 class="sec-scrl" id="heart-healthy-snacks">Heart Healthy Snacks</h2>
 <p>Switching to heart-healthy snacks like dried fruits can have a significant impact on your overall well-being. Instead of reaching for processed snacks high in unhealthy fats and sugars, opt for nutrient-dense dried fruits that provide a natural sweetness without compromising your heart health.</p>

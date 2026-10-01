@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heavy Breathing at Night: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Heavy breathing at night can be related to heart problems. Know more about the causes, symptoms, diagnosis, and treatment for this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heavy-breathing-at-night">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heavy-breathing-at-night">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heavy-breathing-at-night" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heavy-breathing-at-night" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heavy Breathing At Night",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heavy-breathing-at-night"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heavy-breathing-at-night"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Heavy Breathing at Night: Causes, Symptoms, and Diagnosis</h1>
-<p>Heavy breathing at night, also known as nocturnal <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, refers to the sensation of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> during sleep. This condition can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a> while sleeping, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> at night, or nighttime <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</p>
+<p>Heavy breathing at night, also known as nocturnal <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, refers to the sensation of <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> during sleep. This condition can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a> while sleeping, <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> at night, or nighttime <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</p>
 <p>It is often a result of an underlying health issue, such as heart disease or sleep apnea. Heavy breathing at night can be distressing and disruptive to sleep, leading to fatigue and reduced quality of life.</p>
 <h2 id="forms">What are the Forms of Heavy breathing at night?</h2>
 <p>Different forms of heavy breathing at night can present with varying symptoms and severity.</p>
@@ -220,14 +220,14 @@
 <li>Medications: Diuretics for heart failure, bronchodilators for lung conditions, or CPAP therapy for sleep apnea.</li>
 <li>Lifestyle changes: Weight loss, smoking cessation, regular exercise, and avoiding triggers like allergens or irritants.</li>
 <li>Oxygen therapy: Supplemental oxygen may be prescribed for severe breathing difficulties.</li>
-<li>Surgery: In some cases, procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> or lung volume reduction surgery may be necessary.</li>
+<li>Surgery: In some cases, procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-surgery">coronary artery bypass surgery</a> or lung volume reduction surgery may be necessary.</li>
 <li>Behavioral therapy: Cognitive-behavioral therapy for insomnia or anxiety management techniques can help improve sleep quality.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of heavy breathing at night, such as:</p>
 <ul>
-<li>Waking up <a href="https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air">gasping for air</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li>Waking up <a href="https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air">gasping for air</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
 <li>Rapid or irregular heartbeat</li>
 <li>Severe fatigue or dizziness</li>
 <li>Sudden weight gain or swelling in the legs</li>

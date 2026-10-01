@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic disease affects the aorta, often leading to serious conditions. Read more on its causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-disease"
       }]
     }
   </script>
@@ -161,27 +161,27 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Aortic Disease</h1>
-<p>Aortic Disease refers to conditions affecting the aorta, the body's main artery. It's significant because the aorta carries oxygen-rich blood from the heart to the rest of the body. Aortic disease can lead to serious complications like aneurysms or dissections if left untreated. It's quite prevalent, with an estimated 1-2% of the population having an <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a>. Early detection and management are crucial in preventing potentially life-threatening events associated with aortic disease. Regular check-ups and lifestyle modifications can help manage this condition effectively.</p>
+<p>Aortic Disease refers to conditions affecting the aorta, the body's main artery. It's significant because the aorta carries oxygen-rich blood from the heart to the rest of the body. Aortic disease can lead to serious complications like aneurysms or dissections if left untreated. It's quite prevalent, with an estimated 1-2% of the population having an <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a>. Early detection and management are crucial in preventing potentially life-threatening events associated with aortic disease. Regular check-ups and lifestyle modifications can help manage this condition effectively.</p>
 <h2 id="causes">Causes of Aortic Disease</h2>
 <p><h3>Main Factors Contributing to Aortic Disease:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Smoking</li>
 <li>Aging</li>
 <li>Family history of aortic aneurysms or dissections</li>
-<li>Genetic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome</li>
-<li>Build-up of plaque in the arteries (<a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>)</li>
+<li>Genetic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> or Ehlers-Danlos syndrome</li>
+<li>Build-up of plaque in the arteries (<a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>)</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Disease</h2>
 <p>Recognizing the symptoms of Aortic Disease is crucial as early detection can significantly improve outcomes. Symptoms may vary depending on the type and severity of the condition. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
 <li>Difficulty swallowing</li>
 <li>Hoarseness</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
 <li>Dizziness or fainting</li>
 </ul>

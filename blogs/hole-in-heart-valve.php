@@ -10,12 +10,12 @@
     <meta property="og:title" content="Diagnosing a Hole in the Heart Valve" />
     <meta property="og:description" content="Learn about diagnosing a hole in the heart valve: from tests to treatment options. Find out more here!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hole-in-heart-valve" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hole-in-heart-valve" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hole-in-heart-valve" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hole-in-heart-valve" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hole In Heart Valve",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hole-in-heart-valve"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hole-in-heart-valve"
         }
     ]
 }
@@ -169,15 +169,15 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Diagnosing a Hole in the Heart Valve</h1>
-<p>Are you experiencing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or fatigue that seem to hinder your daily activities? Have you been wondering what could be causing these issues, especially if you have a history of heart defects? Understanding how a hole in the heart valve is diagnosed can provide clarity and guide you towards appropriate treatment.</p>
+<p>Are you experiencing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or fatigue that seem to hinder your daily activities? Have you been wondering what could be causing these issues, especially if you have a history of heart defects? Understanding how a hole in the heart valve is diagnosed can provide clarity and guide you towards appropriate treatment.</p>
 <h2 class="sec-scrl" id="atrial-septal-defect">What is an Atrial Septal Defect?</h2>
 <p>An atrial septal defect (ASD) is a common congenital heart defect where there is a hole in the wall (septum) that separates the upper chambers of the heart. This opening allows oxygen-rich blood from the left atrium to mix with oxygen-poor blood in the right atrium, affecting the efficiency of blood circulation in the body.</p>
 <ul>
-<li>ASD may cause symptoms like fatigue, shortness of breath, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>.</li>
-<li>Diagnosis of ASD involves physical exams, imaging tests like echocardiograms, and possibly <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>.</li>
+<li>ASD may cause symptoms like fatigue, shortness of breath, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>.</li>
+<li>Diagnosis of ASD involves physical exams, imaging tests like echocardiograms, and possibly <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-valve-surgery">What Happens During Heart Valve Surgery?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-valve-surgery">heart valve surgery</a> is a procedure to repair or replace diseased heart valves, which may include addressing holes in the heart valves. During the surgery, the damaged valve is either repaired or completely replaced with a mechanical or biological valve to restore normal blood flow through the heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/heart-valve-surgery">heart valve surgery</a> is a procedure to repair or replace diseased heart valves, which may include addressing holes in the heart valves. During the surgery, the damaged valve is either repaired or completely replaced with a mechanical or biological valve to restore normal blood flow through the heart.</p>
 <ul>
 <li>Heart valve surgery is often recommended when medications or less invasive procedures are ineffective.</li>
 <li>Recovery from heart valve surgery may involve a hospital stay and a period of rehabilitation.</li>

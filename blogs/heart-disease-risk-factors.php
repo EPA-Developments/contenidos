@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peanut Butter and Heart Health&quot;" />
     <meta property="og:description" content="Discover how peanut butter influences heart disease risk factors. Learn about risk reduction, heart disease prevention, healthy fats, and lifestyle changes." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-risk-factors" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-disease-risk-factors" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-risk-factors" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-disease-risk-factors" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Disease Risk Factors",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-disease-risk-factors"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-disease-risk-factors"
         }
     ]
 }
@@ -131,8 +131,8 @@
               <h1>The Effects of Peanut Butter on Heart Health</h1>
 <p>Are you concerned about heart disease risk factors affecting your daily life? How can you manage these risks to lead a healthier lifestyle?</p>
 <h2 class="sec-scrl" id="heart-disease-risk-factors">Understanding Heart Disease Risk Factors</h2>
-<p>Heart disease risk factors are conditions or habits that make a person more likely to develop heart disease. These factors can include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, smoking, diabetes, obesity, unhealthy diet, lack of physical activity, and excessive alcohol consumption. Understanding these risk factors is crucial for taking proactive steps towards prevention.</p>
-<p>High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can strain the heart, arteries, and kidneys over time. Elevated cholesterol levels can lead to the buildup of plaques in the arteries, increasing the risk of heart attacks and strokes. Smoking damages the blood vessels and can cause <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up inside the arteries.</p>
+<p>Heart disease risk factors are conditions or habits that make a person more likely to develop heart disease. These factors can include <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, smoking, diabetes, obesity, unhealthy diet, lack of physical activity, and excessive alcohol consumption. Understanding these risk factors is crucial for taking proactive steps towards prevention.</p>
+<p>High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can strain the heart, arteries, and kidneys over time. Elevated cholesterol levels can lead to the buildup of plaques in the arteries, increasing the risk of heart attacks and strokes. Smoking damages the blood vessels and can cause <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up inside the arteries.</p>
 <h2 class="sec-scrl" id="risk-reduction">Reducing Heart Disease Risk</h2>
 <p>What measures can you take to reduce your risk of heart disease? Making lifestyle changes is key to lowering your risk factors and improving heart health. Here are some effective strategies:</p>
 <ul>

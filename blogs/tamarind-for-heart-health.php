@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Tamarind: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Explore the cardiovascular benefits of tamarind for a healthy heart. Learn about tamarind antioxidants, cholesterol, and heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamarind For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-heart-health"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Tamarind contains potent antioxidants like vitamin C, flavonoids, and polyphenols, which help protect the heart from damage caused by free radicals. These antioxidants work to reduce inflammation in the body and improve blood flow, ultimately benefiting cardiovascular health.</p>
 <p>Studies have shown that the antioxidants in tamarind can help lower LDL (bad) cholesterol levels and increase HDL (good) cholesterol levels. By maintaining a healthy balance of cholesterol, you can reduce your risk of heart disease and keep your heart functioning optimally.</p>
 <h2 class="sec-scrl" id="tamarind-for-cholesterol">Tamarind for Managing Cholesterol Levels</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a major risk factor for heart disease, but tamarind may offer a natural solution. The fiber content in tamarind helps prevent the absorption of cholesterol in the intestines, leading to lower overall cholesterol levels in the body.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a major risk factor for heart disease, but tamarind may offer a natural solution. The fiber content in tamarind helps prevent the absorption of cholesterol in the intestines, leading to lower overall cholesterol levels in the body.</p>
 <p>Furthermore, tamarind has been shown to inhibit the enzyme responsible for producing cholesterol in the liver. By incorporating tamarind into your diet, you can potentially lower your LDL cholesterol levels and reduce the buildup of plaques in the arteries, promoting a healthier heart.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">Preventing Heart Disease with Tamarind</h2>
 <p>Heart disease is a leading cause of death worldwide, but incorporating tamarind into your diet may help reduce your risk. Tamarind's anti-inflammatory properties can help protect the heart and blood vessels from damage, lowering the risk of heart attacks and strokes.</p>

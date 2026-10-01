@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Improving Blood Flow with Valvuloplasty in Heart Valve Disease">
   <meta property="og:description" content="Learn how valvuloplasty can effectively improve blood flow in heart valve disease. Discover the benefits of this procedure for better heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Improving Blood Flow With Valvuloplasty In Heart Valve Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/improving-blood-flow-with-valvuloplasty-in-heart-valve-disease"  
       }]
     }
   </script>

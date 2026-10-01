@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Kounis Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Kounis Syndrome links allergic reactions to heart conditions. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/kounis-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/kounis-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/kounis-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/kounis-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Kounis Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/kounis-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/kounis-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Kounis Syndrome</h1>
-<p>Kounis Syndrome, also known as allergic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> or allergic <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, is a condition where a person experiences <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> symptoms due to an allergic reaction. This syndrome is essential because it highlights the link between allergies and heart issues, emphasizing the importance of recognizing and managing allergic triggers. Although relatively rare, its prevalence is increasing due to rising allergy rates globally. Understanding Kounis Syndrome is crucial for prompt diagnosis and appropriate treatment to prevent severe cardiac complications.</p>
+<p>Kounis Syndrome, also known as allergic <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> or allergic <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, is a condition where a person experiences <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> symptoms due to an allergic reaction. This syndrome is essential because it highlights the link between allergies and heart issues, emphasizing the importance of recognizing and managing allergic triggers. Although relatively rare, its prevalence is increasing due to rising allergy rates globally. Understanding Kounis Syndrome is crucial for prompt diagnosis and appropriate treatment to prevent severe cardiac complications.</p>
 <h2 id="causes">Causes of Kounis Syndrome</h2>
 <p>Kounis Syndrome, an allergic reaction causing heart issues, can be triggered by various factors:
 
@@ -177,10 +177,10 @@
 
 <ul>
 <li>Chest pain or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or lightheadedness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or lightheadedness</li>
 </ul></p>
 <h2>Diagnosis of Kounis Syndrome</h2>
 <p>Kounis Syndrome is a rare but serious condition where a severe allergic reaction triggers acute coronary syndrome. Accurate and timely diagnosis is crucial to prevent complications like heart attacks. The diagnostic process involves a combination of clinical evaluation, allergy testing, and cardiac assessments. 

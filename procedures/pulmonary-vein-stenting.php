@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Vein Stenting Procedure for Cardiac Vein Treatment">
   <meta property="og:description" content="Learn about the minimally invasive pulmonary vein stenting procedure for treating cardiac conditions. Find out more about pulmonary vein treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-stenting">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-stenting">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-stenting" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-stenting" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary vein stenting",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-vein-stenting"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/pulmonary-vein-stenting"  
       }]
     }
   </script>

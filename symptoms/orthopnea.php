@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Orthopnea: Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="Struggling with orthopnea? Read more about its symptoms, causes, diagnosis, and treatment to get the help you need for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/orthopnea">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/orthopnea">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/orthopnea" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/orthopnea" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Orthopnea",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/orthopnea"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/orthopnea"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Orthopnea: Symptoms, Causes, treatment and Diagnosis</h1>
-<p>Orthopnea is a medical condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> while lying down. People with orthopnea often experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> when lying flat and may find relief only when sitting or standing upright.</p>
+<p>Orthopnea is a medical condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> while lying down. People with orthopnea often experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> when lying flat and may find relief only when sitting or standing upright.</p>
 <p>This condition can lead to sleeping breathing problems, restlessness in bed, and orthopneic breathing difficulty.</p>
 <p>Orthopnea is commonly associated with heart failure, sleep apnea, and chronic obstructive pulmonary disease (COPD). It is crucial to recognize the symptoms of orthopnea to seek appropriate medical attention and effective treatment.</p>
 <h2 id="forms">What are the Forms of Orthopnea?</h2>
@@ -195,7 +195,7 @@
 <li>Shortness of breath when lying down</li>
 <li>Difficulty breathing while lying flat</li>
 <li>Sleeping breathing problems</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> in supine position</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> in supine position</li>
 <li>Breathing issues while reclining</li>
 <li>Restlessness in bed</li>
 <li>Orthopneic breathing difficulty</li>
@@ -218,7 +218,7 @@
 </ul>
 <p>Advanced diagnostic methods may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To evaluate the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To evaluate the heart's structure and function.</li>
 <li>Pulmonary function tests: To assess lung function and capacity.</li>
 <li>Sleep studies: To diagnose sleep apnea or other sleep-related breathing disorders.</li>
 </ul>
@@ -234,7 +234,7 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience symptoms of orthopnea, such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a> when lying down.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a> when lying down.</li>
 <li>Persistent difficulty breathing while reclining.</li>
 <li>Sudden onset of orthopneic symptoms.</li>
 <li>Feeling like you cannot catch your breath, even when sitting up.</li>

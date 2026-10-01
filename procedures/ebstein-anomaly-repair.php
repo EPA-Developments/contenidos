@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ebstein Anomaly Repair: Procedure, Benefits, Risks, Indications & Recovery">
   <meta property="og:description" content="Learn about Ebstein anomaly repair, a surgical procedure to correct this heart defect. Discover the benefits, risks, indications, success rate, and recovery process.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/ebstein-anomaly-repair">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/ebstein-anomaly-repair">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/ebstein-anomaly-repair" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/ebstein-anomaly-repair" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ebstein anomaly repair",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/ebstein-anomaly-repair"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/ebstein-anomaly-repair"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Percutaneous Valve Therapies: Non-Invasive Heart Valve Treatments">
   <meta property="og:description" content="Discover the benefits of Percutaneous Valve Therapies, a non-invasive solution for heart valve issues. Valve therapy without surgery and other innovative interventions available.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-valve-therapies">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-valve-therapies">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-valve-therapies" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-valve-therapies" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Percutaneous Valve Therapies",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-valve-therapies"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/percutaneous-valve-therapies"  
       }]
     }
   </script>

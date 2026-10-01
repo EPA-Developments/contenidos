@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blood Clot in Nail: Symptoms and Treatment Guide">
   <meta property="og:description" content="Learn about the causes and treatment options for a blood clot in the nail. Discover what this condition means and how to address it effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-nail-symptoms-treatment">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-nail-symptoms-treatment">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-nail-symptoms-treatment" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-nail-symptoms-treatment" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blood Clot In Nail: Symptoms And Treatment Guide",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-nail-symptoms-treatment"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-nail-symptoms-treatment"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Guava Benefits for Women's Heart Health" />
     <meta property="og:description" content="Discover how guava can help prevent heart disease in women naturally. Improve your heart health with guava today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-for-women-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-for-women-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-for-women-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-for-women-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava For Women  Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-for-women-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-for-women-heart-health"
         }
     ]
 }
@@ -141,7 +141,7 @@
 </ul>
 <h2 class="sec-scrl" id="guava-for-heart-disease-prevention">Guava for Heart Disease Prevention</h2>
 <p>When it comes to preventing heart disease, guava offers a natural and delicious solution for women. The nutrients present in guava have been shown to have a positive impact on various aspects of heart health, making it an excellent choice for inclusion in a heart-healthy diet.</p>
-<p>Guava contains lycopene, a powerful antioxidant known for its heart-protective properties. Lycopene helps reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries, which can lead to heart attacks and strokes. By incorporating guava into your daily routine, you can support your heart's health and reduce the likelihood of cardiovascular issues.</p>
+<p>Guava contains lycopene, a powerful antioxidant known for its heart-protective properties. Lycopene helps reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by the buildup of plaque in the arteries, which can lead to heart attacks and strokes. By incorporating guava into your daily routine, you can support your heart's health and reduce the likelihood of cardiovascular issues.</p>
 <ul>
 <li>The vitamin K in guava promotes proper blood clotting and heart health.</li>
 <li>Guava's anti-inflammatory properties can reduce the risk of heart disease.</li>

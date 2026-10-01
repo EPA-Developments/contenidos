@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vascular Calcification: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Vascular Calcification leads to artery hardening, affecting circulation. Know more about its symptoms, causes, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/vascular-calcification">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/vascular-calcification">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/vascular-calcification" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/vascular-calcification" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Vascular Calcification",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/vascular-calcification"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/vascular-calcification"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Vascular Calcification</h1>
-<p>Vascular calcification occurs when calcium deposits build up in the blood vessels, leading to hardening and narrowing. This condition is significant as it can restrict blood flow, raise blood pressure, and increase the risk of heart disease and stroke. Vascular calcification is prevalent among older adults and individuals with conditions like diabetes, chronic kidney disease, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Understanding this process is crucial for managing cardiovascular health and preventing complications. Regular check-ups and a healthy lifestyle can help mitigate the impact of vascular calcification.</p>
+<p>Vascular calcification occurs when calcium deposits build up in the blood vessels, leading to hardening and narrowing. This condition is significant as it can restrict blood flow, raise blood pressure, and increase the risk of heart disease and stroke. Vascular calcification is prevalent among older adults and individuals with conditions like diabetes, chronic kidney disease, and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Understanding this process is crucial for managing cardiovascular health and preventing complications. Regular check-ups and a healthy lifestyle can help mitigate the impact of vascular calcification.</p>
 <h2 id="causes">Causes of Vascular Calcification</h2>
 <p><ul>
 <li>Chronic kidney disease: Impaired kidney function can lead to mineral imbalances.</li>
 <li>Diabetes: High blood sugar levels can promote calcification of blood vessels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: Increased pressure in the arteries can contribute to vessel damage.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>: Elevated levels can lead to plaque buildup and calcification.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: Increased pressure in the arteries can contribute to vessel damage.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>: Elevated levels can lead to plaque buildup and calcification.</li>
 <li>Age: Vascular calcification tends to increase with age.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Vascular Calcification</h2>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron Impact on Blood Pressure in Heart Patients&quot;" />
     <meta property="og:description" content="Discover how iron levels impact blood pressure in heart patients and the importance of maintaining optimal iron levels for cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-and-blood-pressure"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Iron on Blood Pressure in Heart Patients</h1>
-<p>Do you often feel fatigued, dizzy, or short of breath? Have you been diagnosed with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and wonder how iron levels play a role in your condition? The relationship between iron and blood pressure is crucial for heart patients, impacting daily activities and overall well-being.</p>
+<p>Do you often feel fatigued, dizzy, or short of breath? Have you been diagnosed with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and wonder how iron levels play a role in your condition? The relationship between iron and blood pressure is crucial for heart patients, impacting daily activities and overall well-being.</p>
 <h2 class="sec-scrl" id="iron-levels">Impact of Iron Levels on Blood Pressure</h2>
 <p>Iron plays a significant role in maintaining proper blood circulation and cardiovascular function. Low iron levels can lead to anemia, causing a decrease in blood volume and oxygen delivery to tissues. This, in turn, can affect blood pressure regulation, potentially worsening hypertension in heart patients.</p>
-<p>Iron deficiency anemia is a common condition that not only results in fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> but can also contribute to elevated blood pressure levels. Ensuring adequate iron intake through diet or supplements is essential for managing blood pressure in individuals with heart issues.</p>
+<p>Iron deficiency anemia is a common condition that not only results in fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> but can also contribute to elevated blood pressure levels. Ensuring adequate iron intake through diet or supplements is essential for managing blood pressure in individuals with heart issues.</p>
 <h2 class="sec-scrl" id="hypertension">The Link Between Iron and Hypertension</h2>
-<p>Hypertension, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a common concern for heart patients. Studies have shown a correlation between low iron levels and an increased risk of developing hypertension. Iron deficiency can lead to changes in blood vessel function, impacting blood pressure regulation.</p>
+<p>Hypertension, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a common concern for heart patients. Studies have shown a correlation between low iron levels and an increased risk of developing hypertension. Iron deficiency can lead to changes in blood vessel function, impacting blood pressure regulation.</p>
 <ul>
 <li>Iron is crucial for the production of red blood cells, which transport oxygen throughout the body.</li>
 <li>Inadequate iron levels can affect the elasticity of blood vessels, potentially raising blood pressure readings.</li>
@@ -146,7 +146,7 @@
 <h2 class="sec-scrl" id="low-iron-symptoms">Recognizing Symptoms of Low Iron</h2>
 <p>Low iron levels can manifest in various symptoms that may affect daily life and exacerbate existing health conditions like hypertension. Recognizing the signs of iron deficiency is crucial for timely intervention and management.</p>
 <ul>
-<li>Common symptoms of low iron include fatigue, weakness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li>Common symptoms of low iron include fatigue, weakness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 <li>Individuals with hypertension should be vigilant about monitoring their iron levels and addressing any deficiency promptly.</li>
 <li>Consulting with a healthcare provider for proper testing and treatment is essential for maintaining overall health and managing blood pressure effectively.</li>
 </ul>

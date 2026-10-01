@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Familial Hypertension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Familial Hypertension increases the risk of high blood pressure. Know more about its causes, symptoms, and treatment to maintain cardiovascular health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/familial-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/familial-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Familial Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/familial-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/familial-hypertension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Familial Hypertension</h1>
-<p>Familial hypertension refers to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> that tends to run in families. It's significant because having relatives with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> increases your risk of developing it. This condition is quite common, affecting a significant portion of the population. Understanding your family history of hypertension can help you take preventive measures to lower your risk. By adopting a healthy lifestyle, monitoring your blood pressure regularly, and seeking medical advice when needed, you can manage familial hypertension effectively.</p>
+<p>Familial hypertension refers to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> that tends to run in families. It's significant because having relatives with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> increases your risk of developing it. This condition is quite common, affecting a significant portion of the population. Understanding your family history of hypertension can help you take preventive measures to lower your risk. By adopting a healthy lifestyle, monitoring your blood pressure regularly, and seeking medical advice when needed, you can manage familial hypertension effectively.</p>
 <h2 id="causes">Causes of Familial Hypertension</h2>
 <p>Familial hypertension, also known as high blood pressure that runs in families, can be influenced by several factors:
 
@@ -177,8 +177,8 @@
 <ul>
 <li>Elevated blood pressure levels</li>
 <li>Frequent headaches</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Fatigue</li>
 </ul>
 

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range and purpose of Endomyocardial Biopsy" property="og:title"/>
 <meta content="Endomyocardial biopsy samples heart tissue to diagnose conditions. Read more about its purpose, costs, and normal Range for accurate diagnosis." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/endomyocardial-biopsy" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/endomyocardial-biopsy" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/endomyocardial-biopsy" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/endomyocardial-biopsy" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endomyocardial Biopsy",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/endomyocardial-biopsy"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/endomyocardial-biopsy"  
       }]
     }
   </script>
@@ -159,8 +159,8 @@
 <p>Endomyocardial biopsy is a diagnostic procedure that involves taking a small sample of heart tissue from the inner lining of the heart, specifically the myocardium.</p>
 <p>This procedure is typically performed using a catheter that is inserted into a vein in the neck or groin and guided to the heart.</p>
 <p>The sample obtained is then examined under a microscope to look for abnormalities such as inflammation, fibrosis, or infiltrative diseases.</p>
-<p>Examples of conditions that can be diagnosed using endomyocardial biopsy include <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, cardiac fibrosis, <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> rejection, and infiltrative cardiac diseases.</p>
-<p>By analyzing the tissue sample, healthcare providers can determine the underlying cause of symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or abnormal heart rhythms.</p>
+<p>Examples of conditions that can be diagnosed using endomyocardial biopsy include <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, cardiac fibrosis, <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> rejection, and infiltrative cardiac diseases.</p>
+<p>By analyzing the tissue sample, healthcare providers can determine the underlying cause of symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or abnormal heart rhythms.</p>
 <p>Endomyocardial biopsy is a valuable tool in the field of cardiology as it provides important information about the structure and function of the heart muscle.</p>
 <p>It helps in making accurate diagnoses and guiding treatment decisions for patients with various heart conditions.</p>
 <h2 id="purpose">What is the Purpose of Performing an Endomyocardial Biopsy Test?</h2>

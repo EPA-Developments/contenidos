@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Valve Insufficiency: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pulmonary valve insufficiency involves valve leakage. Read more about its symptoms, causes, and treatment options for heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-insufficiency">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-insufficiency">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-insufficiency" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-insufficiency" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulmonary Valve Insufficiency",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-insufficiency"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-insufficiency"
       }]
     }
   </script>
@@ -161,11 +161,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Pulmonary Valve Insufficiency</h1>
-<p>Pulmonary Valve Insufficiency occurs when the pulmonary valve doesn't close properly, allowing blood to leak back into the heart. This can strain the heart over time. While not as common as other heart conditions, it can still impact daily life. It's crucial to monitor symptoms like fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. Early detection and management are key to maintaining heart health. If you experience any symptoms, consult a healthcare professional for guidance and appropriate care.</p>
+<p>Pulmonary Valve Insufficiency occurs when the pulmonary valve doesn't close properly, allowing blood to leak back into the heart. This can strain the heart over time. While not as common as other heart conditions, it can still impact daily life. It's crucial to monitor symptoms like fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. Early detection and management are key to maintaining heart health. If you experience any symptoms, consult a healthcare professional for guidance and appropriate care.</p>
 <h2 id="causes">Causes of Pulmonary Valve Insufficiency</h2>
 <p><ul>
 <li>Congenital heart defects</li>
-<li>Infections such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
+<li>Infections such as <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
 <li>Previous heart surgeries</li>
 <li>Connective tissue disorders</li>
 <li>Age-related wear and tear</li>
@@ -176,9 +176,9 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li>Fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul> 
 
 If you experience any of these symptoms, especially if they persist or worsen over time, it's essential to consult with a healthcare provider promptly for a proper evaluation and timely intervention. Early detection and management play a vital role in optimizing the treatment outcomes for Pulmonary Valve Insufficiency.</p>
@@ -186,10 +186,10 @@ If you experience any of these symptoms, especially if they persist or worsen ov
 <p>Accurate diagnosis of Pulmonary Valve Insufficiency is crucial for timely intervention and management. The diagnostic process typically involves a combination of clinical assessments and imaging studies to determine the severity of the condition. 
 
 <ul>
-<li>Physical examination to detect heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a> or other abnormal sounds.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to evaluate the structure and function of the pulmonary valve.</li>
+<li>Physical examination to detect heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a> or other abnormal sounds.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to evaluate the structure and function of the pulmonary valve.</li>
 <li>Cardiac MRI or CT scans for detailed imaging of the heart and valves.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess the heart's electrical activity.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Pulmonary Valve Insufficiency</h2>
 <p>When it comes to treating Pulmonary Valve Insufficiency, individualized care is crucial for the best outcomes. Here are the main approaches to treating this condition:

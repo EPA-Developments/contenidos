@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Small Dense Ldl Measurement: Purpose, and Normal Range" property="og:title"/>
 <meta content="Small dense LDL measurement checks harmful cholesterol levels. Know more about its purpose, cost, and normal Range for heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/small-dense-ldl-measurement" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/small-dense-ldl-measurement" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/small-dense-ldl-measurement" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/small-dense-ldl-measurement" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Small Dense LDL Measurement",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/small-dense-ldl-measurement"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/small-dense-ldl-measurement"  
       }]
     }
   </script>
@@ -177,7 +177,7 @@
 <div class="article-content">
 <h1>Purpose, and Normal Range of Small Dense Ldl Measurement</h1>
 <p>Small Dense LDL Measurement refers to a specialized diagnostic pathology test that evaluates the levels of small, dense low-density lipoprotein (LDL) particles in the blood.</p>
-<p>Unlike larger, fluffy LDL particles, small dense LDL particles are more atherogenic, meaning they are more likely to contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular disease.</p>
+<p>Unlike larger, fluffy LDL particles, small dense LDL particles are more atherogenic, meaning they are more likely to contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and cardiovascular disease.</p>
 <p>To put it simply, small dense LDL particles are more easily able to penetrate the arterial wall, leading to the formation of plaques that can ultimately result in heart attacks and strokes.</p>
 <p>Measuring the levels of small dense LDL can provide valuable insights into an individual's cardiovascular risk profile.</p>
 <p>When it comes to evaluating cardiovascular risk, small dense LDL measurement plays a crucial role. By identifying and monitoring these atherogenic particles, healthcare providers can better assess a person's likelihood of developing heart disease and tailor appropriate preventive strategies.</p>
@@ -217,7 +217,7 @@
 <p>Individuals with high levels of small dense LDL particles may be at greater risk of developing heart disease and experiencing cardiovascular events.</p>
 <p>Risks associated with high Small Dense LDL Measurement levels include a higher likelihood of plaque formation in the arteries, increased inflammation, and reduced blood flow to the heart muscle.</p>
 <p>Over time, these factors can lead to the development of atherosclerosis and an increased risk of heart attacks and strokes.</p>
-<p>Individuals with high Small Dense LDL Measurement levels may benefit from lifestyle modifications, such as adopting a heart-healthy diet, engaging in regular physical activity, quitting smoking, and managing other risk factors like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and diabetes.</p>
+<p>Individuals with high Small Dense LDL Measurement levels may benefit from lifestyle modifications, such as adopting a heart-healthy diet, engaging in regular physical activity, quitting smoking, and managing other risk factors like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and diabetes.</p>
 <p>In some cases, medication may be prescribed to lower LDL cholesterol levels and reduce cardiovascular risk.</p>
 <h2>What Do Low Small Dense LDL Measurement Levels Indicate?</h2>
 <p>Low Small Dense LDL Measurement levels may indicate a lower risk of cardiovascular disease, as small dense LDL particles are more atherogenic than larger, fluffy LDL particles.</p>

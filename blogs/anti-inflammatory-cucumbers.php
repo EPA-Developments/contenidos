@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cucumbers: Heart-Healthy Anti-Inflammatory&quot;" />
     <meta property="og:description" content="Discover how cucumbers combat heart inflammation naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-cucumbers" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-cucumbers" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-cucumbers" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-cucumbers" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anti Inflammatory Cucumbers",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-cucumbers"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-cucumbers"
         }
     ]
 }
@@ -146,7 +146,7 @@
 <li>The high water content in cucumbers aids in flushing out toxins that contribute to inflammation.</li>
 </ul>
 <h2 class="sec-scrl" id="inflammation">Understanding Inflammation and Its Impact on the Heart</h2>
-<p>Inflammation plays a significant role in the development and progression of heart disease. Chronic inflammation in the cardiovascular system can lead to various health issues, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and increased risk of heart attacks and strokes.</p>
+<p>Inflammation plays a significant role in the development and progression of heart disease. Chronic inflammation in the cardiovascular system can lead to various health issues, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and increased risk of heart attacks and strokes.</p>
 <ul>
 <li>Cardiovascular inflammation damages the inner lining of blood vessels.</li>
 <li>Inflammation contributes to the formation of plaques that can obstruct blood flow.</li>

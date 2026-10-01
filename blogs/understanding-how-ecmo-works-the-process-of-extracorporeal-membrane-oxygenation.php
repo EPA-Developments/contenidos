@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding How ECMO Works: The Process of Extracorporeal Membrane Oxygenation">
   <meta property="og:description" content="Learn how ECMO works in this informative guide. Discover the process behind Extracorporeal Membrane Oxygenation and its life-saving capabilities.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding How Ecmo Works: The Process Of Extracorporeal Membrane Oxygenation",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-how-ecmo-works-the-process-of-extracorporeal-membrane-oxygenation"  
       }]
     }
   </script>

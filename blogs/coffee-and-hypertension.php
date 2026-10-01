@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coffee and Hypertension: Effects Explored" />
     <meta property="og:description" content="Explore the effects of coffee on hypertension and discover ways to manage blood pressure effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coffee-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coffee And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coffee-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coffee-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Coffee on Hypertension</h1>
-<p>Are you a coffee lover who also struggles with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? The relationship between coffee consumption and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can be a confusing one for many. How does your daily cup of joe impact your blood pressure levels? Let's delve into the effects of regular coffee intake on hypertension and how it may be affecting your daily activities.</p>
+<p>Are you a coffee lover who also struggles with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? The relationship between coffee consumption and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can be a confusing one for many. How does your daily cup of joe impact your blood pressure levels? Let's delve into the effects of regular coffee intake on hypertension and how it may be affecting your daily activities.</p>
 <h2 class="sec-scrl" id="caffeine-effects-on-blood-pressure">Caffeine Effects on Blood Pressure</h2>
 <p>Caffeine, a key component of coffee, is known to have various effects on the body, including its impact on blood pressure. When consumed, caffeine can lead to a temporary spike in blood pressure levels. This is because caffeine acts as a stimulant, causing your heart to beat faster and your blood vessels to narrow, which can result in higher blood pressure readings.</p>
 <p>For individuals with hypertension, this temporary rise in blood pressure can be a cause for concern. It's essential to monitor your caffeine intake, including coffee consumption, to understand how it may be affecting your blood pressure levels over time.</p>

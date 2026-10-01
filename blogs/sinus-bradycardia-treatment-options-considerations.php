@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sinus Bradycardia Treatment Options and Considerations">
   <meta property="og:description" content="Discover effective treatment options for sinus bradycardia with our comprehensive guide. Explore considerations for managing sinus bradycardia treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sinus-bradycardia-treatment-options-considerations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sinus-bradycardia-treatment-options-considerations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sinus-bradycardia-treatment-options-considerations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sinus-bradycardia-treatment-options-considerations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sinus Bradycardia Treatment Options And Considerations",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/sinus-bradycardia-treatment-options-considerations"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/sinus-bradycardia-treatment-options-considerations"  
       }]
     }
   </script>

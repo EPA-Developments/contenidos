@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cantu Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cantu syndrome is a rare genetic disorder affecting heart and bones. Read about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cantu-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cantu-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cantu-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cantu-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cantu Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cantu-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cantu-syndrome"
       }]
     }
   </script>
@@ -189,7 +189,7 @@ Being aware of these signs can lead to prompt diagnosis and intervention, potent
 <ul>
 <li>Clinical assessment to identify characteristic features like hypertrichosis and cardiovascular abnormalities.</li>
 <li>Genetic testing to detect mutations in the ABCC9 or KCNJ8 genes.</li>
-<li>Imaging studies such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart abnormalities.</li>
+<li>Imaging studies such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart abnormalities.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Cantu Syndrome</h2>
 <p>When it comes to treating Cantu Syndrome, a personalized approach is crucial to address individual needs effectively. Here are the main treatment approaches:

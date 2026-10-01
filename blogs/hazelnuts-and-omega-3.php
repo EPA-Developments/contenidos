@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hazelnuts: Heart Health Omega Source&quot;" />
     <meta property="og:description" content="Discover how hazelnuts can boost heart health with their omega-3 content. Learn more about the benefits of hazelnuts for your heart today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-omega-3" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-omega-3" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-omega-3" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-omega-3" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hazelnuts And Omega 3",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-omega-3"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-omega-3"
         }
     ]
 }
@@ -150,7 +150,7 @@
 <p>The anti-inflammatory properties of hazelnuts play a vital role in protecting the heart. Chronic inflammation is a key contributor to various cardiovascular diseases, and hazelnuts can help combat this issue. Here's how hazelnuts' anti-inflammatory properties benefit heart health:</p>
 <ul>
 <li>Reducing inflammation in blood vessels and promoting better circulation</li>
-<li>Lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in arteries</li>
+<li>Lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in arteries</li>
 <li>Supporting overall heart health by reducing the inflammatory load on the cardiovascular system</li>
 </ul>
 <p>Incorporating hazelnuts into your diet can be a delicious way to fight inflammation and support your heart's well-being.</p>

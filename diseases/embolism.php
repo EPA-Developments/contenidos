@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Embolism: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Embolism blocks blood flow and may cause serious health risks. Read more about its symptoms, causes, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/embolism">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/embolism">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/embolism" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/embolism" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Embolism",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/embolism"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/embolism"
       }]
     }
   </script>
@@ -174,21 +174,21 @@
 <h2 id="causes">Causes of Embolism</h2>
 <p>Embolisms can arise from various causes, each with its unique impact on heart function and overall health. The primary causes of embolism encompass a range of factors that contribute to the formation and migration of emboli within the bloodstream.</p>
 <ul>
-<li>Atrial Fibrillation (<a href="https://plataforma.epa-bienestar.com.ar/diseases/afib">afib</a>): AFib disrupts the heart's rhythm, leading to blood pooling in the atria, increasing the risk of clot formation that can travel to other parts of the body.</li>
+<li>Atrial Fibrillation (<a href="https://contenidos.segundaopinionmedica.org/diseases/afib">afib</a>): AFib disrupts the heart's rhythm, leading to blood pooling in the atria, increasing the risk of clot formation that can travel to other parts of the body.</li>
 <li>Deep Vein Thrombosis (DVT): DVT occurs when blood clots form in the deep veins of the legs, potentially breaking loose and causing embolisms in the lungs or other organs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis, characterized by the buildup of plaque in arteries, can lead to embolisms if the plaque ruptures and travels to narrower vessels, causing blockages.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Atherosclerosis, characterized by the buildup of plaque in arteries, can lead to embolisms if the plaque ruptures and travels to narrower vessels, causing blockages.</li>
 <li>Prolonged Immobility: Extended periods of immobility, such as during long flights or bed rest, can increase the risk of developing emboli due to slowed blood circulation.</li>
 </ul>
 <p>Additionally, secondary risk factors and lifestyle contributors can exacerbate the likelihood of developing embolisms, including obesity, smoking, and certain medical conditions that promote clot formation.</p>
 <h2 id="symptoms">Symptoms of Embolism</h2>
 <p>The symptoms of embolism can vary depending on the location and size of the embolus. Early-stage symptoms may be subtle and easily mistaken for other conditions, while advanced-stage symptoms often indicate a more severe obstruction.</p>
 <ul>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>: Reduced energy levels and increased fatigue may signal compromised blood flow due to an embolism.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or sudden shortness of breath can be a sign of a pulmonary embolism, necessitating immediate medical attention.</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>: Reduced energy levels and increased fatigue may signal compromised blood flow due to an embolism.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or sudden shortness of breath can be a sign of a pulmonary embolism, necessitating immediate medical attention.</li>
 </ul>
 <p>Advanced symptoms may manifest as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Severe chest pain or discomfort may indicate a heart-related embolism, requiring urgent intervention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Severe chest pain or discomfort may indicate a heart-related embolism, requiring urgent intervention.</li>
 <li>Neurological Deficits: Symptoms such as sudden numbness or weakness in limbs could signify a stroke caused by an embolism in the brain.</li>
 </ul>
 <h2>Diagnosis of Embolism</h2>
@@ -197,7 +197,7 @@
 <ul>
 <li>Doppler Ultrasound: This non-invasive test evaluates blood flow in the veins, aiding in the detection of clots associated with embolisms.</li>
 <li>CT Pulmonary Angiography: A specialized imaging test that can identify pulmonary emboli by visualizing blood flow in the lungs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This test examines the heart's structure and function, helping identify potential sources of emboli within the heart chambers.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This test examines the heart's structure and function, helping identify potential sources of emboli within the heart chambers.</li>
 <li>D-dimer Blood Test: Measures levels of a protein released when blood clots break down, aiding in the diagnosis of embolisms.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Embolism</h2>

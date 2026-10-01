@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Nuts Boost Artery Health: A Nutritional Connection&quot;" />
     <meta property="og:description" content="Explore how nuts support healthy arteries & circulation. Learn about arterial health benefits & plaque prevention. Boost your heart health with nuts!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-artery-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-artery-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-artery-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/nuts-and-artery-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Nuts And Artery Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/nuts-and-artery-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/nuts-and-artery-health"
         }
     ]
 }

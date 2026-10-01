@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Risks of a 4 cm Aortic Aneurysm">
   <meta property="og:description" content="Learn how dangerous a 4 cm aortic aneurysm can be and what steps to take next. Understand the risks and treatment options available.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/risks-4-cm-aortic-aneurysm">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/risks-4-cm-aortic-aneurysm">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/risks-4-cm-aortic-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/risks-4-cm-aortic-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Risks Of A 4 Cm Aortic Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/risks-4-cm-aortic-aneurysm"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/risks-4-cm-aortic-aneurysm"  
       }]
     }
   </script>

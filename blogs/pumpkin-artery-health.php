@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pumpkin's Impact on Artery Health&quot;" />
     <meta property="og:description" content="Discover how pumpkins impact artery health and circulation for better cardiovascular wellness. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-artery-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pumpkin-artery-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-artery-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pumpkin-artery-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pumpkin Artery Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-artery-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pumpkin-artery-health"
         }
     ]
 }
@@ -159,7 +159,7 @@
 <p>Cardiovascular wellness encompasses the overall health of your heart and blood vessels. Pumpkins offer a wide range of benefits that support your cardiovascular system:</p>
 <ul>
 <li>The combination of nutrients in pumpkins, including magnesium, folate, and antioxidants, can help reduce the risk of heart disease and stroke.</li>
-<li>Pumpkins are a great source of fiber, which can aid in maintaining healthy cholesterol levels and preventing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Pumpkins are a great source of fiber, which can aid in maintaining healthy cholesterol levels and preventing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>The anti-inflammatory properties of pumpkins may help reduce the risk of cardiovascular conditions linked to chronic inflammation.</li>
 </ul>
 <p>By prioritizing cardiovascular wellness through the inclusion of pumpkins in your diet, you can take proactive steps towards safeguarding your heart health and overall well-being.</p>

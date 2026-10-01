@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron Deficiency and Heart Health&quot;" />
     <meta property="og:description" content="Learn how iron deficiency affects your heart health. Discover the link between low iron levels and cardiovascular function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-cardiovascular-function" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-cardiovascular-function" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-cardiovascular-function" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-cardiovascular-function" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron Deficiency And Cardiovascular Function",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-deficiency-and-cardiovascular-function"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-deficiency-and-cardiovascular-function"
         }
     ]
 }
@@ -141,9 +141,9 @@
 <h2 class="sec-scrl" id="low-iron-symptoms">What Are the Symptoms of Low Iron Levels?</h2>
 <p>Recognizing the signs of iron deficiency early is crucial for preventing complications. Some common symptoms of low iron levels include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue">unexplained fatigue</a> and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue">unexplained fatigue</a> and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Pale skin and brittle nails</li>
 </ul>
 <p>If you experience any of these symptoms, it's essential to consult your healthcare provider for proper evaluation and management.</p>

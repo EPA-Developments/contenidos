@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron Overload and Heart Health Guide&quot;" />
     <meta property="og:description" content="Learn about the link between Iron Overload and Heart Disease. Find out how excess iron impacts cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-overload-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-overload-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-overload-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-overload-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron Overload And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-overload-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-overload-and-heart-disease"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Iron is an essential mineral that your body needs to function properly. However, when there is an excessive buildup of iron in your body, it can lead to serious health issues. Hemochromatosis is a condition characterized by excess iron absorption from the diet, which can result in iron overload.</p>
 <p>Individuals with hemochromatosis are at a higher risk of developing heart complications due to the excess iron in their system. This excess iron can accumulate in various organs, including the heart, leading to potential damage and dysfunction.</p>
 <h2 class="sec-scrl" id="iron-testing">Iron Testing: How Is Iron Overload Diagnosed?</h2>
-<p>If you suspect you may have iron overload or are experiencing symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, abdominal pain, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, your healthcare provider may recommend iron testing. This involves measuring the levels of iron in your blood to assess if they are within a healthy range.</p>
+<p>If you suspect you may have iron overload or are experiencing symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, abdominal pain, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, your healthcare provider may recommend iron testing. This involves measuring the levels of iron in your blood to assess if they are within a healthy range.</p>
 <ul>
 <li>Transferrin saturation: This test measures the amount of iron bound to a protein called transferrin in your blood.</li>
 <li>Serum ferritin: A high serum ferritin level indicates an excess of iron stored in your body.</li>
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="heart-complications">Heart Complications Linked to Iron Overload</h2>
 <p>Excess iron in the body can have detrimental effects on the heart and increase the risk of heart failure. Iron toxicity can lead to oxidative stress, inflammation, and tissue damage in the heart muscle, impairing its ability to pump blood effectively.</p>
-<p>In individuals with hemochromatosis, the risk of arrhythmias, <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, and other cardiovascular problems is significantly higher. It is essential to monitor and manage iron levels to reduce the impact on heart health.</p>
+<p>In individuals with hemochromatosis, the risk of arrhythmias, <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, and other cardiovascular problems is significantly higher. It is essential to monitor and manage iron levels to reduce the impact on heart health.</p>
 <h2 class="sec-scrl" id="excess-iron">Managing Excess Iron: Treatment and Lifestyle Changes</h2>
 <p>Once diagnosed with iron overload, treatment aims to reduce iron levels in the body and prevent further complications. This may involve therapeutic phlebotomy, a process similar to blood donation that helps lower iron stores over time.</p>
 <ul>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Percutaneous Transluminal Coronary Angioplasty: Benefits, Risks, and Post-Procedure Care">
   <meta property="og:description" content="Discover the benefits and risks of Percutaneous Transluminal Coronary Angioplasty (PTCA) for treating blocked arteries in heart disease. Learn about PTCA vs coronary artery bypass surgery and post-PTCA care for coronary artery disease treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-transluminal-coronary-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-transluminal-coronary-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-transluminal-coronary-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-transluminal-coronary-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Percutaneous Transluminal Coronary Angioplasty",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-transluminal-coronary-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/percutaneous-transluminal-coronary-angioplasty"  
       }]
     }
   </script>

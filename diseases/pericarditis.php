@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pericarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pericarditis is inflammation of the pericardium, the sac that surrounds the heart. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pericarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pericarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pericarditis"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Pericarditis</h1>
-<p>Pericarditis is the inflammation of the pericardium, a thin sac-like membrane surrounding the heart. It can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fever, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. While often not life-threatening, it can lead to complications if left untreated. Pericarditis is relatively common, affecting about 1 in every 1,000 people. It can be caused by infections, autoimmune conditions, or heart attacks. Seeking medical attention is crucial for proper diagnosis and treatment to prevent complications and manage symptoms effectively.</p>
+<p>Pericarditis is the inflammation of the pericardium, a thin sac-like membrane surrounding the heart. It can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fever, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. While often not life-threatening, it can lead to complications if left untreated. Pericarditis is relatively common, affecting about 1 in every 1,000 people. It can be caused by infections, autoimmune conditions, or heart attacks. Seeking medical attention is crucial for proper diagnosis and treatment to prevent complications and manage symptoms effectively.</p>
 <h2 id="causes">Causes of Pericarditis</h2>
 <p><h3>Main Factors Contributing to the Development of Pericarditis:</h3>
 <ul>
 <li>**Viral Infections:** Such as Coxsackie virus or flu viruses.</li>
 <li>**Autoimmune Conditions:** Like lupus or rheumatoid arthritis.</li>
-<li>**Post-<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>:** Occurs as a complication after a heart attack.</li>
+<li>**Post-<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>:** Occurs as a complication after a heart attack.</li>
 <li>**Trauma:** Such as injury from a car accident or medical procedures.</li>
 <li>**Cancer:** Can be associated with malignancies like lung cancer.</li>
 </ul></p>
@@ -177,8 +177,8 @@
 <ul>
 <li>Chest pain</li>
 <li>Fever</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 </ul>
 
@@ -189,8 +189,8 @@ Early detection allows for prompt treatment, reducing the risk of complications 
 <ul>
 <li>Physical examination to listen for pericardial friction rub</li>
 <li>Blood tests to check for inflammation markers</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to look for specific changes</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess pericardial effusion</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to look for specific changes</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess pericardial effusion</li>
 <li>Chest X-ray to evaluate heart and lungs</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Pericarditis</h2>
@@ -230,7 +230,7 @@ Early detection allows for prompt treatment, reducing the risk of complications 
 <h3>Regular Screenings:</h3>
 <ul>
 <li>Attend routine check-ups with a healthcare provider to monitor heart health.</li>
-<li>Discuss any symptoms or concerns related to chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>.</li>
+<li>Discuss any symptoms or concerns related to chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>.</li>
 <li>Undergo recommended tests like echocardiograms or blood work for early detection.</li>
 </ul>
 <h3>Supportive Care:</h3>

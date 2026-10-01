@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulsus Alternans: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pulsus alternans causes alternating weak and strong heartbeats. Read more about its causes, symptoms, and treatment options for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulsus-alternans">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulsus-alternans">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulsus-alternans" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulsus-alternans" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pulsus Alternans",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulsus-alternans"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulsus-alternans"
       }]
     }
   </script>
@@ -168,19 +168,19 @@
 <ul>
 <li>Heart failure</li>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 <li>Valvular heart disease</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Pulsus Alternans</h2>
 <p>Recognizing the symptoms of Pulsus Alternans is crucial as early detection can significantly improve outcomes. This condition is characterized by a regular heartbeat alternating with a weaker beat. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Feeling lightheaded or dizzy</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul> 
 
 Being aware of these symptoms and seeking prompt medical attention can lead to timely interventions and better management of Pulsus Alternans.</p>
@@ -188,8 +188,8 @@ Being aware of these symptoms and seeking prompt medical attention can lead to t
 <p>Accurate diagnosis of Pulsus Alternans is crucial as it may indicate serious underlying cardiovascular conditions like heart failure. The diagnostic process typically involves a thorough medical history review, physical examination, and various tests to assess heart function. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Cardiac stress tests to evaluate heart function under stress</li>
 <li>Blood tests to check for markers of heart failure</li>
 <li>Monitoring blood pressure for variations in pulse pressure</li>

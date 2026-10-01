@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rheumatic Fever: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Rheumatic fever is an inflammatory disease that can affect the heart, joints, skin, and brain. Read more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rheumatic Fever",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever"
       }]
     }
   </script>
@@ -195,7 +195,7 @@
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li>Cardiac Symptoms: Advanced-stage Rheumatic Fever can manifest as heart-related symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>. These symptoms can significantly impact physical well-being and emotional health, causing anxiety and stress.</li>
+<li>Cardiac Symptoms: Advanced-stage Rheumatic Fever can manifest as heart-related symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>. These symptoms can significantly impact physical well-being and emotional health, causing anxiety and stress.</li>
 <li>Neurological Symptoms: In severe cases, Rheumatic Fever can affect the brain, leading to neurological symptoms like involuntary movements, changes in behavior, and cognitive impairments. These symptoms can have long-lasting implications on the individual's quality of life.</li>
 </ul>
 <h2>Diagnosis of Rheumatic Fever</h2>
@@ -203,8 +203,8 @@
 <ul>
 <li>Throat Culture: A throat culture is performed to detect the presence of Group A Streptococcus bacteria, which is essential in linking the streptococcal infection to the development of Rheumatic Fever.</li>
 <li>Blood Tests: Blood tests can detect markers of inflammation and immune response in the body, helping in the diagnosis of Rheumatic Fever and monitoring disease activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is used to assess the structure and function of the heart, identifying any abnormalities in the heart valves or muscle that may indicate Rheumatic Fever.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a>: An electrocardiogram (ECG) is used to monitor the heart's electrical activity, detecting any irregularities that may be associated with Rheumatic Fever.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is used to assess the structure and function of the heart, identifying any abnormalities in the heart valves or muscle that may indicate Rheumatic Fever.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a>: An electrocardiogram (ECG) is used to monitor the heart's electrical activity, detecting any irregularities that may be associated with Rheumatic Fever.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Rheumatic Fever</h2>
 <p>The treatment of Rheumatic Fever aims to reduce inflammation, manage symptoms, and prevent complications like heart valve damage.</p>

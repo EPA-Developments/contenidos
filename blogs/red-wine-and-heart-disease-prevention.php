@@ -10,12 +10,12 @@
     <meta property="og:title" content="Red Wine Antioxidants for Heart Health" />
     <meta property="og:description" content="Learn how red wine antioxidants can help prevent heart disease. Discover the benefits of moderate drinking for a healthy heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Red Wine And Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/red-wine-and-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/red-wine-and-heart-disease-prevention"
         }
     ]
 }
@@ -149,7 +149,7 @@
 <h2 class="sec-scrl" id="resveratrol">Unveiling the Power of Resveratrol in Red Wine for Heart Disease Prevention</h2>
 <p>Resveratrol, a natural compound found in red wine, has garnered attention for its potential role in protecting against heart disease. This powerful antioxidant is thought to:</p>
 <ul>
-<li>Improve heart health by reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li>Improve heart health by reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 <li>Enhance the function of cells lining blood vessels</li>
 <li>Protect against damage caused by high levels of LDL cholesterol</li>
 </ul>

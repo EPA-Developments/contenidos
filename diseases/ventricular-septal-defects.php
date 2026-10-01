@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Septal Defects: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Ventricular Septal Defects cause abnormal blood flow in the heart. Know more about their causes, symptoms, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ventricular Septal Defects",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-septal-defects"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-septal-defects"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Ventricular Septal Defects (VSD) are congenital heart defects characterized by abnormal openings in the septum between the heart's lower chambers, the ventricles.</p>
 <p>This condition allows oxygen-rich blood from the left ventricle to mix with oxygen-poor blood from the right ventricle, leading to various health implications.</p>
 <p>VSD is one of the most common congenital heart defects, affecting approximately 1 in every 500 infants born. The impact of VSD on health can vary, depending on the size, location, and severity of the defect.</p>
-<p>In the short term, VSD can cause symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, and poor weight gain, while in the long term, it can lead to complications such as heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and arrhythmias if left untreated.</p>
+<p>In the short term, VSD can cause symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, and poor weight gain, while in the long term, it can lead to complications such as heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and arrhythmias if left untreated.</p>
 <p>Notably, VSD may be asymptomatic in its early stages, emphasizing the importance of early detection through regular screenings to prevent potential complications and ensure appropriate management.</p>
 <h2 id="causes">Causes of Ventricular Septal Defects</h2>
 <h3>Primary Causes </h3>
@@ -194,15 +194,15 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> discoloration due to inadequate oxygenation of the blood can occur in advanced cases of VSD.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-murmur">heart murmur</a>: A loud, abnormal heart sound may be present as blood flows through the defect, indicating potential complications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> discoloration due to inadequate oxygenation of the blood can occur in advanced cases of VSD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-murmur">heart murmur</a>: A loud, abnormal heart sound may be present as blood flows through the defect, indicating potential complications.</li>
 </ul>
 <h2>Diagnosis of Ventricular Septal Defects</h2>
 <h3>Diagnostic Process</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This non-invasive imaging test uses sound waves to create a detailed image of the heart's structures, helping detect the presence and characteristics of VSD.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): A test that records the heart's electrical activity, providing information on heart rhythm abnormalities associated with VSD.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure involving the insertion of a catheter to evaluate the heart's function and structure, particularly useful for diagnosing complex VSD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This non-invasive imaging test uses sound waves to create a detailed image of the heart's structures, helping detect the presence and characteristics of VSD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): A test that records the heart's electrical activity, providing information on heart rhythm abnormalities associated with VSD.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure involving the insertion of a catheter to evaluate the heart's function and structure, particularly useful for diagnosing complex VSD.</li>
 <li>MRI or CT Scan: These imaging tests can offer detailed views of the heart's anatomy, assisting in the diagnosis and assessment of VSD.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Ventricular Septal Defects</h2>

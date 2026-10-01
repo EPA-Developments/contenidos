@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Figs and Heart Health: A Nutritional Boost&quot;" />
     <meta property="og:description" content="Explore how figs benefit cardiovascular health. Learn about heart health, antioxidants, blood pressure, and cholesterol levels in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/figs-and-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/figs-and-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/figs-and-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Figs And Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/figs-and-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/figs-and-cardiovascular-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Figs are packed with powerful antioxidants that help protect your heart from oxidative stress and inflammation. These antioxidants, such as vitamin C and polyphenols, work to neutralize harmful free radicals in your body, reducing the risk of heart disease and other cardiovascular conditions. By including figs in your diet, you can boost your antioxidant intake and support your heart health in the long run.</p>
 <p>Additionally, the high fiber content in figs can help lower cholesterol levels, further reducing the risk of heart disease. Fiber helps remove excess cholesterol from the bloodstream, preventing it from building up in the arteries and causing blockages that can lead to heart attacks and strokes.</p>
 <h2 class="sec-scrl" id="blood-pressure">Maintaining Healthy Blood Pressure with Figs</h2>
-<p>One of the key factors in cardiovascular health is maintaining healthy blood pressure levels. Figs contain nutrients like potassium, a mineral known for its role in regulating blood pressure. Potassium helps counteract the effects of sodium in the body, relaxing blood vessels and lowering blood pressure. By incorporating figs into your diet, you can support healthy blood pressure and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, a major risk factor for heart disease.</p>
+<p>One of the key factors in cardiovascular health is maintaining healthy blood pressure levels. Figs contain nutrients like potassium, a mineral known for its role in regulating blood pressure. Potassium helps counteract the effects of sodium in the body, relaxing blood vessels and lowering blood pressure. By incorporating figs into your diet, you can support healthy blood pressure and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, a major risk factor for heart disease.</p>
 <ul>
 <li>Regular consumption of figs can help manage blood pressure levels.</li>
 <li>The potassium content in figs supports the relaxation of blood vessels.</li>

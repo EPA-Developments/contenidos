@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Vital Role of Heart Pumping Blood" />
     <meta property="og:description" content="Discover why a healthy heart pumping blood is vital for your well-being. Learn about the importance of heart function and cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping-blood" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-pumping-blood" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping-blood" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-pumping-blood" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Pumping Blood",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping-blood"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-pumping-blood"
         }
     ]
 }
@@ -173,7 +173,7 @@
 <h2 class="sec-scrl" id="importance-of-heart-function">The Importance of Heart Function</h2>
 <p>Your heart's primary function is to pump blood efficiently to all parts of your body. This process is essential for delivering oxygen and nutrients to your cells and removing waste products. When your heart is functioning well, it ensures that your organs can work properly, allowing you to perform daily tasks with ease.</p>
 <ul>
-<li>Without proper heart function, vital organs like the brain, kidneys, and muscles may not receive adequate oxygen and nutrients, leading to fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and other health issues.</li>
+<li>Without proper heart function, vital organs like the brain, kidneys, and muscles may not receive adequate oxygen and nutrients, leading to fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and other health issues.</li>
 <li>A healthy heart function is crucial for maintaining overall well-being and quality of life.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-circulation-role">The Blood Circulation Role</h2>
@@ -184,7 +184,7 @@
 <li>Proper circulation helps regulate body temperature and maintain pH balance.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-pumping-blood">Why is Heart Pumping Blood Crucial?</h2>
-<p>What happens when your heart is not pumping blood effectively? When the heart fails to pump an adequate amount of blood, various health issues can arise, affecting your overall well-being. A weak or inefficient heart can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>, causing symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling in the extremities.</p>
+<p>What happens when your heart is not pumping blood effectively? When the heart fails to pump an adequate amount of blood, various health issues can arise, affecting your overall well-being. A weak or inefficient heart can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>, causing symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling in the extremities.</p>
 <p>Consider the following reasons why heart efficiency in pumping blood is crucial:</p>
 <ul>
 <li>Ensures a steady supply of oxygen and nutrients to all parts of the body.</li>
@@ -202,7 +202,7 @@
 <p>Consider the following strategies for optimizing heart efficiency:</p>
 <ul>
 <li>Quit smoking and avoid excessive alcohol consumption to reduce strain on the heart.</li>
-<li>Maintain a healthy weight and manage conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels.</li>
+<li>Maintain a healthy weight and manage conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and cholesterol levels.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>In conclusion, the role of your heart in pumping blood is fundamental to your overall health and well-being. By understanding the importance of heart function, blood circulation, and heart efficiency, you can take proactive steps to support your cardiovascular health. Prioritizing a heart-healthy lifestyle and seeking regular medical care can help ensure that your heart continues to pump blood effectively, sustaining life and vitality.</p>

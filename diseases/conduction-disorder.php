@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Conduction Disorder: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Conduction Disorder disrupt heart signals, causing irregular beats. Know more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/conduction-disorder">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/conduction-disorder">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/conduction-disorder" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/conduction-disorder" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Conduction Disorder",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/conduction-disorder"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/conduction-disorder"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Conduction Disorder</h1>
-<p>A Conduction Disorder is a heart condition where the electrical signals that control your heartbeat aren't working correctly. This can lead to a slow, irregular, or fast heartbeat. It's essential because it can affect how well your heart pumps blood to the rest of your body. Conduction Disorders are fairly common, affecting a significant number of people worldwide. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fatigue, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
+<p>A Conduction Disorder is a heart condition where the electrical signals that control your heartbeat aren't working correctly. This can lead to a slow, irregular, or fast heartbeat. It's essential because it can affect how well your heart pumps blood to the rest of your body. Conduction Disorders are fairly common, affecting a significant number of people worldwide. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fatigue, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, it's crucial to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Conduction Disorder</h2>
 <p>Conduction disorders can develop due to various factors such as:
 
 <ul>
 <li>Age-related degeneration of the conduction system</li>
 <li>Coronary artery disease leading to reduced blood flow to the heart</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the heart's electrical system</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> putting strain on the heart's electrical system</li>
 <li>Previous heart attacks causing damage to the heart muscle</li>
 <li>Genetic predisposition to conduction abnormalities</li>
 </ul></p>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Conduction Disorder is crucial as early detection can significantly improve outcomes. Symptoms may vary depending on the type and severity of the disorder. Here are some common symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> (arrhythmia)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> (arrhythmia)</li>
 <li>Fainting or dizziness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they persist or worsen, it's vital to seek medical attention promptly. Early diagnosis and appropriate management can help prevent complications and enhance your quality of life.</p>
@@ -188,7 +188,7 @@ If you experience any of these symptoms, especially if they persist or worsen, i
 <p>Diagnosing a Conduction Disorder is crucial for proper treatment and management. Accurate diagnosis ensures the underlying cause is identified, leading to appropriate interventions to prevent complications. Diagnostic methods may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms.</li>
 <li>Echocardiogram to assess heart structure and function.</li>
 <li>Holter monitor for continuous ECG monitoring.</li>
 <li>Stress test to evaluate heart function under stress.</li>

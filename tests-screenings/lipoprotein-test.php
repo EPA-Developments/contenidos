@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Costs, Purpose, and Normal Range of Lipoprotein Test" property="og:title"/>
 <meta content="Lipoprotein test measures the amount of lipoproteins in your blood. Know more about its purpose, costs, and normal Range for cardiovascular health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/lipoprotein-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/lipoprotein-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/lipoprotein-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/lipoprotein-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lipoprotein Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/lipoprotein-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/lipoprotein-test"  
       }]
     }
   </script>
@@ -159,13 +159,13 @@
 <p>A lipoprotein test is a diagnostic pathology test that measures the levels of various types of lipoproteins in the blood. Lipoproteins are molecules that carry cholesterol and triglycerides through the bloodstream.</p>
 <p>The test evaluates different components of lipoproteins, such as low-density lipoprotein (LDL), high-density lipoprotein (HDL), and very low-density lipoprotein (VLDL).</p>
 <p>Lipoprotein testing plays a crucial role in evaluating cardiovascular health by assessing the risk of heart disease. It provides valuable insights into an individual's lipid profile and helps healthcare providers make informed decisions regarding treatment and lifestyle modifications.</p>
-<p>Examples of lipoprotein tests include the lipid profile test, which measures total cholesterol, LDL, HDL, and triglyceride levels, and the apolipoprotein B test, which assesses the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
+<p>Examples of lipoprotein tests include the lipid profile test, which measures total cholesterol, LDL, HDL, and triglyceride levels, and the apolipoprotein B test, which assesses the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
 <p>Related concepts to lipoprotein testing include the role of lipoprotein(a) in assessing heart disease risk, the benefits of lipoprotein testing in predicting cardiovascular events, and the use of lipoprotein(a) levels for assessing genetic risk factors.</p>
 <h2 id="purpose">What is the Purpose of Performing a Lipoprotein Test?</h2>
 <p>The primary purpose of performing a lipoprotein test is to evaluate an individual's cardiovascular health and assess their risk of developing heart disease.</p>
 <p>By measuring the levels of different lipoproteins in the blood, healthcare providers can identify potential risk factors and tailor treatment plans accordingly.</p>
 <p>Lipoprotein testing is beneficial in predicting cardiovascular events such as heart attacks and strokes. It helps in monitoring the effectiveness of cholesterol-lowering medications and lifestyle changes aimed at reducing the risk of heart disease.</p>
-<p>Specific scenarios where a lipoprotein test is useful include screening individuals with a family history of heart disease, assessing lipid levels in patients with diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and monitoring lipid profiles in individuals undergoing treatment for cardiovascular conditions.</p>
+<p>Specific scenarios where a lipoprotein test is useful include screening individuals with a family history of heart disease, assessing lipid levels in patients with diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and monitoring lipid profiles in individuals undergoing treatment for cardiovascular conditions.</p>
 <h2 id="costs">What are the Costs of Lipoprotein Test Tests in Americas?</h2>
 <p>The costs of lipoprotein tests in Americas can vary depending on the type of test, the laboratory or healthcare facility where the test is performed, and any additional services or consultations included in the test package.</p>
 <p>Price ranges for lipoprotein tests in Americas typically range from U$S 500 to U$S 2000, with more specialized tests or comprehensive lipid profiles costing higher.</p>

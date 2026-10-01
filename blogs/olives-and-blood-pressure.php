@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olives and Blood Pressure: A Natural Solution" />
     <meta property="og:description" content="Discover how olives can help manage high blood pressure naturally. Learn more about olives and blood pressure benefits now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olives-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olives-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olives-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olives-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olives And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olives-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olives-and-blood-pressure"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Contain oleic acid, a monounsaturated fat that is good for heart health</li>
 <li>May help reduce inflammation in the body, which can contribute to heart disease</li>
 </ul>
-<p>By incorporating olives into your meals, you may be able to improve your overall heart health and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>By incorporating olives into your meals, you may be able to improve your overall heart health and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <h2 class="sec-scrl" id="olive-leaf">Exploring the Role of Olive Leaf in Blood Pressure Management</h2>
 <p>In addition to olives themselves, olive leaf extract has gained popularity for its potential to help manage blood pressure levels. Here are some ways in which olive leaf extract may contribute to better blood pressure control:</p>
 <ul>
@@ -147,7 +147,7 @@
 </ul>
 <p>Adding olive leaf extract to your daily regimen could be a natural way to support your blood pressure management efforts.</p>
 <h2 class="sec-scrl" id="sodium-reduction">Can Olives Help in Sodium Reduction?</h2>
-<p>High sodium intake is a common factor contributing to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. The good news is that olives are naturally low in sodium, making them a great option for individuals looking to reduce their salt consumption. Here's how olives can play a role in sodium reduction:</p>
+<p>High sodium intake is a common factor contributing to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. The good news is that olives are naturally low in sodium, making them a great option for individuals looking to reduce their salt consumption. Here's how olives can play a role in sodium reduction:</p>
 <ul>
 <li>Offer a flavorful alternative to salty snacks and processed foods</li>
 <li>Can be used as a seasoning in dishes to add taste without the need for extra salt</li>

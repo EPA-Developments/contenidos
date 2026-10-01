@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Accuracy of Coronary CT Angiogram for Blockage Diagnosis">
   <meta property="og:description" content="Discover the accuracy of a Coronary CT Angiogram in detecting blockages. Learn about the reliability of Coronary CT Angiograms for diagnosis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Accuracy Of Coronary Ct Angiogram For Blockage Diagnosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/accuracy-coronary-ct-angiogram-blockage-diagnosis"  
       }]
     }
   </script>

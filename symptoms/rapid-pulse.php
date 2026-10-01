@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Rapid Pulse: Causes, Symptoms, Diagnosis and Treatment" >
   <meta property="og:description" content="Rapid pulse could be linked to heart problems. Read more about the symptoms, causes, diagnosis, and treatment for better heart health conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-pulse">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/rapid-pulse">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-pulse" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-pulse" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rapid Pulse",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/rapid-pulse"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/rapid-pulse"  
       }]
     }
   </script>
@@ -186,14 +186,14 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Rapid Pulse: Causes, Symptoms and Diagnosis</h1>
-<p>Rapid pulse, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, is a condition characterized by a fast heartbeat or high heart rate. It can make you feel like your heart is racing, pounding, or fluttering.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, an awareness of the heart beating, are common with rapid pulse. This condition occurs when the heart beats more than 100 times per minute at rest.</p>
-<p>People experiencing rapid pulse may feel their <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-pounding">heart pounding</a> in their chest or neck. Some may also experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</p>
+<p>Rapid pulse, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, is a condition characterized by a fast heartbeat or high heart rate. It can make you feel like your heart is racing, pounding, or fluttering.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, an awareness of the heart beating, are common with rapid pulse. This condition occurs when the heart beats more than 100 times per minute at rest.</p>
+<p>People experiencing rapid pulse may feel their <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-pounding">heart pounding</a> in their chest or neck. Some may also experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</p>
 <p>Rapid pulse can be a normal response to certain situations, such as exercise or stress. However, if it occurs frequently or without an obvious trigger, it may indicate an underlying health issue.</p>
 <h2 id="forms">What are the Forms of Rapid pulse?</h2>
 <p>There are different forms of rapid pulse, each with its specific symptoms and related concepts.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia">sinus tachycardia</a>: A common type of rapid pulse caused by an increase in the heart's normal rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia">sinus tachycardia</a>: A common type of rapid pulse caused by an increase in the heart's normal rhythm.</li>
 <li>Atrial fibrillation: An irregular and rapid heartbeat originating in the heart's upper chambers.</li>
 <li>Supraventricular tachycardia: Rapid heart rate originating above the heart's ventricles.</li>
 </ul>

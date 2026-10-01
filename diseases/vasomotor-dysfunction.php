@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Vasomotor Dysfunction: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Vasomotor Dysfunction affects blood vessel control, causing circulation issues. Know more about its symptoms, causes, and treatment for relief." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/vasomotor-dysfunction">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/vasomotor-dysfunction">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/vasomotor-dysfunction" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/vasomotor-dysfunction" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Vasomotor Dysfunction",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/vasomotor-dysfunction"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/vasomotor-dysfunction"
       }]
     }
   </script>
@@ -161,12 +161,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Vasomotor Dysfunction</h1>
-<p>Vasomotor Dysfunction refers to the abnormal functioning of the blood vessels that regulate blood flow. It's significant because it can lead to issues like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or even heart attacks. This condition is quite prevalent and can affect people of all ages. Understanding and managing vasomotor dysfunction is crucial for maintaining heart health and overall well-being. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or chest discomfort, it's essential to seek medical advice promptly for proper evaluation and management.</p>
+<p>Vasomotor Dysfunction refers to the abnormal functioning of the blood vessels that regulate blood flow. It's significant because it can lead to issues like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or even heart attacks. This condition is quite prevalent and can affect people of all ages. Understanding and managing vasomotor dysfunction is crucial for maintaining heart health and overall well-being. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or chest discomfort, it's essential to seek medical advice promptly for proper evaluation and management.</p>
 <h2 id="causes">Causes of Vasomotor Dysfunction</h2>
 <p>Vasomotor dysfunction can arise from various factors, including:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a></li>
 <li>Neurohormonal imbalances</li>
 <li>Inflammation</li>
 <li>Oxidative stress</li>
@@ -179,9 +179,9 @@
 <ul>
 <li>Hot flashes</li>
 <li>Night sweats</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Fluctuations in blood pressure</li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Headaches</li>
 </ul>
 

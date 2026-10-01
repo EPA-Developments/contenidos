@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Dates for Heart Health: Benefits and More&quot;" />
     <meta property="og:description" content="Explore the cardiovascular benefits of dates and how they support heart health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-for-heart-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>By including dates in your diet, you can support your heart's well-being and lower the risk of heart disease.</p>
 <h2 class="sec-scrl" id="dates-and-cholesterol">Dates and Cholesterol</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease. How can dates help in managing cholesterol levels?</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease. How can dates help in managing cholesterol levels?</p>
 <p>Dates are free from cholesterol and contain soluble fiber, which can help lower LDL (bad) cholesterol levels in the blood. Additionally, the antioxidants in dates can prevent the oxidation of LDL cholesterol, reducing the risk of plaque formation in the arteries.</p>
 <p>By replacing unhealthy snacks with heart-healthy dates, you can improve your cholesterol profile and protect your heart.</p>
 <h2 class="sec-scrl" id="heart-healthy-snacks">Heart Healthy Snacks</h2>

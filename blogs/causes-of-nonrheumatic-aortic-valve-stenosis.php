@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes of Nonrheumatic Aortic Valve Stenosis">
   <meta property="og:description" content="Discover the causes of nonrheumatic aortic valve stenosis, a condition affecting the heart's valve. Learn about symptoms and treatment options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/causes-of-nonrheumatic-aortic-valve-stenosis">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/causes-of-nonrheumatic-aortic-valve-stenosis">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/causes-of-nonrheumatic-aortic-valve-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/causes-of-nonrheumatic-aortic-valve-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Causes Of Nonrheumatic Aortic Valve Stenosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/causes-of-nonrheumatic-aortic-valve-stenosis"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/causes-of-nonrheumatic-aortic-valve-stenosis"  
       }]
     }
   </script>

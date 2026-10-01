@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Vitamin D's Role in Heart Health&quot;" />
     <meta property="og:description" content="Discover how Vitamin D impacts heart health, from reducing heart attack risk to improving cholesterol levels. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-health"
         }
     ]
 }
@@ -133,15 +133,15 @@
 <h2 class="sec-scrl" id="vitamin-d-benefits">Benefits of Vitamin D for Heart Health</h2>
 <p>Vitamin D plays a crucial role in supporting heart health by regulating blood pressure, reducing inflammation in the cardiovascular system, and improving overall heart function. Here are some key benefits of Vitamin D for your heart:</p>
 <ul>
-<li>It helps in maintaining healthy blood pressure levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>It helps in maintaining healthy blood pressure levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Vitamin D supports the immune system, preventing infections that can strain the heart.</li>
 <li>It regulates calcium levels in the body, which are essential for proper heart muscle function.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-disease-risk">Reducing Cardiovascular Disease Risk</h2>
-<p>How does Vitamin D impact the risk of cardiovascular disease? Studies have shown that Vitamin D deficiency is associated with an increased risk of developing cardiovascular diseases such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, stroke, and heart failure. Here's how Vitamin D helps in reducing the risk of cardiovascular disease:</p>
+<p>How does Vitamin D impact the risk of cardiovascular disease? Studies have shown that Vitamin D deficiency is associated with an increased risk of developing cardiovascular diseases such as <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, stroke, and heart failure. Here's how Vitamin D helps in reducing the risk of cardiovascular disease:</p>
 <ul>
 <li>Improves endothelial function, which is essential for healthy blood flow in the arteries.</li>
-<li>Reduces inflammation in the cardiovascular system, lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>Reduces inflammation in the cardiovascular system, lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Helps in maintaining optimal cholesterol levels, reducing the risk of plaque buildup in the arteries.</li>
 </ul>
 <h2 class="sec-scrl" id="vitamin-d-deficiency-effects">Effects of Vitamin D Deficiency on Heart Health</h2>

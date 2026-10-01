@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peanuts: Heart Health Inflammation Solution&quot;" />
     <meta property="og:description" content="Discover how peanuts can reduce inflammation for a healthier heart. Learn about the benefits of peanuts for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peanuts And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peanuts-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peanuts-and-inflammation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Health Benefits of Peanuts for Heart Inflammation</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to alleviate it? Do you wonder how your diet can impact the health of your heart on a daily basis?</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and looking for natural ways to alleviate it? Do you wonder how your diet can impact the health of your heart on a daily basis?</p>
 <p>Inflammation is the body's response to harmful stimuli, but when it becomes chronic, it can lead to various health issues, including heart inflammation. One powerful ally in combating inflammation may be as simple as including peanuts in your diet. Let's explore how peanuts, with their anti-inflammatory properties, can contribute to a healthier heart.</p>
 <h2 class="sec-scrl" id="peanut-polyphenols">The Power of Peanut Polyphenols</h2>
 <p>Peanuts are rich in polyphenols, micronutrients with antioxidant properties that help combat oxidative stress in the body. These polyphenols have been shown to reduce inflammatory markers in the blood, potentially lowering the risk of heart inflammation.</p>

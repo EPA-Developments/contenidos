@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mulberries for Heart Health: A Natural Solution" />
     <meta property="og:description" content="Discover how mulberries help prevent heart attacks and strokes with powerful antioxidants, promoting healthy blood vessels. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cardiovascular-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cardiovascular-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cardiovascular-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cardiovascular-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mulberries And Cardiovascular Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mulberries-and-cardiovascular-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mulberries-and-cardiovascular-disease"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Mulberries for Heart Health</h1>
 <p>Are you concerned about your heart health and looking for natural ways to protect yourself from cardiovascular disease? Mulberries, with their extraordinary benefits, might just be the answer you're seeking. Imagine being able to enhance your heart's health and overall well-being with a delicious and nutritious fruit. Let's explore how mulberries can play a crucial role in preventing cardiovascular disease and what that means for your daily life.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cardiovascular Protection</h2>
-<p>Mulberries are packed with powerful antioxidants that help combat oxidative stress in the body, reducing inflammation and promoting healthy arteries. These antioxidants play a key role in protecting your cardiovascular system from damage and disease. By incorporating mulberries into your diet, you can significantly lower your risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke.</p>
+<p>Mulberries are packed with powerful antioxidants that help combat oxidative stress in the body, reducing inflammation and promoting healthy arteries. These antioxidants play a key role in protecting your cardiovascular system from damage and disease. By incorporating mulberries into your diet, you can significantly lower your risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke.</p>
 <ul>
 <li>Antioxidants in mulberries prevent the oxidation of cholesterol, reducing the formation of plaque in blood vessels.</li>
 <li>Regular consumption of mulberries can help regulate blood pressure and improve overall circulation.</li>
@@ -145,7 +145,7 @@
 <p>Antioxidants play a crucial role in maintaining heart health by neutralizing free radicals and preventing cellular damage. Mulberries are a rich source of antioxidants, making them an excellent addition to your daily regimen for cardiovascular wellness.</p>
 <ul>
 <li>The anthocyanins in mulberries help strengthen blood vessels and improve circulation.</li>
-<li>Quercetin, a powerful antioxidant present in mulberries, reduces the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other heart conditions.</li>
+<li>Quercetin, a powerful antioxidant present in mulberries, reduces the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other heart conditions.</li>
 <li>Regular consumption of mulberries can enhance the body's defense mechanisms, keeping your heart protected.</li>
 </ul>
 <p>By harnessing the power of antioxidants through mulberries, you can fortify your heart against various cardiovascular risks and maintain a healthy cardiovascular system.</p>

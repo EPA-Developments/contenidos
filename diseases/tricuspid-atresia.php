@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tricuspid Atresia: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Tricuspid atresia is a rare, life-threatening heart defect that occurs when the tricuspid valve doesn't form properly. Know more about this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-atresia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-atresia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-atresia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/tricuspid-atresia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tricuspid Atresia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/tricuspid-atresia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/tricuspid-atresia"
       }]
     }
   </script>
@@ -182,22 +182,22 @@
 <p>In early stages, infants with tricuspid atresia may appear asymptomatic, as the fetal circulation pattern allows for some degree of blood flow bypassing the poorly functioning right ventricle.</p>
 <p>However, as the newborn transitions to normal circulation after birth, symptoms may become apparent.</p>
 <ul>
-<li>Early Symptoms: Early symptoms of tricuspid atresia may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin), <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, poor feeding, and failure to thrive. These symptoms can impact the infant's energy levels and ability to engage in normal activities.</li>
+<li>Early Symptoms: Early symptoms of tricuspid atresia may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin), <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, poor feeding, and failure to thrive. These symptoms can impact the infant's energy levels and ability to engage in normal activities.</li>
 <li>Advanced Symptoms: As the condition progresses, advanced symptoms such as fatigue, exercise intolerance, fluid retention, and irregular heart rhythms may develop. These symptoms can significantly impair the individual's physical well-being and emotional health, affecting their quality of life.</li>
 </ul>
 <h2>Diagnosis of Tricuspid Atresia</h2>
 <p>Diagnosing tricuspid atresia typically involves a series of tests and imaging studies to assess the structure and function of the heart. Early and accurate diagnosis is essential for implementing timely interventions to manage the condition effectively.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a non-invasive imaging test that uses sound waves to create detailed images of the heart's structures. It can help visualize the tricuspid valve and assess blood flow patterns in individuals with tricuspid atresia.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Cardiac catheterization involves inserting a thin tube into a blood vessel and guiding it to the heart to measure pressures and obtain detailed information about the heart's anatomy. This procedure can help identify the extent of tricuspid valve abnormalities and associated defects.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram is a non-invasive imaging test that uses sound waves to create detailed images of the heart's structures. It can help visualize the tricuspid valve and assess blood flow patterns in individuals with tricuspid atresia.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Cardiac catheterization involves inserting a thin tube into a blood vessel and guiding it to the heart to measure pressures and obtain detailed information about the heart's anatomy. This procedure can help identify the extent of tricuspid valve abnormalities and associated defects.</li>
 <li>MRI or CT Scan: Magnetic resonance imaging (MRI) and computed tomography (CT) scans provide detailed images of the heart and surrounding structures, allowing for a comprehensive evaluation of tricuspid atresia and any associated anomalies.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can help detect abnormalities in heart rhythm, which are common in individuals with tricuspid atresia.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity and can help detect abnormalities in heart rhythm, which are common in individuals with tricuspid atresia.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Tricuspid Atresia</h2>
 <p>Treatment for tricuspid atresia aims to improve heart function, alleviate symptoms, and prevent complications associated with the condition. The management of tricuspid atresia is typically individualized based on the patient's specific needs and the presence of any associated cardiac defects.</p>
 <ul>
 <li>Medications: Medications such as diuretics, inotropes, and anti-arrhythmic drugs may be prescribed to manage symptoms, improve heart function, and regulate heart rhythm in individuals with tricuspid atresia.</li>
-<li>Surgical Interventions: In some cases, surgical procedures such as the Fontan operation or <a href="https://plataforma.epa-bienestar.com.ar/procedures/tricuspid-valve-repair">tricuspid valve repair</a> may be necessary to improve blood flow and relieve pressure on the heart.</li>
+<li>Surgical Interventions: In some cases, surgical procedures such as the Fontan operation or <a href="https://contenidos.segundaopinionmedica.org/procedures/tricuspid-valve-repair">tricuspid valve repair</a> may be necessary to improve blood flow and relieve pressure on the heart.</li>
 <li>Lifestyle Modifications: Lifestyle modifications, including regular exercise, a heart-healthy diet, and smoking cessation, can help individuals with tricuspid atresia maintain overall cardiovascular health and reduce the risk of complications.</li>
 </ul>
 </div>

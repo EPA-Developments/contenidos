@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Atrial Septal Aneurysm: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Atrial Septal Aneurysm affects heart walls, causing rhythm problems. Know its causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/atrial-septal-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/atrial-septal-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/atrial-septal-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/atrial-septal-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrial Septal Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/atrial-septal-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/atrial-septal-aneurysm"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>While it may be asymptomatic in its early stages, ASA can have significant implications for heart health if left untreated.</p>
 <p>The prevalence of ASA is estimated to be around 2-10% in the general population, with a higher incidence in individuals with certain congenital heart defects.</p>
 <p>The atrial septum plays a crucial role in maintaining proper blood flow within the heart. An aneurysm in this area can affect blood circulation and increase the risk of complications such as blood clots, stroke, and heart failure.</p>
-<p>In the short term, untreated ASA can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. Long-term risks include an increased likelihood of developing atrial fibrillation, a type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> that can further compromise heart function.</p>
+<p>In the short term, untreated ASA can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. Long-term risks include an increased likelihood of developing atrial fibrillation, a type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> that can further compromise heart function.</p>
 <p>Given its often asymptomatic nature in the early stages, early detection of ASA through regular screenings is crucial. Detecting and managing ASA promptly can help prevent complications and improve long-term outcomes for individuals with this condition.</p>
 <h2 id="causes">Causes of Atrial Septal Aneurysm</h2>
 <p>Several factors contribute to the development of ASA, including both primary and secondary causes. Primary causes of ASA include structural abnormalities in the heart that lead to weakening of the atrial septum.</p>
@@ -178,7 +178,7 @@
 <li>Genetic predisposition or congenital heart defects can result in structural weaknesses in the atrial septum, leading to the formation of an aneurysm over time.</li>
 </ul>
 <ul>
-<li> Chronic conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can increase pressure within the heart chambers, causing the atrial septum to bulge abnormally.</li>
+<li> Chronic conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can increase pressure within the heart chambers, causing the atrial septum to bulge abnormally.</li>
 <li>:Aging is a significant factor in the development of ASA, with advancing age contributing to changes in the heart's structure and function.</li>
 <li> Lifestyle factors like smoking, obesity, and sedentary behavior can exacerbate the risk of developing ASA by placing additional strain on the heart.</li>
 </ul>
@@ -203,8 +203,8 @@
 <h2>Diagnosis of Atrial Septal Aneurysm</h2>
 <p>Diagnosing ASA typically involves a series of tests to assess heart structure and function accurately. These tests aim to detect the presence of an aneurysm in the atrial septum and evaluate its impact on heart health.</p>
 <ul>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>, which uses sound waves to create images of the heart and identify structural abnormalities like an atrial septal aneurysm.</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate the heart's electrical activity and detect irregularities associated with ASA.</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>, which uses sound waves to create images of the heart and identify structural abnormalities like an atrial septal aneurysm.</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate the heart's electrical activity and detect irregularities associated with ASA.</li>
 <li>Cardiac MRI or CT scans can provide detailed images of the heart chambers and reveal any structural defects, including aneurysms.</li>
 <li> Transesophageal echocardiography (TEE) may be used to obtain more precise images of the heart and assess the severity of ASA.</li>
 </ul>

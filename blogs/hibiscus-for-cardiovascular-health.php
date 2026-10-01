@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Explore the benefits of hibiscus for heart health. Learn about its impact on cardiovascular wellness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-cardiovascular-health"
         }
     ]
 }
@@ -154,7 +154,7 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">Can Hibiscus Aid in Heart Disease Prevention?</h2>
 <p>Preventing heart disease is essential for maintaining cardiovascular health. Hibiscus, with its various beneficial properties, can play a role in heart disease prevention by addressing risk factors and supporting overall heart function. Incorporating hibiscus into your wellness routine may help reduce the likelihood of developing heart-related issues.</p>
 <ul>
-<li>Hibiscus has been linked to improved heart health by helping to lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</li>
+<li>Hibiscus has been linked to improved heart health by helping to lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</li>
 <li>The antioxidants in hibiscus can protect the heart from damage caused by free radicals, reducing the risk of heart disease.</li>
 <li>Regular consumption of hibiscus may aid in maintaining heart health and preventing cardiovascular issues.</li>
 </ul>

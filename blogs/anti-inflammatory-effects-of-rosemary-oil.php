@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Rosemary Oil: Blood Pressure Benefits&quot;" />
     <meta property="og:description" content="Explore how Rosemary Oil reduces inflammation, supports heart health, and offers natural remedies. Discover the benefits now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-rosemary-oil" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-rosemary-oil" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-rosemary-oil" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-rosemary-oil" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Anti Inflammatory Effects Of Rosemary Oil",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/anti-inflammatory-effects-of-rosemary-oil"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/anti-inflammatory-effects-of-rosemary-oil"
         }
     ]
 }

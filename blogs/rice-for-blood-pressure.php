@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Rice for Lowering Blood Pressure Naturally&quot;" />
     <meta property="og:description" content="Learn how rice can effectively manage blood pressure through diet. Discover the benefits of incorporating rice into a hypertension-friendly meal plan." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rice-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rice-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rice-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rice-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rice For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rice-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rice-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Rice for Blood Pressure Management</h1>
-<p>Are you struggling to control your blood pressure levels and looking for natural ways to manage <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> effectively? If so, you're not alone. <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, affecting your energy levels, mood, and overall well-being. Finding the right diet that supports your heart health is crucial for keeping your blood pressure in check. But can incorporating rice into your meals be a part of the solution?</p>
+<p>Are you struggling to control your blood pressure levels and looking for natural ways to manage <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> effectively? If so, you're not alone. <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, affecting your energy levels, mood, and overall well-being. Finding the right diet that supports your heart health is crucial for keeping your blood pressure in check. But can incorporating rice into your meals be a part of the solution?</p>
 <h2 class="sec-scrl" id="high-blood-pressure-diet">High Blood Pressure Diet</h2>
 <p>Following a high blood pressure diet is essential for managing hypertension. Including foods that are beneficial for heart health can help lower your blood pressure levels naturally. One key component of a high blood pressure diet is maintaining a balance of essential nutrients, such as potassium and sodium.</p>
 <ul>

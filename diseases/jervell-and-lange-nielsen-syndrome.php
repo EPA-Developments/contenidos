@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Jervell And Lange-Nielsen Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Jervell and Lange-Nielsen syndrome causes heart and hearing issues. Know more about its causes, symptoms, and treatments for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/jervell-and-lange-nielsen-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/jervell-and-lange-nielsen-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/jervell-and-lange-nielsen-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/jervell-and-lange-nielsen-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Jervell And Lange-Nielsen Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/jervell-and-lange-nielsen-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/jervell-and-lange-nielsen-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Jervell And Lange-Nielsen Syndrome</h1>
-<p>Jervell and Lange-Nielsen Syndrome (JLNS) is a rare genetic condition affecting the heart's rhythm. It can lead to dangerous heart rhythms and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, especially during stressful situations. JLNS is significant because it can increase the risk of sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> if left untreated. Although JLNS is rare, it is essential to diagnose early to manage the condition effectively. If you suspect you or your child may have JLNS due to unexplained fainting episodes, consult a healthcare provider promptly for proper evaluation and care.</p>
+<p>Jervell and Lange-Nielsen Syndrome (JLNS) is a rare genetic condition affecting the heart's rhythm. It can lead to dangerous heart rhythms and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, especially during stressful situations. JLNS is significant because it can increase the risk of sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> if left untreated. Although JLNS is rare, it is essential to diagnose early to manage the condition effectively. If you suspect you or your child may have JLNS due to unexplained fainting episodes, consult a healthcare provider promptly for proper evaluation and care.</p>
 <h2 id="causes">Causes of Jervell And Lange-Nielsen Syndrome</h2>
 <p><ul>
 <li>Genetic mutations affecting potassium channels in the heart.</li>
@@ -174,11 +174,11 @@
 <p>Jervell and Lange-Nielsen Syndrome is a rare genetic disorder affecting the heart's electrical system, leading to potentially life-threatening heart rhythm abnormalities. Early recognition of symptoms is crucial for prompt intervention and improved outcomes. Symptoms of Jervell and Lange-Nielsen Syndrome include:
 
 <ul>
-<li>Episodes of fainting or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a></li>
-<li>Rapid heartbeats or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Episodes of fainting or <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a></li>
+<li>Rapid heartbeats or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 Recognizing these signs promptly and seeking medical attention can lead to timely diagnosis and appropriate management, potentially preventing serious complications associated with this condition.</p>

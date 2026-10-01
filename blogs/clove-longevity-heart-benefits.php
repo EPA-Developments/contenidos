@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Clove: Heart Health & Longevity Herb'" />
     <meta property="og:description" content="Explore the heart-healthy benefits of clove for longevity and vitality." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/clove-longevity-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/clove-longevity-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/clove-longevity-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/clove-longevity-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Clove Longevity Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/clove-longevity-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/clove-longevity-heart-benefits"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <ul>
 <li>Lowering cholesterol levels</li>
 <li>Regulating blood pressure</li>
-<li>Preventing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation</li>
+<li>Preventing <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation</li>
 </ul>
 <p>Regular consumption of cloves as part of a balanced diet may help lower the risk of developing heart disease and maintain a healthy heart.</p>
 <h2 class="sec-scrl" id="aging">Aging Gracefully with Cloves</h2>

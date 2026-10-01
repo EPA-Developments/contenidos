@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cardiovascular Diseases: Symptoms Guide&quot;" />
     <meta property="og:description" content="Explore common cardiovascular system diseases and their symptoms to stay informed about your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-system-diseases" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-system-diseases" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-system-diseases" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-system-diseases" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiovascular System Diseases",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-system-diseases"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-system-diseases"
         }
     ]
 }
@@ -171,10 +171,10 @@
               <h1>Understanding Cardiovascular System Diseases: Symptoms &amp; More</h1>
 <p>Are you constantly worried about the health of your heart and the state of your circulatory system? Do you find yourself wondering about the signs and symptoms of cardiovascular system diseases and how they can impact your daily life? Let's explore the common cardiovascular conditions that can affect you and learn how to recognize their symptoms.</p>
 <h2 class="sec-scrl" id="Heartattackrisk">Heart Attack Risk</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk is a significant concern for many individuals, especially those with a family history of heart disease or other risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, unhealthy cholesterol levels, smoking, obesity, or a sedentary lifestyle. Understanding the warning signs of a heart attack and knowing how to act promptly can make a crucial difference in saving a life. Some common symptoms of a heart attack include:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk is a significant concern for many individuals, especially those with a family history of heart disease or other risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, unhealthy cholesterol levels, smoking, obesity, or a sedentary lifestyle. Understanding the warning signs of a heart attack and knowing how to act promptly can make a crucial difference in saving a life. Some common symptoms of a heart attack include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Pain in the arms, back, neck, jaw, or stomach</li>
 <li>Cold sweats</li>
 </ul>
@@ -188,15 +188,15 @@
 </ul>
 <p>Regular exercise, a balanced diet, and avoiding smoking can help keep your circulatory system healthy and reduce the risk of developing these conditions.</p>
 <h2 class="sec-scrl" id="Plaquebuildup">Plaque Buildup</h2>
-<p>Plaque buildup, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, is a condition where fatty deposits accumulate in the arteries, narrowing the blood vessels and restricting blood flow. This can increase the risk of heart attacks, strokes, and other cardiovascular complications. Symptoms of plaque buildup may not be noticeable until a significant blockage occurs, leading to:</p>
+<p>Plaque buildup, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, is a condition where fatty deposits accumulate in the arteries, narrowing the blood vessels and restricting blood flow. This can increase the risk of heart attacks, strokes, and other cardiovascular complications. Symptoms of plaque buildup may not be noticeable until a significant blockage occurs, leading to:</p>
 <ul>
-<li>Chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
+<li>Chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
 <li>Leg pain while walking</li>
 <li>Shortness of breath</li>
 </ul>
 <p>Monitoring your cholesterol levels, maintaining a healthy weight, and managing conditions like diabetes can help prevent or slow down the progression of plaque buildup in your arteries.</p>
 <h2 class="sec-scrl" id="Vascularinflammation">Vascular Inflammation</h2>
-<p>Vascular inflammation is a response of the blood vessels to injury, infection, or other harmful stimuli. Chronic inflammation in the circulatory system can contribute to the development of cardiovascular diseases like coronary artery disease and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. Recognizing the signs of vascular inflammation is crucial for early intervention. Symptoms may include:</p>
+<p>Vascular inflammation is a response of the blood vessels to injury, infection, or other harmful stimuli. Chronic inflammation in the circulatory system can contribute to the development of cardiovascular diseases like coronary artery disease and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. Recognizing the signs of vascular inflammation is crucial for early intervention. Symptoms may include:</p>
 <ul>
 <li>Swelling or redness in the affected area</li>
 <li>Warmth or heat around the inflamed blood vessels</li>

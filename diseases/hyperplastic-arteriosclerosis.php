@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hyperplastic Arteriosclerosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Hyperplastic Arteriosclerosis causes thickening of arteries. Know more about its causes, symptoms, and treatment to protect your circulatory system." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hyperplastic-arteriosclerosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hyperplastic-arteriosclerosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hyperplastic-arteriosclerosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hyperplastic-arteriosclerosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hyperplastic Arteriosclerosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hyperplastic-arteriosclerosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hyperplastic-arteriosclerosis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Hyperplastic Arteriosclerosis</h1>
-<p>Hyperplastic arteriosclerosis is a condition where blood vessels thicken due to the accumulation of smooth muscle cells. It's significant because it can restrict blood flow, leading to serious health issues like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and heart disease. This condition is prevalent among individuals with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and diabetes. Understanding hyperplastic arteriosclerosis is crucial as it can contribute to the development of cardiovascular complications. If you have risk factors for this condition, it's essential to monitor your health closely and consult with a healthcare provider for proper management.</p>
+<p>Hyperplastic arteriosclerosis is a condition where blood vessels thicken due to the accumulation of smooth muscle cells. It's significant because it can restrict blood flow, leading to serious health issues like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and heart disease. This condition is prevalent among individuals with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and diabetes. Understanding hyperplastic arteriosclerosis is crucial as it can contribute to the development of cardiovascular complications. If you have risk factors for this condition, it's essential to monitor your health closely and consult with a healthcare provider for proper management.</p>
 <h2 id="causes">Causes of Hyperplastic Arteriosclerosis</h2>
 <p>Hyperplastic arteriosclerosis can occur due to various factors. These include high blood pressure, high levels of bad cholesterol, smoking, diabetes, and aging. Each of these factors can contribute to the thickening of the arterial walls and narrowing of the blood vessels, leading to reduced blood flow and potential complications. It's essential to manage these risk factors to prevent or slow down the progression of hyperplastic arteriosclerosis and reduce the risk of associated cardiovascular events. Remember, lifestyle modifications and medical interventions can play a crucial role in managing this condition. 
 
@@ -180,9 +180,9 @@
 <li>Severe headaches</li>
 <li>Visual disturbances</li>
 <li>Confusion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they are persistent or severe, it is essential to seek medical attention promptly. Early detection through symptom recognition can significantly impact the management and prognosis of Hyperplastic Arteriosclerosis.</p>
@@ -193,8 +193,8 @@ If you experience any of these symptoms, especially if they are persistent or se
 <li>Physical examination to assess symptoms and signs.</li>
 <li>Medical history review to identify risk factors.</li>
 <li>Blood tests to check lipid levels and inflammation markers.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function.</li>
 <li>Coronary angiography for detailed imaging of coronary arteries.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Hyperplastic Arteriosclerosis</h2>
@@ -203,7 +203,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 <h3>Medication Management</h3>
 <ul>
 <li>This treatment involves the use of medications such as antiplatelet agents and statins to manage risk factors.</li>
-<li>The rationale is to reduce clot formation and lower cholesterol levels, thereby decreasing the progression of <a href="https://plataforma.epa-bienestar.com.ar/diseases/arteriosclerosis">arteriosclerosis</a>.</li>
+<li>The rationale is to reduce clot formation and lower cholesterol levels, thereby decreasing the progression of <a href="https://contenidos.segundaopinionmedica.org/diseases/arteriosclerosis">arteriosclerosis</a>.</li>
 <li>The primary objective is to prevent complications like heart attacks and strokes.</li>
 <li>Patients may need to take these medications long-term and undergo periodic monitoring.</li>
 </ul>

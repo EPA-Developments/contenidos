@@ -10,12 +10,12 @@
     <meta property="og:title" content="Fiber Rich Potatoes: Heart Health Benefits" />
     <meta property="og:description" content="Explore the impact of fiber on heart health with insights on Fiber Rich Potatoes and more. Optimize your heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fiber-rich-potatoes" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fiber-rich-potatoes" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fiber-rich-potatoes" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fiber-rich-potatoes" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fiber Rich Potatoes",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fiber-rich-potatoes"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fiber-rich-potatoes"
         }
     ]
 }
@@ -147,7 +147,7 @@
 </ul>
 <p>By diversifying your fiber sources, you can create a well-rounded and heart-healthy diet that supports your overall well-being.</p>
 <h2 class="sec-scrl" id="cholesterol-levels">Lower Cholesterol and Heart Disease Risk</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly increase your risk of developing heart disease. Fortunately, consuming a diet rich in fiber can help lower cholesterol levels and reduce the likelihood of heart-related issues. Fiber acts as a sponge in your digestive system, soaking up excess cholesterol and eliminating it from your body.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly increase your risk of developing heart disease. Fortunately, consuming a diet rich in fiber can help lower cholesterol levels and reduce the likelihood of heart-related issues. Fiber acts as a sponge in your digestive system, soaking up excess cholesterol and eliminating it from your body.</p>
 <p>Additionally, fiber-rich foods like Fiber Rich Potatoes can help regulate blood sugar levels, promote satiety, and support weight management – all of which are essential for a healthy heart.</p>
 <h2 class="sec-scrl" id="high-fiber-meals">Incorporating High Fiber Meals</h2>
 <p>Creating high fiber meals doesn't have to be complicated. By including Fiber Rich Potatoes and other fiber-rich ingredients in your recipes, you can elevate the nutritional value of your meals and take care of your heart health simultaneously. Here are some simple ways to incorporate high fiber foods into your daily meals:</p>

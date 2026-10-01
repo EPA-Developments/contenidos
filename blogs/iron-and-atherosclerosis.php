@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Iron's Impact on Atherosclerosis Prevention&quot;" />
     <meta property="og:description" content="Learn how iron impacts atherosclerosis prevention. Discover the importance of iron for arterial health and reducing plaque buildup." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/iron-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/iron-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/iron-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Iron And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/iron-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/iron-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Iron in Preventing Atherosclerosis</h1>
-<p>Are you aware of how iron levels impact your risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? This common condition, characterized by plaque buildup in the arteries, can significantly affect your daily activities and overall well-being. Let's explore the crucial connection between iron and atherosclerosis to understand how you can protect your arterial health.</p>
+<p>Are you aware of how iron levels impact your risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? This common condition, characterized by plaque buildup in the arteries, can significantly affect your daily activities and overall well-being. Let's explore the crucial connection between iron and atherosclerosis to understand how you can protect your arterial health.</p>
 <h2 class="sec-scrl" id="iron-and-atherosclerosis">Iron and Atherosclerosis</h2>
 <p>Atherosclerosis, a condition where plaque builds up inside your blood vessels, can have serious consequences for your heart health. Iron plays a vital role in this process, affecting artery function and influencing your risk of developing heart disease. How does iron impact cholesterol levels and contribute to the progression of atherosclerosis?</p>
 <p>Iron deficiency, a common nutritional problem globally, is linked to a higher risk of atherosclerosis. Understanding how iron absorption in the body influences arterial health is key to preventing plaque buildup and maintaining optimal blood vessel function.</p>
@@ -142,7 +142,7 @@
 </ul>
 <h2 class="sec-scrl" id="arterial-health">Preserving Arterial Health with Iron</h2>
 <p>Maintaining optimal iron levels is essential for preserving arterial health and reducing the risk of atherosclerosis. How does iron deficiency impact the function of your blood vessels, and what role does iron play in ensuring their proper functioning?</p>
-<p>Iron deficiency can impair the production of nitric oxide, a key molecule that helps regulate blood vessel tone and flexibility. This can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>, increasing the susceptibility to atherosclerosis. Ensuring an adequate intake of iron-rich foods is crucial for supporting overall arterial health.</p>
+<p>Iron deficiency can impair the production of nitric oxide, a key molecule that helps regulate blood vessel tone and flexibility. This can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>, increasing the susceptibility to atherosclerosis. Ensuring an adequate intake of iron-rich foods is crucial for supporting overall arterial health.</p>
 <h2 class="sec-scrl" id="blood-vessels">Iron Deficiency and Blood Vessel Function</h2>
 <p>How does iron deficiency affect the health of your blood vessels and contribute to the development of atherosclerosis? Understanding the intricate relationship between iron levels and vascular function is fundamental to preventing cardiovascular complications.</p>
 <ul>

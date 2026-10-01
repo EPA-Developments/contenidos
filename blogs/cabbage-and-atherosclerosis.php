@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cabbage for Atherosclerosis: Natural Remedy&quot;" />
     <meta property="og:description" content="Discover how cabbage can naturally help combat atherosclerosis and promote heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cabbage And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cabbage-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cabbage-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>'Cabbage for Atherosclerosis Treatment'</h1>
-<p>Are you looking for a natural way to improve your blood vessel health and reduce arterial plaque buildup? Do you want to prevent heart disease and take advantage of the detoxifying properties of a common vegetable? Living with <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> can impact your daily activities and overall well-being. Understanding how cabbage can help combat this condition might be the key to a healthier heart and circulatory system.</p>
+<p>Are you looking for a natural way to improve your blood vessel health and reduce arterial plaque buildup? Do you want to prevent heart disease and take advantage of the detoxifying properties of a common vegetable? Living with <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> can impact your daily activities and overall well-being. Understanding how cabbage can help combat this condition might be the key to a healthier heart and circulatory system.</p>
 <h2 class="sec-scrl" id="cholesterol-buildup">Cholesterol Buildup: How Cabbage Can Help</h2>
 <p>Cabbage is rich in compounds that can help lower cholesterol levels in the body, preventing the buildup of plaque in the arteries. The high fiber content in cabbage binds with bile acids in the gut, aiding in their excretion and reducing cholesterol absorption. This process helps in reducing the risk of atherosclerosis and improving circulatory health.</p>
 <p>Additionally, cabbage contains phytosterols, plant-based compounds that compete with cholesterol for absorption in the intestines. By incorporating cabbage into your diet, you can naturally lower your cholesterol levels and support overall heart health.</p>

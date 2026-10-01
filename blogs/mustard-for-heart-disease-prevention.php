@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard: Key to Heart Health" />
     <meta property="og:description" content="Discover the link between mustard and heart disease prevention for a healthier heart." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard For Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-for-heart-disease-prevention"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <p>Mustard's health properties extend beyond flavor enhancement. The compounds found in mustard seeds, such as glucosinolates, have been linked to cardiovascular protection. These compounds may help improve blood flow, regulate blood pressure, and enhance the function of blood vessels, all of which are crucial for a healthy heart.</p>
 <ul>
 <li>Mustard consumption has been associated with a reduced risk of developing heart disease.</li>
-<li>The anti-inflammatory effects of mustard may help prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a leading cause of heart attacks.</li>
+<li>The anti-inflammatory effects of mustard may help prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a leading cause of heart attacks.</li>
 <li>Regular intake of mustard in moderation as part of a balanced diet can contribute to cardiovascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="mustard-health-properties">Mustard Health Properties</h2>

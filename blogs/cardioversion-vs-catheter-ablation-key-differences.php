@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardioversion vs. Catheter Ablation: Key Differences Explained">
   <meta property="og:description" content="Learn the nuances of Cardioversion versus Catheter Ablation procedures to treat heart rhythm issues. Get a clear understanding of the differences.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-catheter-ablation-key-differences">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-catheter-ablation-key-differences">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-catheter-ablation-key-differences" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-catheter-ablation-key-differences" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardioversion Vs. Catheter Ablation: Key Differences Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardioversion-vs-catheter-ablation-key-differences"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/cardioversion-vs-catheter-ablation-key-differences"  
       }]
     }
   </script>

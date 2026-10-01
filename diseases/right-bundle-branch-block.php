@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Right Bundle Branch Block: Symptoms and Treatment" >
   <meta property="og:description" content="Right bundle branch block affects the heart's electrical system. Know more about causes, symptoms, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/right-bundle-branch-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/right-bundle-branch-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/right-bundle-branch-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/right-bundle-branch-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Right Bundle Branch Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/right-bundle-branch-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/right-bundle-branch-block"
       }]
     }
   </script>
@@ -171,16 +171,16 @@
 <p>RBBB can affect the heart's essential functions, such as proper electrical conduction, leading to potential short-term and long-term health risks if left untreated.</p>
 <p>Despite being often asymptomatic in the early stages, regular screenings and early detection are vital for managing RBBB effectively.</p>
 <h2 id="causes">Causes of Right Bundle Branch Block:</h2>
-<p>RBBB can have various causes, both primary and secondary, which can affect heart function differently over time. Primary causes include <a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, and congenital heart defects.</p>
+<p>RBBB can have various causes, both primary and secondary, which can affect heart function differently over time. Primary causes include <a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, and congenital heart defects.</p>
 <ul>
 <li>Structural heart disease, for instance, can disrupt the heart's electrical pathways, leading to RBBB. Pulmonary hypertension increases pressure in the pulmonary arteries, affecting the heart's workload and potentially causing RBBB.</li>
-<li>Myocardial infarction, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, can damage the heart muscle and disrupt electrical signals. Congenital heart defects present at birth can also lead to RBBB development.</li>
+<li>Myocardial infarction, or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, can damage the heart muscle and disrupt electrical signals. Congenital heart defects present at birth can also lead to RBBB development.</li>
 <li>Secondary risk factors or lifestyle contributors include smoking, obesity, and sedentary lifestyle. Smoking can damage blood vessels and increase the risk of heart disease, indirectly impacting heart electrical conduction.</li>
 <li>Obesity can strain the heart, leading to various cardiovascular issues, including RBBB. A sedentary lifestyle can contribute to poor heart health, affecting the heart's electrical system and increasing the likelihood of RBBB development.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Right Bundle Branch Block:</h2>
-<p>Early-stage symptoms of RBBB may include fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. Fatigue can impact daily activities due to reduced energy levels, while shortness of breath may be misunderstood or overlooked as a normal occurrence.</p>
-<p>Advanced symptoms may manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fainting, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>. Chest pain can have physical and emotional implications, affecting daily life and mental well-being. Fainting or dizziness can be severe symptoms indicating potential heart complications that require immediate attention.</p>
+<p>Early-stage symptoms of RBBB may include fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. Fatigue can impact daily activities due to reduced energy levels, while shortness of breath may be misunderstood or overlooked as a normal occurrence.</p>
+<p>Advanced symptoms may manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fainting, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>. Chest pain can have physical and emotional implications, affecting daily life and mental well-being. Fainting or dizziness can be severe symptoms indicating potential heart complications that require immediate attention.</p>
 <h2>Diagnosis of Right Bundle Branch Block:</h2>
 <p>Diagnosing RBBB involves a multi-step process to accurately detect the condition and initiate appropriate interventions. Tests such as electrocardiogram (ECG) can help identify abnormal electrical activity in the heart, indicating RBBB.</p>
 <p>Echocardiogram provides detailed images of the heart's structure and function, aiding in diagnosing underlying heart conditions associated with RBBB. Stress tests assess the heart's response to physical activity, revealing any abnormalities in electrical conduction.</p>

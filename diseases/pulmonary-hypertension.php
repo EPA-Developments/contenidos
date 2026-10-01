@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Hypertension: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Pulmonary hypertension affects blood flow in lungs. Know more about its symptoms, causes, and treatments for better lung health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Hypertension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, and Treatment of Pulmonary Hypertension</h1>
-<p>Pulmonary hypertension is a serious condition characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs. This condition impacts the heart's ability to pump blood effectively to the lungs, leading to various health complications.</p>
+<p>Pulmonary hypertension is a serious condition characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> in the arteries of the lungs. This condition impacts the heart's ability to pump blood effectively to the lungs, leading to various health complications.</p>
 <p>Pulmonary hypertension is a significant medical concern due to its potential to cause severe damage to the heart and lungs if left untreated. It can significantly impact a person's quality of life and overall health.</p>
 <p>The prevalence of pulmonary hypertension varies depending on the underlying cause. It can affect individuals of all ages, but it is more commonly seen in adults.</p>
 <p>The impact of pulmonary hypertension on health is profound, affecting essential functions such as oxygen exchange, heart function, and overall cardiovascular health. If left untreated, pulmonary hypertension can lead to serious complications such as heart failure, arrhythmias, and even death.</p>
@@ -190,17 +190,17 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Feeling tired or lacking energy, even after minimal exertion.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical activity or while lying down.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical activity or while lying down.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Discomfort or pressure in the chest, often associated with physical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>: Sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> due to reduced blood flow to the brain.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Discomfort or pressure in the chest, often associated with physical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>: Sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> due to reduced blood flow to the brain.</li>
 </ul>
 <h2>Diagnosis of Pulmonary Hypertension</h2>
 <h3>Diagnostic Tests:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This non-invasive test uses sound waves to create images of the heart and can detect abnormalities in heart function related to pulmonary hypertension.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This non-invasive test uses sound waves to create images of the heart and can detect abnormalities in heart function related to pulmonary hypertension.</li>
 <li>Right Heart Catheterization: A procedure that measures pressure in the heart and lungs, helping diagnose pulmonary hypertension accurately.</li>
 <li>Pulmonary Function Tests: These tests assess lung function and oxygen exchange, providing valuable information about the impact of pulmonary hypertension on respiratory health.</li>
 <li>CT Scan or MRI: Imaging tests that can visualize the structure of the lungs and heart, aiding in the diagnosis of structural abnormalities associated with pulmonary hypertension.</li>

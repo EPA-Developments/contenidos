@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Angina: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Angina causes chest pain due to reduced blood flow to the heart. Know more about its symptoms, causes, and treatments for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/angina">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/angina">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/angina" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/angina" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Angina",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/angina"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/angina"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes and Treatment of Angina</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> is <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort that occurs when your heart doesn't get enough oxygen-rich blood. It's a sign that your heart may not be getting enough blood flow, often due to narrowed arteries from conditions like coronary artery disease. Angina is significant as it can be a warning sign of a heart problem and should not be ignored. It's prevalent among adults, especially those with risk factors like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>, or diabetes. If you experience angina symptoms, it's crucial to seek medical attention promptly.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> is <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort that occurs when your heart doesn't get enough oxygen-rich blood. It's a sign that your heart may not be getting enough blood flow, often due to narrowed arteries from conditions like coronary artery disease. Angina is significant as it can be a warning sign of a heart problem and should not be ignored. It's prevalent among adults, especially those with risk factors like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>, or diabetes. If you experience angina symptoms, it's crucial to seek medical attention promptly.</p>
 <h2 id="causes">Causes of Angina</h2>
 <p><h3>Main Factors Contributing to the Development of Angina:</h3>
 <ul>
@@ -178,7 +178,7 @@
 <li>Chest pain or discomfort</li>
 <li>Pressure, squeezing, or heaviness in the chest</li>
 <li>Pain that may radiate to the arms, neck, jaw, shoulder, or back</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Nausea</li>
 <li>Sweating</li>
@@ -191,7 +191,7 @@ If you experience any of these symptoms, especially during physical activity or 
 <ul>
 <li>Thorough physical examination</li>
 <li>Review of medical history and symptoms</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
 <li>Stress tests to evaluate heart function under exertion</li>
 <li>Coronary angiography to visualize blockages in the arteries</li>
 </ul></p>
@@ -214,7 +214,7 @@ If you experience any of these symptoms, especially during physical activity or 
 </ul>
 <h3>Cardiac Procedures</h3>
 <ul>
-<li>Procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery are performed to restore proper blood flow to the heart.</li>
+<li>Procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery are performed to restore proper blood flow to the heart.</li>
 <li>They are used in cases where medications and lifestyle changes are not sufficient.</li>
 <li>The primary objective is to relieve symptoms, prevent heart damage, and reduce the risk of heart attacks.</li>
 <li>Procedures involve opening blocked arteries or creating new pathways for blood flow.</li>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Arteriosclerosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Arteriosclerosis is a vascular disease that causes arteries to thicken and harden, which can restrict blood flow. Know its symptoms, causes, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/arteriosclerosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/arteriosclerosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/arteriosclerosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/arteriosclerosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Arteriosclerosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/arteriosclerosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/arteriosclerosis"
       }]
     }
   </script>
@@ -166,8 +166,8 @@
 <p>Arteriosclerosis, the hardening and narrowing of arteries, can develop due to various factors such as:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Smoking</li>
 <li>Obesity</li>
 <li>Diabetes</li>
@@ -176,10 +176,10 @@
 <p>Recognizing the symptoms of arteriosclerosis early on is crucial as it can significantly impact outcomes. By being aware of the signs, individuals can seek timely medical attention and interventions to prevent complications. Here are some common symptoms of arteriosclerosis to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Leg pain or cramping during physical activity</li>
-<li>Numbness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in extremities</li>
+<li>Numbness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in extremities</li>
 <li>Slurred speech or difficulty speaking</li>
 </ul></p>
 <h2>Diagnosis of Arteriosclerosis</h2>
@@ -188,8 +188,8 @@
 <ul>
 <li>Physical examination and medical history review</li>
 <li>Blood tests to check cholesterol levels and biomarkers</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart structure and function</li>
 <li>Stress tests to monitor heart activity under exertion</li>
 <li>Angiography to visualize blood flow in arteries</li>
 </ul></p>

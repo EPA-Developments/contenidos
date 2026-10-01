@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Giant-Cell Myocarditis: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Idiopathic giant cell myocarditis causes inflammation in the heart. Read more on its symptoms, causes, and treatment for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-giant-cell-myocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/idiopathic-giant-cell-myocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-giant-cell-myocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/idiopathic-giant-cell-myocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Idiopathic Giant-Cell Myocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/idiopathic-giant-cell-myocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/idiopathic-giant-cell-myocarditis"
       }]
     }
   </script>
@@ -166,13 +166,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Treatment of Giant-Cell Myocarditis</h1>
-<p>Idiopathic Giant-Cell <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> is a rare and severe inflammatory heart disease that can have a significant impact on an individual's health.</p>
+<p>Idiopathic Giant-Cell <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> is a rare and severe inflammatory heart disease that can have a significant impact on an individual's health.</p>
 <p>This condition is characterized by the presence of giant cells in the myocardium, leading to inflammation and damage to the heart muscle. Despite its rarity, Idiopathic Giant-Cell Myocarditis can have devastating consequences if left untreated.</p>
 <p>The prevalence of Idiopathic Giant-Cell Myocarditis is relatively low, making it challenging to diagnose and treat effectively. This condition can affect individuals of any age, but it is more commonly diagnosed in younger adults.</p>
 <p>The impact of Idiopathic Giant-Cell Myocarditis on health is profound, as it can lead to heart failure, arrhythmias, and even sudden cardiac death if not managed promptly.</p>
 <p>The essential functions affected by Idiopathic Giant-Cell Myocarditis include the heart's ability to pump blood efficiently, maintain normal rhythm, and deliver oxygen and nutrients to the body's tissues.</p>
-<p>In the short term, untreated Idiopathic Giant-Cell Myocarditis can result in symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and swelling in the legs.</p>
-<p>Over the long term, it can lead to complications like heart failure, stroke, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>In the short term, untreated Idiopathic Giant-Cell Myocarditis can result in symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and swelling in the legs.</p>
+<p>Over the long term, it can lead to complications like heart failure, stroke, and <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>One significant challenge with Idiopathic Giant-Cell Myocarditis is its asymptomatic nature in the early stages, making it difficult to detect without specific diagnostic tests.</p>
 <p>Therefore, early detection through regular screenings, especially in individuals with risk factors, is crucial for timely intervention and better outcomes.</p>
 <h2 id="causes">Causes of Idiopathic Giant-Cell Myocarditis</h2>
@@ -193,12 +193,12 @@
 <p>Early-stage symptoms of Idiopathic Giant-Cell Myocarditis may include:</p>
 <ul>
 <li>Fatigue: Persistent tiredness that may limit daily activities and affect overall energy levels.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, due to reduced heart function.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, due to reduced heart function.</li>
 </ul>
 <p>Advanced-stage symptoms of Idiopathic Giant-Cell Myocarditis may include:</p>
 <ul>
 <li>Chest Pain: Sharp or dull chest discomfort that may radiate to the arms, neck, or back, indicating potential heart muscle damage.</li>
-<li>Arrhythmias: Irregular heart rhythms that can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, posing a significant risk to health.</li>
+<li>Arrhythmias: Irregular heart rhythms that can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, posing a significant risk to health.</li>
 </ul>
 <h2>Diagnosis of Idiopathic Giant-Cell Myocarditis</h2>
 <p>The diagnostic process for Idiopathic Giant-Cell Myocarditis typically involves a series of tests to evaluate heart function and identify any inflammatory processes.</p>

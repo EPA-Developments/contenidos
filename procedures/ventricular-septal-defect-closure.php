@@ -13,12 +13,12 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Ventricular Septal Defect Closure: Surgery for Cardiac Defect Repair">
     <meta property="og:description" content="Learn about Ventricular Septal Defect Closure, a surgical procedure for treating cardiac defects. Find information on VSD closure surgery and septal defect repair.">
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-septal-defect-closure/">
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/ventricular-septal-defect-closure/">
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-septal-defect-closure/" /><script type="application/ld+json">
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/ventricular-septal-defect-closure/" /><script type="application/ld+json">
 {
   "@context": "https://schema.org/", 
   "@type": "BreadcrumbList", 
@@ -26,17 +26,17 @@
     "@type": "ListItem", 
     "position": 1, 
     "name": "Home",
-    "item": "https://plataforma.epa-bienestar.com.ar/"  
+    "item": "https://contenidos.segundaopinionmedica.org/"  
   },{
     "@type": "ListItem", 
     "position": 2, 
     "name": "Procedures",
-    "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+    "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
   },{
     "@type": "ListItem", 
     "position": 3, 
     "name": "Ventricular septal defect closure",
-    "item": "https://plataforma.epa-bienestar.com.ar/procedures/ventricular-septal-defect-closure/"  
+    "item": "https://contenidos.segundaopinionmedica.org/procedures/ventricular-septal-defect-closure/"  
   }]
 }
 </script><script type="application/ld+json">

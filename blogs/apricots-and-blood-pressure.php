@@ -10,12 +10,12 @@
     <meta property="og:title" content="Apricots for Blood Pressure Control" />
     <meta property="og:description" content="Learn how apricots can naturally lower blood pressure. Discover the benefits of including apricots in your heart-healthy diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/apricots-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/apricots-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/apricots-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/apricots-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Apricots And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/apricots-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/apricots-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Apricots for Blood Pressure Control</h1>
-<p>Are you looking for natural ways to manage your blood pressure? Have you considered the impact of apricots on your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> control? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily activities, making simple tasks feel challenging. Understanding the role of apricots in lowering blood pressure naturally could be the key to improving your heart health. Let's explore the benefits of apricots for hypertension.</p>
+<p>Are you looking for natural ways to manage your blood pressure? Have you considered the impact of apricots on your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> control? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly affect your daily activities, making simple tasks feel challenging. Understanding the role of apricots in lowering blood pressure naturally could be the key to improving your heart health. Let's explore the benefits of apricots for hypertension.</p>
 <h2 class="sec-scrl" id="potassium">Why Potassium in Apricots is Essential for Hypertension Management</h2>
 <p>Apricots are a great source of potassium, a mineral that plays a crucial role in managing blood pressure levels. Here's how potassium in apricots helps with hypertension control:</p>
 <ul>

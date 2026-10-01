@@ -10,12 +10,12 @@
     <meta property="og:title" content="Top Nuts for Heart Health" />
     <meta property="og:description" content="Discover the top nuts for heart health: boost your cardiovascular wellness with these powerhouse snacks full of omega 3s and antioxidants!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/best-nuts-for-cardiovascular-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/best-nuts-for-cardiovascular-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/best-nuts-for-cardiovascular-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/best-nuts-for-cardiovascular-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Best Nuts For Cardiovascular Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/best-nuts-for-cardiovascular-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/best-nuts-for-cardiovascular-health"
         }
     ]
 }
@@ -142,12 +142,12 @@
 </ul>
 <p>By incorporating these nuts into your diet, you can help lower inflammation levels and support overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">Nuts for Blood Pressure Control</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and stroke, making it crucial to maintain healthy blood pressure levels. Nuts like cashews, pistachios, and hazelnuts are packed with nutrients that can help support blood pressure control and improve heart health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and stroke, making it crucial to maintain healthy blood pressure levels. Nuts like cashews, pistachios, and hazelnuts are packed with nutrients that can help support blood pressure control and improve heart health.</p>
 <p>Cashews are a good source of magnesium, a mineral that plays a key role in regulating blood pressure levels and supporting cardiovascular function. Pistachios contain potassium, a vital mineral that helps lower blood pressure by balancing sodium levels in the body. Hazelnuts are rich in antioxidants and healthy fats that can contribute to better heart health and blood pressure management.</p>
 <p>Adding these nuts to your diet as a snack or incorporating them into your meals can be a simple yet effective way to promote healthy blood pressure and reduce the risk of heart complications.</p>
 <h2 class="sec-scrl" id="heart-attack-risk">Nuts for Reducing Heart Attack Risk</h2>
 <p>Reducing the risk of heart attacks is a top priority for many individuals looking to improve their cardiovascular wellness. Certain nuts, such as walnuts, pecans, and pine nuts, offer unique benefits that can help lower the risk of heart attacks and support overall heart health.</p>
-<p>Walnuts are rich in omega-3 fatty acids, which have been associated with a reduced risk of heart disease and improved heart function. Pecans contain plant compounds that have been shown to lower LDL cholesterol and reduce inflammation, both of which are critical factors in <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention. Pine nuts are a good source of antioxidants, vitamins, and minerals that can help protect the heart and reduce the risk of cardiovascular events.</p>
+<p>Walnuts are rich in omega-3 fatty acids, which have been associated with a reduced risk of heart disease and improved heart function. Pecans contain plant compounds that have been shown to lower LDL cholesterol and reduce inflammation, both of which are critical factors in <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention. Pine nuts are a good source of antioxidants, vitamins, and minerals that can help protect the heart and reduce the risk of cardiovascular events.</p>
 <p>By incorporating a variety of nuts into your diet and enjoying them as part of a balanced eating plan, you can take significant steps towards reducing your risk of heart attacks and enhancing your overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>When it comes to supporting your cardiovascular health, the best nuts can be powerful allies. From managing cholesterol levels and reducing inflammation to controlling blood pressure and lowering the risk of heart attacks, nuts offer a wide range of benefits that can make a significant impact on your heart health.</p>

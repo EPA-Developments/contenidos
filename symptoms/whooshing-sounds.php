@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment for Whooshing Sounds in Chest" >
   <meta property="og:description" content="Whooshing sounds in the chest could indicate heart issues. Know more about its causes, diagnosis, and treatments for better health outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/whooshing-sounds">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/whooshing-sounds">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/whooshing-sounds" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/whooshing-sounds" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Whooshing Sounds",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/whooshing-sounds"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/whooshing-sounds"  
       }]
     }
   </script>
@@ -190,7 +190,7 @@
 <p>These sounds are often described as a whooshing sensation in the heart or a blood flow whooshing sound.</p>
 <p>While some individuals may experience these sounds occasionally and without any underlying health issues, persistent or sudden onset of whooshing sounds may indicate an underlying medical condition.</p>
 <p>Symptoms of whooshing sounds can vary from person to person but commonly include a sensation of whooshing in the chest, audible blood flow, or a whooshing noise in the chest.</p>
-<p>These sounds may be intermittent or continuous and can be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>.</p>
+<p>These sounds may be intermittent or continuous and can be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>.</p>
 <p>It is essential to pay attention to these symptoms and seek medical advice if you experience persistent or concerning whooshing sounds in your chest.</p>
 <p>While not all cases of whooshing sounds are indicative of a serious health issue, it is crucial to rule out any underlying conditions through proper evaluation and diagnosis.</p>
 <h2 id="forms">What are the Forms of Whooshing sounds?</h2>
@@ -209,7 +209,7 @@
 <li>Turbulent blood flow: Irregular blood flow patterns within the blood vessels or heart chambers can create whooshing sounds.</li>
 <li>Heart valve issues: Malfunctioning heart valves can lead to abnormal blood flow, resulting in whooshing sounds.</li>
 <li>Aneurysm: A bulge in a blood vessel can cause turbulent blood flow and produce whooshing noises.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Increased blood pressure can lead to turbulent blood flow, contributing to whooshing sounds.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Increased blood pressure can lead to turbulent blood flow, contributing to whooshing sounds.</li>
 </ul>
 <p>Other possible causes of whooshing sounds in the chest may include anemia, hyperthyroidism, or certain medications.</p>
 <p>It is essential to undergo a thorough evaluation by a healthcare provider to determine the specific cause of the whooshing sounds and initiate appropriate management.</p>
@@ -221,10 +221,10 @@
 </ul>
 <p>Advanced diagnostic techniques may be necessary in certain cases, such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This imaging test uses sound waves to create a detailed picture of the heart's structure and function.</li>
 <li>Cardiac MRI: Magnetic resonance imaging can provide detailed images of the heart and blood vessels to assess for any abnormalities contributing to the whooshing sounds.</li>
 </ul>
-<p>Additional tests such as blood tests, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), or a stress test may also be recommended based on your symptoms and medical history.</p>
+<p>Additional tests such as blood tests, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), or a stress test may also be recommended based on your symptoms and medical history.</p>
 <p>It is essential to follow your healthcare provider's recommendations for diagnostic testing to accurately identify the cause of the whooshing sounds.</p>
 <h2 id="treatment">What is the Treatment for Whooshing sounds?</h2>
 <p>Treatment for whooshing sounds in the chest depends on the underlying cause identified through diagnostic evaluation.</p>

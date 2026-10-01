@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Bananas for Blood Pressure: Nature's Remedy&quot;" />
     <meta property="og:description" content="Discover how bananas can naturally help manage blood pressure. Learn about the benefits of potassium for cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bananas-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bananas-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bananas-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bananas-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bananas For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bananas-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bananas-for-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Bananas for Blood Pressure: A Natural Remedy</h1>
-<p>Are you struggling to manage your blood pressure effectively? Do you find yourself constantly worrying about the impact of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> on your daily activities? Bananas might just be the answer you've been looking for. Let's explore the incredible benefits of bananas in supporting healthy blood pressure levels and overall cardiovascular health.</p>
+<p>Are you struggling to manage your blood pressure effectively? Do you find yourself constantly worrying about the impact of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> on your daily activities? Bananas might just be the answer you've been looking for. Let's explore the incredible benefits of bananas in supporting healthy blood pressure levels and overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="hypertension">Can Bananas Help Manage Hypertension?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can have serious implications for your health. One key factor in managing hypertension is maintaining a healthy diet. Bananas are a great addition to your daily meals due to their rich potassium content, which is known to help regulate blood pressure levels.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can have serious implications for your health. One key factor in managing hypertension is maintaining a healthy diet. Bananas are a great addition to your daily meals due to their rich potassium content, which is known to help regulate blood pressure levels.</p>
 <p>Here are some ways in which bananas can contribute to managing hypertension:</p>
 <ul>
 <li>**Potassium Power**: Bananas are packed with potassium, a mineral that plays a crucial role in balancing sodium levels in the body. By reducing sodium levels, potassium helps relax blood vessel walls, which in turn lowers blood pressure.</li>

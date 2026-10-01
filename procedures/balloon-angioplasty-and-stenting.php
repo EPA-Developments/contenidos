@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Balloon Angioplasty and Stenting: Procedure, Benefits, Risks & Recovery">
   <meta property="og:description" content="Learn about the minimally invasive balloon angioplasty and stenting procedure for coronary artery blockages. Find out how angioplasty with stenting can improve heart health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/balloon-angioplasty-and-stenting">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/balloon-angioplasty-and-stenting">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/balloon-angioplasty-and-stenting" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/balloon-angioplasty-and-stenting" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Balloon angioplasty and stenting",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/balloon-angioplasty-and-stenting"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/balloon-angioplasty-and-stenting"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Lower Chest Pain: Causes, Symptoms, and Treatment Options" >
   <meta property="og:description" content="Lower chest pain may be linked to heart problems. Know more about its causes, symptoms, diagnosis, and treatment for better heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/lower-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/lower-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/lower-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/lower-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lower Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/lower-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/lower-chest-pain"  
       }]
     }
   </script>
@@ -188,8 +188,8 @@
             <div class="article-content"><h1>Lower Chest Pain: Causes, Symptoms, and Diagnosis</h1>
 <p>Lower chest pain refers to any discomfort, pressure, or pain below the ribcage. It can manifest as a dull ache, sharp pain, or even a burning sensation.</p>
 <p>This type of pain can be alarming, as it may be mistaken for heart-related issues due to its location. Lower chest pain can originate from various structures in the chest, including the diaphragm, ribs, muscles, and organs in the abdomen.</p>
-<p>Symptoms of lower chest pain can vary depending on the underlying cause. Some common symptoms include chest discomfort, substernal pain (pain beneath the breastbone), pain near the diaphragm, chest ache, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sharp-chest-pain">sharp chest pain</a>, and lower thoracic pain.</p>
-<p>It is crucial to differentiate lower chest pain from upper <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, as the causes and treatment options may differ significantly.</p>
+<p>Symptoms of lower chest pain can vary depending on the underlying cause. Some common symptoms include chest discomfort, substernal pain (pain beneath the breastbone), pain near the diaphragm, chest ache, <a href="https://contenidos.segundaopinionmedica.org/symptoms/sharp-chest-pain">sharp chest pain</a>, and lower thoracic pain.</p>
+<p>It is crucial to differentiate lower chest pain from upper <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, as the causes and treatment options may differ significantly.</p>
 <h2 id="forms">What are the Forms of Lower chest pain?</h2>
 <p>Lower chest pain can present in different forms, each with its unique set of symptoms and related concepts.</p>
 <ul>
@@ -203,7 +203,7 @@
 <ul>
 <li>Gastrointestinal issues: GERD, gastritis, peptic ulcers, and gallbladder disease can all manifest as lower chest pain.</li>
 <li>Musculoskeletal problems: Muscle strains, rib fractures, and costochondritis can cause chest pain in the lower chest area.</li>
-<li>Cardiac issues: Heart-related problems such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a> can present as lower chest pain.</li>
+<li>Cardiac issues: Heart-related problems such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a> can present as lower chest pain.</li>
 <li>Respiratory conditions: Pneumonia, pleurisy, or asthma exacerbations can lead to lower chest pain.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Lower chest pain?</h2>
@@ -226,7 +226,7 @@
 <p>It is essential to seek medical attention if you experience the following symptoms or stages of lower chest pain:</p>
 <ul>
 <li>Persistent or severe chest pain that does not improve with rest or over-the-counter medications.</li>
-<li>Chest pain accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</li>
+<li>Chest pain accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, nausea, sweating, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</li>
 <li>Chest pain that radiates to the jaw, neck, shoulder, back, or arms.</li>
 <li>Chest pain in individuals with a history of heart disease, diabetes, or other risk factors for cardiac issues.</li>
 </ul>

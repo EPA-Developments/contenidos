@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="After Angioplasty: How Many Days Rest for Recovery?">
   <meta property="og:description" content="Discover how many days of rest are needed for recovery after angioplasty. Get expert advice on post-procedure care and recovery time.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/after-angioplasty-how-many-days-rest-for-recovery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/after-angioplasty-how-many-days-rest-for-recovery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/after-angioplasty-how-many-days-rest-for-recovery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/after-angioplasty-how-many-days-rest-for-recovery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "After Angioplasty: How Many Days Rest For Recovery?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/after-angioplasty-how-many-days-rest-for-recovery"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/after-angioplasty-how-many-days-rest-for-recovery"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Top Cardiovascular Disease Treatments Today" />
     <meta property="og:description" content="Discover the top cardiovascular disease treatments for a healthier heart today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-treatment-and-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-treatment-and-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-treatment-and-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-treatment-and-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiovascular Disease Treatment And Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiovascular-disease-treatment-and-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiovascular-disease-treatment-and-prevention"
         }
     ]
 }
@@ -173,8 +173,8 @@
 <h2 class="sec-scrl" id="early-diagnosis-techniques">Early Diagnosis Techniques</h2>
 <p>Early diagnosis of cardiovascular disease is key to preventing complications and improving outcomes. Here are some common techniques used:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): A test that records the electrical activity of the heart to detect abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Uses sound waves to create detailed images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): A test that records the electrical activity of the heart to detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Uses sound waves to create detailed images of the heart's structure and function.</li>
 <li>Cardiac CT Scan: Provides detailed images of the heart and blood vessels to detect blockages or abnormalities.</li>
 </ul>
 <h2 class="sec-scrl" id="lifestyle-modification">Lifestyle Modification</h2>

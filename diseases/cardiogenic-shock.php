@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiogenic Shock: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiogenic shock is a severe heart condition reducing blood flow. Know its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiogenic Shock",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock"
       }]
     }
   </script>
@@ -161,26 +161,26 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Cardiogenic Shock</h1>
-<p>Cardiogenic shock is a severe condition where the heart suddenly can't pump enough blood to meet the body's needs. It's a medical emergency requiring immediate treatment. This condition is rare but very serious, often caused by a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or other heart issues. It can lead to organ damage or even death if not treated promptly. If you suspect someone is experiencing symptoms of cardiogenic shock, seek medical help right away to improve their chances of recovery.</p>
+<p>Cardiogenic shock is a severe condition where the heart suddenly can't pump enough blood to meet the body's needs. It's a medical emergency requiring immediate treatment. This condition is rare but very serious, often caused by a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or other heart issues. It can lead to organ damage or even death if not treated promptly. If you suspect someone is experiencing symptoms of cardiogenic shock, seek medical help right away to improve their chances of recovery.</p>
 <h2 id="causes">Causes of Cardiogenic Shock</h2>
 <p><ul>
 <li>Severe heart attack leading to damaged heart muscle.</li>
 <li>Heart failure causing the heart to pump ineffectively.</li>
 <li>Serious arrhythmias disrupting the heart's rhythm.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> weakening the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> weakening the heart muscle.</li>
 <li>Valve problems affecting the heart's ability to function properly.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Cardiogenic Shock</h2>
 <p>Recognizing the symptoms of Cardiogenic Shock is crucial as early detection can significantly improve outcomes for patients. This condition occurs when the heart is unable to pump enough blood to meet the body's needs, leading to organ failure. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Confusion or altered mental status</li>
-<li>Cold, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">clammy skin</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weak-pulse">weak pulse</a></li>
+<li>Cold, <a href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">clammy skin</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weak-pulse">weak pulse</a></li>
 <li>Rapid heart rate</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
 <li>Decreased urine output</li>
 </ul>
 

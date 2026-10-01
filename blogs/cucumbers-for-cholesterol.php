@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cucumbers for Cholesterol: A Natural Solution&quot;" />
     <meta property="og:description" content="Learn how cucumbers help manage cholesterol levels naturally for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cucumbers For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cucumbers-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cucumbers-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Cucumbers for Cholesterol Control</h1>
-<p>Are you struggling to manage your cholesterol levels despite making changes to your diet and lifestyle? Have you considered the potential benefits of incorporating cucumbers into your daily meals? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your overall well-being and increase the risk of heart disease. Let's explore how cucumbers, a simple and refreshing vegetable, can play a role in helping you regulate your cholesterol levels.</p>
+<p>Are you struggling to manage your cholesterol levels despite making changes to your diet and lifestyle? Have you considered the potential benefits of incorporating cucumbers into your daily meals? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact your overall well-being and increase the risk of heart disease. Let's explore how cucumbers, a simple and refreshing vegetable, can play a role in helping you regulate your cholesterol levels.</p>
 <h2 class="sec-scrl" id="cucumbers-for-cholesterol">Cucumbers for Cholesterol</h2>
 <p>When it comes to cholesterol management, what you eat plays a crucial role. Cucumbers are not only low in calories but also offer various nutrients that can support your cardiovascular health. Here's how cucumbers can aid in controlling cholesterol levels:</p>
 <ul>

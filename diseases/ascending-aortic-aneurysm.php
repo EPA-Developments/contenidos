@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ascending Aortic Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Ascending Aortic Aneurysm weakens the aorta, risking rupture. Know the warning symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ascending-aortic-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ascending-aortic-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ascending-aortic-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ascending-aortic-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Ascending Aortic Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ascending-aortic-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ascending-aortic-aneurysm"
       }]
     }
   </script>
@@ -161,28 +161,28 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Ascending Aortic Aneurysm</h1>
-<p>An Ascending Aortic Aneurysm is a bulge in the large blood vessel that carries blood away from the heart. It's significant because if it grows too large, it can burst and lead to life-threatening bleeding. While relatively rare, it's crucial to detect and monitor it as it can silently enlarge over time. Understanding its risks and getting regular check-ups are vital for early detection and management. If you have risk factors like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or a family history, talk to your healthcare provider for guidance.</p>
+<p>An Ascending Aortic Aneurysm is a bulge in the large blood vessel that carries blood away from the heart. It's significant because if it grows too large, it can burst and lead to life-threatening bleeding. While relatively rare, it's crucial to detect and monitor it as it can silently enlarge over time. Understanding its risks and getting regular check-ups are vital for early detection and management. If you have risk factors like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or a family history, talk to your healthcare provider for guidance.</p>
 <h2 id="causes">Causes of Ascending Aortic Aneurysm</h2>
 <p>Ascending Aortic Aneurysm can develop due to various factors:
 
 <ul>
 <li>Genetics: Family history of aortic aneurysms can increase the risk.</li>
 <li>Age: The risk increases with age, especially over 65.</li>
-<li>High blood pressure: Uncontrolled <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can weaken the aortic wall.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>: Build-up of plaque in the arteries can weaken the aortic wall.</li>
-<li>Connective tissue disorders: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a> can predispose individuals to aneurysms.</li>
+<li>High blood pressure: Uncontrolled <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can weaken the aortic wall.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>: Build-up of plaque in the arteries can weaken the aortic wall.</li>
+<li>Connective tissue disorders: Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a> can predispose individuals to aneurysms.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Ascending Aortic Aneurysm</h2>
 <p>Recognizing the symptoms of an Ascending Aortic Aneurysm is crucial as early detection can significantly improve outcomes. This condition, although often asymptomatic, can lead to life-threatening complications if left untreated. Being aware of the following signs can prompt timely medical intervention:
 
 <ul>
-<li>Chest or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Chest or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Hoarseness</li>
 <li>Coughing</li>
 <li>Difficulty swallowing</li>
 <li>Swelling in the neck</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if you have risk factors like a family history of aortic aneurysms, high blood pressure, or connective tissue disorders, seek medical attention promptly. Early diagnosis and management can prevent complications and improve your overall prognosis.</p>
@@ -192,7 +192,7 @@ If you experience any of these symptoms, especially if you have risk factors lik
 <ul>
 <li>CT scan: Provides detailed cross-sectional images of the aorta.</li>
 <li>MRI: Offers high-resolution images without radiation exposure.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to visualize the aorta and assess blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to visualize the aorta and assess blood flow.</li>
 <li>Angiography: Involves injecting dye into the blood vessels for X-ray imaging.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Ascending Aortic Aneurysm</h2>

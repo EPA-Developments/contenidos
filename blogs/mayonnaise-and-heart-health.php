@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mayonnaise Impact on Heart Health: Insights" />
     <meta property="og:description" content="Discover the impact of mayonnaise on heart health and cholesterol levels in this informative blog post. Learn how this condiment may affect your cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mayonnaise-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mayonnaise-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mayonnaise-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mayonnaise-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mayonnaise And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mayonnaise-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mayonnaise-and-heart-health"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <li>Limit your overall intake of saturated fats from various sources, including mayonnaise, to protect your heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-health">The Impact of Mayonnaise on Cardiovascular Health</h2>
-<p>Consuming mayonnaise excessively can contribute to poor cardiovascular health by increasing your intake of unhealthy fats and calories. These factors can lead to weight gain, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, and elevated blood pressure, all of which are detrimental to heart health.</p>
+<p>Consuming mayonnaise excessively can contribute to poor cardiovascular health by increasing your intake of unhealthy fats and calories. These factors can lead to weight gain, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, and elevated blood pressure, all of which are detrimental to heart health.</p>
 <p>To promote cardiovascular health, consider using mayonnaise sparingly and pairing it with nutrient-dense foods like vegetables, lean proteins, and whole grains. This can help offset the potential negative effects of mayonnaise on your heart.</p>
 <h2 class="sec-scrl" id="heart-disease-risk">Mitigating Heart Disease Risk with a Balanced Diet</h2>
 <p>Heart disease prevention involves adopting a heart-healthy diet that prioritizes whole foods and limits processed and high-fat items like mayonnaise. By focusing on a diet rich in fruits, vegetables, whole grains, and lean proteins, you can reduce your risk of heart disease and improve overall cardiovascular well-being.</p>

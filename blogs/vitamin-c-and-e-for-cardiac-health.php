@@ -10,12 +10,12 @@
     <meta property="og:title" content="Optimizing Heart Health with Vitamin C and E" />
     <meta property="og:description" content="Discover the powerful synergy of Vitamin C and E for heart health. Enhance your cardiac wellness with this potent antioxidant combination." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-e-for-cardiac-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-e-for-cardiac-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-e-for-cardiac-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-e-for-cardiac-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And E For Cardiac Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-e-for-cardiac-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-e-for-cardiac-health"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Both Vitamin C and E are potent antioxidants that play a crucial role in fighting oxidative stress in the body. When combined, these antioxidants work synergistically to neutralize harmful free radicals that can damage cells and contribute to heart disease. Vitamin C helps regenerate Vitamin E, maximizing its antioxidant potential and enhancing overall cardiovascular protection.</p>
 <p>The antioxidant synergy between Vitamin C and E not only supports heart health but also boosts the immune system, reducing the risk of infections and inflammation that can impact cardiovascular function.</p>
 <h2 class="sec-scrl" id="heart-protection">Heart Protection</h2>
-<p>By combining Vitamin C and E in your daily regimen, you can provide comprehensive protection for your heart. Vitamin C helps maintain healthy blood pressure levels, supports the flexibility of blood vessels, and reduces the risk of plaque buildup in arteries. On the other hand, Vitamin E prevents LDL cholesterol oxidation, lowering the chances of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</p>
+<p>By combining Vitamin C and E in your daily regimen, you can provide comprehensive protection for your heart. Vitamin C helps maintain healthy blood pressure levels, supports the flexibility of blood vessels, and reduces the risk of plaque buildup in arteries. On the other hand, Vitamin E prevents LDL cholesterol oxidation, lowering the chances of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart attacks.</p>
 <ul>
 <li>Enhanced blood circulation</li>
 <li>Reduced inflammation in the cardiovascular system</li>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Diagnosis, Causes and Treatment for Difficulty Breathing" >
   <meta property="og:description" content="Difficulty breathing can be linked to heart problems. Read more about the causes, diagnosis, and treatments for this concerning symptom." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Difficulty Breathing",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing"  
       }]
     }
   </script>
@@ -166,7 +166,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes,Symptoms and Treatment for Difficulty Breathing</h1>
-<p>Difficulty breathing, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a condition where a person experiences discomfort or distress while breathing. It can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/labored-breathing">labored breathing</a>, or respiratory issues.</p>
+<p>Difficulty breathing, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a condition where a person experiences discomfort or distress while breathing. It can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/labored-breathing">labored breathing</a>, or respiratory issues.</p>
 <p>Individuals with difficulty breathing may feel like they are not getting enough air or struggle to breathe deeply. This sensation can be intermittent or constant, depending on the underlying cause.</p>
 <h2 id="forms">What are the Forms of Difficulty breathing?</h2>
 <p>There are various forms of difficulty breathing, each with its specific symptoms and related concepts. These include shortness of breath, breathing problems, chest tightness, labored breathing, dyspnea, respiratory issues, and breathing distress.</p>
@@ -181,7 +181,7 @@
 <p>Treatment for difficulty breathing varies depending on the underlying cause and severity of symptoms. Medical interventions may include medications like bronchodilators, steroids, or antibiotics, depending on the condition.</p>
 <p>Lifestyle changes such as quitting smoking, losing weight, or managing stress can also improve breathing difficulties. In advanced cases, procedures like oxygen therapy, pulmonary rehabilitation, or surgery may be necessary to alleviate symptoms and improve lung function.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience persistent or severe difficulty breathing, especially if accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, or bluish lips or nails.</p>
+<p>It is essential to seek medical attention if you experience persistent or severe difficulty breathing, especially if accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, or bluish lips or nails.</p>
 <p>Additionally, if breathing difficulties worsen with physical activity, interfere with daily tasks, or disrupt sleep, it is crucial to consult a healthcare provider promptly. Early diagnosis and treatment can help manage breathing problems effectively and prevent complications.</p>
 <h2>Home Remedies for Difficulty breathing</h2>
 <p>In addition to medical treatment, there are some home remedies that can help alleviate mild breathing difficulties and support overall respiratory health.</p>

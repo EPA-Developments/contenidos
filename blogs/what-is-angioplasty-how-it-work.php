@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="What Is Angioplasty: How It Works | Explanation & Procedure">
   <meta property="og:description" content="Learn what angioplasty is and how it works in this informative guide. Discover the benefits and risks of this common heart procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/what-is-angioplasty-how-it-work">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/what-is-angioplasty-how-it-work">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/what-is-angioplasty-how-it-work" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/what-is-angioplasty-how-it-work" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "What Is Angioplasty: How It Works | Explanation & Procedure",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/what-is-angioplasty-how-it-work"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/what-is-angioplasty-how-it-work"  
       }]
     }
   </script>

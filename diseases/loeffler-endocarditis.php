@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Loeffler Endocarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Loeffler Endocarditis is a rare heart condition caused by eosinophilic infiltration. Know more about its causes, symptoms, and possible treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/loeffler-endocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/loeffler-endocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/loeffler-endocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/loeffler-endocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Loeffler Endocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/loeffler-endocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/loeffler-endocarditis"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Loeffler Endocarditis</h1>
-<p>Loeffler Endocarditis is a rare condition where the heart's inner lining becomes inflamed. This inflammation can lead to complications like heart failure if not treated promptly. While it's uncommon, Loeffler Endocarditis is significant because it affects the heart's ability to function properly. Although the exact prevalence is unknown, it is considered a rare condition. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, it's essential to consult a healthcare provider for proper evaluation and management.</p>
+<p>Loeffler Endocarditis is a rare condition where the heart's inner lining becomes inflamed. This inflammation can lead to complications like heart failure if not treated promptly. While it's uncommon, Loeffler Endocarditis is significant because it affects the heart's ability to function properly. Although the exact prevalence is unknown, it is considered a rare condition. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, it's essential to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Loeffler Endocarditis</h2>
 <p>Loeffler Endocarditis, a rare condition, usually results from certain factors like:
 
@@ -176,7 +176,7 @@
 <ul>
 <li>Chest pain</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
 <li>Fever</li>
 <li>Unintentional weight loss</li>
@@ -189,8 +189,8 @@ Detecting these signs promptly can lead to early diagnosis and appropriate manag
 <ul>
 <li>Thorough medical history and physical examination</li>
 <li>Blood tests to check for elevated eosinophils</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart rhythm</li>
 <li>Cardiac MRI or CT scan for detailed imaging of the heart</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Loeffler Endocarditis</h2>
@@ -223,7 +223,7 @@ Detecting these signs promptly can lead to early diagnosis and appropriate manag
 <ul>
 <li>Following up with routine medical check-ups and cardiac evaluations</li>
 <li>Monitoring heart function through tests like echocardiograms and ECGs</li>
-<li>Seeking immediate medical attention if symptoms like chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> occur</li>
+<li>Seeking immediate medical attention if symptoms like chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> occur</li>
 </ul>
 <h3>Supportive Care:</h3>
 <ul>

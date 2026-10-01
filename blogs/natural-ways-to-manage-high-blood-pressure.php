@@ -10,12 +10,12 @@
     <meta property="og:title" content="Natural Ways to Lower Blood Pressure" />
     <meta property="og:description" content="Learn effective natural ways to manage high blood pressure, including diet tips, stress management techniques, sodium intake advice, and herbal remedies." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/natural-ways-to-manage-high-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/natural-ways-to-manage-high-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/natural-ways-to-manage-high-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/natural-ways-to-manage-high-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Natural Ways To Manage High Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/natural-ways-to-manage-high-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/natural-ways-to-manage-high-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Natural Ways to Manage High Blood Pressure</h1>
-<p>Are you struggling to keep your blood pressure under control? The constant worry about <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, making even simple activities a challenge. How can you take charge of your blood pressure naturally and improve your overall well-being?</p>
+<p>Are you struggling to keep your blood pressure under control? The constant worry about <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, making even simple activities a challenge. How can you take charge of your blood pressure naturally and improve your overall well-being?</p>
 <h2 class="sec-scrl" id="blood-pressure-control">Blood Pressure Control</h2>
-<p>High blood pressure, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition that can lead to serious health issues if left unchecked. Fortunately, there are effective natural ways to manage and control your blood pressure levels. Here are some strategies to help you keep your blood pressure in check:</p>
+<p>High blood pressure, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition that can lead to serious health issues if left unchecked. Fortunately, there are effective natural ways to manage and control your blood pressure levels. Here are some strategies to help you keep your blood pressure in check:</p>
 <ul>
 <li>Engage in regular physical activity, such as brisk walking, cycling, or swimming, to improve heart health and lower blood pressure.</li>
 <li>Follow a balanced diet rich in fruits, vegetables, whole grains, and lean proteins to reduce sodium intake and maintain a healthy weight.</li>

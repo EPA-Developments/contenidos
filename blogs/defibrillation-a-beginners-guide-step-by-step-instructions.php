@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Defibrillation: A Beginner's Guide - Step-by-Step Instructions">
   <meta property="og:description" content="Learn how to use a defibrillator with our beginner's guide. Discover the basics of defibrillation and potentially life-saving techniques.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/defibrillation-a-beginners-guide---step-by-step-instructions">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/defibrillation-a-beginners-guide---step-by-step-instructions">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/defibrillation-a-beginners-guide---step-by-step-instructions" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/defibrillation-a-beginners-guide---step-by-step-instructions" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Defibrillation: A Beginner'S Guide - Step-By-Step Instructions",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/defibrillation-a-beginners-guide---step-by-step-instructions"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/defibrillation-a-beginners-guide---step-by-step-instructions"  
       }]
     }
   </script>

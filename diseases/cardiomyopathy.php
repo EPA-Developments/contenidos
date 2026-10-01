@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiomyopathy weakens the heart, affecting blood pumping. Read more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy"
       }]
     }
   </script>
@@ -167,7 +167,7 @@
 
 <ul>
 <li>Genetics: Inherited genetic mutations can play a significant role.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Uncontrolled <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can strain the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Uncontrolled <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can strain the heart muscle.</li>
 <li>Heart valve problems: Issues with heart valves can impact heart function.</li>
 <li>Coronary artery disease: Reduced blood flow to the heart can lead to heart muscle damage.</li>
 </ul></p>
@@ -175,12 +175,12 @@
 <p>Recognizing the symptoms of Cardiomyopathy early is crucial for improving outcomes. This condition affects the heart muscle, making it harder for the heart to pump blood to the rest of the body. Early detection allows for prompt treatment and management, potentially preventing complications.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Swelling in the legs, ankles, or feet</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they worsen over time or interfere with your daily activities, consult a healthcare provider promptly. Early diagnosis and intervention play a significant role in managing Cardiomyopathy effectively and improving quality of life.</p>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially if they worsen over time or 
 <ul>
 <li>Physical examination and medical history review</li>
 <li>Blood tests to check for biomarkers</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>Echocardiogram to evaluate heart structure and function</li>
 <li>Cardiac MRI or CT scans for detailed imaging</li>
 <li>Cardiac catheterization for precise measurements</li>

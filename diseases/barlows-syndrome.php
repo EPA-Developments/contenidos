@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Barlow'S Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Barlow’s Syndrome affects mitral valves, causing heart issues. Know its symptoms, causes, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/barlows-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/barlows-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/barlows-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/barlows-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Barlow'S Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/barlows-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/barlows-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Barlow'S Syndrome</h1>
-<p>Barlow's Syndrome, also known as mitral valve prolapse, is a heart condition where the valve between the heart's upper and lower chambers doesn't close properly. This can lead to blood flowing backward in the heart. It's significant because it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and in severe cases, heart complications. About 2-3% of the population has Barlow's Syndrome, with most cases being mild and not requiring treatment. Regular monitoring by a healthcare provider is crucial to manage symptoms and prevent complications.</p>
+<p>Barlow's Syndrome, also known as mitral valve prolapse, is a heart condition where the valve between the heart's upper and lower chambers doesn't close properly. This can lead to blood flowing backward in the heart. It's significant because it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and in severe cases, heart complications. About 2-3% of the population has Barlow's Syndrome, with most cases being mild and not requiring treatment. Regular monitoring by a healthcare provider is crucial to manage symptoms and prevent complications.</p>
 <h2 id="causes">Causes of Barlow'S Syndrome</h2>
 <p>Barlow's syndrome, also known as mitral valve prolapse, can develop due to various factors. These include:
 <ul>
@@ -176,17 +176,17 @@
 
 <ul>
 <li>Chest pain or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Frequent respiratory infections</li>
 </ul></p>
 <h2>Diagnosis of Barlow'S Syndrome</h2>
 <p>Barlow's Syndrome, also known as mitral valve prolapse, requires an accurate diagnosis for appropriate management. To diagnose this condition, healthcare providers typically use various diagnostic methods to assess the heart's structure and function. These may include:
 
 <ul>
-<li>Physical examination to check for heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">murmurs</a></li>
+<li>Physical examination to check for heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">murmurs</a></li>
 <li>Echocardiogram to visualize the heart's valves and chambers</li>
 <li>Electrocardiogram (ECG) to assess the heart's electrical activity</li>
 </ul>

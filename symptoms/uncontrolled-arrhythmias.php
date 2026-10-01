@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Uncontrolled Arrhythmias: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Uncontrolled Arrhythmias affect heart rhythm and function. Know more about causes, diagnosis, forms and treatments for arrhythmia for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/uncontrolled-arrhythmias">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/uncontrolled-arrhythmias">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/uncontrolled-arrhythmias" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/uncontrolled-arrhythmias" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Uncontrolled Arrhythmias",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/uncontrolled-arrhythmias"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/uncontrolled-arrhythmias"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Uncontrolled Arrhythmias: Causes, Symptoms, and Forms</h1>
 <p>Uncontrolled arrhythmias refer to irregular heart rhythms that are not effectively managed or controlled. These abnormal heart rhythms can manifest as irregular, fast, slow, or erratic heartbeats, disrupting the heart's normal functioning.</p>
 <p>Uncontrolled arrhythmias can lead to severe health complications if left untreated.</p>
-<p>Symptoms of uncontrolled arrhythmias may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, and fatigue. These symptoms can vary in intensity and frequency, affecting an individual's quality of life.</p>
+<p>Symptoms of uncontrolled arrhythmias may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, and fatigue. These symptoms can vary in intensity and frequency, affecting an individual's quality of life.</p>
 <p>Uncontrolled arrhythmias are a critical heart rhythm abnormality that requires prompt medical attention.</p>
 <h2 id="forms">What are the Forms of Uncontrolled arrhythmias?</h2>
 <p>There are various forms of uncontrolled arrhythmias, each with specific symptoms and implications for heart health:</p>
@@ -203,8 +203,8 @@
 <h2 id="causes">What are the Causes of Uncontrolled arrhythmias?</h2>
 <p>Uncontrolled arrhythmias can be caused by various factors, including:</p>
 <ul>
-<li>Heart disease: Conditions such as coronary artery disease, heart failure, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> can disrupt the heart's electrical system.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart and lead to irregular heart rhythms.</li>
+<li>Heart disease: Conditions such as coronary artery disease, heart failure, or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> can disrupt the heart's electrical system.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can strain the heart and lead to irregular heart rhythms.</li>
 <li>Thyroid disorders: Overactive or underactive thyroid glands can affect heart function and rhythm.</li>
 <li>Electrolyte imbalances: Low levels of potassium, magnesium, or calcium can disrupt the heart's electrical signals.</li>
 <li>Substance abuse: Excessive alcohol consumption, tobacco use, or drug abuse can trigger arrhythmias.</li>

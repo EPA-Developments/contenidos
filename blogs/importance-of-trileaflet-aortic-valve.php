@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Importance of Trileaflet Aortic Valve">
   <meta property="og:description" content="Learn the importance of the trileaflet aortic valve in heart function and why it's crucial for cardiovascular health. Find out more here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/importance-of-trileaflet-aortic-valve">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/importance-of-trileaflet-aortic-valve">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/importance-of-trileaflet-aortic-valve" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/importance-of-trileaflet-aortic-valve" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Importance Of Trileaflet Aortic Valve",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/importance-of-trileaflet-aortic-valve"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/importance-of-trileaflet-aortic-valve"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Green Tea: Heart Disease Protection" />
     <meta property="og:description" content="Discover how green tea can help prevent heart disease. Learn about its benefits for heart health and reducing cardiovascular risk." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/green-tea-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/green-tea-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/green-tea-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Green Tea Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/green-tea-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/green-tea-heart-disease-prevention"
         }
     ]
 }
@@ -131,10 +131,10 @@
               <h1>The Relationship Between Green Tea and Heart Health</h1>
 <p>Are you looking for a natural way to protect your heart and improve your overall health? Green tea might be the answer you've been searching for. Discover how incorporating this simple beverage into your daily routine can have a significant impact on reducing your risk of heart disease. Imagine being able to take a proactive step towards better heart health with just a soothing cup of tea each day. Let's explore the powerful connection between green tea and heart disease prevention.</p>
 <h2 class="sec-scrl" id="arteriosclerosis">Can Green Tea Help Prevent Arteriosclerosis?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/arteriosclerosis">arteriosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries, is a significant risk factor for heart disease. Green tea contains potent antioxidants known as catechins, which have been shown to inhibit the processes that lead to arteriosclerosis. By including green tea in your daily routine, you can help protect your arteries from becoming clogged and reduce your risk of developing this dangerous condition.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/arteriosclerosis">arteriosclerosis</a>, a condition characterized by the hardening and narrowing of the arteries, is a significant risk factor for heart disease. Green tea contains potent antioxidants known as catechins, which have been shown to inhibit the processes that lead to arteriosclerosis. By including green tea in your daily routine, you can help protect your arteries from becoming clogged and reduce your risk of developing this dangerous condition.</p>
 <p>Moreover, green tea has anti-inflammatory properties that can further support arterial health by reducing inflammation and preventing the buildup of plaque along the artery walls. This dual action of antioxidants and anti-inflammatory compounds makes green tea a powerful ally in the fight against arteriosclerosis.</p>
 <h2 class="sec-scrl" id="heart-attack-prevention">Is Green Tea Effective in Preventing Heart Attacks?</h2>
-<p>Heart attacks are often the result of a sudden blockage in the coronary arteries, cutting off blood flow to the heart muscle. The catechins in green tea play a crucial role in preventing such blockages by improving blood flow and reducing the formation of blood clots. These beneficial effects can lower your risk of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and protect your heart from potential damage.</p>
+<p>Heart attacks are often the result of a sudden blockage in the coronary arteries, cutting off blood flow to the heart muscle. The catechins in green tea play a crucial role in preventing such blockages by improving blood flow and reducing the formation of blood clots. These beneficial effects can lower your risk of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and protect your heart from potential damage.</p>
 <ul>
 <li>Green tea promotes the dilation of blood vessels, ensuring that your heart receives an adequate supply of oxygen and nutrients.</li>
 <li>Regular consumption of green tea can help regulate cholesterol levels, further reducing the risk of plaque buildup and blockages in the arteries.</li>
@@ -144,7 +144,7 @@
 <p>Cardiovascular mortality, which refers to deaths related to heart and circulatory system problems, is a significant concern worldwide. Studies have shown that the regular consumption of green tea is associated with a reduced risk of cardiovascular mortality. The protective effects of green tea on the heart, including its ability to lower blood pressure and cholesterol levels, contribute to this decreased mortality rate.</p>
 <p>Additionally, the anti-inflammatory properties of green tea can help prevent damage to the heart muscle and reduce the risk of complications following cardiovascular events. By incorporating green tea into your daily routine, you can take a proactive step towards lowering your risk of cardiovascular mortality and enjoying a longer, healthier life.</p>
 <h2 class="sec-scrl" id="blood-pressure">How Does Green Tea Impact Blood Pressure?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common risk factor for heart disease and other serious health conditions. Green tea has been shown to have a modest yet beneficial effect on blood pressure levels. The catechins in green tea can help relax blood vessels and improve blood flow, leading to a slight reduction in blood pressure.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common risk factor for heart disease and other serious health conditions. Green tea has been shown to have a modest yet beneficial effect on blood pressure levels. The catechins in green tea can help relax blood vessels and improve blood flow, leading to a slight reduction in blood pressure.</p>
 <ul>
 <li>Regular consumption of green tea as part of a healthy lifestyle can contribute to maintaining optimal blood pressure levels.</li>
 <li>The antioxidant properties of green tea play a role in protecting the heart and blood vessels from damage caused by high blood pressure.</li>

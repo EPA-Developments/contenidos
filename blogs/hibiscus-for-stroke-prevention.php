@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Hibiscus for Stroke Prevention: Benefits Unveiled&quot;" />
     <meta property="og:description" content="Learn how hibiscus can help reduce stroke risk naturally. Discover its benefits for circulatory health and blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus For Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-for-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-for-stroke-prevention"
         }
     ]
 }
@@ -132,9 +132,9 @@
 <p>Are you looking for a natural way to reduce your risk of stroke while enhancing your overall well-being? What if there was a simple addition to your daily routine that could offer potential protection against this serious health concern? The answer may lie in the vibrant and beautiful hibiscus plant, known not only for its aesthetic appeal but also for its potential health benefits.</p>
 <h2 class="sec-scrl" id="stroke-prevention">Can Hibiscus Help Reduce the Risk of Stroke?</h2>
 <p>Recent research suggests that incorporating hibiscus into your diet may contribute to lowering the risk of stroke, a condition that can have debilitating consequences on daily activities. Hibiscus is rich in antioxidants, which play a crucial role in promoting cardiovascular health. Antioxidants help combat oxidative stress and inflammation in the body, both of which are significant contributors to the development of various cardiovascular diseases, including stroke.</p>
-<p>In addition to its antioxidant properties, hibiscus has been linked to reducing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, a major risk factor for stroke. By promoting relaxation of the blood vessels and improving blood flow, hibiscus may help regulate blood pressure levels and support overall circulatory health.</p>
+<p>In addition to its antioxidant properties, hibiscus has been linked to reducing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, a major risk factor for stroke. By promoting relaxation of the blood vessels and improving blood flow, hibiscus may help regulate blood pressure levels and support overall circulatory health.</p>
 <h2 class="sec-scrl" id="blood-pressure">Hibiscus and Blood Pressure: A Winning Combination</h2>
-<p>High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition that significantly increases the risk of stroke. The vasodilatory effects of hibiscus have been shown to help lower blood pressure levels, making it a promising natural remedy for those looking to manage this critical aspect of their health. Incorporating hibiscus tea or extract into your daily routine could potentially offer a simple yet effective way to support healthy blood pressure levels.</p>
+<p>High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition that significantly increases the risk of stroke. The vasodilatory effects of hibiscus have been shown to help lower blood pressure levels, making it a promising natural remedy for those looking to manage this critical aspect of their health. Incorporating hibiscus tea or extract into your daily routine could potentially offer a simple yet effective way to support healthy blood pressure levels.</p>
 <ul>
 <li>Studies have indicated that hibiscus may be as effective as certain antihypertensive medications in reducing blood pressure.</li>
 <li>Regular consumption of hibiscus tea has been associated with improvements in both systolic and diastolic blood pressure readings.</li>

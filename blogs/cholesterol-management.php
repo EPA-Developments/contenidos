@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cholesterol Management for Heart Health" />
     <meta property="og:description" content="Learn about cholesterol management and its impact on heart health. Discover how HDL, LDL, triglycerides, and lipid panels affect your cardiovascular screening." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cholesterol-management"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="LDL">Understanding LDL: The Role of "Bad" Cholesterol</h2>
 <p>Low-Density Lipoprotein (LDL) is often referred to as the "bad" cholesterol because high levels can lead to plaque buildup in your arteries. Here's why LDL levels are crucial in cholesterol management:</p>
 <ul>
-<li>Elevated LDL levels increase the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where arteries become narrowed and hardened.</li>
+<li>Elevated LDL levels increase the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where arteries become narrowed and hardened.</li>
 <li>Reducing LDL levels through lifestyle changes and medication can significantly lower the risk of heart disease.</li>
 <li>Avoiding trans fats and saturated fats can help maintain healthy LDL levels.</li>
 </ul>

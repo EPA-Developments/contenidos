@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Endtidal Co2 Monitoring: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Endtidal CO2 monitoring tracks breathing and lung function. Know more about its purpose, costs, and normal Range for effective patient care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/endtidal-co2-monitoring" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/endtidal-co2-monitoring" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/endtidal-co2-monitoring" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/endtidal-co2-monitoring" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "End-Tidal CO2 Monitoring",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/endtidal-co2-monitoring"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/endtidal-co2-monitoring"  
       }]
     }
   </script>
@@ -163,7 +163,7 @@
 <p>The role of end-tidal CO2 in monitoring anesthesia depth is significant as it helps anesthesiologists ensure that patients are adequately sedated during surgical procedures.</p>
 <p>By continuously monitoring ETCO2 levels, healthcare providers can adjust anesthesia dosages in real-time to maintain optimal sedation levels and prevent complications.</p>
 <p>End-tidal CO2 monitoring is also a valuable tool for detecting ventilation problems. By measuring the amount of CO2 in exhaled breath, healthcare providers can assess how well a patient's lungs are functioning and identify any abnormalities in ventilation.</p>
-<p>This information is crucial for diagnosing and managing respiratory conditions such as asthma, COPD, and pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>This information is crucial for diagnosing and managing respiratory conditions such as asthma, COPD, and pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <h2 id="purpose">What is the Purpose of Performing an End-Tidal CO2 Monitoring Test?</h2>
 <p>The primary purpose of performing an end-tidal CO2 monitoring test is to assess respiratory function and ensure adequate ventilation.</p>
 <p>By measuring the amount of CO2 present at the end of expiration, healthcare providers can evaluate how effectively a patient is breathing and detect any abnormalities in gas exchange.</p>

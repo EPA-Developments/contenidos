@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Mitral Valve Regurgitation: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Mitral Valve Regurgitation causes blood leakage. Read more about the symptoms, causes, and treatment for better heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-regurgitation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-regurgitation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-regurgitation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-regurgitation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Mitral Valve Regurgitation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/mitral-valve-regurgitation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/mitral-valve-regurgitation"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Mitral Valve Regurgitation</h1>
-<p>Mitral Valve Regurgitation occurs when the mitral valve in the heart doesn't close tightly, causing blood to flow backward. This can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>. It's a common heart valve disorder that can be caused by various factors like age, heart conditions, or infections. Understanding Mitral Valve Regurgitation's significance is essential as it can worsen over time if left untreated, potentially leading to heart failure. If you experience any symptoms, consult a healthcare provider for proper evaluation and management.</p>
+<p>Mitral Valve Regurgitation occurs when the mitral valve in the heart doesn't close tightly, causing blood to flow backward. This can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>. It's a common heart valve disorder that can be caused by various factors like age, heart conditions, or infections. Understanding Mitral Valve Regurgitation's significance is essential as it can worsen over time if left untreated, potentially leading to heart failure. If you experience any symptoms, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Mitral Valve Regurgitation</h2>
 <p>Mitral valve regurgitation can develop due to various factors, including: 
 <ul>
 <li>Heart valve abnormalities</li>
 <li>Heart attacks damaging the heart muscle</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>, an infection of the heart's inner lining</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a> affecting the heart valves</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>, an infection of the heart's inner lining</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a> affecting the heart valves</li>
 <li>Age-related degeneration of the valve</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Mitral Valve Regurgitation</h2>
@@ -177,7 +177,7 @@
 <ul>
 <li>Shortness of breath, especially during physical activity or when lying flat</li>
 <li>Fatigue or feeling tired easily</li>
-<li>Heart palpitations or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Heart palpitations or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swollen feet or ankles due to fluid retention</li>
 <li>Cough, especially at night or when lying down</li>
 </ul></p>
@@ -185,10 +185,10 @@
 <p>Accurate diagnosis of Mitral Valve Regurgitation is crucial to prevent complications and guide appropriate treatment. The diagnostic process typically involves a combination of tests to assess the severity and underlying cause of the condition. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Uses sound waves to create images of the heart, helping evaluate the structure and function of the mitral valve.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Uses sound waves to create images of the heart, helping evaluate the structure and function of the mitral valve.</li>
 <li>Cardiac MRI: Provides detailed images of the heart and can help determine the extent of regurgitation.</li>
 <li>CT Scan: Offers additional information about the heart's structure and blood flow.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure to measure pressure within the heart chambers and assess the severity of regurgitation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure to measure pressure within the heart chambers and assess the severity of regurgitation.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Mitral Valve Regurgitation</h2>
 <p>Mitral Valve Regurgitation can be managed through various treatment approaches tailored to each patient's specific needs. 

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Noonan Syndrome: Symptoms, Causes, and Treatment Guide">
   <meta property="og:description" content="Learn about Noonan Syndrome, a genetic disorder affecting development & growth. Discover symptoms, diagnosis, treatment, & management strategies here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/noonan-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/noonan-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/noonan-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/noonan-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Noonan Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/noonan-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/noonan-syndrome"
       }]
     }
   </script>
@@ -196,14 +196,14 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Cardiac Complications: Structural heart defects, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a> or hypertrophic <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, can manifest in advanced stages of Noonan Syndrome, requiring specialized medical management.</li>
+<li>Cardiac Complications: Structural heart defects, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a> or hypertrophic <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, can manifest in advanced stages of Noonan Syndrome, requiring specialized medical management.</li>
 <li>Cognitive Impairments: Some individuals with Noonan Syndrome may experience learning difficulties, speech delays, or behavioral challenges that can impact educational and social outcomes.</li>
 </ul>
 <h2>Diagnosis of Noonan Syndrome</h2>
 <h3>Diagnostic Process:</h3>
 <ul>
 <li>Genetic Testing: Molecular genetic testing can identify specific gene mutations associated with Noonan Syndrome, providing a definitive diagnosis and guiding personalized treatment strategies.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Cardiac imaging with echocardiography is essential for evaluating heart structure and function in individuals with Noonan Syndrome, facilitating early detection of cardiac abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Cardiac imaging with echocardiography is essential for evaluating heart structure and function in individuals with Noonan Syndrome, facilitating early detection of cardiac abnormalities.</li>
 <li>Developmental Assessments: Comprehensive developmental assessments, including cognitive and motor evaluations, can help identify potential delays or disabilities in individuals with Noonan Syndrome, guiding appropriate interventions.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Noonan Syndrome</h2>

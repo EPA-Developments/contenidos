@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Impedance Cardiography: Purpose, and Normal Range" property="og:title"/>
 <meta content="Impedance cardiography measures heart function. Know more about its purpose, costs, and normal Range to monitor cardiovascular health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/impedance-cardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/impedance-cardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/impedance-cardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/impedance-cardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Impedance Cardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/impedance-cardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/impedance-cardiography"  
       }]
     }
   </script>
@@ -164,9 +164,9 @@
 <p>It is a safe and reliable method for monitoring heart function and guiding treatment decisions in patients with heart disease.</p>
 <ul>
 <li>Examples of related concepts include:</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiography">electrocardiography</a> (ECG)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiography">electrocardiography</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a></li>
 </ul>
 <h2 id="purpose">What is the Purpose of Performing an Impedance Cardiography Test?</h2>
 <p>The primary purpose of performing an impedance cardiography test is to assess cardiac output and evaluate heart function in patients with various cardiovascular conditions.</p>

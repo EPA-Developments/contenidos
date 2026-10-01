@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Milk and Heart Health: Preventing Cardiovascular Issues'" />
     <meta property="og:description" content="Learn how milk can help prevent cardiovascular diseases. Discover the benefits of milk for heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-cardiovascular-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/milk-and-cardiovascular-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/milk-and-cardiovascular-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/milk-and-cardiovascular-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Milk And Cardiovascular Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/milk-and-cardiovascular-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/milk-and-cardiovascular-disease-prevention"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <p>One of the key benefits of milk consumption is its positive impact on blood vessels. The nutrients present in milk, such as potassium and magnesium, help relax blood vessels, regulate blood pressure, and improve overall circulation. By keeping your blood vessels healthy, you can significantly reduce the risk of developing cardiovascular diseases.</p>
 <p>Regular consumption of milk as part of a balanced diet can contribute to the maintenance of healthy blood vessels and promote heart health in the long run.</p>
 <h2 class="sec-scrl" id="atherosclerosis">Preventing Atherosclerosis: The Silent Threat</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> is a condition characterized by the buildup of plaque in the arteries, leading to reduced blood flow and an increased risk of heart attacks and strokes. The antioxidants found in milk help combat oxidative stress and prevent the oxidative damage that contributes to the development of atherosclerosis.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> is a condition characterized by the buildup of plaque in the arteries, leading to reduced blood flow and an increased risk of heart attacks and strokes. The antioxidants found in milk help combat oxidative stress and prevent the oxidative damage that contributes to the development of atherosclerosis.</p>
 <ul>
 <li>Include a variety of antioxidant-rich foods in your diet, such as berries, nuts, and leafy greens, along with milk to enhance your heart health.</li>
 <li>Limit the consumption of processed foods and sugary beverages that can promote inflammation and damage blood vessels.</li>

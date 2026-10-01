@@ -17,17 +17,17 @@
   <meta property="og:title" content="EPA Bienestar | Plataforma Oficial">
   <meta property="og:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/care.webp">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="628">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@epabienestar">
   <meta name="twitter:title" content="EPA Bienestar | Plataforma Oficial">
   <meta name="twitter:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
-  <meta name="twitter:image" content="https://plataforma.epa-bienestar.com.ar/images/care.webp">
+  <meta name="twitter:image" content="https://contenidos.segundaopinionmedica.org/images/care.webp">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/" />
 
 <?php include "include/header-home.php" ?>
         <div class="main-banner-area">
@@ -38,8 +38,8 @@
                             <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700">Tu salud cardiovascular, renal y metabólica</h1>
                             <p data-aos="fade-up" data-aos-delay="80" data-aos-duration="800">Contenidos basados en la guía 2026 del síndrome cardiovascular-renal-metabólico y en Life’s Essential 8 de la American Heart Association, y turnos con el equipo de Segunda Opinión Médica.</p>
                             <div class="why-choose-btn" data-aos="fade-up" data-aos-delay="90" data-aos-duration="800">
-                                <a href="https://plataforma.epa-bienestar.com.ar/biblioteca/" class="default-btn">Biblioteca CKM-LE8</a>
-                                <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
+                                <a href="https://contenidos.segundaopinionmedica.org/biblioteca/" class="default-btn">Biblioteca CKM-LE8</a>
+                                <a href="https://contenidos.segundaopinionmedica.org/turnos" class="default-btn">Pedir turno</a>
                             </div>
                            
                         </div>
@@ -62,18 +62,18 @@
                                 <p>Our platform connects you with top cardiology doctors who offer expert management and treatment for a wide range of heart conditions. Whether you’re seeking heart disease prevention, chronic care, or emergency intervention, our network of specialists provides world-class care for numerous cardiovascular issues. Here are some of the conditions they commonly treat:</p>
                                 <div class="points">
                                     <ul>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease">Coronary Artery Disease</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">Heart Attack</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-valve-disease">Heart Valve Disease</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/genetic-heart-disease">Genetic Heart Disease</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">High Cholesterol</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">Hypertension</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-heart-block">Congenital Heart Block</a></li>
-                                        <li><a href="https://plataforma.epa-bienestar.com.ar/diseases/acute-heart-failure">Acute Heart Failure</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease">Coronary Artery Disease</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">Heart Attack</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-valve-disease">Heart Valve Disease</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/genetic-heart-disease">Genetic Heart Disease</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">High Cholesterol</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">Hypertension</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/congenital-heart-block">Congenital Heart Block</a></li>
+                                        <li><a href="https://contenidos.segundaopinionmedica.org/diseases/acute-heart-failure">Acute Heart Failure</a></li>
                                     </ul>
                                 </div>
 								<div class="care-btn">
-                                    <a href="https://plataforma.epa-bienestar.com.ar/diseases/" class="default-btn">Read More</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/diseases/" class="default-btn">Read More</a>
                                 </div>
                             </div>
                         </div>    
@@ -139,8 +139,8 @@
                             <p><strong>Un equipo para tu caso:</strong> en Segunda Opinión Médica te atienden especialistas en cardiología, clínica médica, diabetología, nutrición y otras especialidades, presencial o por teleconsulta.</p>
                             <p><strong>Seguimiento:</strong> el Plan Bienestar 100 Días® acompaña tus cambios durante 100 días, según tu estadío CKM.</p>
                             <div class="why-choose-btn">
-                                <a href="https://plataforma.epa-bienestar.com.ar/turnos" class="default-btn">Pedir turno</a>
-                                <a href="https://plataforma.epa-bienestar.com.ar/biblioteca/plan-bienestar-100-dias" class="default-btn">Plan Bienestar 100 Días®</a>
+                                <a href="https://contenidos.segundaopinionmedica.org/turnos" class="default-btn">Pedir turno</a>
+                                <a href="https://contenidos.segundaopinionmedica.org/biblioteca/plan-bienestar-100-dias" class="default-btn">Plan Bienestar 100 Días®</a>
                             </div>
                         </div>
                     </div>
@@ -165,7 +165,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-bypass-surgery">Heart Bypass Surgery</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-bypass-surgery">Heart Bypass Surgery</a>
                                 </h3>
                             </div>
                             <div class="services-shape-1">
@@ -180,7 +180,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">Angioplasty</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">Angioplasty</a>
                                 </h3>
                             </div>
                             <div class="services-shape-1">
@@ -195,7 +195,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-valve-replacement">Heart Valve Replacement</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-valve-replacement">Heart Valve Replacement</a>
                                 </h3>
                                 
                             </div>
@@ -211,7 +211,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">Heart Transplants</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">Heart Transplants</a>
                                 </h3>
                                 
                             </div>
@@ -227,7 +227,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-resynchronization-therapy">Cardiac Resynchronization Therapy</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-resynchronization-therapy">Cardiac Resynchronization Therapy</a>
                                 </h3>
                                 
                             </div>
@@ -243,7 +243,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">Pacemaker Implantation</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">Pacemaker Implantation</a>
                                 </h3>
                                 
                             </div>
@@ -259,7 +259,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/maze-procedure">Maze procedure</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/maze-procedure">Maze procedure</a>
                                 </h3>
                                
                             </div>
@@ -275,7 +275,7 @@
                             </div>
                             <div class="content">
                                 <h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/procedures/defibrillation">Defibrillation</a>
+                                    <a href="https://contenidos.segundaopinionmedica.org/procedures/defibrillation">Defibrillation</a>
                                 </h3>
                                 
                             </div>
@@ -304,51 +304,51 @@
                 </div>
                 <div class="blog-slides owl-carousel owl-theme">
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="schemic Heart Disease: Understanding the Differences"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="schemic Heart Disease: Understanding the Differences"></div> -->
                         <div class="content">
                             <h3>Ischemic Heart Disease: Understanding the Differences</h3>
                             <p>Heart disease is a prevalent health issue that affects millions of people worldwide. Within the realm of heart disease, two common conditions often discussed are coronary artery disease (CAD) and ischemic heart disease.</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/coronary-artery-disease-vs-ischemic-heart-disease-key-differences" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/coronary-artery-disease-vs-ischemic-heart-disease-key-differences" class="blog-btn">Read More</a>
                         </div>
                     </div>
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="Hand Pain Treatment: Blood Clots in the Hand"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="Hand Pain Treatment: Blood Clots in the Hand"></div> -->
                         <div class="content">
                             <h3>Hand Pain Treatment: Blood Clots in the Hand</h3>
                             <p>Have you ever experienced a strange sensation in your hand, perhaps accompanied by swelling or pain?</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-hand-causes-symptoms" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-hand-causes-symptoms" class="blog-btn">Read More</a>
                         </div>
                     </div>
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="Valve Stenosis Treatment: The Lifechanging Valvuloplasty Procedure"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="Valve Stenosis Treatment: The Lifechanging Valvuloplasty Procedure"></div> -->
                         <div class="content">
                             <h3>Valve Stenosis Treatment: The Lifechanging Valvuloplasty Procedure</h3>
                             <p>Have you or a loved one been diagnosed with heart valve disease? If so, you may be considering different treatment options to improve your quality of life.</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-life-changing-heart-procedure" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-life-changing-heart-procedure" class="blog-btn">Read More</a>
                         </div>
                     </div>
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="Valvuloplasty Procedure: Preventing Heart Surgery?"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="Valvuloplasty Procedure: Preventing Heart Surgery?"></div> -->
                         <div class="content">
                             <h3>Valvuloplasty Procedure: Preventing Heart Surgery?</h3>
                             <p>Heart valve disease is a common condition that affects millions of people worldwide. When the heart valves do not function properly, it can lead to symptoms such as shortness of breath, chest pain, and fatigue.</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/prevent-heart-surgery-valvuloplasty" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/prevent-heart-surgery-valvuloplasty" class="blog-btn">Read More</a>
                         </div>
                     </div>
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="Blood Flow Improvement During Valvuloplasty: A Step-by-Step Guide"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="Blood Flow Improvement During Valvuloplasty: A Step-by-Step Guide"></div> -->
                         <div class="content">
                             <h3>Blood Flow Improvement During Valvuloplasty: A Step-by-Step Guide</h3>
                             <p>Have you or a loved one been diagnosed with heart valve disease and are considering treatment options? Valvuloplasty, a minimally invasive procedure, may be the right choice for you.</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-life-changing-heart-procedure" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-life-changing-heart-procedure" class="blog-btn">Read More</a>
                         </div>
                     </div>
                     <div class="blog-card-item">
-                        <!-- <div class="image"><img src="https://plataforma.epa-bienestar.com.ar/images/blog1-sample-img.webp" alt="Valve Dilation Benefits: Risks and Benefits of Valvuloplasty"></div> -->
+                        <!-- <div class="image"><img src="https://contenidos.segundaopinionmedica.org/images/blog1-sample-img.webp" alt="Valve Dilation Benefits: Risks and Benefits of Valvuloplasty"></div> -->
                         <div class="content">
                             <h3>Valve Dilation Benefits: Risks and Benefits of Valvuloplasty</h3>
                             <p>Heart valve disease is a common condition that affects millions of people worldwide. When the heart's valves do not function properly, it can lead to various health issues and complications.</p>
-                            <a href="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-surgery-risks-benefits" class="blog-btn">Read More</a>
+                            <a href="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-surgery-risks-benefits" class="blog-btn">Read More</a>
                         </div>
                     </div>
                 </div>

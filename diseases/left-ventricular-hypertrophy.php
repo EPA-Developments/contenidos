@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Ventricular Hypertrophy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Left Ventricular Hypertrophy causes thickening of the heart’s left ventricle. Know more about its causes, symptoms, and treatment strategies." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-hypertrophy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-hypertrophy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-hypertrophy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-hypertrophy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Ventricular Hypertrophy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-hypertrophy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-hypertrophy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Left Ventricular Hypertrophy</h1>
-<p>Left Ventricular Hypertrophy (LVH) is when the muscle of the heart's left pumping chamber thickens, often due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. It's significant because it can lead to heart problems and increase the risk of heart attacks, heart failure, and irregular heart rhythms. LVH is quite prevalent, especially among individuals with uncontrolled high blood pressure. Regular check-ups and early detection are crucial to manage LVH effectively and prevent complications. If you have concerns about LVH, speaking with a healthcare provider is essential for proper evaluation and management.</p>
+<p>Left Ventricular Hypertrophy (LVH) is when the muscle of the heart's left pumping chamber thickens, often due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. It's significant because it can lead to heart problems and increase the risk of heart attacks, heart failure, and irregular heart rhythms. LVH is quite prevalent, especially among individuals with uncontrolled high blood pressure. Regular check-ups and early detection are crucial to manage LVH effectively and prevent complications. If you have concerns about LVH, speaking with a healthcare provider is essential for proper evaluation and management.</p>
 <h2 id="causes">Causes of Left Ventricular Hypertrophy</h2>
 <p>Left Ventricular Hypertrophy develops due to various factors such as:
 <ul>
@@ -175,13 +175,13 @@
 <p>Recognizing the symptoms of Left Ventricular Hypertrophy (LVH) is crucial as early detection can significantly improve outcomes by allowing for timely intervention and management. Here are some key symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Swelling in the legs or ankles</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they are persistent or concerning, it's essential to consult a healthcare provider promptly for a thorough evaluation and appropriate management. Early detection and treatment of LVH can help prevent complications and improve your overall heart health.</p>

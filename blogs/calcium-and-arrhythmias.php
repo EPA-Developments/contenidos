@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Understanding Calcium's Role in Heart Arrhythmias&quot;" />
     <meta property="og:description" content="Learn about the link between Calcium and Heart Arrhythmias. Discover how calcium levels impact heart rhythm. Find out more here!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-arrhythmias" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-arrhythmias" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-arrhythmias" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-arrhythmias" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Arrhythmias",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-arrhythmias"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-arrhythmias"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you experiencing irregular heartbeats that disrupt your daily activities? You may be facing the challenges of calcium and arrhythmias. Living with an erratic heart rhythm can be unsettling, affecting your ability to perform even simple tasks. Understanding the relationship between calcium and arrhythmias is crucial for managing this condition effectively.</p>
 <h2 class="sec-scrl" id="cardiac-electrical-activity">Cardiac Electrical Activity</h2>
 <p>Cardiac electrical activity plays a vital role in maintaining a steady heart rhythm. The heart's pacemaker cells rely on a delicate balance of electrolytes, including calcium, potassium, and sodium, to generate electrical impulses that regulate the heartbeat. When this balance is disrupted, it can lead to abnormalities in the heart's electrical system, resulting in arrhythmias.</p>
-<p>Calcium, in particular, is essential for the contraction of the heart muscle. Abnormal calcium levels can interfere with the heart's ability to contract and relax properly, potentially triggering dangerous arrhythmias like <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
+<p>Calcium, in particular, is essential for the contraction of the heart muscle. Abnormal calcium levels can interfere with the heart's ability to contract and relax properly, potentially triggering dangerous arrhythmias like <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
 <h2 class="sec-scrl" id="impact-of-calcium-levels">Impact of Calcium Levels</h2>
 <p>How do calcium levels affect heart rhythm? Calcium ions play a crucial role in initiating each heartbeat by triggering the heart muscle cells to contract. In a healthy heart, the influx and efflux of calcium ions are tightly regulated, ensuring that the heart beats with the right rhythm and force.</p>
 <p>However, when calcium levels are too high or too low, this delicate balance is disrupted, leading to irregular heartbeats. Electrolyte imbalances, including abnormal calcium levels, can cause the heart's electrical signals to misfire, resulting in arrhythmias that may range from mild to life-threatening.</p>
@@ -147,7 +147,7 @@
 <p>What is ventricular fibrillation, and how is it related to calcium levels? Ventricular fibrillation is a life-threatening arrhythmia characterized by rapid, chaotic heartbeats that prevent the heart from pumping blood effectively. Calcium dysregulation can disrupt the heart's electrical signals, leading to ventricular fibrillation.</p>
 <p>Individuals with underlying heart conditions, electrolyte imbalances, or abnormal calcium levels are at a higher risk of developing ventricular fibrillation. Prompt medical intervention, including correcting electrolyte imbalances and stabilizing calcium levels, is crucial in managing ventricular fibrillation and preventing complications.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
-<p>In conclusion, maintaining the proper balance of electrolytes, including calcium, is essential for a healthy heart rhythm. Understanding how calcium levels influence cardiac electrical activity and the risk of arrhythmias can help individuals manage their heart health effectively. If you experience symptoms of an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or suspect an electrolyte imbalance, consult a healthcare provider for a thorough evaluation and appropriate management.</p>
+<p>In conclusion, maintaining the proper balance of electrolytes, including calcium, is essential for a healthy heart rhythm. Understanding how calcium levels influence cardiac electrical activity and the risk of arrhythmias can help individuals manage their heart health effectively. If you experience symptoms of an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or suspect an electrolyte imbalance, consult a healthcare provider for a thorough evaluation and appropriate management.</p>
             </div>
           </div>
         </div>

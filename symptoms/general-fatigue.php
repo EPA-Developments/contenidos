@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="General Fatigue Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="General fatigue might be a sign of heart-related issues. Read more about the causes, symptoms, diagnosis, and treatments for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/general-fatigue">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/general-fatigue">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/general-fatigue" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/general-fatigue" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "General Fatigue",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/general-fatigue"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/general-fatigue"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>General Fatigue: Treatment, Causes, Diagnosisand Symptoms</h1>
-<p>General fatigue, also known as tiredness or exhaustion, is a common condition characterized by a feeling of lack of energy, chronic fatigue, general <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and low energy levels.</p>
+<p>General fatigue, also known as tiredness or exhaustion, is a common condition characterized by a feeling of lack of energy, chronic fatigue, general <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and low energy levels.</p>
 <p>It can impact your physical, mental, and emotional well-being, making everyday tasks challenging to complete. General fatigue can be a temporary issue caused by lifestyle factors or a symptom of an underlying health condition.</p>
 <h2 id="forms">What are the Forms of General fatigue?</h2>
 <p>There are different forms of general fatigue, each with specific symptoms and related concepts:</p>
@@ -196,7 +196,7 @@
 <li>Fatigue symptoms: Include muscle weakness, difficulty concentrating, irritability, and sleep disturbances.</li>
 <li>Lack of energy: Feeling depleted of energy and motivation to engage in activities.</li>
 <li>Chronic fatigue: Persistent fatigue lasting for more than six months, impacting daily life.</li>
-<li>General weakness: A sense of overall physical weakness and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lethargy">lethargy</a>.</li>
+<li>General weakness: A sense of overall physical weakness and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lethargy">lethargy</a>.</li>
 <li>Low energy levels: Consistent lack of energy and vitality, affecting daily activities.</li>
 </ul>
 <h2 id="causes">What are the Causes of General fatigue?</h2>
@@ -227,7 +227,7 @@
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe fatigue that interferes with your daily life.</p>
-<p>Additionally, if you have other concerning symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, unexplained weight loss, or changes in bowel habits, it is crucial to consult a healthcare provider promptly.</p>
+<p>Additionally, if you have other concerning symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, unexplained weight loss, or changes in bowel habits, it is crucial to consult a healthcare provider promptly.</p>
 <p>Early diagnosis and treatment of underlying medical conditions can help alleviate general fatigue and improve overall quality of life.</p>
 <h2>Home Remedies for General fatigue</h2>
 <p>There are several home remedies that can help manage general fatigue and boost energy levels:</p>

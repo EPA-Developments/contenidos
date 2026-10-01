@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Take Rheumatic Fever Seriously: Symptoms & Risks">
   <meta property="og:description" content="Discover why Rheumatic Fever is a serious condition that requires immediate attention. Learn about the risks and importance of timely treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rheumatic-fever-symptoms-risks">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rheumatic-fever-symptoms-risks">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rheumatic-fever-symptoms-risks" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rheumatic-fever-symptoms-risks" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Take Rheumatic Fever Seriously: Symptoms & Risks",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/rheumatic-fever-symptoms-risks"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/rheumatic-fever-symptoms-risks"  
       }]
     }
   </script>

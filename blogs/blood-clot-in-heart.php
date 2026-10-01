@@ -10,12 +10,12 @@
     <meta property="og:title" content="Genetic Factors in Heart Clot Formation" />
     <meta property="og:description" content="Uncover how genetics influence heart blood clot formation." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blood Clot In Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clot-in-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clot-in-heart"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Genetics and Heart Clots: A Deep Dive</h1>
-<p>Are you at risk of a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> in the heart? This silent threat can disrupt your daily activities and pose serious health risks. Understanding the role of genetics in heart clot formation is crucial for managing your heart health. Let's explore how genetic factors can influence the development of blood clots in the heart.</p>
+<p>Are you at risk of a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> in the heart? This silent threat can disrupt your daily activities and pose serious health risks. Understanding the role of genetics in heart clot formation is crucial for managing your heart health. Let's explore how genetic factors can influence the development of blood clots in the heart.</p>
 <h2 class="sec-scrl" id="genetic-blood-clot-risk">Genetic Blood Clot Risk</h2>
 <p>Genetic blood clot risk plays a significant role in predisposing individuals to heart clot formation. Certain inherited risk factors can make some people more prone to developing blood clots in their heart vessels. These genetic predispositions can affect the way blood clots form and dissolve, impacting overall heart health.</p>
 <p>Individuals with a family history of blood clotting disorders are at a higher risk of experiencing heart-related clotting issues. Understanding your genetic blood clot risk can help you and your healthcare provider take proactive steps to prevent heart clot formation and minimize potential complications.</p>

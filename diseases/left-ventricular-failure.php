@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Ventricular Failure: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Left Ventricular Failure weakens the heart’s ability to pump blood. Know more about its causes, symptoms, and available treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-failure">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-failure">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-failure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-failure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Ventricular Failure",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-failure"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-failure"
       }]
     }
   </script>
@@ -161,23 +161,23 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Left Ventricular Failure</h1>
-<p>Left Ventricular Failure occurs when the heart's left ventricle struggles to pump blood effectively to the body. This condition is significant because it leads to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling. It is a common condition, affecting a significant number of people worldwide. Proper management is crucial to improve symptoms and quality of life. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or persistent fatigue, it's essential to seek medical advice promptly to receive the necessary care and support.</p>
+<p>Left Ventricular Failure occurs when the heart's left ventricle struggles to pump blood effectively to the body. This condition is significant because it leads to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and swelling. It is a common condition, affecting a significant number of people worldwide. Proper management is crucial to improve symptoms and quality of life. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or persistent fatigue, it's essential to seek medical advice promptly to receive the necessary care and support.</p>
 <h2 id="causes">Causes of Left Ventricular Failure</h2>
 <p><h3>Main Factors Contributing to Left Ventricular Failure:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a></li>
 <li>Valve disorders</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Left Ventricular Failure</h2>
 <p>Recognizing the symptoms of Left Ventricular Failure is crucial for timely intervention and better outcomes. Early detection allows for prompt treatment, reducing the risk of complications and improving quality of life. Some key symptoms to watch out for include:
 
 <ul>
 <li>Shortness of breath, especially during physical activity or when lying flat</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
 <li>Persistent cough or wheezing</li>
 <li>Reduced ability to exercise</li>
@@ -187,7 +187,7 @@
 
 <ul>
 <li>Physical examination to assess symptoms and signs</li>
-<li>Imaging tests like <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> for assessing heart function</li>
+<li>Imaging tests like <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> for assessing heart function</li>
 <li>Blood tests to evaluate biomarkers like BNP</li>
 <li>Electrocardiogram (ECG) to assess heart rhythm</li>
 </ul> 

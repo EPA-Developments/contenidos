@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Junctional Tachycardia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Junctional tachycardia causes a rapid heartbeat due to abnormal electrical signals. Read more on symptoms, causes, and treatment for a healthy heart." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/junctional-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/junctional-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/junctional-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/junctional-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Junctional Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/junctional-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/junctional-tachycardia"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Junctional Tachycardia</h1>
-<p>Junctional tachycardia is a type of abnormal heart rhythm where the heart beats too quickly due to issues with the heart's electrical system. It's essential to recognize and manage junctional tachycardia as it can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and fainting. While not as common as other heart rhythm disorders, junctional tachycardia still affects a significant number of individuals. If you experience any symptoms or have concerns about your heart rhythm, it's crucial to seek medical attention for proper evaluation and treatment.</p>
+<p>Junctional tachycardia is a type of abnormal heart rhythm where the heart beats too quickly due to issues with the heart's electrical system. It's essential to recognize and manage junctional tachycardia as it can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and fainting. While not as common as other heart rhythm disorders, junctional tachycardia still affects a significant number of individuals. If you experience any symptoms or have concerns about your heart rhythm, it's crucial to seek medical attention for proper evaluation and treatment.</p>
 <h2 id="causes">Causes of Junctional Tachycardia</h2>
 <p>Junctional tachycardia can be caused by various factors, contributing to its development. These factors include:
 
 <ul>
 <li>Electrolyte imbalances</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a></li>
 <li>Heart disease</li>
 <li>Infections</li>
 <li>Side effects of medications</li>
@@ -176,11 +176,11 @@
 <p>Junctional tachycardia is a type of abnormal heart rhythm that originates in the junction of the atria and ventricles. Recognizing its symptoms early is crucial for prompt intervention and better outcomes. Symptoms of junctional tachycardia may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Chest discomfort or pain</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 
 If you experience any of these symptoms, especially if they are persistent or recurrent, it is essential to seek medical attention promptly. Early detection and management of junctional tachycardia can help prevent complications and improve your overall heart health.</p>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially if they are persistent or re
 Diagnostic methods for junctional tachycardia include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity.</li>
 <li>Holter monitor for continuous ECG monitoring over 24-48 hours.</li>
 <li>Echocardiogram to assess the heart's structure and function.</li>
 <li>Electrophysiology study to locate the exact site of the abnormal electrical signals.</li>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Right Sided Atrial Isomerism: Causes and Treatment" >
   <meta property="og:description" content="Right-sided atrial isomerism causes abnormal heart structure. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/right-sided-atrial-isomerism">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/right-sided-atrial-isomerism">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/right-sided-atrial-isomerism" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/right-sided-atrial-isomerism" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Right Sided Atrial Isomerism",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/right-sided-atrial-isomerism"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/right-sided-atrial-isomerism"
       }]
     }
   </script>
@@ -170,7 +170,7 @@
 <p>This condition is significant as it can impact the normal functions of the heart, leading to various health complications.</p>
 <p>Right sided atrial isomerism affects the symmetry and organization of the heart chambers, particularly the atria, which play a crucial role in blood circulation and oxygenation.</p>
 <p>The prevalence of this condition is relatively low, occurring in about 1 in 10,000 live births. In individuals with right sided atrial isomerism, the heart's ability to pump blood efficiently can be compromised due to structural defects and abnormal connections.</p>
-<p>This can result in both short-term and long-term health risks if left untreated. Short-term risks may include impaired oxygen delivery to the body's tissues, leading to fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and poor exercise tolerance.</p>
+<p>This can result in both short-term and long-term health risks if left untreated. Short-term risks may include impaired oxygen delivery to the body's tissues, leading to fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and poor exercise tolerance.</p>
 <p>In the long term, untreated right sided atrial isomerism can lead to more severe complications such as heart failure, arrhythmias, and even sudden cardiac death.</p>
 <p>One challenging aspect of right sided atrial isomerism is its asymptomatic nature in the early stages, making it difficult to detect without specialized testing.</p>
 <p>Therefore, early detection through regular screenings and diagnostic tests is crucial to intervene promptly and manage the condition effectively.</p>
@@ -186,7 +186,7 @@
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can also play a role in the development of right sided atrial isomerism.</p>
 <ul>
 <li>Secondary Causes</li>
-<li>Maternal Health - Maternal health conditions such as diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can impact fetal development and increase the risk of congenital heart defects, including right sided atrial isomerism.</li>
+<li>Maternal Health - Maternal health conditions such as diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can impact fetal development and increase the risk of congenital heart defects, including right sided atrial isomerism.</li>
 <li>Smoking During Pregnancy - Maternal smoking during pregnancy has been linked to an increased risk of congenital heart abnormalities, including right sided atrial isomerism, due to the harmful effects of tobacco toxins on fetal development.</li>
 <li>Poor Nutrition - Inadequate maternal nutrition during pregnancy, particularly deficiencies in essential nutrients like folic acid, can contribute to abnormal heart development in the fetus, potentially leading to right sided atrial isomerism.</li>
 </ul>
@@ -194,17 +194,17 @@
 <p>Right sided atrial isomerism can present with a variety of symptoms that can impact an individual's daily life and overall well-being. Recognizing these symptoms is crucial for early detection and timely intervention.</p>
 <h3>Early Symptoms:</h3>
 <p>Fatigue - Individuals with right sided atrial isomerism may experience persistent fatigue and low energy levels due to inadequate oxygen delivery to the body's tissues.</p>
-<p>This can affect daily activities and productivity, leading to feelings of tiredness and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>.</p>
-<p>Shortness of Breath - <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or shortness of breath, especially during physical exertion, may be a common early symptom of right sided atrial isomerism.</p>
+<p>This can affect daily activities and productivity, leading to feelings of tiredness and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>.</p>
+<p>Shortness of Breath - <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or shortness of breath, especially during physical exertion, may be a common early symptom of right sided atrial isomerism.</p>
 <p>This symptom can be misunderstood or overlooked, as it may be attributed to other causes like poor fitness or respiratory issues.</p>
 <h3>Advanced Symptoms:</h3>
-<p>Advanced Symptom 1: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> - Cyanosis, a bluish discoloration of the skin and mucous membranes, can occur in individuals with severe right sided atrial isomerism due to poor oxygenation of the blood.</p>
+<p>Advanced Symptom 1: <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> - Cyanosis, a bluish discoloration of the skin and mucous membranes, can occur in individuals with severe right sided atrial isomerism due to poor oxygenation of the blood.</p>
 <p>This physical manifestation can have significant emotional implications and may indicate more advanced stages of the condition.</p>
-<p>Arrhythmias - Irregular heart rhythms or arrhythmias can develop in individuals with untreated right sided atrial isomerism, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting episodes. These symptoms can be severe and may require immediate medical attention.</p>
+<p>Arrhythmias - Irregular heart rhythms or arrhythmias can develop in individuals with untreated right sided atrial isomerism, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting episodes. These symptoms can be severe and may require immediate medical attention.</p>
 <h2 id="symptoms">Diagnosis of Right Sided Atrial Isomerism</h2>
 <p>Diagnosing right sided atrial isomerism involves a comprehensive evaluation of the heart's structure and function through a series of diagnostic tests. Each test plays a crucial role in confirming the presence of the condition and guiding treatment decisions.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> - Echocardiography utilizes sound waves to create detailed images of the heart's chambers and valves, allowing healthcare providers to assess the cardiac anatomy and identify any structural abnormalities associated with right sided atrial isomerism.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> - Echocardiography utilizes sound waves to create detailed images of the heart's chambers and valves, allowing healthcare providers to assess the cardiac anatomy and identify any structural abnormalities associated with right sided atrial isomerism.</li>
 <li>Cardiac MRI - Cardiac magnetic resonance imaging (MRI) provides high-resolution images of the heart's tissues and blood flow, aiding in the diagnosis and characterization of right sided atrial isomerism. This test offers valuable insights into the heart's function and can reveal specific abnormalities.</li>
 <li>Cardiac Catheterization - Cardiac catheterization involves inserting a thin, flexible tube into the heart's chambers to measure pressures, oxygen levels, and blood flow patterns. This invasive procedure can help identify structural defects and assess the severity of right sided atrial isomerism.</li>
 <li>Genetic Testing - Genetic testing may be recommended to identify specific genetic mutations or chromosomal abnormalities associated with right sided atrial isomerism. This test can provide valuable information about the underlying causes of the condition and guide personalized treatment approaches.</li>

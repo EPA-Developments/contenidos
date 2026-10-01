@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Recognizing Triple Vessel CAD Symptoms&quot;" />
     <meta property="og:description" content="Learn the early signs of triple vessel coronary artery disease and protect your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-coronary-artery-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-coronary-artery-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-coronary-artery-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-coronary-artery-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Triple Vessel Coronary Artery Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/triple-vessel-coronary-artery-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/triple-vessel-coronary-artery-disease"
         }
     ]
 }
@@ -169,14 +169,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Recognizing Triple Vessel Coronary Artery Disease</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> that seems to worsen with physical activity or stress? Do you find yourself short of breath even with minimal exertion? These could be early signs of a serious heart condition known as triple vessel coronary artery disease. The impact of this condition on your daily activities can be significant, affecting your ability to perform routine tasks and enjoy a good quality of life.</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> that seems to worsen with physical activity or stress? Do you find yourself short of breath even with minimal exertion? These could be early signs of a serious heart condition known as triple vessel coronary artery disease. The impact of this condition on your daily activities can be significant, affecting your ability to perform routine tasks and enjoy a good quality of life.</p>
 <h2 class="sec-scrl" id="triple-vessel-disease-symptoms">Triple Vessel Disease Symptoms</h2>
 <p>Triple vessel coronary artery disease manifests through various symptoms that may indicate significant blockages in the arteries supplying blood to your heart. Some common symptoms include:</p>
 <ul>
-<li>Chest pain or discomfort (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>) that may spread to your arms, back, neck, or jaw</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, even with minimal exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Chest pain or discomfort (<a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>) that may spread to your arms, back, neck, or jaw</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially during physical activity</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, even with minimal exertion</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul>
 <p>Recognizing these symptoms and seeking prompt medical attention is crucial to prevent further complications.</p>
 <h2 class="sec-scrl" id="coronary-artery-disease-early-signs">Coronary Artery Disease Early Signs</h2>
@@ -184,12 +184,12 @@
 <ul>
 <li>Chest pain, pressure, or discomfort</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Weakness or fatigue</li>
 </ul>
 <p>These signs should not be ignored, as they may indicate a progression of heart disease that requires immediate attention.</p>
 <h2 class="sec-scrl" id="recognizing-CAD-in-multiple-vessels">Recognizing CAD in Multiple Vessels</h2>
-<p>When CAD affects multiple vessels, the risk of complications such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or heart failure increases. Recognizing the signs of CAD in multiple vessels is crucial for early intervention. Some key indicators include:</p>
+<p>When CAD affects multiple vessels, the risk of complications such as <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or heart failure increases. Recognizing the signs of CAD in multiple vessels is crucial for early intervention. Some key indicators include:</p>
 <ul>
 <li>Severe chest pain or tightness</li>
 <li>Pain radiating to the left arm, back, neck, or jaw</li>

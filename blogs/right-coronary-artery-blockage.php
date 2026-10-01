@@ -10,12 +10,12 @@
     <meta property="og:title" content="Right Coronary Artery Blockage Treatments: A Guide" />
     <meta property="og:description" content="Explore effective treatments for right coronary artery blockage to regain heart health and vitality." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/right-coronary-artery-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/right-coronary-artery-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/right-coronary-artery-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/right-coronary-artery-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Right Coronary Artery Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/right-coronary-artery-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/right-coronary-artery-blockage"
         }
     ]
 }
@@ -171,15 +171,15 @@
               <h1>Treatment for Right Coronary Artery Blockage: Options</h1>
 <p>Are you struggling with the impact of right coronary artery blockage on your daily life? The limitations it imposes on your activities due to reduced blood flow to your heart can be daunting. Understanding the treatment options available for right coronary artery blockage is crucial to managing your condition effectively and improving your quality of life.</p>
 <h2 class="sec-scrl" id="right-coronary-artery-disease">Right Coronary Artery Disease</h2>
-<p>Right coronary artery disease occurs when the right coronary artery, a vital blood vessel that supplies oxygen-rich blood to the heart muscle, becomes narrowed or blocked. This blockage can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and even heart attacks. Treatment for right coronary artery disease aims to restore blood flow to the heart and alleviate symptoms.</p>
+<p>Right coronary artery disease occurs when the right coronary artery, a vital blood vessel that supplies oxygen-rich blood to the heart muscle, becomes narrowed or blocked. This blockage can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and even heart attacks. Treatment for right coronary artery disease aims to restore blood flow to the heart and alleviate symptoms.</p>
 <p>Common treatment options for right coronary artery disease include:</p>
 <ul>
 <li>Medications to manage symptoms and prevent further blockages</li>
 <li>Lifestyle changes such as a heart-healthy diet and regular exercise</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> and stenting to open up the blocked artery</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> and stenting to open up the blocked artery</li>
 </ul>
 <h2 class="sec-scrl" id="coronary-artery-bypass-graft-surgery">Coronary Artery Bypass Graft Surgery</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-graft">coronary artery bypass graft</a> surgery is a procedure that can be used to treat severe blockages in the right coronary artery. During the surgery, a healthy blood vessel is taken from another part of the body and used to bypass the blocked section of the artery. This allows blood to flow freely to the heart muscle, relieving symptoms and reducing the risk of complications.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-graft">coronary artery bypass graft</a> surgery is a procedure that can be used to treat severe blockages in the right coronary artery. During the surgery, a healthy blood vessel is taken from another part of the body and used to bypass the blocked section of the artery. This allows blood to flow freely to the heart muscle, relieving symptoms and reducing the risk of complications.</p>
 <p>Coronary artery bypass graft surgery is often recommended for patients with multiple blockages or those who have not responded well to other treatments.</p>
 <h2 class="sec-scrl" id="right-coronary-artery-interventions">Right Coronary Artery Interventions</h2>
 <p>Interventions for right coronary artery blockage may include:</p>
@@ -192,8 +192,8 @@
 <p>Several risk factors can contribute to the development of right coronary artery blockage, including:</p>
 <ul>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Diabetes</li>
 <li>Obesity</li>
 </ul>

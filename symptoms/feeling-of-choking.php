@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Feeling of Choking: Causes, Treatment, and When to Seek Help">
   <meta property="og:description" content="Experiencing a feeling of choking? Learn about causes, treatment options, and when to seek help for this symptom. Explore links to heart disease, anxiety, and more.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-of-choking">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/feeling-of-choking">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-of-choking" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-of-choking" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Feeling Of Choking",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/feeling-of-choking"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/feeling-of-choking"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Feeling of Choking: Causes, Treatment, and When to Seek Help</h1>
 <p>Feeling of choking is a distressing sensation of being unable to breathe properly or swallow easily. It can manifest as a tightness in the throat, difficulty swallowing, or a sensation of something obstructing the airway.</p>
 <p>This condition can be alarming and may lead to anxiety or panic in some individuals. The feeling of choking can vary in intensity and duration, with some experiencing it intermittently while others may have persistent symptoms.</p>
-<p>Individuals with a feeling of choking may also experience pressure in the throat, a feeling of constriction, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>. These symptoms can be triggered by various factors, such as anxiety, underlying medical conditions, or environmental triggers.</p>
+<p>Individuals with a feeling of choking may also experience pressure in the throat, a feeling of constriction, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>. These symptoms can be triggered by various factors, such as anxiety, underlying medical conditions, or environmental triggers.</p>
 <p>It is essential to address the root cause of the feeling of choking to effectively manage and treat the condition.</p>
 <h2 id="forms">What are the Forms of Feeling of choking?</h2>
 <p>There are various forms of feeling of choking that individuals may experience, each with specific symptoms and related concepts:</p>
@@ -230,7 +230,7 @@
 <p>It is essential to seek medical attention if you experience the following symptoms or stages of feeling of choking:</p>
 <ul>
 <li>Persistent or worsening symptoms of feeling of choking.</li>
-<li>Difficulty breathing or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li>Difficulty breathing or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 <li>Pain or discomfort when swallowing.</li>
 <li>Sudden onset of feeling of choking without an apparent cause.</li>
 <li>Feeling lightheaded or dizzy in conjunction with the feeling of choking.</li>

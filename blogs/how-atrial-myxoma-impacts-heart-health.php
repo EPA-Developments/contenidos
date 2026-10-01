@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding How Atrial Myxoma Impacts Heart Health">
   <meta property="og:description" content="Learn how atrial myxoma impacts heart health and discover effective strategies to manage this condition. Find out more here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-atrial-myxoma-impacts-heart-health">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-atrial-myxoma-impacts-heart-health">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-atrial-myxoma-impacts-heart-health" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-atrial-myxoma-impacts-heart-health" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Atrial Myxoma",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-atrial-myxoma-impacts-heart-health"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-atrial-myxoma-impacts-heart-health"  
       }]
     }
   </script>

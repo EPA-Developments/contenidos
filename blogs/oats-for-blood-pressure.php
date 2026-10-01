@@ -10,12 +10,12 @@
     <meta property="og:title" content="Oats for Lowering Blood Pressure" />
     <meta property="og:description" content="Explore the link between oats and blood pressure, uncovering how this superfood can help manage hypertension effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oats-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oats-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oats-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oats For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oats-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oats-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Link Between Oats and Blood Pressure</h1>
-<p>Are you looking for a natural way to manage <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Have you considered the role of oats in promoting heart health and reducing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? High blood pressure, also known as hypertension, affects millions of people worldwide and can significantly impact daily activities. Let's explore how incorporating oats into your diet can potentially help you in managing high blood pressure.</p>
+<p>Are you looking for a natural way to manage <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Have you considered the role of oats in promoting heart health and reducing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? High blood pressure, also known as hypertension, affects millions of people worldwide and can significantly impact daily activities. Let's explore how incorporating oats into your diet can potentially help you in managing high blood pressure.</p>
 <h2 class="sec-scrl" id="oats-for-blood-pressure">Oats for Blood Pressure</h2>
 <p>Oats are a versatile and nutritious food that has gained popularity for its numerous health benefits. When it comes to managing high blood pressure, oats can be a valuable addition to your diet. Here's how oats can help in keeping your blood pressure in check:</p>
 <ul>

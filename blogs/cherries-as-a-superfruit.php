@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cherries: Heart-Healthy Superfruit" />
     <meta property="og:description" content="Uncover the heart-healthy benefits of cherries as a superfruit. Boost cardiovascular wellness with cherry antioxidants." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherries-as-a-superfruit" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherries-as-a-superfruit" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherries-as-a-superfruit" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherries-as-a-superfruit" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherries As A Superfruit",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherries-as-a-superfruit"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherries-as-a-superfruit"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="cardiovascular benefits">What Cardiovascular Benefits Do Cherries Offer?</h2>
 <p>Cherries have been linked to numerous cardiovascular benefits, making them a heart-friendly superfood worth including in your daily diet. From lowering blood pressure to improving endothelial function, cherries have a positive impact on various aspects of heart health.</p>
 <ul>
-<li>Lower Blood Pressure: The compounds found in cherries may help reduce <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease.</li>
+<li>Lower Blood Pressure: The compounds found in cherries may help reduce <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, a significant risk factor for heart disease.</li>
 <li>Enhanced Endothelial Function: Cherries support the health of blood vessels, promoting proper endothelial function and blood flow.</li>
 <li>Reduced Inflammation: The anti-inflammatory properties of cherries can help decrease inflammation, which is linked to heart disease.</li>
 </ul>

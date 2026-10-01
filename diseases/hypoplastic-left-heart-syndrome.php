@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hypoplastic Left Heart Syndrome: Causes and Treatment" >
   <meta property="og:description" content="Hypoplastic Left Heart Syndrome is a congenital heart defect. Know more about its causes, symptoms, and treatment for better health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/hypoplastic-left-heart-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/hypoplastic-left-heart-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/hypoplastic-left-heart-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/hypoplastic-left-heart-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Hypoplastic Left Heart Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/hypoplastic-left-heart-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/hypoplastic-left-heart-syndrome"
       }]
     }
   </script>
@@ -177,9 +177,9 @@
 
 <h3>Symptoms of HLHS include:</h3>
 <ul>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cold-hands">cold hands</a> and feet</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cold-hands">cold hands</a> and feet</li>
 <li>Poor feeding and growth</li>
 <li>Extreme fatigue</li>
 </ul>
@@ -189,10 +189,10 @@ Early detection allows for timely medical management, potentially leading to imp
 <p>Accurate diagnosis of Hypoplastic Left Heart Syndrome is crucial for timely intervention and management. The diagnostic process typically involves a combination of tests to confirm the condition. Common diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
-<li>Fetal <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Detects heart defects before birth.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure to assess heart structures.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li>Fetal <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Detects heart defects before birth.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Invasive procedure to assess heart structures.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Hypoplastic Left Heart Syndrome</h2>
 <p>When it comes to treating Hypoplastic Left Heart Syndrome, personalized care tailored to each patient is crucial. Here are the main approaches to managing this condition:

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alcohol's Effect on Heart Health" />
     <meta property="og:description" content="Explore how beer impacts your heart health. Learn about beer components, antioxidants, and more. Find out how alcohol affects your cardiovascular system." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cardiovascular-system" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beer-and-cardiovascular-system" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cardiovascular-system" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beer-and-cardiovascular-system" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beer And Cardiovascular System",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beer-and-cardiovascular-system"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beer-and-cardiovascular-system"
         }
     ]
 }
@@ -151,7 +151,7 @@
 <p>Key points to consider include:</p>
 <ul>
 <li>Alcohol metabolism can impact heart rate and blood pressure temporarily.</li>
-<li>Excessive drinking can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmias, and other heart-related issues.</li>
+<li>Excessive drinking can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmias, and other heart-related issues.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Beer can have a complex impact on your cardiovascular health, with both positive and negative aspects to consider. While moderate beer consumption may offer some benefits, excessive drinking can harm your heart and overall well-being. Understanding the effects of beer on your cardiovascular system can help you make informed choices about your alcohol consumption and prioritize heart-healthy habits.</p>

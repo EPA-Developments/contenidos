@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sunflower Oil: Heart Health Benefits" />
     <meta property="og:description" content="Discover how sunflower oil benefits your heart, promoting healthy fats and preventing heart disease. Unlock the power of sunflower oil today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sunflower-oil-for-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sunflower-oil-for-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sunflower-oil-for-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sunflower-oil-for-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sunflower Oil For Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sunflower-oil-for-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sunflower-oil-for-heart"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Sunflower oil is rich in healthy fats, specifically polyunsaturated fats like omega-6 fatty acids. These essential fats play a crucial role in maintaining cardiovascular health by helping to lower LDL cholesterol levels in the blood. By replacing saturated fats with healthier alternatives like sunflower oil, you can reduce your risk of heart disease and improve your overall lipid profile.</p>
 <p>Additionally, sunflower oil contains vitamin E, an antioxidant that helps protect the heart from oxidative stress and inflammation. This can further contribute to a reduced risk of heart disease and other cardiovascular complications.</p>
 <h2 class="sec-scrl" id="Heart disease prevention">Preventing Heart Disease with Sunflower Oil</h2>
-<p>Incorporating sunflower oil into your diet can be a simple yet effective way to prevent heart disease. The omega-6 fatty acids found in sunflower oil can help reduce the buildup of plaque in the arteries, lowering the risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or stroke. By promoting healthy blood flow and supporting proper heart function, sunflower oil acts as a natural ally in the fight against cardiovascular issues.</p>
+<p>Incorporating sunflower oil into your diet can be a simple yet effective way to prevent heart disease. The omega-6 fatty acids found in sunflower oil can help reduce the buildup of plaque in the arteries, lowering the risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or stroke. By promoting healthy blood flow and supporting proper heart function, sunflower oil acts as a natural ally in the fight against cardiovascular issues.</p>
 <p>Research has shown that replacing saturated fats with polyunsaturated fats like those in sunflower oil can lead to a significant decrease in the risk of heart disease. By making this dietary switch, you can take a proactive step towards protecting your heart health for years to come.</p>
 <h2 class="sec-scrl" id="Healthy fats">The Role of Healthy Fats in Heart Health</h2>
 <p>Healthy fats, such as those found in sunflower oil, are essential for maintaining a strong and healthy heart. These fats help regulate cholesterol levels, reduce inflammation, and support overall cardiovascular function. By including sunflower oil in your cooking and meal preparation, you can ensure that your body receives the necessary nutrients to keep your heart in top condition.</p>

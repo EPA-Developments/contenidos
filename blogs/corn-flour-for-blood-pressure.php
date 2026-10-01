@@ -10,12 +10,12 @@
     <meta property="og:title" content="Corn Flour for Blood Pressure: A Healthy Connection" />
     <meta property="og:description" content="Explore how corn flour can help manage blood pressure effectively. Learn more about the link between corn flour and heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/corn-flour-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/corn-flour-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Corn Flour For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/corn-flour-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/corn-flour-for-blood-pressure"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you struggling to manage your blood pressure effectively? Have you considered the impact of corn flour on blood pressure regulation in your daily life?</p>
 <p>For many individuals, maintaining healthy blood pressure levels is a constant challenge that can significantly affect their overall well-being. The role of corn flour in blood pressure management is often overlooked, but its potential benefits for promoting a healthy heart and supporting blood pressure regulation should not be underestimated.</p>
 <h2 class="sec-scrl" id="corn-flour-and-hypertension">Corn Flour and Hypertension</h2>
-<p>Corn flour, a staple ingredient in many cuisines around the world, can play a crucial role in <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> management due to its high potassium content. Potassium-rich foods like corn flour have been linked to lower blood pressure levels, making them an essential component of a heart-healthy diet.</p>
+<p>Corn flour, a staple ingredient in many cuisines around the world, can play a crucial role in <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> management due to its high potassium content. Potassium-rich foods like corn flour have been linked to lower blood pressure levels, making them an essential component of a heart-healthy diet.</p>
 <p>Incorporating corn flour into your meals can help you increase your potassium intake, which in turn supports healthy blood pressure levels by counteracting the effects of sodium in the body. By reducing sodium retention and promoting blood vessel dilation, potassium from corn flour contributes to overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="blood-pressure-management">Blood Pressure Management</h2>
 <p>When it comes to managing blood pressure, dietary choices play a significant role in determining your cardiovascular health. Corn flour serves as a versatile and nutritious option for individuals looking to enhance their heart health and regulate their blood pressure effectively.</p>
@@ -151,7 +151,7 @@
 <li>Enhanced energy levels, promoting an active lifestyle that benefits your heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="salt-reduction">Salt Reduction</h2>
-<p>Excessive salt intake is a common contributor to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, highlighting the importance of salt reduction strategies for individuals aiming to maintain healthy blood pressure levels. Corn flour offers a salt-reducing alternative to traditional refined grains, making it a valuable addition to a heart-healthy diet.</p>
+<p>Excessive salt intake is a common contributor to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, highlighting the importance of salt reduction strategies for individuals aiming to maintain healthy blood pressure levels. Corn flour offers a salt-reducing alternative to traditional refined grains, making it a valuable addition to a heart-healthy diet.</p>
 <p>By incorporating corn flour into your cooking, you can enjoy flavorful meals without compromising on taste while reducing your overall sodium intake. This simple swap can have a significant impact on your blood pressure management and cardiovascular health in the long run.</p>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, corn flour can be a valuable ally in your journey towards better blood pressure management and heart health. By understanding the connection between corn flour and blood pressure regulation, you can make informed dietary choices that support your overall well-being.</p>

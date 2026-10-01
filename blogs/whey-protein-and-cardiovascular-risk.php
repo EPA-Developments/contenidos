@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Whey Protein's Impact on Heart Health&quot;" />
     <meta property="og:description" content="Learn how whey protein impacts heart health. Discover its effects on cardiovascular risk factors like cholesterol and blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiovascular-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiovascular-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiovascular-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiovascular-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whey Protein And Cardiovascular Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whey-protein-and-cardiovascular-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whey-protein-and-cardiovascular-risk"
         }
     ]
 }
@@ -131,8 +131,8 @@
               <h1>The Impact of Whey Protein on Heart Health</h1>
 <p>Are you concerned about your heart health and looking for ways to reduce your risk of heart disease? Whey protein could be the solution you've been searching for. Understanding the impact of whey protein on cardiovascular risk factors is crucial for maintaining a healthy heart and preventing serious conditions. Let's explore the relationship between whey protein and its effects on heart health.</p>
 <h2 class="sec-scrl" id="heart-attack-prevention">Can Whey Protein Help Prevent Heart Attacks?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> prevention is a top priority for many individuals, and incorporating whey protein into your diet may offer significant benefits. Studies have shown that whey protein can help lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, reduce inflammation, and improve overall heart health. By including whey protein in your daily routine, you may lower your risk of experiencing a heart attack.</p>
-<p>Additionally, whey protein has been found to support healthy cholesterol levels, which play a critical role in heart health. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease, but whey protein consumption can help lower LDL (bad) cholesterol while increasing HDL (good) cholesterol levels, promoting a healthier heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> prevention is a top priority for many individuals, and incorporating whey protein into your diet may offer significant benefits. Studies have shown that whey protein can help lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, reduce inflammation, and improve overall heart health. By including whey protein in your daily routine, you may lower your risk of experiencing a heart attack.</p>
+<p>Additionally, whey protein has been found to support healthy cholesterol levels, which play a critical role in heart health. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease, but whey protein consumption can help lower LDL (bad) cholesterol while increasing HDL (good) cholesterol levels, promoting a healthier heart.</p>
 <ul>
 <li>Lower high blood pressure</li>
 <li>Reduce inflammation</li>
@@ -147,7 +147,7 @@
 <li>Improve cholesterol profile</li>
 </ul>
 <h2 class="sec-scrl" id="high-blood-pressure">Can Whey Protein Help Manage High Blood Pressure?</h2>
-<p>High blood pressure, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a significant risk factor for heart disease and stroke. Whey protein has been shown to have a positive impact on blood pressure levels, making it a valuable addition to a heart-healthy diet. By promoting the relaxation of blood vessels and improving blood flow, whey protein can help manage and reduce high blood pressure.</p>
+<p>High blood pressure, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a significant risk factor for heart disease and stroke. Whey protein has been shown to have a positive impact on blood pressure levels, making it a valuable addition to a heart-healthy diet. By promoting the relaxation of blood vessels and improving blood flow, whey protein can help manage and reduce high blood pressure.</p>
 <p>Regular consumption of whey protein may lead to lower systolic and diastolic blood pressure readings, contributing to better heart health and overall well-being. Including whey protein in your diet, alongside other healthy lifestyle choices, can be an effective strategy for managing high blood pressure and reducing the risk of cardiovascular complications.</p>
 <ul>
 <li>Promote relaxation of blood vessels</li>

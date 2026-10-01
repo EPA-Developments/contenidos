@@ -10,12 +10,12 @@
     <meta property="og:title" content="Blueberries Shield Against Stroke Risk" />
     <meta property="og:description" content="Discover how blueberries can help lower stroke risk naturally. Learn more about the benefits of blueberries for stroke prevention today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-stroke-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-stroke-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-stroke-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-stroke-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blueberries For Stroke Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-stroke-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-stroke-prevention"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Blueberries are not just delicious; they also offer a range of health benefits, including protection against strokes. These small fruits are packed with antioxidants, which play a crucial role in maintaining overall health and well-being. Antioxidants help combat oxidative stress in the body, reducing inflammation and lowering the risk of various chronic conditions, including strokes.</p>
 <p>Additionally, blueberries are known to support heart health by improving blood circulation and reducing the risk of clot formation. Their rich antioxidant content contributes to better arterial health, supporting optimal heart function and reducing the likelihood of stroke occurrence.</p>
 <h2 class="sec-scrl" id="stroke-risk-factors">Understanding Stroke Risk Factors</h2>
-<p>Before diving into how blueberries can help prevent strokes, it's essential to understand the key risk factors associated with this serious medical condition. Several factors can increase an individual's likelihood of experiencing a stroke, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, obesity, smoking, and a sedentary lifestyle.</p>
+<p>Before diving into how blueberries can help prevent strokes, it's essential to understand the key risk factors associated with this serious medical condition. Several factors can increase an individual's likelihood of experiencing a stroke, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, obesity, smoking, and a sedentary lifestyle.</p>
 <ul>
 <li>High Blood Pressure: Uncontrolled high blood pressure is a significant risk factor for strokes, as it can damage blood vessels over time and lead to blockages or ruptures.</li>
 <li>Diabetes: Individuals with diabetes are at a higher risk of strokes due to the impact of high blood sugar levels on the cardiovascular system.</li>

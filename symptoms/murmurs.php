@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Murmurs: Symptoms, Causes, Diagnosis and Treatment" >
   <meta property="og:description" content="Heart murmurs can be a sign of underlying issues. Know more about their symptoms, causes, diagnosis, and treatment for better heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/murmurs">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/murmurs" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/murmurs" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Murmurs",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/murmurs"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/murmurs"  
       }]
     }
   </script>
@@ -186,14 +186,14 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Murmurs: Symptoms, Causes, Diagnosis and Symptoms</h1>
-<p>Murmurs are abnormal <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> that can be heard when a healthcare provider listens to your heart with a stethoscope. These sounds are typically described as whooshing or swishing noises and can indicate an underlying issue with the heart's functioning.</p>
+<p>Murmurs are abnormal <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> that can be heard when a healthcare provider listens to your heart with a stethoscope. These sounds are typically described as whooshing or swishing noises and can indicate an underlying issue with the heart's functioning.</p>
 <p>Murmurs may be innocent (harmless) or abnormal, depending on their cause and characteristics.</p>
-<p>Symptoms of murmurs can vary depending on the underlying cause and severity of the condition. Common symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or fainting.</p>
+<p>Symptoms of murmurs can vary depending on the underlying cause and severity of the condition. Common symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or fainting.</p>
 <p>In some cases, murmurs may be accompanied by other signs of heart disease, such as irregular heartbeats or abnormal heart rhythms.</p>
 <p>Murmurs are often associated with valve problems, irregular heartbeats, or structural abnormalities within the heart. It is essential to consult a healthcare provider if you experience any symptoms of murmurs to determine the cause and appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Murmurs?</h2>
 <p>There are two main forms of murmurs: innocent (benign) murmurs and abnormal (pathologic) murmurs. Innocent murmurs are typically harmless and do not indicate any underlying heart problems. They are common in children and may disappear over time without treatment.</p>
-<p>Abnormal murmurs, on the other hand, may be a sign of heart disease or other serious conditions. These murmurs can be caused by issues such as valve problems, congenital heart defects, infections, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>Abnormal murmurs, on the other hand, may be a sign of heart disease or other serious conditions. These murmurs can be caused by issues such as valve problems, congenital heart defects, infections, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <p>Abnormal murmurs require further evaluation and treatment by a healthcare provider.</p>
 <p>Symptoms of abnormal murmurs may include chest pain, fatigue, shortness of breath, or swelling in the legs.</p>
 <p>If you experience any of these symptoms, it is essential to seek medical attention promptly to determine the cause of the murmur and receive appropriate care.</p>
@@ -201,12 +201,12 @@
 <p>Murmurs can be caused by a variety of factors, including valve problems, congenital heart defects, infections, or high blood pressure.</p>
 <p>Valve problems, such as mitral valve prolapse or aortic stenosis, can lead to turbulent blood flow within the heart, resulting in abnormal heart sounds.</p>
 <p>Congenital heart defects, which are present at birth, can also cause murmurs. These defects may involve abnormalities in the heart's structure or function, leading to unusual heart sounds when the heart beats.</p>
-<p>Infections, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> (inflammation of the heart's inner lining), can also result in murmurs. High blood pressure, known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can cause the heart to work harder to pump blood, leading to turbulent flow and murmurs.</p>
+<p>Infections, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> (inflammation of the heart's inner lining), can also result in murmurs. High blood pressure, known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can cause the heart to work harder to pump blood, leading to turbulent flow and murmurs.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Murmurs?</h2>
 <p>The diagnosis of murmurs typically involves a thorough physical examination by a healthcare provider, including listening to the heart with a stethoscope.</p>
 <p>The provider will listen for abnormal heart sounds and assess the characteristics of the murmurs, such as their intensity, timing, and location.</p>
 <p>In some cases, additional tests may be needed to determine the underlying cause of murmurs.</p>
-<p>These tests may include <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> (ultrasound imaging of the heart), electrocardiography (ECG or EKG to measure heart's electrical activity), or cardiac catheterization (a procedure to evaluate the heart's blood flow).</p>
+<p>These tests may include <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> (ultrasound imaging of the heart), electrocardiography (ECG or EKG to measure heart's electrical activity), or cardiac catheterization (a procedure to evaluate the heart's blood flow).</p>
 <p>Advanced diagnostic techniques, such as cardiac MRI or CT scans, may be used to further evaluate the heart's structure and function. These tests can provide detailed information about the cause of murmurs and help guide treatment decisions.</p>
 <h2 id="treatment">What is the Treatment for Murmurs?</h2>
 <p>The treatment for murmurs depends on the underlying cause and severity of the condition. In some cases, no treatment may be necessary for innocent murmurs that do not indicate any heart problems.</p>

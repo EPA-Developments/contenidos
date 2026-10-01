@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Apricot Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Discover the heart-healthy benefits of including apricots in your diet. Boost your cardiovascular protection with these nutrient-rich fruits." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/benefits-of-apricots-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/benefits-of-apricots-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/benefits-of-apricots-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/benefits-of-apricots-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Benefits Of Apricots For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/benefits-of-apricots-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/benefits-of-apricots-for-heart-health"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <h2 class="sec-scrl" id="heart-healthy-fruits">Heart Healthy Fruits</h2>
 <p>Apricots are not only sweet and flavorful but also packed with essential nutrients that can promote a healthy heart. Here are some key reasons why apricots deserve a place in your heart-healthy diet:</p>
 <ul>
-<li>Rich in Potassium: Apricots are a great source of potassium, a mineral that plays a crucial role in maintaining healthy blood pressure levels. By including potassium-rich foods like apricots in your diet, you can support your heart's overall function and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Rich in Potassium: Apricots are a great source of potassium, a mineral that plays a crucial role in maintaining healthy blood pressure levels. By including potassium-rich foods like apricots in your diet, you can support your heart's overall function and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Low in Calories: If you're watching your weight as part of your heart care routine, apricots are a fantastic choice. These fruits are low in calories but high in fiber, helping you feel full and satisfied without consuming excess calories.</li>
 <li>Antioxidant Power: Apricots are loaded with antioxidants like vitamin C and beta-carotene, which can help protect your heart from oxidative stress and inflammation. Including antioxidant-rich foods in your diet, such as apricots, can lower your risk of heart disease.</li>
 </ul>

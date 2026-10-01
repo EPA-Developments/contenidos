@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Carrots for Heart Health: A Nutritional Powerhouse'" />
     <meta property="og:description" content="Explore how carrots benefit heart health with their rich carotenoids and antioxidants. Learn about their role in cholesterol reduction and blood pressure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Carrots For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/carrots-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/carrots-for-heart-health"
         }
     ]
 }
@@ -147,7 +147,7 @@
 <li>Supporting overall heart health</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-reduction">Carrots and Cholesterol Reduction</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact heart health and increase the risk of heart disease. However, the fiber and antioxidants found in carrots can help lower cholesterol levels naturally. By incorporating carrots into your daily meals, you can support healthy cholesterol levels and improve your heart health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can significantly impact heart health and increase the risk of heart disease. However, the fiber and antioxidants found in carrots can help lower cholesterol levels naturally. By incorporating carrots into your daily meals, you can support healthy cholesterol levels and improve your heart health.</p>
 <p>Key ways in which carrots contribute to cholesterol reduction include:</p>
 <ul>
 <li>Binding to cholesterol in the gut and aiding in its excretion</li>
@@ -155,7 +155,7 @@
 <li>Promoting the production of beneficial HDL cholesterol</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Managing Blood Pressure with Carrots</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and stroke. The nutrients in carrots, such as potassium and fiber, can help regulate blood pressure levels and promote cardiovascular health. Including carrots in your diet can be an effective way to manage your blood pressure and protect your heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease and stroke. The nutrients in carrots, such as potassium and fiber, can help regulate blood pressure levels and promote cardiovascular health. Including carrots in your diet can be an effective way to manage your blood pressure and protect your heart.</p>
 <p>Here are some ways in which carrots can help manage blood pressure:</p>
 <ul>
 <li>Supporting healthy blood circulation</li>

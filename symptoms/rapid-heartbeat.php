@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis, and Symptoms of Rapid Heartbeat" >
   <meta property="og:description" content="Rapid heartbeat may indicate underlying issues. Know the causes, symptoms, diagnosis, and treatments for better heart health and helpful tips." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Rapid Heartbeat",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat"  
       }]
     }
   </script>
@@ -166,12 +166,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes, Diagnosis, and Treatment of Rapid Heartbeat</h1>
-<p>Rapid heartbeat, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, is a condition where your heart beats faster than normal. This means that your heart rate exceeds the typical resting rate of 60-100 beats per minute.</p>
-<p>Tachycardia can manifest as a racing heart, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-pulse">rapid pulse</a>, or a feeling of a fast heartbeat. It is essential to differentiate between occasional episodes of rapid heartbeat and chronic tachycardia, which may require medical attention.</p>
+<p>Rapid heartbeat, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, is a condition where your heart beats faster than normal. This means that your heart rate exceeds the typical resting rate of 60-100 beats per minute.</p>
+<p>Tachycardia can manifest as a racing heart, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-pulse">rapid pulse</a>, or a feeling of a fast heartbeat. It is essential to differentiate between occasional episodes of rapid heartbeat and chronic tachycardia, which may require medical attention.</p>
 <h2 id="forms">What are the Forms of Rapid Heartbeat?</h2>
 <p>There are various forms of rapid heartbeat, each with its specific symptoms and related concepts.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-tachycardia">sinus tachycardia</a>: A normal response to activities like exercise or stress, causing a temporary increase in heart rate.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/sinus-tachycardia">sinus tachycardia</a>: A normal response to activities like exercise or stress, causing a temporary increase in heart rate.</li>
 <li>Atrial fibrillation: An irregular and rapid heart rate that can lead to complications like blood clots and stroke.</li>
 <li>Supraventricular tachycardia: Episodes of fast heart rhythm originating above the heart's ventricles.</li>
 <li>Ventricular tachycardia: A fast heart rate originating in the heart's lower chambers, which can be life-threatening if sustained.</li>
@@ -195,24 +195,24 @@
 <p>To diagnose rapid heartbeat, healthcare providers may use various methods, including:</p>
 <ul>
 <li>Physical examination to assess heart rate and rhythm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity</li>
 <li>Holter monitor for continuous ECG monitoring over 24-48 hours</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Blood tests to check for underlying conditions like thyroid disorders or anemia</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Rapid Heartbeat?</h2>
 <p>Treatment for rapid heartbeat depends on the underlying cause and severity of the condition.</p>
 <ul>
 <li>Medications like beta-blockers or calcium channel blockers to regulate heart rate</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a> to restore normal heart rhythm</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> to correct abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a> to restore normal heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> to correct abnormal heart rhythms</li>
 <li>Lifestyle changes like reducing stress, avoiding stimulants, and staying hydrated</li>
 <li>Regular exercise to improve cardiovascular health and reduce tachycardia episodes</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of rapid heartbeat, such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 <li>Shortness of breath</li>
 <li>Dizziness or fainting</li>
 <li>Fatigue or weakness</li>

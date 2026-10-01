@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Superior Vena Cava Syndrome: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Superior Vena Cava syndrome occurs when blood flow is blocked. Know more about its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/superior-vena-cava-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/superior-vena-cava-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/superior-vena-cava-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/superior-vena-cava-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Superior Vena Cava Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/superior-vena-cava-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/superior-vena-cava-syndrome"
       }]
     }
   </script>
@@ -172,8 +172,8 @@
 <p>The superior vena cava plays a crucial role in returning blood from the head, neck, arms, and upper chest to the heart.</p>
 <p>When this vein becomes narrowed or blocked, as in SVCS, it can lead to a backlog of blood in the upper body and a rise in pressure within the vein.</p>
 <p>This can result in a variety of symptoms that can affect respiratory function, cardiac output, and overall circulation.</p>
-<p>In the short term, untreated SVCS can lead to symptoms such as swelling of the face, neck, and upper extremities, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, coughing, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</p>
-<p>In severe cases, SVCS can cause life-threatening complications such as airway obstruction, cerebral edema, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-tamponade">cardiac tamponade</a>.</p>
+<p>In the short term, untreated SVCS can lead to symptoms such as swelling of the face, neck, and upper extremities, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, coughing, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</p>
+<p>In severe cases, SVCS can cause life-threatening complications such as airway obstruction, cerebral edema, and <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-tamponade">cardiac tamponade</a>.</p>
 <p>In the long term, chronic SVCS can result in persistent symptoms, decreased quality of life, and potential damage to the heart and surrounding blood vessels.</p>
 <p>One challenge in diagnosing SVCS is its often asymptomatic nature in the early stages. Many individuals may not experience noticeable symptoms until the syndrome has progressed significantly.</p>
 <p>Therefore, early detection through regular screenings, especially for individuals at higher risk, is crucial for timely intervention and management of SVCS.</p>
@@ -195,12 +195,12 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Facial Swelling: Early-stage SVCS may present with facial swelling, particularly around the eyes and cheeks. This swelling can be subtle initially but may progress over time, causing aesthetic concerns and discomfort. As the syndrome advances, the swelling may become more pronounced and affect facial features significantly.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Individuals with SVCS may experience mild to moderate shortness of breath, especially during exertion or when lying flat. This symptom can impact daily activities such as climbing stairs or engaging in physical exercise. The gradual onset of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> may be attributed to reduced blood flow returning to the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Individuals with SVCS may experience mild to moderate shortness of breath, especially during exertion or when lying flat. This symptom can impact daily activities such as climbing stairs or engaging in physical exercise. The gradual onset of <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> may be attributed to reduced blood flow returning to the heart.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>: Advanced-stage SVCS can lead to cyanosis, a bluish discoloration of the skin and mucous membranes due to decreased oxygenation of the blood. Cyanosis is a concerning sign of severe oxygen deprivation and can indicate a critical reduction in blood flow through the superior vena cava.</li>
-<li>Neurological Symptoms: In some cases, SVCS may cause neurological symptoms such as headache, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or altered mental status. These symptoms can result from impaired cerebral blood flow due to venous congestion and may indicate a more advanced stage of the syndrome requiring immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>: Advanced-stage SVCS can lead to cyanosis, a bluish discoloration of the skin and mucous membranes due to decreased oxygenation of the blood. Cyanosis is a concerning sign of severe oxygen deprivation and can indicate a critical reduction in blood flow through the superior vena cava.</li>
+<li>Neurological Symptoms: In some cases, SVCS may cause neurological symptoms such as headache, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or altered mental status. These symptoms can result from impaired cerebral blood flow due to venous congestion and may indicate a more advanced stage of the syndrome requiring immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Superior Vena Cava Syndrome</h2>
 <p>Imaging Studies</p>

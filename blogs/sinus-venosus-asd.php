@@ -10,12 +10,12 @@
     <meta property="og:title" content="Sinus Venosus ASD Symptoms & Diagnosis" />
     <meta property="og:description" content="Learn about symptoms & diagnosis of Sinus Venosus ASD. Discover key details on diagnosis methods & signs to watch for." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sinus-venosus-asd" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sinus-venosus-asd" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sinus-venosus-asd" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sinus-venosus-asd" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sinus Venosus Asd",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sinus-venosus-asd"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sinus-venosus-asd"
         }
     ]
 }
@@ -169,11 +169,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Symptoms &amp; Diagnosis of Sinus Venosus ASD</h1>
-<p>Are you experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>? Do you find it challenging to keep up with your daily activities due to these symptoms? Sinus venosus ASD, a type of atrial septal defect, could be the underlying cause. Understanding the symptoms and diagnostic procedures can help you take control of your health and well-being.</p>
+<p>Are you experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/unexplained-fatigue">unexplained fatigue</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>? Do you find it challenging to keep up with your daily activities due to these symptoms? Sinus venosus ASD, a type of atrial septal defect, could be the underlying cause. Understanding the symptoms and diagnostic procedures can help you take control of your health and well-being.</p>
 <h2 class="sec-scrl" id="sinus-venosus-defect-imaging">Sinus Venosus Defect Imaging</h2>
 <p>When it comes to diagnosing sinus venosus ASD, imaging plays a crucial role in identifying the structural abnormalities in the heart. Some common imaging techniques used for defect imaging include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: This non-invasive test uses sound waves to create a detailed image of the heart's structure, allowing healthcare providers to identify any defects.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: This non-invasive test uses sound waves to create a detailed image of the heart's structure, allowing healthcare providers to identify any defects.</li>
 <li>Cardiac MRI: Magnetic Resonance Imaging provides detailed images of the heart, helping in the accurate diagnosis of sinus venosus ASD.</li>
 </ul>
 <p>These imaging tests enable healthcare professionals to visualize the heart's structure and determine the presence of a sinus venosus defect.</p>
@@ -195,13 +195,13 @@
 <h2 class="sec-scrl" id="congenital-asd-diagnosis">Congenital ASD Diagnosis</h2>
 <p>Diagnosing congenital ASD, such as sinus venosus ASD, involves a comprehensive evaluation that may include:</p>
 <ul>
-<li>Physical Examination: Healthcare providers may listen to the <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-sounds">heart sounds</a> and check for signs of heart abnormalities.</li>
+<li>Physical Examination: Healthcare providers may listen to the <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-sounds">heart sounds</a> and check for signs of heart abnormalities.</li>
 <li>Medical History Review: Understanding the patient's medical history can provide insights into potential risk factors for congenital heart defects.</li>
 <li>Diagnostic Tests: Imaging tests and cardiac screenings help confirm the presence of a congenital ASD.</li>
 </ul>
 <p>By combining various diagnostic approaches, healthcare teams can accurately diagnose congenital ASD and develop a personalized treatment plan.</p>
 <h2 class="sec-scrl" id="asd-closure-evaluation">ASD Closure Evaluation</h2>
-<p>After diagnosing sinus venosus ASD, healthcare providers assess the need for <a href="https://plataforma.epa-bienestar.com.ar/procedures/asd-closure">asd closure</a>, a procedure to repair the atrial septal defect. The evaluation process may involve:</p>
+<p>After diagnosing sinus venosus ASD, healthcare providers assess the need for <a href="https://contenidos.segundaopinionmedica.org/procedures/asd-closure">asd closure</a>, a procedure to repair the atrial septal defect. The evaluation process may involve:</p>
 <ul>
 <li>Assessing the size and location of the defect.</li>
 <li>Evaluating the overall impact of the defect on heart function.</li>

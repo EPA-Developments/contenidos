@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Asthma: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Cardiac asthma is a condition that causes difficulty breathing due to fluid buildup in the lungs. Know its causes, symptoms, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-asthma">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-asthma">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-asthma" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-asthma" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Cardiac Asthma",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-asthma"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-asthma"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Cardiac Asthma</h1>
-<p>Cardiac Asthma is not a form of asthma but a type of wheezing or coughing that occurs with heart failure. It happens when fluid builds up in the lungs due to the heart's inability to pump effectively. This condition is significant as it can be mistaken for regular asthma, leading to incorrect treatments. Cardiac Asthma is prevalent among individuals with heart conditions, especially older adults. If you experience sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, wheezing, or coughing, especially at night, consult a healthcare provider promptly for proper evaluation and management.</p>
+<p>Cardiac Asthma is not a form of asthma but a type of wheezing or coughing that occurs with heart failure. It happens when fluid builds up in the lungs due to the heart's inability to pump effectively. This condition is significant as it can be mistaken for regular asthma, leading to incorrect treatments. Cardiac Asthma is prevalent among individuals with heart conditions, especially older adults. If you experience sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, wheezing, or coughing, especially at night, consult a healthcare provider promptly for proper evaluation and management.</p>
 <h2 id="causes">Causes of Cardiac Asthma</h2>
 <p><h3>Main Factors Contributing to the Development of Cardiac Asthma:</h3>
 <ul>
@@ -177,8 +177,8 @@
 <li>Shortness of breath</li>
 <li>Coughing, especially at night</li>
 <li>Wheezing</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 If you or someone you know experiences these symptoms, it's essential to seek medical help promptly to receive proper evaluation and management. Early intervention can lead to better control of the condition and improved quality of life.</p>
@@ -186,10 +186,10 @@ If you or someone you know experiences these symptoms, it's essential to seek me
 <p>Cardiac asthma can mimic symptoms of regular asthma but is actually caused by heart failure. Accurate diagnosis is crucial to provide appropriate treatment and prevent complications. The diagnostic process typically includes a thorough medical history review, physical examination, and various tests. 
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
 <li>Chest X-ray to check for fluid in the lungs</li>
 <li>Blood tests to evaluate heart enzymes and function</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to monitor heart rhythm</li>
 <li>Pulmonary function tests to differentiate from regular asthma</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Cardiac Asthma</h2>

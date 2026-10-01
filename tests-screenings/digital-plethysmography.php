@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Digital Plethysmography: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Digital plethysmography measures blood flow. Read more to know the purpose, costs, and normal Range for accurate results in circulatory health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-plethysmography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/digital-plethysmography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-plethysmography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/digital-plethysmography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Digital Plethysmography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/digital-plethysmography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/digital-plethysmography"  
       }]
     }
   </script>
@@ -167,7 +167,7 @@
 <p>By measuring pulse volume changes, healthcare providers can identify abnormalities in blood flow and diagnose conditions such as PAD, which can lead to serious complications if left untreated.</p>
 <p>Digital plethysmography is also used to monitor the effectiveness of treatment interventions, such as medication or lifestyle changes, in improving circulation and reducing symptoms associated with vascular diseases.</p>
 <p>It provides valuable feedback on the progression of the condition and helps healthcare providers adjust treatment plans accordingly.</p>
-<p>Additionally, digital plethysmography can be used as a screening tool for individuals at risk of developing circulatory disorders, such as those with diabetes, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, or a history of smoking.</p>
+<p>Additionally, digital plethysmography can be used as a screening tool for individuals at risk of developing circulatory disorders, such as those with diabetes, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, or a history of smoking.</p>
 <p>Early detection of vascular abnormalities through regular monitoring with plethysmography can lead to timely intervention and improved outcomes for patients.</p>
 <h2 id="costs">What are the Costs of Digital Plethysmography Tests in Americas?</h2>
 <p>In Americas, the cost of a digital plethysmography test can vary depending on the healthcare facility, location, and additional services included in the test.</p>

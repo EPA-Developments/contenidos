@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olive Oil for Fatty Heart: Combat Heart Fat" />
     <meta property="og:description" content="Discover how olive oil combats fatty heart disease, reduces heart fat buildup, and supports heart health. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-fatty-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-fatty-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-fatty-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-fatty-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil For Fatty Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-for-fatty-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-for-fatty-heart-disease"
         }
     ]
 }

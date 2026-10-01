@@ -10,12 +10,12 @@
     <meta property="og:title" content="Causes of Blocked Blood Vessels: Prevention Guide" />
     <meta property="og:description" content="Learn about the causes of blocked blood vessels and effective prevention strategies to safeguard your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blocked-blood-vessels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blocked-blood-vessels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blocked-blood-vessels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blocked-blood-vessels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blocked Blood Vessels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blocked-blood-vessels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blocked-blood-vessels"
         }
     ]
 }
@@ -171,11 +171,11 @@
               <h1>Causes and Prevention of Blocked Blood Vessels</h1>
 <p>Are you struggling with the debilitating effects of blocked blood vessels? Do you find it challenging to perform daily activities due to reduced blood flow in your arteries? Understanding the causes of blocked blood vessels and learning how to prevent them is crucial for maintaining a healthy cardiovascular system.</p>
 <h2 class="sec-scrl" id="blocked-arteries-causes">Blocked Arteries Causes</h2>
-<p>Blocked arteries, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, occur when plaque builds up inside the blood vessels, narrowing the passageway for blood flow. The primary cause of this condition is the accumulation of cholesterol, fat, and other substances in the arterial walls. Over time, these deposits harden and restrict blood flow, leading to various cardiovascular complications.</p>
+<p>Blocked arteries, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, occur when plaque builds up inside the blood vessels, narrowing the passageway for blood flow. The primary cause of this condition is the accumulation of cholesterol, fat, and other substances in the arterial walls. Over time, these deposits harden and restrict blood flow, leading to various cardiovascular complications.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 </ul>
 <p>Seeking medical advice and adopting healthier lifestyle choices can help prevent and manage blocked arteries effectively.</p>
 <h2 class="sec-scrl" id="preventing-blood-vessel-blockage">Preventing Blood Vessel Blockage</h2>

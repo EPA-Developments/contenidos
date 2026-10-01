@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Treatment, and Diagnosis of Sudden Fainting" >
   <meta property="og:description" content="Sudden Fainting can indicate a serious heart issue. Know more about causes, symptoms, diagnosis and treatments related to sudden fainting." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-fainting">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/sudden-fainting">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-fainting" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-fainting" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sudden Fainting",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/sudden-fainting"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/sudden-fainting"  
       }]
     }
   </script>
@@ -166,11 +166,11 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms, Treatment, and Diagnosis of Sudden Fainting</h1>
-<p>Sudden fainting, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, is a temporary <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> and muscle strength due to a lack of blood flow to the brain. This condition can occur unexpectedly and without warning, leading to a sudden collapse or blackout.</p>
-<p>Symptoms of sudden fainting include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, nausea, sweating, blurred vision, and a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. It can be a frightening experience for both the individual experiencing it and those around them.</p>
+<p>Sudden fainting, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, is a temporary <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> and muscle strength due to a lack of blood flow to the brain. This condition can occur unexpectedly and without warning, leading to a sudden collapse or blackout.</p>
+<p>Symptoms of sudden fainting include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, nausea, sweating, blurred vision, and a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. It can be a frightening experience for both the individual experiencing it and those around them.</p>
 <p>Sudden fainting can be caused by various factors, such as dehydration, low blood sugar, heart conditions, or even emotional stress. Understanding the underlying cause is crucial in managing and preventing future episodes.</p>
 <h2 id="forms">What are the Forms of Sudden fainting?</h2>
-<p>There are different forms of sudden fainting, each with its unique set of symptoms and triggers. These forms include vasovagal syncope, <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, and cardiac syncope.</p>
+<p>There are different forms of sudden fainting, each with its unique set of symptoms and triggers. These forms include vasovagal syncope, <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, and cardiac syncope.</p>
 <ul>
 <li>Vasovagal syncope is the most common form of fainting and is often triggered by emotional stress, pain, or standing for long periods.</li>
 <li>Orthostatic hypotension occurs when a sudden drop in blood pressure happens upon standing up, leading to dizziness and fainting.</li>
@@ -179,13 +179,13 @@
 <h2 id="causes">What are the Causes of Sudden fainting?</h2>
 <p>The causes of sudden fainting can vary from person to person, depending on their overall health and medical history.</p>
 <ul>
-<li>Dehydration or low blood sugar levels can lead to a drop in blood pressure, causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>.</li>
+<li>Dehydration or low blood sugar levels can lead to a drop in blood pressure, causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>.</li>
 <li>Heart conditions, such as arrhythmias, valve disorders, or heart attacks, can disrupt the heart's normal functioning and lead to fainting.</li>
 <li>Medications that lower blood pressure or affect heart function can also trigger sudden fainting episodes.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Sudden fainting?</h2>
 <p>Diagnosing the underlying cause of sudden fainting involves a thorough medical evaluation, including a detailed medical history, physical examination, and diagnostic tests.</p>
-<p>Basic diagnostic tests may include blood tests, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), and echocardiogram to assess heart function and rule out any underlying cardiac issues.</p>
+<p>Basic diagnostic tests may include blood tests, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), and echocardiogram to assess heart function and rule out any underlying cardiac issues.</p>
 <p>Advanced diagnostic methods, such as tilt table testing, cardiac stress tests, or ambulatory monitoring, may be required to capture any abnormalities that could be causing fainting episodes.</p>
 <h2 id="treatment">What is the Treatment for Sudden fainting?</h2>
 <p>Treatment for sudden fainting depends on the underlying cause and may include medical interventions, lifestyle modifications, and advanced treatment approaches.</p>

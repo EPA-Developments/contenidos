@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Palm Oil Effects on Blood Pressure: Insights&quot;" />
     <meta property="og:description" content="Discover how palm oil influences blood pressure and cardiovascular health. Learn about its impact on hypertension, potassium levels, and vascular function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Palm Oil And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Effects of Palm Oil on Blood Pressure</h1>
-<p>Are you concerned about how palm oil consumption might be affecting your blood pressure? Do you find yourself struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and wondering if palm oil plays a role in exacerbating this condition? Understanding the relationship between palm oil and blood pressure is crucial for managing your vascular health and overall well-being. Let's delve into the effects of palm oil on your blood pressure levels and how it influences your day-to-day activities.</p>
+<p>Are you concerned about how palm oil consumption might be affecting your blood pressure? Do you find yourself struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and wondering if palm oil plays a role in exacerbating this condition? Understanding the relationship between palm oil and blood pressure is crucial for managing your vascular health and overall well-being. Let's delve into the effects of palm oil on your blood pressure levels and how it influences your day-to-day activities.</p>
 <h2 class="sec-scrl" id="palm-oil-bp-relationship">The Connection Between Palm Oil and Blood Pressure</h2>
 <p>Palm oil is a commonly used vegetable oil found in many processed foods and cooking products. Its impact on blood pressure stems from its composition and how it affects various physiological processes in the body. Here's what you need to know about the relationship between palm oil and blood pressure:</p>
 <ul>
@@ -138,7 +138,7 @@
 <li>Regular consumption of palm oil has been linked to arterial stiffness, which can impact overall vascular health and blood circulation.</li>
 </ul>
 <h2 class="sec-scrl" id="hypertension-impact">How Does Palm Oil Affect Hypertension?</h2>
-<p>Hypertension, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is a common cardiovascular condition that affects millions of people worldwide. Here's how palm oil can influence hypertension and potentially exacerbate this health issue:</p>
+<p>Hypertension, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is a common cardiovascular condition that affects millions of people worldwide. Here's how palm oil can influence hypertension and potentially exacerbate this health issue:</p>
 <ul>
 <li>The saturated fats in palm oil can contribute to the buildup of plaque in the arteries, increasing the risk of hypertension.</li>
 <li>Palm oil's impact on sodium balance can disrupt the body's ability to regulate blood pressure effectively, leading to hypertension.</li>

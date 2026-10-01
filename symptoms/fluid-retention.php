@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Fluid Retention: Causes, Symptoms, and Treatment Options">
   <meta property="og:description" content="Experiencing fluid retention symptoms like bloating? Learn about causes, treatments, and management for fluid retention, including its links to heart and kidney issues.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Fluid Retention",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention"  
       }]
     }
   </script>
@@ -207,7 +207,7 @@
 <li>Kidney problems: Kidney problems, such as kidney disease or kidney failure, can result in fluid retention as the kidneys are unable to filter out excess fluids properly.</li>
 <li>Hormonal imbalances: Hormonal imbalances, such as those related to thyroid disorders or pregnancy, can contribute to fluid retention in the body.</li>
 <li>Medications: Certain medications, such as corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), and some blood pressure medications, can cause fluid retention as a side effect.</li>
-<li>Sedentary lifestyle: Lack of physical activity can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> and fluid buildup in the body's tissues, resulting in swelling and discomfort.</li>
+<li>Sedentary lifestyle: Lack of physical activity can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> and fluid buildup in the body's tissues, resulting in swelling and discomfort.</li>
 <li>Excessive salt intake: Consuming too much salt can cause the body to retain water, leading to fluid retention and bloating.</li>
 </ul>
 <h2 id="diagnosis">What is the Diagnostic Method for Fluid retention?</h2>
@@ -233,7 +233,7 @@
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of fluid retention, including:</p>
 <ul>
 <li>Sudden or unexplained swelling in the legs, feet, or hands.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> associated with fluid retention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> associated with fluid retention.</li>
 <li>Rapid weight gain or bloating that does not improve with lifestyle changes.</li>
 <li>Pitting edema, where pressing on the swollen area leaves a temporary indentation.</li>
 <li>Changes in urination patterns, such as increased frequency or decreased volume.</li>

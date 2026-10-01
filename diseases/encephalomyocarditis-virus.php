@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Encephalomyocarditis Virus: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Encephalomyocarditis Virus (EMCV), its transmission, symptoms, and prevention. Understand the risks and protective measures.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/encephalomyocarditis-virus">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/encephalomyocarditis-virus">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/encephalomyocarditis-virus" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/encephalomyocarditis-virus" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Encephalomyocarditis Virus",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/encephalomyocarditis-virus"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/encephalomyocarditis-virus"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Encephalomyocarditis Virus: Symptoms, Causes, and Treatment</h1>
-<p>Encephalomyocarditis Virus (EMCV) is a type of virus that can affect both the brain (encephalo-) and the heart (<a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>) of various animals. Although rare in humans, it mainly impacts rodents and pigs. The virus can lead to severe illness in these animals, causing symptoms like encephalitis (brain inflammation) and myocarditis (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a>). Understanding EMCV is crucial for veterinarians and researchers to prevent outbreaks in animal populations and potentially reduce the risk of transmission to humans.</p>
+<p>Encephalomyocarditis Virus (EMCV) is a type of virus that can affect both the brain (encephalo-) and the heart (<a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>) of various animals. Although rare in humans, it mainly impacts rodents and pigs. The virus can lead to severe illness in these animals, causing symptoms like encephalitis (brain inflammation) and myocarditis (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a>). Understanding EMCV is crucial for veterinarians and researchers to prevent outbreaks in animal populations and potentially reduce the risk of transmission to humans.</p>
 <h2 id="causes">Causes of Encephalomyocarditis Virus</h2>
 <p>Encephalomyocarditis Virus (EMCV) development is influenced by various factors, including:
 
@@ -178,8 +178,8 @@
 <ul>
 <li>Fever</li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Headache</li>
 <li>Nausea and vomiting</li>
 <li>Abdominal pain</li>

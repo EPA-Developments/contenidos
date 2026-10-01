@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Bipedal Edema: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Bipedal Edema causes, symptoms, and treatment options. Find expert advice on managing this condition effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/bipedal-edema">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/bipedal-edema">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/bipedal-edema" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/bipedal-edema" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Bipedal Edema",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/bipedal-edema"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/bipedal-edema"
       }]
     }
   </script>
@@ -179,7 +179,7 @@
 <li>Swelling in the legs and ankles</li>
 <li>Pitting edema - when pressure on the swollen area leaves a temporary indentation</li>
 <li>Increased abdominal size or bloating</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Weight gain due to fluid retention</li>
 </ul></p>
 <h2>Diagnosis of Bipedal Edema</h2>
@@ -190,7 +190,7 @@
 <li>Blood tests to check for kidney function, liver function, and protein levels</li>
 <li>Urinalysis to evaluate kidney function</li>
 <li>Imaging tests such as ultrasound or CT scan to look for abnormalities in the legs or abdomen</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Bipedal Edema</h2>
 <p>Bipedal edema, or swelling in the legs and feet, can have various causes like heart failure, kidney disease, or venous insufficiency. Treatment approaches for bipedal edema should be tailored to the underlying cause for optimal results. 

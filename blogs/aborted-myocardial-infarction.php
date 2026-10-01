@@ -10,12 +10,12 @@
     <meta property="og:title" content="Aborted Heart Attack Impact on Heart Health" />
     <meta property="og:description" content="Learn how aborted myocardial infarction impacts heart health. Discover heart health after infarction, heart attack effects, recovery, prevention, and complications." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aborted-myocardial-infarction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aborted-myocardial-infarction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aborted-myocardial-infarction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aborted-myocardial-infarction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Aborted Myocardial Infarction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/aborted-myocardial-infarction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/aborted-myocardial-infarction"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Aborted Heart Attacks on Heart Health</h1>
-<p>Have you ever wondered how aborted <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> can impact your daily life? The sudden scare of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, the fear of its consequences, and the uncertainty of what lies ahead can be overwhelming. Simple activities like climbing stairs or playing with your children may now seem daunting. It's essential to understand the effects of aborted myocardial infarction on your heart health to take the necessary steps towards recovery and prevention.</p>
+<p>Have you ever wondered how aborted <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> can impact your daily life? The sudden scare of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, the fear of its consequences, and the uncertainty of what lies ahead can be overwhelming. Simple activities like climbing stairs or playing with your children may now seem daunting. It's essential to understand the effects of aborted myocardial infarction on your heart health to take the necessary steps towards recovery and prevention.</p>
 <h2 class="sec-scrl" id="myocardial-infarction-impact">Myocardial Infarction Impact</h2>
 <p>When a myocardial infarction occurs, it can have a significant impact on your heart health. The blockage of blood flow to the heart muscle leads to oxygen deprivation, causing damage to the heart tissue. In the case of an aborted myocardial infarction, the blockage resolves on its own before causing extensive tissue death.</p>
 <p>However, even in the case of an aborted heart attack, there can be residual effects on the heart. The surrounding tissue may still suffer damage, affecting the overall functioning of the heart. It's crucial to monitor these effects closely and take steps to prevent further complications.</p>
@@ -188,14 +188,14 @@
 <ul>
 <li>Follow your healthcare provider's recommendations regarding medication usage and lifestyle changes.</li>
 <li>Engage in physical activity as tolerated, gradually increasing intensity under supervision.</li>
-<li>Seek emotional support from loved ones or mental health professionals to address any psychological effects of the <a href="https://plataforma.epa-bienestar.com.ar/diseases/infarction">infarction</a>.</li>
+<li>Seek emotional support from loved ones or mental health professionals to address any psychological effects of the <a href="https://contenidos.segundaopinionmedica.org/diseases/infarction">infarction</a>.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-damage-prevention">Heart Damage Prevention</h2>
 <p>Preventing further heart damage after an aborted myocardial infarction is crucial for long-term heart health. By implementing preventive measures, you can reduce the risk of recurrent cardiac events and improve your overall quality of life.</p>
 <p>Some strategies to prevent heart damage include:</p>
 <ul>
 <li>Adopting a heart-healthy diet rich in fruits, vegetables, whole grains, and lean proteins.</li>
-<li>Maintaining a healthy weight and managing conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and diabetes.</li>
+<li>Maintaining a healthy weight and managing conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and diabetes.</li>
 <li>Avoiding tobacco use and excessive alcohol consumption.</li>
 <li>Managing stress through relaxation techniques, mindfulness, or counseling.</li>
 </ul>

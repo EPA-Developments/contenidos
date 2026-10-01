@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart-Healthy Cereal for Cholesterol Management" />
     <meta property="og:description" content="Discover how cereal can help manage cholesterol levels effectively for a heart-healthy approach." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cereal For Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cereal-for-cholesterol-management"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Best Cereals for Managing Cholesterol: A Heart-Healthy Approach</h1>
 <p>Are you struggling to keep your cholesterol levels in check despite making changes to your diet? Do you find it challenging to incorporate heart-healthy foods into your daily meals? Managing cholesterol can be a daunting task, impacting your overall health and well-being, but there is a simple and delicious solution that can make a significant difference in your cholesterol levels - cereal.</p>
 <h2 class="sec-scrl" id="heart-disease-prevention">Heart Disease Prevention</h2>
-<p>Heart disease is a leading cause of death worldwide, with <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels being a major risk factor. By choosing the right cereal for cholesterol management, you can take a proactive step towards preventing heart disease. Opt for cereals that are specifically formulated to help lower cholesterol levels and promote heart health.</p>
+<p>Heart disease is a leading cause of death worldwide, with <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels being a major risk factor. By choosing the right cereal for cholesterol management, you can take a proactive step towards preventing heart disease. Opt for cereals that are specifically formulated to help lower cholesterol levels and promote heart health.</p>
 <ul>
 <li>Look for cereals fortified with plant sterols and stanols, known for their cholesterol-lowering properties.</li>
 <li>Choose whole grain options that are rich in fiber, which can help reduce LDL cholesterol levels.</li>

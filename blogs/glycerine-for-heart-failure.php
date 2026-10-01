@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glycerine for Heart Failure: Effective Treatment Options&quot;" />
     <meta property="og:description" content="Learn about glycerine for heart failure treatment. Explore effective glycerine therapy for managing chronic heart failure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-for-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glycerine-for-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-for-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glycerine-for-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glycerine For Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glycerine-for-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glycerine-for-heart-failure"
         }
     ]
 }
@@ -130,7 +130,7 @@
             <div class="article-content">
               <h1>Glycerine for Heart Failure: Treatment Guide</h1>
 <p>Are you or a loved one dealing with chronic heart failure and looking for effective treatment options? How can glycerine therapy improve cardiac function and help manage heart failure symptoms, allowing you to lead a better quality of life?</p>
-<p>Living with chronic heart failure can significantly impact daily activities, leading to fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and limited physical capabilities. Finding the right treatment approach is crucial in managing these symptoms and improving overall well-being.</p>
+<p>Living with chronic heart failure can significantly impact daily activities, leading to fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and limited physical capabilities. Finding the right treatment approach is crucial in managing these symptoms and improving overall well-being.</p>
 <h2 class="sec-scrl" id="heart-failure-management">Heart Failure Management</h2>
 <p>Heart failure management involves a multi-faceted approach aimed at reducing symptoms, improving cardiac function, and enhancing quality of life for patients. Here are key strategies commonly used in the management of heart failure:</p>
 <ul>
@@ -152,7 +152,7 @@
 <ul>
 <li>Implantable Devices: Devices such as pacemakers and implantable cardioverter-defibrillators (ICDs) may be recommended to help regulate heart rhythm and improve cardiac function in certain heart failure patients.</li>
 <li>Cardiac Rehabilitation: Participating in a structured cardiac rehabilitation program can help individuals with heart failure improve their physical fitness, reduce symptoms, and enhance overall cardiovascular health.</li>
-<li>Surgical Interventions: In some cases, surgical procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG) or heart valve repair/replacement may be necessary to address underlying issues contributing to heart failure.</li>
+<li>Surgical Interventions: In some cases, surgical procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG) or heart valve repair/replacement may be necessary to address underlying issues contributing to heart failure.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">Conclusion</h2>
 <p>In conclusion, glycerine therapy offers a promising approach to managing chronic heart failure by improving blood flow and supporting cardiac function. When combined with other treatment modalities and lifestyle modifications, glycerine-based treatments can significantly enhance the quality of life for individuals living with heart failure. By actively engaging in heart failure management strategies and working closely with healthcare providers, patients can effectively control symptoms, prevent disease progression, and lead fulfilling lives despite the challenges posed by this condition.</p>

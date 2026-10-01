@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improve Artery Health with Lentils" />
     <meta property="og:description" content="Discover how lentils can improve your arterial health and boost circulation. Optimal vascular function starts with your plate." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-artery-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-artery-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-artery-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lentils-for-artery-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lentils For Artery Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lentils-for-artery-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lentils-for-artery-health"
         }
     ]
 }
@@ -148,7 +148,7 @@
 <h2 class="sec-scrl" id="cardiovascular-protection">The Cardiovascular Protection Lentils Provide</h2>
 <p>When it comes to cardiovascular protection, lentils offer a holistic approach to maintaining heart health and reducing the risk of heart disease. By including lentils in your diet, you can benefit from their various protective properties:</p>
 <ul>
-<li>The soluble fiber in lentils helps lower LDL cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</li>
+<li>The soluble fiber in lentils helps lower LDL cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</li>
 <li>Lentils contain plant compounds like polyphenols that have anti-inflammatory and antioxidant effects, protecting the heart and blood vessels from damage.</li>
 <li>The folate in lentils supports homocysteine metabolism, a marker for heart disease risk, promoting overall cardiovascular well-being.</li>
 </ul>

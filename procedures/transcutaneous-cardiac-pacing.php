@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Transcutaneous Cardiac Pacing: Non-Invasive External Heart Pacing">
   <meta property="og:description" content="Learn about the non-invasive Transcutaneous Cardiac Pacing procedure, also known as External heart pacing. This temporary pacing for heart issues can be a life-saving option.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/transcutaneous-cardiac-pacing">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/transcutaneous-cardiac-pacing">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/transcutaneous-cardiac-pacing" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/transcutaneous-cardiac-pacing" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Transcutaneous Cardiac Pacing",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/transcutaneous-cardiac-pacing"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/transcutaneous-cardiac-pacing"  
       }]
     }
   </script>

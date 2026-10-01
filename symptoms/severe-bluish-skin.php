@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Bluish Skin: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Severe Bluish Skin could be a sign of heart problems. Know more about symptoms, causes, diagnosis, and treatment for this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-bluish-skin">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-bluish-skin">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-bluish-skin" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-bluish-skin" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Bluish Skin",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-bluish-skin"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-bluish-skin"  
       }]
     }
   </script>
@@ -186,16 +186,16 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Severe Bluish Skin: Symptoms, Causes, and Diagnosis</h1>
-<p>Severe bluish skin, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>, is a condition characterized by a bluish discoloration of the skin, often indicating a lack of oxygen in the blood.</p>
+<p>Severe bluish skin, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>, is a condition characterized by a bluish discoloration of the skin, often indicating a lack of oxygen in the blood.</p>
 <p>This bluish tint to the skin can be seen in different parts of the body, such as the lips, fingers, toes, or even the entire body.</p>
 <p>It occurs when the blood does not carry enough oxygen, leading to skin oxygen deprivation and a bluish appearance of the extremities.</p>
 <p>Cyanosis can be categorized into two forms: central cyanosis and peripheral cyanosis. Central cyanosis affects the lips, tongue, and mucous membranes, indicating a more severe lack of oxygen in the blood.</p>
-<p>Peripheral cyanosis, on the other hand, affects the fingers, toes, and skin, often due to environmental factors or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>. Both forms of cyanosis require medical attention to determine the underlying cause and provide appropriate treatment.</p>
+<p>Peripheral cyanosis, on the other hand, affects the fingers, toes, and skin, often due to environmental factors or <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>. Both forms of cyanosis require medical attention to determine the underlying cause and provide appropriate treatment.</p>
 <h2 id="forms">What are the Forms of Severe bluish skin?</h2>
 <p>Central cyanosis is characterized by a bluish discoloration of the lips, tongue, and mucous membranes, indicating a severe lack of oxygen in the blood.</p>
 <p>This form of cyanosis is often associated with heart or lung conditions that impair the oxygenation of blood.</p>
 <p>In contrast, peripheral cyanosis affects the extremities, such as the fingers and toes, and is typically caused by poor circulation or exposure to cold temperatures.</p>
-<p>Symptoms of central cyanosis may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, confusion, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, while peripheral cyanosis may present with cold, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">clammy skin</a>, numbness, and tingling in the affected areas.</p>
+<p>Symptoms of central cyanosis may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, confusion, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, while peripheral cyanosis may present with cold, <a href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">clammy skin</a>, numbness, and tingling in the affected areas.</p>
 <p>Both forms of cyanosis require prompt medical evaluation to determine the underlying cause and initiate appropriate treatment.</p>
 <h2 id="causes">What are the Causes of Severe bluish skin?</h2>
 <p>Severe bluish skin can be caused by a variety of factors, including:</p>
@@ -210,8 +210,8 @@
 <p>Each of these causes can lead to a lack of oxygen in the blood, resulting in cyanosis or severe bluish skin. It is essential to identify the underlying cause of cyanosis through medical evaluation to determine the appropriate treatment approach.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Severe bluish skin?</h2>
 <p>The diagnostic process for severe bluish skin involves a thorough medical history, physical examination, and additional tests to determine the underlying cause of cyanosis.</p>
-<p>Basic diagnostic techniques may include measuring oxygen saturation levels using a pulse oximeter, evaluating heart and lung function with tests like an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) or chest X-ray, and conducting blood tests to assess oxygen levels and blood counts.</p>
-<p>Advanced diagnostic methods may involve imaging studies such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> or pulmonary function tests to evaluate heart and lung function in more detail.</p>
+<p>Basic diagnostic techniques may include measuring oxygen saturation levels using a pulse oximeter, evaluating heart and lung function with tests like an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) or chest X-ray, and conducting blood tests to assess oxygen levels and blood counts.</p>
+<p>Advanced diagnostic methods may involve imaging studies such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> or pulmonary function tests to evaluate heart and lung function in more detail.</p>
 <p>In some cases, a cardiac catheterization or bronchoscopy may be necessary to assess blood flow or airway obstruction. By identifying the root cause of cyanosis, healthcare providers can develop a targeted treatment plan to address the underlying condition effectively.</p>
 <h2 id="treatment">What is the Treatment for Severe bluish skin?</h2>
 <p>Treatment for severe bluish skin focuses on addressing the underlying cause of cyanosis to improve oxygenation of the blood and alleviate symptoms.</p>

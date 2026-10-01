@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sinus Bradycardia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Sinus bradycardia is a heart rhythm where the heart rate is slower than normal. Know more about the symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sinus-bradycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sinus-bradycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-bradycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sinus-bradycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Sinus Bradycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sinus-bradycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sinus-bradycardia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Sinus Bradycardia</h1>
-<p>Sinus bradycardia is a condition where the heart beats slower than normal, typically below 60 beats per minute. While it can be normal in athletes, it may also indicate an underlying issue like an imbalance in the heart's electrical system. This condition is significant as it can lead to symptoms like fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fainting. Sinus bradycardia is quite prevalent and can affect people of all ages. If you experience symptoms, it's essential to consult a healthcare provider for proper evaluation and management.</p>
+<p>Sinus bradycardia is a condition where the heart beats slower than normal, typically below 60 beats per minute. While it can be normal in athletes, it may also indicate an underlying issue like an imbalance in the heart's electrical system. This condition is significant as it can lead to symptoms like fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fainting. Sinus bradycardia is quite prevalent and can affect people of all ages. If you experience symptoms, it's essential to consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Sinus Bradycardia</h2>
 <p>Sinus Bradycardia, a slow heart rate, can be influenced by various factors. Here are some key contributors:
 
@@ -178,9 +178,9 @@
 <ul>
 <li>Fatigue</li>
 <li>Dizziness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 <li>Confusion</li>
 </ul> 
 
@@ -192,7 +192,7 @@ To diagnose Sinus Bradycardia, healthcare providers typically follow these steps
 
 <ul>
 <li>Physical examination to assess symptoms and overall health.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to measure the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to measure the heart's electrical activity.</li>
 <li>Holter monitor to record heart rhythms over 24-48 hours.</li>
 <li>Blood tests to check for thyroid function or electrolyte imbalances.</li>
 </ul></p>
@@ -208,7 +208,7 @@ To diagnose Sinus Bradycardia, healthcare providers typically follow these steps
 </ul>
 <h3>2. Pacemaker Implantation</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a> is a procedure where a device is placed in the chest to regulate heart rhythm.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a> is a procedure where a device is placed in the chest to regulate heart rhythm.</li>
 <li>It is recommended for patients with severe symptoms or those who do not respond to medications.</li>
 <li>The main goal is to ensure the heart maintains a healthy rhythm and rate.</li>
 <li>The procedure involves implanting the device and regular follow-ups for monitoring.</li>

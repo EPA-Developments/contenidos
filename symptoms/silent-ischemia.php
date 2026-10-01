@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Silent Ischemia Symptoms, Causes, Treatment, and Forms" >
   <meta property="og:description" content="Silent Ischemia is a serious heart issue. Know more about its causes, diagnosis, forms and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/silent-ischemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/silent-ischemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/silent-ischemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/silent-ischemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Silent Ischemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/silent-ischemia"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/silent-ischemia"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Silent Ischemia Symptoms, Causes, Diagnosis, and Forms</h1>
 <p>Silent ischemia refers to a condition where the heart does not receive enough oxygen-rich blood, leading to damage in the heart muscle without causing any noticeable symptoms.</p>
-<p>This condition is also known as asymptomatic heart ischemia, heart ischemia without pain, or subclinical ischemic heart disease. It is called silent because it occurs without the typical <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort associated with a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>.</p>
+<p>This condition is also known as asymptomatic heart ischemia, heart ischemia without pain, or subclinical ischemic heart disease. It is called silent because it occurs without the typical <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort associated with a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>.</p>
 <p>Silent ischemia is often detected incidentally during routine medical tests or when evaluating other heart conditions.</p>
 <p>Despite the lack of symptoms, it is essential to address silent ischemia promptly to prevent further heart damage and reduce the risk of complications such as heart attack or heart failure.</p>
 <h2 id="forms">What are the Forms of Silent ischemia?</h2>
@@ -195,16 +195,16 @@
 <ul>
 <li>Unnoticed heart tissue damage</li>
 <li>Heart ischemia without symptoms</li>
-<li>Silent <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-ischemia">myocardial ischemia</a></li>
+<li>Silent <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-ischemia">myocardial ischemia</a></li>
 <li>Unfelt heart attack</li>
 </ul>
-<p>These forms of silent ischemia can occur in individuals with underlying heart conditions or risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a history of heart disease.</p>
+<p>These forms of silent ischemia can occur in individuals with underlying heart conditions or risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a history of heart disease.</p>
 <p>It is crucial to monitor for any signs of silent ischemia, even in the absence of chest pain, to prevent further heart complications.</p>
 <h2 id="causes">What are the Causes of Silent ischemia?</h2>
 <p>Silent ischemia can be caused by various factors that reduce the blood flow to the heart muscle without causing noticeable symptoms.</p>
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 <li>Spasm of the coronary arteries</li>
 <li>Microvascular dysfunction</li>
 </ul>
@@ -212,9 +212,9 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Silent ischemia?</h2>
 <p>Diagnosing silent ischemia involves a combination of medical history evaluation, physical examination, and diagnostic tests.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
 <li>Stress testing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 <li>Cardiac catheterization</li>
 </ul>
 <p>These tests help evaluate the heart's function, blood flow, and any signs of ischemia without relying on symptoms such as chest pain. Early detection through diagnostic methods is essential for initiating timely treatment and managing silent ischemia effectively.</p>

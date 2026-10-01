@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Peanuts for Hypertension: Lowering Blood Pressure Naturally&quot;" />
     <meta property="og:description" content="Discover how peanuts can help lower blood pressure naturally. Learn more about using peanuts for hypertension management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Peanuts For Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/peanuts-for-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/peanuts-for-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Peanuts for Hypertension</h1>
-<p>Are you looking for natural ways to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>? Have you considered the potential benefits of incorporating peanuts into your diet to help regulate your blood pressure levels? High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, affects millions of individuals worldwide and can significantly impact daily activities and overall well-being. Understanding how certain foods like peanuts can play a role in hypertension management is crucial for maintaining good heart health.</p>
+<p>Are you looking for natural ways to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>? Have you considered the potential benefits of incorporating peanuts into your diet to help regulate your blood pressure levels? High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, affects millions of individuals worldwide and can significantly impact daily activities and overall well-being. Understanding how certain foods like peanuts can play a role in hypertension management is crucial for maintaining good heart health.</p>
 <h2 class="sec-scrl" id="peanuts-hypertension">Peanuts for Hypertension</h2>
 <p>When it comes to managing high blood pressure, maintaining a healthy diet is key. Peanuts are a nutritious and delicious snack that may offer some benefits for individuals with hypertension. Here's how peanuts, as part of a heart-healthy diet, can potentially help lower blood pressure:</p>
 <ul>

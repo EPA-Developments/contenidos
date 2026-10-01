@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vodka's Impact on Heart Health" />
     <meta property="og:description" content="Discover the impact of vodka on heart health - strengthen or weaken? Get vital insights now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vodkas-effect-on-heart-function" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vodkas-effect-on-heart-function" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vodkas-effect-on-heart-function" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vodkas-effect-on-heart-function" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vodkas Effect On Heart Function",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vodkas-effect-on-heart-function"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vodkas-effect-on-heart-function"
         }
     ]
 }
@@ -134,14 +134,14 @@
 <p>When you consume vodka, it enters your bloodstream and reaches your heart. The heart muscle, responsible for pumping blood throughout your body, can be affected by alcohol intake. Regular and excessive alcohol consumption can lead to damage to the heart muscle, impacting its ability to function efficiently.</p>
 <p>Excessive drinking weakens the heart muscle, making it less effective in pumping blood. This weakening of the heart muscle can result in conditions like heart failure, where the heart cannot meet the body's blood supply requirements.</p>
 <h2 class="sec-scrl" id="alcohol-induced-damage">Can Alcohol Cause Damage to the Heart?</h2>
-<p>Alcohol-induced damage to the heart is a serious concern for those who consume vodka regularly. Chronic alcohol consumption can lead to a condition known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/alcoholic-cardiomyopathy">alcoholic cardiomyopathy</a>, where the heart muscle weakens and thins, affecting its pumping ability.</p>
+<p>Alcohol-induced damage to the heart is a serious concern for those who consume vodka regularly. Chronic alcohol consumption can lead to a condition known as <a href="https://contenidos.segundaopinionmedica.org/diseases/alcoholic-cardiomyopathy">alcoholic cardiomyopathy</a>, where the heart muscle weakens and thins, affecting its pumping ability.</p>
 <ul>
 <li>Alcohol can disrupt the heart's normal rhythm, leading to arrhythmias.</li>
-<li>Long-term alcohol abuse can increase the risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
+<li>Long-term alcohol abuse can increase the risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
 <li>Excessive drinking raises blood pressure, putting additional strain on the heart.</li>
 </ul>
 <h2 class="sec-scrl" id="arrhythmias">Is Vodka Linked to Heart Arrhythmias?</h2>
-<p>Arrhythmias are irregular heartbeats that can be triggered by alcohol consumption, including vodka. The disruptive effect of alcohol on the heart's electrical system can lead to abnormal heart rhythms, such as atrial fibrillation or <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
+<p>Arrhythmias are irregular heartbeats that can be triggered by alcohol consumption, including vodka. The disruptive effect of alcohol on the heart's electrical system can lead to abnormal heart rhythms, such as atrial fibrillation or <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>.</p>
 <p>Individuals with a history of arrhythmias should be cautious when consuming alcohol, as it can exacerbate these conditions and increase the risk of complications.</p>
 <h2 class="sec-scrl" id="heart-failure">Can Vodka Consumption Lead to Heart Failure?</h2>
 <p>Heart failure is a condition where the heart cannot pump enough blood to meet the body's needs. Excessive vodka consumption can contribute to the development of heart failure by weakening the heart muscle and interfering with its ability to function effectively.</p>

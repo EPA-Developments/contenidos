@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ischemic Cardiomyopathy: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Ischemic cardiomyopathy weakens the heart due to reduced blood flow. Know more about its symptoms, causes, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ischemic-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ischemic-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ischemic-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ischemic-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ischemic Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ischemic-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ischemic-cardiomyopathy"
       }]
     }
   </script>
@@ -170,16 +170,16 @@
 <p>This condition is of significant concern in the field of cardiology due to its impact on heart function and overall health. Ischemic Cardiomyopathy can lead to serious complications, including heart failure, arrhythmias, and even sudden cardiac death.</p>
 <p>The prevalence of Ischemic Cardiomyopathy is substantial, with a large number of individuals affected worldwide. Impact on Health: The heart plays a crucial role in pumping blood throughout the body, delivering oxygen and nutrients to organs and tissues.</p>
 <p>Ischemic Cardiomyopathy affects this essential function by compromising the heart's ability to pump effectively, leading to decreased cardiac output and potential heart failure.</p>
-<p>In the short term, untreated Ischemic Cardiomyopathy can result in symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. Long-term risks include progressive heart damage, increased risk of heart attacks, and a higher likelihood of developing life-threatening cardiac conditions.</p>
+<p>In the short term, untreated Ischemic Cardiomyopathy can result in symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. Long-term risks include progressive heart damage, increased risk of heart attacks, and a higher likelihood of developing life-threatening cardiac conditions.</p>
 <p>Early Detection: One challenge with Ischemic Cardiomyopathy is its asymptomatic nature in the early stages. Many individuals may not experience noticeable symptoms until the condition has advanced.</p>
-<p>Therefore, early detection through regular screenings, especially for individuals with risk factors such as a history of heart disease, diabetes, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is crucial for timely intervention and management.</p>
+<p>Therefore, early detection through regular screenings, especially for individuals with risk factors such as a history of heart disease, diabetes, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is crucial for timely intervention and management.</p>
 <h2 id="causes">Causes of Ischemic Cardiomyopathy</h2>
 <p>Ischemic Cardiomyopathy primarily results from reduced blood flow to the heart muscle, leading to inadequate oxygen supply and subsequent damage.</p>
 <ul>
 <li>Coronary Artery Disease (CAD): CAD is a leading cause of Ischemic Cardiomyopathy. The gradual buildup of plaque in the coronary arteries restricts blood flow to the heart, causing ischemia and eventual damage to the heart muscle over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>): A heart attack occurs when a coronary artery becomes blocked, cutting off blood supply to a part of the heart muscle. This can result in irreversible damage to the affected area and contribute to the development of Ischemic Cardiomyopathy.</li>
-<li>Chronic Hypertension: Prolonged <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> puts a strain on the heart, leading to increased cardiac workload and potential damage to the heart muscle. Over time, untreated hypertension can contribute to the development of Ischemic Cardiomyopathy.</li>
-<li>Diabetes Mellitus: Diabetes is a metabolic disorder that can affect the cardiovascular system. Uncontrolled diabetes can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and microvascular complications, increasing the risk of Ischemic Cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>): A heart attack occurs when a coronary artery becomes blocked, cutting off blood supply to a part of the heart muscle. This can result in irreversible damage to the affected area and contribute to the development of Ischemic Cardiomyopathy.</li>
+<li>Chronic Hypertension: Prolonged <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> puts a strain on the heart, leading to increased cardiac workload and potential damage to the heart muscle. Over time, untreated hypertension can contribute to the development of Ischemic Cardiomyopathy.</li>
+<li>Diabetes Mellitus: Diabetes is a metabolic disorder that can affect the cardiovascular system. Uncontrolled diabetes can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and microvascular complications, increasing the risk of Ischemic Cardiomyopathy.</li>
 </ul>
 <p>Secondary Risk Factors: In addition to these primary causes, secondary risk factors such as smoking, obesity, sedentary lifestyle, and poor dietary habits can exacerbate the development of Ischemic Cardiomyopathy.</p>
 <p>These factors contribute to the progression of heart disease and increase the likelihood of developing cardiac complications.</p>
@@ -188,7 +188,7 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Early-stage Ischemic Cardiomyopathy can manifest as persistent fatigue, affecting an individual's energy levels and ability to engage in normal activities. Fatigue may be attributed to reduced cardiac output and inadequate oxygen delivery to tissues.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, can be an early sign of Ischemic Cardiomyopathy. Reduced heart function impairs the circulation of oxygenated blood, leading to respiratory distress during exertion.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially during physical exertion, can be an early sign of Ischemic Cardiomyopathy. Reduced heart function impairs the circulation of oxygenated blood, leading to respiratory distress during exertion.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Cranberries: Heart Health Benefits'" />
     <meta property="og:description" content="Explore the heart-healthy advantages of cranberries, including antioxidants, cholesterol, blood pressure, and cardiovascular protection." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cranberries And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-heart-health"
         }
     ]
 }
@@ -134,13 +134,13 @@
 <p>Cranberries are packed with antioxidants, such as flavonoids, which play a crucial role in protecting your heart. These powerful compounds help combat free radicals in the body, reducing oxidative stress and inflammation. By including cranberries in your diet, you can boost your antioxidant intake and support your cardiovascular system.</p>
 <p>In addition to flavonoids, cranberries contain other essential antioxidants like vitamin C and quercetin, further contributing to their heart-protective effects. These antioxidants work together to promote heart health by reducing the risk of oxidative damage to your arteries and improving blood flow.</p>
 <h2 class="sec-scrl" id="cholesterol">Managing Cholesterol Levels with Cranberries</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase your risk of heart disease, but cranberries may offer a natural solution to help manage cholesterol levels. Studies have shown that the compounds found in cranberries can help lower LDL (bad) cholesterol while increasing HDL (good) cholesterol, promoting a healthier lipid profile.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase your risk of heart disease, but cranberries may offer a natural solution to help manage cholesterol levels. Studies have shown that the compounds found in cranberries can help lower LDL (bad) cholesterol while increasing HDL (good) cholesterol, promoting a healthier lipid profile.</p>
 <ul>
 <li>Incorporating cranberries into your diet can support healthy cholesterol levels and reduce the buildup of plaque in your arteries, lowering the risk of cardiovascular issues.</li>
 <li>The fiber content in cranberries also plays a role in cholesterol management by binding to cholesterol and aiding in its excretion from the body.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Balancing Blood Pressure Naturally</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the nutrients in cranberries can help regulate blood pressure levels and promote cardiovascular health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but the nutrients in cranberries can help regulate blood pressure levels and promote cardiovascular health.</p>
 <p>The potassium content in cranberries supports healthy blood pressure by helping your body maintain proper fluid balance. Potassium acts as a vasodilator, relaxing blood vessels and reducing strain on the heart, leading to lower blood pressure levels.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">Cranberries for Overall Cardiovascular Protection</h2>
 <p>Beyond antioxidants, cholesterol management, and blood pressure regulation, cranberries offer comprehensive cardiovascular protection through their diverse array of nutrients.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Hereditary Heart Problem Signs: What to Watch For" />
     <meta property="og:description" content="Learn about the signs of hereditary heart issues & protect your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hereditary-heart-problems" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hereditary-heart-problems" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hereditary-heart-problems" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hereditary-heart-problems" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hereditary Heart Problems",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hereditary-heart-problems"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hereditary-heart-problems"
         }
     ]
 }
@@ -169,12 +169,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Recognizing Hereditary Heart Problem Signs</h1>
-<p>Are you worried about your risk of hereditary heart problems? Do you wonder how this condition might affect your daily life and activities? Living with the uncertainty of <a href="https://plataforma.epa-bienestar.com.ar/diseases/genetic-heart-disease">genetic heart disease</a> can be challenging and stressful. Understanding the signs and symptoms can help you take proactive steps to manage your heart health effectively.</p>
+<p>Are you worried about your risk of hereditary heart problems? Do you wonder how this condition might affect your daily life and activities? Living with the uncertainty of <a href="https://contenidos.segundaopinionmedica.org/diseases/genetic-heart-disease">genetic heart disease</a> can be challenging and stressful. Understanding the signs and symptoms can help you take proactive steps to manage your heart health effectively.</p>
 <h2 class="sec-scrl" id="genetic-heart-disease">Genetic Heart Disease</h2>
-<p>Genetic heart disease refers to a range of conditions that are passed down through families and are caused by changes or mutations in the genes responsible for the structure and function of the heart. These mutations can affect the heart's rhythm, its ability to pump blood effectively, or the structure of the heart itself. Some common genetic heart diseases include hypertrophic <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmogenic right ventricular cardiomyopathy, and familial dilated cardiomyopathy.</p>
-<p>Signs of genetic heart disease can vary widely depending on the specific condition. However, common symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, and swelling in the legs or abdomen. If you have a family history of heart disease or sudden cardiac death, it's essential to consult a healthcare provider for a thorough evaluation.</p>
+<p>Genetic heart disease refers to a range of conditions that are passed down through families and are caused by changes or mutations in the genes responsible for the structure and function of the heart. These mutations can affect the heart's rhythm, its ability to pump blood effectively, or the structure of the heart itself. Some common genetic heart diseases include hypertrophic <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, arrhythmogenic right ventricular cardiomyopathy, and familial dilated cardiomyopathy.</p>
+<p>Signs of genetic heart disease can vary widely depending on the specific condition. However, common symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, and swelling in the legs or abdomen. If you have a family history of heart disease or sudden cardiac death, it's essential to consult a healthcare provider for a thorough evaluation.</p>
 <h2 class="sec-scrl" id="inherited-arrhythmias">Inherited Arrhythmias</h2>
-<p>Inherited arrhythmias are a type of genetic heart disorder that affects the heart's electrical system, leading to irregular heart rhythms. Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/brugada-syndrome">brugada syndrome</a>, and catecholaminergic polymorphic ventricular tachycardia are examples of inherited arrhythmias. These conditions can increase the risk of sudden cardiac arrest, particularly during physical activity or times of stress.</p>
+<p>Inherited arrhythmias are a type of genetic heart disorder that affects the heart's electrical system, leading to irregular heart rhythms. Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/brugada-syndrome">brugada syndrome</a>, and catecholaminergic polymorphic ventricular tachycardia are examples of inherited arrhythmias. These conditions can increase the risk of sudden cardiac arrest, particularly during physical activity or times of stress.</p>
 <ul>
 <li>Family members of individuals with inherited arrhythmias may also be at risk of developing the condition.</li>
 <li>Regular monitoring and appropriate treatment can help manage the symptoms and reduce the risk of complications.</li>

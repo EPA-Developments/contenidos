@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Raisins & Superfoods for Heart Health&quot;" />
     <meta property="og:description" content="Discover heart-healthy snacks like raisins and superfoods for a nutritious diet. Boost your health with fiber-rich snacks and cholesterol control." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/raisins-heart-healthy-snacks" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/raisins-heart-healthy-snacks" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/raisins-heart-healthy-snacks" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/raisins-heart-healthy-snacks" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Raisins Heart Healthy Snacks",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/raisins-heart-healthy-snacks"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/raisins-heart-healthy-snacks"
         }
     ]
 }
@@ -150,7 +150,7 @@
 <p>Snacking often gets a bad rap, but when done right, it can actually contribute to a healthy diet and support your heart health goals. Choosing the right snacks, such as raisins and other superfoods, can provide your body with essential nutrients, keep hunger at bay, and prevent overeating during main meals.</p>
 <p>When it comes to snacking for heart health, opt for nutrient-dense foods like fruits, nuts, and seeds that offer a good balance of carbohydrates, protein, and healthy fats.</p>
 <h2 class="sec-scrl" id="cholesterol">Controlling Cholesterol Through a Heart-Healthy Diet</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease, making it essential to incorporate cholesterol-lowering foods into your diet. A heart-healthy diet that includes foods like raisins can help control cholesterol levels and promote cardiovascular health.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can increase the risk of heart disease, making it essential to incorporate cholesterol-lowering foods into your diet. A heart-healthy diet that includes foods like raisins can help control cholesterol levels and promote cardiovascular health.</p>
 <p>In addition to raisins, other cholesterol-lowering foods to include in your diet are:</p>
 <ul>
 <li>Oats: Rich in soluble fiber that helps lower LDL cholesterol</li>

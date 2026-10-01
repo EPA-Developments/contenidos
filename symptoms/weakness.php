@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Weakness: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Weakness can be linked to heart conditions. Know more about the causes, symptoms, diagnosis, and treatments for better health outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/weakness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/weakness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Weakness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/weakness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/weakness"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Weakness: Forms, Treatment, and Diagnosis</h1>
-<p>Weakness is a common condition characterized by a lack of strength and reduced muscle power. It can manifest as muscle weakness, fatigue, physical debilitation, exhaustion, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lack-of-stamina">lack of stamina</a>, or a combination of these symptoms.</p>
+<p>Weakness is a common condition characterized by a lack of strength and reduced muscle power. It can manifest as muscle weakness, fatigue, physical debilitation, exhaustion, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lack-of-stamina">lack of stamina</a>, or a combination of these symptoms.</p>
 <p>Weakness can affect individuals of all ages and may be a temporary or chronic issue. It can impact daily activities, decrease quality of life, and be a sign of an underlying health concern.</p>
 <h2 id="forms">What are the Forms of Weakness?</h2>
 <p>There are various forms of weakness, each with specific symptoms and related concepts:</p>
@@ -227,7 +227,7 @@
 <li>Advanced approaches such as physical therapy, occupational therapy, or assistive devices to improve strength and function.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if weakness is persistent, severe, or accompanied by other concerning symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, sudden weight loss, or neurological changes.</p>
+<p>It is essential to seek medical attention if weakness is persistent, severe, or accompanied by other concerning symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, sudden weight loss, or neurological changes.</p>
 <p>If weakness interferes with daily activities, impacts mobility, or is unexplained by known causes, consulting a healthcare provider is recommended.</p>
 <h2>Home Remedies for Weakness</h2>
 <p>Home remedies can help alleviate mild weakness and improve overall well-being.</p>

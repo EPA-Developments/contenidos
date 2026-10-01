@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Swelling Without Pain: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Swelling without pain could be related to heart or circulatory issues. Know more about the causes, forms and treatments for painless swelling." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-without-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/swelling-without-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/swelling-without-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/swelling-without-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Swelling Without Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/swelling-without-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/swelling-without-pain"  
       }]
     }
   </script>
@@ -199,7 +199,7 @@
 <p>Painless swelling can have various underlying causes, ranging from benign conditions to more serious health issues.</p>
 <ul>
 <li>Fluid retention due to hormonal changes or medications.</li>
-<li>Prolonged standing or sitting, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>.</li>
+<li>Prolonged standing or sitting, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>.</li>
 <li>Heart disease or heart failure, resulting in fluid buildup.</li>
 <li>Kidney disease affecting the body's ability to regulate fluid levels.</li>
 <li>Liver disease causing fluid retention in the abdomen (ascites).</li>
@@ -228,7 +228,7 @@
 <p>While painless swelling may not cause immediate discomfort, certain symptoms or stages may indicate the need for medical attention.</p>
 <ul>
 <li>Sudden or severe swelling without a clear cause.</li>
-<li>Swelling accompanied by other symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>.</li>
+<li>Swelling accompanied by other symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>.</li>
 <li>Persistent swelling that does not improve with self-care measures.</li>
 <li>Swelling in the abdomen or face, especially if associated with other health issues.</li>
 </ul>

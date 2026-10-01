@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Broccoli's Impact on Arterial Plaque&quot;" />
     <meta property="og:description" content="Discover how broccoli can help reduce arterial plaque and support cardiovascular health. A tasty way to boost heart health!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-arterial-plaque" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-arterial-plaque" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-arterial-plaque" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-arterial-plaque" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Broccoli And Arterial Plaque",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/broccoli-and-arterial-plaque"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/broccoli-and-arterial-plaque"
         }
     ]
 }
@@ -143,7 +143,7 @@
 <ul>
 <li>Sulforaphane helps in the regulation of genes that are involved in inflammation, protecting blood vessels from damage.</li>
 <li>It reduces oxidative stress in arteries, preventing the oxidation of LDL cholesterol and the formation of plaque.</li>
-<li>Studies have shown that sulforaphane can inhibit the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in arteries.</li>
+<li>Studies have shown that sulforaphane can inhibit the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in arteries.</li>
 </ul>
 <p>Adding sulforaphane-rich broccoli to your meals can be a simple yet effective way to enhance your cardiovascular health and reduce the risk of plaque formation in your arteries.</p>
 <h2 class="sec-scrl" id="fiber-content">Broccoli's Fiber Content and Cholesterol Reduction</h2>

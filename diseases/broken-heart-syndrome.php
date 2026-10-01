@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Broken Heart Syndrome: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Broken heart syndrome mimics a heart attack due to stress. Know more about its causes, symptoms, and treatment for heart recovery." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Broken Heart Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome"
       }]
     }
   </script>
@@ -166,13 +166,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Broken Heart Syndrome</h1>
-<p>Broken Heart Syndrome, also known as Takotsubo <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or stress-induced cardiomyopathy, is a condition where extreme emotional or physical stress can lead to severe, but usually temporary, heart muscle failure.</p>
+<p>Broken Heart Syndrome, also known as Takotsubo <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or stress-induced cardiomyopathy, is a condition where extreme emotional or physical stress can lead to severe, but usually temporary, heart muscle failure.</p>
 <p>While not as well-known as other heart conditions like heart attacks, Broken Heart Syndrome can have significant implications for an individual's health. It is a condition of growing importance due to its impact on both physical and emotional well-being.</p>
 <p>Despite being reversible in most cases, Broken Heart Syndrome can lead to severe complications, including heart failure or even death if left untreated.</p>
-<p>This syndrome's prevalence is not well-documented, as it often goes undiagnosed or misdiagnosed since its symptoms can mimic those of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>This syndrome's prevalence is not well-documented, as it often goes undiagnosed or misdiagnosed since its symptoms can mimic those of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>However, research suggests that Broken Heart Syndrome may affect primarily postmenopausal women, accounting for up to 90% of cases. The impact of Broken Heart Syndrome on health can be profound, affecting various essential functions of the heart.</p>
-<p>The condition can disrupt the heart's ability to pump blood effectively, leading to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and irregular heart rhythms.</p>
-<p>In the short term, untreated Broken Heart Syndrome can result in complications such as heart failure, arrhythmias, and even <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a>, a life-threatening condition where the heart cannot pump enough blood to meet the body's needs.</p>
+<p>The condition can disrupt the heart's ability to pump blood effectively, leading to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and irregular heart rhythms.</p>
+<p>In the short term, untreated Broken Heart Syndrome can result in complications such as heart failure, arrhythmias, and even <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a>, a life-threatening condition where the heart cannot pump enough blood to meet the body's needs.</p>
 <p>In the long term, recurrent episodes of Broken Heart Syndrome can weaken the heart muscle, increasing the risk of developing chronic heart conditions.</p>
 <p>Recognizing the asymptomatic nature of Broken Heart Syndrome in its early stages underscores the importance of early detection through regular screenings, especially in individuals with a history of significant emotional or physical stress.</p>
 <h2 id="causes">Causes of Broken Heart Syndrome</h2>
@@ -193,11 +193,11 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Chest Pain: Individuals may experience chest discomfort or pressure, similar to a heart attack, during the early stages of Broken Heart Syndrome. This pain can radiate to the back, neck, or arms, affecting daily activities and causing anxiety.</li>
-<li>Shortness of Breath: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or sudden onset of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> can be a common early symptom of Broken Heart Syndrome. This symptom may be mistaken for respiratory issues or anxiety, delaying proper diagnosis and treatment.</li>
+<li>Shortness of Breath: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or sudden onset of <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> can be a common early symptom of Broken Heart Syndrome. This symptom may be mistaken for respiratory issues or anxiety, delaying proper diagnosis and treatment.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>: Irregular heartbeats or palpitations can manifest in advanced stages of Broken Heart Syndrome, disrupting normal heart rhythm and causing palpable discomfort. This symptom may lead to further complications if not addressed promptly.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>: Irregular heartbeats or palpitations can manifest in advanced stages of Broken Heart Syndrome, disrupting normal heart rhythm and causing palpable discomfort. This symptom may lead to further complications if not addressed promptly.</li>
 <li>Syncope or Fainting: Severe cases of Broken Heart Syndrome can result in fainting spells or loss of consciousness due to inadequate blood flow to the brain. This advanced symptom necessitates immediate medical attention to prevent adverse outcomes.</li>
 </ul>
 <h2>Diagnosis of Broken Heart Syndrome</h2>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Scan: Non-Invasive Cardiac Imaging Test for Diagnosis">
   <meta property="og:description" content="Discover the benefits of a non-invasive heart scan, also known as a cardiac scan procedure, with our advanced heart imaging test for accurate heart diagnostic scanning.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/heart-scan">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/heart-scan">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/heart-scan" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/heart-scan" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart scan",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/heart-scan"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/heart-scan"  
       }]
     }
   </script>

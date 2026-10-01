@@ -10,12 +10,12 @@
     <meta property="og:title" content="Advanced Heart Vein Blockage Treatments" />
     <meta property="og:description" content="Explore the latest treatments for heart vein blockage to improve your heart health. Learn about cutting-edge procedures for blocked vein treatment." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-vein-blockage" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-vein-blockage" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-vein-blockage" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-vein-blockage" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Vein Blockage",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-vein-blockage"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-vein-blockage"
         }
     ]
 }
@@ -170,30 +170,30 @@
             <div class="article-content">
               <h1>Advanced Heart Vein Blockage Treatments</h1>
 <p>Are you struggling with the debilitating effects of heart vein blockage? Does the thought of limited mobility and daily activities due to this condition worry you? </p>
-<p>Heart vein blockage, also known as coronary artery disease, can significantly impact your quality of life. This condition occurs when the blood vessels that supply oxygen and nutrients to the heart muscle become narrowed or blocked, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
+<p>Heart vein blockage, also known as coronary artery disease, can significantly impact your quality of life. This condition occurs when the blood vessels that supply oxygen and nutrients to the heart muscle become narrowed or blocked, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue.</p>
 <h2 class="sec-scrl" id="blocked-vein-treatment">Blocked Vein Treatment</h2>
 <p>When it comes to treating blocked veins in the heart, several advanced procedures are available to restore proper blood flow and improve heart function. Here are some cutting-edge treatments for blocked vein:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>: A minimally invasive procedure that involves inflating a small balloon in the blocked artery to widen it and restore blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>: A minimally invasive procedure that involves inflating a small balloon in the blocked artery to widen it and restore blood flow.</li>
 <li>Stent Placement: A mesh tube placed in the blocked artery to keep it open and prevent re-blockage.</li>
 <li>Atherectomy: A procedure to remove plaque buildup from the artery using specialized equipment.</li>
 </ul>
 <h2 class="sec-scrl" id="coronary-vein-surgery">Coronary Vein Surgery</h2>
 <p>For severe cases of heart vein blockage, coronary vein surgery may be necessary to bypass the blocked artery and improve blood flow to the heart. Common surgical procedures for coronary vein blockage include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG): A surgery that creates a new pathway for blood to flow around the blocked artery.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/coronary-artery-bypass-grafting">coronary artery bypass grafting</a> (CABG): A surgery that creates a new pathway for blood to flow around the blocked artery.</li>
 <li>Transmyocardial Laser Revascularization (TMR): A procedure that uses laser energy to create channels in the heart muscle, allowing blood to reach areas with poor blood flow.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-vein-obstruction-treatment">Heart Vein Obstruction Treatment</h2>
 <p>Effective treatments for heart vein obstruction aim to alleviate symptoms, improve heart function, and reduce the risk of complications. Some innovative approaches for managing heart vein obstruction include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/enhanced-external-counterpulsation">enhanced external counterpulsation</a> (EECP): A non-invasive therapy that increases blood flow to the heart using inflatable cuffs on the legs.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-assist-devices">ventricular assist devices</a> (VADs): Mechanical pumps implanted in the chest to help the heart pump blood more effectively.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/enhanced-external-counterpulsation">enhanced external counterpulsation</a> (EECP): A non-invasive therapy that increases blood flow to the heart using inflatable cuffs on the legs.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/ventricular-assist-devices">ventricular assist devices</a> (VADs): Mechanical pumps implanted in the chest to help the heart pump blood more effectively.</li>
 </ul>
 <h2 class="sec-scrl" id="vein-repair-for-heart">Vein Repair for Heart</h2>
 <p>Vein repair procedures for the heart focus on restoring proper blood flow and function to the affected veins. These interventions play a crucial role in managing heart vein blockage and preventing further complications. Common vein repair techniques include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/endarterectomy">endarterectomy</a>: Surgical removal of plaque from the inner lining of the blocked artery.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/endarterectomy">endarterectomy</a>: Surgical removal of plaque from the inner lining of the blocked artery.</li>
 <li>Thrombolytic Therapy: Medications to dissolve blood clots and improve blood flow in the blocked vein.</li>
 </ul>
 <h2 class="sec-scrl" id="vein-blockage-surgery">Vein Blockage Surgery</h2>

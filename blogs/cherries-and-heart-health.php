@@ -10,12 +10,12 @@
     <meta property="og:title" content="Cherries: Heart Health Boost" />
     <meta property="og:description" content="Explore how cherries boost heart health naturally. Learn about the antioxidants, inflammation reduction, and more in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cherries And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cherries-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cherries-and-heart-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Regular consumption of cherries can enhance cholesterol levels, promoting heart health and overall well-being.</li>
 </ul>
 <h2 class="sec-scrl" id="inflammation-reduction">Inflammation Reduction: How Cherries Combat Heart Disease</h2>
-<p>Chronic inflammation is a significant contributor to heart disease, leading to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions. Cherries possess powerful anti-inflammatory properties that can help reduce inflammation in the body, protecting your heart from potential harm.</p>
+<p>Chronic inflammation is a significant contributor to heart disease, leading to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions. Cherries possess powerful anti-inflammatory properties that can help reduce inflammation in the body, protecting your heart from potential harm.</p>
 <p>Here's how cherries aid in reducing inflammation:</p>
 <ul>
 <li>The antioxidants in cherries inhibit inflammatory pathways, preventing damage to the heart and blood vessels.</li>

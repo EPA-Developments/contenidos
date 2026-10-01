@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart-Healthy Oranges: Atherosclerosis Prevention & Circulation Boost" />
     <meta property="og:description" content="Discover how oranges can boost heart health, prevent atherosclerosis, and enhance circulation naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-nutrients-in-oranges" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-nutrients-in-oranges" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-nutrients-in-oranges" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-nutrients-in-oranges" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Boosting Nutrients In Oranges",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-boosting-nutrients-in-oranges"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-boosting-nutrients-in-oranges"
         }
     ]
 }
@@ -136,7 +136,7 @@
 <li><strong>Vitamins in Oranges:</strong> Oranges are rich in vitamin C, a powerful antioxidant that helps protect your cells from damage. Vitamin C also supports collagen production, which is essential for maintaining healthy blood vessels.</li>
 <li><strong>Citrus Flavonoids:</strong> Oranges contain citrus flavonoids, such as hesperidin and naringenin, which have been linked to improved heart health. These compounds may help reduce inflammation and improve blood flow.</li>
 <li><strong>Potassium for Heart:</strong> Potassium is a mineral that plays a key role in heart function. Oranges are a good source of potassium, which can help regulate blood pressure and support overall cardiovascular health.</li>
-<li><strong>Antioxidants for Cardiovascular Health:</strong> Antioxidants found in oranges, such as beta-carotene and flavonoids, can help protect your heart from oxidative stress and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li><strong>Antioxidants for Cardiovascular Health:</strong> Antioxidants found in oranges, such as beta-carotene and flavonoids, can help protect your heart from oxidative stress and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 </ul>
 <p>By incorporating oranges into your diet, you can provide your body with these heart-boosting nutrients, potentially improving your cardiovascular well-being.</p>
 <h2 class="sec-scrl" id="heart-healthy-diet">What is a Heart-Healthy Diet?</h2>

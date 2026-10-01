@@ -10,12 +10,12 @@
     <meta property="og:title" content="Understanding Acidity's Effect on Heart Health" />
     <meta property="og:description" content="Explore how Chronic Acidity affects Heart Health. Learn about GERD, Heart Function, and potential Complications." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aciditys-impact-on-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aciditys-impact-on-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aciditys-impact-on-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aciditys-impact-on-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Aciditys Impact On Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/aciditys-impact-on-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/aciditys-impact-on-heart-health"
         }
     ]
 }
@@ -143,14 +143,14 @@
 <p>Some effects of GERD on heart function include:</p>
 <ul>
 <li>Arrhythmias</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Reduced heart efficiency</li>
 </ul>
 <h2 class="sec-scrl" id="heart-function">Impact of Acidity on Heart Function</h2>
 <p>Acidity not only affects the esophageal health but can also directly impact how the heart functions. The long-term effects of untreated acidity can put a strain on the heart, leading to potential complications.</p>
 <p>Here's how acidity can impact heart function:</p>
 <ul>
-<li>Increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 <li>Reduced blood flow to the heart</li>
 <li>Impaired heart muscle function</li>
 </ul>

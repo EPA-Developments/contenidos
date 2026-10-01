@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Paroxysmal Nocturnal Dyspnea: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Paroxysmal nocturnal dyspnea may be related to heart problems. Know more about its symptoms, causes, diagnosis, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/paroxysmal-nocturnal-dyspnea">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/paroxysmal-nocturnal-dyspnea">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/paroxysmal-nocturnal-dyspnea" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/paroxysmal-nocturnal-dyspnea" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Paroxysmal Nocturnal Dyspnea",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/paroxysmal-nocturnal-dyspnea"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/paroxysmal-nocturnal-dyspnea"  
       }]
     }
   </script>
@@ -186,9 +186,9 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Paroxysmal Nocturnal Dyspnea: Causes, Symptoms, and Diagnosis</h1>
-<p>Paroxysmal nocturnal dyspnea is a condition characterized by sudden <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> at night, often waking individuals from sleep <a href="https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air">gasping for air</a>. This nighttime <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> can be alarming and distressing, leading to feelings of panic and anxiety.</p>
+<p>Paroxysmal nocturnal dyspnea is a condition characterized by sudden <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> at night, often waking individuals from sleep <a href="https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air">gasping for air</a>. This nighttime <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> can be alarming and distressing, leading to feelings of panic and anxiety.</p>
 <p>It is typically a symptom of an underlying medical issue, such as heart failure or sleep apnea.</p>
-<p>Symptoms of paroxysmal nocturnal dyspnea may include coughing, wheezing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and a rapid heart rate. Individuals may also experience fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> when lying down.</p>
+<p>Symptoms of paroxysmal nocturnal dyspnea may include coughing, wheezing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and a rapid heart rate. Individuals may also experience fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> when lying down.</p>
 <p>These symptoms can significantly impact quality of life, disrupting sleep patterns and causing daytime fatigue.</p>
 <h2 id="forms">What are the Forms of Paroxysmal nocturnal dyspnea?</h2>
 <p>There are two main forms of paroxysmal nocturnal dyspnea: cardiac and non-cardiac. Cardiac paroxysmal nocturnal dyspnea is commonly associated with heart failure, where the heart is unable to pump blood effectively, leading to fluid buildup in the lungs.</p>
@@ -208,12 +208,12 @@
 <p>Diagnosing paroxysmal nocturnal dyspnea typically involves a thorough medical history review, physical examination, and various diagnostic tests.</p>
 <ul>
 <li>Chest X-ray: To assess the condition of the lungs and heart.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To evaluate heart function and detect any abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To evaluate heart function and detect any abnormalities.</li>
 <li>Pulmonary function tests: To measure lung capacity and airflow.</li>
 <li>Polysomnography: A sleep study to diagnose sleep disorders like sleep apnea.</li>
 <li>Blood tests: To check for underlying conditions such as heart failure or respiratory infections.</li>
 </ul>
-<p>In some cases, additional tests like CT scans, MRI scans, or <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> may be recommended to provide a more comprehensive evaluation of the underlying cause of paroxysmal nocturnal dyspnea.</p>
+<p>In some cases, additional tests like CT scans, MRI scans, or <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> may be recommended to provide a more comprehensive evaluation of the underlying cause of paroxysmal nocturnal dyspnea.</p>
 <h2 id="treatment">What is the Treatment for Paroxysmal nocturnal dyspnea?</h2>
 <p>Treatment for paroxysmal nocturnal dyspnea aims to address the underlying cause and relieve symptoms to improve quality of life.</p>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Calcium's Impact on Heart Health" />
     <meta property="og:description" content="Learn how calcium impacts heart health. Discover its importance in maintaining cardiac function and preventing heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-heart-health"
         }
     ]
 }
@@ -139,7 +139,7 @@
 <li>Calcium regulation also affects the relaxation phase of the heart muscle, allowing it to refill with blood before the next contraction.</li>
 </ul>
 <h2 class="sec-scrl" id="calcium-deficiency">Calcium Deficiency</h2>
-<p>What happens when your body lacks sufficient calcium? Calcium deficiency can have profound effects on your heart health, potentially leading to muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> and impaired cardiac function. Inadequate calcium levels can disrupt the intricate balance required for your heart to beat effectively.</p>
+<p>What happens when your body lacks sufficient calcium? Calcium deficiency can have profound effects on your heart health, potentially leading to muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> and impaired cardiac function. Inadequate calcium levels can disrupt the intricate balance required for your heart to beat effectively.</p>
 <p>Key points to note about calcium deficiency and heart health:</p>
 <ul>
 <li>Low calcium levels may increase the risk of developing heart disease over time.</li>
@@ -160,10 +160,10 @@
 <ul>
 <li>Calcium channels help regulate the influx of calcium ions during each phase of the cardiac cycle.</li>
 <li>Abnormalities in calcium channel function can lead to disruptions in heart rhythm and contractility.</li>
-<li>Medications that target calcium channels are commonly used to manage certain heart conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and arrhythmias.</li>
+<li>Medications that target calcium channels are commonly used to manage certain heart conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and arrhythmias.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease">Heart Disease</h2>
-<p>How does calcium relate to the development and progression of heart disease? From <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> to heart failure, various cardiovascular conditions can be influenced by calcium imbalances and dysregulation. Understanding the link between calcium and heart disease is essential for implementing strategies to protect your heart.</p>
+<p>How does calcium relate to the development and progression of heart disease? From <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> to heart failure, various cardiovascular conditions can be influenced by calcium imbalances and dysregulation. Understanding the link between calcium and heart disease is essential for implementing strategies to protect your heart.</p>
 <p>Exploring the connection between calcium and heart disease reveals the following insights:</p>
 <ul>
 <li>Calcium deposits in arteries can contribute to the development of plaque, narrowing blood vessels and increasing the risk of heart attacks.</li>

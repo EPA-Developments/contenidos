@@ -10,12 +10,12 @@
     <meta property="og:title" content="Benefits of Fish Oil for Heart Health" />
     <meta property="og:description" content="Discover the heart-healthy advantages of fish oil supplements for cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fish Oil For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fish-oil-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fish-oil-for-heart-health"
         }
     ]
 }
@@ -151,7 +151,7 @@
 <ul>
 <li>**Inflammation Reduction**: EPA and DHA help combat inflammation in blood vessels, reducing the risk of cardiovascular diseases.</li>
 <li>**Heart Rhythm Regulation**: Omega-3s support the maintenance of a regular heart rhythm, crucial for overall cardiovascular function.</li>
-<li>**<a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> Prevention**: These fatty acids prevent the buildup of plaque in arteries, lowering the chances of atherosclerosis and related issues.</li>
+<li>**<a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> Prevention**: These fatty acids prevent the buildup of plaque in arteries, lowering the chances of atherosclerosis and related issues.</li>
 </ul>
 <p>Ensuring an adequate intake of omega-3 fatty acids through fish oil or supplements can significantly contribute to your heart's well-being.</p>
 <h2 class="sec-scrl" id="prevention">Can Fish Oil Help in Preventing Heart Disease?</h2>

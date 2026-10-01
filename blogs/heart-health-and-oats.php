@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Healthy Oats: A Nutritional Powerhouse" />
     <meta property="og:description" content="Discover the heart-healthy benefits of oats for cardiovascular health and cholesterol management. Learn how oats can support your heart health today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-and-oats" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-health-and-oats" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-and-oats" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-health-and-oats" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Health And Oats",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-health-and-oats"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-health-and-oats"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <p>How can oats specifically benefit your heart? Oats have been extensively studied for their cardiovascular benefits, with research indicating that regular oat consumption can help lower blood pressure, reduce inflammation, and improve overall heart function. The combination of fiber, antioxidants, and other nutrients in oats makes them a heart-healthy choice.</p>
 <p>Here are some ways oats support heart health:</p>
 <ul>
-<li>Help lower cholesterol levels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li>Help lower cholesterol levels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 <li>Support healthy blood flow and circulation</li>
 <li>Contain beta-glucans that have anti-inflammatory properties</li>
 </ul>

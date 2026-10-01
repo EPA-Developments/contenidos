@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms, and Treatment for Pain in Right Arm" >
   <meta property="og:description" content="Right arm pain could be linked to heart health. Know more about its symptoms, causes, diagnosis, and treatment to manage your condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-right-arm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pain-in-right-arm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-right-arm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pain-in-right-arm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pain In Right Arm",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pain-in-right-arm"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pain-in-right-arm"  
       }]
     }
   </script>
@@ -187,9 +187,9 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Causes, Diagnosis, and Treatment for Pain in Right Arm</h1>
 <p>Pain in the right arm is a common complaint that can range from mild discomfort to severe debilitating pain.</p>
-<p>It can manifest in various forms such as right arm discomfort, ache, arm pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> radiation, right shoulder pain, arm numbness, and right arm heaviness.</p>
+<p>It can manifest in various forms such as right arm discomfort, ache, arm pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> radiation, right shoulder pain, arm numbness, and right arm heaviness.</p>
 <p>This pain can be localized to the arm itself or radiate from other areas like the chest or neck.</p>
-<p>Symptoms of pain in the right arm may include aching, throbbing, sharp or shooting pain, numbness, tingling, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, or a sensation of heaviness in the arm.</p>
+<p>Symptoms of pain in the right arm may include aching, throbbing, sharp or shooting pain, numbness, tingling, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, or a sensation of heaviness in the arm.</p>
 <p>These symptoms can impact daily activities and quality of life, making it essential to address the underlying causes and manage the pain effectively.</p>
 <h2 id="forms">What are the Forms of Pain in right arm?</h2>
 <p>- Right arm discomfort: A feeling of unease or slight pain in the right arm.</p>
@@ -223,7 +223,7 @@
 <li>Advanced approaches: Chiropractic care, acupuncture, massage therapy, biofeedback, or cognitive-behavioral therapy.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>Seek medical attention if you experience severe or persistent pain in the right arm, chest pain radiating to the arm, arm numbness or weakness, difficulty moving the arm, or if the pain is accompanied by other concerning symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or nausea.</p>
+<p>Seek medical attention if you experience severe or persistent pain in the right arm, chest pain radiating to the arm, arm numbness or weakness, difficulty moving the arm, or if the pain is accompanied by other concerning symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or nausea.</p>
 <h2>Home Remedies for Pain in right arm</h2>
 <p>Rest the affected arm and avoid activities that worsen the pain.</p>
 <ul>

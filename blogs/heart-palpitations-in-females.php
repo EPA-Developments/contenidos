@@ -10,12 +10,12 @@
     <meta property="og:title" content="Preventing Heart Palpitations in Women: Effective Strategies" />
     <meta property="og:description" content="Learn effective ways to prevent heart palpitations in females. Improve female heart health and manage palpitations during menstrual cycle." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-palpitations-in-females" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-palpitations-in-females" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-palpitations-in-females" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-palpitations-in-females" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Palpitations In Females",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-palpitations-in-females"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-palpitations-in-females"
         }
     ]
 }
@@ -169,13 +169,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Preventing Heart Palpitations in Women</h1>
-<p>Are you a woman experiencing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> and wondering how to manage them effectively? These sudden, irregular heartbeats can be alarming and disruptive, affecting your daily activities and overall quality of life. Understanding how to prevent heart palpitations in females is crucial for maintaining optimal heart health and well-being.</p>
+<p>Are you a woman experiencing <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> and wondering how to manage them effectively? These sudden, irregular heartbeats can be alarming and disruptive, affecting your daily activities and overall quality of life. Understanding how to prevent heart palpitations in females is crucial for maintaining optimal heart health and well-being.</p>
 <h2 class="sec-scrl" id="women-palpitations">Palpitations in Women</h2>
-<p>Heart palpitations in women are often linked to hormonal changes, stress, anxiety, or underlying heart conditions. To prevent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, consider incorporating stress-reducing activities such as yoga, meditation, or deep breathing exercises into your daily routine. Ensure you are getting an adequate amount of sleep each night and maintaining a healthy diet rich in fruits, vegetables, and lean proteins. Regular exercise can also help regulate your heart rate and reduce the frequency of palpitations.</p>
+<p>Heart palpitations in women are often linked to hormonal changes, stress, anxiety, or underlying heart conditions. To prevent <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, consider incorporating stress-reducing activities such as yoga, meditation, or deep breathing exercises into your daily routine. Ensure you are getting an adequate amount of sleep each night and maintaining a healthy diet rich in fruits, vegetables, and lean proteins. Regular exercise can also help regulate your heart rate and reduce the frequency of palpitations.</p>
 <ul>
 <li>Avoid excessive caffeine and alcohol consumption, as these substances can trigger palpitations in some women.</li>
 <li>Keep track of your palpitation episodes in a journal to identify any patterns or triggers that you can discuss with your healthcare provider.</li>
-<li>If you are experiencing frequent or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations">severe palpitations</a>, seek medical attention to rule out any underlying cardiac issues.</li>
+<li>If you are experiencing frequent or <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations">severe palpitations</a>, seek medical attention to rule out any underlying cardiac issues.</li>
 </ul>
 <h2 class="sec-scrl" id="menstrual-cycle-palpitations">Palpitations During Menstrual Cycle</h2>
 <p>Many women experience heart palpitations during their menstrual cycle due to hormonal fluctuations. To help prevent palpitations during this time, focus on maintaining a healthy lifestyle. Ensure you are staying hydrated, eating balanced meals, and getting regular exercise. Some women find that reducing their intake of salt and caffeine can help alleviate palpitations during their menstrual cycle.</p>

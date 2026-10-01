@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ascites: Causes, Symptoms, Diagnosis, and Treatment">
   <meta property="og:description" content="Learn about the symptoms, causes, and treatment options for Ascites, a condition commonly associated with liver disease and fluid buildup. Find out how to diagnose and manage Ascites effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/ascites">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/ascites">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/ascites" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/ascites" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ascites",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/ascites"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/ascites"  
       }]
     }
   </script>
@@ -189,7 +189,7 @@
 <p>Ascites is a condition characterized by the accumulation of fluid in the abdominal cavity. This buildup of fluid causes the abdomen to become swollen and distended, leading to discomfort and difficulty in breathing.</p>
 <p>Ascites is often a sign of an underlying medical condition, most commonly liver disease.</p>
 <p>The fluid that accumulates in the abdomen is known as peritoneal fluid, and it can be caused by various factors such as cirrhosis, heart failure, kidney disease, and certain cancers.</p>
-<p>Symptoms of ascites include a swollen belly, stomach swelling, and abdominal distension. In severe cases, the abdomen may appear visibly swollen and feel tight to the touch. Other symptoms may include weight gain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, nausea, and decreased appetite.</p>
+<p>Symptoms of ascites include a swollen belly, stomach swelling, and abdominal distension. In severe cases, the abdomen may appear visibly swollen and feel tight to the touch. Other symptoms may include weight gain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, nausea, and decreased appetite.</p>
 <p>It is essential to seek medical attention if you experience any of these symptoms, as ascites can indicate a more serious underlying health issue.</p>
 <h2 id="forms">What are the Forms of Ascites?</h2>
 <p>There are two main forms of ascites: transudative and exudative. Transudative ascites is caused by an imbalance of pressure in the blood vessels, leading to the leakage of fluid into the abdominal cavity.</p>
@@ -221,7 +221,7 @@
 <p>In severe cases, advanced treatments such as paracentesis or shunt placement may be necessary to drain excess fluid from the abdomen and relieve symptoms.</p>
 <p>It is essential to work closely with a healthcare provider to develop a comprehensive treatment plan tailored to your specific needs.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is crucial to seek medical attention if you experience symptoms of ascites such as abdominal swelling, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, or unexplained weight gain.</p>
+<p>It is crucial to seek medical attention if you experience symptoms of ascites such as abdominal swelling, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, or unexplained weight gain.</p>
 <p>If you have been diagnosed with liver disease, heart failure, kidney disease, or cancer and notice signs of ascites, it is essential to consult with a healthcare provider promptly.</p>
 <p>Additionally, if you have been previously diagnosed with ascites and notice a sudden increase in abdominal swelling, severe pain, fever, or difficulty breathing, seek immediate medical attention. These symptoms may indicate a complication of ascites that requires urgent treatment.</p>
 <h2>Home Remedies for Ascites</h2>

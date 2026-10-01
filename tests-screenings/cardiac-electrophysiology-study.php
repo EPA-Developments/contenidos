@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, and Normal Range of Cardiac Electrophysiology Study" property="og:title"/>
 <meta content="A cardiac electrophysiology study examines the heart’s electrical activity. Read more about its purpose, costs, and normal Range for better results" property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-electrophysiology-study" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-electrophysiology-study" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-electrophysiology-study" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-electrophysiology-study" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Electrophysiology Study",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-electrophysiology-study"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-electrophysiology-study"  
       }]
     }
   </script>
@@ -159,7 +159,7 @@
 <p>Cardiac Electrophysiology Study is a specialized test that evaluates the electrical activity of the heart to diagnose and treat arrhythmias.</p>
 <p>This test involves the insertion of catheters into the heart to record its electrical signals and determine the source of abnormal heart rhythms.</p>
 <p>By analyzing the heart's electrical impulses, doctors can identify the location and mechanism of arrhythmias, providing valuable insights for treatment planning.</p>
-<p>For example, Cardiac Electrophysiology Study is used to assess heart rhythm disorders, guide <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> procedures, evaluate conduction abnormalities, and determine the underlying cause of arrhythmias.</p>
+<p>For example, Cardiac Electrophysiology Study is used to assess heart rhythm disorders, guide <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> procedures, evaluate conduction abnormalities, and determine the underlying cause of arrhythmias.</p>
 <h2 id="purpose">What is the Purpose of Performing a Cardiac Electrophysiology Study Test?</h2>
 <p>The primary purpose of Cardiac Electrophysiology Study is to diagnose and treat arrhythmias, which are abnormal heart rhythms that can lead to serious complications if left untreated.</p>
 <p>By conducting this test, healthcare providers can pinpoint the specific areas of the heart that are causing irregular electrical activity and develop targeted treatment strategies to restore normal heart rhythm.</p>

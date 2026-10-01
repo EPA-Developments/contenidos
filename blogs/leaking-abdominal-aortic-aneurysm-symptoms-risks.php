@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Leaking Abdominal Aortic Aneurysm Symptoms: Key Signs and Risks">
   <meta property="og:description" content="Learn about the key symptoms and risks of a leaking abdominal aortic aneurysm. Recognize the signs of a leaking abdominal aortic aneurysm early.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Leaking Abdominal Aortic Aneurysm Symptoms: Key Signs And Risks",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/leaking-abdominal-aortic-aneurysm-symptoms-risks"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Familial Combined Hyperlipidemia: Symptoms & Treatment">
   <meta property="og:description" content="Familial Combined Hyperlipidemia causes high cholesterol and triglyceride levels. Know more about its symptoms, causes, and treatment to lower health risks." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/familial-combined-hyperlipidemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/familial-combined-hyperlipidemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/familial-combined-hyperlipidemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/familial-combined-hyperlipidemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Familial Combined Hyperlipidemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/familial-combined-hyperlipidemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/familial-combined-hyperlipidemia"
       }]
     }
   </script>
@@ -194,7 +194,7 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>: Advanced-stage FCH can manifest as angina, characterized by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or pressure, indicating reduced blood flow to the heart muscle and increased cardiovascular risk.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>: Advanced-stage FCH can manifest as angina, characterized by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or pressure, indicating reduced blood flow to the heart muscle and increased cardiovascular risk.</li>
 <li>Xanthomas: Rarely, individuals with severe FCH may develop xanthomas, which are fatty deposits under the skin, particularly around the eyes or tendons, signaling significant lipid abnormalities.</li>
 </ul>
 <h2>Diagnosis of Familial Combined Hyperlipidemia</h2>

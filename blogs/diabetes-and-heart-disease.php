@@ -10,12 +10,12 @@
     <meta property="og:title" content="Type 2 Diabetes and Heart Disease Connection" />
     <meta property="og:description" content="Explore the connection between Type 2 Diabetes and Cardiovascular Risk. Learn about the impact on heart health and effective management strategies." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/diabetes-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/diabetes-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/diabetes-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/diabetes-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Diabetes And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/diabetes-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/diabetes-and-heart-disease"
         }
     ]
 }
@@ -141,7 +141,7 @@
 <p>Individuals with Type 2 diabetes face a higher cardiovascular risk compared to those without diabetes. This increased risk is attributed to various factors, including insulin resistance and abnormal cholesterol levels. Managing cardiovascular risk is essential to prevent heart attacks and strokes.</p>
 <ul>
 <li>Keep track of your cholesterol levels and work with your healthcare provider to maintain them within the recommended range.</li>
-<li>Control <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> through lifestyle changes and medications, if necessary.</li>
+<li>Control <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> through lifestyle changes and medications, if necessary.</li>
 <li>Quit smoking and limit alcohol intake to reduce cardiovascular risk factors.</li>
 </ul>
 <h2 class="sec-scrl" id="insulin-resistance">Managing Insulin Resistance for Heart Health</h2>

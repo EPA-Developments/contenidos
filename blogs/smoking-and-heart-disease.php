@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Smoking on Heart Health" />
     <meta property="og:description" content="Learn the impact of smoking on your heart health: risks, effects, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-and-heart-disease"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Smoking on Heart Health</h1>
-<p>Are you aware of the deep impact smoking can have on your heart's health? The habit of smoking doesn't just harm your lungs; it directly affects your heart too. Do you ever feel short of breath after climbing a flight of stairs or notice a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> after a cigarette break? These could be signs that your heart is struggling due to smoking.</p>
+<p>Are you aware of the deep impact smoking can have on your heart's health? The habit of smoking doesn't just harm your lungs; it directly affects your heart too. Do you ever feel short of breath after climbing a flight of stairs or notice a <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> after a cigarette break? These could be signs that your heart is struggling due to smoking.</p>
 <p>Smoking and heart disease are closely linked, with tobacco use being a major contributor to cardiovascular issues. Let's delve into the various ways smoking can harm your heart and increase the risk of heart-related conditions.</p>
 <h2 class="sec-scrl" id="Tobacco">The Role of Tobacco in Heart Disease</h2>
 <p>Tobacco contains numerous harmful chemicals that can damage your heart and blood vessels. When you inhale cigarette smoke, these chemicals enter your bloodstream, triggering inflammation and oxidative stress, which are detrimental to your cardiovascular system. Here's how tobacco contributes to heart disease:</p>
 <ul>
-<li>Increases the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up inside the arteries, leading to reduced blood flow.</li>
+<li>Increases the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition where plaque builds up inside the arteries, leading to reduced blood flow.</li>
 <li>Raises blood pressure, putting added strain on the heart and increasing the likelihood of heart attacks and strokes.</li>
 <li>Impairs the function of endothelial cells lining the blood vessels, making them more prone to damage and clot formation.</li>
 </ul>
@@ -142,7 +142,7 @@
 <p>Smoking significantly elevates your risk of developing various cardiovascular conditions. The more you smoke, the higher the risk. Some of the cardiovascular risks linked to smoking include:</p>
 <ul>
 <li>Coronary artery disease, characterized by the narrowing of the coronary arteries due to plaque buildup.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, which occurs when blood flow to a part of the heart is blocked, leading to tissue damage.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, which occurs when blood flow to a part of the heart is blocked, leading to tissue damage.</li>
 <li>Stroke, a condition where the blood supply to the brain is disrupted, often resulting in lasting neurological damage.</li>
 </ul>
 <h2 class="sec-scrl" id="Nicotine effects">The Impact of Nicotine on Heart Health</h2>
@@ -155,7 +155,7 @@
 <h2 class="sec-scrl" id="Artery damage">The Consequences of Artery Damage from Smoking</h2>
 <p>Smoking damages the inner walls of your arteries, setting the stage for a cascade of cardiovascular problems. The continuous exposure to harmful chemicals in tobacco smoke leads to:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>, which impairs the ability of arteries to dilate and regulate blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>, which impairs the ability of arteries to dilate and regulate blood flow.</li>
 <li>Formation of blood clots, increasing the risk of heart attacks and strokes.</li>
 <li>Accelerated progression of atherosclerosis, further narrowing the arteries and reducing oxygen supply to the heart muscle.</li>
 </ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tofu Benefits: Heart Inflammation Reduction" />
     <meta property="og:description" content="Discover how tofu reduces heart inflammation naturally. Improve heart health with this anti-inflammatory food." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tofu-and-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tofu And Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tofu-and-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tofu-and-inflammation"
         }
     ]
 }
@@ -155,7 +155,7 @@
 <p>Heart disease prevention starts with a healthy diet rich in anti-inflammatory foods like tofu. Consider the following:</p>
 <ul>
 <li>Regularly consuming tofu and other plant-based foods can help lower cholesterol levels and reduce the risk of heart disease.</li>
-<li>Foods rich in omega-3 fatty acids, such as tofu, can help prevent the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other heart conditions.</li>
+<li>Foods rich in omega-3 fatty acids, such as tofu, can help prevent the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other heart conditions.</li>
 </ul>
 <p>By prioritizing a diet that includes tofu and other anti-inflammatory foods, you can take proactive steps to protect your heart and overall well-being.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

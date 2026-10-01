@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recognizing Heart Attack Symptoms: Signs to Watch Out For">
   <meta property="og:description" content="Learn the signs of heart attack symptoms to watch for. Knowing the warning signs can save a life. Find out what to look out for here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/recognizing-heart-attack-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/recognizing-heart-attack-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/recognizing-heart-attack-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/recognizing-heart-attack-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Recognizing Heart Attack Symptoms: Signs To Watch Out For",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/recognizing-heart-attack-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/recognizing-heart-attack-symptoms"  
       }]
     }
   </script>

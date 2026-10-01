@@ -10,12 +10,12 @@
     <meta property="og:title" content="Marshmallow Root Benefits for Circulation" />
     <meta property="og:description" content="Explore how marshmallow root supports healthy circulation and blood flow for optimal vascular and heart function." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Marshmallow Root And Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/marshmallow-root-and-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/marshmallow-root-and-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Marshmallow Root Benefits for Circulation</h1>
-<p>Are you looking to improve your blood circulation naturally? Do you often feel fatigued or experience swelling in your legs due to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a>? The solution might lie in the herbal remedy of Marshmallow Root. Let's delve into how Marshmallow Root can support your circulation and enhance blood flow, helping you lead a more active and energetic life.</p>
+<p>Are you looking to improve your blood circulation naturally? Do you often feel fatigued or experience swelling in your legs due to <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a>? The solution might lie in the herbal remedy of Marshmallow Root. Let's delve into how Marshmallow Root can support your circulation and enhance blood flow, helping you lead a more active and energetic life.</p>
 <h2 class="sec-scrl" id="benefits">Benefits of Marshmallow Root for Blood Circulation</h2>
 <p>Marshmallow Root, known for its mucilage content, has been used for centuries to promote vascular health and support the cardiovascular system. Here are some key benefits:</p>
 <ul>

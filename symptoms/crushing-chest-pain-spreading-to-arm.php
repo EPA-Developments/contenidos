@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Crushing Chest Pain Spreading to Arm: Causes and Treatment" >
   <meta property="og:description" content="Crushing chest pain spreading to the arm may be a sign of a heart attack. Read more to about the causes, diagnosis, and treatment of this painful symptom." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain-spreading-to-arm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain-spreading-to-arm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain-spreading-to-arm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain-spreading-to-arm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Crushing Chest Pain Spreading To Arm",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain-spreading-to-arm"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain-spreading-to-arm"  
       }]
     }
   </script>
@@ -186,23 +186,23 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Crushing Chest Pain Spreading to Arm: Causes and Diagnosis</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain">crushing chest pain</a> spreading to the arm is a serious medical condition that can indicate a potential heart problem.</p>
-<p>This type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> is often described as a feeling of pressure, squeezing, or heaviness in the chest that may spread to the arm, particularly the left arm. It can also radiate to the back, neck, jaw, or shoulder.</p>
-<p>The pain in the arm may be accompanied by numbness, tingling, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. Individuals experiencing this type of chest pain should seek immediate medical attention as it could be a sign of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or other cardiovascular issues.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain">crushing chest pain</a> spreading to the arm is a serious medical condition that can indicate a potential heart problem.</p>
+<p>This type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> is often described as a feeling of pressure, squeezing, or heaviness in the chest that may spread to the arm, particularly the left arm. It can also radiate to the back, neck, jaw, or shoulder.</p>
+<p>The pain in the arm may be accompanied by numbness, tingling, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. Individuals experiencing this type of chest pain should seek immediate medical attention as it could be a sign of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or other cardiovascular issues.</p>
 <h2 id="forms">What are the Forms of Crushing chest pain spreading to arm?</h2>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a> spreading to arm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a> spreading to arm</li>
 <li>Intense chest discomfort radiating to arm</li>
 <li>Crushing sensation in chest and arm</li>
 </ul>
-<p>Chest pressure spreading to the arm is often described as a feeling of tightness or heaviness in the chest that radiates down the left arm. It can be accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, nausea, or sweating.</p>
+<p>Chest pressure spreading to the arm is often described as a feeling of tightness or heaviness in the chest that radiates down the left arm. It can be accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, nausea, or sweating.</p>
 <p>Intense chest discomfort radiating to the arm may feel like a crushing or squeezing sensation in the chest that spreads to the left arm. This type of pain is often a sign of a heart attack.</p>
 <p>A crushing sensation in the chest and arm is a severe form of chest pain that can indicate a life-threatening condition. It is crucial to seek immediate medical attention if you experience this type of pain.</p>
 <h2 id="causes">What are the Causes of Crushing chest pain spreading to arm?</h2>
 <ul>
 <li>Heart attack</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a></li>
 <li>Pulmonary embolism</li>
 </ul>
 <p>A heart attack occurs when the blood flow to the heart is blocked, leading to damage or death of heart muscle tissue. This can cause severe chest pain that may spread to the arm.</p>

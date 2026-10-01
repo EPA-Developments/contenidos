@@ -10,12 +10,12 @@
     <meta property="og:title" content="Enhancing Circulation with Hibiscus" />
     <meta property="og:description" content="Discover how hibiscus boosts circulation for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus And Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-and-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-and-circulation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Enhance Circulation with Hibiscus</h1>
-<p>Do you ever feel fatigued, with heavy limbs that make even the simplest tasks a challenge? Have you noticed a decrease in your energy levels or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during routine activities? If so, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> could be the culprit behind these issues. The good news is that nature might hold the key to improving your circulation and overall well-being. One such natural remedy that has gained attention for its potential benefits on circulation is hibiscus.</p>
+<p>Do you ever feel fatigued, with heavy limbs that make even the simplest tasks a challenge? Have you noticed a decrease in your energy levels or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during routine activities? If so, <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> could be the culprit behind these issues. The good news is that nature might hold the key to improving your circulation and overall well-being. One such natural remedy that has gained attention for its potential benefits on circulation is hibiscus.</p>
 <h2 class="sec-scrl" id="blood-flow">Enhancing Blood Flow with Hibiscus</h2>
 <p>Hibiscus is packed with antioxidants that help to reduce oxidative stress in the body, promoting the dilation of blood vessels and enhancing blood flow. By consuming hibiscus tea or extract regularly, you may experience improved circulation, leading to better oxygen and nutrient delivery to all parts of your body. This can result in increased energy levels and reduced feelings of fatigue.</p>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Influence of Calcium on Blood Pressure Control" />
     <meta property="og:description" content="Explore how calcium influences blood pressure regulation. Learn about hypertension, vascular health, and more. Optimize your arterial health today." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/calcium-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Calcium And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/calcium-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/calcium-and-blood-pressure"
         }
     ]
 }
@@ -148,7 +148,7 @@
 <p>Healthy arteries are crucial for maintaining proper blood pressure. Calcium contributes to arterial health by:</p>
 <ul>
 <li>Promoting the relaxation of blood vessel walls, which helps in reducing blood pressure.</li>
-<li>Supporting the integrity of arterial walls, reducing the risk of damage and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Supporting the integrity of arterial walls, reducing the risk of damage and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 </ul>
 <p>Integrating calcium-rich foods into your diet can aid in keeping your arteries flexible and functioning optimally.</p>
 <h2 class="sec-scrl" id="vasoconstriction">How Does Calcium Influence Vasoconstriction?</h2>

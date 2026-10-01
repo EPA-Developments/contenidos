@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard: Natural Remedy for Heart Inflammation" />
     <meta property="og:description" content="Explore the potent healing properties of mustard for heart inflammation. Discover natural relief for cardiovascular inflammation today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard For Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-for-inflammation"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Healing Benefits of Mustard for Heart Inflammation</h1>
-<p>Are you struggling with <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-inflammation">heart inflammation</a> and looking for a natural remedy that can provide relief? The healing powers of mustard for inflammation might be the solution you've been searching for. Heart inflammation can significantly impact your daily activities, making even simple tasks challenging. Let's explore how mustard, with its potent properties, can help alleviate cardiovascular inflammation and promote overall heart health.</p>
+<p>Are you struggling with <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-inflammation">heart inflammation</a> and looking for a natural remedy that can provide relief? The healing powers of mustard for inflammation might be the solution you've been searching for. Heart inflammation can significantly impact your daily activities, making even simple tasks challenging. Let's explore how mustard, with its potent properties, can help alleviate cardiovascular inflammation and promote overall heart health.</p>
 <h2 class="sec-scrl" id="inflammation-relief">Inflammation Relief</h2>
 <p>Mustard is not just a condiment; it also offers powerful anti-inflammatory properties that can help reduce inflammation in the body, including cardiovascular inflammation. The antioxidants present in mustard seeds play a crucial role in combating inflammation by neutralizing free radicals that contribute to tissue damage.</p>
 <p>Additionally, mustard contains omega-3 fatty acids, known for their anti-inflammatory effects. These fatty acids help regulate the body's inflammatory response, reducing the severity of inflammation in the heart and blood vessels.</p>
@@ -145,7 +145,7 @@
 <li>Mustard seed oil can also be used topically to reduce inflammation and promote skin health.</li>
 </ul>
 <h2 class="sec-scrl" id="cardiovascular-inflammation">Cardiovascular Inflammation</h2>
-<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and heart failure. Mustard's anti-inflammatory properties can help mitigate the inflammation that contributes to the progression of these conditions, ultimately supporting heart health.</p>
+<p>Cardiovascular inflammation is a common underlying factor in various heart conditions, including <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and heart failure. Mustard's anti-inflammatory properties can help mitigate the inflammation that contributes to the progression of these conditions, ultimately supporting heart health.</p>
 <p>Research suggests that the compounds in mustard seeds can help lower levels of C-reactive protein, a marker of inflammation linked to heart disease risk. By reducing inflammation in the arteries and heart tissues, mustard can potentially lower the risk of cardiovascular events.</p>
 <ul>
 <li>Regular consumption of mustard as part of a balanced diet can aid in preventing and managing cardiovascular inflammation.</li>

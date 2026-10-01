@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Postprandial Hypotension: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Postprandial hypotension occurs after meals, causing low blood pressure. Read more about its causes, symptoms, and treatments for relief." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/postprandial-hypotension">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/postprandial-hypotension">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/postprandial-hypotension" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/postprandial-hypotension" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Postprandial Hypotension",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/postprandial-hypotension"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/postprandial-hypotension"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Postprandial Hypotension</h1>
-<p>Postprandial hypotension is a condition where a person's blood pressure drops after eating a meal. This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, and fainting. It's especially important for older adults to be aware of this because it can increase the risk of falls and other complications. Postprandial hypotension is more common in older individuals and those with certain medical conditions like diabetes or Parkinson's disease. Monitoring blood pressure after meals and making dietary adjustments can help manage this condition effectively.</p>
+<p>Postprandial hypotension is a condition where a person's blood pressure drops after eating a meal. This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, and fainting. It's especially important for older adults to be aware of this because it can increase the risk of falls and other complications. Postprandial hypotension is more common in older individuals and those with certain medical conditions like diabetes or Parkinson's disease. Monitoring blood pressure after meals and making dietary adjustments can help manage this condition effectively.</p>
 <h2 id="causes">Causes of Postprandial Hypotension</h2>
 <p>Postprandial hypotension, or a drop in blood pressure after eating, can be influenced by various factors. These include:
 

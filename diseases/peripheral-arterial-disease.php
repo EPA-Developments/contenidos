@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Peripheral Arterial Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Learn about Peripheral Arterial Disease (PAD), its symptoms, causes, and treatments. Find expert advice on managing PAD effectively.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-arterial-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/peripheral-arterial-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/peripheral-arterial-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/peripheral-arterial-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Peripheral Arterial Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/peripheral-arterial-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/peripheral-arterial-disease"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Peripheral Arterial Disease: Symptoms, Causes, and Treatment</h1>
-<p>Peripheral Arterial Disease (PAD) is a condition where narrowed arteries reduce blood flow to your limbs, usually legs. This can lead to pain, numbness, or even tissue damage. It's essential because poor blood flow can result in serious complications like non-healing wounds or amputations. PAD is prevalent, affecting millions worldwide, especially those with diabetes, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or a history of smoking. Early detection and management are crucial to prevent complications and improve quality of life. If you experience leg pain or wounds that won't heal, consult a healthcare provider promptly.</p>
+<p>Peripheral Arterial Disease (PAD) is a condition where narrowed arteries reduce blood flow to your limbs, usually legs. This can lead to pain, numbness, or even tissue damage. It's essential because poor blood flow can result in serious complications like non-healing wounds or amputations. PAD is prevalent, affecting millions worldwide, especially those with diabetes, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or a history of smoking. Early detection and management are crucial to prevent complications and improve quality of life. If you experience leg pain or wounds that won't heal, consult a healthcare provider promptly.</p>
 <h2 id="causes">Causes of Peripheral Arterial Disease</h2>
 <p>Several factors contribute to the development of Peripheral Arterial Disease (PAD). These include:
 
 <ul>
 <li>Smoking</li>
 <li>High blood pressure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Diabetes</li>
 <li>Obesity</li>
 <li>Lack of physical activity</li>
@@ -179,8 +179,8 @@
 <p>Recognizing the symptoms of Peripheral Arterial Disease (PAD) is crucial as early detection can significantly improve outcomes. Being aware of these symptoms can prompt timely medical intervention, reducing the risk of complications.
 
 <ul>
-<li>Intermittent <a href="https://plataforma.epa-bienestar.com.ar/symptoms/claudication">claudication</a> (leg pain while walking that resolves with rest)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> or numbness in the legs</li>
+<li>Intermittent <a href="https://contenidos.segundaopinionmedica.org/symptoms/claudication">claudication</a> (leg pain while walking that resolves with rest)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> or numbness in the legs</li>
 <li>Coldness in one leg compared to the other</li>
 <li>Changes in leg color or shiny skin</li>
 <li>Skin wounds or ulcers that heal slowly</li>
@@ -215,7 +215,7 @@
 </ul>
 <h3>Angioplasty and Stenting</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> involves inflating a balloon to open blocked arteries, while stenting helps keep the artery open.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> involves inflating a balloon to open blocked arteries, while stenting helps keep the artery open.</li>
 <li>This procedure restores blood flow to the affected area, relieving symptoms.</li>
 <li>The primary objective is to improve blood circulation and alleviate pain.</li>
 <li>The patient may undergo imaging tests, the procedure itself, and post-procedure follow-up care.</li>
@@ -237,7 +237,7 @@ Regular screenings and check-ups are essential for early detection and managemen
 <li>Ultrasound or angiography to visualize blood flow in the arteries.</li>
 <h3>Supportive Care:</h3>
 <ul>
-<li>Manage other health conditions like diabetes and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> to reduce PAD risk.</li>
+<li>Manage other health conditions like diabetes and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> to reduce PAD risk.</li>
 <li>Work with your healthcare team to develop a personalized treatment plan.</li>
 <li>Take medications as prescribed to control cholesterol, blood pressure, and blood sugar levels.</li>
 </ul></ul></p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Optimizing Recovery After BD Angioplasty&quot;" />
     <meta property="og:description" content="Learn effective recovery tips post-BD angioplasty for improved heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bd-angioplasty" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bd-angioplasty" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bd-angioplasty" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bd-angioplasty" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Bd Angioplasty",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/bd-angioplasty"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/bd-angioplasty"
         }
     ]
 }
@@ -169,7 +169,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Top Recovery Tips After BD Angioplasty</h1>
-<p>Are you wondering how to make a smooth recovery after a BD <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> procedure? The journey to healing after this coronary artery procedure can raise many questions and uncertainties. Activities that were once part of your daily routine may now seem challenging. However, with the right care and guidance, you can enhance your recovery and get back to your normal life.</p>
+<p>Are you wondering how to make a smooth recovery after a BD <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> procedure? The journey to healing after this coronary artery procedure can raise many questions and uncertainties. Activities that were once part of your daily routine may now seem challenging. However, with the right care and guidance, you can enhance your recovery and get back to your normal life.</p>
 <h2 class="sec-scrl" id="preparation">Preparation for BD Angioplasty</h2>
 <p>Before undergoing a BD angioplasty, your healthcare team will provide you with essential information and instructions to prepare you for the procedure. Here are some key aspects to consider:</p>
 <ul>

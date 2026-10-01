@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Ectopy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Ventricular Ectopy causes extra heartbeats, affecting rhythm. Read more about its symptoms, causes, and treatment for a steady heartbeat." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-ectopy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-ectopy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-ectopy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-ectopy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Ventricular Ectopy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-ectopy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-ectopy"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Ventricular Ectopy</h1>
-<p>Ventricular Ectopy is when the lower chambers of the heart beat too soon, causing an extra or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>. While it's common and often harmless, frequent ectopic beats can sometimes indicate underlying heart issues. It affects many people and is often found incidentally during tests. Regular check-ups can help monitor and manage this condition effectively. If you experience frequent irregular heartbeats, it's essential to consult a healthcare provider for proper evaluation and guidance.</p>
+<p>Ventricular Ectopy is when the lower chambers of the heart beat too soon, causing an extra or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>. While it's common and often harmless, frequent ectopic beats can sometimes indicate underlying heart issues. It affects many people and is often found incidentally during tests. Regular check-ups can help monitor and manage this condition effectively. If you experience frequent irregular heartbeats, it's essential to consult a healthcare provider for proper evaluation and guidance.</p>
 <h2 id="causes">Causes of Ventricular Ectopy</h2>
 <p>Ventricular Ectopy can be influenced by various factors. Here are the main contributors:
 
 <ul>
 <li>Coronary artery disease</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 <li>Heart muscle damage</li>
 <li>Electrolyte imbalances</li>
 <li>Stress and anxiety</li>
@@ -180,11 +180,11 @@
 
 <h3>Common symptoms of Ventricular Ectopy include:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Chest discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Irregular heartbeat sensations</li>
 </ul>
 
@@ -193,7 +193,7 @@ If you experience any of these symptoms, especially if they occur frequently or 
 <p>Accurate diagnosis of Ventricular Ectopy is crucial as it can indicate underlying heart conditions that may require treatment. The diagnostic process typically involves various tests to determine the cause and severity of the condition. Common diagnostic methods for Ventricular Ectopy include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to record the heart's electrical activity</li>
 <li>Echocardiogram to create images of the heart's structure and function</li>
 <li>Holter monitor to track heart rhythm over 24-48 hours</li>
 <li>Stress test to evaluate heart function during physical activity</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Sodium's Impact on Hypertension & Heart Health&quot;" />
     <meta property="og:description" content="Explore how sodium impacts hypertension & cardiovascular health. Learn about salt intake, prevention strategies, & more in this informative guide." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/sodium-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Sodium And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/sodium-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/sodium-and-hypertension"
         }
     ]
 }
@@ -129,8 +129,8 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Sodium on Hypertension &amp; Heart Health</h1>
-<p>Are you worried about how sodium intake affects your blood pressure? Do you find managing your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> challenging in your daily life?</p>
-<p>High blood pressure, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition that affects many individuals worldwide. One significant factor that contributes to hypertension is the amount of sodium in our diets. Let's explore the crucial role of sodium in hypertension management and cardiovascular disease prevention.</p>
+<p>Are you worried about how sodium intake affects your blood pressure? Do you find managing your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> challenging in your daily life?</p>
+<p>High blood pressure, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition that affects many individuals worldwide. One significant factor that contributes to hypertension is the amount of sodium in our diets. Let's explore the crucial role of sodium in hypertension management and cardiovascular disease prevention.</p>
 <h2 class="sec-scrl" id="sodium-and-hypertension">Sodium and Hypertension</h2>
 <p>Sodium is a mineral that plays a critical role in maintaining the body's fluid balance and nerve function. However, consuming too much sodium can lead to high blood pressure, a major risk factor for cardiovascular disease. Here are some key points to consider:</p>
 <ul>
@@ -141,8 +141,8 @@
 <h2 class="sec-scrl" id="high-blood-pressure">Impact of High Blood Pressure</h2>
 <p>High blood pressure can have serious consequences on your health and well-being. Here's how it can affect you:</p>
 <ul>
-<li>Increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke</li>
-<li>Damage to the arteries, leading to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li>Increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke</li>
+<li>Damage to the arteries, leading to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 <li>Impaired kidney function</li>
 </ul>
 <p>By understanding the relationship between sodium and hypertension, you can take proactive steps to protect your cardiovascular health.</p>

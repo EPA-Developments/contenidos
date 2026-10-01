@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Rosemary's Heart Protection: Preventing Disease'" />
     <meta property="og:description" content="Discover how rosemary can support heart health naturally. Learn about its benefits in preventing heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rosemary For Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rosemary-for-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rosemary-for-heart-disease"
         }
     ]
 }
@@ -166,7 +166,7 @@
 <p>Key reasons to consider rosemary for disease prevention include:</p>
 <ul>
 <li>Its ability to combat free radicals and oxidative damage in the body.</li>
-<li>The potential to improve lipid profiles and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>The potential to improve lipid profiles and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Support for overall cardiovascular function and longevity.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>

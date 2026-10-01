@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sternum Pain: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Sternum pain can occur due to several issues with the sternum, muscles, or bones around it. Know more about causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sternum-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sternum-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sternum-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sternum-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Sternum Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sternum-pain"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sternum-pain"
       }]
     }
   </script>
@@ -163,13 +163,13 @@
 <h1>Symptoms, Causes and Treatment of Sternum Pain</h1>
 <p>Sternum pain, also known as chest bone pain, refers to discomfort or soreness in the breastbone area. It can be caused by various factors like muscle strain, injuries, or conditions like costochondritis. This pain is significant as it can be alarming but is often not related to heart issues. Sternum pain is prevalent and can affect people of all ages. It's essential to seek medical evaluation if you experience persistent or severe chest bone pain to rule out any serious underlying conditions and receive appropriate treatment.</p>
 <h2 id="causes">Causes of Sternum Pain</h2>
-<p>Sternum pain, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, can be caused by various factors. Here are some main contributors to the development of sternum pain:
+<p>Sternum pain, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, can be caused by various factors. Here are some main contributors to the development of sternum pain:
 
 <ul>
 <li>Injuries from trauma or accidents</li>
 <li>Costochondritis, inflammation of the cartilage connecting the ribs to the sternum</li>
 <li>Muscle strain from overexertion or heavy lifting</li>
-<li>Gastroesophageal reflux disease (GERD) causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heartburn">heartburn</a></li>
+<li>Gastroesophageal reflux disease (GERD) causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/heartburn">heartburn</a></li>
 <li>Sternum fractures due to direct impact or severe coughing</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Sternum Pain</h2>
@@ -192,10 +192,10 @@
 <li>Medical History Review: To identify any relevant factors or past medical conditions.</li>
 <li>Diagnostic Tests: To confirm the diagnosis, which may include:
   <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG)</li>
 <li>Chest X-ray</li>
 <li>Blood tests</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a></li>
 </ul>
 </li>
 </ul></p>

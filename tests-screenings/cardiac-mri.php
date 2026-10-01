@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range of values and Purpose for cardiac MRI" property="og:title"/>
 <meta content="Cardiac MRI creates detailed heart images. Know more about its purpose, costs, and normal Range for assessing heart function and health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-mri" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-mri" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-mri" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-mri" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac MRI",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-mri"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-mri"  
       }]
     }
   </script>
@@ -161,7 +161,7 @@
 <p>Cardiac MRI can assess heart structure and function by capturing images of the heart chambers, valves, and blood vessels in great detail. It can also measure the thickness of the heart muscle and detect any abnormalities or defects.</p>
 <p>This type of MRI is especially useful in diagnosing heart diseases such as coronary artery disease, heart failure, and congenital heart defects.</p>
 <p>It can help healthcare providers evaluate the extent of damage to the heart and determine the most appropriate treatment plan for patients.</p>
-<p>For example, a cardiac MRI can detect <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> scars, which are areas of dead tissue in the heart muscle caused by a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>For example, a cardiac MRI can detect <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> scars, which are areas of dead tissue in the heart muscle caused by a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <p>By visualizing these scars, healthcare providers can assess the severity of the damage and plan interventions to improve heart function.</p>
 <p>In summary, cardiac MRI is a valuable tool for assessing heart structure and function, diagnosing heart disease, and monitoring the effectiveness of treatments. It provides detailed images that can help healthcare providers make informed decisions about patient care.</p>
 <h2 id="purpose">What is the Purpose of Performing a Cardiac MRI Test?</h2>
@@ -178,7 +178,7 @@
 <h2 id="costs">What are the Costs of Cardiac MRI Tests in Americas?</h2>
 <p>The costs of cardiac MRI tests in Americas can vary depending on several factors, including the location of the healthcare facility, the complexity of the imaging study, and any additional services or tests required.</p>
 <ul>
-<li>The cost of a basic cardiac <a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/mri-scan">mri scan</a> in Americas ranges from ₹10,000 to ₹20,000.</li>
+<li>The cost of a basic cardiac <a href="https://contenidos.segundaopinionmedica.org/tests-screenings/mri-scan">mri scan</a> in Americas ranges from ₹10,000 to ₹20,000.</li>
 <li>More complex cardiac MRI studies, such as those involving contrast agents or specialized imaging sequences, may cost between ₹20,000 and ₹40,000.</li>
 <li>In some cases, the total cost of a cardiac MRI test in Americas may exceed ₹40,000, especially if additional services such as consultations or follow-up tests are included.</li>
 <li>It is important to note that these prices are approximate and may vary depending on the specific healthcare facility and the individual patient's needs.</li>

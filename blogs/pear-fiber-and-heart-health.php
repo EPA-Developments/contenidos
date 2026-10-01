@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pear Fiber: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Explore how pear fiber promotes heart health. Learn about the benefits of dietary fiber, high fiber fruits, and preventing heart disease with pears." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pear-fiber-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pear-fiber-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pear-fiber-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pear-fiber-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pear Fiber And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pear-fiber-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pear-fiber-and-heart-health"
         }
     ]
 }
@@ -147,7 +147,7 @@
 <li>Low in calories but high in fiber, making them a great choice for weight management</li>
 </ul>
 <h2 class="sec-scrl" id="fiber-and-heart-disease-prevention">How Fiber in Pears Prevents Heart Disease</h2>
-<p>The fiber content in pears plays a significant role in preventing heart disease by reducing risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>. By including pears in your diet, you can actively work towards improving your heart health and decreasing the likelihood of cardiovascular issues.</p>
+<p>The fiber content in pears plays a significant role in preventing heart disease by reducing risk factors such as <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>. By including pears in your diet, you can actively work towards improving your heart health and decreasing the likelihood of cardiovascular issues.</p>
 <p>Here's how fiber in pears contributes to heart disease prevention:</p>
 <ul>
 <li>Helps in reducing LDL cholesterol levels</li>

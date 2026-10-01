@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Saffron for Cholesterol: Impact and Benefits&quot;" />
     <meta property="og:description" content="Discover how saffron affects cholesterol levels & heart health. Learn about LDL, HDL, lipid profile, and reducing heart disease risk naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/saffron-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/saffron-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/saffron-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/saffron-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Saffron For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/saffron-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/saffron-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Saffron on Cholesterol</h1>
-<p>Are you looking for a natural way to manage your cholesterol levels? Have you heard about the potential benefits of saffron but are unsure about its impact on your heart health? Daily activities such as climbing stairs or even walking short distances can become challenging when <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels affect your overall well-being. Let's explore how saffron, a vibrant and aromatic spice, may offer a solution to help you maintain a healthy heart.</p>
+<p>Are you looking for a natural way to manage your cholesterol levels? Have you heard about the potential benefits of saffron but are unsure about its impact on your heart health? Daily activities such as climbing stairs or even walking short distances can become challenging when <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels affect your overall well-being. Let's explore how saffron, a vibrant and aromatic spice, may offer a solution to help you maintain a healthy heart.</p>
 <h2 class="sec-scrl" id="cardiovascular-risk">How Does Saffron Influence Cardiovascular Risk?</h2>
 <p>Saffron, known for its distinct flavor and color, contains compounds that may positively impact cardiovascular health. By enhancing the lipid profile, saffron can potentially reduce the risk of heart disease. Studies suggest that saffron may help lower LDL cholesterol levels, often referred to as "bad" cholesterol, while increasing HDL cholesterol, known as "good" cholesterol. This balance is crucial in managing heart disease risk factors.</p>
 <p>Furthermore, saffron's antioxidant properties may protect against oxidative stress, a key player in cardiovascular risk. By reducing inflammation and improving blood flow, saffron can contribute to overall heart health.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pumpkin Seed Benefits for Blood Pressure&quot;" />
     <meta property="og:description" content="Discover how pumpkin kernels can help lower high blood pressure naturally. Learn more about their role in hypertension management." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-kernels-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pumpkin-kernels-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-kernels-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pumpkin-kernels-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pumpkin Kernels  Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pumpkin-kernels-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pumpkin-kernels-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Pumpkin Kernels in Lowering Blood Pressure</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> effectively? Does the thought of incorporating yet another medication into your daily routine feel overwhelming? High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, affects millions of people worldwide, impacting their daily activities and overall quality of life. If you're looking for a natural way to support your hypertension management, you may be pleasantly surprised by the potential benefits of pumpkin kernels.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> effectively? Does the thought of incorporating yet another medication into your daily routine feel overwhelming? High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, affects millions of people worldwide, impacting their daily activities and overall quality of life. If you're looking for a natural way to support your hypertension management, you may be pleasantly surprised by the potential benefits of pumpkin kernels.</p>
 <h2 class="sec-scrl" id="natural-blood-pressure-control">Natural Blood Pressure Control with Pumpkin Kernels</h2>
 <p>Pumpkin kernels, also known as pepitas, are not only a delicious snack but also a powerhouse of nutrients that can contribute to healthy blood pressure regulation. Here's how pumpkin kernels, when included as part of a balanced diet, may help in managing high blood pressure:</p>
 <ul>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Improving Cholesterol with Dates: A Natural Solution" />
     <meta property="og:description" content="Learn how dates can boost your heart health by improving cholesterol levels. Discover the power of this sweet fruit today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/dates-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/dates-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/dates-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Dates For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/dates-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/dates-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Improving Cholesterol Levels with Dates</h1>
-<p>Are you looking for a natural way to manage your cholesterol levels effectively? Have you been struggling to find a solution that fits seamlessly into your daily routine? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can impact your overall health and hinder your day-to-day activities. But what if there was a simple and delicious way to tackle this issue? Enter dates – nature's sweet solution to cholesterol management.</p>
+<p>Are you looking for a natural way to manage your cholesterol levels effectively? Have you been struggling to find a solution that fits seamlessly into your daily routine? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can impact your overall health and hinder your day-to-day activities. But what if there was a simple and delicious way to tackle this issue? Enter dates – nature's sweet solution to cholesterol management.</p>
 <h2 class="sec-scrl" id="cholesterol-control">Cholesterol Control with Dates</h2>
 <p>Dates are a powerhouse of nutrients that offer numerous health benefits, including the ability to positively impact cholesterol levels. Rich in fiber, dates can help regulate cholesterol by reducing the levels of LDL, or low-density lipoprotein, commonly known as the "bad" cholesterol. At the same time, dates can boost HDL, high-density lipoprotein, which is the "good" cholesterol that helps remove LDL from the bloodstream.</p>
 <p>The fiber content in dates plays a crucial role in cholesterol management. Fiber acts as a broom in your digestive system, sweeping away excess cholesterol and preventing it from being absorbed into the bloodstream. By incorporating fiber-rich dates into your diet, you can support your heart health and promote healthy cholesterol levels.</p>

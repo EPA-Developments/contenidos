@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Low Blood Pressure Symptoms, Causes and Treatment" >
   <meta property="og:description" content="Low blood pressure is linked to heart health. Know more about its symptoms, causes, diagnosis, and treatment options for better care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure" >
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure" >
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Low Blood Pressure",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure"  
       }]
     }
   </script>
@@ -186,17 +186,17 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Low Blood Pressure Symptoms, Causes and Diagnosis</h1>
-<p>Low blood pressure, also known as hypotension, occurs when your blood pressure drops below the normal range. This condition can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, and other symptoms due to inadequate blood flow to the organs.</p>
-<p>While low blood pressure is often considered less concerning than <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, it can still lead to complications if left untreated.</p>
-<p>Symptoms of low blood pressure may include dizziness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, fainting, blurred vision, fatigue, and nausea. In severe cases, low blood pressure can cause confusion, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a>, and cold, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/clammy-skin">clammy skin</a>.</p>
+<p>Low blood pressure, also known as hypotension, occurs when your blood pressure drops below the normal range. This condition can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, and other symptoms due to inadequate blood flow to the organs.</p>
+<p>While low blood pressure is often considered less concerning than <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, it can still lead to complications if left untreated.</p>
+<p>Symptoms of low blood pressure may include dizziness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, fainting, blurred vision, fatigue, and nausea. In severe cases, low blood pressure can cause confusion, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a>, and cold, <a href="https://contenidos.segundaopinionmedica.org/symptoms/clammy-skin">clammy skin</a>.</p>
 <p>It is essential to monitor your blood pressure regularly and seek medical attention if you experience persistent symptoms.</p>
 <h2 id="forms">What are the Forms of Low Blood Pressure?</h2>
-<p>There are different forms of low blood pressure, including <a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/postprandial-hypotension">postprandial hypotension</a>, and neurally mediated hypotension. Orthostatic hypotension occurs when your blood pressure drops suddenly upon standing up, leading to dizziness and lightheadedness.</p>
+<p>There are different forms of low blood pressure, including <a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/postprandial-hypotension">postprandial hypotension</a>, and neurally mediated hypotension. Orthostatic hypotension occurs when your blood pressure drops suddenly upon standing up, leading to dizziness and lightheadedness.</p>
 <p>Postprandial hypotension occurs after eating a meal, causing a temporary drop in blood pressure. Neurally mediated hypotension is a condition where blood pressure drops due to a malfunction in the autonomic nervous system.</p>
 <p>Each form of low blood pressure has specific symptoms and triggers. Understanding the type of hypotension you have can help in managing and treating the condition effectively.</p>
 <h2 id="causes">What are the Causes of Low Blood Pressure?</h2>
 <p>There are several causes of low blood pressure, including dehydration, heart problems, endocrine disorders, and nerve damage. Dehydration can lead to a decrease in blood volume, resulting in low blood pressure.</p>
-<p>Heart conditions such as heart valve problems or a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> can also cause low blood pressure due to the heart's inability to pump effectively.</p>
+<p>Heart conditions such as heart valve problems or a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> can also cause low blood pressure due to the heart's inability to pump effectively.</p>
 <p>Endocrine disorders like thyroid conditions or adrenal insufficiency can disrupt hormone levels that regulate blood pressure. Nerve damage from diabetes or neurological disorders can affect the body's ability to control blood pressure.</p>
 <p>Understanding the underlying cause of low blood pressure is crucial for appropriate treatment.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Low Blood Pressure?</h2>

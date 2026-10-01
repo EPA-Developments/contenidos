@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Chagas Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Chagas Cardiomyopathy leads to heart failure due to Chagas disease. Read more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/chagas-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/chagas-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/chagas-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/chagas-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Chagas Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/chagas-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/chagas-cardiomyopathy"
       }]
     }
   </script>
@@ -176,9 +176,9 @@
 <p>Recognizing the symptoms of Chagas Cardiomyopathy is crucial as early detection can significantly improve outcomes. Symptoms may vary from mild to severe and can include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Fatigue</li>
 <li>Swelling in the legs or abdomen</li>
 <li>Fainting</li>
@@ -190,8 +190,8 @@ Being aware of these signs and seeking medical attention promptly can lead to ti
 
 <ul>
 <li>Physical examination to assess symptoms and signs of heart failure</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to detect abnormal heart rhythms</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 <li>Cardiac magnetic resonance imaging (MRI) for detailed images of the heart</li>
 <li>Blood tests to detect antibodies against the parasite causing Chagas disease</li>
 </ul></p>
@@ -209,12 +209,12 @@ Being aware of these signs and seeking medical attention promptly can lead to ti
 <ul>
 <li>An ICD is a device implanted under the skin to monitor heart rhythm.</li>
 <li>It delivers electric shocks to restore normal heart rhythm if dangerous arrhythmias occur.</li>
-<li>The main objective is to prevent sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</li>
+<li>The main objective is to prevent sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</li>
 <li>The procedure involves implanting the device and regular follow-ups for monitoring.</li>
 </ul>
 <h3>Heart Transplant</h3>
 <ul>
-<li>A <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> involves replacing a diseased heart with a healthy donor heart.</li>
+<li>A <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> involves replacing a diseased heart with a healthy donor heart.</li>
 <li>It is considered for severe cases of heart failure when other treatments are ineffective.</li>
 <li>The primary aim is to improve overall heart function and quality of life.</li>
 <li>The process includes rigorous evaluation, waiting for a suitable donor, and post-operative care.</li>

@@ -8,10 +8,10 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Presión Arterial - Life's Essential 8™">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-presion-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-presion-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-blood-pressure-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-presion-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-presion-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-presion-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-blood-pressure-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-presion-es" />
 
   <?php include 'include/header.php' ?>
 

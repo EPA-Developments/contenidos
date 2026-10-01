@@ -10,12 +10,12 @@
     <meta property="og:title" content="Folic Acid for Stroke Prevention: Key Link" />
     <meta property="og:description" content="Explore how folic acid influences stroke prevention and brain health. Learn about its impact on reducing stroke risk factors." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-stroke" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-stroke" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-stroke" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-stroke" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Stroke",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-stroke"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-stroke"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Folic Acid in Preventing Stroke</h1>
 <p>Are you concerned about your risk of stroke and how it may impact your daily life? Let's explore the vital link between folic acid and stroke to understand how this essential nutrient plays a crucial role in preventing this serious health issue.</p>
 <h2 class="sec-scrl" id="ischemic-stroke">The Role of Folic Acid in Preventing Ischemic Stroke</h2>
-<p>Ischemic stroke occurs when a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> blocks an artery, cutting off blood flow to the brain. Folic acid, also known as folate, plays a key role in preventing these types of strokes by reducing the levels of homocysteine in the blood. Homocysteine is an amino acid that, when elevated, can increase the risk of blood clot formation and hinder proper blood circulation to the brain.</p>
+<p>Ischemic stroke occurs when a <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> blocks an artery, cutting off blood flow to the brain. Folic acid, also known as folate, plays a key role in preventing these types of strokes by reducing the levels of homocysteine in the blood. Homocysteine is an amino acid that, when elevated, can increase the risk of blood clot formation and hinder proper blood circulation to the brain.</p>
 <p>By ensuring an adequate intake of folic acid through diet or supplements, you can lower your homocysteine levels and promote better vascular health, reducing the chances of ischemic stroke.</p>
 <h2 class="sec-scrl" id="brain-health">Folic Acid and Maintaining Optimal Brain Health</h2>
 <p>How does folic acid contribute to brain health beyond stroke prevention? Folate is essential for the production of neurotransmitters that regulate mood, memory, and cognitive function. A deficiency in folic acid can lead to neurological issues, including poor concentration, memory problems, and even depression.</p>
@@ -150,7 +150,7 @@
 </ul>
 <p>By being mindful of your folate intake and making healthy food choices, you can support your overall well-being and reduce the risk of stroke and other related health issues.</p>
 <h2 class="sec-scrl" id="stroke-risk-factors">Identifying and Addressing Stroke Risk Factors</h2>
-<p>What are the common risk factors for stroke, and how does folic acid fit into the equation? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, smoking, and poor diet are all known contributors to an increased risk of stroke. Folic acid, with its ability to promote heart health, regulate blood pressure, and support healthy blood circulation, can play a significant role in mitigating these risk factors.</p>
+<p>What are the common risk factors for stroke, and how does folic acid fit into the equation? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, smoking, and poor diet are all known contributors to an increased risk of stroke. Folic acid, with its ability to promote heart health, regulate blood pressure, and support healthy blood circulation, can play a significant role in mitigating these risk factors.</p>
 <ul>
 <li>Maintaining a healthy blood pressure</li>
 <li>Managing diabetes through lifestyle and diet</li>

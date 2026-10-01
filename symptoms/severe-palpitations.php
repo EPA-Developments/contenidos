@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Severe Palpitations: Symptoms, Causes, and Treatment" >
   <meta property="og:description" content="Severe Palpitations Could Signal A Heart Issue. Read More About The Causes, Forms, Diagnosis, And Treatment Options For This Condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Severe Palpitations",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/severe-palpitations"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/severe-palpitations"  
       }]
     }
   </script>
@@ -187,24 +187,24 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Severe Palpitations: Symptoms, Causes, and Diagnosis</h1>
 <p>Severe palpitations refer to an intense sensation of feeling your heart beating rapidly, irregularly, forcefully, or fluttering in your chest. This condition can be alarming and uncomfortable, causing anxiety and distress.</p>
-<p>Symptoms of severe palpitations may include intense <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, strong heartbeats, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, racing pulse, heart fluttering, irregular heartbeats, and forceful heartbeats.</p>
+<p>Symptoms of severe palpitations may include intense <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, strong heartbeats, <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, racing pulse, heart fluttering, irregular heartbeats, and forceful heartbeats.</p>
 <h2 id="forms">What are the Forms of Severe palpitations?</h2>
 <p>Severe palpitations can manifest in various forms, each with its specific symptoms and characteristics.</p>
-<p>These forms include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> associated with arrhythmias, heart disease, anxiety or panic attacks, hormonal changes, stimulant use, or underlying medical conditions such as thyroid disorders or electrolyte imbalances.</p>
+<p>These forms include <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> associated with arrhythmias, heart disease, anxiety or panic attacks, hormonal changes, stimulant use, or underlying medical conditions such as thyroid disorders or electrolyte imbalances.</p>
 <p>Each form may present with different triggers and patterns of palpitations, requiring tailored approaches for diagnosis and treatment.</p>
 <h2 id="causes">What are the Causes of Severe palpitations?</h2>
 <p>The causes of severe palpitations can be multifactorial and may vary from person to person.</p>
 <p>Some common causes include excessive stress or anxiety, caffeine or stimulant intake, dehydration, anemia, hormonal changes, medication side effects, heart conditions like atrial fibrillation, or underlying medical conditions such as hyperthyroidism or electrolyte imbalances.</p>
 <p>Identifying the underlying cause of severe palpitations is crucial in determining the appropriate treatment and management plan.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Severe palpitations?</h2>
-<p>The diagnostic process for severe palpitations may involve a combination of medical history review, physical examination, <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), Holter monitor, event monitor, stress test, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, or electrophysiology studies.</p>
+<p>The diagnostic process for severe palpitations may involve a combination of medical history review, physical examination, <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), Holter monitor, event monitor, stress test, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, or electrophysiology studies.</p>
 <p>These tests help healthcare providers assess the heart's electrical activity, rhythm, and structure to identify any underlying arrhythmias or heart conditions contributing to severe palpitations.</p>
 <p>Advanced diagnostic methods may be necessary in complex cases to ensure accurate diagnosis and appropriate management.</p>
 <h2 id="treatment">What is the Treatment for Severe palpitations?</h2>
 <p>The treatment for severe palpitations depends on the underlying cause and severity of symptoms. Treatment options may include lifestyle modifications such as stress reduction techniques, avoiding triggers like caffeine or stimulants, maintaining hydration, and regular exercise.</p>
-<p>In some cases, medications like beta-blockers, antiarrhythmic drugs, or antianxiety medications may be prescribed to control palpitations. Advanced treatment approaches like <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> or implantable devices may be considered for refractory cases or severe arrhythmias.</p>
+<p>In some cases, medications like beta-blockers, antiarrhythmic drugs, or antianxiety medications may be prescribed to control palpitations. Advanced treatment approaches like <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> or implantable devices may be considered for refractory cases or severe arrhythmias.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is essential to seek medical attention if you experience severe palpitations accompanied by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, shortness of breath, or prolonged episodes of palpitations.</p>
+<p>It is essential to seek medical attention if you experience severe palpitations accompanied by <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, shortness of breath, or prolonged episodes of palpitations.</p>
 <p>If you have a history of heart disease, high blood pressure, diabetes, or other risk factors, it is advisable to consult a healthcare provider for evaluation and management of severe palpitations.</p>
 <p>Prompt medical assessment is crucial to rule out serious underlying conditions and prevent potential complications.</p>
 <h2>Home Remedies for Severe palpitations</h2>

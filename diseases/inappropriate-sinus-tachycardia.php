@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Inappropriate Sinus Tachycardia: Causes and Symptoms" >
   <meta property="og:description" content="Inappropriate sinus tachycardia leads to an abnormally fast heart rate. Read more on its causes, symptoms, and treatment for healthier heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/inappropriate-sinus-tachycardia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/inappropriate-sinus-tachycardia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/inappropriate-sinus-tachycardia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/inappropriate-sinus-tachycardia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Inappropriate Sinus Tachycardia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/inappropriate-sinus-tachycardia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/inappropriate-sinus-tachycardia"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Inappropriate Sinus Tachycardia</h1>
-<p>Inappropriate Sinus Tachycardia (IST) is a condition where the heart beats faster than normal at rest. This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue. While not life-threatening, IST can significantly impact a person's quality of life. It is more common in young to middle-aged women. If you experience a fast heart rate without a clear cause, it's essential to see a healthcare provider for evaluation and management. Early diagnosis and appropriate treatment can help improve symptoms and quality of life.</p>
+<p>Inappropriate Sinus Tachycardia (IST) is a condition where the heart beats faster than normal at rest. This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue. While not life-threatening, IST can significantly impact a person's quality of life. It is more common in young to middle-aged women. If you experience a fast heart rate without a clear cause, it's essential to see a healthcare provider for evaluation and management. Early diagnosis and appropriate treatment can help improve symptoms and quality of life.</p>
 <h2 id="causes">Causes of Inappropriate Sinus Tachycardia</h2>
 <p>Inappropriate Sinus Tachycardia can be influenced by various factors. Here are some key contributors:
 
@@ -179,8 +179,8 @@
 <ul>
 <li>Rapid heart rate (above 100 beats per minute at rest)</li>
 <li>Pounding heart or palpitations</li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
 <li>Chest discomfort or pain</li>
 </ul>
@@ -192,9 +192,9 @@ If you experience any of these symptoms, especially the combination of a fast he
 <ul>
 <li>Thorough medical history review</li>
 <li>Physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm</li>
 <li>24-hour Holter monitoring for continuous ECG recording</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Inappropriate Sinus Tachycardia</h2>
 <p>Inappropriate Sinus Tachycardia (IST) requires a tailored approach to treatment to address individual patient needs effectively. 
@@ -208,7 +208,7 @@ If you experience any of these symptoms, especially the combination of a fast he
 </ul>
 <h3>Cardiac Ablation</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a> is a procedure to correct faulty electrical signals in the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a> is a procedure to correct faulty electrical signals in the heart.</li>
 <li>It aims to modify the sinus node to regulate heart rate better.</li>
 <li>The main objective is to restore normal heart rate patterns.</li>
 <li>The procedure involves inserting catheters into the heart to ablate specific areas.</li>

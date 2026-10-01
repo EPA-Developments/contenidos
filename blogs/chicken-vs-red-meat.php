@@ -10,12 +10,12 @@
     <meta property="og:title" content="Chicken vs Red Meat: Heart Health Comparison" />
     <meta property="og:description" content=""Discover the best choice for heart health: Chicken vs red meat comparison for heart patients. Learn which is better for you!"" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/chicken-vs-red-meat" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/chicken-vs-red-meat" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/chicken-vs-red-meat" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/chicken-vs-red-meat" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Chicken Vs Red Meat",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/chicken-vs-red-meat"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/chicken-vs-red-meat"
         }
     ]
 }
@@ -145,7 +145,7 @@
 <li>Meat Substitutes: If you enjoy red meat, consider incorporating leaner cuts or plant-based protein sources as alternatives to reduce saturated fat intake.</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-levels">Managing Cholesterol Levels with Chicken and Red Meat</h2>
-<p>Cholesterol levels are a significant concern for individuals with heart disease. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> can lead to plaque buildup in the arteries, increasing the risk of heart attacks and strokes. Choosing the right meat can help manage cholesterol levels effectively.</p>
+<p>Cholesterol levels are a significant concern for individuals with heart disease. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> can lead to plaque buildup in the arteries, increasing the risk of heart attacks and strokes. Choosing the right meat can help manage cholesterol levels effectively.</p>
 <ul>
 <li>Chicken Benefits: Chicken is lower in cholesterol compared to many red meat options, making it a favorable choice for individuals monitoring their cholesterol intake.</li>
 <li>Healthy Choices: When selecting red meat, opt for lean cuts and trim visible fat to reduce cholesterol intake and support heart health.</li>

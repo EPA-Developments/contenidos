@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sinus Of Valsalva Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Sinus of Valsalva Aneurysm (SVA) is a rare, abnormal swelling in the aortic sinus. Know more about its causes, symptoms, and treatment for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sinus-of-valsalva-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sinus-of-valsalva-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sinus-of-valsalva-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sinus-of-valsalva-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Sinus Of Valsalva Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sinus-of-valsalva-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sinus-of-valsalva-aneurysm"
       }]
     }
   </script>
@@ -168,20 +168,20 @@
 <ul>
 <li>Weakening of the aortic wall</li>
 <li>Congenital heart defects</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (plaque buildup in arteries)</li>
-<li>Infections such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a></li>
-<li>Connective tissue disorders like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (plaque buildup in arteries)</li>
+<li>Infections such as <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a></li>
+<li>Connective tissue disorders like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a></li>
 <li>Trauma to the chest</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Sinus Of Valsalva Aneurysm</h2>
 <p>When it comes to Sinus of Valsalva Aneurysm, early recognition of symptoms plays a crucial role in improving outcomes. Identifying the signs promptly can lead to timely intervention and better management of the condition. Here are some symptoms to watch out for:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
 </ul>
 
 If you experience any of these symptoms, it's essential to seek medical attention promptly. Early detection can lead to appropriate treatment and better prognosis in cases of Sinus of Valsalva Aneurysm.</p>
@@ -189,7 +189,7 @@ If you experience any of these symptoms, it's essential to seek medical attentio
 <p>Diagnosing a Sinus of Valsalva Aneurysm is crucial for timely treatment and preventing potential complications. The diagnostic process typically involves a combination of medical history review, physical examination, and imaging tests. Accurate diagnosis is vital to determine the size, location, and severity of the aneurysm. Diagnostic methods may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the aneurysm and assess heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the aneurysm and assess heart function.</li>
 <li>Cardiac MRI or CT scans for detailed images of the heart and blood vessels.</li>
 <li>Angiography to evaluate blood flow and identify any abnormalities.</li>
 </ul></p>

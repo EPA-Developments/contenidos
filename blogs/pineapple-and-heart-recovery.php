@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pineapple for Heart Recovery: Benefits After Surgery&quot;" />
     <meta property="og:description" content="Explore how pineapple can enhance heart recovery post-surgery. Discover its potential benefits for cardiovascular healing." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-heart-recovery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-heart-recovery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-heart-recovery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-heart-recovery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pineapple And Heart Recovery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-heart-recovery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-heart-recovery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Can Pineapple Aid Heart Recovery Post Surgery?</h1>
-<p>Are you looking for natural ways to enhance your cardiovascular recovery post-surgery? The journey to healing after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> can be challenging, affecting your daily activities and overall well-being. Incorporating healing foods like pineapple into your recovery diet could potentially support your post-operative care and aid in heart repair. Let's explore the benefits of pineapple for heart recovery.</p>
+<p>Are you looking for natural ways to enhance your cardiovascular recovery post-surgery? The journey to healing after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> can be challenging, affecting your daily activities and overall well-being. Incorporating healing foods like pineapple into your recovery diet could potentially support your post-operative care and aid in heart repair. Let's explore the benefits of pineapple for heart recovery.</p>
 <h2 class="sec-scrl" id="benefits">What are the Benefits of Pineapple for Heart Recovery?</h2>
 <p>Pineapple is rich in bromelain, an enzyme known for its anti-inflammatory properties. This enzyme can help reduce inflammation in the body, which is crucial for post-surgery healing. Additionally, bromelain may assist in reducing swelling and pain, allowing you to move more comfortably as you recover from heart surgery.</p>
 <p>Incorporating pineapple into your diet can also provide a good dose of vitamin C, an essential nutrient that supports the immune system. A strong immune system is vital for fighting off infections during the post-surgery healing process, helping you recover more efficiently.</p>

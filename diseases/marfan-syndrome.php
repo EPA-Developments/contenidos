@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Marfan Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Marfan Syndrome affects connective tissue in the body. Read more about the causes, symptoms, and treatment for a healthier lifestyle." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Marfan Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome"
       }]
     }
   </script>
@@ -183,14 +183,14 @@
 <li>Flat feet</li>
 <li>Curvature of the spine (scoliosis)</li>
 <li>Eye issues, including myopia, detached retina, or dislocated lens</li>
-<li>Heart abnormalities, like <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-aneurysm">aortic aneurysm</a> or valve regurgitation</li>
+<li>Heart abnormalities, like <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-aneurysm">aortic aneurysm</a> or valve regurgitation</li>
 </ul></p>
 <h2>Diagnosis of Marfan Syndrome</h2>
 <p>Accurate diagnosis of Marfan Syndrome is crucial as it helps in early intervention and management to prevent complications. The diagnostic process involves a combination of clinical evaluation and genetic testing. Clinical features include assessing skeletal abnormalities, eye complications, and cardiovascular issues. Diagnostic methods for Marfan Syndrome include:
 
 <ul>
 <li>Thorough physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure</li>
 <li>Genetic testing to identify mutations in the FBN1 gene</li>
 <li>Eye examination to check for lens dislocation</li>
 </ul></p>
@@ -199,7 +199,7 @@
 
 <h3>Medication</h3>
 <ul>
-<li>Medication aims to manage cardiovascular symptoms and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>.</li>
+<li>Medication aims to manage cardiovascular symptoms and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>.</li>
 <li>It helps control blood pressure, reduce heart rate, and prevent blood vessel damage.</li>
 <li>The primary objective is to maintain cardiovascular health and reduce the strain on the aorta.</li>
 <li>Treatment may involve beta-blockers, angiotensin receptor blockers, or other medications tailored to the patient's needs.</li>
@@ -209,7 +209,7 @@
 <li>Surgical interventions are crucial for repairing aortic aneurysms or dissections to prevent life-threatening complications.</li>
 <li>Surgery aims to replace a weakened section of the aorta to prevent rupture.</li>
 <li>The primary objective is to improve aortic function and reduce the risk of dissection or rupture.</li>
-<li>Procedures may involve <a href="https://plataforma.epa-bienestar.com.ar/procedures/aortic-root-replacement">aortic root replacement</a>, valve-sparing surgery, or endovascular stent grafting.</li>
+<li>Procedures may involve <a href="https://contenidos.segundaopinionmedica.org/procedures/aortic-root-replacement">aortic root replacement</a>, valve-sparing surgery, or endovascular stent grafting.</li>
 </ul>
 <h3>Lifestyle Modifications</h3>
 <ul>

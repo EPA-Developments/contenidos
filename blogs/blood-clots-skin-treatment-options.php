@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Blood Clots on Skin & Treatment Options">
   <meta property="og:description" content="Learn about the formation of blood clots on the skin and effective treatment options. Discover how to manage a blood clot on skin for optimal healing.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-skin-treatment-options">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clots-skin-treatment-options">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-skin-treatment-options" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clots-skin-treatment-options" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Blood Clots On Skin & Treatment Options",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-skin-treatment-options"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clots-skin-treatment-options"  
       }]
     }
   </script>

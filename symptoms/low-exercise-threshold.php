@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Low Exercise Threshold: Symptoms, Causes, and Treatment - Expert Advice">
   <meta property="og:description" content="Struggling with low exercise threshold? Learn about the causes, symptoms, and treatments for this condition, including its link to heart disease and deconditioning. Find out when to seek help.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/low-exercise-threshold">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/low-exercise-threshold">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/low-exercise-threshold" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/low-exercise-threshold" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Low Exercise Threshold",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/low-exercise-threshold"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/low-exercise-threshold"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Low Exercise Threshold: Symptoms, Causes, and Treatment - Expert Advice</h1>
-<p>Low exercise threshold refers to the reduced ability to engage in physical activity without feeling exhaustion or experiencing symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or overall decreased stamina.</p>
+<p>Low exercise threshold refers to the reduced ability to engage in physical activity without feeling exhaustion or experiencing symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, or overall decreased stamina.</p>
 <p>This condition can significantly impact an individual's quality of life, making everyday tasks challenging and affecting overall well-being.</p>
 <p>Individuals with low exercise threshold may experience a range of symptoms, including reduced exercise tolerance, exhaustion with minimal activity, low stamina, shortness of breath with exertion, fatigue after little exercise, reduced physical capacity, and poor exercise endurance.</p>
 <p>These symptoms can vary in severity and may worsen over time if not addressed.</p>
@@ -205,7 +205,7 @@
 <p>Low exercise threshold can have various underlying causes, including:</p>
 <ul>
 <li>Heart disease: Conditions such as heart failure, coronary artery disease, or arrhythmias can impair the heart's ability to pump blood efficiently during physical activity, leading to fatigue and shortness of breath.</li>
-<li>Deconditioning: Prolonged physical inactivity or a sedentary lifestyle can result in muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, decreased cardiovascular fitness, and reduced exercise tolerance.</li>
+<li>Deconditioning: Prolonged physical inactivity or a sedentary lifestyle can result in muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, decreased cardiovascular fitness, and reduced exercise tolerance.</li>
 <li>Chronic conditions: Diseases such as chronic obstructive pulmonary disease (COPD), anemia, thyroid disorders, or diabetes can contribute to low exercise threshold.</li>
 <li>Obesity: Excess weight can put strain on the body, making physical activity more challenging and increasing fatigue.</li>
 <li>Medications: Certain medications, such as beta-blockers or sedatives, may have side effects that impact exercise capacity.</li>
@@ -217,7 +217,7 @@
 <li>Medical history: Your doctor will review your medical history, including any underlying conditions, medications, and lifestyle factors that may contribute to low exercise tolerance.</li>
 <li>Physical examination: A physical exam may help identify any physical signs of underlying health issues that could be causing low exercise threshold.</li>
 <li>Blood tests: Blood tests may be conducted to check for conditions such as anemia, thyroid disorders, or other metabolic abnormalities.</li>
-<li>Imaging tests: In some cases, imaging tests such as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) or <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> may be performed to assess heart function and structure.</li>
+<li>Imaging tests: In some cases, imaging tests such as an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) or <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> may be performed to assess heart function and structure.</li>
 <li>Exercise stress test: An exercise stress test may be recommended to evaluate how your heart and lungs respond to physical activity and identify any underlying cardiovascular issues.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Low exercise threshold?</h2>
@@ -233,9 +233,9 @@
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent symptoms of low exercise threshold, such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a> with minimal exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort during physical activity</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> with exercise</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a> with minimal exertion</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort during physical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> with exercise</li>
 <li>Unexplained fatigue or weakness that does not improve with rest</li>
 <li>Rapid or irregular heartbeat during physical activity</li>
 </ul>

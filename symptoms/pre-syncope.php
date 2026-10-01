@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pre-syncope Symptoms, Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Pre-syncope is a feeling before fainting. Know about its symptoms, causes, diagnosis, and treatment. Read more for helpful tips and better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/pre-syncope">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/pre-syncope">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/pre-syncope" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/pre-syncope" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pre-Syncope",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/pre-syncope"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/pre-syncope"  
       }]
     }
   </script>
@@ -186,16 +186,16 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Pre-syncope Symptoms, Causes and Treatment</h1>
-<p>Pre-<a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, also known as near-fainting, is a condition characterized by a feeling of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and the sensation of almost fainting.</p>
-<p>It is often described as a sudden and temporary <a href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">loss of consciousness</a> that can be alarming but usually resolves on its own without a complete loss of consciousness.</p>
-<p>Individuals experiencing pre-syncope may feel like they are about to collapse or faint, leading to a sense of impending fainting. This sensation can be accompanied by sweating, nausea, and a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>.</p>
+<p>Pre-<a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, also known as near-fainting, is a condition characterized by a feeling of <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and the sensation of almost fainting.</p>
+<p>It is often described as a sudden and temporary <a href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">loss of consciousness</a> that can be alarming but usually resolves on its own without a complete loss of consciousness.</p>
+<p>Individuals experiencing pre-syncope may feel like they are about to collapse or faint, leading to a sense of impending fainting. This sensation can be accompanied by sweating, nausea, and a <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>.</p>
 <p>Pre-syncope is different from syncope, which is a complete loss of consciousness.</p>
-<p>Some common symptoms of pre-syncope include dizziness, lightheadedness, weakness, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/feeling-faint">feeling faint</a>, pre-collapse, and impending fainting. These symptoms can vary in intensity and duration, depending on the underlying cause of pre-syncope.</p>
+<p>Some common symptoms of pre-syncope include dizziness, lightheadedness, weakness, <a href="https://contenidos.segundaopinionmedica.org/symptoms/feeling-faint">feeling faint</a>, pre-collapse, and impending fainting. These symptoms can vary in intensity and duration, depending on the underlying cause of pre-syncope.</p>
 <h2 id="forms">What are the Forms of Pre-syncope?</h2>
 <p>Pre-syncope can manifest in different forms, each with its specific symptoms and related concepts.</p>
 <ul>
 <li>Vasovagal syncope: This form of pre-syncope is caused by a sudden drop in blood pressure and heart rate, leading to a temporary loss of consciousness.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/orthostatic-hypotension">orthostatic hypotension</a>: This form occurs when a person's blood pressure drops significantly upon standing up, leading to dizziness and lightheadedness.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/orthostatic-hypotension">orthostatic hypotension</a>: This form occurs when a person's blood pressure drops significantly upon standing up, leading to dizziness and lightheadedness.</li>
 <li>Cardiac arrhythmias: Abnormal heart rhythms can cause pre-syncope symptoms such as palpitations, chest discomfort, and fainting spells.</li>
 </ul>
 <h2 id="causes">What are the Causes of Pre-syncope?</h2>

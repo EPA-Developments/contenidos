@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Situs Inversus Viscerum-Cardiopathy: Causes and Treatment" >
   <meta property="og:description" content="Situs inversus viscerum cardiopathy affects the heart’s position. Know more about symptoms, causes, and treatment for a healthier life." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/situs-inversus-viscerum-cardiopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/situs-inversus-viscerum-cardiopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/situs-inversus-viscerum-cardiopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/situs-inversus-viscerum-cardiopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Situs Inversus Viscerum-Cardiopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/situs-inversus-viscerum-cardiopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/situs-inversus-viscerum-cardiopathy"
       }]
     }
   </script>
@@ -183,7 +183,7 @@
 <ul>
 <li>Genetic Mutations: Genetic mutations affecting the development of organs during embryogenesis can result in Situs Inversus Viscerum-Cardiopathy. These mutations can disrupt the normal processes involved in organ positioning, leading to the mirror-image reversal seen in this condition.</li>
 <li>Ciliary Dyskinesia: Ciliary dyskinesia, a genetic disorder affecting cilia motility, can contribute to Situs Inversus Viscerum-Cardiopathy. Cilia play a crucial role in directing the movement of cells and fluids during organ development, and dysfunction in ciliary motility can disrupt normal organ positioning.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/heterotaxy-syndrome">heterotaxy syndrome</a>: Heterotaxy syndrome is a condition characterized by abnormalities in the arrangement of internal organs, often leading to Situs Inversus Viscerum-Cardiopathy. Individuals with heterotaxy syndrome may exhibit complex cardiac defects and abnormal organ positioning.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/heterotaxy-syndrome">heterotaxy syndrome</a>: Heterotaxy syndrome is a condition characterized by abnormalities in the arrangement of internal organs, often leading to Situs Inversus Viscerum-Cardiopathy. Individuals with heterotaxy syndrome may exhibit complex cardiac defects and abnormal organ positioning.</li>
 <li>Environmental Factors: Environmental factors such as exposure to toxins or certain medications during pregnancy can increase the risk of Situs Inversus Viscerum-Cardiopathy. These factors can interfere with normal embryonic development, impacting organ positioning and function.</li>
 </ul>
 <h2 id="symptoms">Secondary Causes:</h2>
@@ -201,7 +201,7 @@
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li>Cardiac Manifestations: Advanced-stage symptoms of Situs Inversus Viscerum-Cardiopathy may include more pronounced cardiac manifestations such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. These symptoms can significantly impact physical well-being and may require medical attention for proper management.</li>
+<li>Cardiac Manifestations: Advanced-stage symptoms of Situs Inversus Viscerum-Cardiopathy may include more pronounced cardiac manifestations such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. These symptoms can significantly impact physical well-being and may require medical attention for proper management.</li>
 <li>Complications: In severe cases of Situs Inversus Viscerum-Cardiopathy, individuals may develop complications such as heart failure, arrhythmias, or thromboembolic events. These complications pose serious health risks and necessitate prompt intervention to prevent adverse outcomes.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Situs Inversus Viscerum-Cardiopathy</h2>
@@ -209,7 +209,7 @@
 <p>Each diagnostic test plays a crucial role in establishing an accurate diagnosis and guiding appropriate treatment strategies.</p>
 <ul>
 <li> Chest X-ray: Chest X-rays are commonly used to visualize the positioning of internal organs, including the heart, lungs, and diaphragm. In Situs Inversus Viscerum-Cardiopathy, a chest X-ray may reveal the mirror-image reversal of organ positions, providing valuable diagnostic information.</li>
-<li> <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: Echocardiography, or cardiac ultrasound, is essential for assessing the structure and function of the heart in individuals with Situs Inversus Viscerum-Cardiopathy. This test helps identify any cardiac abnormalities associated with the condition and guides treatment decisions.</li>
+<li> <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: Echocardiography, or cardiac ultrasound, is essential for assessing the structure and function of the heart in individuals with Situs Inversus Viscerum-Cardiopathy. This test helps identify any cardiac abnormalities associated with the condition and guides treatment decisions.</li>
 <li> CT Scan or MRI: Computed tomography (CT) scans or magnetic resonance imaging (MRI) scans may be used to obtain detailed images of the thoracic and abdominal organs in Situs Inversus V</li>
 </ul>
 <h2>Treatment Options for Situs Inversus Viscerum-Cardiopathy:</h2>
@@ -217,8 +217,8 @@
 <p>Medications:</p>
 <p>For Arrhythmias: Beta-blockers or anti-arrhythmic medications.</p>
 <p>For heart failure: ace inhibitors, diuretics, or other heart failure medications</p>
-<p>Pacemaker/ICD: for life threatening arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>.</p>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> Prophylaxis: Antibiotics used during dental or surgical procedures to prevent infection in patients with heart defects.</p>
+<p>Pacemaker/ICD: for life threatening arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> Prophylaxis: Antibiotics used during dental or surgical procedures to prevent infection in patients with heart defects.</p>
 <p>Further Updates: Lifestyle Changes: A nutritious diet, consistent exercise, and avoiding tobacco/alcohol.</p>
 <p>Genetic Counseling :This may be necessary, for family planning purposes, because situs inversus is a condition that can have some genetic basis.</p>
 <p>Emergency Preparedness: Ensuring that patients and providers are aware of the organ orientation with respect to reversed side in order to prevent diagnostic/treatment errors in cases requiring view of the reversed sided organs in a lot of patients during emergency.</p>

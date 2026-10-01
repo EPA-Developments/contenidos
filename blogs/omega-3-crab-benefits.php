@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Crab Omega 3 Benefits for Heart Health&quot;" />
     <meta property="og:description" content="Discover the heart-healthy benefits of Omega from crab, including essential fatty acids and anti-inflammatory properties for optimal cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-crab-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/omega-3-crab-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/omega-3-crab-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/omega-3-crab-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Omega 3 Crab Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/omega-3-crab-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/omega-3-crab-benefits"
         }
     ]
 }
@@ -141,14 +141,14 @@
 <p>Incorporating omega-3 from crab into your diet is essential for maintaining optimal cardiovascular health. These heart-healthy fats work to protect the heart muscle, reduce the risk of heart disease, and promote overall heart wellness. By including crab rich in omega-3 in your meals, you can significantly improve your cardiovascular health and reduce the likelihood of heart-related issues.</p>
 <ul>
 <li>Omega-3 fatty acids support the flexibility of blood vessels, ensuring smooth blood circulation.</li>
-<li>These fats help prevent the hardening of arteries, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</li>
+<li>These fats help prevent the hardening of arteries, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</li>
 <li>Omega-3 from crab can also aid in lowering LDL cholesterol levels, known as the "bad" cholesterol.</li>
 </ul>
 <h2 class="sec-scrl" id="blood-pressure">Can Omega 3 from Crab Help Regulate Blood Pressure?</h2>
-<p>Maintaining healthy blood pressure is vital for overall heart health. Omega-3 fatty acids from crab have been shown to have a positive impact on blood pressure levels. By including omega-3-rich crab in your diet, you can potentially lower your blood pressure, reduce strain on your heart, and decrease the risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Maintaining healthy blood pressure is vital for overall heart health. Omega-3 fatty acids from crab have been shown to have a positive impact on blood pressure levels. By including omega-3-rich crab in your diet, you can potentially lower your blood pressure, reduce strain on your heart, and decrease the risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <ul>
 <li>Omega-3 fats help relax blood vessels, promoting better blood flow and lowering blood pressure.</li>
-<li>These fats can reduce inflammation in the body, which is often linked to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</li>
+<li>These fats can reduce inflammation in the body, which is often linked to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</li>
 <li>Omega-3 from crab may help prevent plaque buildup in the arteries, supporting healthy blood pressure levels.</li>
 </ul>
 <h2 class="sec-scrl" id="seafood-fats">What are the Anti-Inflammatory Properties of Omega 3 from Crab?</h2>

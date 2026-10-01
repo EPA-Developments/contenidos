@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonary Artery Angioplasty: Procedure, Benefits, Risks, Recovery">
   <meta property="og:description" content="Learn about pulmonary artery angioplasty, a procedure to treat blockages in the pulmonary artery. Discover its benefits, risks, indications, and recovery process.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-artery-angioplasty">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-artery-angioplasty">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-artery-angioplasty" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-artery-angioplasty" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary artery angioplasty",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-artery-angioplasty"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/pulmonary-artery-angioplasty"  
       }]
     }
   </script>

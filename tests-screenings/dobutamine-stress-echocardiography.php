@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range and Costs of Dobutamine Stress Echocardiography" property="og:title"/>
 <meta content="Dobutamine stress echocardiography tests heart function under stress. Know more about the purpose, costs, and normal Range for effective heart care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/dobutamine-stress-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/dobutamine-stress-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/dobutamine-stress-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/dobutamine-stress-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dobutamine Stress Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/dobutamine-stress-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/dobutamine-stress-echocardiography"  
       }]
     }
   </script>
@@ -156,12 +156,12 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range and Values of Dobutamine Stress Echocardiography</h1>
-<p>Dobutamine Stress <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a diagnostic test used to evaluate heart function under stress.</p>
-<p>This test involves the infusion of dobutamine, a medication that mimics the effects of exercise on the heart, while an <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> is performed to assess the heart's response to stress.</p>
+<p>Dobutamine Stress <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a diagnostic test used to evaluate heart function under stress.</p>
+<p>This test involves the infusion of dobutamine, a medication that mimics the effects of exercise on the heart, while an <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> is performed to assess the heart's response to stress.</p>
 <p>During the test, a small intravenous line is inserted into the patient's arm to deliver dobutamine. As the medication is administered, the heart rate and blood pressure increase, simulating the effects of physical exertion.</p>
 <p>The echocardiogram uses sound waves to create images of the heart's chambers, valves, and blood flow patterns, allowing healthcare providers to assess the heart's function and detect any abnormalities.</p>
 <p>Dobutamine Stress Echocardiography is particularly useful for patients who are unable to perform traditional exercise stress tests due to physical limitations. It can provide valuable information about the presence of coronary artery disease, heart valve abnormalities, and overall cardiac function.</p>
-<p>Examples of scenarios where Dobutamine Stress Echocardiography may be used include evaluating <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, unexplained fatigue, or assessing the effectiveness of treatment for heart conditions.</p>
+<p>Examples of scenarios where Dobutamine Stress Echocardiography may be used include evaluating <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, unexplained fatigue, or assessing the effectiveness of treatment for heart conditions.</p>
 <p>This test can help healthcare providers make informed decisions about further diagnostic testing or treatment options for patients with suspected heart disease.</p>
 <h2 id="purpose">What is the Purpose of Performing a Dobutamine Stress Echocardiography Test?</h2>
 <p>The primary purpose of performing a Dobutamine Stress Echocardiography test is to evaluate the heart's response to stress and assess its function under simulated conditions of increased workload.</p>

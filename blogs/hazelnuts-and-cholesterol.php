@@ -10,12 +10,12 @@
     <meta property="og:title" content="Hazelnuts for Cholesterol: A Heart-Healthy Choice" />
     <meta property="og:description" content="Explore how hazelnuts impact cholesterol levels. Learn about HDL and LDL cholesterol, heart-healthy diets, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hazelnuts And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hazelnuts-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hazelnuts-and-cholesterol"
         }
     ]
 }
@@ -140,7 +140,7 @@
 <h2 class="sec-scrl" id="hdl-cholesterol">The Role of HDL Cholesterol</h2>
 <p>HDL cholesterol, often referred to as "good" cholesterol, plays a crucial role in your heart health. Consuming hazelnuts can help boost your HDL cholesterol levels, which can reduce the risk of heart disease and improve your overall cardiovascular health. By including hazelnuts in your heart health diet, you can support the functions of HDL cholesterol and lower the risk of developing cardiovascular complications.</p>
 <h2 class="sec-scrl" id="ldl-cholesterol">Understanding LDL Cholesterol</h2>
-<p>LDL cholesterol, also known as "bad" cholesterol, can contribute to the buildup of plaque in your arteries, increasing the risk of heart disease. Hazelnuts, with their monounsaturated fats, can help lower LDL cholesterol levels, preventing the formation of plaque and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Incorporating hazelnuts as part of a cholesterol-lowering diet can have significant benefits for your heart health.</p>
+<p>LDL cholesterol, also known as "bad" cholesterol, can contribute to the buildup of plaque in your arteries, increasing the risk of heart disease. Hazelnuts, with their monounsaturated fats, can help lower LDL cholesterol levels, preventing the formation of plaque and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Incorporating hazelnuts as part of a cholesterol-lowering diet can have significant benefits for your heart health.</p>
 <h2 class="sec-scrl" id="heart-health-diet">Crafting a Heart Health Diet</h2>
 <p>Building a heart-healthy diet involves making smart food choices that support your cardiovascular health. Including hazelnuts in your daily meals can be a simple yet effective way to enhance the nutritional quality of your diet. By combining hazelnuts with other cholesterol-lowering foods, such as fruits, vegetables, and whole grains, you can create a well-rounded heart health diet that promotes overall well-being.</p>
 <ul>

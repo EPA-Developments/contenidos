@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Vein Blockage Surgery: Treatments & Procedures" />
     <meta property="og:description" content="Explore surgical treatments for vein blockages in the heart - effective solutions for coronary vein obstruction, heart vein symptoms, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vein-blockage-in-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vein-blockage-in-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vein-blockage-in-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vein-blockage-in-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vein Blockage In Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vein-blockage-in-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vein-blockage-in-heart"
         }
     ]
 }
@@ -169,23 +169,23 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Surgical Solutions for Heart Vein Blockages</h1>
-<p>Are you struggling with symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue that hinder your daily activities? These could be signs of vein blockage in the heart, a condition that requires prompt attention to prevent further complications.</p>
+<p>Are you struggling with symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue that hinder your daily activities? These could be signs of vein blockage in the heart, a condition that requires prompt attention to prevent further complications.</p>
 <h2 class="sec-scrl" id="heart-vein-obstruction">Heart Vein Obstruction</h2>
 <p>Heart vein obstruction, also known as coronary vein blockage, occurs when the blood vessels that supply oxygen-rich blood to the heart muscle become narrowed or blocked. This can lead to a variety of symptoms and may increase the risk of serious heart conditions such as heart attacks or heart failure.</p>
 <p>Common symptoms of heart vein obstruction include:</p>
 <ul>
-<li>Chest pain or discomfort (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>)</li>
+<li>Chest pain or discomfort (<a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>)</li>
 <li>Shortness of breath</li>
 <li>Fatigue</li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul>
 <h2 class="sec-scrl" id="vein-blockage-symptoms">Vein Blockage Symptoms</h2>
 <p>Recognizing the symptoms of vein blockage in the heart is crucial for early diagnosis and treatment. Apart from chest pain and shortness of breath, other symptoms may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Sweating</li>
 <li>Nausea</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 </ul>
 <p>If you experience any of these symptoms, especially during physical activity or times of stress, it's essential to consult a healthcare provider for further evaluation and management.</p>
 <h2 class="sec-scrl" id="coronary-vein-blockage">Coronary Vein Blockage</h2>
@@ -195,7 +195,7 @@
 <p>When conservative measures are insufficient to address vein blockage in the heart, surgical treatments may be recommended. These procedures aim to clear the blockages and improve blood flow to the heart muscle, reducing symptoms and lowering the risk of complications.</p>
 <p>Common surgical treatments for vein blockages in the heart include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>: A procedure to widen narrowed or blocked coronary arteries using a small inflatable balloon</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>: A procedure to widen narrowed or blocked coronary arteries using a small inflatable balloon</li>
 <li>Stent placement: Inserting a small mesh tube (stent) to help keep the artery open and improve blood flow</li>
 <li>Coronary artery bypass grafting (CABG): A surgery to create new routes for blood flow to bypass blocked coronary arteries</li>
 </ul>

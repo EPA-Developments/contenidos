@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Structural Heart Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Structural Heart Disease affects heart structure, leading to complications. Know more about causes, symptoms, and treatments for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Structural Heart Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Structural Heart Disease</h1>
-<p>Structural Heart Disease involves abnormalities in the heart's structure, such as valves, walls, or chambers. It's crucial because these issues can affect how the heart functions, leading to serious health problems. It's more common than you might think, affecting millions of people worldwide. Understanding this condition is vital for early detection and treatment. If you or a loved one have symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, consulting a healthcare provider is essential for proper evaluation and management.</p>
+<p>Structural Heart Disease involves abnormalities in the heart's structure, such as valves, walls, or chambers. It's crucial because these issues can affect how the heart functions, leading to serious health problems. It's more common than you might think, affecting millions of people worldwide. Understanding this condition is vital for early detection and treatment. If you or a loved one have symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fatigue, consulting a healthcare provider is essential for proper evaluation and management.</p>
 <h2 id="causes">Causes of Structural Heart Disease</h2>
 <p>Structural heart disease can develop due to various factors. These include congenital heart defects present at birth, age-related changes causing heart valves to degenerate, history of heart attacks damaging the heart muscle, infections affecting the heart valves, and other underlying heart conditions. Lifestyle factors like smoking, poor diet, lack of exercise, and obesity can also contribute to its development. Understanding these factors can help in early detection and management of structural heart disease. 
 
@@ -179,16 +179,16 @@
 <ul>
 <li>Shortness of breath</li>
 <li>Chest pain or tightness</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> (<a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>)</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> (<a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 <li>Swelling in the legs or abdomen</li>
 </ul></p>
 <h2>Diagnosis of Structural Heart Disease</h2>
 <p>Accurate diagnosis of Structural Heart Disease is crucial for determining appropriate treatment and improving patient outcomes. The diagnostic process typically involves a combination of medical history review, physical examination, and various tests. These tests may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
 <li>Cardiac MRI or CT scans for detailed imaging</li>
 <li>Electrocardiogram (ECG) to evaluate heart rhythm</li>
 <li>Cardiac catheterization for pressure measurements</li>

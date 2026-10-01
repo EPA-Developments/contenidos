@@ -10,12 +10,12 @@
     <meta property="og:title" content="Triglycerides and Stroke Risk: What You Need to Know" />
     <meta property="og:description" content="Learn how triglycerides impact stroke risk and prevention. Discover key insights on blood clots, brain health, and more." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-stroke" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-stroke" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-stroke" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-stroke" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Triglycerides And Stroke",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/triglycerides-and-stroke"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/triglycerides-and-stroke"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about the link between triglycerides and stroke? How does this connection impact your daily life and overall health?</p>
 <p>Triglycerides, a type of fat found in your blood, play a crucial role in your body's energy production. However, elevated levels of triglycerides can significantly increase your risk of stroke, a serious medical condition that can have long-lasting consequences. Understanding how triglycerides influence stroke risk is essential for taking proactive steps to protect your brain health and overall well-being.</p>
 <h2 class="sec-scrl" id="blood-clots">Blood Clots</h2>
-<p>High levels of triglycerides can contribute to the formation of blood clots, which are a major risk factor for stroke. When blood clots form in the arteries supplying blood to the brain, they can block the flow of blood and oxygen, leading to a stroke. By managing your triglyceride levels, you can reduce the likelihood of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> formation and lower your risk of experiencing a stroke.</p>
+<p>High levels of triglycerides can contribute to the formation of blood clots, which are a major risk factor for stroke. When blood clots form in the arteries supplying blood to the brain, they can block the flow of blood and oxygen, leading to a stroke. By managing your triglyceride levels, you can reduce the likelihood of <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> formation and lower your risk of experiencing a stroke.</p>
 <p>Here are some tips to help prevent blood clot formation:</p>
 <ul>
 <li>Follow a healthy diet low in saturated fats and sugars</li>
@@ -163,7 +163,7 @@
 <p>Here are some ways to reduce the risk of aneurysms:</p>
 <ul>
 <li>Quit smoking, as tobacco use is a significant risk factor for aneurysm development</li>
-<li>Monitor and control conditions like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and diabetes that can contribute to aneurysm formation</li>
+<li>Monitor and control conditions like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and diabetes that can contribute to aneurysm formation</li>
 <li>Seek prompt medical evaluation if you experience symptoms such as severe headaches, vision changes, or neurological deficits</li>
 <li>Discuss any family history of aneurysms with your healthcare provider to determine your personal risk</li>
 </ul>

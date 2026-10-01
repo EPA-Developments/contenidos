@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Angina Life Expectancy and Management">
   <meta property="og:description" content="Learn how angina life expectancy is impacted and strategies to manage it. Discover tips to improve quality of life and longevity with angina.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/angina-life-expectancy-management">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/angina-life-expectancy-management">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/angina-life-expectancy-management" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/angina-life-expectancy-management" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding Angina Life Expectancy And Management",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/angina-life-expectancy-management"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/angina-life-expectancy-management"  
       }]
     }
   </script>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Folic Acid for Heart Surgery Recovery&quot;" />
     <meta property="og:description" content="Discover how folic acid enhances post-heart surgery recovery for better healing and cardiovascular rehabilitation." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-heart-surgery" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-heart-surgery" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-heart-surgery" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-heart-surgery" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Folic Acid And Heart Surgery",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/folic-acid-and-heart-surgery"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/folic-acid-and-heart-surgery"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Folic Acid for Heart Surgery Recovery</h1>
-<p>Are you wondering how folic acid can support your recovery after <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>? Dealing with the aftermath of heart surgery can be challenging, impacting your daily activities and overall well-being. One crucial aspect of your recovery process is understanding the role of folic acid in promoting healing and enhancing cardiovascular rehabilitation. Let's explore the benefits of incorporating folic acid-rich foods into your diet to aid in tissue repair and boost heart health after surgery.</p>
+<p>Are you wondering how folic acid can support your recovery after <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>? Dealing with the aftermath of heart surgery can be challenging, impacting your daily activities and overall well-being. One crucial aspect of your recovery process is understanding the role of folic acid in promoting healing and enhancing cardiovascular rehabilitation. Let's explore the benefits of incorporating folic acid-rich foods into your diet to aid in tissue repair and boost heart health after surgery.</p>
 <h2 class="sec-scrl" id="folic-acid-and-heart-surgery">Folic Acid and Heart Surgery</h2>
 <p>After undergoing heart surgery, your body requires adequate nutrients to support the healing process. Folic acid, also known as folate, plays a vital role in promoting wound healing and tissue repair. This essential B vitamin is crucial for DNA synthesis and cell division, making it indispensable for overall health and well-being.</p>
 <p>Individuals who have undergone heart surgery may benefit from supplementing their diet with folic acid to aid in cardiovascular recovery. Folate-rich foods such as leafy greens, citrus fruits, and legumes can provide the necessary nutrients to support the healing of tissues and enhance heart health post-surgery.</p>

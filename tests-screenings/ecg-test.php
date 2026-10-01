@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, Normal Range and values of an ECG test" property="og:title"/>
 <meta content="ECG test records heart electrical activity. Read more to know its purpose, costs, and normal Range for better heart health monitoring." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/ecg-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/ecg-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/ecg-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/ecg-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "ECG Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/ecg-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/ecg-test"  
       }]
     }
   </script>
@@ -156,17 +156,17 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range and values and Costs of an ECG Test</h1>
-<p>An ECG test, also known as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a>, is a diagnostic test that records the electrical activity of the heart over a period of time.</p>
+<p>An ECG test, also known as an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a>, is a diagnostic test that records the electrical activity of the heart over a period of time.</p>
 <p>This non-invasive test is commonly used to detect and diagnose various heart conditions by measuring the electrical impulses that control heart rhythm.</p>
 <p>During an ECG test, electrodes are placed on the skin of the chest, arms, and legs, which detect the electrical signals produced by the heart.</p>
 <p>These signals are then recorded on a graph, showing the rhythm and electrical activity of the heart.</p>
-<p>ECG tests are often used to diagnose arrhythmias, such as atrial fibrillation or ventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, by detecting irregular heart rhythms. They can also help assess the effects of heart disease or monitor the effectiveness of certain heart medications.</p>
-<p>In addition to diagnosing heart conditions, ECG tests can also be used in emergency situations, such as during a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, to quickly assess the heart's electrical activity and determine the appropriate course of treatment.</p>
+<p>ECG tests are often used to diagnose arrhythmias, such as atrial fibrillation or ventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, by detecting irregular heart rhythms. They can also help assess the effects of heart disease or monitor the effectiveness of certain heart medications.</p>
+<p>In addition to diagnosing heart conditions, ECG tests can also be used in emergency situations, such as during a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, to quickly assess the heart's electrical activity and determine the appropriate course of treatment.</p>
 <h2 id="purpose">What is the Purpose of Performing an ECG Test?</h2>
 <p>The primary purpose of performing an ECG test is to assess the heart's electrical activity and diagnose various heart conditions.</p>
 <p>By analyzing the patterns and rhythms of the heart's electrical signals, healthcare providers can identify abnormalities that may indicate underlying heart problems.</p>
 <p>ECG tests are also useful in monitoring the effectiveness of heart medications, evaluating the impact of lifestyle changes on heart health, and assessing the risk of future heart-related events.</p>
-<p>Furthermore, ECG tests play a crucial role in screening for heart disease, especially in individuals with risk factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a family history of heart problems.</p>
+<p>Furthermore, ECG tests play a crucial role in screening for heart disease, especially in individuals with risk factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, or a family history of heart problems.</p>
 <p>Early detection of heart conditions through ECG testing can lead to timely interventions and improved outcomes.</p>
 <h2 id="costs">What are the Costs of ECG Test Tests in Americas?</h2>
 <p>The cost of an ECG test in Americas can vary depending on several factors, including the location of the healthcare facility, the type of ECG test performed, and any additional services or consultations required.</p>

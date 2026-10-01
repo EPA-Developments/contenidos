@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Allogeneic Stem Cell Transplant: Procedure for Heart Disease & Bone Marrow">
   <meta property="og:description" content="Learn about the allogeneic stem cell transplant procedure, a type of stem cell therapy used for heart disease and bone marrow transplants.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/allogeneic-stem-cell-transplant">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/allogeneic-stem-cell-transplant">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/allogeneic-stem-cell-transplant" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/allogeneic-stem-cell-transplant" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Allogeneic Stem Cell Transplant",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/allogeneic-stem-cell-transplant"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/allogeneic-stem-cell-transplant"  
       }]
     }
   </script>

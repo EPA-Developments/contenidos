@@ -10,12 +10,12 @@
     <meta property="og:title" content="Rosemary Oil for Heart Disease Risk" />
     <meta property="og:description" content="Discover the potential of Rosemary Oil in reducing heart disease risk. Explore its benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-and-heart-disease-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-and-heart-disease-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-and-heart-disease-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-and-heart-disease-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Rosemary Oil And Heart Disease Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/rosemary-oil-and-heart-disease-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/rosemary-oil-and-heart-disease-risk"
         }
     ]
 }
@@ -139,7 +139,7 @@
 </ul>
 <p>By incorporating Rosemary Oil into your daily routine, you could potentially support your cardiovascular system and reduce the risk of heart-related complications.</p>
 <h2 class="sec-scrl" id="rosemary-for-cholesterol">Is Rosemary Oil Effective in Lowering Cholesterol Levels?</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. Rosemary Oil may offer a natural solution to help manage cholesterol levels due to the following reasons:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a significant risk factor for heart disease. Rosemary Oil may offer a natural solution to help manage cholesterol levels due to the following reasons:</p>
 <ul>
 <li>Contains compounds that may inhibit cholesterol absorption in the intestines.</li>
 <li>May stimulate the production of bile, aiding in the breakdown of cholesterol.</li>

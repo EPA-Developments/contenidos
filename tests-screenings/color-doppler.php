@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Color Doppler: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Color Doppler helps visualize blood flow in the heart and vessels. Read more about its purpose, costs, and normal Range to assess heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/color-doppler" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/color-doppler" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/color-doppler" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/color-doppler" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Color Doppler",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/color-doppler"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/color-doppler"  
       }]
     }
   </script>
@@ -165,7 +165,7 @@
 <p>Related concepts to Color Doppler include pulsed-wave Doppler, which measures blood flow velocity at a specific point, and continuous-wave Doppler, which provides information on blood flow throughout a vessel.</p>
 <p>These techniques, combined with Color Doppler imaging, offer a comprehensive view of blood flow in the body.</p>
 <h2 id="purpose">What is the Purpose of Performing a Color Doppler Test?</h2>
-<p>The primary purpose of performing a <a href="https://plataforma.epa-bienestar.com.ar/tests-screenings/color-doppler-test">color doppler test</a> is to assess blood flow in vessels and diagnose cardiovascular diseases.</p>
+<p>The primary purpose of performing a <a href="https://contenidos.segundaopinionmedica.org/tests-screenings/color-doppler-test">color doppler test</a> is to assess blood flow in vessels and diagnose cardiovascular diseases.</p>
 <p>By using this non-invasive imaging technique, healthcare providers can evaluate the function of the heart and detect abnormalities in blood flow patterns.</p>
 <p>Some specific benefits of Color Doppler ultrasound include:</p>
 <ul>
@@ -175,7 +175,7 @@
 <li>Detecting blood clots: Color Doppler can identify the presence of blood clots in vessels, which can be life-threatening if left untreated.</li>
 <li>Non-invasive vascular assessment: Color Doppler provides a safe and non-invasive way to evaluate blood flow in arteries and veins, helping in the early detection of vascular diseases.</li>
 </ul>
-<p>Color Doppler is particularly useful in scenarios where patients present with symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, or swelling in the extremities.</p>
+<p>Color Doppler is particularly useful in scenarios where patients present with symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, or swelling in the extremities.</p>
 <p>By performing a Color Doppler test, healthcare providers can quickly assess blood flow and identify any underlying issues that may be causing these symptoms.</p>
 <h2 id="costs">What are the Costs of Color Doppler Tests in Americas?</h2>
 <p>The costs of Color Doppler tests in Americas can vary depending on various factors such as the location of the healthcare facility, the expertise of the healthcare provider, and the specific type of Color Doppler test being performed.</p>

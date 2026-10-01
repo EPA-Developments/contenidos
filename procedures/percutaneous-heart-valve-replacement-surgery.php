@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Percutaneous Heart Valve Replacement Surgery: Minimally Invasive Option">
   <meta property="og:description" content="Discover the benefits of Percutaneous Heart Valve Replacement Surgery, a minimally invasive alternative to traditional heart valve replacement surgery. Learn about percutaneous valve implant and non-surgical options.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-heart-valve-replacement-surgery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-heart-valve-replacement-surgery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-heart-valve-replacement-surgery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-heart-valve-replacement-surgery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Percutaneous Heart Valve Replacement Surgery",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-heart-valve-replacement-surgery"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/percutaneous-heart-valve-replacement-surgery"  
       }]
     }
   </script>

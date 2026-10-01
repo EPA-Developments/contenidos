@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Costs and Purpose of Long Qt Syndrome Genetic Testing" property="og:title"/>
 <meta content="Long QT syndrome genetic testing detects heart rhythm disorders. Read more about its purpose, costs, and normal Range for better results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/long-qt-syndrome-genetic-testing" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/long-qt-syndrome-genetic-testing" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/long-qt-syndrome-genetic-testing" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/long-qt-syndrome-genetic-testing" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Long QT Syndrome Genetic Testing",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/long-qt-syndrome-genetic-testing"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/long-qt-syndrome-genetic-testing"  
       }]
     }
   </script>
@@ -156,9 +156,9 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Purpose and Costs of Long Qt Syndrome Genetic Testing</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/long-qt-syndrome">long qt syndrome</a> genetic testing is a diagnostic test that helps identify specific genetic mutations associated with Long QT syndrome, an inherited heart rhythm disorder.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/long-qt-syndrome">long qt syndrome</a> genetic testing is a diagnostic test that helps identify specific genetic mutations associated with Long QT syndrome, an inherited heart rhythm disorder.</p>
 <p>This test analyzes an individual's DNA to detect mutations in genes that play a role in regulating the electrical activity of the heart.</p>
-<p>Long QT syndrome is a condition that affects the heart's electrical system, leading to a prolonged QT interval on an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG). This abnormality can predispose individuals to dangerous arrhythmias, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, and sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>.</p>
+<p>Long QT syndrome is a condition that affects the heart's electrical system, leading to a prolonged QT interval on an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG). This abnormality can predispose individuals to dangerous arrhythmias, <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, and sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>.</p>
 <p>Genetic testing for Long QT syndrome can provide valuable information about an individual's risk of developing these life-threatening events.</p>
 <p>Examples of genes commonly associated with Long QT syndrome include KCNQ1, KCNH2, and SCN5A. Mutations in these genes can disrupt the normal function of ion channels in the heart, leading to abnormal heart rhythms.</p>
 <p>By identifying these genetic mutations through testing, healthcare providers can better understand a patient's risk profile and tailor treatment strategies accordingly.</p>

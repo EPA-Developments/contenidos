@@ -10,12 +10,12 @@
     <meta property="og:title" content="Coriander Benefits for Heart Health" />
     <meta property="og:description" content="Discover the benefits of coriander for heart health and cardiovascular wellness. Boost your heart health naturally with coriander." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/coriander-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/coriander-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/coriander-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/coriander-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Coriander Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/coriander-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/coriander-heart-benefits"
         }
     ]
 }
@@ -145,11 +145,11 @@
 <p>Chronic inflammation is a significant risk factor for cardiovascular disease. Coriander contains compounds that have anti-inflammatory effects, helping to reduce inflammation throughout the body, including the cardiovascular system. By consuming coriander regularly, you may lower your risk of developing heart-related inflammatory conditions.</p>
 <p>Furthermore, coriander's anti-inflammatory properties can also benefit individuals with existing heart conditions by potentially reducing inflammation in the arteries and improving overall heart function.</p>
 <h2 class="sec-scrl" id="cholesterol">Coriander and Cholesterol Management</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels are a known risk factor for heart disease. Research suggests that coriander may help lower LDL cholesterol levels, which can contribute to plaque buildup in the arteries. By incorporating coriander into your diet, you may support healthy cholesterol levels and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular complications.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels are a known risk factor for heart disease. Research suggests that coriander may help lower LDL cholesterol levels, which can contribute to plaque buildup in the arteries. By incorporating coriander into your diet, you may support healthy cholesterol levels and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular complications.</p>
 <p>Moreover, coriander's cholesterol-lowering effects are attributed to its fiber content and unique compounds that aid in lipid metabolism. This herb can be a valuable addition to a heart-healthy diet focused on managing cholesterol levels and promoting overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="blood-pressure">Coriander's Impact on Blood Pressure</h2>
 <p>Maintaining optimal blood pressure is essential for heart health. Coriander contains potassium, a mineral known for its role in regulating blood pressure and supporting proper heart function. By including coriander in your meals, you can increase your potassium intake and help keep your blood pressure within a healthy range.</p>
-<p>In addition to potassium, coriander's antioxidant and anti-inflammatory properties contribute to its overall cardiovascular benefits by protecting the heart and blood vessels from damage associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>In addition to potassium, coriander's antioxidant and anti-inflammatory properties contribute to its overall cardiovascular benefits by protecting the heart and blood vessels from damage associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Incorporating coriander into your diet can offer a range of cardiovascular benefits, including antioxidant protection, inflammation reduction, cholesterol management, and blood pressure regulation. By harnessing the power of this versatile herb, you can support your heart health naturally and deliciously. Whether sprinkled fresh on dishes or used in cooking, coriander is a flavorful addition that your heart will thank you for.</p>
             </div>

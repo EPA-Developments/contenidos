@@ -55,8 +55,8 @@
                                     <span>Experience: ${doctor.total_experience || 'N/A'} + years</span><br>
                                     <span>Location: ${doctor.unit || 'Unknown'}</span><br>
                                     <span>${doctor.designation || 'Doctor'}</span><br>
-                                    <h3><a href="https://plataforma.epa-bienestar.com.ar/doctors/${doctor.slug || '#'}">${doctor.doctor_name}</a></h3>
-                                    <a href="https://plataforma.epa-bienestar.com.ar/turnos">
+                                    <h3><a href="https://contenidos.segundaopinionmedica.org/doctors/${doctor.slug || '#'}">${doctor.doctor_name}</a></h3>
+                                    <a href="https://contenidos.segundaopinionmedica.org/turnos">
                                         <button class="default-btn1">Book An Appointment</button>
                                     </a>
                                 </div>

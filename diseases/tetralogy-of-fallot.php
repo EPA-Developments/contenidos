@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Tetralogy Of Fallot: Symptoms, Causes, and Treatments">
   <meta property="og:description" content="Tetralogy of Fallot, A rare condition caused by a combination of four heart defects that are present at birth. Know more about the symptoms and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Tetralogy Of Fallot",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot"
       }]
     }
   </script>
@@ -166,10 +166,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms, Causes, and Treatments of Tetralogy Of Fallot</h1>
-<p>Tetralogy Of Fallot (TOF) is a congenital heart defect that affects the structure of the heart, leading to a combination of four abnormalities: pulmonary stenosis, ventricular septal defect, <a href="https://plataforma.epa-bienestar.com.ar/diseases/overriding-aorta">overriding aorta</a>, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/right-ventricular-hypertrophy">right ventricular hypertrophy</a>.</p>
+<p>Tetralogy Of Fallot (TOF) is a congenital heart defect that affects the structure of the heart, leading to a combination of four abnormalities: pulmonary stenosis, ventricular septal defect, <a href="https://contenidos.segundaopinionmedica.org/diseases/overriding-aorta">overriding aorta</a>, and <a href="https://contenidos.segundaopinionmedica.org/diseases/right-ventricular-hypertrophy">right ventricular hypertrophy</a>.</p>
 <p>It is one of the most common cyanotic heart defects present at birth, accounting for about 5% of all congenital heart diseases.</p>
 <p>TOF can have a significant impact on an individual's health due to its effects on blood flow and oxygenation levels. The essential functions affected by TOF include oxygenation of blood, pumping blood to the body, and regulating blood pressure.</p>
-<p>Untreated TOF can result in both short-term complications such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a>, and developmental delays, as well as long-term risks like heart failure, arrhythmias, and increased risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a>.</p>
+<p>Untreated TOF can result in both short-term complications such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a>, and developmental delays, as well as long-term risks like heart failure, arrhythmias, and increased risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a>.</p>
 <p>In its early stages, TOF may be asymptomatic, underscoring the importance of early detection through regular screenings to prevent complications and ensure appropriate management.</p>
 <h2 id="causes">Causes of Tetralogy Of Fallot</h2>
 <p>The primary causes of Tetralogy Of Fallot can be attributed to various genetic and environmental factors that influence heart development during fetal growth.</p>
@@ -188,18 +188,18 @@
 <h2 id="symptoms">Symptoms of Tetralogy Of Fallot</h2>
 <p>The symptoms of Tetralogy Of Fallot can vary depending on the severity of the condition and the individual's age.</p>
 <ul>
-<li> Cyanosis: Cyanosis, or bluish discoloration of the skin and mucous membranes, can impact daily activities by causing fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a> during exertion. This lack of oxygenated blood circulation can affect energy levels and physical endurance.</li>
+<li> Cyanosis: Cyanosis, or bluish discoloration of the skin and mucous membranes, can impact daily activities by causing fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a> during exertion. This lack of oxygenated blood circulation can affect energy levels and physical endurance.</li>
 <li> Tet Spells: Tet spells, sudden episodes of deep cyanosis and respiratory distress, may be misunderstood or overlooked, leading to delayed diagnosis and management. These spells can be triggered by various factors such as crying or feeding, highlighting the need for prompt recognition and intervention.</li>
 </ul>
 <p>Advanced-stage symptoms of Tetralogy Of Fallot may include:</p>
 <ul>
 <li> Heart Failure: Progressive heart failure can result in worsening fatigue, exercise intolerance, and fluid retention, impacting both physical and emotional well-being. The strain on the heart can lead to complications like arrhythmias and cardiac enlargement, further exacerbating symptoms.</li>
-<li>  <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>: Syncopal episodes, or fainting spells, can be a manifestation of inadequate blood flow to the brain due to compromised cardiac function. The severity of syncope can vary, with some individuals experiencing recurrent episodes that significantly impact daily life and quality of life.</li>
+<li>  <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>: Syncopal episodes, or fainting spells, can be a manifestation of inadequate blood flow to the brain due to compromised cardiac function. The severity of syncope can vary, with some individuals experiencing recurrent episodes that significantly impact daily life and quality of life.</li>
 </ul>
 <h2>Diagnosis of Tetralogy Of Fallot</h2>
 <p>The diagnosis of Tetralogy Of Fallot typically involves a series of tests and evaluations to assess heart structure and function accurately.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> - An echocardiogram uses sound waves to create detailed images of the heart's structure and function, allowing healthcare providers to visualize abnormalities such as ventricular septal defects and pulmonary stenosis associated with TOF.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> - An echocardiogram uses sound waves to create detailed images of the heart's structure and function, allowing healthcare providers to visualize abnormalities such as ventricular septal defects and pulmonary stenosis associated with TOF.</li>
 <li>Cardiac MRI - Cardiac magnetic resonance imaging provides high-resolution images of the heart, offering insights into cardiac anatomy and blood flow patterns that can help identify specific features of TOF, such as overriding aorta and right ventricular hypertrophy.</li>
 <li>Cardiac Catheterization - Cardiac catheterization involves inserting a thin tube into the heart to measure pressures and obtain blood samples, aiding in the assessment of pulmonary stenosis severity and evaluating the overall hemodynamic status in TOF patients.</li>
 <li>Electrocardiogram - An electrocardiogram records the heart's electrical activity, detecting abnormalities such as arrhythmias or conduction defects that may coexist with TOF and impact treatment decisions.</li>

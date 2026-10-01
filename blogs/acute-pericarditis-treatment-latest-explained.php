@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Acute Pericarditis Treatment: Latest Explained">
   <meta property="og:description" content="Discover the most effective acute pericarditis treatments in our comprehensive guide. Learn about the latest options for acute pericarditis treatment.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/acute-pericarditis-treatment-latest-explained">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/acute-pericarditis-treatment-latest-explained">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/acute-pericarditis-treatment-latest-explained" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/acute-pericarditis-treatment-latest-explained" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Acute Pericarditis Treatment: Latest Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/acute-pericarditis-treatment-latest-explained"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/acute-pericarditis-treatment-latest-explained"  
       }]
     }
   </script>

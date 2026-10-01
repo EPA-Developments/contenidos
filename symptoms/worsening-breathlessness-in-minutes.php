@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment for Worsening Breathlessness in Minutes" >
   <meta property="og:description" content="Worsening Breathlessness in minutes could signal serious heart conditions. Know more about its causes, forms, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/worsening-breathlessness-in-minutes">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/worsening-breathlessness-in-minutes">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/worsening-breathlessness-in-minutes" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/worsening-breathlessness-in-minutes" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Worsening Breathlessness In Minutes",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/worsening-breathlessness-in-minutes"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/worsening-breathlessness-in-minutes"  
       }]
     }
   </script>
@@ -186,12 +186,12 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms and Treatment for Worsening Breathlessness in Minutes</h1>
-<p>Worsening breathlessness in minutes refers to a sudden onset or rapid increase in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/severe-shortness-of-breath">severe shortness of breath</a>.</p>
-<p>It can be a frightening and alarming experience, causing intense <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> that worsens quickly, with the individual struggling to catch their breath.</p>
-<p>This condition can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a> difficulty, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/sudden-breathlessness">sudden breathlessness</a>, severe shortness of breath in minutes, quick onset of breathing problems, and sudden difficulty breathing.</p>
+<p>Worsening breathlessness in minutes refers to a sudden onset or rapid increase in <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/severe-shortness-of-breath">severe shortness of breath</a>.</p>
+<p>It can be a frightening and alarming experience, causing intense <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> that worsens quickly, with the individual struggling to catch their breath.</p>
+<p>This condition can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a> difficulty, <a href="https://contenidos.segundaopinionmedica.org/symptoms/sudden-breathlessness">sudden breathlessness</a>, severe shortness of breath in minutes, quick onset of breathing problems, and sudden difficulty breathing.</p>
 <h2 id="forms">What are the Forms of Worsening breathlessness in minutes?</h2>
-<p>There are various forms of worsening breathlessness in minutes, each with its own set of symptoms and related concepts. Some common forms include acute respiratory distress syndrome (ARDS), pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>, heart failure exacerbation, pneumonia, and severe asthma attacks.</p>
-<p>Symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, wheezing, coughing, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bluish-skin">bluish skin</a> color due to lack of oxygen.</p>
+<p>There are various forms of worsening breathlessness in minutes, each with its own set of symptoms and related concepts. Some common forms include acute respiratory distress syndrome (ARDS), pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>, heart failure exacerbation, pneumonia, and severe asthma attacks.</p>
+<p>Symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, wheezing, coughing, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/bluish-skin">bluish skin</a> color due to lack of oxygen.</p>
 <h2 id="causes">What are the Causes of Worsening breathlessness in minutes?</h2>
 <p>Worsening breathlessness in minutes can be caused by a range of underlying conditions and factors. Some common causes include heart failure, pulmonary embolism, pneumonia, severe asthma exacerbation, chronic obstructive pulmonary disease (COPD) exacerbation, and anxiety or panic attacks.</p>
 <p>Other factors such as high altitude, extreme physical exertion, allergic reactions, and certain medications can also trigger sudden difficulty breathing.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Inherited Heart Conditions: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Inherited heart conditions affect the heart's function. Know more about causes, symptoms, and treatment to manage these heart conditions." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/inherited-heart-conditions">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/inherited-heart-conditions">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/inherited-heart-conditions" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/inherited-heart-conditions" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Inherited Heart Conditions",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/inherited-heart-conditions"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/inherited-heart-conditions"
       }]
     }
   </script>
@@ -167,18 +167,18 @@
 <ul>
 <li>Genetic mutations passed down from parents</li>
 <li>Family history of heart disease</li>
-<li>Specific genetic syndromes like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a></li>
+<li>Specific genetic syndromes like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a></li>
 <li>Changes in genes affecting heart structure or function</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Inherited Heart Conditions</h2>
 <p>Recognizing the symptoms of Inherited Heart Conditions is crucial as early detection can significantly improve outcomes. Symptoms may vary, but being vigilant can lead to timely intervention and management. Here are common signs to watch for:
 
 <ul>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Swelling in the legs, ankles, or abdomen</li>
 </ul></p>
 <h2>Diagnosis of Inherited Heart Conditions</h2>
@@ -186,7 +186,7 @@
 
 <ul>
 <li>Genetic testing to identify inherited mutations</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function</li>
 <li>Electrocardiogram (ECG) to evaluate heart rhythm</li>
 <li>Cardiac MRI for detailed imaging of the heart</li>
 <li>Family history evaluation to assess risk factors</li>

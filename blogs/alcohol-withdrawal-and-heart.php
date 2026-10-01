@@ -10,12 +10,12 @@
     <meta property="og:title" content="Alcohol Withdrawal Impact on Heart: A Closer Look" />
     <meta property="og:description" content="Discover the impact of alcohol withdrawal on the heart: detox effects, palpitations, and more. Understand how withdrawal symptoms affect heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-withdrawal-and-heart" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-withdrawal-and-heart" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-withdrawal-and-heart" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-withdrawal-and-heart" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol Withdrawal And Heart",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-withdrawal-and-heart"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-withdrawal-and-heart"
         }
     ]
 }
@@ -129,10 +129,10 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Heart Impact of Alcohol Withdrawal</h1>
-<p>Have you ever wondered what happens to your heart during alcohol withdrawal? The pounding heart, irregular beats, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> you experience—could they be linked to alcohol detox? How does alcohol withdrawal impact your heart health and daily activities?</p>
+<p>Have you ever wondered what happens to your heart during alcohol withdrawal? The pounding heart, irregular beats, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> you experience—could they be linked to alcohol detox? How does alcohol withdrawal impact your heart health and daily activities?</p>
 <p>Alcohol withdrawal can have profound effects on the heart, disrupting its normal rhythm and function. Understanding these effects is crucial for anyone navigating the challenges of detoxification and the associated symptoms that can affect your heart's well-being.</p>
 <h2 class="sec-scrl" id="Detox Effects">Detox Effects</h2>
-<p>Detoxification from alcohol involves the body's process of clearing the substance and readjusting to its absence. During this phase, the heart may experience increased stress due to the sudden removal of alcohol, which it had adapted to over time. This abrupt change can lead to various cardiac issues, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, arrhythmias, and changes in heart rate variability.</p>
+<p>Detoxification from alcohol involves the body's process of clearing the substance and readjusting to its absence. During this phase, the heart may experience increased stress due to the sudden removal of alcohol, which it had adapted to over time. This abrupt change can lead to various cardiac issues, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, arrhythmias, and changes in heart rate variability.</p>
 <p>Some of the common detox effects on the heart include:</p>
 <ul>
 <li>Increased heart rate</li>
@@ -144,7 +144,7 @@
 <p>Common withdrawal symptoms that can affect the heart include:</p>
 <ul>
 <li>Heart palpitations</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a></li>
 <li>Increased anxiety</li>
 </ul>
 <h2 class="sec-scrl" id="Heart Palpitations">Heart Palpitations</h2>

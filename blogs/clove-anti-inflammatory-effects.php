@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Clove's Heart Health Benefits'" />
     <meta property="og:description" content="Discover how clove's anti-inflammatory effects can benefit heart health and reduce the risk of heart disease." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/clove-anti-inflammatory-effects" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/clove-anti-inflammatory-effects" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/clove-anti-inflammatory-effects" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/clove-anti-inflammatory-effects" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Clove Anti Inflammatory Effects",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/clove-anti-inflammatory-effects"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/clove-anti-inflammatory-effects"
         }
     ]
 }
@@ -136,7 +136,7 @@
 <ul>
 <li>Eugenol in clove helps lower inflammation levels in the body, reducing the risk of cardiovascular inflammation.</li>
 <li>Clove compounds have antioxidant properties that can neutralize free radicals, which are linked to heart disease prevention.</li>
-<li>The anti-inflammatory effects of clove may help lower <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> risk by reducing inflammation in the arteries.</li>
+<li>The anti-inflammatory effects of clove may help lower <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> risk by reducing inflammation in the arteries.</li>
 </ul>
 <h2 class="sec-scrl" id="clove-compounds">Clove Compounds for Heart Health</h2>
 <p>In addition to eugenol, clove contains other beneficial compounds that contribute to heart health protection. Some of these compounds include:</p>

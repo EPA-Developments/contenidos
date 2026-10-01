@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cocoa for Cholesterol Control: Natural Solution&quot;" />
     <meta property="og:description" content="Discover how cocoa can naturally help manage cholesterol levels and improve heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cocoa-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cocoa-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cocoa-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cocoa For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cocoa-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cocoa-for-cholesterol"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Cocoa for Cholesterol</h1>
 <p>Are you struggling to manage your cholesterol levels effectively? Do you find it challenging to incorporate lifestyle changes into your daily routine to improve your heart health? Cocoa, with its rich history and potential health benefits, might just be the solution you need. Let's explore how cocoa can play a significant role in managing cholesterol levels and promoting overall heart health.</p>
 <h2 class="sec-scrl" id="cocoa-for-cholesterol">Cocoa for Cholesterol</h2>
-<p>Cocoa, derived from the seeds of the cacao tree, is not only a delicious treat but also a potential ally in the battle against <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels. The flavonoids present in cocoa have been linked to various health benefits, including the improvement of lipid levels in the blood. Studies have shown that regular consumption of cocoa can lead to a reduction in LDL cholesterol levels while simultaneously boosting HDL cholesterol, the "good" cholesterol.</p>
+<p>Cocoa, derived from the seeds of the cacao tree, is not only a delicious treat but also a potential ally in the battle against <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels. The flavonoids present in cocoa have been linked to various health benefits, including the improvement of lipid levels in the blood. Studies have shown that regular consumption of cocoa can lead to a reduction in LDL cholesterol levels while simultaneously boosting HDL cholesterol, the "good" cholesterol.</p>
 <p>Here are some key ways in which cocoa can help in managing cholesterol:</p>
 <ul>
 <li>**Cocoa and LDL Reduction:** The flavonoids in cocoa have been found to inhibit the oxidation of LDL cholesterol, preventing it from building up in the arteries and reducing the risk of heart disease.</li>

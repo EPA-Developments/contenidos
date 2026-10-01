@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="May Thurner Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="May-Thurner Syndrome causes blood clots in veins. Read more about its symptoms, causes, and treatment for better blood circulation." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/may-thurner-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/may-thurner-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/may-thurner-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/may-thurner-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "May Thurner Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/may-thurner-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/may-thurner-syndrome"
       }]
     }
   </script>
@@ -182,7 +182,7 @@
 <li>Leg ulcers that are slow to heal</li>
 </ul></p>
 <h2>Diagnosis of May Thurner Syndrome</h2>
-<p>May-Thurner Syndrome, a condition where the left iliac vein is compressed by the right iliac artery, can lead to deep vein thrombosis. Accurate diagnosis is crucial to prevent complications like pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>. The diagnostic process involves a combination of clinical evaluation and imaging tests. 
+<p>May-Thurner Syndrome, a condition where the left iliac vein is compressed by the right iliac artery, can lead to deep vein thrombosis. Accurate diagnosis is crucial to prevent complications like pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>. The diagnostic process involves a combination of clinical evaluation and imaging tests. 
 
 <ul>
 <li>Medical history review to identify risk factors</li>
@@ -203,7 +203,7 @@
 </ul>
 <h3>Angioplasty and Stenting</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> is a procedure to widen the narrowed vein, often followed by stent placement to keep the vein open.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> is a procedure to widen the narrowed vein, often followed by stent placement to keep the vein open.</li>
 <li>Rationale: This helps restore proper blood flow in the affected vein.</li>
 <li>Primary Objective: Improve vein patency and reduce the risk of re-narrowing.</li>
 <li>Phases: Angioplasty and stenting are usually done in a single procedure.</li>

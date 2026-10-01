@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Loeys-Dietz Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Loeys-Dietz Syndrome affects connective tissue and can cause serious cardiovascular issues. Know more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/loeys-dietz-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/loeys-dietz-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/loeys-dietz-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/loeys-dietz-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Loeys-Dietz Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/loeys-dietz-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/loeys-dietz-syndrome"
       }]
     }
   </script>
@@ -202,15 +202,15 @@ These diagnostic methods help in confirming the presence of Loeys-Dietz Syndrome
 
 <h3>Medication Therapy</h3>
 <ul>
-<li>Medication therapy involves the use of drugs to manage symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> or prevent complications like aortic aneurysms.</li>
-<li>These medications help regulate blood pressure, reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a>, and manage other cardiovascular issues.</li>
+<li>Medication therapy involves the use of drugs to manage symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> or prevent complications like aortic aneurysms.</li>
+<li>These medications help regulate blood pressure, reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a>, and manage other cardiovascular issues.</li>
 <li>The primary objective is to control symptoms, stabilize blood pressure, and prevent further damage to the blood vessels.</li>
 <li>Treatment may involve lifelong medication management and regular monitoring.</li>
 </ul>
 <h3>Surgical Interventions</h3>
 <ul>
 <li>Surgical interventions are aimed at repairing or replacing weakened or damaged blood vessels, particularly the aorta.</li>
-<li>Surgeries like <a href="https://plataforma.epa-bienestar.com.ar/procedures/aortic-root-replacement">aortic root replacement</a> or repair help prevent aortic dissection and reduce the risk of life-threatening complications.</li>
+<li>Surgeries like <a href="https://contenidos.segundaopinionmedica.org/procedures/aortic-root-replacement">aortic root replacement</a> or repair help prevent aortic dissection and reduce the risk of life-threatening complications.</li>
 <li>The primary objective is to strengthen the aortic wall and restore normal blood flow to prevent ruptures.</li>
 <li>Patients may require periodic follow-up surgeries or interventions based on disease progression.</li>
 </ul>

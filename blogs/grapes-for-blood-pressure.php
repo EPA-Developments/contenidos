@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Grapes for Blood Pressure: A Natural Solution&quot;" />
     <meta property="og:description" content="Discover how grapes can help manage blood pressure effectively. Learn about the benefits of grapes for hypertension in this informative guide!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/grapes-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/grapes-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/grapes-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/grapes-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Grapes For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/grapes-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/grapes-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Grapes for Blood Pressure</h1>
-<p>Are you struggling to manage your blood pressure? Do you find it challenging to incorporate healthy foods into your daily diet to regulate your <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? Grapes might just be the simple yet effective solution you need. Let's explore how adding grapes to your diet can help you better manage your blood pressure and improve your overall health.</p>
+<p>Are you struggling to manage your blood pressure? Do you find it challenging to incorporate healthy foods into your daily diet to regulate your <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? Grapes might just be the simple yet effective solution you need. Let's explore how adding grapes to your diet can help you better manage your blood pressure and improve your overall health.</p>
 <h2 class="sec-scrl" id="benefits">The Benefits of Grapes for Blood Pressure Regulation</h2>
 <p>Grapes are not only delicious but also packed with nutrients that can positively impact your blood pressure levels. Here are some key benefits of grapes:</p>
 <ul>
@@ -151,7 +151,7 @@
 <ul>
 <li>Protect blood vessels from damage, supporting vascular health</li>
 <li>Enhance the production of nitric oxide, a molecule that promotes vasodilation and improves blood flow</li>
-<li>Reduce inflammation, which can contribute to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li>Reduce inflammation, which can contribute to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
 </ul>
 <p>By consuming grapes regularly, you can harness the power of antioxidants to protect your cardiovascular system and maintain healthy blood pressure levels.</p>
 <h2 class="sec-scrl" id="diet">Incorporating Grapes into a Healthy Diet for Hypertension</h2>

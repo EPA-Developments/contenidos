@@ -10,12 +10,12 @@
     <meta property="og:title" content="Defibrillators for Shockable Arrhythmias: A Guide" />
     <meta property="og:description" content="Learn how defibrillators save lives by treating shockable arrhythmias effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/shockable-arrhythmias" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/shockable-arrhythmias" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/shockable-arrhythmias" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/shockable-arrhythmias" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Shockable Arrhythmias",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/shockable-arrhythmias"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/shockable-arrhythmias"
         }
     ]
 }
@@ -171,7 +171,7 @@
               <h1>The Defibrillator's Role in Shockable Arrhythmias</h1>
 <p>Are you or a loved one experiencing the frightening symptoms of shockable arrhythmias, disrupting your daily activities and causing concern? Living with the uncertainty of irregular heart rhythms can be overwhelming. Let's explore how defibrillators play a crucial role in managing these conditions and potentially saving lives.</p>
 <h2 class="sec-scrl" id="heart-rhythm-disorder">Heart Rhythm Disorder</h2>
-<p>Shockable arrhythmias, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-fibrillation">ventricular fibrillation</a>, pose a serious threat to heart health. These abnormal heart rhythms can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> if not promptly addressed. Understanding the nature of heart rhythm disorders is essential for effective treatment.</p>
+<p>Shockable arrhythmias, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-fibrillation">ventricular fibrillation</a>, pose a serious threat to heart health. These abnormal heart rhythms can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> if not promptly addressed. Understanding the nature of heart rhythm disorders is essential for effective treatment.</p>
 <ul>
 <li>Common types of shockable arrhythmias</li>
 <li>Impact of irregular heart rhythms on overall health</li>
@@ -192,7 +192,7 @@
 <li>Utilizing automated external defibrillators (AEDs)</li>
 </ul>
 <h2 class="sec-scrl" id="ekg-fibrillation-patterns">EKG Fibrillation Patterns</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (EKG) readings play a crucial role in diagnosing and monitoring shockable arrhythmias. Understanding the different fibrillation patterns can aid healthcare providers in determining the most appropriate treatment approach for each patient.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (EKG) readings play a crucial role in diagnosing and monitoring shockable arrhythmias. Understanding the different fibrillation patterns can aid healthcare providers in determining the most appropriate treatment approach for each patient.</p>
 <ul>
 <li>Distinct EKG patterns associated with ventricular fibrillation</li>
 <li>Interpreting EKG results for accurate diagnosis</li>

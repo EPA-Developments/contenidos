@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Palpitations During Exercise: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Palpitations during exercise can be concerning. Know more about causes, symptoms, diagnosis, and treatment options for your heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-during-exercise">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/palpitations-during-exercise">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-during-exercise" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations-during-exercise" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Palpitations During Exercise",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/palpitations-during-exercise"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/palpitations-during-exercise"  
       }]
     }
   </script>
@@ -186,15 +186,15 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Palpitations During Exercise: Causes, Diagnosis, and Treatment</h1>
-<p>Palpitations during exercise refer to the sensation of an abnormal or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> while engaging in physical activity. This condition can manifest as rapid heartbeats, heart fluttering, or intense heart rate during exercise.</p>
-<p>Exertion-induced <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> are not uncommon and can occur due to various underlying causes such as heart disease, arrhythmias, or other medical conditions.</p>
+<p>Palpitations during exercise refer to the sensation of an abnormal or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> while engaging in physical activity. This condition can manifest as rapid heartbeats, heart fluttering, or intense heart rate during exercise.</p>
+<p>Exertion-induced <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> are not uncommon and can occur due to various underlying causes such as heart disease, arrhythmias, or other medical conditions.</p>
 <p>It is essential to understand the symptoms associated with palpitations during exercise to differentiate them from normal cardiovascular responses to physical exertion.</p>
 <h2 id="forms">What are the Forms of Palpitations during exercise?</h2>
 <p>Forms of palpitations during exercise can present as rapid heartbeats, heart fluttering with activity, or exertion-induced palpitations. Palpitations with physical exertion may feel like an irregular or pounding heartbeat that disrupts the normal rhythm.</p>
 <p>It is crucial to monitor these symptoms and seek medical advice if they persist or worsen during physical activity. Understanding the specific form of palpitations you experience can help healthcare providers diagnose and treat the underlying cause effectively.</p>
 <h2 id="causes">What are the Causes of Palpitations during exercise?</h2>
 <p>The causes of palpitations during exercise can vary and may include heart disease, arrhythmias, anxiety, dehydration, or overexertion. Heart disease such as coronary artery disease or heart valve disorders can lead to abnormal heart rhythms during physical activity.</p>
-<p>Arrhythmias, including atrial fibrillation or supraventricular <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a>, can also trigger palpitations during exercise. It is essential to identify the root cause of palpitations to determine the appropriate treatment and management strategies.</p>
+<p>Arrhythmias, including atrial fibrillation or supraventricular <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a>, can also trigger palpitations during exercise. It is essential to identify the root cause of palpitations to determine the appropriate treatment and management strategies.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Palpitations during exercise?</h2>
 <p>Diagnosing palpitations during exercise may involve a combination of basic and advanced techniques.</p>
 <p>Healthcare providers may conduct a physical exam, review medical history, and perform diagnostic tests such as electrocardiograms (ECG), stress tests, or Holter monitoring to evaluate heart function during physical activity.</p>
@@ -202,11 +202,11 @@
 <h2 id="treatment">What is the Treatment for Palpitations during exercise?</h2>
 <p>Treatment for palpitations during exercise may include medical interventions, lifestyle modifications, and advanced approaches. Depending on the underlying cause, healthcare providers may prescribe medications to regulate heart rhythm, manage heart disease, or alleviate symptoms of arrhythmias.</p>
 <p>Lifestyle changes such as staying hydrated, avoiding stimulants, and maintaining a healthy weight can help reduce the frequency and severity of palpitations during exercise.</p>
-<p>In some cases, advanced treatments like <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> or implantable devices may be necessary to address underlying arrhythmias.</p>
+<p>In some cases, advanced treatments like <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> or implantable devices may be necessary to address underlying arrhythmias.</p>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience persistent or severe symptoms of palpitations during exercise.</p>
-<p>If you have a history of heart disease, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or other cardiovascular conditions, it is crucial to consult with a healthcare provider to determine the cause of palpitations and develop a personalized treatment plan.</p>
-<p>Additionally, if you experience <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or fainting episodes along with palpitations during exercise, seek immediate medical help to prevent potential complications.</p>
+<p>If you have a history of heart disease, <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or other cardiovascular conditions, it is crucial to consult with a healthcare provider to determine the cause of palpitations and develop a personalized treatment plan.</p>
+<p>Additionally, if you experience <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or fainting episodes along with palpitations during exercise, seek immediate medical help to prevent potential complications.</p>
 <h2>Home Remedies for Palpitations during exercise</h2>
 <ul>
 <li>Stay hydrated and drink plenty of water before, during, and after exercise.</li>

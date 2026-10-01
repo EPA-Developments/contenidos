@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Arrhythmia With Hyperkalemia Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Ventricular Arrhythmia with hyperkalemia syndrome disrupts heart rhythm. Know more about its causes, symptoms, and treatment for heart stability." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Ventricular Arrhythmia With Hyperkalemia Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/ventricular-arrhythmia-with-hyperkalemia-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms of Ventricular Arrhythmia With Hyperkalemia Syndrome</h1>
-<p>Ventricular Arrhythmia with Hyperkalemia Syndrome is a condition where the heart experiences abnormal rhythms due to high levels of potassium in the blood. This can disrupt the heart's electrical activity, leading to dangerous heart rhythms. It is significant because it can cause sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a> if not treated promptly. While relatively rare, this syndrome is crucial to recognize and manage promptly to prevent life-threatening complications. If you have concerns about your heart rhythm or potassium levels, consult a healthcare professional for guidance.</p>
+<p>Ventricular Arrhythmia with Hyperkalemia Syndrome is a condition where the heart experiences abnormal rhythms due to high levels of potassium in the blood. This can disrupt the heart's electrical activity, leading to dangerous heart rhythms. It is significant because it can cause sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a> if not treated promptly. While relatively rare, this syndrome is crucial to recognize and manage promptly to prevent life-threatening complications. If you have concerns about your heart rhythm or potassium levels, consult a healthcare professional for guidance.</p>
 <h2 id="causes">Causes of Ventricular Arrhythmia With Hyperkalemia Syndrome</h2>
 <p>Ventricular Arrhythmia with Hyperkalemia Syndrome is influenced by various factors, including:
 <ul>
@@ -175,13 +175,13 @@
 <p>Recognizing the symptoms of Ventricular Arrhythmia with Hyperkalemia Syndrome is crucial as early detection can significantly improve outcomes. This condition can be life-threatening if not promptly addressed. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Nausea or vomiting</li>
 <li>Tingling sensations</li>
 <li>Muscle weakness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul> 
 
 If you or someone you know experiences these symptoms, seeking immediate medical attention is essential to prevent serious complications associated with Ventricular Arrhythmia with Hyperkalemia Syndrome.</p>
@@ -189,10 +189,10 @@ If you or someone you know experiences these symptoms, seeking immediate medical
 <p>Diagnosing Ventricular Arrhythmia with Hyperkalemia Syndrome is crucial due to the potentially life-threatening nature of the condition. Accurate diagnosis helps in prompt treatment and management to prevent adverse outcomes. Diagnostic methods include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart rhythm abnormalities</li>
 <li>Serum potassium levels to detect hyperkalemia</li>
 <li>Cardiac monitoring to capture arrhythmias in real-time</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to evaluate heart structure and function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Ventricular Arrhythmia With Hyperkalemia Syndrome</h2>
 <p>When addressing Ventricular Arrhythmia with Hyperkalemia Syndrome, personalized care is crucial for effective treatment. 

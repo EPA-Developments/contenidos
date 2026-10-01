@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart-Hand Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Heart-Hand Syndrome affects both heart and hands. Know more about its causes, symptoms, and treatment to improve your well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-hand-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-hand-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-hand-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-hand-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Heart-Hand Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-hand-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-hand-syndrome"
       }]
     }
   </script>
@@ -176,9 +176,9 @@
 <ul>
 <li>Blue discoloration of the fingers or toes</li>
 <li>Abnormalities in the nails, such as clubbing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 </ul></p>
 <h2>Diagnosis of Heart-Hand Syndrome</h2>
 <p>Heart-Hand Syndrome diagnosis is crucial for timely intervention. Symptoms like cardiac defects and limb abnormalities require accurate identification for proper management. Diagnostic methods include:
@@ -186,7 +186,7 @@
 <ul>
 <li>Physical examination to assess heart and hand anomalies</li>
 <li>Genetic testing to identify underlying genetic mutations</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to visualize heart structure and function</li>
 <li>X-rays or MRI for evaluating hand abnormalities</li>
 <li>Consultation with cardiologists and genetic counselors</li>
 </ul></p>

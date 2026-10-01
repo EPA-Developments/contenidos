@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Dyslipemia: Causes, Symptoms, and Management">
   <meta property="og:description" content="Dyslipidemia is a condition where cholesterol and triglyceride levels are abnormal in the blood. Read more about its causes, symptoms, and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/dyslipemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/dyslipemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/dyslipemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/dyslipemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Dyslipemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/dyslipemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/dyslipemia"
       }]
     }
   </script>
@@ -168,7 +168,7 @@
 <h1>Causes, Symptoms, and Treatment of Dyslipidemia</h1>
 <p>Dyslipemia, also known as dyslipidemia, is a medical condition characterized by abnormal levels of lipids (fats) in the blood. These lipids include cholesterol and triglycerides, essential components for various bodily functions.</p>
 <p>Dyslipemia is significant due to its prevalence and impact on overall health. It affects millions of individuals worldwide and is a major risk factor for cardiovascular diseases like heart attacks and strokes.</p>
-<p>In the short term, untreated dyslipemia can lead to acute events like heart attacks, while in the long term, it contributes to the development of chronic conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
+<p>In the short term, untreated dyslipemia can lead to acute events like heart attacks, while in the long term, it contributes to the development of chronic conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and coronary artery disease.</p>
 <p>One of the challenges of dyslipemia is its often asymptomatic nature in the early stages, making it crucial for early detection through regular screenings. Identifying dyslipemia early can help prevent serious complications and improve overall health outcomes.</p>
 <h2 id="causes">Causes of Dyslipemia</h2>
 <p>Dyslipemia can stem from various primary causes, each impacting heart function differently over time:</p>
@@ -179,8 +179,8 @@
 <li>Lack of Physical Activity: Sedentary lifestyles can contribute to dyslipemia by lowering HDL cholesterol levels and promoting weight gain, further exacerbating lipid imbalances.</li>
 </ul>
 <h2 id="symptoms">Symptoms of Dyslipemia</h2>
-<p>Early symptoms of dyslipemia may include fatigue, mild <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and frequent infections, which can impact daily activities and energy levels. These symptoms are often subtle and may be misunderstood or overlooked, delaying diagnosis and treatment.</p>
-<p>Advanced symptoms might manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort, indicating a more severe progression of dyslipemia that can significantly affect physical and emotional well-being.</p>
+<p>Early symptoms of dyslipemia may include fatigue, mild <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and frequent infections, which can impact daily activities and energy levels. These symptoms are often subtle and may be misunderstood or overlooked, delaying diagnosis and treatment.</p>
+<p>Advanced symptoms might manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and chest discomfort, indicating a more severe progression of dyslipemia that can significantly affect physical and emotional well-being.</p>
 <h2>Diagnosis of Dyslipemia</h2>
 <p>Diagnosing dyslipemia typically involves a multi-step process to accurately assess lipid levels and cardiovascular risk.</p>
 <p>Tests such as lipid profiles, fasting blood glucose levels, and imaging studies like CT scans and MRIs help identify lipid abnormalities, assess structural heart health, and evaluate overall cardiovascular risk.</p>

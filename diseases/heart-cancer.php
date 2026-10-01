@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Guide to Heart Cancer: Causes, Symptoms & Treatment">
   <meta property="og:description" content="Heart Cancer is a rare type of cancer affecting heart tissue. Know more about its causes, symptoms, and treatment to protect your health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/heart-cancer">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/heart-cancer">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/heart-cancer" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/heart-cancer" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Cancer",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/heart-cancer"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/heart-cancer"
       }]
     }
   </script>
@@ -177,7 +177,7 @@
 <ul>
 <li>Genetic Predisposition: Genetic mutations can predispose individuals to heart cancer by disrupting normal cell growth and division processes. Inherited genetic syndromes, such as Li-Fraumeni syndrome, can increase the likelihood of developing heart cancer over time.</li>
 <li>Radiation Exposure: Exposure to ionizing radiation, whether from medical treatments or environmental sources, can damage heart cells and increase the risk of developing cardiac sarcoma. Patients who have undergone radiation therapy for other cancers may be at a higher risk of developing heart cancer as a long-term consequence of their treatment.</li>
-<li>Chronic Inflammation: Conditions that cause chronic inflammation of the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/pericarditis">pericarditis</a>, can create an environment conducive to the development of cancerous cells. Prolonged inflammation can lead to genetic mutations and abnormal cell growth within the heart tissues.</li>
+<li>Chronic Inflammation: Conditions that cause chronic inflammation of the heart, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/pericarditis">pericarditis</a>, can create an environment conducive to the development of cancerous cells. Prolonged inflammation can lead to genetic mutations and abnormal cell growth within the heart tissues.</li>
 <li>Age and Gender: Heart cancer is more commonly diagnosed in older adults, particularly those over the age of 50. Additionally, males are at a higher risk of developing heart cancer compared to females, although the reasons for this gender disparity are not fully understood.</li>
 </ul>
 <p>In addition to these primary causes, several secondary risk factors and lifestyle contributors can increase the likelihood of developing heart cancer:</p>
@@ -190,13 +190,13 @@
 <p>The symptoms of heart cancer can vary depending on the stage of the disease and the extent of tumor involvement in the heart tissues. Identifying these symptoms early is essential for prompt diagnosis and treatment.</p>
 <h3>Early Symptoms:</h3>
 <ul>
-<li>Fatigue: Persistent fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> that interferes with daily activities may be an early sign of heart cancer. This symptom is often attributed to the heart's decreased ability to pump blood efficiently, leading to reduced oxygen delivery to the body's tissues.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Unexplained chest pain or discomfort, especially during physical exertion or emotional stress, can indicate heart involvement in cancer. This symptom may be misinterpreted as a sign of heart disease, highlighting the importance of further evaluation.</li>
+<li>Fatigue: Persistent fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> that interferes with daily activities may be an early sign of heart cancer. This symptom is often attributed to the heart's decreased ability to pump blood efficiently, leading to reduced oxygen delivery to the body's tissues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Unexplained chest pain or discomfort, especially during physical exertion or emotional stress, can indicate heart involvement in cancer. This symptom may be misinterpreted as a sign of heart disease, highlighting the importance of further evaluation.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, especially with minimal exertion or while lying down, can signal advanced heart cancer affecting the heart's ability to pump blood effectively. This symptom can significantly impact physical well-being and quality of life.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: Arrhythmias or irregular heartbeats may occur as heart cancer progresses, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, dizziness, or fainting spells. These symptoms reflect the disruption of normal heart function and warrant immediate medical attention.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, especially with minimal exertion or while lying down, can signal advanced heart cancer affecting the heart's ability to pump blood effectively. This symptom can significantly impact physical well-being and quality of life.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: Arrhythmias or irregular heartbeats may occur as heart cancer progresses, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, dizziness, or fainting spells. These symptoms reflect the disruption of normal heart function and warrant immediate medical attention.</li>
 </ul>
 <h2>Diagnosis of Heart Cancer</h2>
 <p>Diagnosing heart cancer involves a multi-step approach that combines various tests and imaging studies to accurately assess the presence and extent of cancerous growth within the heart.</p>

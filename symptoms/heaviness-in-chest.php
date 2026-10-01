@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Treatment, Diagnosis and Causes of Heaviness in Chest" >
   <meta property="og:description" content="Heaviness in the chest can signal heart-related problems. Know more about symptoms, diagnosis, and treatment for this condition for better outcomes." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heaviness-in-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heaviness-in-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heaviness-in-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heaviness-in-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heaviness In Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heaviness-in-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heaviness-in-chest"  
       }]
     }
   </script>
@@ -186,7 +186,7 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Diagnosis, Causes and Treatment of Heaviness in Chest</h1>
-<p>Heaviness in the chest is a sensation of pressure, tightness, or discomfort that can be alarming and distressing. This feeling can vary in intensity and may be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and nausea.</p>
+<p>Heaviness in the chest is a sensation of pressure, tightness, or discomfort that can be alarming and distressing. This feeling can vary in intensity and may be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and nausea.</p>
 <p>It is important to pay attention to chest heaviness as it can be a sign of various underlying health conditions, including heart issues, respiratory problems, or anxiety.</p>
 <p>Chest heaviness can manifest in different forms and may be triggered by different causes. It is crucial to understand the symptoms and related concepts to address this condition effectively and seek appropriate medical attention when needed.</p>
 <h2 id="forms">What are the Forms of Heaviness in chest?</h2>
@@ -197,9 +197,9 @@
 <h2 id="causes">What are the Causes of Heaviness in chest?</h2>
 <p>There are several potential causes of heaviness in the chest, ranging from benign conditions to life-threatening emergencies.</p>
 <ul>
-<li>Heart-related issues such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>, or heart failure.</li>
+<li>Heart-related issues such as <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>, or heart failure.</li>
 <li>Gastrointestinal problems like acid reflux or gastritis.</li>
-<li>Respiratory conditions such as asthma, pneumonia, or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</li>
+<li>Respiratory conditions such as asthma, pneumonia, or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</li>
 <li>Musculoskeletal issues like muscle strain or costochondritis.</li>
 <li>Anxiety or panic attacks.</li>
 <li>Other factors like obesity, smoking, or poor posture.</li>
@@ -209,7 +209,7 @@
 <p>The diagnostic methods for heaviness in the chest may involve a combination of physical examinations, medical history review, imaging tests, and laboratory investigations.</p>
 <p>These methods help healthcare providers identify the underlying cause of chest heaviness and develop an appropriate treatment plan.</p>
 <p>Basic diagnostic techniques may include a thorough physical examination, listening to the heart and lungs, and checking for signs of distress.</p>
-<p>Advanced diagnostic methods like <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG), chest X-ray, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>, or stress tests may be recommended based on the suspected cause of chest heaviness.</p>
+<p>Advanced diagnostic methods like <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG), chest X-ray, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>, or stress tests may be recommended based on the suspected cause of chest heaviness.</p>
 <h2 id="treatment">What is the Treatment for Heaviness in chest?</h2>
 <p>The treatment for heaviness in the chest depends on the underlying cause and may involve a combination of medical interventions, lifestyle modifications, and advanced therapies.</p>
 <ul>
@@ -219,7 +219,7 @@
 </ul>
 <p>It is essential to follow the treatment plan recommended by healthcare providers and make necessary lifestyle adjustments to manage chest heaviness effectively and prevent complications.</p>
 <h2>When to Visit a Doctor?</h2>
-<p>It is crucial to seek medical attention if you experience persistent or severe chest heaviness, especially if it is accompanied by other symptoms like chest pain, shortness of breath, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, or sweating.</p>
+<p>It is crucial to seek medical attention if you experience persistent or severe chest heaviness, especially if it is accompanied by other symptoms like chest pain, shortness of breath, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, or sweating.</p>
 <p>These signs may indicate a serious underlying condition like a heart attack, pulmonary embolism, or other medical emergencies that require immediate evaluation and treatment.</p>
 <p>If you have a history of heart disease, respiratory issues, or anxiety disorders, it is important to monitor any changes in your symptoms and consult a healthcare provider promptly. Early detection and intervention can help prevent complications and improve outcomes.</p>
 <h2>Home Remedies for Heaviness in chest</h2>

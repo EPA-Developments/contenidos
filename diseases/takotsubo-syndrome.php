@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Takotsubo Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Takotsubo Syndrome causes temporary heart failure. Know more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/takotsubo-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/takotsubo-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/takotsubo-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/takotsubo-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Takotsubo Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/takotsubo-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/takotsubo-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Takotsubo Syndrome: Symptoms and Treatment</h1>
-<p>Takotsubo Syndrome, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome">broken heart syndrome</a>, is a condition where extreme emotional or physical stress can cause sudden and severe heart muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. Despite mimicking a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, it doesn't involve blocked arteries. This syndrome is significant as it can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and even heart failure. It predominantly affects postmenopausal women, but can also occur in men. While it's often reversible, prompt medical attention is crucial to prevent complications.</p>
+<p>Takotsubo Syndrome, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome">broken heart syndrome</a>, is a condition where extreme emotional or physical stress can cause sudden and severe heart muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. Despite mimicking a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, it doesn't involve blocked arteries. This syndrome is significant as it can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and even heart failure. It predominantly affects postmenopausal women, but can also occur in men. While it's often reversible, prompt medical attention is crucial to prevent complications.</p>
 <h2 id="causes">Causes of Takotsubo Syndrome</h2>
 <p>Takotsubo Syndrome, also known as broken heart syndrome, can be triggered by various factors. These include intense emotional or physical stress, such as the loss of a loved one, a serious illness, or a natural disaster. Other contributors may include underlying medical conditions like neurological disorders or hormonal imbalances. Additionally, the syndrome is more commonly seen in postmenopausal women. Remember, while these factors can increase the risk of developing Takotsubo Syndrome, each case is unique and may have different triggers. 
 
@@ -176,10 +176,10 @@
 <ul>
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fainting</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/low-blood-pressure">low blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/low-blood-pressure">low blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a></li>
 </ul>
 
 If you or someone you know experiences these symptoms, seek immediate medical attention as early detection can significantly impact the treatment and recovery process for Takotsubo Syndrome.</p>

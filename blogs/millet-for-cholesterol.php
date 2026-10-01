@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Millet for Cholesterol: A Heart-Healthy Choice&quot;" />
     <meta property="og:description" content="Discover how millet can help lower cholesterol levels naturally. Learn more about the benefits of including millet in your diet." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/millet-for-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/millet-for-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/millet-for-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/millet-for-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Millet For Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/millet-for-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/millet-for-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Millets in Lowering Cholesterol Levels</h1>
-<p>Are you struggling to manage your cholesterol levels despite your best efforts? Wondering if there's a natural way to tackle <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> that won't disrupt your daily routine? Millets, often overlooked in modern diets, could be the answer you've been searching for. Let's explore the role of millets in reducing cholesterol levels and promoting heart health.</p>
+<p>Are you struggling to manage your cholesterol levels despite your best efforts? Wondering if there's a natural way to tackle <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> that won't disrupt your daily routine? Millets, often overlooked in modern diets, could be the answer you've been searching for. Let's explore the role of millets in reducing cholesterol levels and promoting heart health.</p>
 <h2 class="sec-scrl" id="lowering-cholesterol-with-millet">Lowering Cholesterol with Millet</h2>
 <p>When it comes to combating high cholesterol, incorporating millets into your diet can be a game-changer. Millets are whole grains packed with nutrients and heart-healthy properties that can help lower LDL (bad) cholesterol levels while boosting HDL (good) cholesterol. The soluble fiber content in millets plays a significant role in reducing cholesterol absorption in the bloodstream, which is crucial for maintaining a healthy lipid profile.</p>
 <ul>

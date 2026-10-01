@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Left Posterior Fascicular Block: Symptoms and Treatment" >
   <meta property="og:description" content="Left Posterior Fascicular Block impacts heart conduction. Know more about its causes, symptoms, and treatments for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/left-posterior-fascicular-block">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/left-posterior-fascicular-block">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/left-posterior-fascicular-block" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/left-posterior-fascicular-block" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Left Posterior Fascicular Block",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/left-posterior-fascicular-block"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/left-posterior-fascicular-block"
       }]
     }
   </script>
@@ -167,9 +167,9 @@
 
 <ul>
 <li>Coronary artery disease affecting the heart's blood supply.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, which strains the heart muscle over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>, a disease that weakens the heart muscle.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a>, inflammation of the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, which strains the heart muscle over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>, a disease that weakens the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a>, inflammation of the heart muscle.</li>
 <li>Valvular heart disease impacting the heart's valves.</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Left Posterior Fascicular Block</h2>
@@ -177,11 +177,11 @@
 
 Symptoms of Left Posterior Fascicular Block may include:
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
 </ul>
 
 If you experience any of these symptoms, especially if they persist or worsen, it's essential to seek medical attention promptly. Early detection of LPFB allows healthcare providers to implement appropriate treatment strategies to help manage the condition effectively and reduce the risk of complications.</p>

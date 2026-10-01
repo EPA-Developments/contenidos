@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Healthy Heart: Quit Smoking Now!&quot;" />
     <meta property="og:description" content="Learn how quitting smoking can improve your heart health. Discover the benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/smoking-cessation-and-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/smoking-cessation-and-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/smoking-cessation-and-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/smoking-cessation-and-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Smoking Cessation And Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/smoking-cessation-and-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/smoking-cessation-and-heart-health"
         }
     ]
 }
@@ -155,7 +155,7 @@
 <li>Decreased risk of heart attacks and strokes</li>
 </ul>
 <h2 class="sec-scrl" id="heart-attack-prevention">Heart Attack Prevention</h2>
-<p>Smoking is a major risk factor for heart attacks. By quitting smoking, you significantly reduce your chances of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. The toxins in cigarette smoke damage your blood vessels and increase the buildup of plaque in your arteries, leading to a higher risk of heart attacks.</p>
+<p>Smoking is a major risk factor for heart attacks. By quitting smoking, you significantly reduce your chances of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. The toxins in cigarette smoke damage your blood vessels and increase the buildup of plaque in your arteries, leading to a higher risk of heart attacks.</p>
 <p>Ways quitting smoking prevents heart attacks:</p>
 <ul>
 <li>Improved blood circulation</li>

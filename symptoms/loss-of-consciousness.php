@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Loss of Consciousness: Causes, Treatment and Diagnosis" >
   <meta property="og:description" content="Loss of consciousness may point to heart complications. Read more on its symptoms, causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Loss Of Consciousness",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/loss-of-consciousness"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/loss-of-consciousness"  
       }]
     }
   </script>
@@ -186,15 +186,15 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Loss of Consciousness: Causes, Treatment and Symptoms</h1>
-<p>Loss of consciousness, also known as fainting, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a>, blackouts, passing out, or unconsciousness, is a sudden and temporary loss of awareness and responsiveness.</p>
+<p>Loss of consciousness, also known as fainting, <a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a>, blackouts, passing out, or unconsciousness, is a sudden and temporary loss of awareness and responsiveness.</p>
 <p>It occurs when there is a decrease in blood flow to the brain, leading to a brief interruption in brain function. This interruption can be caused by various factors, including underlying medical conditions or external triggers.</p>
-<p>Symptoms of loss of consciousness may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, blurred vision, sweating, nausea, confusion, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. In severe cases, it can result in a complete loss of consciousness where the individual collapses and loses awareness of their surroundings.</p>
+<p>Symptoms of loss of consciousness may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, blurred vision, sweating, nausea, confusion, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. In severe cases, it can result in a complete loss of consciousness where the individual collapses and loses awareness of their surroundings.</p>
 <p>Loss of consciousness can be a frightening experience for both the individual experiencing it and those around them. It is essential to understand the different forms of loss of consciousness, their causes, and how to manage the condition effectively.</p>
 <h2 id="forms">What are the Forms of Loss of consciousness?</h2>
 <p>There are several forms of loss of consciousness, each with its own set of symptoms and triggers.</p>
 <ul>
 <li>Vasovagal syncope: This form of loss of consciousness is often triggered by emotional stress, pain, or standing for long periods. Symptoms may include pale skin, sweating, and a slow heart rate.</li>
-<li>Cardiac syncope: This form is usually caused by an underlying heart condition that leads to an <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a> or decreased blood flow to the brain. Symptoms may include <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>.</li>
+<li>Cardiac syncope: This form is usually caused by an underlying heart condition that leads to an <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a> or decreased blood flow to the brain. Symptoms may include <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>.</li>
 <li>Neurocardiogenic syncope: This form is characterized by a sudden drop in blood pressure and heart rate, leading to a temporary loss of consciousness. Symptoms may include fatigue, nausea, and feeling lightheaded.</li>
 </ul>
 <h2 id="causes">What are the Causes of Loss of consciousness?</h2>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Velocardiofacial Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Velocardiofacial Syndrome affects multiple body systems from birth. Know more about its causes, symptoms, and treatment for better well-being." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/velocardiofacial-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/velocardiofacial-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/velocardiofacial-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/velocardiofacial-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Velocardiofacial Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/velocardiofacial-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/velocardiofacial-syndrome"
       }]
     }
   </script>
@@ -191,7 +191,7 @@ Identifying these signs promptly can lead to early diagnosis and appropriate man
 <ul>
 <li>Physical examination and medical history assessment</li>
 <li>Genetic testing such as chromosomal analysis</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart abnormalities</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart abnormalities</li>
 <li>Hearing tests to evaluate auditory issues</li>
 <li>Imaging studies like MRI or CT scans for structural abnormalities</li>
 </ul></p>

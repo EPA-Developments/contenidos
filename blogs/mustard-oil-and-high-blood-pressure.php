@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard Oil for High Blood Pressure: Natural Remedy" />
     <meta property="og:description" content="Discover how Mustard Oil can help control high blood pressure naturally, promoting heart health and hypertension prevention. Learn more now!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-high-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-high-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-high-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-high-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard Oil And High Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-high-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-high-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Mustard Oil for High Blood Pressure</h1>
-<p>Are you struggling to manage your <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> effectively? Do you find it challenging to incorporate heart-healthy habits into your daily routine? High blood pressure, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, can significantly impact your quality of life and increase the risk of serious health complications. But what if there was a natural remedy that could help you maintain healthy blood pressure levels? Mustard oil, with its potential benefits for cardiovascular health, may just be the solution you've been looking for.</p>
+<p>Are you struggling to manage your <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> effectively? Do you find it challenging to incorporate heart-healthy habits into your daily routine? High blood pressure, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, can significantly impact your quality of life and increase the risk of serious health complications. But what if there was a natural remedy that could help you maintain healthy blood pressure levels? Mustard oil, with its potential benefits for cardiovascular health, may just be the solution you've been looking for.</p>
 <h2 class="sec-scrl" id="blood-pressure-control">Blood Pressure Control</h2>
 <p>Mustard oil contains compounds that have been linked to blood pressure regulation. The presence of antioxidants in mustard oil may help reduce inflammation and oxidative stress in the body, both of which can contribute to high blood pressure. Additionally, the high levels of potassium in mustard oil can support healthy blood pressure levels by promoting proper muscle function and electrolyte balance.</p>
 <p>One way to incorporate mustard oil into your diet is by using it as a cooking oil. Replace your regular cooking oil with mustard oil to enjoy its potential benefits for blood pressure control. However, it's essential to use mustard oil in moderation, as it is calorie-dense and excessive consumption may have adverse effects.</p>

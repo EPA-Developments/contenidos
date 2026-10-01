@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Rupture: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic rupture is a life-threatening condition. Know more about its symptoms, causes, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-rupture">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-rupture">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-rupture" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-rupture" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Rupture",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-rupture"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-rupture"
       }]
     }
   </script>
@@ -161,24 +161,24 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms, and Treatment of Aortic Rupture</h1>
-<p>Aortic rupture is a severe condition where the main artery carrying blood from the heart tears or bursts open. This is a life-threatening emergency as it can lead to massive internal bleeding. Although rare, aortic rupture is significant due to its high mortality rate if not treated promptly. It can occur suddenly and without warning, making it crucial to recognize symptoms like severe chest or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/back-pain">back pain</a>. Immediate medical intervention is vital to prevent fatal outcomes. If you suspect aortic rupture, seek emergency care immediately.</p>
+<p>Aortic rupture is a severe condition where the main artery carrying blood from the heart tears or bursts open. This is a life-threatening emergency as it can lead to massive internal bleeding. Although rare, aortic rupture is significant due to its high mortality rate if not treated promptly. It can occur suddenly and without warning, making it crucial to recognize symptoms like severe chest or <a href="https://contenidos.segundaopinionmedica.org/symptoms/back-pain">back pain</a>. Immediate medical intervention is vital to prevent fatal outcomes. If you suspect aortic rupture, seek emergency care immediately.</p>
 <h2 id="causes">Causes of Aortic Rupture</h2>
 <p><h3>Main Factors Contributing to Aortic Rupture</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
-<li>Genetic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/marfan-syndrome">marfan syndrome</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
+<li>Genetic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/marfan-syndrome">marfan syndrome</a></li>
 <li>Trauma or injury to the chest</li>
-<li>Infections like syphilis or <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-dissection">aortic dissection</a></li>
+<li>Infections like syphilis or <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-dissection">aortic dissection</a></li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Rupture</h2>
 <p>Recognizing the symptoms of Aortic rupture is crucial as early detection can significantly improve outcomes. Symptoms to watch out for include:
 
 <ul>
 <li>Sudden, severe chest or upper back pain</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li>Rapid or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weak-pulse">weak pulse</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a> or dizziness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li>Rapid or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weak-pulse">weak pulse</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a> or dizziness</li>
 <li>Loss of consciousness</li>
 <li>Difficulty speaking or swallowing</li>
 </ul>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Duroziez Disease: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Duroziez Disease affects blood flow in arteries. Know more about its symptoms, causes, and treatment for improved heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/duroziez-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/duroziez-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/duroziez-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/duroziez-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Duroziez Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/duroziez-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/duroziez-disease"
       }]
     }
   </script>
@@ -163,11 +163,11 @@
 <h1>Symptoms and Treatment of Duroziez Disease</h1>
 <p>Duroziez Disease, also known as Duroziez Sign, is a medical condition characterized by a distinct "pistol shot" sound heard when listening to the arteries with a stethoscope. This unique sound can indicate underlying issues with the heart valves or arteries, making it a significant diagnostic marker for cardiovascular diseases. While Duroziez Disease itself is rare, its detection can prompt further investigation into potential heart problems. Understanding this sign's significance can aid in early detection and management of heart conditions, emphasizing the importance of regular cardiovascular screenings.</p>
 <h2 id="causes">Causes of Duroziez Disease</h2>
-<p>Duroziez Disease, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation">aortic regurgitation</a>, develops due to various factors:
+<p>Duroziez Disease, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation">aortic regurgitation</a>, develops due to various factors:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> damaging the aortic valve</li>
-<li>Infections like <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> weakening the valve</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> damaging the aortic valve</li>
+<li>Infections like <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> weakening the valve</li>
 <li>Connective tissue disorders affecting valve structure</li>
 <li>Age-related wear and tear on the valve</li>
 </ul></p>
@@ -175,10 +175,10 @@
 <p>Recognizing the symptoms of Duroziez Disease is crucial for early detection and improved outcomes. This condition, also known as aortic regurgitation, occurs when the aortic valve doesn't close properly, causing blood to leak back into the heart.
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or tightness</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, especially with exertion</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or tightness</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, especially with exertion</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Dizziness or lightheadedness</li>
 </ul>
 

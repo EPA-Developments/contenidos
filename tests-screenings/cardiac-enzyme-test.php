@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Cardiac Enzyme Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Cardiac enzyme test measures heart muscle damage. Know more about its purpose, costs, and normal Range for early heart disease detection." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-enzyme-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-enzyme-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-enzyme-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-enzyme-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Enzyme Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cardiac-enzyme-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cardiac-enzyme-test"  
       }]
     }
   </script>
@@ -179,14 +179,14 @@
 <p>A Cardiac Enzyme Test is a diagnostic pathology test used to detect specific enzymes released into the bloodstream when there is damage to the heart muscle.</p>
 <p>These enzymes are markers of heart stress and damage, providing valuable information to healthcare providers about the health of the heart.</p>
 <p>One of the key enzymes measured in a Cardiac Enzyme Test is creatine kinase (CK), which is released when there is damage to the heart muscle.</p>
-<p>Another important enzyme is troponin, which is specific to heart muscle cells and is released into the bloodstream following a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. These enzymes play a crucial role in diagnosing conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> or heart attack.</p>
+<p>Another important enzyme is troponin, which is specific to heart muscle cells and is released into the bloodstream following a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. These enzymes play a crucial role in diagnosing conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> or heart attack.</p>
 <p>The Cardiac Enzyme Test is a vital tool in assessing heart damage and monitoring heart health. It helps healthcare providers determine the extent of heart muscle damage and guide treatment decisions for patients with heart conditions.</p>
 <h2 id="purpose">What is the Purpose of Performing a Cardiac Enzyme Test?</h2>
 <p>The primary purpose of performing a Cardiac Enzyme Test is to detect and diagnose conditions such as myocardial infarction, also known as a heart attack.</p>
 <p>By measuring the levels of specific enzymes in the bloodstream, healthcare providers can assess the extent of heart damage and determine the appropriate treatment for the patient.</p>
 <p>Additionally, Cardiac Enzyme Tests are used to monitor heart attack recovery and assess the effectiveness of treatment.</p>
 <p>By tracking changes in enzyme levels over time, healthcare providers can evaluate the progress of the patient and make any necessary adjustments to their care plan.</p>
-<p>Cardiac Enzyme Tests are also valuable in assessing heart stress and damage in patients with acute coronary syndrome, a group of conditions that includes unstable <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> and heart attacks.</p>
+<p>Cardiac Enzyme Tests are also valuable in assessing heart stress and damage in patients with acute coronary syndrome, a group of conditions that includes unstable <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> and heart attacks.</p>
 <p>By measuring enzyme levels, healthcare providers can quickly diagnose these conditions and provide timely intervention.</p>
 <h2 id="costs">What are the Costs of Cardiac Enzyme Test Tests in Americas?</h2>
 <p>The cost of a Cardiac Enzyme Test in Americas can vary depending on the specific enzymes being measured, the laboratory performing the test, and any additional services required.</p>
@@ -206,7 +206,7 @@
 <h2>What Do High Cardiac Enzyme Test Levels Indicate?</h2>
 <p>High levels of cardiac enzymes in the bloodstream indicate damage to the heart muscle, often caused by conditions such as myocardial infarction or heart attack.</p>
 <p>Elevated levels of enzymes such as CK and troponin suggest that there has been recent damage to the heart, and healthcare providers may recommend further testing to determine the extent of the damage.</p>
-<p>Other conditions that can cause high cardiac enzyme levels include heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocarditis">myocarditis</a> (inflammation of the heart muscle), and pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
+<p>Other conditions that can cause high cardiac enzyme levels include heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocarditis">myocarditis</a> (inflammation of the heart muscle), and pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
 <p>It is essential to consult with your healthcare provider to determine the underlying cause of high enzyme levels and develop an appropriate treatment plan.</p>
 <p>High cardiac enzyme levels can pose risks to heart health and may require immediate medical attention.</p>
 <p>It is crucial to monitor changes in enzyme levels and follow your healthcare provider's recommendations for further testing and treatment to ensure optimal heart health.</p>

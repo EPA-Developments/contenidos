@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin C Impact on Blood Pressure" />
     <meta property="og:description" content="Discover how Vitamin C impacts blood pressure levels and supports cardiovascular health naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin C And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-c-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-c-and-blood-pressure"
         }
     ]
 }
@@ -130,12 +130,12 @@
             <div class="article-content">
               <h1>The Impact of Vitamin C on Blood Pressure</h1>
 <p>Are you struggling to manage your blood pressure despite various efforts? Have you ever wondered about the role of Vitamin C in regulating blood pressure and how it impacts your daily life?</p>
-<p>Many people face challenges with <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, affecting their overall well-being and daily activities. Understanding the relationship between Vitamin C and blood pressure can provide valuable insights into managing this condition effectively.</p>
+<p>Many people face challenges with <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, affecting their overall well-being and daily activities. Understanding the relationship between Vitamin C and blood pressure can provide valuable insights into managing this condition effectively.</p>
 <h2 class="sec-scrl" id="lowering-blood-pressure">Lowering Blood Pressure</h2>
 <p>Vitamin C plays a crucial role in promoting healthy blood pressure levels. It acts as a vasodilator, helping to relax and widen blood vessels, which in turn reduces the pressure exerted on the vessel walls. By enhancing vasodilation, Vitamin C supports improved blood flow and circulation, leading to lower blood pressure readings.</p>
 <p>Incorporating Vitamin C-rich foods such as oranges, strawberries, and bell peppers into your diet can contribute to better blood pressure management. Additionally, Vitamin C supplements can be beneficial for individuals with hypertension, but it's essential to consult with a healthcare provider before starting any new supplement regimen.</p>
 <h2 class="sec-scrl" id="hypertension-management">Hypertension Management</h2>
-<p>For individuals struggling with hypertension, Vitamin C offers a natural approach to complement traditional treatment methods. Along with lifestyle modifications and prescribed medications, ensuring an adequate intake of Vitamin C can support overall cardiovascular health and help in managing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>For individuals struggling with hypertension, Vitamin C offers a natural approach to complement traditional treatment methods. Along with lifestyle modifications and prescribed medications, ensuring an adequate intake of Vitamin C can support overall cardiovascular health and help in managing <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <ul>
 <li>Regularly monitoring blood pressure levels and incorporating Vitamin C-rich foods can be a proactive way to manage hypertension.</li>
 <li>Discussing with a healthcare professional about the inclusion of Vitamin C supplements in your treatment plan is essential for personalized care.</li>

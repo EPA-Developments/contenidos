@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Blood Clots in Stool: Causes and Symptoms">
   <meta property="og:description" content="Discover what blood clots in stool may indicate and when to seek medical attention. Learn more about potential causes and treatments.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-stool-causes-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blood-clots-stool-causes-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-stool-causes-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blood-clots-stool-causes-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Blood Clots In Stool: Causes And Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/blood-clots-stool-causes-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/blood-clots-stool-causes-symptoms"  
       }]
     }
   </script>

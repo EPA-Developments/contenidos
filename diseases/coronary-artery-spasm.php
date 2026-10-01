@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Artery Spasm: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Coronary Artery Spasm causes sudden chest pain by narrowing arteries. Know more about its symptoms, causes, and treatment for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Coronary Artery Spasm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-spasm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-spasm"
       }]
     }
   </script>
@@ -168,17 +168,17 @@
 <h1>Causes, and Treatment of Coronary Artery Spasm</h1>
 <p>Coronary Artery Spasm: Understanding the Causes, Symptoms, Diagnosis, and Treatment</p>
 <p>Coronary Artery Spasm is a critical condition affecting the blood vessels supplying the heart muscles.</p>
-<p>This sudden constriction of the coronary arteries can lead to decreased blood flow to the heart, potentially causing <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, heart attacks, or even sudden cardiac death.</p>
+<p>This sudden constriction of the coronary arteries can lead to decreased blood flow to the heart, potentially causing <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, heart attacks, or even sudden cardiac death.</p>
 <p>While the prevalence of Coronary Artery Spasm is relatively low compared to other heart conditions, its impact on health can be severe.</p>
-<p>The spasm can disrupt the essential functions of the heart, such as oxygen and nutrient delivery, leading to short-term symptoms like chest pain or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> and long-term risks like heart failure or arrhythmias if left untreated.</p>
+<p>The spasm can disrupt the essential functions of the heart, such as oxygen and nutrient delivery, leading to short-term symptoms like chest pain or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> and long-term risks like heart failure or arrhythmias if left untreated.</p>
 <p>One of the challenges of Coronary Artery Spasm is its asymptomatic nature in the early stages, making early detection through regular screenings crucial for preventing severe complications.</p>
 <h2 id="causes">Causes of Coronary Artery Spasm</h2>
 <p>The causes of Coronary Artery Spasm can vary from underlying health conditions to lifestyle factors. Understanding these causes is vital in managing and preventing the occurrence of spasms.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction, characterized by impaired blood vessel function, can lead to abnormal vasoconstriction in the coronary arteries over time, reducing blood flow to the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction, characterized by impaired blood vessel function, can lead to abnormal vasoconstriction in the coronary arteries over time, reducing blood flow to the heart muscle.</li>
 <li>Hyperreactivity to Stimuli: Some individuals may have an exaggerated response to certain triggers, such as stress or cold temperatures, leading to spasms in the coronary arteries.</li>
 <li>Drug-Induced Spasms: Certain medications or substances, like cocaine or certain migraine medications, can trigger coronary artery spasms, posing a risk to heart health.</li>
-<li>Underlying Heart Conditions: Conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> or vasospastic <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> can increase the likelihood of developing Coronary Artery Spasm due to compromised arterial function.</li>
+<li>Underlying Heart Conditions: Conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> or vasospastic <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> can increase the likelihood of developing Coronary Artery Spasm due to compromised arterial function.</li>
 </ul>
 <p>Additionally, secondary risk factors and lifestyle contributors can further exacerbate the risk of experiencing Coronary Artery Spasm.</p>
 <h3>Secondary Causes</h3>
@@ -192,12 +192,12 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Chest Pain: Early-stage spasms may manifest as chest pain or discomfort, often described as pressure or squeezing, affecting daily activities and causing anxiety.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> or sudden shortness of breath may occur, impacting physical well-being and causing distress.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> or sudden shortness of breath may occur, impacting physical well-being and causing distress.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Prolonged Chest Pain: Severe and prolonged chest pain or tightness can be a sign of advanced spasms, affecting both physical and emotional well-being significantly.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>: Advanced spasms may lead to palpitations or irregular heartbeats, causing palpable distress and indicating a more severe condition.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>: Advanced spasms may lead to palpitations or irregular heartbeats, causing palpable distress and indicating a more severe condition.</li>
 </ul>
 <h2>Diagnosis of Coronary Artery Spasm</h2>
 <p>Diagnosing Coronary Artery Spasm involves a series of tests to accurately identify the condition and determine the appropriate treatment plan.</p>

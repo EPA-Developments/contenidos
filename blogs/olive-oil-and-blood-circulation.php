@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Olive Oil Benefits for Circulation & Heart Health&quot;" />
     <meta property="og:description" content="Discover how olive oil boosts blood circulation and supports heart function for better health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-and-blood-circulation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-and-blood-circulation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-and-blood-circulation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olive-oil-and-blood-circulation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olive Oil And Blood Circulation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olive-oil-and-blood-circulation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olive-oil-and-blood-circulation"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <h2 class="sec-scrl" id="heart-function-support">Can Olive Oil Support Heart Function?</h2>
 <p>When it comes to heart function support, olive oil offers multiple benefits. The monounsaturated fats in olive oil help improve heart pumping efficiency by reducing the workload on the heart. This can lead to lower blood pressure and decreased strain on the cardiovascular system. Moreover, the antioxidants in olive oil protect the heart from oxidative damage and support the production of healthy red blood cells, crucial for optimal oxygen delivery throughout the body. By incorporating olive oil into your diet, you can provide essential support for your heart's function.</p>
 <h2 class="sec-scrl" id="olive-oil-effects">What Are the Effects of Olive Oil on the Heart?</h2>
-<p>The effects of olive oil on the heart are multifaceted. Apart from promoting better blood flow, circulatory health, and heart function, olive oil also helps reduce inflammation in the body, a key factor in the development of cardiovascular diseases. The anti-inflammatory properties of olive oil can protect against conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, further safeguarding your heart health. Additionally, the rich antioxidant content of olive oil contributes to overall heart protection, making it a valuable addition to a heart-healthy diet.</p>
+<p>The effects of olive oil on the heart are multifaceted. Apart from promoting better blood flow, circulatory health, and heart function, olive oil also helps reduce inflammation in the body, a key factor in the development of cardiovascular diseases. The anti-inflammatory properties of olive oil can protect against conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, further safeguarding your heart health. Additionally, the rich antioxidant content of olive oil contributes to overall heart protection, making it a valuable addition to a heart-healthy diet.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Olive oil plays a significant role in improving blood circulation and supporting heart function. By incorporating this heart-healthy oil into your daily diet, you can experience enhanced circulatory health, better blood flow, and overall cardiovascular well-being. The polyphenols, monounsaturated fats, and antioxidants present in olive oil work together to promote a healthy heart and reduce the risk of cardiovascular diseases. Make olive oil a staple in your kitchen to reap its numerous benefits for your heart and circulatory system.</p>
             </div>

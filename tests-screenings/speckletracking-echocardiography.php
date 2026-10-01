@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose and Normal Range of Speckletracking Echocardiography" property="og:title"/>
 <meta content="Speckle-tracking echocardiography analyzes heart muscle motion. Read more about its purpose, cost, and normal Range for better results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/speckletracking-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/speckletracking-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/speckletracking-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/speckletracking-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Speckle-Tracking Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/speckletracking-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/speckletracking-echocardiography"  
       }]
     }
   </script>
@@ -156,10 +156,10 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs and Normal Range of Speckletracking Echocardiography</h1>
-<p>Speckle-Tracking <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive imaging technique that utilizes ultrasound to assess the movement of the heart muscle.</p>
+<p>Speckle-Tracking <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive imaging technique that utilizes ultrasound to assess the movement of the heart muscle.</p>
 <p>By tracking speckles or small acoustic markers within the myocardium, this technology can measure strain and deformation of the heart muscle in real-time.</p>
 <p>This advanced imaging modality provides detailed information on the function of the heart, offering insights into cardiac strain, myocardial deformation, and overall heart function assessment.</p>
-<p>Speckle-tracking echocardiography is particularly useful in evaluating cardiac function in patients with heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, or other heart conditions. It allows clinicians to detect subtle changes in heart muscle movement that may not be apparent with traditional echocardiography.</p>
+<p>Speckle-tracking echocardiography is particularly useful in evaluating cardiac function in patients with heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, or other heart conditions. It allows clinicians to detect subtle changes in heart muscle movement that may not be apparent with traditional echocardiography.</p>
 <p>By visualizing the movement of speckles in the heart muscle, speckle-tracking echocardiography provides a more comprehensive assessment of cardiac function compared to conventional imaging techniques.</p>
 <h2 id="purpose">What is the Purpose of Performing a Speckle-Tracking Echocardiography Test?</h2>
 <p>The primary purpose of performing a speckle-tracking echocardiography test is to assess myocardial strain and detect early signs of heart dysfunction. This test plays a crucial role in monitoring heart disease progression and evaluating the effectiveness of treatment interventions.</p>

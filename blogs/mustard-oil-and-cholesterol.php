@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard Oil and Cholesterol: Heart Health Link" />
     <meta property="og:description" content="Discover the heart-healthy link between Mustard Oil and Cholesterol for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard Oil And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-oil-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-oil-and-cholesterol"
         }
     ]
 }
@@ -149,7 +149,7 @@
 <p>Preventing heart disease involves making lifestyle choices that support heart health, including dietary modifications. Discover how mustard oil can be a valuable addition to your heart-healthy regimen:</p>
 <ul>
 <li>Mustard oil's high smoke point makes it suitable for cooking at high temperatures without producing harmful compounds, making it a heart-friendly cooking oil.</li>
-<li>Regular consumption of mustard oil has been associated with a reduced risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in the arteries.</li>
+<li>Regular consumption of mustard oil has been associated with a reduced risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, a condition characterized by plaque buildup in the arteries.</li>
 <li>Adding mustard oil to your salads or using it for light sautéing can enhance the flavor of your dishes while promoting heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="healthy-fats">Healthy Fats in Mustard Oil</h2>

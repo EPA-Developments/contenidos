@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Noncardiac Chest Pain: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Noncardiac Chest Pain isn’t related to heart disease. Know more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/noncardiac-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/noncardiac-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/noncardiac-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/noncardiac-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Noncardiac Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/noncardiac-chest-pain"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/noncardiac-chest-pain"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, and Treatment of Noncardiac Chest Pain</h1>
-<p>Noncardiac chest pain refers to chest discomfort that is not related to heart disease or cardiac issues. While it may not be life-threatening like cardiac <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, it can still cause significant distress and impact daily life.</p>
+<p>Noncardiac chest pain refers to chest discomfort that is not related to heart disease or cardiac issues. While it may not be life-threatening like cardiac <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, it can still cause significant distress and impact daily life.</p>
 <p>This type of chest pain is quite common, with a prevalence of around 20-40% in the general population. Noncardiac chest pain can stem from various sources, including gastrointestinal issues, musculoskeletal problems, anxiety, and other non-cardiac causes.</p>
 <p>Noncardiac chest pain can affect multiple functions of the body, including physical, emotional, and psychological well-being. In the short term, it can lead to anxiety, stress, and decreased quality of life.</p>
 <p>In the long term, untreated noncardiac chest pain may contribute to chronic pain conditions, mental health disorders, and decreased overall health.</p>
@@ -199,7 +199,7 @@
 <h2>Diagnosis of Noncardiac Chest Pain</h2>
 <h3>Diagnostic Tests</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG helps rule out cardiac causes of chest pain by assessing the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG helps rule out cardiac causes of chest pain by assessing the heart's electrical activity.</li>
 <li>Esophageal pH Monitoring: This test measures acid levels in the esophagus, aiding in the diagnosis of GERD-related chest pain.</li>
 <li>Chest X-ray: X-rays can reveal musculoskeletal abnormalities or lung issues that may be causing noncardiac chest pain.</li>
 <li>Esophagogastroduodenoscopy (EGD): EGD allows visualization of the esophagus, stomach, and duodenum to identify structural causes of chest pain.</li>

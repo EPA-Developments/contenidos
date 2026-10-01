@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Stress Echocardiography: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Stress echocardiography evaluates heart function under stress. Read more about its purpose, cost, and normal Range for accurate results." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-echocardiography" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/stress-echocardiography" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-echocardiography" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/stress-echocardiography" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stress Echocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-echocardiography"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/stress-echocardiography"  
       }]
     }
   </script>
@@ -156,12 +156,12 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Costs, Purpose, and Normal Range of Stress Echocardiography</h1>
-<p>Stress <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> is a non-invasive diagnostic test that combines echocardiography with physical stress to assess how well your heart is functioning.</p>
-<p>During the test, a trained technician will use ultrasound waves (<a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>) to create images of your heart before and after exercise or pharmacological stress.</p>
+<p>Stress <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> is a non-invasive diagnostic test that combines echocardiography with physical stress to assess how well your heart is functioning.</p>
+<p>During the test, a trained technician will use ultrasound waves (<a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>) to create images of your heart before and after exercise or pharmacological stress.</p>
 <p>This allows your healthcare provider to evaluate how your heart responds to stress and identify any abnormalities in blood flow to the heart muscle.</p>
 <p>For example, if you are unable to exercise on a treadmill due to physical limitations, pharmacological stress agents like dobutamine or adenosine can be used to simulate the effects of exercise on your heart.</p>
 <p>This makes stress echocardiography a versatile test that can be tailored to individual patient needs.</p>
-<p>Stress echocardiography is often used to diagnose and evaluate a range of heart conditions, including coronary artery disease, heart valve problems, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
+<p>Stress echocardiography is often used to diagnose and evaluate a range of heart conditions, including coronary artery disease, heart valve problems, and <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</p>
 <p>By assessing the heart's function under stress, this test provides valuable information about heart health and helps guide treatment decisions.</p>
 <h2 id="purpose">What is the Purpose of Performing a Stress Echocardiography Test?</h2>
 <p>The primary purpose of performing a stress echocardiography test is to detect heart disease and assess the risk of heart-related events such as heart attacks.</p>

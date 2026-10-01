@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Persistent Cough: Causes, Symptoms, Treatment & When to Seek Help">
   <meta property="og:description" content="Experiencing a persistent cough? Learn about causes, symptoms, treatment options, and when to seek help for persistent cough, including links to heart disease and chronic bronchitis.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Persistent Cough",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/persistent-cough"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/persistent-cough"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
             <div class="article-content"><h1>Persistent Cough: Causes, Symptoms, Treatment &amp; When to Seek Help</h1>
 <p>Persistent cough refers to a cough that lingers for an extended period, often lasting for more than eight weeks. It can be a troubling symptom that affects your quality of life and may indicate an underlying health issue.</p>
 <p>A persistent cough is different from a normal cough that accompanies a cold or respiratory infection, as it persists despite treatment or time passing.</p>
-<p>Symptoms of a persistent cough may include a dry, hacking cough, coughing up blood or mucus, wheezing, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, chest discomfort, and fatigue.</p>
+<p>Symptoms of a persistent cough may include a dry, hacking cough, coughing up blood or mucus, wheezing, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, chest discomfort, and fatigue.</p>
 <p>It can be a sign of various conditions ranging from respiratory infections to more serious issues like chronic bronchitis or heart disease.</p>
 <h2 id="forms">What are the Forms of Persistent cough?</h2>
 <p>Chronic cough is a form of persistent cough that lasts for more than eight weeks and is often related to conditions like asthma, postnasal drip, or acid reflux.</p>
@@ -204,7 +204,7 @@
 <li>Asthma</li>
 <li>Chronic bronchitis</li>
 </ul>
-<p>In some cases, medications like ACE inhibitors used to treat <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can cause a persistent cough as a side effect. It's essential to identify the underlying cause of your cough to determine the appropriate treatment.</p>
+<p>In some cases, medications like ACE inhibitors used to treat <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can cause a persistent cough as a side effect. It's essential to identify the underlying cause of your cough to determine the appropriate treatment.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Persistent cough?</h2>
 <p>Diagnosing the cause of a persistent cough may involve a series of tests and examinations to pinpoint the underlying issue.</p>
 <p>Your healthcare provider may start with a physical exam to listen to your lungs and gather information about your symptoms and medical history.</p>
@@ -223,7 +223,7 @@
 <li>Respiratory therapies</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
-<p>It's essential to seek medical attention if your persistent cough is accompanied by additional symptoms like fever, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, or coughing up blood.</p>
+<p>It's essential to seek medical attention if your persistent cough is accompanied by additional symptoms like fever, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, or coughing up blood.</p>
 <p>If your cough lasts for more than eight weeks or significantly impacts your daily life, consult with a healthcare provider to determine the underlying cause and appropriate treatment.</p>
 <p>In cases where a cough is persistent and does not respond to over-the-counter remedies or lifestyle changes, a healthcare professional can conduct further evaluations to identify the root cause and provide targeted interventions.</p>
 <h2>Home Remedies for Persistent cough</h2>

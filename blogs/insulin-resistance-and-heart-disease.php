@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Insulin Resistance and Heart Disease: The Link&quot;" />
     <meta property="og:description" content="Explore the link between Insulin Resistance and Heart Disease, Glucose metabolism, and more. Learn about the impact on cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/insulin-resistance-and-heart-disease" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/insulin-resistance-and-heart-disease" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/insulin-resistance-and-heart-disease" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/insulin-resistance-and-heart-disease" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Insulin Resistance And Heart Disease",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/insulin-resistance-and-heart-disease"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/insulin-resistance-and-heart-disease"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <p>Glucose metabolism plays a crucial role in the development of insulin resistance and its relationship to heart disease risk. When your body has difficulty processing glucose from the foods you eat, it can lead to elevated blood sugar levels, contributing to metabolic dysfunction.</p>
 <p>Key Points:
 - Impaired glucose metabolism can increase the risk of developing insulin resistance.
-- Elevated blood sugar levels can promote inflammation and oxidative stress, contributing to <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+- Elevated blood sugar levels can promote inflammation and oxidative stress, contributing to <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <h2 class="sec-scrl" id="heart-disease-risk">Understanding the Connection Between Insulin Resistance and Heart Disease Risk</h2>
 <p>Individuals with insulin resistance are at a higher risk of developing heart disease compared to those with normal insulin sensitivity. The metabolic dysfunction associated with insulin resistance can have far-reaching effects on cardiovascular health, increasing the likelihood of cardiovascular events such as heart attacks and strokes.</p>
 <p>Key Points:

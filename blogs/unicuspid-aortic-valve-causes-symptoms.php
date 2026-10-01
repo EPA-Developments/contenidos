@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Unicuspid Aortic Valve: Causes and Symptoms">
   <meta property="og:description" content="Learn about the causes and symptoms of a unicuspid aortic valve, a rare congenital heart condition. Find out more about unicuspid aortic valve here.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/unicuspid-aortic-valve-causes-symptoms">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/unicuspid-aortic-valve-causes-symptoms">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/unicuspid-aortic-valve-causes-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/unicuspid-aortic-valve-causes-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Unicuspid Aortic Valve: Causes And Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/unicuspid-aortic-valve-causes-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/unicuspid-aortic-valve-causes-symptoms"  
       }]
     }
   </script>

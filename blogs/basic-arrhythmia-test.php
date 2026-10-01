@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Arrhythmia Risk Factors & Basic Prevention Testing&quot;" />
     <meta property="og:description" content="Learn about arrhythmia risk factors and basic testing for prevention to safeguard your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/basic-arrhythmia-test" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/basic-arrhythmia-test" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/basic-arrhythmia-test" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/basic-arrhythmia-test" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Basic Arrhythmia Test",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/basic-arrhythmia-test"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/basic-arrhythmia-test"
         }
     ]
 }
@@ -175,12 +175,12 @@
 <ul>
 <li>Age: Advancing age can increase the risk of developing arrhythmias.</li>
 <li>Family History: A family history of arrhythmias or heart disease can predispose individuals to similar conditions.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can strain the heart and lead to irregular heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can strain the heart and lead to irregular heart rhythms.</li>
 <li>Diabetes: Uncontrolled diabetes can affect the heart's electrical system, causing arrhythmias.</li>
 </ul>
 <p>By recognizing these risk factors, individuals can take proactive steps to monitor their heart health and prevent potential complications.</p>
 <h2 class="sec-scrl" id="basic-arrhythmia-test">The Role of Basic Arrhythmia Testing</h2>
-<p>What is a basic arrhythmia test, and how can it help in early heart disease detection? Basic arrhythmia testing, such as an <a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (EKG), plays a crucial role in:</p>
+<p>What is a basic arrhythmia test, and how can it help in early heart disease detection? Basic arrhythmia testing, such as an <a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (EKG), plays a crucial role in:</p>
 <ul>
 <li>Assessing Heart Rhythms: An EKG measures the electrical activity of the heart and identifies abnormal rhythms.</li>
 <li>Diagnosing Arrhythmias: Basic cardiac tests can help healthcare providers diagnose various types of arrhythmias.</li>

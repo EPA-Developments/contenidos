@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cardiac Ablation Risks & Complications: What to Know&quot;" />
     <meta property="og:description" content="Learn about the risks and complications of cardiac catheter ablation, a common heart arrhythmia treatment. Understand the potential challenges involved in this catheter-based procedure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-catheter-ablation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cardiac-catheter-ablation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cardiac-catheter-ablation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cardiac-catheter-ablation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cardiac Catheter Ablation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cardiac-catheter-ablation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cardiac-catheter-ablation"
         }
     ]
 }
@@ -169,11 +169,11 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Dangers of Cardiac Ablation Complications</h1>
-<p>Are you facing challenges managing your heart rhythm disorder with traditional methods? Does your heart arrhythmia treatment impact your daily activities and quality of life? Let's delve into the risks and complications associated with cardiac <a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a> to help you make informed decisions about your cardiac treatment.</p>
+<p>Are you facing challenges managing your heart rhythm disorder with traditional methods? Does your heart arrhythmia treatment impact your daily activities and quality of life? Let's delve into the risks and complications associated with cardiac <a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a> to help you make informed decisions about your cardiac treatment.</p>
 <h2 class="sec-scrl" id="heart arrhythmia treatment">Heart Arrhythmia Treatment</h2>
-<p>Heart arrhythmias are abnormal heart rhythms that can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, and fatigue. When medications fail to control these irregular rhythms, cardiac catheter ablation may be recommended as a catheter-based procedure to treat the underlying heart rhythm disorder. During the electrophysiology procedure, a thin, flexible tube is guided through a blood vessel to the heart to correct the abnormal electrical signals causing the arrhythmia.</p>
+<p>Heart arrhythmias are abnormal heart rhythms that can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, and fatigue. When medications fail to control these irregular rhythms, cardiac catheter ablation may be recommended as a catheter-based procedure to treat the underlying heart rhythm disorder. During the electrophysiology procedure, a thin, flexible tube is guided through a blood vessel to the heart to correct the abnormal electrical signals causing the arrhythmia.</p>
 <h2 class="sec-scrl" id="catheter based procedure">Catheter-Based Procedure</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a> therapy is a <a href="https://plataforma.epa-bienestar.com.ar/procedures/minimally-invasive-heart-surgery">minimally invasive heart surgery</a> that aims to restore normal heart rhythm by selectively destroying the heart tissue responsible for the arrhythmia. While the procedure is generally safe and effective, there are risks and complications associated with catheter ablation that patients should be aware of before undergoing the treatment.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a> therapy is a <a href="https://contenidos.segundaopinionmedica.org/procedures/minimally-invasive-heart-surgery">minimally invasive heart surgery</a> that aims to restore normal heart rhythm by selectively destroying the heart tissue responsible for the arrhythmia. While the procedure is generally safe and effective, there are risks and complications associated with catheter ablation that patients should be aware of before undergoing the treatment.</p>
 <ul>
 <li> Bleeding or infection at the catheter insertion site</li>
 <li> Damage to the heart's normal electrical pathways</li>
@@ -181,7 +181,7 @@
 <li> Formation of blood clots</li>
 </ul>
 <h2 class="sec-scrl" id="heart rhythm disorder">Heart Rhythm Disorder</h2>
-<p>Individuals with complex arrhythmias or <a href="https://plataforma.epa-bienestar.com.ar/diseases/structural-heart-disease">structural heart disease</a> may face a higher risk of complications during or after the ablation procedure. It is essential for patients to discuss their specific condition and medical history with their healthcare provider to evaluate the potential risks and benefits of cardiac catheter ablation as an arrhythmia surgery.</p>
+<p>Individuals with complex arrhythmias or <a href="https://contenidos.segundaopinionmedica.org/diseases/structural-heart-disease">structural heart disease</a> may face a higher risk of complications during or after the ablation procedure. It is essential for patients to discuss their specific condition and medical history with their healthcare provider to evaluate the potential risks and benefits of cardiac catheter ablation as an arrhythmia surgery.</p>
 <h2 class="sec-scrl" id="cardiac ablation therapy">Cardiac Ablation Therapy</h2>
 <p>While most patients experience significant improvement in their symptoms following catheter ablation, some may develop complications that require additional treatment or monitoring. Understanding the possible risks associated with this electrophysiology procedure can help patients make informed decisions and actively participate in their arrhythmia management.</p>
 <ul>

@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Pulse Volume Recording: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Pulse volume recording tests blood flow in the limbs to check for blockages. Read more about its purpose, cost, and normal Range for better heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulse-volume-recording" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/pulse-volume-recording" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulse-volume-recording" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/pulse-volume-recording" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulse Volume Recording",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/pulse-volume-recording"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/pulse-volume-recording"  
       }]
     }
   </script>
@@ -188,7 +188,7 @@
 <p>By measuring pulse volume and waveform patterns, healthcare providers can assess the efficiency of blood flow and detect any abnormalities that may indicate underlying vascular issues.</p>
 <p>Benefits of PVR include its non-invasive nature, which makes it a safe and comfortable option for patients. It provides real-time data on blood flow, allowing for immediate assessment and diagnosis.</p>
 <p>PVR is also useful in monitoring the progression of vascular diseases and evaluating the effectiveness of treatments over time.</p>
-<p>Scenarios where a PVR test may be useful include diagnosing peripheral artery disease, assessing the severity of arterial occlusions, evaluating blood flow in patients with diabetes or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, and monitoring the effects of medications on circulatory function.</p>
+<p>Scenarios where a PVR test may be useful include diagnosing peripheral artery disease, assessing the severity of arterial occlusions, evaluating blood flow in patients with diabetes or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, and monitoring the effects of medications on circulatory function.</p>
 <p>Overall, PVR plays a crucial role in maintaining arterial health and preventing complications related to vascular diseases.</p>
 <h2 id="costs">What are the Costs of Pulse Volume Recording Tests in Americas?</h2>
 <p>The costs of Pulse Volume Recording tests in Americas can vary depending on several factors, including the location of the healthcare facility, the expertise of the healthcare provider, and any additional services included in the test.</p>
@@ -210,9 +210,9 @@
 <p>A table showing the ranges and meanings of different PVR values can help healthcare providers interpret the test results accurately and identify any abnormalities or deviations from the normal range.</p>
 <p>Understanding the normal values of PVR is essential for making informed decisions about the patient's circulatory health.</p>
 <h2>What Do High Pulse Volume Recording Levels Indicate?</h2>
-<p>High Pulse Volume Recording levels may indicate increased arterial stiffness, hypertension, <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, or other conditions that affect blood flow and circulation.</p>
+<p>High Pulse Volume Recording levels may indicate increased arterial stiffness, hypertension, <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, or other conditions that affect blood flow and circulation.</p>
 <p>Elevated pulse volume values can also be a sign of arterial occlusions, where the blood flow is restricted due to blockages in the arteries.</p>
-<p>Causes of high PVR levels may include smoking, obesity, sedentary lifestyle, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, and diabetes. Risks associated with high PVR levels include an increased risk of heart disease, stroke, peripheral artery disease, and other cardiovascular complications.</p>
+<p>Causes of high PVR levels may include smoking, obesity, sedentary lifestyle, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, and diabetes. Risks associated with high PVR levels include an increased risk of heart disease, stroke, peripheral artery disease, and other cardiovascular complications.</p>
 <p>Healthcare providers may recommend lifestyle changes, medications, or surgical interventions to address the underlying causes of high PVR levels.</p>
 <p>High PVR levels can have serious implications for the patient's overall health and well-being, highlighting the importance of early detection and intervention.</p>
 <p>By monitoring PVR levels and addressing any underlying vascular issues promptly, healthcare providers can help patients maintain optimal circulatory function and reduce the risk of complications associated with high PVR levels.</p>

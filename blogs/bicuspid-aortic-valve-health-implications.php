@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Bicuspid Aortic Heart Valve: Health Implications">
   <meta property="og:description" content="Learn about the implications of a bicuspid aortic heart valve for your health and well-being. Understand the potential risks and treatments available.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-aortic-valve-health-implications">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/bicuspid-aortic-valve-health-implications">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-aortic-valve-health-implications" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/bicuspid-aortic-valve-health-implications" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Bicuspid Aortic Heart Valve: Health Implications",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/bicuspid-aortic-valve-health-implications"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/bicuspid-aortic-valve-health-implications"  
       }]
     }
   </script>

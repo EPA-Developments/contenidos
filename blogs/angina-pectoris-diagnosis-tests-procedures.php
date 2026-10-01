@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Angina Pectoris Diagnosis: Tests and Procedures">
   <meta property="og:description" content="Learn about angina pectoris diagnosis, including the tests and procedures used to diagnose this condition. Understand the process and get informed.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/angina-pectoris-diagnosis-tests-procedures">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/angina-pectoris-diagnosis-tests-procedures">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/angina-pectoris-diagnosis-tests-procedures" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/angina-pectoris-diagnosis-tests-procedures" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Angina Pectoris Diagnosis: Tests And Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/angina-pectoris-diagnosis-tests-procedures"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/angina-pectoris-diagnosis-tests-procedures"  
       }]
     }
   </script>

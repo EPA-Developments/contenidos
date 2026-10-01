@@ -10,12 +10,12 @@
     <meta property="og:title" content="NonSurgical Heart Valve Blockage Treatments" />
     <meta property="og:description" content="Explore non-surgical heart valve blockage treatments for effective management without surgery. Learn more now." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-blockage-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-blockage-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-blockage-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-valve-blockage-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Valve Blockage Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-valve-blockage-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-valve-blockage-treatment"
         }
     ]
 }
@@ -173,7 +173,7 @@
 <h2 class="sec-scrl" id="heart-valve-blockage-treatment">Heart Valve Blockage Treatment</h2>
 <p>When it comes to heart valve blockage treatment, several non-surgical options can help alleviate symptoms and improve your quality of life. Here are some common non-invasive valve treatments:</p>
 <ul>
-<li><strong>Medications:</strong> Your doctor may prescribe medications to manage symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. These medications can help regulate your heart rate, lower blood pressure, and reduce the risk of blood clots.</li>
+<li><strong>Medications:</strong> Your doctor may prescribe medications to manage symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and fatigue. These medications can help regulate your heart rate, lower blood pressure, and reduce the risk of blood clots.</li>
 <li><strong>Monitoring and Lifestyle Changes:</strong> Regular monitoring of your heart condition and adopting a heart-healthy lifestyle can play a crucial role in managing valve disease without surgery. This includes maintaining a balanced diet, engaging in regular exercise, and avoiding smoking.</li>
 <li><strong>Transcatheter Valve Repair:</strong> Transcatheter procedures involve repairing or replacing heart valves using a catheter inserted through a blood vessel. This minimally invasive technique can be a suitable option for certain valve conditions.</li>
 </ul>
@@ -193,7 +193,7 @@
 <h2 class="sec-scrl" id="heart-valve-therapy">Heart Valve Therapy</h2>
 <p>Heart valve therapy aims to optimize heart function and improve quality of life for individuals with valve disease. Here are some key components of heart valve therapy:</p>
 <ul>
-<li><strong>Minimally Invasive Procedures:</strong> Minimally invasive valve procedures, such as transcatheter interventions, offer effective treatment options with shorter recovery times and fewer complications compared to traditional open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a>.</li>
+<li><strong>Minimally Invasive Procedures:</strong> Minimally invasive valve procedures, such as transcatheter interventions, offer effective treatment options with shorter recovery times and fewer complications compared to traditional open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a>.</li>
 <li><strong>Medical Management:</strong> In addition to procedures, medications play a crucial role in managing heart valve conditions. Your healthcare provider may prescribe medications to control symptoms and prevent complications.</li>
 </ul>
 <h2 class="sec-scrl" id="alternatives-to-valve-surgery">Alternatives to Valve Surgery</h2>

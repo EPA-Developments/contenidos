@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Mushrooms for Heart Health: Inflammation Reduction&quot;" />
     <meta property="og:description" content="Discover how mushrooms can reduce inflammation and support heart health naturally. Learn about the benefits of anti-inflammatory mushrooms today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-inflammation" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-inflammation" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-inflammation" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-inflammation" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mushrooms For Inflammation",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mushrooms-for-inflammation"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mushrooms-for-inflammation"
         }
     ]
 }
@@ -156,7 +156,7 @@
 <ul>
 <li>Beta-glucans found in mushrooms have been shown to boost the immune system and reduce inflammation, contributing to overall heart health.</li>
 <li>Polyphenols and flavonoids in mushrooms exhibit antioxidant properties that can protect the heart from oxidative damage and inflammation.</li>
-<li>Terpenoids present in certain mushrooms have anti-inflammatory effects that may help prevent the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions.</li>
+<li>Terpenoids present in certain mushrooms have anti-inflammatory effects that may help prevent the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular conditions.</li>
 </ul>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Incorporating mushrooms with anti-inflammatory properties into your diet can be a simple yet effective way to reduce inflammation and support heart health. By understanding how these mushrooms work to modulate the inflammatory response and protect against cardiovascular issues, you can take proactive steps towards improving your overall well-being. Whether you choose to enjoy Reishi, Chaga, Cordyceps, or other varieties, the unique compounds found in these mushrooms offer a natural solution for combating inflammation and promoting heart health.</p>

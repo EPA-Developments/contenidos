@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Dissection Symptoms: When to Seek Help - Know the Signs">
   <meta property="og:description" content="Learn about aortic dissection symptoms and when to seek help in this informative guide. Recognize the signs and symptoms of aortic dissection early.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/aortic-dissection-symptoms-seek-help-signs">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/aortic-dissection-symptoms-seek-help-signs">
   <meta property="og:image" content="https://www.bestnephrologists.in/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/aortic-dissection-symptoms-seek-help-signs" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/aortic-dissection-symptoms-seek-help-signs" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blogs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Aortic Dissection Symptoms: When To Seek Help - Know The Signs",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/aortic-dissection-symptoms-seek-help-signs"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/aortic-dissection-symptoms-seek-help-signs"  
       }]
     }
   </script>

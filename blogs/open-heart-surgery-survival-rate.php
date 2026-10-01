@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Open Heart Surgery Survival Rate: Key Numbers Explained">
   <meta property="og:description" content="Learn about the open heart surgery survival rate and what the numbers mean. Understand how to interpret the data for better insights and informed decisions.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-survival-rate">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-survival-rate">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-survival-rate" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-survival-rate" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Open Heart Surgery Survival Rate: Key Numbers Explained",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/open-heart-surgery-survival-rate"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/open-heart-surgery-survival-rate"  
       }]
     }
   </script>

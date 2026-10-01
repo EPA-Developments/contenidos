@@ -10,12 +10,12 @@
     <meta property="og:title" content="Mustard for Blood Pressure: Key Insights" />
     <meta property="og:description" content="Learn how mustard can help regulate blood pressure effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/mustard-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Mustard For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/mustard-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/mustard-for-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Influence of Mustard on Blood Pressure Management</h1>
-<p>Are you struggling to keep your blood pressure in check? Have you considered the potential benefits of incorporating mustard into your diet? Let's explore the impact of mustard on blood pressure regulation and how it may contribute to better circulatory health, potentially offering relief from <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Are you struggling to keep your blood pressure in check? Have you considered the potential benefits of incorporating mustard into your diet? Let's explore the impact of mustard on blood pressure regulation and how it may contribute to better circulatory health, potentially offering relief from <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <h2 class="sec-scroll" id="blood-pressure-regulation">Blood Pressure Regulation</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can lead to serious health issues if left unmanaged. One way to support healthy blood pressure levels is through dietary choices. Mustard, particularly mustard seeds, contains compounds that may help regulate blood pressure.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or hypertension, is a common condition that can lead to serious health issues if left unmanaged. One way to support healthy blood pressure levels is through dietary choices. Mustard, particularly mustard seeds, contains compounds that may help regulate blood pressure.</p>
 <p>Mustard seeds are rich in minerals like potassium, which plays a crucial role in balancing sodium levels in the body. By promoting a better sodium-potassium balance, mustard seeds can support heart health and contribute to maintaining optimal blood pressure.</p>
 <h2 class="sec-scroll" id="hypertension">Hypertension</h2>
 <p>Hypertension is often referred to as the "silent killer" because it typically presents no symptoms until it reaches a severe stage. Incorporating mustard into your diet can be a simple yet effective way to add a flavorful twist while potentially aiding in hypertension relief.</p>

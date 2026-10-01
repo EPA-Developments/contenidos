@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Arterial Stiffness Index: Costs, Normal Range and Purpose" property="og:title"/>
 <meta content="Arterial stiffness index measures artery health. Know more about its purpose, costs, and normal Range to monitor cardiovascular function." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/arterial-stiffness-index" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/arterial-stiffness-index" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/arterial-stiffness-index" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/arterial-stiffness-index" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Arterial Stiffness Index",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/arterial-stiffness-index"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/arterial-stiffness-index"  
       }]
     }
   </script>
@@ -157,10 +157,10 @@
 <div class="article-content">
 <h1>Purpose of Arterial Stiffness Index and Its Costs</h1>
 <p>Arterial Stiffness Index is a diagnostic pathology test that measures the stiffness of arteries in the body. This index is crucial in assessing the health of the cardiovascular system and predicting the risk of heart disease.</p>
-<p>Arterial stiffness is often associated with conditions such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>, and aging.</p>
+<p>Arterial stiffness is often associated with conditions such as <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>, and aging.</p>
 <p>The Arterial Stiffness Index is typically determined by measuring parameters such as pulse wave velocity, arterial compliance, and stiffness index. Pulse wave velocity refers to how quickly the pulse propagates through the arteries, reflecting the elasticity of the vessels.</p>
 <p>Arterial compliance measures the ability of arteries to expand and contract with each heartbeat. Stiffness index provides a numeric value representing the overall stiffness of the arterial system.</p>
-<p>In evaluating hypertension, the Arterial Stiffness Index plays a significant role by indicating the degree of vascular damage caused by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>.</p>
+<p>In evaluating hypertension, the Arterial Stiffness Index plays a significant role by indicating the degree of vascular damage caused by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>.</p>
 <p>By measuring the stiffness of arteries, healthcare providers can better understand the impact of hypertension on the cardiovascular system and tailor treatment plans accordingly.</p>
 <h2 id="purpose">What is the Purpose of Performing an Arterial Stiffness Index Test?</h2>
 <p>The primary purpose of performing an Arterial Stiffness Index test is to assess cardiovascular risk and predict the likelihood of heart disease.</p>

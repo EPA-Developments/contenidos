@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Oats for Heart Attack Prevention&quot;" />
     <meta property="og:description" content="Learn how oats can help prevent heart attacks. Discover the benefits of oats for heart health. Boost your cardiovascular protection with this superfood." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/oats-to-prevent-heart-attacks" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/oats-to-prevent-heart-attacks" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/oats-to-prevent-heart-attacks" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/oats-to-prevent-heart-attacks" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Oats To Prevent Heart Attacks",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/oats-to-prevent-heart-attacks"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/oats-to-prevent-heart-attacks"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Oats for Heart Health</h1>
-<p>Are you looking for a simple yet effective way to protect your heart and reduce the risk of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? Have you considered incorporating oats into your daily diet? The humble oat, often overlooked, can be a powerful ally in your quest for cardiovascular protection. Let's explore the significant impact oats can have on your heart health and daily activities.</p>
+<p>Are you looking for a simple yet effective way to protect your heart and reduce the risk of a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? Have you considered incorporating oats into your daily diet? The humble oat, often overlooked, can be a powerful ally in your quest for cardiovascular protection. Let's explore the significant impact oats can have on your heart health and daily activities.</p>
 <h2 class="sec-scrl" id="cardiovascular-protection">How Do Oats Provide Cardiovascular Protection?</h2>
 <p>Oats are packed with essential nutrients that can help lower your risk of heart disease and heart attacks. Here's how oats contribute to keeping your heart healthy:</p>
 <ul>
@@ -158,7 +158,7 @@
 <p>The antioxidants present in oats play a crucial role in maintaining a healthy heart. Here's how these antioxidants benefit your cardiovascular system:</p>
 <ul>
 <li>Antioxidants protect the heart by reducing inflammation and preventing the buildup of plaque in the arteries.</li>
-<li>They help in relaxing blood vessels, improving blood flow, and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and heart attacks.</li>
+<li>They help in relaxing blood vessels, improving blood flow, and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and heart attacks.</li>
 <li>Antioxidants in oats also have anti-inflammatory properties that can prevent damage to heart tissues and reduce the risk of cardiovascular diseases.</li>
 </ul>
 <p>By consuming antioxidant-rich oats, you can give your heart the protection it needs to stay healthy and strong.</p>

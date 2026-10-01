@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Sick Sinus Syndrome: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Sick Sinus Syndrome is a condition where the heart's pacemaker is damaged, leading to an irregular heartbeat. Read more for details." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Sick Sinus Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/sick-sinus-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/sick-sinus-syndrome"
       }]
     }
   </script>
@@ -171,10 +171,10 @@
                  </p>
 <p>Sick Sinus Syndrome (SSS), also known as sinus node dysfunction, is a group of heart rhythm disorders characterized by the improper functioning of the sinus node, the heart's natural pacemaker.</p>
 <p>The sinus node is responsible for generating electrical impulses that regulate the heart rate and rhythm.</p>
-<p>When this system malfunctions, it can lead to a range of arrhythmias, including <a href="https://plataforma.epa-bienestar.com.ar/symptoms/bradycardia">bradycardia</a> (slow heart rate), <a href="https://plataforma.epa-bienestar.com.ar/symptoms/tachycardia">tachycardia</a> (fast heart rate), or periods of alternating bradycardia and tachycardia.</p>
+<p>When this system malfunctions, it can lead to a range of arrhythmias, including <a href="https://contenidos.segundaopinionmedica.org/symptoms/bradycardia">bradycardia</a> (slow heart rate), <a href="https://contenidos.segundaopinionmedica.org/symptoms/tachycardia">tachycardia</a> (fast heart rate), or periods of alternating bradycardia and tachycardia.</p>
 <p>SSS is a significant condition due to its impact on overall heart function and the potential for serious complications if left untreated.</p>
 <p>While the prevalence of SSS is relatively low, affecting around 1 in 600 people over the age of 65, its incidence is expected to rise with an aging population.</p>
-<p>The condition can have both short-term and long-term health risks if not managed effectively. In the short term, SSS can cause symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
+<p>The condition can have both short-term and long-term health risks if not managed effectively. In the short term, SSS can cause symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
 <p>Long-term risks include an increased risk of stroke, heart failure, and even sudden cardiac death.</p>
 <p>One of the challenges of SSS is its asymptomatic nature in the early stages, where individuals may not exhibit noticeable symptoms.</p>
 <p>This underscores the importance of early detection through regular screenings, especially in older adults or individuals with known risk factors such as a history of heart disease or certain medications.</p>
@@ -182,9 +182,9 @@
 <p>The causes of Sick Sinus Syndrome can be multifactorial, with several primary and secondary contributors leading to its development.</p>
 <ul>
 <li>Age-related degeneration of the sinus node can impact heart function over time, leading to SSS.</li>
-<li> Coronary artery disease or <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> can result in scarring or damage to the heart's electrical system, disrupting normal rhythm.</li>
+<li> Coronary artery disease or <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> can result in scarring or damage to the heart's electrical system, disrupting normal rhythm.</li>
 <li>Genetic factors may predispose individuals to inherit conditions that affect the sinus node's function, such as familial heart disorders.</li>
-<li>Chronic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or diabetes can increase the risk of developing SSS due to their effects on cardiovascular health.</li>
+<li>Chronic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or diabetes can increase the risk of developing SSS due to their effects on cardiovascular health.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors can also play a role in the development of SSS:</p>
 <ul>
@@ -195,8 +195,8 @@
 <h2 id="symptoms">Symptoms of Sick Sinus Syndrome</h2>
 <p>The symptoms of Sick Sinus Syndrome can vary depending on the stage of the condition and the individual's overall health.</p>
 <ul>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, which can affect daily activities and energy levels, leading to decreased exercise tolerance and productivity.</li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, which may be misunderstood as benign, but could indicate underlying cardiac issues requiring evaluation.</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, which can affect daily activities and energy levels, leading to decreased exercise tolerance and productivity.</li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, which may be misunderstood as benign, but could indicate underlying cardiac issues requiring evaluation.</li>
 </ul>
 <p>Advanced-stage symptoms of SSS may include:</p>
 <ul>

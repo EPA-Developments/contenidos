@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Idioventricular Rhythm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Idioventricular rhythm occurs when the heart’s lower chambers beat irregularly. Know more about its symptoms and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/idioventricular-rhythm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/idioventricular-rhythm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/idioventricular-rhythm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/idioventricular-rhythm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Idioventricular Rhythm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/idioventricular-rhythm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/idioventricular-rhythm"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Idioventricular Rhythm</h1>
-<p>Idioventricular rhythm is a type of heart rhythm that originates from the ventricles instead of the normal heart's pacemaker. It is usually slower than the regular heartbeat and can result from various heart conditions. Although it may not always cause symptoms, it can be a sign of an underlying heart issue that needs attention. While relatively uncommon, it can occur in people with heart disease or those experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. Monitoring and managing this rhythm abnormality is crucial for maintaining heart health.</p>
+<p>Idioventricular rhythm is a type of heart rhythm that originates from the ventricles instead of the normal heart's pacemaker. It is usually slower than the regular heartbeat and can result from various heart conditions. Although it may not always cause symptoms, it can be a sign of an underlying heart issue that needs attention. While relatively uncommon, it can occur in people with heart disease or those experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. Monitoring and managing this rhythm abnormality is crucial for maintaining heart health.</p>
 <h2 id="causes">Causes of Idioventricular Rhythm</h2>
 <p>Idioventricular rhythm, a type of slow heart rhythm, can occur due to various factors. These include:
 
@@ -177,9 +177,9 @@
 <ul>
 <li>Slow or irregular heartbeats</li>
 <li>Feeling lightheaded or dizzy</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul>
 
 Being aware of these signs can prompt timely medical intervention, potentially preventing complications associated with Idioventricular Rhythm. If you experience any of these symptoms, seek medical attention promptly for proper evaluation and management.</p>
@@ -187,9 +187,9 @@ Being aware of these signs can prompt timely medical intervention, potentially p
 <p>Diagnosing Idioventricular Rhythm is crucial as it can indicate underlying heart conditions or potential risks. Accurate diagnosis helps in determining appropriate treatment and preventing complications. The diagnostic process may involve:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): To record the heart's electrical activity.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): To record the heart's electrical activity.</li>
 <li>Holter monitor: To monitor heart rhythms over 24-48 hours.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: To assess heart structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: To assess heart structure and function.</li>
 <li>Cardiac stress test: To evaluate heart function under stress conditions.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Idioventricular Rhythm</h2>
@@ -204,14 +204,14 @@ Being aware of these signs can prompt timely medical intervention, potentially p
 </ul>
 <h3>Cardiac Ablation</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-ablation">cardiac ablation</a> is a procedure to correct heart rhythm issues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-ablation">cardiac ablation</a> is a procedure to correct heart rhythm issues.</li>
 <li>It aims to destroy the abnormal electrical pathways causing the rhythm problem.</li>
 <li>The main goal is to restore a normal heart rhythm.</li>
 <li>The procedure involves inserting catheters into the heart to target and ablate the problematic tissue.</li>
 </ul>
 <h3>Pacemaker Implantation</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/pacemaker-implantation">pacemaker implantation</a> involves placing a small device under the skin near the collarbone.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/pacemaker-implantation">pacemaker implantation</a> involves placing a small device under the skin near the collarbone.</li>
 <li>It helps regulate the heart's rhythm by sending electrical impulses to control heartbeats.</li>
 <li>The primary objective is to ensure the heart beats at a normal rate.</li>
 <li>The procedure includes making a small incision, inserting leads into the heart, and connecting them to the pacemaker.</li>

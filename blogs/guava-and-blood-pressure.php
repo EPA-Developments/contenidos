@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Guava: Blood Pressure Control&quot;" />
     <meta property="og:description" content="Explore how guava can help manage blood pressure naturally. Learn about the benefits of guava for hypertension." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/guava-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/guava-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/guava-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Guava And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/guava-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/guava-and-blood-pressure"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Guava on Blood Pressure</h1>
-<p>Are you looking for natural ways to manage your blood pressure levels? Have you considered the potential benefits of incorporating guava into your diet? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, affecting your energy levels and overall well-being. Discover how guava, a delicious tropical fruit, may play a role in supporting healthy blood pressure levels.</p>
+<p>Are you looking for natural ways to manage your blood pressure levels? Have you considered the potential benefits of incorporating guava into your diet? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can significantly impact your daily life, affecting your energy levels and overall well-being. Discover how guava, a delicious tropical fruit, may play a role in supporting healthy blood pressure levels.</p>
 <h2 class="sec-scrl" id="hypertension">Hypertension Management</h2>
-<p>Guava is a nutrient-dense fruit that contains essential vitamins, minerals, and antioxidants. These nutrients contribute to overall cardiovascular health and may help in managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</p>
+<p>Guava is a nutrient-dense fruit that contains essential vitamins, minerals, and antioxidants. These nutrients contribute to overall cardiovascular health and may help in managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</p>
 <ul>
 <li>Rich in potassium, guava can help regulate blood pressure by balancing sodium levels in the body.</li>
 <li>The high fiber content in guava supports heart health and may aid in reducing blood pressure levels over time.</li>

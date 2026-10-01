@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Beginner's Guide to Reading an Electrocardiogram (ECG) for Electrocardiography">
   <meta property="og:description" content="Learn the basics of Electrocardiography with our beginner's guide on how to read an ECG. Understand heart rhythms and abnormalities easily.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beginners-guide-to-reading-an-electrocardiogram">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beginners-guide-to-reading-an-electrocardiogram">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beginners-guide-to-reading-an-electrocardiogram" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beginners-guide-to-reading-an-electrocardiogram" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Electrocardiography",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/beginners-guide-to-reading-an-electrocardiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/beginners-guide-to-reading-an-electrocardiogram"  
       }]
     }
   </script>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Stress Cardiomyopathy: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Stress cardiomyopathy is a temporary condition that causes the heart muscle to weaken. Read more about its symptoms, causes, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/stress-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/stress-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/stress-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/stress-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Stress Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/stress-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/stress-cardiomyopathy"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Stress Cardiomyopathy</h1>
-<p>Stress Cardiomyopathy, also known as Takotsubo <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/broken-heart-syndrome">broken heart syndrome</a>, is a condition where intense emotional or physical stress can lead to severe but reversible heart muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>. Despite mimicking a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>, it doesn't involve blocked arteries. This condition is significant as it can cause <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and even heart failure. While it's rare compared to heart attacks, it's essential to recognize its symptoms promptly. Seeking medical help is crucial for proper diagnosis and management.</p>
+<p>Stress Cardiomyopathy, also known as Takotsubo <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/broken-heart-syndrome">broken heart syndrome</a>, is a condition where intense emotional or physical stress can lead to severe but reversible heart muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>. Despite mimicking a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>, it doesn't involve blocked arteries. This condition is significant as it can cause <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and even heart failure. While it's rare compared to heart attacks, it's essential to recognize its symptoms promptly. Seeking medical help is crucial for proper diagnosis and management.</p>
 <h2 id="causes">Causes of Stress Cardiomyopathy</h2>
 <p>Stress cardiomyopathy, also known as takotsubo cardiomyopathy or broken heart syndrome, can be triggered by various factors. These include emotional or physical stressors that can overwhelm the body. The main contributors to the development of stress cardiomyopathy are:
 
@@ -177,9 +177,9 @@
 <ul>
 <li>Chest pain or tightness</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Fainting</li>
 </ul>
 

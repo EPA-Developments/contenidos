@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes and Treatment for Fatigue Worsening Over Time" >
   <meta property="og:description" content="Fatigue worsening over time can signal underlying heart conditions. Know more about its causes, symptoms, diagnosis and treatments." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/fatigue-worsening-over-time">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/fatigue-worsening-over-time">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/fatigue-worsening-over-time" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/fatigue-worsening-over-time" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Fatigue Worsening Over Time",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/fatigue-worsening-over-time"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/fatigue-worsening-over-time"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Diagnosis and Treatment for Fatigue Worsening Over Time</h1>
 <p>Fatigue worsening over time refers to a persistent feeling of tiredness that escalates gradually, impacting daily activities and quality of life.</p>
-<p>It is characterized by progressive tiredness, increasing exhaustion, chronic fatigue, fatigue that doesn't improve, fatigue growing worse, worsening <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, and escalating tiredness. This condition can be debilitating, affecting physical, mental, and emotional well-being.</p>
+<p>It is characterized by progressive tiredness, increasing exhaustion, chronic fatigue, fatigue that doesn't improve, fatigue growing worse, worsening <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, and escalating tiredness. This condition can be debilitating, affecting physical, mental, and emotional well-being.</p>
 <h2 id="forms">What are the Forms of Fatigue worsening over time?</h2>
 <p>There are various forms of fatigue worsening over time, each with specific symptoms and related concepts:</p>
 <ul>

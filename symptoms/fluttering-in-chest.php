@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Symptoms and Treatment for Fluttering in Chest" >
   <meta property="og:description" content="Fluttering in the chest can be a sign of heart irregularities. Learn more about its symptoms, causes, diagnosis, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/fluttering-in-chest">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/fluttering-in-chest">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/fluttering-in-chest" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/fluttering-in-chest" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Fluttering In Chest",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/fluttering-in-chest"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/fluttering-in-chest"  
       }]
     }
   </script>
@@ -187,14 +187,14 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Diagnosis, Symptoms and Treatment for Fluttering in Chest</h1>
 <p>Fluttering in the chest is a common sensation that many people experience at some point in their lives. It is often described as a feeling of rapid, irregular, or pounding heartbeats.</p>
-<p>This sensation can be uncomfortable and alarming, leading individuals to seek medical attention. Fluttering in the chest can be accompanied by other symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</p>
-<p>This condition is often associated with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a>, which are irregular heartbeats that can occur for various reasons. While occasional fluttering in the chest may not be a cause for concern, persistent or severe symptoms should not be ignored.</p>
+<p>This sensation can be uncomfortable and alarming, leading individuals to seek medical attention. Fluttering in the chest can be accompanied by other symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</p>
+<p>This condition is often associated with <a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a>, which are irregular heartbeats that can occur for various reasons. While occasional fluttering in the chest may not be a cause for concern, persistent or severe symptoms should not be ignored.</p>
 <p>Understanding the causes, forms, and treatment options for fluttering in the chest is essential for managing this condition effectively.</p>
 <h2 id="forms">What are the Forms of Fluttering in chest?</h2>
 <p>There are several forms of fluttering in the chest, each with its unique set of symptoms and related concepts:</p>
 <ul>
 <li>Heart palpitations : A sensation of rapid or irregular heartbeats that may feel like fluttering in the chest.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/racing-heartbeat">racing heartbeat</a> :An abnormally fast heart rate that can cause fluttering sensations.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/racing-heartbeat">racing heartbeat</a> :An abnormally fast heart rate that can cause fluttering sensations.</li>
 <li>Chest flutter: A fluttering sensation specifically felt in the chest area.</li>
 <li>Irregular heartbeats: Heartbeats that are not consistent in rhythm or pattern.</li>
 <li>Cardiac fluttering :Fluttering sensations originating from the heart muscle.</li>
@@ -210,14 +210,14 @@
 <li>Medications :Certain medications can cause side effects such as heart palpitations.</li>
 <li>Hormonal changes: Hormonal fluctuations, especially during pregnancy or menopause, can trigger fluttering in the chest.</li>
 <li>Heart disease :Underlying heart conditions such as arrhythmias, heart valve disorders, or coronary artery disease can cause fluttering sensations.</li>
-<li>Thyroid issues :Thyroid disorders can impact heart function and lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</li>
+<li>Thyroid issues :Thyroid disorders can impact heart function and lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</li>
 <li>Dehydration: Lack of proper hydration can affect heart function and cause palpitations.</li>
 </ul>
 <p>Understanding the specific cause of fluttering in the chest is crucial for developing an effective treatment plan and preventing future episodes.</p>
 <h2 id="diagnosis">What is the Diagnostic Method for Fluttering in chest?</h2>
 <p>Diagnosing fluttering in the chest typically involves a combination of medical history review, physical examination, and diagnostic tests.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) :A test that records the electrical activity of the heart to detect irregularities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) :A test that records the electrical activity of the heart to detect irregularities.</li>
 <li>Holter monitor :A portable device worn to record heart activity over a period of time.</li>
 <li>Echocardiogram: An ultrasound of the heart to assess its structure and function.</li>
 <li>Blood tests: To check for underlying conditions such as thyroid disorders or electrolyte imbalances.</li>

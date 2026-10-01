@@ -10,12 +10,12 @@
     <meta property="og:title" content="Almonds Lower Heart Disease Risk" />
     <meta property="og:description" content="Discover how almonds can reduce heart disease risk with this informative blog post. Learn more about the benefits today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-disease-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-disease-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-disease-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-disease-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Almonds And Heart Disease Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/almonds-and-heart-disease-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/almonds-and-heart-disease-risk"
         }
     ]
 }
@@ -134,7 +134,7 @@
 <p>Almonds are packed with monounsaturated fats, which are known to help lower LDL (bad) cholesterol levels in the body. By replacing unhealthy saturated fats with a handful of almonds as a snack, you can effectively reduce your cardiovascular risk. Additionally, the fiber content in almonds plays a crucial role in lowering cholesterol by preventing its absorption in the gut. Including almonds in your diet can be a simple yet effective way to promote heart health.</p>
 <p>Moreover, almonds are a rich source of antioxidants such as vitamin E, which further contributes to reducing inflammation and oxidative stress in the arteries. This, in turn, supports arterial health and prevents the buildup of plaque that can lead to heart disease.</p>
 <h2 class="sec-scrl" id="arterial-health">Almonds and Arterial Health</h2>
-<p>The nutrients in almonds, including magnesium and potassium, play a vital role in maintaining healthy blood pressure levels and supporting overall heart function. Magnesium helps relax the muscles of blood vessels, reducing resistance and improving blood flow. Potassium, on the other hand, helps counteract the effects of sodium, thus regulating blood pressure. By including almonds in your diet, you can support arterial health and reduce the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
+<p>The nutrients in almonds, including magnesium and potassium, play a vital role in maintaining healthy blood pressure levels and supporting overall heart function. Magnesium helps relax the muscles of blood vessels, reducing resistance and improving blood flow. Potassium, on the other hand, helps counteract the effects of sodium, thus regulating blood pressure. By including almonds in your diet, you can support arterial health and reduce the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and other cardiovascular conditions.</p>
 <ul>
 <li>Almonds are a good source of magnesium and potassium, essential for maintaining healthy blood pressure levels.</li>
 <li>The nutrients in almonds help relax blood vessels and improve blood flow, supporting overall heart function.</li>

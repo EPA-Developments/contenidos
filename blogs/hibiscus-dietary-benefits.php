@@ -10,12 +10,12 @@
     <meta property="og:title" content="Incorporating Hibiscus for Heart Health" />
     <meta property="og:description" content="Learn how to boost heart health with hibiscus in your diet. Discover the power of hibiscus tea and herbal remedies for cardiovascular support." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-dietary-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-dietary-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-dietary-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hibiscus-dietary-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hibiscus Dietary Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hibiscus-dietary-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hibiscus-dietary-benefits"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <p>Hibiscus tea, made from the dried petals of the hibiscus flower, is not only a delicious beverage but also a potent source of antioxidants. These antioxidants help combat oxidative stress in the body, reducing the risk of heart disease and supporting overall wellness.</p>
 <ul>
 <li>Rich in vitamin C, hibiscus tea boosts the immune system and promotes healthy blood pressure levels.</li>
-<li>The natural diuretic properties of hibiscus tea can help lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and reduce the risk of cardiovascular issues.</li>
+<li>The natural diuretic properties of hibiscus tea can help lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and reduce the risk of cardiovascular issues.</li>
 <li>Enjoyed hot or cold, hibiscus tea is a refreshing way to stay hydrated while reaping its heart-healthy benefits.</li>
 </ul>
 <h2 class="sec-scrl" id="herbal-remedies">The Role of Hibiscus in Herbal Remedies</h2>

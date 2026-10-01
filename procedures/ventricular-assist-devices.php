@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Ventricular Assist Devices: Benefits, Types, Risks, and Recovery">
   <meta property="og:description" content="Learn about the benefits, types, risks, and recovery of Ventricular Assist Devices (VADs) for heart failure. Compare VADs to heart transplants and understand the VAD surgery procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-assist-devices">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/ventricular-assist-devices">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-assist-devices" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/ventricular-assist-devices" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Ventricular Assist Devices",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/ventricular-assist-devices"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/ventricular-assist-devices"  
       }]
     }
   </script>

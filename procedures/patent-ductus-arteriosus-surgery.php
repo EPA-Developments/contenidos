@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Patent Ductus Arteriosus Surgery: PDA Closure Procedure & Treatment">
   <meta property="og:description" content="Learn about patent ductus arteriosus surgery (PDA surgery), a heart procedure for closing a PDA and treating patent ductus arteriosus with a PDA closure procedure.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/patent-ductus-arteriosus-surgery">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/patent-ductus-arteriosus-surgery">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/patent-ductus-arteriosus-surgery" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/patent-ductus-arteriosus-surgery" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Patent Ductus Arteriosus Surgery",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/patent-ductus-arteriosus-surgery"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/patent-ductus-arteriosus-surgery"  
       }]
     }
   </script>

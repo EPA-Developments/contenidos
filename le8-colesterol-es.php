@@ -8,10 +8,10 @@
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Colesterol (Lípidos) - Life's Essential 8™">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-colesterol-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-colesterol-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-cholesterol-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-colesterol-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-colesterol-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-colesterol-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-cholesterol-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-colesterol-es" />
 
   <?php include 'include/header.php' ?>
 

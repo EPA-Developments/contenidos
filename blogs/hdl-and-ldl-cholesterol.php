@@ -10,12 +10,12 @@
     <meta property="og:title" content="The Impact of Eggs on HDL and LDL Cholesterol" />
     <meta property="og:description" content="Explore how eggs impact HDL and LDL cholesterol levels. Uncover the connection between egg consumption and heart health in this informative blog post." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/hdl-and-ldl-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/hdl-and-ldl-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/hdl-and-ldl-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/hdl-and-ldl-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Hdl And Ldl Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/hdl-and-ldl-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/hdl-and-ldl-cholesterol"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <p>Eggs are also packed with healthy fats, including omega-3 fatty acids. These fats have been shown to improve lipid profiles by lowering triglyceride levels and reducing inflammation in the body.</p>
 <p>Omega-3 fatty acids can help increase HDL cholesterol while decreasing LDL cholesterol levels, thus improving the overall balance and reducing the risk of plaque buildup in the arteries.</p>
 <h2 class="sec-scrl" id="heart-attack">Can Eating Eggs Reduce the Risk of Heart Attack?</h2>
-<p>Studies have indicated that moderate egg consumption may not increase the risk of heart disease or <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>. In fact, the nutrients in eggs, such as choline and antioxidants, can have protective effects on the cardiovascular system.</p>
+<p>Studies have indicated that moderate egg consumption may not increase the risk of heart disease or <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>. In fact, the nutrients in eggs, such as choline and antioxidants, can have protective effects on the cardiovascular system.</p>
 <ul>
 <li>Choline in eggs can help reduce inflammation and promote healthy blood vessels.</li>
 <li>Antioxidants like lutein and zeaxanthin may prevent the oxidation of LDL cholesterol, reducing the risk of plaque formation.</li>

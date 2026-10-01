@@ -10,12 +10,12 @@
     <meta property="og:title" content="Advanced STEMI Treatment Methods: A Comprehensive Guide" />
     <meta property="og:description" content="Explore the latest advancements in STEMI treatment methods for optimal cardiac care." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/stemi-treatment" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/stemi-treatment" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/stemi-treatment" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/stemi-treatment" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Stemi Treatment",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/stemi-treatment"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/stemi-treatment"
         }
     ]
 }
@@ -162,7 +162,7 @@
             <div class="article-content">
               <h1>Key STEMI Treatment Advances: A Guide</h1>
 <p>Are you or a loved one facing the challenges of STEMI treatment? How does this condition impact your daily activities and overall well-being?</p>
-<p>STEMI, short for ST-segment elevation <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, is a severe type of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> that requires immediate medical attention. With advancements in cardiac care, several treatment methods have emerged to improve outcomes and enhance patient recovery. Let's delve into the key advances in STEMI treatment methods.</p>
+<p>STEMI, short for ST-segment elevation <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, is a severe type of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> that requires immediate medical attention. With advancements in cardiac care, several treatment methods have emerged to improve outcomes and enhance patient recovery. Let's delve into the key advances in STEMI treatment methods.</p>
 <h2 class="sec-scrl" id="STEMI diagnosis and management">STEMI Diagnosis and Management</h2>
 <p>Diagnosing and managing STEMI promptly is crucial for a successful recovery. Physicians typically rely on a combination of patient history, physical exams, electrocardiograms (ECG/EKG), and blood tests to confirm a STEMI diagnosis. Once diagnosed, the management involves...</p>
 <ul>
@@ -171,7 +171,7 @@
 <li>Continuous monitoring of vital signs and ECG</li>
 </ul>
 <h2 class="sec-scrl" id="Primary PCI in STEMI">Primary PCI in STEMI</h2>
-<p>Primary <a href="https://plataforma.epa-bienestar.com.ar/procedures/percutaneous-coronary-intervention">percutaneous coronary intervention</a> (PCI), also known as primary <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a>, is a preferred reperfusion therapy for STEMI patients. This procedure involves...</p>
+<p>Primary <a href="https://contenidos.segundaopinionmedica.org/procedures/percutaneous-coronary-intervention">percutaneous coronary intervention</a> (PCI), also known as primary <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a>, is a preferred reperfusion therapy for STEMI patients. This procedure involves...</p>
 <ul>
 <li>Emergency catheterization to open blocked coronary arteries</li>
 <li>Placement of stents to maintain blood flow</li>
@@ -180,7 +180,7 @@
 <h2 class="sec-scrl" id="Thrombolysis in STEMI">Thrombolysis in STEMI</h2>
 <p>Thrombolytic therapy, or clot-busting medication, is an alternative reperfusion strategy for patients unable to undergo primary PCI. Thrombolysis works by...</p>
 <ul>
-<li>Dissolving the <a href="https://plataforma.epa-bienestar.com.ar/symptoms/blood-clot">blood clot</a> causing the blockage</li>
+<li>Dissolving the <a href="https://contenidos.segundaopinionmedica.org/symptoms/blood-clot">blood clot</a> causing the blockage</li>
 <li>Restoring blood flow to the heart muscle</li>
 <li>Reducing the size of the heart attack</li>
 </ul>
@@ -192,7 +192,7 @@
 <li>Regular follow-up appointments with cardiologists</li>
 </ul>
 <h2 class="sec-scrl" id="STEMI complications management">STEMI Complications Management</h2>
-<p>Complications such as arrhythmias, heart failure, and <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a> can arise during and after STEMI. Managing these complications requires...</p>
+<p>Complications such as arrhythmias, heart failure, and <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a> can arise during and after STEMI. Managing these complications requires...</p>
 <ul>
 <li>Prompt identification and intervention</li>
 <li>Use of advanced cardiac monitoring techniques</li>

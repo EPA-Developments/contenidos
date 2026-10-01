@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Holt Oram Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Holt-Oram Syndrome affects the heart and limbs. Know more about its causes, symptoms, and treatment for a better quality of life." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/holt-oram-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/holt-oram-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/holt-oram-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/holt-oram-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Holt Oram Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/holt-oram-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/holt-oram-syndrome"
       }]
     }
   </script>
@@ -178,7 +178,7 @@
 <li>Heart defects, such as atrial septal defects</li>
 <li>Limited range of motion in the shoulders, elbows, or wrists</li>
 <li>Malformed or missing thumbs</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> in the muscles of the upper limbs</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> in the muscles of the upper limbs</li>
 </ul></p>
 <h2>Diagnosis of Holt Oram Syndrome</h2>
 <p>Holt Oram Syndrome diagnosis is crucial for prompt treatment and management. Physical examination, medical history review, and genetic testing are key to accurately diagnose this rare condition. Here are the diagnostic methods:

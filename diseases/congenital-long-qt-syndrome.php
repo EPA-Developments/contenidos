@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Long QT Syndrome: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Congenital Long QT Syndrome, this genetic heart condition affects heart rhythms. Read more about its symptoms, causes, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/congenital-long-qt-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/congenital-long-qt-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/congenital-long-qt-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/congenital-long-qt-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Congenital Long Qt Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/congenital-long-qt-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/congenital-long-qt-syndrome"
       }]
     }
   </script>
@@ -167,10 +167,10 @@
             <div class="article-content">
 <h1>Causes, Symptoms, and Treatment of Long QT Syndrome</h1>
 <p>Congenital Long QT Syndrome (LQTS) is a rare genetic disorder affecting the heart's electrical activity, leading to an increased risk of life-threatening heart rhythms.</p>
-<p>Despite its rarity, LQTS holds significant importance due to its potential to cause sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>, especially in young individuals.</p>
+<p>Despite its rarity, LQTS holds significant importance due to its potential to cause sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>, especially in young individuals.</p>
 <p>Prevalence estimates suggest that around 1 in 2,000 individuals may have LQTS, but this figure may vary based on genetic factors and family history.</p>
 <p>The impact of LQTS on health is profound, affecting essential cardiac functions such as heart rate regulation and rhythm maintenance.</p>
-<p>In the short term, untreated LQTS can result in <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fainting-spells">fainting spells</a> or seizures, presenting as the first signs of the condition.</p>
+<p>In the short term, untreated LQTS can result in <a href="https://contenidos.segundaopinionmedica.org/symptoms/fainting-spells">fainting spells</a> or seizures, presenting as the first signs of the condition.</p>
 <p>In contrast, the long-term risks are more severe, with an increased likelihood of sudden cardiac death, particularly during physical exertion or stress.</p>
 <p>One challenging aspect of LQTS is its asymptomatic nature in the early stages, making it crucial for at-risk individuals to undergo regular screenings and genetic testing for early detection.</p>
 <h2 id="causes">Causes of Congenital Long QT Syndrome</h2>
@@ -196,20 +196,20 @@
 <h3>Early Symptoms:</h3>
 <ul>
 <li>Fainting Episodes: Individuals with LQTS may experience unexplained fainting spells, which can disrupt daily activities and pose a risk of injury if not addressed promptly.</li>
-<li>Fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>: Persistent fatigue and weakness may be early signs of LQTS, often mistaken for general tiredness but indicative of underlying cardiac issues.</li>
+<li>Fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>: Persistent fatigue and weakness may be early signs of LQTS, often mistaken for general tiredness but indicative of underlying cardiac issues.</li>
 </ul>
 <h3>Advanced Symptoms:</h3>
 <ul>
-<li>Ventricular Arrhythmias: Severe cases of LQTS can manifest as ventricular arrhythmias, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, and a sense of impending doom, significantly impacting both physical and emotional well-being.</li>
+<li>Ventricular Arrhythmias: Severe cases of LQTS can manifest as ventricular arrhythmias, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, and a sense of impending doom, significantly impacting both physical and emotional well-being.</li>
 <li>Sudden Cardiac Arrest: The most critical advanced symptom of LQTS is sudden cardiac arrest, a life-threatening event that requires immediate medical intervention to prevent fatal outcomes.</li>
 </ul>
 <h2>Diagnosis of Congenital Long QT Syndrome</h2>
 <p>Diagnosing Congenital Long QT Syndrome involves a multi-step approach to accurately identify the condition and initiate appropriate management strategies.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG is a primary diagnostic tool for LQTS, allowing healthcare providers to assess the heart's electrical activity and identify any abnormalities in the QT interval.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG is a primary diagnostic tool for LQTS, allowing healthcare providers to assess the heart's electrical activity and identify any abnormalities in the QT interval.</li>
 <li>Genetic Testing: Genetic testing can pinpoint specific mutations associated with LQTS, aiding in confirming the diagnosis and identifying at-risk family members who may require screening.</li>
 <li>Exercise Stress Test: Stress testing can provoke arrhythmias in individuals with LQTS, revealing abnormal responses to physical exertion and guiding treatment decisions.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram can assess the heart's structure and function, ruling out any structural abnormalities that may contribute to LQTS presentation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram can assess the heart's structure and function, ruling out any structural abnormalities that may contribute to LQTS presentation.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Congenital Long QT Syndrome</h2>
 <p>Managing Congenital Long QT Syndrome involves a combination of medication, lifestyle modifications, and advanced treatments tailored to each individual's specific needs.</p>

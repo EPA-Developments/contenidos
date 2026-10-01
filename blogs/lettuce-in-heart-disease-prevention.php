@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Lettuce for Heart Health'" />
     <meta property="og:description" content="Discover the benefits of lettuce in preventing heart disease and supporting heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-in-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/lettuce-in-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/lettuce-in-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/lettuce-in-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Lettuce In Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/lettuce-in-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/lettuce-in-heart-disease-prevention"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Using Lettuce to Prevent Heart Disease</h1>
 <p>Are you concerned about your heart health and looking for natural ways to reduce the risk of heart disease? Lettuce, often overlooked in heart-healthy discussions, can actually play a significant role in preventing heart disease. How can incorporating more lettuce into your diet benefit your heart health and overall well-being? Let's explore the connection between lettuce and heart disease prevention.</p>
 <h2 class="sec-scrl" id="preventing-heart-disease-with-lettuce">Preventing Heart Disease with Lettuce</h2>
-<p>Heart disease factors such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, and inflammation can significantly increase your risk of cardiovascular issues. Fortunately, lettuce is a nutrient-dense leafy green that can help address these risk factors and promote heart health.</p>
+<p>Heart disease factors such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, and inflammation can significantly increase your risk of cardiovascular issues. Fortunately, lettuce is a nutrient-dense leafy green that can help address these risk factors and promote heart health.</p>
 <ul>
 <li>Lettuce is low in calories and rich in fiber, making it an excellent choice for weight management. Maintaining a healthy weight is crucial in reducing the risk of heart disease.</li>
 <li>The high water content in lettuce helps keep you hydrated, which is important for overall cardiovascular health.</li>
@@ -148,7 +148,7 @@
 <p>Incorporating lettuce into your diet can offer a range of benefits specifically targeted at reducing the risk of heart disease and supporting overall heart health.</p>
 <ul>
 <li>Lettuce is a good source of vitamins A and K, both of which play essential roles in cardiovascular prevention and maintaining healthy blood vessels.</li>
-<li>The potassium content in lettuce can help regulate blood pressure levels, reducing the strain on your heart and lowering the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>The potassium content in lettuce can help regulate blood pressure levels, reducing the strain on your heart and lowering the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Consuming lettuce regularly can contribute to improved digestion and gut health, which are closely linked to heart health and overall well-being.</li>
 </ul>
 <h2 class="sec-scrl" id="heart-disease-risk-reduction">Heart Disease Risk Reduction</h2>

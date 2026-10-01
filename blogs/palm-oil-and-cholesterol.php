@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Palm Oil and Cholesterol: Key Facts&quot;" />
     <meta property="og:description" content="Learn how palm oil impacts your cholesterol levels & discover its effects on heart health. Essential info on LDL & HDL cholesterol." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Palm Oil And Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-cholesterol"
         }
     ]
 }
@@ -132,7 +132,7 @@
 <p>Are you concerned about the impact of palm oil on your cholesterol levels? The relationship between palm oil and cholesterol can significantly influence your daily activities and overall health. Let's delve into the details to understand how palm oil affects your cholesterol levels and what you can do to maintain a healthy lipid profile.</p>
 <h2 class="sec-scrl" id="palm-oil-impact">How Does Palm Oil Impact Cholesterol Levels?</h2>
 <p>Palm oil is a common cooking ingredient in many households, but its effect on cholesterol levels is a topic of concern. The saturated fats present in palm oil can increase LDL cholesterol, also known as 'bad' cholesterol, in the bloodstream. This can lead to a higher risk of heart disease and other health issues associated with elevated LDL levels.</p>
-<p>Additionally, palm oil contains palmitic acid, a type of saturated fat that can raise LDL cholesterol levels more than other types of fats. This can further contribute to the development of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular problems.</p>
+<p>Additionally, palm oil contains palmitic acid, a type of saturated fat that can raise LDL cholesterol levels more than other types of fats. This can further contribute to the development of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and other cardiovascular problems.</p>
 <h2 class="sec-scrl" id="hdl-cholesterol">The Role of HDL Cholesterol in Counteracting Effects</h2>
 <p>While palm oil can elevate LDL cholesterol levels, it is essential to understand the role of HDL cholesterol, often referred to as 'good' cholesterol. HDL works to remove excess cholesterol from the bloodstream and transport it to the liver for excretion. Consuming palm oil in moderation, along with a diet rich in foods that boost HDL levels, can help offset the adverse effects on LDL cholesterol.</p>
 <p>Foods such as fatty fish, nuts, olive oil, and avocados can increase HDL cholesterol levels and improve your overall lipid profile. Incorporating these into your diet while limiting palm oil intake can help maintain a healthy balance between LDL and HDL cholesterol.</p>

@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="15 Signs of a Blood Clot: Know the Symptoms to Watch For">
   <meta property="og:description" content="Discover the 15 common signs of a blood clot to watch out for. Learn the symptoms and risk factors of blood clots for your health and safety.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/15-signs-of-a-blood-clot-symptoms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/15-signs-of-a-blood-clot-symptoms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/15-signs-of-a-blood-clot-symptoms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/15-signs-of-a-blood-clot-symptoms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "15 Signs Of A Blood Clot: Know The Symptoms To Watch For",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/15-signs-of-a-blood-clot-symptoms"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/15-signs-of-a-blood-clot-symptoms"  
       }]
     }
   </script>

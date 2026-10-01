@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endocarditis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Endocarditis is an inflammation of the inner layer of the heart, the endocardium. Know more about its symptoms, causes, and treatment for better heart care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Endocarditis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endocarditis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endocarditis"
       }]
     }
   </script>
@@ -180,7 +180,7 @@
 <li>Fatigue</li>
 <li>Unexplained weight loss</li>
 <li>Night sweats</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Swelling in the feet, legs, or abdomen</li>
 <li>Blood in the urine</li>
 <li>Tender spots on the fingers or toes</li>
@@ -190,7 +190,7 @@
 
 <ul>
 <li>Blood cultures to detect bacteria in the bloodstream</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize heart valve damage</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize heart valve damage</li>
 <li>CBC to check for elevated white blood cell count</li>
 <li>ESR and CRP tests to assess inflammation levels</li>
 </ul>

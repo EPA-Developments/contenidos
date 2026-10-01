@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Microvascular Ischemic Disease: Causes and Treatment" >
   <meta property="og:description" content="Microvascular Ischemic Disease affects heart blood vessels. Read more about the causes, symptoms, and treatment for healthy heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/microvascular-ischemic-disease">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/microvascular-ischemic-disease">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/microvascular-ischemic-disease" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/microvascular-ischemic-disease" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Microvascular Ischemic Disease",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/microvascular-ischemic-disease"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/microvascular-ischemic-disease"
       }]
     }
   </script>
@@ -161,14 +161,14 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms and Treatment of Microvascular Ischemic Disease</h1>
-<p>Microvascular Ischemic Disease occurs when small blood vessels in the brain are damaged, leading to reduced blood flow and oxygen delivery to brain tissue. This condition is significant as it can cause memory problems, cognitive decline, and increases the risk of stroke. It is quite common in older adults, especially those with risk factors like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, and smoking. Understanding this disease is crucial for early detection and management to prevent further complications. If you or a loved one experience symptoms like memory loss or confusion, seeking medical advice promptly is essential.</p>
+<p>Microvascular Ischemic Disease occurs when small blood vessels in the brain are damaged, leading to reduced blood flow and oxygen delivery to brain tissue. This condition is significant as it can cause memory problems, cognitive decline, and increases the risk of stroke. It is quite common in older adults, especially those with risk factors like <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, diabetes, and smoking. Understanding this disease is crucial for early detection and management to prevent further complications. If you or a loved one experience symptoms like memory loss or confusion, seeking medical advice promptly is essential.</p>
 <h2 id="causes">Causes of Microvascular Ischemic Disease</h2>
 <p>Microvascular Ischemic Disease develops due to various factors, including:
 <ul>
 <li>High blood pressure</li>
 <li>Diabetes</li>
 <li>Smoking</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels</li>
 <li>Obesity</li>
 <li>Sedentary lifestyle</li>
 </ul></p>
@@ -176,11 +176,11 @@
 <p>Recognizing the symptoms of Microvascular Ischemic Disease is crucial as early detection can significantly improve outcomes. This condition affects the small blood vessels in the heart, leading to reduced blood flow and potential damage. Being aware of the signs can prompt timely intervention and management. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
 </ul> 
 
 If you experience any of these symptoms, especially if they worsen with physical activity or are accompanied by other concerning signs, it's essential to seek medical attention promptly. Early diagnosis and treatment play a vital role in managing Microvascular Ischemic Disease effectively.</p>
@@ -192,7 +192,7 @@ If you experience any of these symptoms, especially if they worsen with physical
 <li>Physical examination to check for signs of vascular issues.</li>
 <li>Imaging tests such as MRI or CT scans to visualize affected areas.</li>
 <li>Blood tests to evaluate cholesterol levels and blood sugar.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart function.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Microvascular Ischemic Disease</h2>
 <p>Microvascular Ischemic Disease treatment approaches focus on individualized care to address specific patient needs. 

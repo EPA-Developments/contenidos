@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cauliflower: Heart Health Benefits&quot;" />
     <meta property="og:description" content="Discover how cauliflower can boost heart health with its antioxidant properties, aiding in cholesterol reduction. Learn more!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-heart-benefits"
         }
     ]
 }
@@ -147,7 +147,7 @@
 </ul>
 <p>By adding Cauliflower to your meals, you can ensure that your heart receives the vital nutrients it needs to stay strong and healthy.</p>
 <h2 class="sec-scrl" id="blood-pressure">Blood Pressure</h2>
-<p>Did you know that Cauliflower can help regulate your blood pressure levels? <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but Cauliflower can be part of the solution. Here's how Cauliflower supports healthy blood pressure:</p>
+<p>Did you know that Cauliflower can help regulate your blood pressure levels? <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a significant risk factor for heart disease, but Cauliflower can be part of the solution. Here's how Cauliflower supports healthy blood pressure:</p>
 <ul>
 <li>Rich in potassium, which helps lower blood pressure and reduce strain on the heart</li>
 <li>Contains compounds that promote blood vessel health and improve circulation</li>

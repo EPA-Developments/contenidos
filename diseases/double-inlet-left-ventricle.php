@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Double Inlet Left Ventricle: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Double Inlet Left Ventricle is a rare heart defect affecting blood flow. Read more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/double-inlet-left-ventricle">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/double-inlet-left-ventricle">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/double-inlet-left-ventricle" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/double-inlet-left-ventricle" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Double Inlet Left Ventricle",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/double-inlet-left-ventricle"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/double-inlet-left-ventricle"
       }]
     }
   </script>
@@ -176,8 +176,8 @@
 <p>When it comes to Double Inlet Left Ventricle, early recognition of symptoms is crucial for better outcomes. Identifying signs early can lead to timely interventions and improved management of the condition. Symptoms of Double Inlet Left Ventricle include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/cyanosis">cyanosis</a> (bluish discoloration of the skin)</li>
 <li>Poor feeding and inadequate weight gain</li>
 <li>Tiring easily during activities</li>
 <li>Irritability or fussiness</li>
@@ -188,16 +188,16 @@ Recognizing these symptoms promptly and seeking medical attention can make a sig
 <p>Accurate diagnosis of Double Inlet Left Ventricle (DILV) is crucial for timely intervention and management. The diagnostic process typically involves a combination of clinical assessments and imaging tests to confirm the condition. Diagnostic methods for DILV may include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart.</li>
 <li>Cardiac MRI: Provides detailed images of the heart's structure and function.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>: Involves inserting a catheter to assess heart function and blood flow.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>: Involves inserting a catheter to assess heart function and blood flow.</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Double Inlet Left Ventricle</h2>
 <p>In treating Double Inlet Left Ventricle, individualized care is crucial for optimal outcomes. Different treatment approaches may be considered based on the patient's specific condition. Here are some main approaches to treating Double Inlet Left Ventricle:
 
 <h3>1. Surgical Repair</h3>
 <ul>
-<li>This treatment involves open-<a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-surgery">heart surgery</a> to reconstruct the heart's anatomy.</li>
+<li>This treatment involves open-<a href="https://contenidos.segundaopinionmedica.org/procedures/heart-surgery">heart surgery</a> to reconstruct the heart's anatomy.</li>
 <li>The rationale behind surgical repair is to improve blood flow and cardiac function.</li>
 <li>The primary objective is to create a more functional circulation pattern.</li>
 <li>The steps typically involve correcting the ventricular septal defect and addressing any associated abnormalities.</li>

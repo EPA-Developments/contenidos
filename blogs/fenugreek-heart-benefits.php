@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Fenugreek Heart Benefits Explained&quot;" />
     <meta property="og:description" content="Explore the heart-healthy benefits of Fenugreek in this comprehensive overview. Improve cardiovascular support naturally." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/fenugreek-heart-benefits" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/fenugreek-heart-benefits" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/fenugreek-heart-benefits" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/fenugreek-heart-benefits" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Fenugreek Heart Benefits",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/fenugreek-heart-benefits"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/fenugreek-heart-benefits"
         }
     ]
 }
@@ -159,9 +159,9 @@
 </ul>
 <p>By incorporating fenugreek into your diet or as a supplement, you may experience positive changes in your cholesterol profile and overall heart health, paving the way for a healthier future.</p>
 <h2 class="sec-scrl" id="blood-pressure">Managing Blood Pressure with Fenugreek</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. How can fenugreek help in managing blood pressure levels and promoting heart health? Here's what you need to know:</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> is a common risk factor for heart disease. How can fenugreek help in managing blood pressure levels and promoting heart health? Here's what you need to know:</p>
 <ul>
-<li>Reducing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> risk: Fenugreek's bioactive compounds may help relax blood vessels and improve blood flow, leading to lower blood pressure levels and reduced hypertension risk.</li>
+<li>Reducing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> risk: Fenugreek's bioactive compounds may help relax blood vessels and improve blood flow, leading to lower blood pressure levels and reduced hypertension risk.</li>
 <li>Supporting heart function: By maintaining healthy blood pressure levels, fenugreek can support overall heart function and reduce the strain on the cardiovascular system.</li>
 </ul>
 <p>By incorporating fenugreek into your daily routine, you can take proactive steps towards managing blood pressure and safeguarding your heart health in the long term.</p>

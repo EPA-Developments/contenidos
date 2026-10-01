@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Crushing Chest Pain: Causes, Symptoms, and Treatment" >
   <meta property="og:description" content="Crushing chest pain can be a warning of heart problems. Know more about its causes, diagnosis, and effective treatments for this condition." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Crushing Chest Pain",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/crushing-chest-pain"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/crushing-chest-pain"  
       }]
     }
   </script>
@@ -187,15 +187,15 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Crushing Chest Pain: Causes, Symptoms, and Diagnosis</h1>
 <p>Crushing chest pain refers to a sensation of intense pressure or discomfort in the chest that can feel like a heavy weight on the chest or a squeezing sensation.</p>
-<p>This type of <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> is often described as feeling like a tight band around the chest or a crushing sensation, leading to significant discomfort and distress.</p>
+<p>This type of <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> is often described as feeling like a tight band around the chest or a crushing sensation, leading to significant discomfort and distress.</p>
 <p>It is important to note that crushing chest pain can be a symptom of various underlying health conditions, ranging from benign causes to life-threatening emergencies.</p>
-<p>Symptoms of crushing chest pain may include intense chest pain, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a>, heavy chest pain, a crushing sensation in the chest, painful <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-tightness">chest tightness</a>, pressure in the chest, and severe chest discomfort.</p>
-<p>These symptoms can vary in intensity and duration, and may be accompanied by other signs such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, nausea, sweating, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>.</p>
+<p>Symptoms of crushing chest pain may include intense chest pain, <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a>, heavy chest pain, a crushing sensation in the chest, painful <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-tightness">chest tightness</a>, pressure in the chest, and severe chest discomfort.</p>
+<p>These symptoms can vary in intensity and duration, and may be accompanied by other signs such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, nausea, sweating, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>.</p>
 <p>It is crucial to pay attention to these symptoms and seek medical attention promptly if you experience crushing chest pain.</p>
 <h2 id="forms">What are the Forms of Crushing chest pain?</h2>
 <p>There are several forms of crushing chest pain that can indicate different underlying causes.</p>
 <ul>
-<li>Acute coronary syndrome: This is a medical emergency that includes conditions such as unstable <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a> and <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>). Symptoms include severe chest pain, shortness of breath, and sweating.</li>
+<li>Acute coronary syndrome: This is a medical emergency that includes conditions such as unstable <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a> and <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>). Symptoms include severe chest pain, shortness of breath, and sweating.</li>
 <li>Gastroesophageal reflux disease (GERD): This condition can cause chest pain that may feel like a burning sensation or discomfort in the chest, often worsened by lying down or eating.</li>
 <li>Costochondritis: Inflammation of the cartilage that connects the ribs to the breastbone can cause chest pain that feels like a sharp, stabbing sensation, especially with movement or deep breathing.</li>
 </ul>

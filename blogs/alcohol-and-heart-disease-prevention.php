@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Alcohol for Heart Health: Facts & Benefits&quot;" />
     <meta property="og:description" content="Learn about how alcohol can help prevent heart disease. Discover the link between moderate alcohol use and cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Alcohol And Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/alcohol-and-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/alcohol-and-heart-disease-prevention"
         }
     ]
 }
@@ -149,8 +149,8 @@
 <p>Studies examining the relationship between alcohol consumption and heart health have shed light on the importance of moderation. Understanding how alcohol consumption affects cardiovascular health is essential for managing heart disease risk.</p>
 <p>Key findings from cardiovascular studies on alcohol consumption moderation include:</p>
 <ul>
-<li>Moderate alcohol consumption is associated with a reduced risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-heart-disease">coronary heart disease</a>.</li>
-<li>Excessive drinking can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and increase the risk of heart failure.</li>
+<li>Moderate alcohol consumption is associated with a reduced risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/coronary-heart-disease">coronary heart disease</a>.</li>
+<li>Excessive drinking can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and increase the risk of heart failure.</li>
 <li>Individual differences in alcohol metabolism can influence how alcohol affects heart health.</li>
 </ul>
 <h2 class="sec-scrl" id="lifestyle-factors">What Role do Lifestyle Factors Play in the Relationship Between Alcohol and Heart Disease?</h2>

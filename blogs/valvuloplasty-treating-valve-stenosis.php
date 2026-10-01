@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Valvuloplasty for Treating Valve Stenosis: Effective Treatment?">
   <meta property="og:description" content="Discover if valvuloplasty is an effective treatment for valve stenosis. Learn about the benefits of valvuloplasty in treating this cardiac condition.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-treating-valve-stenosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-treating-valve-stenosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-treating-valve-stenosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-treating-valve-stenosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Valvuloplasty For Treating Valve Stenosis: Effective Treatment?",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/valvuloplasty-treating-valve-stenosis"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/valvuloplasty-treating-valve-stenosis"  
       }]
     }
   </script>

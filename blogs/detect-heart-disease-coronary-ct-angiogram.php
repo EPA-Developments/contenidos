@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Detect Heart Disease Early with a Coronary CT Angiogram">
   <meta property="og:description" content="Discover why a Coronary CT Angiogram is crucial for early detection of heart disease. Learn how this advanced imaging test can save lives.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-coronary-ct-angiogram">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-coronary-ct-angiogram">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-coronary-ct-angiogram" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-coronary-ct-angiogram" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Detect Heart Disease Early With A Coronary Ct Angiogram",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/detect-heart-disease-coronary-ct-angiogram"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/detect-heart-disease-coronary-ct-angiogram"  
       }]
     }
   </script>

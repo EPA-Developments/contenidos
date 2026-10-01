@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding Peripheral Vascular Atherosclerosis: Symptoms & Impacts">
   <meta property="og:description" content="Learn about the causes, symptoms, and treatment options for peripheral vascular atherosclerosis. Understand how this condition affects your vascular health.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Peripheral Vascular Atherosclerosis Symptoms Impacts",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/peripheral-vascular-atherosclerosis-symptoms-impacts"  
       }]
     }
   </script>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Syndrome X: Causes, Symptoms, and Treatment">
   <meta property="og:description" content="Cardiac syndrome X causes chest pain despite clear arteries. Know its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-syndrome-x">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-syndrome-x">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-syndrome-x" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-syndrome-x" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Syndrome X",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-syndrome-x"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-syndrome-x"
       }]
     }
   </script>
@@ -167,18 +167,18 @@
             <div class="article-content">
 <h1>Symptoms, and Treatment of Cardiac Syndrome X</h1>
 <h2 id="causes">Overview of Cardiac Syndrome X</h2>
-<p>Cardiac Syndrome X, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/microvascular-angina">microvascular angina</a>, is a heart condition that affects the small blood vessels in the heart, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> and other symptoms similar to those of coronary artery disease.</p>
-<p>Despite its name, Cardiac Syndrome X primarily affects women, making up a significant portion of patients with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/angina">angina</a>-like symptoms but no evidence of obstructive coronary artery disease on standard diagnostic tests.</p>
+<p>Cardiac Syndrome X, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/microvascular-angina">microvascular angina</a>, is a heart condition that affects the small blood vessels in the heart, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> and other symptoms similar to those of coronary artery disease.</p>
+<p>Despite its name, Cardiac Syndrome X primarily affects women, making up a significant portion of patients with <a href="https://contenidos.segundaopinionmedica.org/symptoms/angina">angina</a>-like symptoms but no evidence of obstructive coronary artery disease on standard diagnostic tests.</p>
 <p>This syndrome holds great significance in the field of cardiology due to its unique presentation and challenges in diagnosis and management.</p>
 <p>The prevalence of Cardiac Syndrome X is estimated to be around 3-5% among patients undergoing coronary angiography for chest pain evaluation. However, the actual prevalence may be higher since many cases go undiagnosed or misdiagnosed.</p>
 <p>The impact of Cardiac Syndrome X on health is substantial, as it can significantly impair an individual's quality of life and increase the risk of adverse cardiovascular events.</p>
-<p>The essential functions affected by Cardiac Syndrome X include myocardial oxygen supply, endothelial function, and microvascular circulation. Untreated Cardiac Syndrome X can lead to long-term risks such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a>, heart failure, and even sudden cardiac death.</p>
+<p>The essential functions affected by Cardiac Syndrome X include myocardial oxygen supply, endothelial function, and microvascular circulation. Untreated Cardiac Syndrome X can lead to long-term risks such as <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a>, heart failure, and even sudden cardiac death.</p>
 <p>One of the challenging aspects of Cardiac Syndrome X is its asymptomatic nature in the early stages, making it difficult to detect without specific diagnostic tests.</p>
 <p>Therefore, early detection through regular screenings is crucial to identify and manage this condition effectively, preventing complications and improving long-term outcomes.</p>
 <h2 id="symptoms">Causes of Cardiac Syndrome X</h2>
 <h3>Primary Causes</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction plays a key role in the pathophysiology of Cardiac Syndrome X. Impaired endothelial function leads to reduced nitric oxide bioavailability, affecting vasodilation and increasing vascular resistance in the coronary microvasculature over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>: Endothelial dysfunction plays a key role in the pathophysiology of Cardiac Syndrome X. Impaired endothelial function leads to reduced nitric oxide bioavailability, affecting vasodilation and increasing vascular resistance in the coronary microvasculature over time.</li>
 <li>Microvascular Spasm: Abnormal constriction of the small coronary blood vessels, known as microvascular spasm, can contribute to the development of Cardiac Syndrome X. These spasms disrupt blood flow to the heart muscle, leading to chest pain and other symptoms characteristic of the syndrome.</li>
 <li>Inflammation: Chronic low-grade inflammation within the coronary microvasculature can trigger an inflammatory response, contributing to endothelial dysfunction and microvascular abnormalities associated with Cardiac Syndrome X.</li>
 <li>Hormonal Factors: Hormonal imbalances, particularly in postmenopausal women, can influence vascular tone and endothelial function, increasing the risk of developing Cardiac Syndrome X. Estrogen deficiency, for example, may predispose individuals to microvascular dysfunction.</li>
@@ -193,12 +193,12 @@
 <p>Early Symptoms</p>
 <ul>
 <li>Chest Discomfort: Patients may experience chest pain or discomfort that differs from typical angina. This discomfort may be triggered by physical exertion or emotional stress, impacting daily activities and energy levels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, especially during exertion, may occur due to inadequate oxygen supply to the heart muscle. This symptom can limit physical capabilities and cause anxiety or distress.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, especially during exertion, may occur due to inadequate oxygen supply to the heart muscle. This symptom can limit physical capabilities and cause anxiety or distress.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
 <li>Fatigue: Persistent fatigue, even with minimal physical activity, can be a debilitating symptom of advanced Cardiac Syndrome X. This fatigue may not improve with rest and can significantly affect the individual's physical and emotional well-being.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may manifest as an advanced symptom of Cardiac Syndrome X, signaling underlying cardiac abnormalities and potentially increasing the risk of arrhythmias or other complications.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Irregular heartbeats or palpitations may manifest as an advanced symptom of Cardiac Syndrome X, signaling underlying cardiac abnormalities and potentially increasing the risk of arrhythmias or other complications.</li>
 </ul>
 <h2 id="treatment">Diagnosis of Cardiac Syndrome X</h2>
 <p>Multi-Step Diagnostic Process</p>

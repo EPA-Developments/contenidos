@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Soy Protein: Lower Cholesterol Benefits&quot;" />
     <meta property="og:description" content="Explore how soy protein can help lower cholesterol levels naturally. Learn more about the benefits of plant-based proteins for heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/soy-protein-cholesterol" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/soy-protein-cholesterol" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/soy-protein-cholesterol" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/soy-protein-cholesterol" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Soy Protein Cholesterol",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/soy-protein-cholesterol"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/soy-protein-cholesterol"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Soy Protein for Cholesterol Levels</h1>
-<p>Are you looking for a natural way to improve your heart health and lower your cholesterol levels? Incorporating soy protein into your diet could be the solution you've been searching for. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a common concern for many individuals, affecting daily activities and increasing the risk of cardiovascular issues. Understanding the role of soy protein in managing cholesterol levels can be the key to a healthier heart and overall well-being.</p>
+<p>Are you looking for a natural way to improve your heart health and lower your cholesterol levels? Incorporating soy protein into your diet could be the solution you've been searching for. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a common concern for many individuals, affecting daily activities and increasing the risk of cardiovascular issues. Understanding the role of soy protein in managing cholesterol levels can be the key to a healthier heart and overall well-being.</p>
 <h2 class="sec-scrl" id="soy-protein-cholesterol">The Benefits of Soy Protein for Lowering Cholesterol</h2>
 <p>Soy protein is a plant-based protein source that has been shown to have various health benefits, including its potential to reduce LDL cholesterol levels. LDL cholesterol, often referred to as "bad" cholesterol, is a major risk factor for heart disease. By incorporating soy protein into your diet, you can help lower your LDL cholesterol levels and reduce your overall cardiovascular risk.</p>
 <p>One of the reasons soy protein is effective in lowering cholesterol is its impact on triglyceride levels. High triglyceride levels are associated with an increased risk of heart disease. Soy protein has been found to help lower triglyceride levels, further contributing to its ability to improve heart health.</p>

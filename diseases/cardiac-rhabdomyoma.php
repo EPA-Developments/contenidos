@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Cardiac Rhabdomyoma: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Cardiac rhabdomyoma is a rare heart tumor often found in children. Know its causes, symptoms, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-rhabdomyoma">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/cardiac-rhabdomyoma">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-rhabdomyoma" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-rhabdomyoma" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Cardiac Rhabdomyoma",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/cardiac-rhabdomyoma"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/cardiac-rhabdomyoma"
       }]
     }
   </script>
@@ -169,7 +169,7 @@
 <p>Cardiac Rhabdomyoma is a rare type of benign tumor that develops in the heart muscle. While these tumors are non-cancerous, they can still have significant implications for a person's health.</p>
 <p>Cardiac Rhabdomyomas are particularly prevalent in infants and young children, often presenting as multiple growths within the heart. Despite being benign, their location and potential to interfere with essential cardiac functions make them a matter of concern.</p>
 <p>In the short term, Cardiac Rhabdomyomas may not always exhibit noticeable symptoms, leading to challenges in early detection. However, in the long term, these tumors can grow in size and number, potentially impacting the heart's ability to pump blood effectively.</p>
-<p>Untreated Cardiac Rhabdomyomas can lead to complications such as arrhythmias, heart failure, and even sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. Therefore, understanding the significance of early detection and regular screenings is crucial in managing this condition effectively.</p>
+<p>Untreated Cardiac Rhabdomyomas can lead to complications such as arrhythmias, heart failure, and even sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. Therefore, understanding the significance of early detection and regular screenings is crucial in managing this condition effectively.</p>
 <h2 id="causes">Causes of Cardiac Rhabdomyoma</h2>
 <p>The causes of Cardiac Rhabdomyoma can vary, with both genetic and non-genetic factors playing a role in its development. Understanding these causes is essential in diagnosing and treating the condition effectively.</p>
 <ul>
@@ -186,20 +186,20 @@
 <p>Recognizing the symptoms of Cardiac Rhabdomyoma is crucial for early intervention and management of the condition. Symptoms can vary depending on the size and location of the tumors within the heart.</p>
 <h3>Early Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>: Early-stage Cardiac Rhabdomyomas may cause palpitations, irregular heartbeats that can impact daily activities and energy levels. Monitoring heart rate and seeking medical attention for persistent palpitations is essential.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>: Early-stage Cardiac Rhabdomyomas may cause palpitations, irregular heartbeats that can impact daily activities and energy levels. Monitoring heart rate and seeking medical attention for persistent palpitations is essential.</li>
 <li>Fatigue: Fatigue is a common early symptom of Cardiac Rhabdomyoma, often attributed to the heart's reduced ability to pump blood effectively. Individuals may experience increased tiredness even with minimal physical exertion.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: As Cardiac Rhabdomyomas progress, they can impede the heart's ability to circulate oxygenated blood effectively, leading to shortness of breath with exertion or even at rest. This symptom can significantly impact daily activities and emotional well-being.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Advanced-stage Cardiac Rhabdomyomas may cause chest pain or discomfort due to the increased strain on the heart muscle. Chest pain should never be ignored and warrants immediate medical evaluation.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: As Cardiac Rhabdomyomas progress, they can impede the heart's ability to circulate oxygenated blood effectively, leading to shortness of breath with exertion or even at rest. This symptom can significantly impact daily activities and emotional well-being.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Advanced-stage Cardiac Rhabdomyomas may cause chest pain or discomfort due to the increased strain on the heart muscle. Chest pain should never be ignored and warrants immediate medical evaluation.</li>
 </ul>
 <h2>Diagnosis of Cardiac Rhabdomyoma</h2>
 <p>Diagnosing Cardiac Rhabdomyoma involves a series of tests and evaluations to accurately identify the presence of tumors in the heart muscle. Early diagnosis is crucial for initiating timely treatment and preventing potential complications.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create detailed images of the heart's structure and function. This test can help detect the presence of Cardiac Rhabdomyomas and assess their impact on cardiac function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: An echocardiogram uses sound waves to create detailed images of the heart's structure and function. This test can help detect the presence of Cardiac Rhabdomyomas and assess their impact on cardiac function.</li>
 <li>Cardiac MRI: A cardiac MRI provides more detailed images of the heart, allowing healthcare providers to visualize the size and location of Cardiac Rhabdomyomas accurately.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, helping identify any irregularities or arrhythmias associated with Cardiac Rhabdomyoma.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, helping identify any irregularities or arrhythmias associated with Cardiac Rhabdomyoma.</li>
 <li>Biopsy: In some cases, a biopsy may be necessary to confirm the diagnosis of Cardiac Rhabdomyoma. Tissue samples are taken from the heart muscle for further analysis.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Cardiac Rhabdomyoma</h2>

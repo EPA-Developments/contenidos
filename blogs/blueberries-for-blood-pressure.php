@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Blueberries for Blood Pressure: A Natural Solution&quot;" />
     <meta property="og:description" content="Discover how blueberries can help manage blood pressure naturally. Learn about the benefits of blueberries for hypertension and overall heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Blueberries For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/blueberries-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/blueberries-for-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Blueberries for Blood Pressure: A Guide</h1>
-<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to maintain a healthy lifestyle while managing <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>? The solution might be simpler than you think – blueberries! These tiny, delicious fruits pack a powerful punch when it comes to supporting your blood pressure levels and overall cardiovascular health.</p>
+<p>Are you struggling to keep your blood pressure in check? Do you find it challenging to maintain a healthy lifestyle while managing <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>? The solution might be simpler than you think – blueberries! These tiny, delicious fruits pack a powerful punch when it comes to supporting your blood pressure levels and overall cardiovascular health.</p>
 <h2 class="sec-scrl" id="blueberries-for-blood-pressure">Blueberries for Blood Pressure</h2>
 <p>Blueberries are not just a tasty snack; they are also rich in nitrates, which help relax blood vessels and improve circulation. This relaxation of blood vessels can lead to lower blood pressure levels, reducing the strain on your heart and promoting better cardiovascular health.</p>
 <p>In addition to nitrates, blueberries are loaded with antioxidants that protect your blood vessels from damage and support overall heart health. These antioxidants help maintain healthy blood vessel function, further contributing to the management of hypertension.</p>
@@ -160,7 +160,7 @@
 <h2 class="sec-scrl" id="potassium-balance">The Role of Potassium in Blueberries for Blood Pressure</h2>
 <p>Potassium is a vital mineral that plays a key role in regulating blood pressure levels. Blueberries contain potassium, which can help balance sodium levels in the body and support healthy blood pressure. By incorporating potassium-rich foods like blueberries into your diet, you can promote better cardiovascular health and hypertension management.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
-<p>Blueberries are not just a delicious fruit; they are also a valuable ally in the fight against hypertension and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>. Their rich content of nitrates, antioxidants, and potassium makes them a powerhouse for supporting cardiovascular health, improving blood vessel function, and enhancing circulation. By including blueberries in your daily diet, you can take a proactive step towards managing your blood pressure and promoting overall well-being.</p>
+<p>Blueberries are not just a delicious fruit; they are also a valuable ally in the fight against hypertension and <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>. Their rich content of nitrates, antioxidants, and potassium makes them a powerhouse for supporting cardiovascular health, improving blood vessel function, and enhancing circulation. By including blueberries in your daily diet, you can take a proactive step towards managing your blood pressure and promoting overall well-being.</p>
             </div>
           </div>
         </div>

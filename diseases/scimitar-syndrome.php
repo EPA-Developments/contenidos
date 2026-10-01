@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Scimitar Syndrome: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Scimitar syndrome is a rare congenital heart defect that causes abnormal drainage of the right lung's pulmonary veins. Know more about symptoms and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/scimitar-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/scimitar-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/scimitar-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/scimitar-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Scimitar Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/scimitar-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/scimitar-syndrome"
       }]
     }
   </script>
@@ -175,8 +175,8 @@
 <p>Recognizing the symptoms of Scimitar Syndrome early is crucial for improving outcomes. This rare congenital heart defect can lead to serious complications if not detected promptly. Symptoms to watch out for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
 <li>Respiratory infections</li>
 <li>Failure to thrive in infants</li>
 <li>Recurrent pneumonia</li>
@@ -184,7 +184,7 @@
 
 Early identification of these symptoms can lead to timely interventions, improving the overall management and prognosis of Scimitar Syndrome. If you or your child experience any of these signs, seek medical attention promptly for further evaluation and appropriate management.</p>
 <h2>Diagnosis of Scimitar Syndrome</h2>
-<p>Scimitar Syndrome diagnosis is crucial for timely management. Key diagnostic methods include Chest X-ray showing an abnormal lung shadow resembling a curved scimitar, <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to assess heart structure and function, Cardiac MRI for detailed imaging of heart and lung anatomy, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures and oxygen levels in heart chambers. Accurate diagnosis is vital to initiate appropriate treatment, prevent complications like <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and improve patient outcomes. 
+<p>Scimitar Syndrome diagnosis is crucial for timely management. Key diagnostic methods include Chest X-ray showing an abnormal lung shadow resembling a curved scimitar, <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to assess heart structure and function, Cardiac MRI for detailed imaging of heart and lung anatomy, and <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a> to measure pressures and oxygen levels in heart chambers. Accurate diagnosis is vital to initiate appropriate treatment, prevent complications like <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, and improve patient outcomes. 
 
 <ul>
 <li>Chest X-ray</li>

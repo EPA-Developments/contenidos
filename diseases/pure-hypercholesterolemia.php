@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pure Hypercholesterolemia: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Pure hypercholesterolemia, is a genetic condition that causes high cholesterol levels. Know more about its symptoms, causes, and treatment for heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pure-hypercholesterolemia">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pure-hypercholesterolemia">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pure-hypercholesterolemia" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pure-hypercholesterolemia" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Pure Hypercholesterolemia",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pure-hypercholesterolemia"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pure-hypercholesterolemia"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
 <p>Sure, here are the main factors contributing to the development of Pure Hypercholesterolemia:
 
 <ul>
-<li>Genetics: Inheriting specific genes can lead to <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels.</li>
+<li>Genetics: Inheriting specific genes can lead to <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels.</li>
 <li>Diet: Consuming foods high in saturated fats, trans fats, and cholesterol.</li>
 <li>Lifestyle: Lack of physical activity and smoking can elevate cholesterol.</li>
 <li>Obesity: Being overweight can impact cholesterol levels.</li>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Glycerine Benefits for Arterial Plaque Reduction&quot;" />
     <meta property="og:description" content="Discover how glycerine helps reduce arterial plaque and promotes cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-arterial-plaque" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-arterial-plaque" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-arterial-plaque" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-arterial-plaque" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glycerine And Arterial Plaque",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glycerine-and-arterial-plaque"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glycerine-and-arterial-plaque"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>The Power of Glycerine for Arterial Plaque Reduction</h1>
 <p>Are you concerned about your heart health and looking for natural ways to manage arterial plaque? Living with arterial plaque buildup can significantly impact your daily activities and overall well-being. Finding effective solutions to reduce plaque formation is crucial for maintaining a healthy cardiovascular system.</p>
 <h2 class="sec-scrl" id="glycerine-benefits">The Role of Glycerine in Supporting Arterial Health</h2>
-<p> Glycerine, a natural compound commonly used in various skincare products, has shown promising benefits in supporting arterial health. When consumed orally, glycerine can help in reducing plaque buildup in the arteries, thus promoting better cardiovascular function. Let's delve into how glycerine works to combat <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and improve lipid metabolism.</p>
+<p> Glycerine, a natural compound commonly used in various skincare products, has shown promising benefits in supporting arterial health. When consumed orally, glycerine can help in reducing plaque buildup in the arteries, thus promoting better cardiovascular function. Let's delve into how glycerine works to combat <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and improve lipid metabolism.</p>
 <ul>
 <li>Glycerine acts as a vasodilator, helping to widen blood vessels and improve blood flow.</li>
 <li>It possesses anti-inflammatory properties that can reduce inflammation in the arterial walls, preventing plaque formation.</li>
@@ -165,7 +165,7 @@
 <p>Cardiovascular diseases pose a significant risk to overall health and well-being, making it crucial to take proactive steps in preventing their development. Glycerine offers a natural and effective way to protect against heart-related issues and reduce the likelihood of cardiovascular diseases.</p>
 <p>Key points to consider regarding glycerine and cardiovascular diseases:</p>
 <ul>
-<li>Reduces the stiffness of arterial walls, improving their flexibility and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>.</li>
+<li>Reduces the stiffness of arterial walls, improving their flexibility and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>.</li>
 <li>Helps in maintaining optimal blood circulation, preventing the formation of blood clots and blockages.</li>
 <li>Supports overall heart function by reducing cardiac workload and enhancing oxygen delivery to tissues.</li>
 </ul>

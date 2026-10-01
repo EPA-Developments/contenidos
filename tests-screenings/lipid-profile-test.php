@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Lipid Profile Test: Costs, Purpose, and Normal Range" property="og:title"/>
 <meta content="Lipid profile test measures cholesterol levels. Know more about its purpose, costs, and normal Range to manage heart disease risks." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/lipid-profile-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/lipid-profile-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/lipid-profile-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/lipid-profile-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Lipid Profile Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/lipid-profile-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/lipid-profile-test"  
       }]
     }
   </script>
@@ -167,7 +167,7 @@
 <li>Screening for heart disease risk factors</li>
 <li>Monitoring the effectiveness of cholesterol-lowering medications</li>
 <li>Evaluating overall cardiovascular health</li>
-<li>Assessing the risk of developing <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
+<li>Assessing the risk of developing <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> (hardening of the arteries)</li>
 </ul>
 <p>By performing a lipid profile test regularly, you can stay informed about your cholesterol levels and take necessary steps to maintain a healthy heart.</p>
 <h2 id="costs">What are the Costs of Lipid Profile Test Tests in Americas?</h2>

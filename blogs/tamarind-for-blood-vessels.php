@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tamarind Benefits for Blood Vessels" />
     <meta property="og:description" content="Discover the benefits of tamarind for healthy blood vessels and vascular wellness in this informative blog." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-blood-vessels" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-blood-vessels" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-blood-vessels" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-blood-vessels" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamarind For Blood Vessels",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tamarind-for-blood-vessels"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tamarind-for-blood-vessels"
         }
     ]
 }
@@ -138,7 +138,7 @@
 <li>Regular consumption of Tamarind may lower cholesterol levels, benefiting vascular health.</li>
 </ul>
 <h2 class="sec-scrl" id="tamarind-and-circulation">Boosting Circulation Naturally</h2>
-<p>Struggling with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/poor-circulation">poor circulation</a> can affect your energy levels and quality of life. Tamarind, with its rich nutritional profile, can be a game-changer in enhancing your circulation. This fruit contains essential minerals like iron and potassium that support healthy blood flow and oxygen delivery throughout your body.</p>
+<p>Struggling with <a href="https://contenidos.segundaopinionmedica.org/symptoms/poor-circulation">poor circulation</a> can affect your energy levels and quality of life. Tamarind, with its rich nutritional profile, can be a game-changer in enhancing your circulation. This fruit contains essential minerals like iron and potassium that support healthy blood flow and oxygen delivery throughout your body.</p>
 <ul>
 <li>Iron in Tamarind helps in the production of red blood cells, vital for optimal circulation.</li>
 <li>Potassium in Tamarind regulates blood pressure, improving overall blood vessel function.</li>
@@ -152,7 +152,7 @@
 <li>Regular intake of Tamarind can help maintain the elasticity and integrity of your arteries.</li>
 </ul>
 <h2 class="sec-scrl" id="tamarind-for-artery-health">Nurturing Artery Health</h2>
-<p>Your arteries are vital highways that carry oxygen-rich blood to every part of your body. Tamarind's impressive array of nutrients contributes to the well-being of your arteries by reducing oxidative damage, inflammation, and the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>. Including Tamarind in your diet can be a delicious way to protect and nurture your artery health.</p>
+<p>Your arteries are vital highways that carry oxygen-rich blood to every part of your body. Tamarind's impressive array of nutrients contributes to the well-being of your arteries by reducing oxidative damage, inflammation, and the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>. Including Tamarind in your diet can be a delicious way to protect and nurture your artery health.</p>
 <ul>
 <li>Tamarind antioxidants combat free radicals, preserving the health of your artery walls.</li>
 <li>The anti-inflammatory properties of Tamarind help in reducing arterial inflammation and damage.</li>

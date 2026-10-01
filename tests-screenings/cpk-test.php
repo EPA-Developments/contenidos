@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, Costs and Normal Range of Cpk Test" property="og:title"/>
 <meta content="CPK test measures heart and muscle damage. Know more about the purpose, cost, and normal Range to monitor your health effectively." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/cpk-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/cpk-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/cpk-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/cpk-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "CPK Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/cpk-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/cpk-test"  
       }]
     }
   </script>
@@ -178,7 +178,7 @@
 <h1>Normal Range and Cost of a CPK Test</h1>
 <p>The CPK test, also known as the creatine phosphokinase test, is a diagnostic pathology test that measures the levels of the enzyme creatine phosphokinase in the blood.</p>
 <p>CPK is an enzyme found in various tissues in the body, including the heart, brain, and muscles. When these tissues are damaged, CPK is released into the bloodstream, making it a useful marker for assessing tissue damage.</p>
-<p>For example, in the case of a <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>), CPK levels in the blood may rise as a result of damage to the heart muscle.</p>
+<p>For example, in the case of a <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> (<a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>), CPK levels in the blood may rise as a result of damage to the heart muscle.</p>
 <p>Similarly, CPK levels can also increase in conditions such as muscle trauma or injury, muscular dystrophy, and brain injury. By measuring CPK levels, healthcare providers can assess the extent of tissue damage and monitor the progression of certain conditions.</p>
 <p>The CPK test is a valuable tool in diagnosing and monitoring various health conditions, particularly those affecting the heart and muscles.</p>
 <p>By measuring CPK levels, healthcare providers can gain valuable insights into the extent of tissue damage and tailor treatment plans accordingly.</p>
@@ -217,7 +217,7 @@
 <p>High CPK levels can pose risks such as further tissue damage, organ dysfunction, and complications if left untreated.</p>
 <p>It is crucial to monitor CPK levels closely, especially in patients with known heart or muscle conditions, to prevent further damage and improve outcomes.</p>
 <h2>What Do Low CPK Test Levels Indicate?</h2>
-<p>Low CPK levels in the blood are less common than high CPK levels and can indicate conditions such as muscle <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, low muscle mass, or certain medications that suppress CPK production.</p>
+<p>Low CPK levels in the blood are less common than high CPK levels and can indicate conditions such as muscle <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, low muscle mass, or certain medications that suppress CPK production.</p>
 <p>In some cases, low CPK levels may be a normal variation and not necessarily indicative of underlying health conditions.</p>
 <p>Conditions such as myasthenia gravis, hypothyroidism, and malnutrition can cause low CPK levels due to muscle weakness or dysfunction.</p>
 <p>It is essential to assess CPK levels in conjunction with other clinical findings to determine the underlying cause of low CPK levels and initiate appropriate treatment.</p>

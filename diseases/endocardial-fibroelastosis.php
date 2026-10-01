@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endocardial Fibroelastosis: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Endocardial Fibroelastosis thickens heart walls, affecting function. Read more about its symptoms, causes, and treatment for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endocardial-fibroelastosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endocardial-fibroelastosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endocardial-fibroelastosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endocardial-fibroelastosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Endocardial Fibroelastosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endocardial-fibroelastosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endocardial-fibroelastosis"
       }]
     }
   </script>
@@ -175,7 +175,7 @@
 <p>Recognizing the symptoms of Endocardial Fibroelastosis early is crucial for improving outcomes. This rare heart condition can affect infants and young children. Symptoms to watch for include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-breathing">rapid breathing</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-breathing">rapid breathing</a></li>
 <li>Fatigue</li>
 <li>Failure to thrive</li>
 <li>Edema (swelling) in the legs, abdomen, or other areas</li>
@@ -184,16 +184,16 @@
 
 Early detection through prompt recognition of these symptoms can lead to timely intervention and better management of Endocardial Fibroelastosis. If you notice these signs in a child, seeking medical attention promptly is essential for proper evaluation and treatment.</p>
 <h2>Diagnosis of Endocardial Fibroelastosis</h2>
-<p>Diagnosing Endocardial Fibroelastosis is crucial for timely management and treatment. This rare heart condition requires accurate identification to prevent complications and improve outcomes. The diagnostic process typically involves a combination of clinical evaluation, imaging tests, and <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-catheterization">cardiac catheterization</a>. Accurate diagnosis helps in initiating appropriate treatment plans and monitoring the progression of the disease. 
+<p>Diagnosing Endocardial Fibroelastosis is crucial for timely management and treatment. This rare heart condition requires accurate identification to prevent complications and improve outcomes. The diagnostic process typically involves a combination of clinical evaluation, imaging tests, and <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-catheterization">cardiac catheterization</a>. Accurate diagnosis helps in initiating appropriate treatment plans and monitoring the progression of the disease. 
 
 <ul>
 <li>Clinical evaluation to assess symptoms and medical history</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> to visualize the heart's structure and function</li>
 <li>Magnetic Resonance Imaging (MRI) for detailed images of the heart</li>
 <li>Cardiac catheterization to measure pressures within the heart chambers</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Endocardial Fibroelastosis</h2>
-<p>Endocardial Fibroelastosis (EFE) requires a tailored approach to treatment for optimal outcomes. <h3>Medical Management</h3> <ul> <li>This treatment involves using medications like diuretics and heart failure medications to manage symptoms and improve heart function.</li> <li>The rationale is to reduce the heart's workload and enhance its pumping ability.</li> <li>The primary objective is to alleviate symptoms, improve quality of life, and slow disease progression.</li> <li>The steps include medication adherence, regular follow-ups, and monitoring for side effects.</li> </ul> <h3>Surgical Intervention</h3> <ul> <li>Surgical procedures such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/heart-transplant">heart transplant</a> or <a href="https://plataforma.epa-bienestar.com.ar/procedures/ventricular-assist-devices">ventricular assist devices</a> may be necessary in severe cases.</li> <li>This approach is used when medical management alone is insufficient to maintain heart function.</li> <li>The main goal is to improve heart function and overall prognosis.</li> <li>The phases involve pre-operative evaluation, the surgical procedure itself, and post-operative care and rehabilitation.</li> </ul></p>
+<p>Endocardial Fibroelastosis (EFE) requires a tailored approach to treatment for optimal outcomes. <h3>Medical Management</h3> <ul> <li>This treatment involves using medications like diuretics and heart failure medications to manage symptoms and improve heart function.</li> <li>The rationale is to reduce the heart's workload and enhance its pumping ability.</li> <li>The primary objective is to alleviate symptoms, improve quality of life, and slow disease progression.</li> <li>The steps include medication adherence, regular follow-ups, and monitoring for side effects.</li> </ul> <h3>Surgical Intervention</h3> <ul> <li>Surgical procedures such as <a href="https://contenidos.segundaopinionmedica.org/procedures/heart-transplant">heart transplant</a> or <a href="https://contenidos.segundaopinionmedica.org/procedures/ventricular-assist-devices">ventricular assist devices</a> may be necessary in severe cases.</li> <li>This approach is used when medical management alone is insufficient to maintain heart function.</li> <li>The main goal is to improve heart function and overall prognosis.</li> <li>The phases involve pre-operative evaluation, the surgical procedure itself, and post-operative care and rehabilitation.</li> </ul></p>
 <h2>Prevention and Management of Endocardial Fibroelastosis</h2>
 <p>Endocardial Fibroelastosis can be managed effectively through lifestyle changes and proactive measures. By incorporating the following strategies, individuals can help prevent or better manage the condition:
 

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Stress and Lifestyle Impact on PJC Arrhythmia" />
     <meta property="og:description" content="Explore how stress and lifestyle impact PJC cardiac arrhythmia. Learn about symptoms, prevention, and monitoring devices." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pjc-cardiac-arrhythmia" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pjc-cardiac-arrhythmia" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pjc-cardiac-arrhythmia" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pjc-cardiac-arrhythmia" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pjc Cardiac Arrhythmia",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pjc-cardiac-arrhythmia"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pjc-cardiac-arrhythmia"
         }
     ]
 }
@@ -182,12 +182,12 @@
 <p>The AV node is a critical part of the heart's electrical system, responsible for slowing down the electrical signal from the atria before it reaches the ventricles. When abnormalities occur in the AV node, such as in PJC arrhythmia, it can result in irregular heart rhythms.</p>
 <p>Key facts about AV node arrhythmias like PJCs:</p>
 <ul>
-<li>They can be asymptomatic or present with <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li>They can be asymptomatic or present with <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Monitoring devices like Holter monitors can help diagnose them</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/av-node-ablation">av node ablation</a> may be a treatment option in severe cases</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/av-node-ablation">av node ablation</a> may be a treatment option in severe cases</li>
 </ul>
 <h2 class="sec-scrl" id="pjc-ecg-abnormalities">PJC ECG Abnormalities</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) readings in PJC arrhythmia may show specific abnormalities that indicate irregularities in the heart's electrical activity. These abnormalities can help healthcare providers diagnose and monitor PJC episodes.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) readings in PJC arrhythmia may show specific abnormalities that indicate irregularities in the heart's electrical activity. These abnormalities can help healthcare providers diagnose and monitor PJC episodes.</p>
 <p>Common ECG findings in PJC arrhythmia include:</p>
 <ul>
 <li>Premature junctional contractions on the ECG tracing</li>
@@ -199,8 +199,8 @@
 <p>Common cardiac arrhythmia symptoms include:</p>
 <ul>
 <li>Palpitations or a fluttering sensation in the chest</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 </ul>
 <h2 class="sec-scrl" id="arrhythmia-prevention">Arrhythmia Prevention</h2>
 <p>While some aspects of cardiac arrhythmias are beyond your control, adopting a healthy lifestyle can help reduce your risk of developing PJC and other heart conditions. Making simple changes in your daily routine can positively impact your heart health and overall well-being.</p>
@@ -215,7 +215,7 @@
 <p>Factors contributing to heart rhythm disturbances:</p>
 <ul>
 <li>Genetic predisposition</li>
-<li>Chronic conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a></li>
+<li>Chronic conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a></li>
 <li>Medication side effects</li>
 </ul>
 <h2 class="sec-scrl" id="pjc-monitoring-devices">PJC Monitoring Devices</h2>

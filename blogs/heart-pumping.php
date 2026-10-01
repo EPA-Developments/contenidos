@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart Pumping Medications: Treatment Guide" />
     <meta property="og:description" content="Learn about effective medications for treating heart pumping issues and improving heart function. Explore various cardiac medication options here." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-pumping" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-pumping" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Pumping",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-pumping"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-pumping"
         }
     ]
 }
@@ -181,9 +181,9 @@
 <p>ACE inhibitors help relax blood vessels, reduce blood pressure, and decrease the workload on the heart. Beta-blockers can slow down the heart rate and lower blood pressure, reducing the strain on the heart muscle. Diuretics help the body eliminate excess fluid and sodium, reducing the workload on the heart. Aldosterone antagonists block the effects of a hormone that can worsen heart failure.</p>
 <h2 class="sec-scrl" id="treating-heart-pumping-issues">Treating Heart Pumping Issues</h2>
 <p>When it comes to treating heart pumping issues, medications are just one aspect of a comprehensive treatment plan. Lifestyle modifications such as following a heart-healthy diet, maintaining a healthy weight, regular exercise, and stress management are also essential in managing heart failure effectively.</p>
-<p>Additionally, in some cases, medical procedures like implanting a pacemaker or <a href="https://plataforma.epa-bienestar.com.ar/procedures/cardiac-resynchronization-therapy">cardiac resynchronization therapy</a> (CRT) device may be recommended to help improve heart function and alleviate symptoms.</p>
+<p>Additionally, in some cases, medical procedures like implanting a pacemaker or <a href="https://contenidos.segundaopinionmedica.org/procedures/cardiac-resynchronization-therapy">cardiac resynchronization therapy</a> (CRT) device may be recommended to help improve heart function and alleviate symptoms.</p>
 <h2 class="sec-scrl" id="cardiac-medication-options">Cardiac Medication Options</h2>
-<p>Cardiac medication options for heart pumping problems are tailored to each individual based on their specific condition, symptoms, and overall health. Your healthcare provider will work closely with you to determine the most suitable medications to address your heart <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a> and improve your heart function.</p>
+<p>Cardiac medication options for heart pumping problems are tailored to each individual based on their specific condition, symptoms, and overall health. Your healthcare provider will work closely with you to determine the most suitable medications to address your heart <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a> and improve your heart function.</p>
 <p>It is essential to take your medications as prescribed, follow up with your healthcare team regularly, and report any new or worsening symptoms promptly to ensure optimal management of your heart pumping problems.</p>
 <h2 class="sec-scrl" id="improving-heart-function">Improving Heart Function</h2>
 <p>Improving heart function is the primary goal of treatment for individuals with heart pumping problems. By optimizing heart function, medications can help reduce symptoms, prevent disease progression, and enhance overall quality of life.</p>

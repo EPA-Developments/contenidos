@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Beets for Blood Pressure: Nature's Hypertension Aid&quot;" />
     <meta property="og:description" content="Discover how beets can help manage hypertension naturally. Learn about the benefits of beetroot juice for blood pressure & vascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/beets-for-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/beets-for-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/beets-for-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/beets-for-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Beets For Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/beets-for-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/beets-for-blood-pressure"
         }
     ]
 }
@@ -131,7 +131,7 @@
               <h1>Beets for Blood Pressure: A Natural Solution</h1>
 <p>Are you struggling to manage your blood pressure levels effectively? Do you wish there was a natural way to support your heart health and improve your overall well-being? The answer might lie in the humble beet. Let's explore the role of beets in lowering blood pressure and how they can potentially benefit you in your day-to-day life.</p>
 <h2 class="sec-scrl" id="hypertension-management">Hypertension Management</h2>
-<p><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, is a common condition that can have serious implications for your health if left uncontrolled. Beets are rich in nitrates, compounds that have been shown to help relax blood vessels, improving blood flow and potentially lowering blood pressure levels. By incorporating beets into your diet, you may be able to better manage your hypertension naturally.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, or <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, is a common condition that can have serious implications for your health if left uncontrolled. Beets are rich in nitrates, compounds that have been shown to help relax blood vessels, improving blood flow and potentially lowering blood pressure levels. By incorporating beets into your diet, you may be able to better manage your hypertension naturally.</p>
 <p>Additionally, the dietary fiber found in beets can also play a role in supporting heart health. Fiber helps regulate cholesterol levels, which, in turn, can positively impact blood pressure. Including beets in your meals can be a simple yet effective way to support your overall cardiovascular wellness.</p>
 <h2 class="sec-scrl" id="nitrates">Nitrates in Beets</h2>
 <p>Beets are a natural source of nitrates, which are converted into nitric oxide in the body. Nitric oxide is a vasodilator, meaning it helps widen blood vessels, allowing for smoother blood flow and potentially lower blood pressure. This natural process can have significant implications for individuals looking to manage their hypertension without relying solely on medication.</p>

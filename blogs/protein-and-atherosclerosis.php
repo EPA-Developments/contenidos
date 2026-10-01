@@ -10,12 +10,12 @@
     <meta property="og:title" content="Protein Impact on Artery Health" />
     <meta property="og:description" content="Explore the impact of protein on artery health and atherosclerosis. Learn how to promote healthy blood flow and reduce arterial blockages." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Protein on Artery Health</h1>
-<p>Are you worried about how protein and <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> could be affecting your artery health? The connection between these two can significantly impact your daily life, influencing your ability to engage in physical activities, work, and even leisurely pursuits. Let's delve into the details to understand the relationship between protein and atherosclerosis and how it may be impacting your arterial health.</p>
+<p>Are you worried about how protein and <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> could be affecting your artery health? The connection between these two can significantly impact your daily life, influencing your ability to engage in physical activities, work, and even leisurely pursuits. Let's delve into the details to understand the relationship between protein and atherosclerosis and how it may be impacting your arterial health.</p>
 <h2 class="sec-scrl" id="arterialhealth">Why is Arterial Health Vital for Your Well-being?</h2>
 <p>Your arterial health plays a crucial role in maintaining overall well-being. Healthy arteries are essential for proper blood circulation, ensuring that oxygen and nutrients reach all parts of your body efficiently. However, when arterial health is compromised, it can lead to various cardiovascular issues, including atherosclerosis, which is characterized by the buildup of plaque in the arteries.</p>
 <p>Factors such as diet, lifestyle choices, and genetic predispositions can all influence the health of your arteries. By understanding how protein contributes to arterial health, you can take proactive steps to protect and improve the condition of your blood vessels.</p>

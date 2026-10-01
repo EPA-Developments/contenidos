@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Endomyocardial Fibrosis: Symptoms, Causes, and Treatment">
   <meta property="og:description" content="Endomyocardial Fibrosis stiffens heart muscles, reducing function. Read more about its causes, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/endomyocardial-fibrosis">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/endomyocardial-fibrosis">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/endomyocardial-fibrosis" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/endomyocardial-fibrosis" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Endomyocardial Fibrosis",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/endomyocardial-fibrosis"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/endomyocardial-fibrosis"
       }]
     }
   </script>
@@ -177,7 +177,7 @@
 <p>Endomyocardial Fibrosis is thought to have a multifactorial etiology, with several primary causes contributing to the development of this condition.</p>
 <ul>
 <li>Eosinophilia: Eosinophilia is a condition characterized by elevated levels of eosinophils, a type of white blood cell. Prolonged eosinophilia can lead to inflammation and fibrosis of the heart tissue, contributing to the development of Endomyocardial Fibrosis over time.</li>
-<li>Infectious Agents: Certain parasitic infections, such as schistosomiasis and filariasis, have been linked to the development of Endomyocardial Fibrosis. These infections can trigger an inflammatory response in the heart, leading to fibrotic changes and restrictive <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
+<li>Infectious Agents: Certain parasitic infections, such as schistosomiasis and filariasis, have been linked to the development of Endomyocardial Fibrosis. These infections can trigger an inflammatory response in the heart, leading to fibrotic changes and restrictive <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a>.</li>
 <li>Nutritional Deficiencies: Chronic deficiencies in essential nutrients, particularly selenium and protein, have been associated with an increased risk of developing Endomyocardial Fibrosis. These deficiencies can impair heart muscle function and promote fibrosis within the myocardium.</li>
 <li>Genetic Predisposition: There is evidence to suggest that genetic factors may play a role in predisposing individuals to Endomyocardial Fibrosis. Specific gene mutations or variations could influence the development and progression of this condition.</li>
 </ul>
@@ -190,20 +190,20 @@
 <h2 id="symptoms">Symptoms of Endomyocardial Fibrosis</h2>
 <p>The symptoms of Endomyocardial Fibrosis can vary depending on the stage of the disease.</p>
 <ul>
-<li>Fatigue: Patients may experience persistent fatigue and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, impacting their ability to perform daily activities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, can be a common early symptom of Endomyocardial Fibrosis.</li>
+<li>Fatigue: Patients may experience persistent fatigue and <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, impacting their ability to perform daily activities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a>, especially during physical exertion, can be a common early symptom of Endomyocardial Fibrosis.</li>
 </ul>
 <p>Advanced-stage symptoms may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>: Patients may experience chest discomfort or pain, often worsening with exertion or lying down.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>: Patients may experience chest discomfort or pain, often worsening with exertion or lying down.</li>
 <li>Edema: Swelling in the legs, ankles, or abdomen may occur due to fluid retention caused by heart dysfunction.</li>
 </ul>
 <h2>Diagnosis of Endomyocardial Fibrosis</h2>
 <p>Diagnosing Endomyocardial Fibrosis typically involves a multi-step approach to assess heart structure and function accurately.</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging test uses sound waves to create detailed images of the heart's chambers and valves, allowing healthcare providers to evaluate cardiac function and detect abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging test uses sound waves to create detailed images of the heart's chambers and valves, allowing healthcare providers to evaluate cardiac function and detect abnormalities.</li>
 <li>Cardiac MRI: Magnetic resonance imaging provides detailed images of the heart's structure and can help identify areas of fibrosis or scarring in the myocardium.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, detecting irregularities in heart rhythm that may indicate underlying heart conditions like Endomyocardial Fibrosis.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): An ECG records the heart's electrical activity, detecting irregularities in heart rhythm that may indicate underlying heart conditions like Endomyocardial Fibrosis.</li>
 <li>Biopsy: In some cases, a cardiac biopsy may be performed to obtain a tissue sample from the heart for analysis, confirming the presence of fibrotic changes characteristic of Endomyocardial Fibrosis.</li>
 </ul>
 <h2 id="treatment">Treatment Options for Endomyocardial Fibrosis</h2>

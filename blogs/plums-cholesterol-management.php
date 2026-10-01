@@ -10,12 +10,12 @@
     <meta property="og:title" content="Plums for Better Heart Health: Managing Cholesterol" />
     <meta property="og:description" content="Discover how plums can improve heart health by managing cholesterol levels effectively." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/plums-cholesterol-management" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/plums-cholesterol-management" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/plums-cholesterol-management" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/plums-cholesterol-management" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Plums Cholesterol Management",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/plums-cholesterol-management"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/plums-cholesterol-management"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Plums for Heart Health: Managing Cholesterol Levels</h1>
-<p>Are you struggling to keep your cholesterol levels in check? Does the thought of heart health management seem daunting? <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels can interfere with your daily activities, affecting your overall well-being and quality of life. But what if there was a simple and delicious way to tackle this issue? Enter plums - nature's gift that may hold the key to managing cholesterol levels effectively. Let's explore the potential benefits of plums for cholesterol management and heart health.</p>
+<p>Are you struggling to keep your cholesterol levels in check? Does the thought of heart health management seem daunting? <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels can interfere with your daily activities, affecting your overall well-being and quality of life. But what if there was a simple and delicious way to tackle this issue? Enter plums - nature's gift that may hold the key to managing cholesterol levels effectively. Let's explore the potential benefits of plums for cholesterol management and heart health.</p>
 <h2 class="sec-scrl" id="plums-cholesterol-management">Plums Cholesterol Management</h2>
 <p>Plums are not just sweet and juicy fruits; they also offer a range of health benefits, including their potential to help manage cholesterol levels. Here's how plums can play a role in your cholesterol management journey:</p>
 <ul>

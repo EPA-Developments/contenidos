@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Pineapple: Atherosclerosis Prevention Guide&quot;" />
     <meta property="og:description" content="Discover how pineapple can help prevent atherosclerosis naturally. Learn about its impact on arterial health and heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Pineapple And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/pineapple-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/pineapple-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Pineapple in Atherosclerosis Prevention</h1>
-<p>Are you concerned about your heart health and the risk of developing arterial blockages? The impact of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> on your daily life can be significant, affecting your ability to engage in physical activities and leading to a heightened risk of heart disease. Fortunately, nature might offer a delicious solution in the form of pineapple. Let's explore the potential benefits of pineapple in preventing atherosclerosis and maintaining optimal arterial health.</p>
+<p>Are you concerned about your heart health and the risk of developing arterial blockages? The impact of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> on your daily life can be significant, affecting your ability to engage in physical activities and leading to a heightened risk of heart disease. Fortunately, nature might offer a delicious solution in the form of pineapple. Let's explore the potential benefits of pineapple in preventing atherosclerosis and maintaining optimal arterial health.</p>
 <h2 class="sec-scrl" id="arterial-health">How Does Pineapple Contribute to Arterial Health?</h2>
 <p>Pineapple contains a powerhouse of nutrients that support overall cardiovascular wellness. Here's how this tropical fruit helps in maintaining arterial health:</p>
 <ul>

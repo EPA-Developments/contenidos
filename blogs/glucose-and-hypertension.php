@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Managing Glucose and Hypertension for Heart Health&quot;" />
     <meta property="og:description" content="Explore the link between Glucose, Hypertension, and Heart Disease Risk. Learn how high blood sugar and blood pressure impact cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/glucose-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Glucose And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/glucose-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/glucose-and-hypertension"
         }
     ]
 }
@@ -129,12 +129,12 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Impact of Glucose and Hypertension</h1>
-<p>Are you struggling to keep your blood sugar and blood pressure levels in check? Do you find it challenging to manage your daily activities due to these health issues? The interplay between glucose and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> can significantly affect your overall well-being, making it crucial to understand how these factors influence each other and your risk of heart disease.</p>
+<p>Are you struggling to keep your blood sugar and blood pressure levels in check? Do you find it challenging to manage your daily activities due to these health issues? The interplay between glucose and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> can significantly affect your overall well-being, making it crucial to understand how these factors influence each other and your risk of heart disease.</p>
 <h2 class="sec-scrl" id="high-blood-sugar">High Blood Sugar: The Hidden Danger</h2>
 <p>High blood sugar, also known as hyperglycemia, is a common issue for individuals with diabetes. However, even non-diabetics can experience spikes in blood sugar levels due to various factors such as diet, stress, or lack of physical activity. When left uncontrolled, high blood sugar can lead to serious complications, including an increased risk of heart disease.</p>
 <p>To keep your blood sugar levels in check, focus on a balanced diet rich in whole grains, fruits, and vegetables. Regular exercise and stress management techniques can also help regulate blood sugar levels and reduce your risk of cardiovascular issues.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">Blood Pressure Regulation: The Key to Cardiovascular Health</h2>
-<p>Hypertension, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, is often called the "silent killer" as it typically presents no symptoms until serious complications arise. Uncontrolled hypertension can damage your blood vessels and heart over time, increasing your risk of heart disease, stroke, and heart failure.</p>
+<p>Hypertension, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, is often called the "silent killer" as it typically presents no symptoms until serious complications arise. Uncontrolled hypertension can damage your blood vessels and heart over time, increasing your risk of heart disease, stroke, and heart failure.</p>
 <ul>
 <li>Monitor your blood pressure regularly and follow your healthcare provider's recommendations for managing hypertension.</li>
 <li>Adopt a low-sodium diet, maintain a healthy weight, exercise regularly, and limit alcohol consumption to help regulate your blood pressure.</li>

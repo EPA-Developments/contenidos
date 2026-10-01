@@ -10,12 +10,12 @@
     <meta property="og:title" content="Whole Grain Cereal: Heart Health Benefits" />
     <meta property="og:description" content="Discover the heart-healthy advantages of whole grain cereal for preventing heart disease. Boost your heart health with fiber-rich breakfast choices." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/whole-grain-cereal-for-heart-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/whole-grain-cereal-for-heart-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/whole-grain-cereal-for-heart-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/whole-grain-cereal-for-heart-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Whole Grain Cereal For Heart Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/whole-grain-cereal-for-heart-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/whole-grain-cereal-for-heart-disease-prevention"
         }
     ]
 }
@@ -149,7 +149,7 @@
 <li>Reduced risk of heart disease</li>
 </ul>
 <h2 class="sec-scrl" id="cholesterol-lowering-foods">Cholesterol Lowering Foods</h2>
-<p>Whole grain cereal is recognized as one of the most effective cholesterol-lowering foods available. The soluble fiber present in whole grains helps reduce LDL (bad) cholesterol levels in the blood, which are known to contribute to heart disease. By incorporating whole grain cereals into your daily diet, you can actively lower your cholesterol levels and protect your heart from the harmful effects of <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a>. Making this simple dietary swap can have a significant impact on your cardiovascular health in the long run.</p>
+<p>Whole grain cereal is recognized as one of the most effective cholesterol-lowering foods available. The soluble fiber present in whole grains helps reduce LDL (bad) cholesterol levels in the blood, which are known to contribute to heart disease. By incorporating whole grain cereals into your daily diet, you can actively lower your cholesterol levels and protect your heart from the harmful effects of <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a>. Making this simple dietary swap can have a significant impact on your cardiovascular health in the long run.</p>
 <p>Benefits of cholesterol-lowering foods like whole grain cereal:</p>
 <ul>
 <li>Reduced LDL cholesterol</li>

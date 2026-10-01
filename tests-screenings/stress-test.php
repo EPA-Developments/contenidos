@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Purpose, and Normal Range of Stress Test" property="og:title"/>
 <meta content="A stress test checks heart performance during physical activity. Know more about its purpose, cost, and normal Range for better heart health." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-test" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/stress-test" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-test" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/stress-test" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Stress Test",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/stress-test"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/stress-test"  
       }]
     }
   </script>
@@ -181,14 +181,14 @@
 <p>The test is designed to assess your cardiovascular fitness and how your heart responds to exertion.</p>
 <p>Stress tests can also be performed using medications that simulate the effects of exercise on the heart for individuals who are unable to exercise physically. This type of stress test is called a pharmacological stress test.</p>
 <p>Overall, stress tests provide valuable information about the heart's ability to handle stress and can help diagnose various heart conditions.</p>
-<p>Stress tests are commonly used to evaluate patients with symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>. They are also used to assess the heart's response to physical activity and determine the presence of coronary artery disease.</p>
+<p>Stress tests are commonly used to evaluate patients with symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>. They are also used to assess the heart's response to physical activity and determine the presence of coronary artery disease.</p>
 <h2 id="purpose">What is the Purpose of Performing a Stress Test?</h2>
 <p>The primary purpose of performing a stress test is to assess cardiovascular fitness and detect any underlying heart conditions. Stress tests are particularly useful in diagnosing coronary artery disease, which is a common cause of heart-related symptoms.</p>
 <p>Stress tests can also help identify abnormalities in heart rhythm (arrhythmias) that may not be present at rest. By monitoring the heart's response to stress, healthcare providers can determine if there are any irregularities that need further evaluation and treatment.</p>
 <p>Stress tests are valuable tools for assessing the overall function of the heart and can provide important information for guiding treatment decisions. They are non-invasive, relatively safe procedures that offer valuable insights into heart health.</p>
 <h2 id="costs">What are the Costs of Stress Test Tests in Americas?</h2>
 <p>The cost of a stress test in Americas can vary depending on the type of test, the facility where it is performed, and the location. On average, a stress test can range from Rs. 2,000 to Rs. 6,000 in Americas.</p>
-<p>Factors that can influence the cost of a stress test include the use of additional imaging techniques such as <a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a> or nuclear imaging, the need for a pharmacological stress test, and the expertise of the healthcare providers performing the test.</p>
+<p>Factors that can influence the cost of a stress test include the use of additional imaging techniques such as <a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a> or nuclear imaging, the need for a pharmacological stress test, and the expertise of the healthcare providers performing the test.</p>
 <p>It is important to consult with your healthcare provider or the facility where the test will be performed to get an accurate estimate of the cost and any potential additional charges that may apply.</p>
 <h2 id="normalrange">What is the Normal Range and All Values of Stress Test?</h2>
 <p>The normal range for a stress test can vary depending on the specific parameters being measured.</p>
@@ -203,7 +203,7 @@
 <ul>
 <li>Coronary artery disease: Reduced blood flow to the heart muscle during exertion can lead to abnormal stress test results.</li>
 <li>Arrhythmias: Irregular heart rhythms can be detected during a stress test, indicating a potential issue with the heart's electrical system.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure readings during a stress test may suggest underlying <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> or other cardiovascular conditions.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>: Elevated blood pressure readings during a stress test may suggest underlying <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> or other cardiovascular conditions.</li>
 </ul>
 <p>If your stress test results are high, your healthcare provider may recommend further testing or treatment to address any underlying issues and reduce the risk of complications.</p>
 <h2>What Do Low Stress Test Levels Indicate?</h2>

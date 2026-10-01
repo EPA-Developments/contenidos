@@ -10,12 +10,12 @@
     <meta property="og:title" content="Palm Oil for Heart Health: Scientific Insights" />
     <meta property="og:description" content="Explore how palm oil benefits heart health. Learn about scientific studies showing its role in cardiovascular protection and risk reduction." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-disease-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-disease-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-disease-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-disease-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Palm Oil And Disease Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/palm-oil-and-disease-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/palm-oil-and-disease-prevention"
         }
     ]
 }
@@ -133,7 +133,7 @@
 <p>Palm oil has been a topic of interest in scientific studies investigating its potential role in cardiovascular protection and risk reduction. Understanding the fat composition and antioxidant properties of palm oil can shed light on its benefits for heart health.</p>
 <h2 class="sec-scrl" id="Antioxidants">The Role of Antioxidants in Palm Oil</h2>
 <p>Palm oil contains carotenoids and vitamin E, which are powerful antioxidants that help combat oxidative stress in the body. These antioxidants play a crucial role in reducing inflammation and protecting the cardiovascular system from damage.</p>
-<p>Additionally, the presence of tocotrienols in palm oil has been linked to improved heart health by lowering cholesterol levels and reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>.</p>
+<p>Additionally, the presence of tocotrienols in palm oil has been linked to improved heart health by lowering cholesterol levels and reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>.</p>
 <h2 class="sec-scrl" id="Cardiovascular risk factors">Addressing Cardiovascular Risk Factors</h2>
 <p>Scientific studies have shown that palm oil consumption can positively impact various risk factors associated with heart disease. It has been found to lower LDL (bad) cholesterol levels while increasing HDL (good) cholesterol levels, promoting a healthier lipid profile.</p>
 <ul>

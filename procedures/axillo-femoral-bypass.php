@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Axillo-Femoral Bypass Surgery: Procedure, Risks, and Recovery">
   <meta property="og:description" content="Learn about Axillo-Femoral Bypass, a surgical procedure used for arterial bypass surgery or endovascular treatment. Find information on axillo-femoral bypass surgery and grafting techniques.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/procedures/axillo-femoral-bypass">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/procedures/axillo-femoral-bypass">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/procedures/axillo-femoral-bypass" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/procedures/axillo-femoral-bypass" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Procedures",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Axillo-femoral bypass",
-        "item": "https://plataforma.epa-bienestar.com.ar/procedures/axillo-femoral-bypass"  
+        "item": "https://contenidos.segundaopinionmedica.org/procedures/axillo-femoral-bypass"  
       }]
     }
   </script>

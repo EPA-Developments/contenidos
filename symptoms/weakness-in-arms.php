@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Causes, Diagnosis and Treatment for Weakness in Arms" >
   <meta property="og:description" content="Weakness in arms may be a sign of heart problems. Know more about its forms, causes, diagnosis, symptoms, and treatment for better health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/weakness-in-arms">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/weakness-in-arms">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness-in-arms" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/weakness-in-arms" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Weakness In Arms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/weakness-in-arms"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/weakness-in-arms"  
       }]
     }
   </script>
@@ -187,7 +187,7 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Forms, Diagnosis, and Treatment for Weakness in Arms</h1>
 <p>Weakness in arms refers to a condition where there is a lack of strength or power in the muscles of the arms, leading to difficulties in performing daily activities that involve arm movements.</p>
-<p>This condition can manifest in various ways, such as arm fatigue, weak arm muscles, lack of strength in arms, arm <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a>, inability to lift arms, weakness in upper limbs, and heavy arms.</p>
+<p>This condition can manifest in various ways, such as arm fatigue, weak arm muscles, lack of strength in arms, arm <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a>, inability to lift arms, weakness in upper limbs, and heavy arms.</p>
 <p>Symptoms of weakness in arms may include difficulty lifting objects, reduced grip strength, muscle fatigue with minimal exertion, and a general feeling of weakness in the arms.</p>
 <p>Weakness in arms can significantly impact an individual's quality of life, affecting their ability to perform tasks that require arm strength, such as lifting, pushing, or carrying objects.</p>
 <h2 id="forms">What are the Forms of Weakness in arms?</h2>

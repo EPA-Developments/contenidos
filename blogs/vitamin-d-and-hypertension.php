@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D's Role in Blood Vessel Health & Hypertension" />
     <meta property="og:description" content="Explore how Vitamin D influences blood vessel health and hypertension risks. Learn more about the connection for better cardiovascular well-being." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-hypertension" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-hypertension" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-hypertension" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-hypertension" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Hypertension",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-hypertension"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-hypertension"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Role of Vitamin D in Blood Vessel Health &amp; Hypertension</h1>
-<p>Are you aware of how Vitamin D levels can influence your blood vessel health and <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> risk? Many individuals underestimate the role of Vitamin D in maintaining healthy blood pressure levels and overall cardiovascular well-being. Let's explore the crucial connection between Vitamin D and hypertension to understand its impact on your daily life.</p>
+<p>Are you aware of how Vitamin D levels can influence your blood vessel health and <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> risk? Many individuals underestimate the role of Vitamin D in maintaining healthy blood pressure levels and overall cardiovascular well-being. Let's explore the crucial connection between Vitamin D and hypertension to understand its impact on your daily life.</p>
 <h2 class="sec-scrl" id="blood-pressure-regulation">How Does Vitamin D Affect Blood Pressure Regulation?</h2>
 <p>Vitamin D plays a significant role in regulating blood pressure by influencing various mechanisms within the body:</p>
 <ul>

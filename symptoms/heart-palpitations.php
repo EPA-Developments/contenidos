@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Heart Palpitations: Causes, Treatment, and Diagnosis" >
   <meta property="og:description" content="Heart palpitations can cause irregular heartbeat, anxiety, or chest discomfort. Know more about symptoms, causes, diagnosis, and treatment options." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Heart Palpitations",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations"  
       }]
     }
   </script>
@@ -187,14 +187,14 @@
           <div class="blog-details-desc">
             <div class="article-content"><h1>Heart Palpitations: Causes, Treatment, and Symptoms</h1>
 <p>Heart palpitations refer to the sensation of feeling your heart beating rapidly, irregularly, or forcefully. It can feel like your heart is pounding, fluttering, or skipping beats.</p>
-<p>While occasional <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a> are usually harmless and can be triggered by stress, anxiety, or caffeine, frequent or prolonged episodes may indicate an underlying health condition.</p>
-<p>Symptoms of heart palpitations may include a <a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a>, fluttering in the chest, heart racing, or a pounding sensation. These sensations can be unsettling and may cause anxiety or panic in some individuals.</p>
+<p>While occasional <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a> are usually harmless and can be triggered by stress, anxiety, or caffeine, frequent or prolonged episodes may indicate an underlying health condition.</p>
+<p>Symptoms of heart palpitations may include a <a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a>, fluttering in the chest, heart racing, or a pounding sensation. These sensations can be unsettling and may cause anxiety or panic in some individuals.</p>
 <p>Understanding the causes and forms of heart palpitations can help in managing this condition effectively.</p>
 <h2 id="forms">What are the Forms of Heart palpitations?</h2>
 <p>There are different forms of heart palpitations, each with specific symptoms and triggers:</p>
 <ul>
 <li>Rapid heartbeat: Characterized by a sudden increase in heart rate, often associated with anxiety or intense physical activity.</li>
-<li>Irregular heartbeat: Occurs when the heart's rhythm is abnormal, leading to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/skipped-beats">skipped beats</a> or extra beats.</li>
+<li>Irregular heartbeat: Occurs when the heart's rhythm is abnormal, leading to <a href="https://contenidos.segundaopinionmedica.org/symptoms/skipped-beats">skipped beats</a> or extra beats.</li>
 <li>Fluttering in the chest: Described as a sensation of butterflies in the chest, often accompanied by anxiety or stress.</li>
 <li>Heart racing: Involves a rapid and forceful heartbeat, commonly experienced during exercise or emotional distress.</li>
 </ul>
@@ -209,17 +209,17 @@
 <h2 id="diagnosis">What is the Diagnostic Method for Heart palpitations?</h2>
 <p>Diagnosing heart palpitations involves a thorough evaluation of your medical history, a physical examination, and diagnostic tests such as:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the electrical activity of the heart to detect any abnormalities.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Records the electrical activity of the heart to detect any abnormalities.</li>
 <li>Holter monitor: A portable ECG device worn for 24-48 hours to track heart rhythms during daily activities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart's structure and function.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a>: Uses sound waves to create images of the heart's structure and function.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Heart palpitations?</h2>
 <p>Treatment for heart palpitations depends on the underlying cause and may include:</p>
 <ul>
 <li>Lifestyle changes: Managing stress, avoiding triggers like caffeine, and staying hydrated can help reduce palpitations.</li>
 <li>Medications: Beta-blockers, calcium channel blockers, or anti-arrhythmic drugs may be prescribed to regulate heart rhythms.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/cardioversion">cardioversion</a>: A procedure to restore normal heart rhythm using electrical shocks.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/catheter-ablation">catheter ablation</a>: A minimally invasive procedure to correct abnormal heart rhythms.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/cardioversion">cardioversion</a>: A procedure to restore normal heart rhythm using electrical shocks.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/catheter-ablation">catheter ablation</a>: A minimally invasive procedure to correct abnormal heart rhythms.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience the following symptoms:</p>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Non Compaction Cardiomyopathy: Causes, Symptoms, Treatment" >
   <meta property="og:description" content="Noncompaction Cardiomyopathy causes abnormal heart muscle structure. Read more about its symptoms, causes, and treatments for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/noncompaction-cardiomyopathy">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/noncompaction-cardiomyopathy">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/noncompaction-cardiomyopathy" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/noncompaction-cardiomyopathy" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Noncompaction Cardiomyopathy",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/noncompaction-cardiomyopathy"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/noncompaction-cardiomyopathy"
       }]
     }
   </script>
@@ -167,7 +167,7 @@
             <div class="article-content">
 <h1>Symptoms and Treatment of Noncompaction cardiomyopathy</h1>
 <p>Noncompaction Cardiomyopathy is a rare genetic heart disorder characterized by prominent trabeculations (spongy muscle bundles) in the left ventricle. This condition can lead to impaired heart function and potentially life-threatening complications if left untreated.</p>
-<p>Noncompaction Cardiomyopathy, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/left-ventricular-noncompaction">left ventricular noncompaction</a> (LVNC), is a <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiomyopathy">cardiomyopathy</a> subtype that affects the heart's muscle structure.</p>
+<p>Noncompaction Cardiomyopathy, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/left-ventricular-noncompaction">left ventricular noncompaction</a> (LVNC), is a <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiomyopathy">cardiomyopathy</a> subtype that affects the heart's muscle structure.</p>
 <p>The condition presents with excessive trabeculations and deep intertrabecular recesses in the left ventricle, leading to potential heart failure, arrhythmias, and thromboembolic events.</p>
 <p>Noncompaction Cardiomyopathy can impact essential cardiac functions such as pumping blood efficiently, maintaining adequate circulation, and supporting overall cardiovascular health.</p>
 <p>In its early stages, Noncompaction Cardiomyopathy may not exhibit noticeable symptoms, making it challenging to diagnose. This asymptomatic nature underscores the importance of regular cardiac screenings, especially for individuals with a family history of cardiomyopathies or known genetic predispositions.</p>
@@ -182,7 +182,7 @@
 </ul>
 <h3>Secondary Risk Factors</h3>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> can exacerbate the progression of Noncompaction Cardiomyopathy by increasing cardiac workload.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>: <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> can exacerbate the progression of Noncompaction Cardiomyopathy by increasing cardiac workload.</li>
 <li>Obesity: Excess body weight can strain the heart muscle and worsen symptoms associated with Noncompaction Cardiomyopathy.</li>
 <li>Sedentary Lifestyle: Lack of physical activity can contribute to cardiovascular issues, including the development or progression of Noncompaction Cardiomyopathy.</li>
 </ul>
@@ -190,7 +190,7 @@
 <h3>Early Symptoms</h3>
 <ul>
 <li>Fatigue: Early-stage Noncompaction Cardiomyopathy may manifest as increased fatigue, impacting daily activities due to reduced energy levels.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>: Mild exertional <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a> can be an early sign of Noncompaction Cardiomyopathy, often mistaken for <a href="https://plataforma.epa-bienestar.com.ar/symptoms/general-fatigue">general fatigue</a> or deconditioning.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>: Mild exertional <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a> can be an early sign of Noncompaction Cardiomyopathy, often mistaken for <a href="https://contenidos.segundaopinionmedica.org/symptoms/general-fatigue">general fatigue</a> or deconditioning.</li>
 </ul>
 <h3>Advanced Symptoms</h3>
 <ul>
@@ -200,7 +200,7 @@
 <h2>Diagnosis of Noncompaction Cardiomyopathy</h2>
 <p>Accurate diagnosis of Noncompaction Cardiomyopathy involves a multi-step approach to assess cardiac structure and function:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiography">echocardiography</a>: This imaging test provides detailed information on the heart's structure, allowing for the visualization of trabeculations characteristic of Noncompaction Cardiomyopathy.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiography">echocardiography</a>: This imaging test provides detailed information on the heart's structure, allowing for the visualization of trabeculations characteristic of Noncompaction Cardiomyopathy.</li>
 <li>Cardiac MRI: MRI scans offer superior tissue characterization, aiding in the identification of noncompacted myocardium and assessing cardiac function.</li>
 <li>Electrocardiogram (ECG): ECG helps detect abnormalities in heart rhythms associated with Noncompaction Cardiomyopathy.</li>
 <li>Genetic Testing: Genetic analysis can pinpoint specific mutations that contribute to the development of Noncompaction Cardiomyopathy, guiding treatment and management strategies.</li>

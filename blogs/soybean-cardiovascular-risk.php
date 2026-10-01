@@ -10,12 +10,12 @@
     <meta property="og:title" content="Soybean Consumption: Heart Health Benefits" />
     <meta property="og:description" content="Discover how soybean consumption can reduce cardiovascular risk and improve heart health. Learn about the benefits of soy for heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/soybean-cardiovascular-risk" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/soybean-cardiovascular-risk" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/soybean-cardiovascular-risk" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/soybean-cardiovascular-risk" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Soybean Cardiovascular Risk",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/soybean-cardiovascular-risk"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/soybean-cardiovascular-risk"
         }
     ]
 }
@@ -132,9 +132,9 @@
 <p>Are you concerned about your heart health and looking for natural ways to reduce your risk of cardiovascular issues? Have you ever wondered how soybean consumption could benefit your heart and overall well-being? Let's explore the connection between soybeans and reducing cardiovascular risk.</p>
 <h2 class="sec-scrl" id="heart-health">Heart Health</h2>
 <p>Soybeans are packed with nutrients that can promote heart health. They contain antioxidants that help reduce inflammation in the body, which is a major contributor to heart disease. By including soybeans in your diet, you can support your heart and potentially lower your risk of developing cardiovascular issues.</p>
-<p>Additionally, soybeans are rich in dietary fiber, which can help lower cholesterol levels. <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> is a risk factor for heart disease, so incorporating soybeans into your meals may help in maintaining healthy cholesterol levels and reducing the likelihood of heart-related problems.</p>
+<p>Additionally, soybeans are rich in dietary fiber, which can help lower cholesterol levels. <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> is a risk factor for heart disease, so incorporating soybeans into your meals may help in maintaining healthy cholesterol levels and reducing the likelihood of heart-related problems.</p>
 <h2 class="sec-scrl" id="arterial-plaque">Arterial Plaque</h2>
-<p>One of the key benefits of soy consumption is its potential to reduce arterial plaque buildup. Arterial plaque is a combination of cholesterol, fat, calcium, and other substances found in the blood. Over time, this plaque can harden and narrow the arteries, increasing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> and stroke.</p>
+<p>One of the key benefits of soy consumption is its potential to reduce arterial plaque buildup. Arterial plaque is a combination of cholesterol, fat, calcium, and other substances found in the blood. Over time, this plaque can harden and narrow the arteries, increasing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> and stroke.</p>
 <p>Studies have shown that the compounds in soybeans can help prevent the accumulation of plaque in the arteries. By including soy products like tofu, soy milk, or edamame in your diet, you may be able to slow down the progression of arterial plaque formation and protect your heart health.</p>
 <h2 class="sec-scrl" id="soy-consumption-benefits">Soy Consumption Benefits</h2>
 <p>Incorporating soy into your diet can offer a range of benefits beyond heart health. Soy is a complete protein source, making it an excellent alternative to animal products for vegetarians and vegans. It is also low in saturated fats, making it a heart-healthy protein option.</p>

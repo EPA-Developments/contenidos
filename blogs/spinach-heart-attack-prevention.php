@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Spinach for Heart Attack Prevention&quot;" />
     <meta property="og:description" content="Discover the power of spinach in preventing heart attacks naturally. Learn more about its benefits in heart disease prevention." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/spinach-heart-attack-prevention" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/spinach-heart-attack-prevention" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/spinach-heart-attack-prevention" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/spinach-heart-attack-prevention" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Spinach Heart Attack Prevention",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/spinach-heart-attack-prevention"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/spinach-heart-attack-prevention"
         }
     ]
 }
@@ -137,7 +137,7 @@
 <li>Contains high levels of dietary nitrates that help improve blood flow and lower blood pressure, reducing the risk of heart disease.</li>
 <li>Loaded with potassium, a mineral that supports heart function and helps regulate blood pressure.</li>
 </ul>
-<p>By incorporating spinach into your meals regularly, you can proactively support your heart health and reduce the likelihood of experiencing a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>.</p>
+<p>By incorporating spinach into your meals regularly, you can proactively support your heart health and reduce the likelihood of experiencing a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>.</p>
 <h2 class="sec-scrl" id="blood-clots">Preventing Blood Clots with Spinach</h2>
 <p>One of the significant contributors to heart attacks is the formation of blood clots in the arteries, which can obstruct blood flow to the heart. Spinach contains compounds that help prevent the formation of these dangerous blood clots. Here's how spinach can aid in preventing blood clots:</p>
 <ul>
@@ -162,7 +162,7 @@
 <h2 class="sec-scrl" id="heart-disease-prevention">The Role of Spinach in Heart Disease Prevention</h2>
 <p>Heart disease remains a leading cause of death worldwide, emphasizing the importance of preventive measures in maintaining heart health. Spinach, with its unique nutritional profile, can be a valuable ally in the prevention of heart disease. Here's how spinach contributes to overall heart disease prevention:</p>
 <ul>
-<li>The fiber and plant compounds in spinach help lower cholesterol levels, reducing the risk of <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
+<li>The fiber and plant compounds in spinach help lower cholesterol levels, reducing the risk of <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a> and heart disease.</li>
 <li>The potassium content in spinach supports healthy blood pressure levels, crucial for preventing heart conditions.</li>
 </ul>
 <p>By prioritizing the consumption of heart-healthy foods like spinach and adopting a balanced lifestyle, you can take proactive steps towards safeguarding your heart and reducing the incidence of heart disease in the long run.</p>

@@ -10,12 +10,12 @@
     <meta property="og:title" content="Heart-Healthy Oranges: Boost Your Cardio Health" />
     <meta property="og:description" content="Discover the heart health benefits of oranges - boost your cardiovascular health with this citrus fruit powerhouse!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits-of-oranges" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits-of-oranges" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits-of-oranges" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits-of-oranges" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Heart Health Benefits Of Oranges",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/heart-health-benefits-of-oranges"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/heart-health-benefits-of-oranges"
         }
     ]
 }
@@ -142,7 +142,7 @@
 <p>Vitamin C is a key nutrient that plays a crucial role in maintaining heart health. Here's how Vitamin C in oranges benefits your heart:</p>
 <ul>
 <li>Acts as an antioxidant that fights inflammation in the cardiovascular system.</li>
-<li>Helps lower <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, reducing strain on the heart.</li>
+<li>Helps lower <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, reducing strain on the heart.</li>
 <li>Supports the production of collagen, essential for heart muscle function.</li>
 </ul>
 <p>Ensuring an adequate intake of Vitamin C through oranges can strengthen your heart and keep it functioning optimally.</p>

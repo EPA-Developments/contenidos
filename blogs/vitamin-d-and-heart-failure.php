@@ -10,12 +10,12 @@
     <meta property="og:title" content="Vitamin D Deficiency and Heart Failure Connection" />
     <meta property="og:description" content="Explore how Vitamin D deficiency impacts heart health, revealing the connection with heart failure." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-failure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-failure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-failure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-failure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Vitamin D And Heart Failure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/vitamin-d-and-heart-failure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/vitamin-d-and-heart-failure"
         }
     ]
 }
@@ -144,7 +144,7 @@
 <p>When Vitamin D binds to its receptors in the heart muscle, it can influence gene expression related to cardiac health. This, in turn, affects the heart's structure and function, highlighting the importance of adequate Vitamin D levels for overall heart health.</p>
 <h2 class="sec-scrl" id="left-ventricular-dysfunction">How Does Vitamin D Deficiency Contribute to Left Ventricular Dysfunction?</h2>
 <p>Left ventricular dysfunction is a condition where the left ventricle of the heart does not pump blood effectively to the rest of the body. Vitamin D deficiency can contribute to the development of this condition by weakening the heart muscle and impairing its pumping action.</p>
-<p>Studies have shown that individuals with low Vitamin D levels are at a higher risk of experiencing left ventricular dysfunction, which can lead to symptoms such as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a>. Addressing Vitamin D deficiency may help improve heart function and reduce the risk of complications associated with left ventricular dysfunction.</p>
+<p>Studies have shown that individuals with low Vitamin D levels are at a higher risk of experiencing left ventricular dysfunction, which can lead to symptoms such as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a>. Addressing Vitamin D deficiency may help improve heart function and reduce the risk of complications associated with left ventricular dysfunction.</p>
 <h2 class="sec-scrl" id="conclusion">In Conclusion</h2>
 <p>Vitamin D deficiency is a significant factor that can impact heart health and contribute to conditions like heart failure and left ventricular dysfunction. Maintaining adequate Vitamin D levels through exposure to sunlight, dietary sources, or supplements is essential for supporting overall cardiovascular health.</p>
 <p>By understanding the role of Vitamin D in heart function and taking steps to address any deficiencies, individuals can potentially reduce their risk of developing heart-related conditions and improve their quality of life.</p>

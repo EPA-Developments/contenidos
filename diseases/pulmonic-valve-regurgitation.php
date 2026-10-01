@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Pulmonic Valve Regurgitation: Causes, Symptoms, Treatment">
   <meta property="og:description" content="Pulmonic valve regurgitation causes valve leakage. Know more about the symptoms, causes, and treatment for heart health improvement." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/pulmonic-valve-regurgitation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/pulmonic-valve-regurgitation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonic-valve-regurgitation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/pulmonic-valve-regurgitation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"  
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonic Valve Regurgitation",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/pulmonic-valve-regurgitation"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/pulmonic-valve-regurgitation"
       }]
     }
   </script>
@@ -170,20 +170,20 @@
 <p>While not as common as other valvular disorders, Pulmonic Valve Regurgitation can have significant implications for an individual's health. The prevalence of Pulmonic Valve Regurgitation varies but is generally lower compared to other valvular diseases.</p>
 <p>However, its impact on health should not be underestimated. The essential function of the pulmonic valve is to ensure that blood flows from the heart to the lungs to pick up oxygen.</p>
 <p>When regurgitation occurs, the heart has to work harder to compensate for the backflow, leading to potential complications over time.</p>
-<p>If left untreated, both short-term and long-term health risks can arise from Pulmonic Valve Regurgitation. In the short term, individuals may experience symptoms such as fatigue, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a>.</p>
+<p>If left untreated, both short-term and long-term health risks can arise from Pulmonic Valve Regurgitation. In the short term, individuals may experience symptoms such as fatigue, <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a>.</p>
 <p>Long-term risks include the development of heart failure, arrhythmias, and potential damage to the heart muscle.</p>
 <p>One challenging aspect of Pulmonic Valve Regurgitation is its asymptomatic nature in the early stages, making it crucial for early detection through regular screenings to prevent complications and manage the condition effectively.</p>
 <h2 id="causes">Causes of Pulmonic Valve Regurgitation</h2>
 <p>Pulmonic Valve Regurgitation can be caused by various factors, both primary and secondary.</p>
 <ul>
-<li>Congenital Heart Defects - Congenital abnormalities in the structure of the heart, such as <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a> or <a href="https://plataforma.epa-bienestar.com.ar/diseases/tetralogy-of-fallot">tetralogy of fallot</a>, can lead to Pulmonic Valve Regurgitation over time.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a> - Increased pressure in the pulmonary artery can cause the pulmonic valve to weaken and result in regurgitation.</li>
-<li>Infective <a href="https://plataforma.epa-bienestar.com.ar/diseases/endocarditis">endocarditis</a> - An infection of the heart valves can damage the pulmonic valve, leading to regurgitation.</li>
+<li>Congenital Heart Defects - Congenital abnormalities in the structure of the heart, such as <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-valve-stenosis">pulmonary valve stenosis</a> or <a href="https://contenidos.segundaopinionmedica.org/diseases/tetralogy-of-fallot">tetralogy of fallot</a>, can lead to Pulmonic Valve Regurgitation over time.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a> - Increased pressure in the pulmonary artery can cause the pulmonic valve to weaken and result in regurgitation.</li>
+<li>Infective <a href="https://contenidos.segundaopinionmedica.org/diseases/endocarditis">endocarditis</a> - An infection of the heart valves can damage the pulmonic valve, leading to regurgitation.</li>
 <li>Pulmonary Valve Leaflets Abnormalities - Structural issues with the pulmonary valve leaflets can result in regurgitation.</li>
 </ul>
 <p>Secondary risk factors or lifestyle contributors can also contribute to the development of Pulmonic Valve Regurgitation:</p>
 <ul>
-<li>Rheumatic Heart Disease - A history of <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a> can damage heart valves, including the pulmonic valve.</li>
+<li>Rheumatic Heart Disease - A history of <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a> can damage heart valves, including the pulmonic valve.</li>
 <li>Smoking - Tobacco use can increase the risk of developing heart valve diseases, including Pulmonic Valve Regurgitation.</li>
 <li>Age - Aging can lead to wear and tear on the heart valves, increasing the likelihood of regurgitation.</li>
 </ul>
@@ -195,7 +195,7 @@
 </ul>
 <p>Advanced-stage symptoms may include:</p>
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> - Resulting from decreased oxygen supply to the heart muscle.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> - Resulting from decreased oxygen supply to the heart muscle.</li>
 <li>Heart Murmur - Abnormal heart sounds detected during a physical examination.</li>
 </ul>
 <h2>Diagnosis of Pulmonic Valve Regurgitation</h2>

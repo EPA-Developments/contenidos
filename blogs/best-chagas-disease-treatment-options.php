@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Best Chagas Disease Treatment Options: What Works">
   <meta property="og:description" content="Discover the best chagas disease treatment options that are proven to be effective. Learn what works best for managing this serious infection.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/best-chagas-disease-treatment-options">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/best-chagas-disease-treatment-options">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/best-chagas-disease-treatment-options" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/best-chagas-disease-treatment-options" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Best Chagas Disease Treatment Options: What Works",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/best-chagas-disease-treatment-options"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/best-chagas-disease-treatment-options"  
       }]
     }
   </script>

@@ -6,24 +6,24 @@
 <meta property="og:title" content="EPA Bienestar | Plataforma Oficial">
     <meta property="og:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/">
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/">
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="628">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@epabienestar">
     <meta name="twitter:title" content="EPA Bienestar | Plataforma Oficial">
     <meta name="twitter:description" content="Encontrá todos los recursos y programas de EPA Bienestar en un solo lugar.">
-    <meta name="twitter:image" content="https://plataforma.epa-bienestar.com.ar/images/8pasos_AHA.jpg">
+    <meta name="twitter:image" content="https://contenidos.segundaopinionmedica.org/images/8pasos_AHA.jpg">
   <meta name="description" content="Actividad Física en Life's Essential 8™: 150 minutos semanales para adultos, scoring 0-100, y estrategias para alcanzar salud cardiovascular óptima." >
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <meta property="og:locale" content="es_AR" />
   <meta property="og:type" content="article">
   <meta property="og:title" content="Actividad Física - Life's Essential 8™">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/le8-actividad-fisica-es">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/le8-actividad-fisica-es" />
-  <link rel="alternate" hreflang="en" href="https://plataforma.epa-bienestar.com.ar/le8-physical-activity-en" />
-  <link rel="alternate" hreflang="es" href="https://plataforma.epa-bienestar.com.ar/le8-actividad-fisica-es" />
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/le8-actividad-fisica-es">
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/le8-actividad-fisica-es" />
+  <link rel="alternate" hreflang="en" href="https://contenidos.segundaopinionmedica.org/le8-physical-activity-en" />
+  <link rel="alternate" hreflang="es" href="https://contenidos.segundaopinionmedica.org/le8-actividad-fisica-es" />
 
   <?php include 'include/header.php' ?>
 

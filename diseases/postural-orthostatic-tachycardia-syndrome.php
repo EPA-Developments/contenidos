@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Postural Orthostatic Tachycardia Syndrome: Causes and Symptoms" >
   <meta property="og:description" content="Postural orthostatic tachycardia syndrome causes rapid heart rate upon standing. Read more about its symptoms, causes, and treatment." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/postural-orthostatic-tachycardia-syndrome">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/postural-orthostatic-tachycardia-syndrome">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/postural-orthostatic-tachycardia-syndrome" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/postural-orthostatic-tachycardia-syndrome" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Postural Orthostatic Tachycardia Syndrome",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/postural-orthostatic-tachycardia-syndrome"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/postural-orthostatic-tachycardia-syndrome"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Treatment for Postural Orthostatic Tachycardia Syndrome</h1>
-<p>Postural Orthostatic Tachycardia Syndrome (POTS) is a condition where a person's heart rate increases significantly upon standing up. This can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a>, fainting, and fatigue. POTS is significant because it affects daily activities and quality of life. It is more prevalent in women, often in their 20s to 40s. Understanding POTS is crucial for timely diagnosis and management to improve symptoms and overall well-being. If you experience symptoms like these, consulting a healthcare provider is essential for proper evaluation and care.</p>
+<p>Postural Orthostatic Tachycardia Syndrome (POTS) is a condition where a person's heart rate increases significantly upon standing up. This can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a>, fainting, and fatigue. POTS is significant because it affects daily activities and quality of life. It is more prevalent in women, often in their 20s to 40s. Understanding POTS is crucial for timely diagnosis and management to improve symptoms and overall well-being. If you experience symptoms like these, consulting a healthcare provider is essential for proper evaluation and care.</p>
 <h2 id="causes">Causes of Postural Orthostatic Tachycardia Syndrome</h2>
 <p>Postural Orthostatic Tachycardia Syndrome (POTS) can have various contributing factors. These may include:
 
@@ -176,14 +176,14 @@
 <p>Recognizing the symptoms of Postural Orthostatic Tachycardia Syndrome (POTS) is crucial as early detection can significantly improve outcomes for individuals with this condition. Being aware of these symptoms can lead to prompt diagnosis and appropriate management. Here are some common symptoms of POTS:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/rapid-heartbeat">rapid heartbeat</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
-<li>Dizziness or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a>, especially when standing up</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/rapid-heartbeat">rapid heartbeat</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
+<li>Dizziness or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a>, especially when standing up</li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
 <li>Nausea</li>
 <li>Exercise intolerance</li>
 <li>Cognitive difficulties (brain fog)</li>
 <li>Shakiness or tremors</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/syncope">syncope</a> (fainting)</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/syncope">syncope</a> (fainting)</li>
 </ul></p>
 <h2>Diagnosis of Postural Orthostatic Tachycardia Syndrome</h2>
 <p>Diagnosing Postural Orthostatic Tachycardia Syndrome (POTS) is crucial for proper management and treatment. The diagnostic process involves various tests to confirm the condition and rule out other possible causes of symptoms. Physicians typically perform a detailed medical history review, physical examination, and specific tests to diagnose POTS accurately. 
@@ -193,7 +193,7 @@
 <li>Ambulatory monitoring</li>
 <li>Blood tests to measure hormone levels</li>
 <li>Autonomic function tests</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/echocardiogram">echocardiogram</a> to assess heart function</li>
 </ul></p>
 <h2 id="treatment">Treatment Options for Postural Orthostatic Tachycardia Syndrome</h2>
 <p>Postural Orthostatic Tachycardia Syndrome (POTS) requires individualized care due to its varied symptoms and triggers. 

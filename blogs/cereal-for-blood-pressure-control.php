@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cereal for Blood Pressure Control: A Heart Healthy Choice&quot;" />
     <meta property="og:description" content="Discover how cereal can help manage blood pressure and support heart health. Learn about low sodium, potassium-rich options for a healthier breakfast." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-blood-pressure-control" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-blood-pressure-control" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-blood-pressure-control" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cereal-for-blood-pressure-control" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cereal For Blood Pressure Control",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cereal-for-blood-pressure-control"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cereal-for-blood-pressure-control"
         }
     ]
 }
@@ -129,9 +129,9 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Heart Healthy Cereal for Blood Pressure Control</h1>
-<p>Are you looking for a simple yet effective way to manage your blood pressure through your diet? Have you considered the impact of your breakfast choices on your heart health and overall well-being? Daily activities can be significantly affected by <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a>, but making the right food choices, such as opting for heart-healthy cereals, can make a substantial difference. Let's explore how incorporating the right cereals into your morning routine can help you take control of your blood pressure.</p>
+<p>Are you looking for a simple yet effective way to manage your blood pressure through your diet? Have you considered the impact of your breakfast choices on your heart health and overall well-being? Daily activities can be significantly affected by <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a>, but making the right food choices, such as opting for heart-healthy cereals, can make a substantial difference. Let's explore how incorporating the right cereals into your morning routine can help you take control of your blood pressure.</p>
 <h2 class="sec-scrl" id="low-sodium-cereal">Low Sodium Cereal: A Key Component for Blood Pressure Management</h2>
-<p>One of the essential factors in choosing a cereal for blood pressure control is its sodium content. High sodium intake is linked to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a>, as it can lead to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. When selecting a cereal, opt for varieties that are labeled as low sodium or sodium-free. These options can help you reduce your overall sodium intake, supporting your efforts in managing your blood pressure effectively.</p>
+<p>One of the essential factors in choosing a cereal for blood pressure control is its sodium content. High sodium intake is linked to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a>, as it can lead to <a href="https://contenidos.segundaopinionmedica.org/symptoms/fluid-retention">fluid retention</a> and increased blood pressure. When selecting a cereal, opt for varieties that are labeled as low sodium or sodium-free. These options can help you reduce your overall sodium intake, supporting your efforts in managing your blood pressure effectively.</p>
 <p>In addition to checking the nutrition label for sodium content, you can also look for cereals that are specifically marketed as low sodium. These cereals are formulated to be heart-friendly and can be a valuable addition to your hypertension diet. By choosing low sodium cereal, you are taking a proactive step towards better blood pressure management and improved cardiovascular health.</p>
 <h2 class="sec-scrl" id="potassium-rich-foods">Potassium Rich Foods: Enhancing Heart Health with Cereal</h2>
 <p>Another crucial aspect of using cereal for blood pressure control is its potassium content. Potassium is known for its role in regulating blood pressure and promoting cardiovascular protection. By selecting cereals that are rich in potassium, you can support your heart health and contribute to maintaining healthy blood pressure levels.</p>

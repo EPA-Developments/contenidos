@@ -10,12 +10,12 @@
     <meta property="og:title" content="Olives vs Heart Foods: A Comparison" />
     <meta property="og:description" content="Explore the benefits of olives compared to other heart healthy foods. Discover which option is best for your heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/olives-vs-other-heart-foods" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/olives-vs-other-heart-foods" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/olives-vs-other-heart-foods" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/olives-vs-other-heart-foods" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Olives Vs Other Heart Foods",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/olives-vs-other-heart-foods"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/olives-vs-other-heart-foods"
         }
     ]
 }

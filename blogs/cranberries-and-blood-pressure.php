@@ -10,12 +10,12 @@
     <meta property="og:title" content="'Cranberries for Blood Pressure: Health Benefits'" />
     <meta property="og:description" content="Learn how cranberries impact blood pressure control for better heart health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-blood-pressure" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-blood-pressure" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-blood-pressure" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-blood-pressure" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cranberries And Blood Pressure",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cranberries-and-blood-pressure"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cranberries-and-blood-pressure"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>The Power of Cranberries for Blood Pressure Control</h1>
-<p>Are you struggling to manage your blood pressure effectively? Have you considered the potential benefits of incorporating cranberries into your diet? Daily activities can be challenging when <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> is a constant concern. Let's explore how cranberries may offer a natural solution to support your blood pressure goals.</p>
+<p>Are you struggling to manage your blood pressure effectively? Have you considered the potential benefits of incorporating cranberries into your diet? Daily activities can be challenging when <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> is a constant concern. Let's explore how cranberries may offer a natural solution to support your blood pressure goals.</p>
 <h2 class="sec-scrl" id="blood-flow">How Cranberries Support Healthy Blood Flow</h2>
 <p>Cranberries are rich in antioxidants, particularly flavonoids, which are known for their ability to promote blood flow and vascular health. These compounds help to relax blood vessels, facilitating improved cardiovascular function and overall blood circulation.</p>
 <p>In addition, the high levels of vitamin C in cranberries can further enhance blood flow by supporting the health of the endothelium, the inner lining of blood vessels. This dual action of antioxidants and vitamin C in cranberries contributes to better blood flow and optimal cardiovascular function.</p>
@@ -137,7 +137,7 @@
 <p>One key aspect of blood pressure control is maintaining a proper balance of electrolytes, especially potassium. Cranberries are a good source of potassium, a mineral that plays a crucial role in regulating blood pressure levels.</p>
 <p>By including potassium-rich foods like cranberries in your diet, you can help offset the effects of sodium, a known contributor to hypertension. Potassium works by counteracting the harmful effects of sodium, promoting better fluid balance in the body, and supporting healthy blood pressure.</p>
 <h2 class="sec-scrl" id="sodium-reduction">Cranberries and Sodium Reduction for Heart Health</h2>
-<p>Excessive sodium intake is linked to <a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> and increased risk of heart disease. Cranberries offer a flavorful way to enhance the taste of meals without the need for added salt, making them an excellent choice for those looking to reduce their sodium intake.</p>
+<p>Excessive sodium intake is linked to <a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> and increased risk of heart disease. Cranberries offer a flavorful way to enhance the taste of meals without the need for added salt, making them an excellent choice for those looking to reduce their sodium intake.</p>
 <p>Furthermore, the natural tartness of cranberries can help mask the desire for salty foods, potentially reducing overall sodium consumption. By including cranberries in your diet, you can support your heart health by minimizing sodium intake and promoting healthy blood pressure levels.</p>
 <h2 class="sec-scrl" id="heart-health">Cranberries for Overall Heart Health</h2>
 <p>Aside from their impact on blood pressure control, cranberries offer additional benefits for heart health. These berries are packed with heart-healthy nutrients like fiber, vitamin C, and antioxidants, all of which play a role in reducing the risk of cardiovascular diseases.</p>

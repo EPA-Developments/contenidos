@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Coronary Artery Aneurysm: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Coronary Artery Aneurysm weakens artery walls, leading to bulging. Read more about its symptoms, causes, and treatment for improved heart function." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-aneurysm">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-aneurysm">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-aneurysm" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-aneurysm" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Coronary Artery Aneurysm",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/coronary-artery-aneurysm"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/coronary-artery-aneurysm"
       }]
     }
   </script>
@@ -166,7 +166,7 @@
 <p>Coronary artery aneurysms can develop due to various factors. These include:
 
 <ul>
-<li>Underlying conditions like <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a></li>
+<li>Underlying conditions like <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a></li>
 <li>Autoimmune diseases such as Kawasaki disease</li>
 <li>Genetic factors</li>
 <li>Infections like syphilis</li>
@@ -176,12 +176,12 @@
 <p>Recognizing the symptoms of Coronary artery aneurysm is crucial as early detection can significantly improve outcomes. Symptoms may vary and can include:
 
 <ul>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or discomfort</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or discomfort</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Fatigue</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/dizziness">dizziness</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/lightheadedness">lightheadedness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/dizziness">dizziness</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/lightheadedness">lightheadedness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 </ul> 
 
 If you experience any of these symptoms, especially if they are persistent or severe, seeking medical attention promptly is essential for proper evaluation and timely intervention. Early detection and management play a vital role in improving the prognosis for individuals with Coronary artery aneurysm.</p>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially if they are persistent or se
 
 <ul>
 <li>Medical history review and physical examination</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to assess heart's electrical activity</li>
 <li>Echocardiogram to visualize heart structure and function</li>
 <li>Coronary angiography to identify aneurysm location and size</li>
 <li>Cardiac MRI or CT scans for detailed imaging</li>

@@ -12,12 +12,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Gasping for Air: Causes, Diagnosis, Treatment, and Symptoms" >
   <meta property="og:description" content="Gasping for air during physical activity might indicate heart problems. Read more about its causes, symptoms, and treatments for better heart health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -26,17 +26,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Symptoms",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Gasping For Air",
-        "item": "https://plataforma.epa-bienestar.com.ar/symptoms/gasping-for-air"  
+        "item": "https://contenidos.segundaopinionmedica.org/symptoms/gasping-for-air"  
       }]
     }
   </script>
@@ -186,20 +186,20 @@
         <div class="col-lg-8 col-md-12">
           <div class="blog-details-desc">
             <div class="article-content"><h1>Gasping for Air: Symptoms, Diagnosis, Treatment, and Causes</h1>
-<p>Gasping for air, also known as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/dyspnea">dyspnea</a>, is a distressing symptom characterized by the sensation of not being able to breathe properly. It can manifest as <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a>, breathing struggles, or labored respiration.</p>
-<p>Individuals experiencing gasping for air may feel <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pressure">chest pressure</a> or breathing distress, making it challenging to inhale an adequate amount of oxygen.</p>
+<p>Gasping for air, also known as <a href="https://contenidos.segundaopinionmedica.org/symptoms/dyspnea">dyspnea</a>, is a distressing symptom characterized by the sensation of not being able to breathe properly. It can manifest as <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a>, breathing struggles, or labored respiration.</p>
+<p>Individuals experiencing gasping for air may feel <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pressure">chest pressure</a> or breathing distress, making it challenging to inhale an adequate amount of oxygen.</p>
 <h2 id="forms">What are the Forms of Gasping for air?</h2>
 <p>Gasping for air can present in various forms, each with specific symptoms and related concepts:</p>
 <ul>
 <li>Acute dyspnea: Sudden onset of severe difficulty breathing, often associated with a medical emergency.</li>
 <li>Chronic dyspnea: Persistent or recurrent shortness of breath over an extended period, commonly seen in conditions like chronic obstructive pulmonary disease (COPD).</li>
-<li>Exertional dyspnea: <a href="https://plataforma.epa-bienestar.com.ar/symptoms/breathlessness">breathlessness</a> experienced during physical exertion, such as exercise or strenuous activities.</li>
+<li>Exertional dyspnea: <a href="https://contenidos.segundaopinionmedica.org/symptoms/breathlessness">breathlessness</a> experienced during physical exertion, such as exercise or strenuous activities.</li>
 <li>Nocturnal dyspnea: Gasping for air during sleep, leading to awakenings due to breathing difficulties.</li>
 </ul>
 <h2 id="causes">What are the Causes of Gasping for air?</h2>
 <p>Gasping for air can be caused by various underlying conditions, including:</p>
 <ul>
-<li>Respiratory disorders: Asthma, COPD, pneumonia, pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</li>
+<li>Respiratory disorders: Asthma, COPD, pneumonia, pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</li>
 <li>Cardiac issues: Heart failure, coronary artery disease, arrhythmias.</li>
 <li>Anxiety and panic attacks: Psychological factors can trigger breathing difficulties.</li>
 <li>Obesity: Excess weight can put pressure on the lungs and lead to dyspnea.</li>
@@ -213,7 +213,7 @@
 <li>Imaging tests: Chest X-ray, CT scan, or MRI to assess lung and heart function.</li>
 <li>Pulmonary function tests: Assessing lung capacity and airflow.</li>
 <li>Blood tests: Checking for anemia, infection, or other abnormalities.</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG): Monitoring heart activity for signs of cardiac issues.</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG): Monitoring heart activity for signs of cardiac issues.</li>
 </ul>
 <h2 id="treatment">What is the Treatment for Gasping for air?</h2>
 <p>Treatment for gasping for air depends on the underlying cause and may include:</p>
@@ -222,7 +222,7 @@
 <li>Oxygen therapy: Supplemental oxygen for improved breathing.</li>
 <li>Pulmonary rehabilitation: Exercise programs to enhance lung function.</li>
 <li>Lifestyle changes: Quitting smoking, maintaining a healthy weight, managing stress.</li>
-<li>Surgical interventions: Procedures like <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> or bypass surgery for cardiac issues.</li>
+<li>Surgical interventions: Procedures like <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> or bypass surgery for cardiac issues.</li>
 </ul>
 <h2>When to Visit a Doctor?</h2>
 <p>It is essential to seek medical attention if you experience:</p>

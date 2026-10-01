@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Aortic Valve Insufficiency: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Aortic valve insufficiency occurs when the valve doesn’t close fully. Know more about its causes, symptoms, and treatments for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-insufficiency">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-insufficiency">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-insufficiency" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-insufficiency" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Aortic Valve Insufficiency",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/aortic-valve-insufficiency"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/aortic-valve-insufficiency"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes and Treatment of Aortic Valve Insufficiency</h1>
-<p>Aortic valve insufficiency, also known as <a href="https://plataforma.epa-bienestar.com.ar/diseases/aortic-regurgitation">aortic regurgitation</a>, occurs when the heart's aortic valve doesn't close properly, causing blood to leak back into the heart. This condition can lead to symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>. It's essential to address aortic valve insufficiency promptly as it can strain the heart over time, potentially leading to heart failure. This condition affects around 1-2% of the population and becomes more prevalent with age. Seeking medical advice early can help manage symptoms and prevent complications.</p>
+<p>Aortic valve insufficiency, also known as <a href="https://contenidos.segundaopinionmedica.org/diseases/aortic-regurgitation">aortic regurgitation</a>, occurs when the heart's aortic valve doesn't close properly, causing blood to leak back into the heart. This condition can lead to symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a>, fatigue, and <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>. It's essential to address aortic valve insufficiency promptly as it can strain the heart over time, potentially leading to heart failure. This condition affects around 1-2% of the population and becomes more prevalent with age. Seeking medical advice early can help manage symptoms and prevent complications.</p>
 <h2 id="causes">Causes of Aortic Valve Insufficiency</h2>
 <p><h3>Main Factors Contributing to Aortic Valve Insufficiency:</h3>
 <ul>
 <li>Age-related wear and tear on the valve</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/high-blood-pressure">high blood pressure</a> over time</li>
-<li>History of <a href="https://plataforma.epa-bienestar.com.ar/diseases/rheumatic-fever">rheumatic fever</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/high-blood-pressure">high blood pressure</a> over time</li>
+<li>History of <a href="https://contenidos.segundaopinionmedica.org/diseases/rheumatic-fever">rheumatic fever</a></li>
 <li>Congenital heart defects</li>
 </ul></p>
 <h2 id="symptoms">Symptoms of Aortic Valve Insufficiency</h2>
@@ -176,8 +176,8 @@
 <ul>
 <li>Chest pain or tightness</li>
 <li>Shortness of breath, especially with exertion</li>
-<li>Fatigue or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/weakness">weakness</a></li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
+<li>Fatigue or <a href="https://contenidos.segundaopinionmedica.org/symptoms/weakness">weakness</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/heart-palpitations">heart palpitations</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/irregular-heartbeat">irregular heartbeat</a></li>
 <li>Dizziness or fainting</li>
 </ul> 
 

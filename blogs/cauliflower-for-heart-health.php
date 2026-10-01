@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cauliflower: Heart Health Boost&quot;" />
     <meta property="og:description" content="Discover the heart-healthy perks of cauliflower for a healthier you. Uncover how this nutrient-packed veggie can boost your cardiovascular health." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cauliflower For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cauliflower-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cauliflower-for-heart-health"
         }
     ]
 }
@@ -135,7 +135,7 @@
 <p>Here are some ways Cauliflower contributes to heart disease prevention:</p>
 <ul>
 <li>Antioxidants in Cauliflower protect the heart from damage caused by free radicals.</li>
-<li>Fiber in Cauliflower helps in reducing <a href="https://plataforma.epa-bienestar.com.ar/diseases/high-cholesterol">high cholesterol</a> levels, a major risk factor for heart disease.</li>
+<li>Fiber in Cauliflower helps in reducing <a href="https://contenidos.segundaopinionmedica.org/diseases/high-cholesterol">high cholesterol</a> levels, a major risk factor for heart disease.</li>
 <li>Phytonutrients present in Cauliflower support overall heart health and function.</li>
 </ul>
 <h2 class="sec-scrl" id="cauliflower-nutrients">Cauliflower Nutrients</h2>

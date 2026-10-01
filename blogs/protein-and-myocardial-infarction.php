@@ -10,12 +10,12 @@
     <meta property="og:title" content="Protein Benefits for Heart Attack Recovery" />
     <meta property="og:description" content="Discover how protein aids in heart recovery post-heart attack. Learn about its role in muscle repair and cardiac rehabilitation for survivors." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-myocardial-infarction" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/protein-and-myocardial-infarction" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/protein-and-myocardial-infarction" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/protein-and-myocardial-infarction" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Protein And Myocardial Infarction",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/protein-and-myocardial-infarction"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/protein-and-myocardial-infarction"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>How Does Protein Support Heart Health After a Heart Attack?</h1>
-<p>Are you wondering how protein can aid in your recovery from a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a>? The journey to rebuilding your health after a <a href="https://plataforma.epa-bienestar.com.ar/diseases/myocardial-infarction">myocardial infarction</a> can be daunting. Simple tasks that were once effortless may now feel challenging. Finding the right nutrition to support your heart as it heals is crucial for your well-being and quality of life.</p>
+<p>Are you wondering how protein can aid in your recovery from a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a>? The journey to rebuilding your health after a <a href="https://contenidos.segundaopinionmedica.org/diseases/myocardial-infarction">myocardial infarction</a> can be daunting. Simple tasks that were once effortless may now feel challenging. Finding the right nutrition to support your heart as it heals is crucial for your well-being and quality of life.</p>
 <h2 class="sec-scrl" id="heart-attack-recovery">Heart Attack Recovery</h2>
 <p>After experiencing a heart attack, your body needs time to recover and repair the damage caused to the cardiac muscle. Protein plays a vital role in this recovery process, supporting the regeneration of healthy tissue and aiding in the restoration of heart function.</p>
 <p>Key Points:

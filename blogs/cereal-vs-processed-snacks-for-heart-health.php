@@ -10,12 +10,12 @@
     <meta property="og:title" content="&quot;Cereal vs. Processed Snacks for Heart Health Guide&quot;" />
     <meta property="og:description" content="Discover the best choice for heart health: Cereal vs. processed snacks comparison. Learn which is better for your cardiovascular wellness." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/cereal-vs-processed-snacks-for-heart-health" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/cereal-vs-processed-snacks-for-heart-health" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/cereal-vs-processed-snacks-for-heart-health" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/cereal-vs-processed-snacks-for-heart-health" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Cereal Vs Processed Snacks For Heart Health",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/cereal-vs-processed-snacks-for-heart-health"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/cereal-vs-processed-snacks-for-heart-health"
         }
     ]
 }
@@ -147,7 +147,7 @@
 </ul>
 <p>Incorporating whole grains into your snack choices can help lower cholesterol levels and reduce the risk of heart disease over time.</p>
 <h2 class="sec-scrl" id="low-sodium-options">Low Sodium Options</h2>
-<p>High sodium intake is linked to <a href="https://plataforma.epa-bienestar.com.ar/diseases/hypertension">hypertension</a> and heart disease. Processed foods are often loaded with excess sodium, making them detrimental to heart health. Opting for low sodium snack alternatives is crucial for maintaining a heart-healthy diet. Consider these low sodium options:</p>
+<p>High sodium intake is linked to <a href="https://contenidos.segundaopinionmedica.org/diseases/hypertension">hypertension</a> and heart disease. Processed foods are often loaded with excess sodium, making them detrimental to heart health. Opting for low sodium snack alternatives is crucial for maintaining a heart-healthy diet. Consider these low sodium options:</p>
 <ul>
 <li>Plain Greek yogurt with fresh fruit instead of flavored yogurt</li>
 <li>Rice cakes with almond butter as a satisfying and low sodium snack</li>

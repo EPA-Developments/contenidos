@@ -11,12 +11,12 @@
 <meta content="website" property="og:type"/>
 <meta content="Normal Range and Values of Pulmonary Artery Catheterization" property="og:title"/>
 <meta content="Pulmonary artery catheterization measures heart and lung pressure. Know more about its purpose, costs, and normal Range for critical care." property="og:description"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-artery-catheterization" property="og:url"/>
-<meta content="https://plataforma.epa-bienestar.com.ar/images/logo.svg" property="og:image"/>
+<meta content="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-artery-catheterization" property="og:url"/>
+<meta content="https://contenidos.segundaopinionmedica.org/images/logo.svg" property="og:image"/>
 <meta content="219" property="og:image:width">
 <meta content="50" property="og:image:height">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<link href="https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-artery-catheterization" rel="canonical"/>
+<link href="https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-artery-catheterization" rel="canonical"/>
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Tests and Screenings",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Pulmonary Artery Catheterization",
-        "item": "https://plataforma.epa-bienestar.com.ar/tests-screenings/pulmonary-artery-catheterization"  
+        "item": "https://contenidos.segundaopinionmedica.org/tests-screenings/pulmonary-artery-catheterization"  
       }]
     }
   </script>
@@ -176,10 +176,10 @@
 <div class="blog-details-desc">
 <div class="article-content">
 <h1>Normal Range and Costs of Pulmonary Artery Catheterization</h1>
-<p><a href="https://plataforma.epa-bienestar.com.ar/procedures/pulmonary-artery-catheterization">pulmonary artery catheterization</a>, also known as right heart catheterization, is a diagnostic procedure used to assess the hemodynamic status of a patient's heart.</p>
+<p><a href="https://contenidos.segundaopinionmedica.org/procedures/pulmonary-artery-catheterization">pulmonary artery catheterization</a>, also known as right heart catheterization, is a diagnostic procedure used to assess the hemodynamic status of a patient's heart.</p>
 <p>During this procedure, a thin, flexible tube called a catheter is inserted into a large vein, typically in the neck or groin, and advanced into the pulmonary artery.</p>
 <p>This allows healthcare providers to measure various pressures within the heart and lungs, such as pulmonary artery pressure, central venous pressure, and cardiac output.</p>
-<p>The role of pulmonary artery catheterization in assessing heart function is crucial for patients with heart failure, <a href="https://plataforma.epa-bienestar.com.ar/diseases/pulmonary-hypertension">pulmonary hypertension</a>, or other cardiac conditions. By obtaining accurate hemodynamic measurements, healthcare providers can tailor treatment plans to each patient's specific needs.</p>
+<p>The role of pulmonary artery catheterization in assessing heart function is crucial for patients with heart failure, <a href="https://contenidos.segundaopinionmedica.org/diseases/pulmonary-hypertension">pulmonary hypertension</a>, or other cardiac conditions. By obtaining accurate hemodynamic measurements, healthcare providers can tailor treatment plans to each patient's specific needs.</p>
 <p>Pulmonary artery catheterization is commonly used in the ICU for critically ill patients who require close monitoring of their cardiac function.</p>
 <p>This procedure provides valuable information about a patient's fluid status, cardiac output, and response to medications, allowing healthcare providers to make real-time adjustments to their treatment plan.</p>
 <p>In evaluating pulmonary hypertension, pulmonary artery catheterization plays a key role in determining the severity of the condition and guiding treatment decisions.</p>
@@ -213,14 +213,14 @@
 <p>By monitoring these values during a pulmonary artery catheterization test, healthcare providers can assess a patient's hemodynamic status, evaluate the function of the heart and lungs, and make informed decisions about treatment options.</p>
 <p>It is essential to interpret these values in the context of each patient's clinical condition and overall health.</p>
 <h2>What Do High Pulmonary Artery Catheterization Levels Indicate?</h2>
-<p>High pulmonary artery catheterization levels can indicate various underlying conditions or complications that may require further evaluation and treatment. Causes of high pulmonary artery pressure may include pulmonary hypertension, heart failure, or pulmonary <a href="https://plataforma.epa-bienestar.com.ar/diseases/embolism">embolism</a>.</p>
-<p>Risks associated with high pulmonary artery pressure include <a href="https://plataforma.epa-bienestar.com.ar/diseases/right-heart-failure">right heart failure</a>, arrhythmias, and worsening respiratory function.</p>
+<p>High pulmonary artery catheterization levels can indicate various underlying conditions or complications that may require further evaluation and treatment. Causes of high pulmonary artery pressure may include pulmonary hypertension, heart failure, or pulmonary <a href="https://contenidos.segundaopinionmedica.org/diseases/embolism">embolism</a>.</p>
+<p>Risks associated with high pulmonary artery pressure include <a href="https://contenidos.segundaopinionmedica.org/diseases/right-heart-failure">right heart failure</a>, arrhythmias, and worsening respiratory function.</p>
 <p>When pulmonary artery catheterization levels are elevated, healthcare providers may need to investigate the underlying cause and implement appropriate interventions to stabilize the patient's condition.</p>
 <p>For example, in patients with heart failure, medications to reduce fluid overload and improve cardiac function may be necessary. In cases of pulmonary hypertension, targeted therapies aimed at lowering pulmonary artery pressure may be indicated.</p>
 <p>High pulmonary artery catheterization levels can have serious implications for a patient's health and require prompt evaluation and management.</p>
 <p>By monitoring these levels closely and addressing any underlying issues, healthcare providers can help optimize patient outcomes and improve quality of life.</p>
 <h2>What Do Low Pulmonary Artery Catheterization Levels Indicate?</h2>
-<p>Low pulmonary artery catheterization levels may indicate conditions such as hypovolemia, sepsis, or <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiogenic-shock">cardiogenic shock</a>, where the heart is unable to pump an adequate amount of blood to meet the body's needs.</p>
+<p>Low pulmonary artery catheterization levels may indicate conditions such as hypovolemia, sepsis, or <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiogenic-shock">cardiogenic shock</a>, where the heart is unable to pump an adequate amount of blood to meet the body's needs.</p>
 <p>In these cases, healthcare providers may need to intervene quickly to stabilize the patient's condition and prevent further complications.</p>
 <p>Associated conditions with low pulmonary artery catheterization levels may include decreased cardiac output, organ dysfunction, and poor tissue perfusion.</p>
 <p>It is essential for healthcare providers to identify the underlying cause of low pulmonary artery pressure and implement appropriate interventions to improve hemodynamic status and support vital organ function.</p>

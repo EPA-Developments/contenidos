@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Types of Heart Surgery: Procedures and Techniques">
   <meta property="og:description" content="Learn about the different types of heart surgery, from bypass surgery to valve replacement, and how these procedures are performed.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/types-of-heart-surgery-procedures-and-techniques">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/types-of-heart-surgery-procedures-and-techniques">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/types-of-heart-surgery-procedures-and-techniques" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/types-of-heart-surgery-procedures-and-techniques" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Types Of Heart Surgery: Procedures And Techniques",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/types-of-heart-surgery-procedures-and-techniques"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/types-of-heart-surgery-procedures-and-techniques"  
       }]
     }
   </script>

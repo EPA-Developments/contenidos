@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Spontaneous Coronary Artery Dissection: Causes and Treatment" >
   <meta property="og:description" content="Spontaneous coronary artery dissection affects blood flow to the heart. Know more about causes, symptoms, and treatment for improved health." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/spontaneous-coronary-artery-dissection">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/spontaneous-coronary-artery-dissection">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/spontaneous-coronary-artery-dissection" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/spontaneous-coronary-artery-dissection" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Spontaneous Coronary Artery Dissection",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/spontaneous-coronary-artery-dissection"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/spontaneous-coronary-artery-dissection"
       }]
     }
   </script>
@@ -161,13 +161,13 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Symptoms of Spontaneous Coronary Artery Dissection</h1>
-<p>Spontaneous Coronary Artery Dissection (SCAD) is a rare condition where a tear forms in the blood vessel walls of the heart. This can block blood flow to the heart muscle, leading to a <a href="https://plataforma.epa-bienestar.com.ar/diseases/heart-attack">heart attack</a> or sudden <a href="https://plataforma.epa-bienestar.com.ar/diseases/cardiac-arrest">cardiac arrest</a>. SCAD is significant as it often affects young, healthy individuals, particularly women. While exact prevalence is unknown, SCAD accounts for 1-4% of heart attacks in people under 50. If you experience symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a>, seek immediate medical attention to rule out SCAD.</p>
+<p>Spontaneous Coronary Artery Dissection (SCAD) is a rare condition where a tear forms in the blood vessel walls of the heart. This can block blood flow to the heart muscle, leading to a <a href="https://contenidos.segundaopinionmedica.org/diseases/heart-attack">heart attack</a> or sudden <a href="https://contenidos.segundaopinionmedica.org/diseases/cardiac-arrest">cardiac arrest</a>. SCAD is significant as it often affects young, healthy individuals, particularly women. While exact prevalence is unknown, SCAD accounts for 1-4% of heart attacks in people under 50. If you experience symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a>, seek immediate medical attention to rule out SCAD.</p>
 <h2 id="causes">Causes of Spontaneous Coronary Artery Dissection</h2>
 <p>Spontaneous Coronary Artery Dissection (SCAD) can occur due to various factors. Here are some main contributors to its development:
 
 <ul>
 <li>Hormonal changes, especially in women</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/diseases/fibromuscular-dysplasia">fibromuscular dysplasia</a> affecting the arteries</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/diseases/fibromuscular-dysplasia">fibromuscular dysplasia</a> affecting the arteries</li>
 <li>Genetic predisposition or connective tissue disorders</li>
 <li>Extreme physical exertion or intense emotional stress</li>
 <li>Recent childbirth or peripartum period</li>
@@ -178,7 +178,7 @@
 <ul>
 <li>Chest pain or discomfort</li>
 <li>Shortness of breath</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/palpitations">palpitations</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/palpitations">palpitations</a></li>
 <li>Excessive sweating</li>
 <li>Extreme fatigue</li>
 </ul>
@@ -190,7 +190,7 @@ If you experience any of these symptoms, especially chest pain or shortness of b
 <ul>
 <li>Medical history review to assess risk factors and symptoms</li>
 <li>Physical examination to check for signs of heart issues</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity</li>
+<li><a href="https://contenidos.segundaopinionmedica.org/procedures/electrocardiogram">electrocardiogram</a> (ECG) to evaluate heart's electrical activity</li>
 <li>Coronary angiography to visualize the arteries and identify dissections</li>
 <li>Intravascular ultrasound (IVUS) or optical coherence tomography (OCT) for detailed imaging</li>
 </ul></p>
@@ -206,7 +206,7 @@ If you experience any of these symptoms, especially chest pain or shortness of b
 </ul>
 <h3>Interventional Procedures</h3>
 <ul>
-<li>Interventional procedures include <a href="https://plataforma.epa-bienestar.com.ar/procedures/angioplasty">angioplasty</a> with or without stent placement.</li>
+<li>Interventional procedures include <a href="https://contenidos.segundaopinionmedica.org/procedures/angioplasty">angioplasty</a> with or without stent placement.</li>
 <li>These procedures aim to restore blood flow in the affected artery and alleviate symptoms.</li>
 <li>The primary objective is to quickly reopen the artery and prevent heart muscle damage.</li>
 <li>Patients may need close monitoring post-procedure to watch for complications.</li>

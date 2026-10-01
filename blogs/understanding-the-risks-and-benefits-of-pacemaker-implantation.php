@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Understanding the Risks and Benefits of Pacemaker Implantation">
   <meta property="og:description" content="Learn about the risks and benefits of pacemaker implantation, a common procedure for heart rhythm disorders. Find out everything you need to know.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/risks-and-benefits-of-pacemaker-implantation">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/risks-and-benefits-of-pacemaker-implantation">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/risks-and-benefits-of-pacemaker-implantation" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/risks-and-benefits-of-pacemaker-implantation" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "Understanding The Risks And Benefits Of Pacemaker Implantation",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/understanding-the-risks-and-benefits-of-pacemaker-implantation"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/understanding-the-risks-and-benefits-of-pacemaker-implantation"  
       }]
     }
   </script>

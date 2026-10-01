@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Thymic Cyst: Causes, Symptoms and Treatment">
   <meta property="og:description" content="Thymic Cysts are non-cancerous growths in the chest. Know more about their causes, symptoms, and treatment for better heart health care." >
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/diseases/thymic-cyst">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/diseases/thymic-cyst">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/diseases/thymic-cyst" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/diseases/thymic-cyst" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -25,17 +25,17 @@
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"
+        "item": "https://contenidos.segundaopinionmedica.org/"
       },{
         "@type": "ListItem",
         "position": 2,
         "name": "Diseases",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/"
       },{
         "@type": "ListItem",
         "position": 3,
         "name": "Thymic Cyst",
-        "item": "https://plataforma.epa-bienestar.com.ar/diseases/thymic-cyst"
+        "item": "https://contenidos.segundaopinionmedica.org/diseases/thymic-cyst"
       }]
     }
   </script>
@@ -161,7 +161,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
 <h1>Causes, Symptoms and Treatment of Thymic Cyst</h1>
-<p>A thymic cyst is a fluid-filled sac that forms in the thymus gland in the chest. Although usually benign, it can cause symptoms like <a href="https://plataforma.epa-bienestar.com.ar/symptoms/chest-pain">chest pain</a> or <a href="https://plataforma.epa-bienestar.com.ar/symptoms/difficulty-breathing">difficulty breathing</a> if it grows large. Thymic cysts are rare but can be found in people of any age. They are typically discovered incidentally during imaging tests for other conditions. It's important to monitor them closely as they can sometimes become infected or cause complications. If you have any concerns, consult a healthcare provider for proper evaluation and management.</p>
+<p>A thymic cyst is a fluid-filled sac that forms in the thymus gland in the chest. Although usually benign, it can cause symptoms like <a href="https://contenidos.segundaopinionmedica.org/symptoms/chest-pain">chest pain</a> or <a href="https://contenidos.segundaopinionmedica.org/symptoms/difficulty-breathing">difficulty breathing</a> if it grows large. Thymic cysts are rare but can be found in people of any age. They are typically discovered incidentally during imaging tests for other conditions. It's important to monitor them closely as they can sometimes become infected or cause complications. If you have any concerns, consult a healthcare provider for proper evaluation and management.</p>
 <h2 id="causes">Causes of Thymic Cyst</h2>
 <p>Thymic cysts develop due to various factors. Here are the main contributors:
 
@@ -179,7 +179,7 @@
 <li>Chest pain or discomfort</li>
 <li>Difficulty breathing</li>
 <li>Coughing</li>
-<li><a href="https://plataforma.epa-bienestar.com.ar/symptoms/shortness-of-breath">shortness of breath</a></li>
+<li><a href="https://contenidos.segundaopinionmedica.org/symptoms/shortness-of-breath">shortness of breath</a></li>
 <li>Difficulty swallowing</li>
 <li>Hoarseness</li>
 </ul>

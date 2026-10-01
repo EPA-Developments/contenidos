@@ -10,12 +10,12 @@
     <meta property="og:title" content="Tomatoes for Atherosclerosis Prevention: A Deep Dive" />
     <meta property="og:description" content="Discover how tomatoes can help prevent atherosclerosis & promote heart health. Learn more about the benefits of tomatoes today!" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-atherosclerosis" />
-    <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+    <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-atherosclerosis" />
+    <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
     <meta property="og:image:width" content="219" />
     <meta property="og:image:height" content="50" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-atherosclerosis" />
+    <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-atherosclerosis" />
     <script type="application/ld+json">
       {
     "@context": "https://schema.org",
@@ -25,19 +25,19 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://plataforma.epa-bienestar.com.ar/"
+            "item": "https://contenidos.segundaopinionmedica.org/"
         },
         {
             "@type": "ListItem",
             "position": 2,
             "name": "Blogs",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/"
         },
         {
             "@type": "ListItem",
             "position": 3,
             "name": "Tomatoes And Atherosclerosis",
-            "item": "https://plataforma.epa-bienestar.com.ar/blogs/tomatoes-and-atherosclerosis"
+            "item": "https://contenidos.segundaopinionmedica.org/blogs/tomatoes-and-atherosclerosis"
         }
     ]
 }
@@ -129,7 +129,7 @@
           <div class="blog-details-desc">
             <div class="article-content">
               <h1>Tomatoes for Atherosclerosis Prevention</h1>
-<p>Are you concerned about your heart's health? Wondering how to keep your arteries clear and prevent <a href="https://plataforma.epa-bienestar.com.ar/diseases/atherosclerosis">atherosclerosis</a>? Let's talk about the powerful impact tomatoes can have on your cardiovascular system and overall well-being.</p>
+<p>Are you concerned about your heart's health? Wondering how to keep your arteries clear and prevent <a href="https://contenidos.segundaopinionmedica.org/diseases/atherosclerosis">atherosclerosis</a>? Let's talk about the powerful impact tomatoes can have on your cardiovascular system and overall well-being.</p>
 <h2 class="sec-scrl" id="Artery Health">How Tomatoes Support Artery Health</h2>
 <p>Tomatoes are packed with nutrients that promote optimal cardiovascular function. Here's how they contribute to the health of your arteries:</p>
 <ul>
@@ -149,7 +149,7 @@
 <ul>
 <li>Reducing LDL cholesterol levels, which are a major contributor to heart disease, thanks to the fiber and antioxidants in tomatoes.</li>
 <li>Improving overall heart health by supporting healthy blood flow and circulation, crucial for preventing heart conditions.</li>
-<li>Protecting against <a href="https://plataforma.epa-bienestar.com.ar/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a precursor to heart disease, through the beneficial compounds in tomatoes.</li>
+<li>Protecting against <a href="https://contenidos.segundaopinionmedica.org/diseases/endothelial-dysfunction">endothelial dysfunction</a>, a precursor to heart disease, through the beneficial compounds in tomatoes.</li>
 </ul>
 <h2 class="sec-scrl" id="Nutrient Rich Foods">Tomatoes: Nutrient-Rich Foods for Your Heart</h2>
 <p>When it comes to nourishing your heart, tomatoes are a top choice due to their nutrient profile:</p>

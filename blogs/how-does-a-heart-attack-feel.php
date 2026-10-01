@@ -11,12 +11,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="How Does a Heart Attack Feel Like: Insights and Experiences">
   <meta property="og:description" content="Curious about how does a heart attack feel like? Gain insights and real experiences in our informative guide on recognizing heart attack symptoms.">
-  <meta property="og:url" content="https://plataforma.epa-bienestar.com.ar/blogs/how-does-a-heart-attack-feel">
-  <meta property="og:image" content="https://plataforma.epa-bienestar.com.ar/images/logo.svg">
+  <meta property="og:url" content="https://contenidos.segundaopinionmedica.org/blogs/how-does-a-heart-attack-feel">
+  <meta property="og:image" content="https://contenidos.segundaopinionmedica.org/images/logo.svg">
   <meta property="og:image:width" content="219" />
   <meta property="og:image:height" content="50" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="https://plataforma.epa-bienestar.com.ar/blogs/how-does-a-heart-attack-feel" />
+  <link rel="canonical" href="https://contenidos.segundaopinionmedica.org/blogs/how-does-a-heart-attack-feel" />
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/", 
@@ -25,17 +25,17 @@
         "@type": "ListItem", 
         "position": 1, 
         "name": "Home",
-        "item": "https://plataforma.epa-bienestar.com.ar/"  
+        "item": "https://contenidos.segundaopinionmedica.org/"  
       },{
         "@type": "ListItem", 
         "position": 2, 
         "name": "Blog",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/"  
       },{
         "@type": "ListItem", 
         "position": 3, 
         "name": "How Does A Heart Attack Feel Like: Insights And Experiences",
-        "item": "https://plataforma.epa-bienestar.com.ar/blogs/how-does-a-heart-attack-fee"  
+        "item": "https://contenidos.segundaopinionmedica.org/blogs/how-does-a-heart-attack-fee"  
       }]
     }
   </script>
